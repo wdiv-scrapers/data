@@ -1,0 +1,332 @@
+[
+    {
+        "MI_STYLE": null,
+        "POLLING_ADDRESS": "Warren Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "AA",
+        "POLLING_STATION": "Vickerstown Methodist Church",
+        "WARD": "Walney North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.24645248, 54.11028696], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.1\", \"properties\": {\"MI_STYLE\": null, \"POLLING_ADDRESS\": \"Warren Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"AA\", \"POLLING_STATION\": \"Vickerstown Methodist Church\", \"WARD\": \"Walney North\", \"bbox\": [-3.24645248, 54.11028696, -3.24645248, 54.11028696]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.1"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Duke Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "EA",
+        "POLLING_STATION": "The Forum",
+        "WARD": "Central",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.22723376, 54.11179327], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.10\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Duke Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"EA\", \"POLLING_STATION\": \"The Forum\", \"WARD\": \"Central\", \"bbox\": [-3.22723376, 54.11179327, -3.22723376, 54.11179327]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.10"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Lumley Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "EB",
+        "POLLING_STATION": "Sacred Heart Catholic Primary School",
+        "WARD": "Central",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2141563, 54.11032247], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.11\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Lumley Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"EB\", \"POLLING_STATION\": \"Sacred Heart Catholic Primary School\", \"WARD\": \"Central\", \"bbox\": [-3.2141563, 54.11032247, -3.2141563, 54.11032247]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.11"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Greengate Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "EC",
+        "POLLING_STATION": "Childrens Centre Greengate",
+        "WARD": "Central",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21912054, 54.11293721], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.12\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Greengate Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"EC\", \"POLLING_STATION\": \"Childrens Centre Greengate\", \"WARD\": \"Central\", \"bbox\": [-3.21912054, 54.11293721, -3.21912054, 54.11293721]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.12"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Highfield Road, Barrow-in-Furness",
+        "POLLING_DISTRICT": "FA",
+        "POLLING_STATION": "St Mathew's Community Hall",
+        "WARD": "Ormsgill",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.22413493, 54.12377507], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.13\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Highfield Road, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"FA\", \"POLLING_STATION\": \"St Mathew's Community Hall\", \"WARD\": \"Ormsgill\", \"bbox\": [-3.22413493, 54.12377507, -3.22413493, 54.12377507]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.13"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Schenider Road, Barrow-in-Furness",
+        "POLLING_DISTRICT": "FB",
+        "POLLING_STATION": "Richard Cave MS Centre",
+        "WARD": "Ormsgill",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.23083579, 54.12858649], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.14\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Schenider Road, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"FB\", \"POLLING_STATION\": \"Richard Cave MS Centre\", \"WARD\": \"Ormsgill\", \"bbox\": [-3.23083579, 54.12858649, -3.23083579, 54.12858649]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.14"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Warwick Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "GA",
+        "POLLING_STATION": "Trinity Church Centre",
+        "WARD": "Parkside",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21943484, 54.12191102], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.15\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Warwick Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"GA\", \"POLLING_STATION\": \"Trinity Church Centre\", \"WARD\": \"Parkside\", \"bbox\": [-3.21943484, 54.12191102, -3.21943484, 54.12191102]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.15"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Millstone Avenue, Barrow-in-Furness",
+        "POLLING_DISTRICT": "FC",
+        "POLLING_STATION": "Ormsgill Community Centre",
+        "WARD": "Ormsgill",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.23256852, 54.1377455], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.16\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Millstone Avenue, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"FC\", \"POLLING_STATION\": \"Ormsgill Community Centre\", \"WARD\": \"Ormsgill\", \"bbox\": [-3.23256852, 54.1377455, -3.23256852, 54.1377455]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.16"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Abbey Road, Barrow-in-Furness",
+        "POLLING_DISTRICT": "GB",
+        "POLLING_STATION": "Abbey Road Baptist Church Hall",
+        "WARD": "Parkside",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21946597, 54.12055668], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.17\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Abbey Road, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"GB\", \"POLLING_STATION\": \"Abbey Road Baptist Church Hall\", \"WARD\": \"Parkside\", \"bbox\": [-3.21946597, 54.12055668, -3.21946597, 54.12055668]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.17"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Greengate Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "HB",
+        "POLLING_STATION": "Greengate Infants' School",
+        "WARD": "Risedale",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21276221, 54.11497729], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.18\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Greengate Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"HB\", \"POLLING_STATION\": \"Greengate Infants' School\", \"WARD\": \"Risedale\", \"bbox\": [-3.21276221, 54.11497729, -3.21276221, 54.11497729]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.18"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Cambridge Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "HA",
+        "POLLING_STATION": "Cambridge Street Primary School",
+        "WARD": "Risedale",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.20462497, 54.11205724], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.19\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Cambridge Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"HA\", \"POLLING_STATION\": \"Cambridge Street Primary School\", \"WARD\": \"Risedale\", \"bbox\": [-3.20462497, 54.11205724, -3.20462497, 54.11205724]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.19"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Duddon Drive, Barrow-in-Furness",
+        "POLLING_DISTRICT": "AB",
+        "POLLING_STATION": "North Walney Primary School",
+        "WARD": "Walney North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.26068997, 54.11235977], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.2\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Duddon Drive, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"AB\", \"POLLING_STATION\": \"North Walney Primary School\", \"WARD\": \"Walney North\", \"bbox\": [-3.26068997, 54.11235977, -3.26068997, 54.11235977]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.2"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Cambridge Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "HC",
+        "POLLING_STATION": "Cambridge Street Primary School",
+        "WARD": "Risedale",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.20470943, 54.11200805], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.20\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Cambridge Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"HC\", \"POLLING_STATION\": \"Cambridge Street Primary School\", \"WARD\": \"Risedale\", \"bbox\": [-3.20470943, 54.11200805, -3.20470943, 54.11200805]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.20"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Hawcoat Lane, Barrow-in-Furness",
+        "POLLING_DISTRICT": "IA",
+        "POLLING_STATION": "St Pauls Chuch",
+        "WARD": "Hawcoat",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21359935, 54.12827938], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.21\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Hawcoat Lane, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"IA\", \"POLLING_STATION\": \"St Pauls Chuch\", \"WARD\": \"Hawcoat\", \"bbox\": [-3.21359935, 54.12827938, -3.21359935, 54.12827938]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.21"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Skelwith Drive, Barrow-in-Furness",
+        "POLLING_DISTRICT": "IB",
+        "POLLING_STATION": "Hawcoat Community Centre",
+        "WARD": "Hawcoat",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21148467, 54.13942654], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.22\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Skelwith Drive, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"IB\", \"POLLING_STATION\": \"Hawcoat Community Centre\", \"WARD\": \"Hawcoat\", \"bbox\": [-3.21148467, 54.13942654, -3.21148467, 54.13942654]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.22"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Hawcoat Lane, Barrow-in-Furness",
+        "POLLING_DISTRICT": "JA",
+        "POLLING_STATION": "St Pauls Chuch",
+        "WARD": "Newbarns",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21364773, 54.1283417], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.23\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12)\", \"POLLING_ADDRESS\": \"Hawcoat Lane, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"JA\", \"POLLING_STATION\": \"St Pauls Chuch\", \"WARD\": \"Newbarns\", \"bbox\": [-3.21364773, 54.1283417, -3.21364773, 54.1283417]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.23"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Holyoak Avenue, Barrow-in-Furness",
+        "POLLING_DISTRICT": "JB",
+        "POLLING_STATION": "Beacon Hill Methodist Church Hall",
+        "WARD": "Newbarns",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.20387357, 54.12433943], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.24\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Holyoak Avenue, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"JB\", \"POLLING_STATION\": \"Beacon Hill Methodist Church Hall\", \"WARD\": \"Newbarns\", \"bbox\": [-3.20387357, 54.12433943, -3.20387357, 54.12433943]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.24"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Rampside, Barrow-in-Furness",
+        "POLLING_DISTRICT": "KA",
+        "POLLING_STATION": "Rampside Village Hall",
+        "WARD": "Roosecote",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.16592135, 54.08545322], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.25\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Rampside, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"KA\", \"POLLING_STATION\": \"Rampside Village Hall\", \"WARD\": \"Roosecote\", \"bbox\": [-3.16592135, 54.08545322, -3.16592135, 54.08545322]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.25"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "North Row, Barrow-in-Furness",
+        "POLLING_DISTRICT": "KB",
+        "POLLING_STATION": "Roose School",
+        "WARD": "Roosecote",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.18825688, 54.11414173], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.26\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"North Row, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"KB\", \"POLLING_STATION\": \"Roose School\", \"WARD\": \"Roosecote\", \"bbox\": [-3.18825688, 54.11414173, -3.18825688, 54.11414173]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.26"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Redoak Avenue, Barrow-in-Furness",
+        "POLLING_DISTRICT": "KC",
+        "POLLING_STATION": "Yarlside School",
+        "WARD": "Roosecote",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.18847392, 54.1215901], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.27\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Redoak Avenue, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"KC\", \"POLLING_STATION\": \"Yarlside School\", \"WARD\": \"Roosecote\", \"bbox\": [-3.18847392, 54.1215901, -3.18847392, 54.1215901]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.27"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Via Chapel Street or Broughton Road, Dalton-in-Furness",
+        "POLLING_DISTRICT": "LA",
+        "POLLING_STATION": "Chapel Street Infants' School",
+        "WARD": "Dalton North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.17841048, 54.15862112], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.28\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Via Chapel Street or Broughton Road, Dalton-in-Furness\", \"POLLING_DISTRICT\": \"LA\", \"POLLING_STATION\": \"Chapel Street Infants' School\", \"WARD\": \"Dalton North\", \"bbox\": [-3.17841048, 54.15862112, -3.17841048, 54.15862112]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.28"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "The Green, Lindal-in-Furness",
+        "POLLING_DISTRICT": "LB",
+        "POLLING_STATION": "Buccleuch Hall",
+        "WARD": "Dalton North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.15027371, 54.17347376], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.29\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"The Green, Lindal-in-Furness\", \"POLLING_DISTRICT\": \"LB\", \"POLLING_STATION\": \"Buccleuch Hall\", \"WARD\": \"Dalton North\", \"bbox\": [-3.15027371, 54.17347376, -3.15027371, 54.17347376]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.29"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "North Scale, Barrow-in-Furness",
+        "POLLING_DISTRICT": "AC",
+        "POLLING_STATION": "North Scale Community Centre",
+        "WARD": "Walney North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.25583305, 54.11980416], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.3\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"North Scale, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"AC\", \"POLLING_STATION\": \"North Scale Community Centre\", \"WARD\": \"Walney North\", \"bbox\": [-3.25583305, 54.11980416, -3.25583305, 54.11980416]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.3"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Via Chapel Street or Broughton Road, Dalton-in-Furness",
+        "POLLING_DISTRICT": "MA",
+        "POLLING_STATION": "Chapel Street Infants' School",
+        "WARD": "Dalton South",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.178486, 54.15871491], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.30\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Via Chapel Street or Broughton Road, Dalton-in-Furness\", \"POLLING_DISTRICT\": \"MA\", \"POLLING_STATION\": \"Chapel Street Infants' School\", \"WARD\": \"Dalton South\", \"bbox\": [-3.178486, 54.15871491, -3.178486, 54.15871491]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.30"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Coronation Drive, Dalton-in-Furness",
+        "POLLING_DISTRICT": "MB",
+        "POLLING_STATION": "Dalton St Mary's C of E School",
+        "WARD": "Dalton South",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.17901039, 54.15080043], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.31\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Coronation Drive, Dalton-in-Furness\", \"POLLING_DISTRICT\": \"MB\", \"POLLING_STATION\": \"Dalton St Mary's C of E School\", \"WARD\": \"Dalton South\", \"bbox\": [-3.17901039, 54.15080043, -3.17901039, 54.15080043]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.31"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Duke Street, Askam-in-Furness",
+        "POLLING_DISTRICT": "LC",
+        "POLLING_STATION": "Askam Community Centre",
+        "WARD": "Dalton North",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.20542919, 54.18777213], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.32\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Duke Street, Askam-in-Furness\", \"POLLING_DISTRICT\": \"LC\", \"POLLING_STATION\": \"Askam Community Centre\", \"WARD\": \"Dalton North\", \"bbox\": [-3.20542919, 54.18777213, -3.20542919, 54.18777213]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.32"
+    },
+    {
+        "MI_STYLE": "Symbol (35, 0, 12)",
+        "POLLING_ADDRESS": "Middle Hill, Barrow-in-Furness",
+        "POLLING_DISTRICT": "JC",
+        "POLLING_STATION": "St Aidans Church Hall",
+        "WARD": "Newbarns",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.20449291, 54.11974693], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.33\", \"properties\": {\"MI_STYLE\": \"Symbol (35, 0, 12) \", \"POLLING_ADDRESS\": \"Middle Hill, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"JC\", \"POLLING_STATION\": \"St Aidans Church Hall\", \"WARD\": \"Newbarns\", \"bbox\": [-3.20449291, 54.11974693, -3.20449291, 54.11974693]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.33"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Nursery Entrance via Strathmore Avenue, Barrow-in-Furness",
+        "POLLING_DISTRICT": "BA",
+        "POLLING_STATION": "South Walney Infants School",
+        "WARD": "Walney South",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.24982384, 54.10258054], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.4\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Nursery Entrance via Strathmore Avenue, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"BA\", \"POLLING_STATION\": \"South Walney Infants School\", \"WARD\": \"Walney South\", \"bbox\": [-3.24982384, 54.10258054, -3.24982384, 54.10258054]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.4"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Euryalus Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "BB",
+        "POLLING_STATION": "St Columba's Catholic Primary School",
+        "WARD": "Walney South",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.25065653, 54.10593402], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.5\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Euryalus Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"BB\", \"POLLING_STATION\": \"St Columba's Catholic Primary School\", \"WARD\": \"Walney South\", \"bbox\": [-3.25065653, 54.10593402, -3.25065653, 54.10593402]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.5"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Island Road, Barrow-in-Furness",
+        "POLLING_DISTRICT": "CA",
+        "POLLING_STATION": "St Johns Church",
+        "WARD": "Barrow Island",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.22829194, 54.1037217], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.6\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Island Road, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"CA\", \"POLLING_STATION\": \"St Johns Church\", \"WARD\": \"Barrow Island\", \"bbox\": [-3.22829194, 54.1037217, -3.22829194, 54.1037217]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.6"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Blake Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "DA",
+        "POLLING_STATION": "St Jame's Community Centre",
+        "WARD": "Hindpool",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.23354669, 54.11924683], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.7\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Blake Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"DA\", \"POLLING_STATION\": \"St Jame's Community Centre\", \"WARD\": \"Hindpool\", \"bbox\": [-3.23354669, 54.11924683, -3.23354669, 54.11924683]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.7"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Buccleuch Street, Barrow-in-Furness",
+        "POLLING_DISTRICT": "DB",
+        "POLLING_STATION": "St Mark's Church",
+        "WARD": "Hindpool",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.22461925, 54.11567686], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.8\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Buccleuch Street, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"DB\", \"POLLING_STATION\": \"St Mark's Church\", \"WARD\": \"Hindpool\", \"bbox\": [-3.22461925, 54.11567686, -3.22461925, 54.11567686]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.8"
+    },
+    {
+        "MI_STYLE": "Symbol (54, 16711680, 24)",
+        "POLLING_ADDRESS": "Grange Crescent, Barrow-in-Furness",
+        "POLLING_DISTRICT": "DC",
+        "POLLING_STATION": "Grange/cartmel Crescent Community Centre",
+        "WARD": "Hindpool",
+        "council_id": "E07000027",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.22894903, 54.11349218], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"POLLINGSTATIONS.9\", \"properties\": {\"MI_STYLE\": \"Symbol (54, 16711680, 24) \", \"POLLING_ADDRESS\": \"Grange Crescent, Barrow-in-Furness\", \"POLLING_DISTRICT\": \"DC\", \"POLLING_STATION\": \"Grange/cartmel Crescent Community Centre\", \"WARD\": \"Hindpool\", \"bbox\": [-3.22894903, 54.11349218, -3.22894903, 54.11349218]}, \"type\": \"Feature\"}",
+        "pk": "POLLINGSTATIONS.9"
+    }
+]
