@@ -1,0 +1,512 @@
+[
+    {
+        "ADDRESS": "St Marks Church Pysons Road RAMSGATE Kent CT12 6TU",
+        "DISTRICT": "RA",
+        "OBJECTID": 1,
+        "POSTCODE": "CT12 6TU",
+        "X": 637180,
+        "Y": 166807,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4047961603792665, 51.35081296602102], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"ADDRESS\": \"St Marks Church Pysons Road RAMSGATE Kent CT12 6TU\", \"DISTRICT\": \"RA\", \"OBJECTID\": 1, \"POSTCODE\": \"CT12 6TU\", \"X\": 637180, \"Y\": 166807}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Village Hall And Post Office Foads Lane RAMSGATE Kent CT12 5JH",
+        "DISTRICT": "RL",
+        "OBJECTID": 2,
+        "POSTCODE": "CT12 5JH",
+        "X": 634612,
+        "Y": 164296,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3663294190437523, 51.329333783998386], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ADDRESS\": \"Village Hall And Post Office Foads Lane RAMSGATE Kent CT12 5JH\", \"DISTRICT\": \"RL\", \"OBJECTID\": 2, \"POSTCODE\": \"CT12 5JH\", \"X\": 634612, \"Y\": 164296}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Christ Church United Reformed Church 54 Westgate Bay Avenue Westgate On Sea Kent CT8 8SN",
+        "DISTRICT": "MA",
+        "OBJECTID": 3,
+        "POSTCODE": "CT8 8SN",
+        "X": 632367,
+        "Y": 170207,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3380237847509422, 51.38331566081215], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"ADDRESS\": \"Christ Church United Reformed Church 54 Westgate Bay Avenue Westgate On Sea Kent CT8 8SN\", \"DISTRICT\": \"MA\", \"OBJECTID\": 3, \"POSTCODE\": \"CT8 8SN\", \"X\": 632367, \"Y\": 170207}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Broadstairs Youth \u0016 Leisure Centre Retort House Albion Street BROADSTAIRS Kent CT10 1NE",
+        "DISTRICT": "BSD",
+        "OBJECTID": 4,
+        "POSTCODE": "CT10 1NE",
+        "X": 639787,
+        "Y": 167944,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4429296244355874, 51.3599209784984], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"ADDRESS\": \"Broadstairs Youth \\u0016 Leisure Centre Retort House Albion Street BROADSTAIRS Kent CT10 1NE\", \"DISTRICT\": \"BSD\", \"OBJECTID\": 4, \"POSTCODE\": \"CT10 1NE\", \"X\": 639787, \"Y\": 167944}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Westgate Community Centre Lymington Road Westgate On Sea Kent CT8 8EJ",
+        "DISTRICT": "MB",
+        "OBJECTID": 5,
+        "POSTCODE": "CT8 8EJ",
+        "X": 632440,
+        "Y": 169529,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386277200105787, 51.37719981637996], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"ADDRESS\": \"Westgate Community Centre Lymington Road Westgate On Sea Kent CT8 8EJ\", \"DISTRICT\": \"MB\", \"OBJECTID\": 5, \"POSTCODE\": \"CT8 8EJ\", \"X\": 632440, \"Y\": 169529}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Kearns Memorial Hall Grenham Bay Avenue BIRCHINGTON Kent CT7 9NN",
+        "DISTRICT": "BTA",
+        "OBJECTID": 6,
+        "POSTCODE": "CT7 9NN",
+        "X": 629047,
+        "Y": 169507,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2899452439490426, 51.378380229242225], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"ADDRESS\": \"Kearns Memorial Hall Grenham Bay Avenue BIRCHINGTON Kent CT7 9NN\", \"DISTRICT\": \"BTA\", \"OBJECTID\": 6, \"POSTCODE\": \"CT7 9NN\", \"X\": 629047, \"Y\": 169507}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Peters Church Hall Hopeville Avenue BROADSTAIRS Kent CT10 2TR",
+        "DISTRICT": "BSE",
+        "OBJECTID": 7,
+        "POSTCODE": "CT10 2TR",
+        "X": 638092,
+        "Y": 168474,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4189837951765647, 51.36539041306432], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"ADDRESS\": \"St Peters Church Hall Hopeville Avenue BROADSTAIRS Kent CT10 2TR\", \"DISTRICT\": \"BSE\", \"OBJECTID\": 7, \"POSTCODE\": \"CT10 2TR\", \"X\": 638092, \"Y\": 168474}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Thanet Judokwai Zion Place MARGATE Kent CT9 1RP",
+        "DISTRICT": "MI",
+        "OBJECTID": 8,
+        "POSTCODE": "CT9 1RP",
+        "X": 635864,
+        "Y": 171179,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3888377654715278, 51.390594591204355], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"ADDRESS\": \"Thanet Judokwai Zion Place MARGATE Kent CT9 1RP\", \"DISTRICT\": \"MI\", \"OBJECTID\": 8, \"POSTCODE\": \"CT9 1RP\", \"X\": 635864, \"Y\": 171179}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Birchington Village Centre Alpha Road BIRCHINGTON Kent CT7 9EG",
+        "DISTRICT": "BTD",
+        "OBJECTID": 9,
+        "POSTCODE": "CT7 9EG",
+        "X": 630019,
+        "Y": 169447,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3038488796522485, 51.37744896271788], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"ADDRESS\": \"Birchington Village Centre Alpha Road BIRCHINGTON Kent CT7 9EG\", \"DISTRICT\": \"BTD\", \"OBJECTID\": 9, \"POSTCODE\": \"CT7 9EG\", \"X\": 630019, \"Y\": 169447}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Council Office Pierremont Hall Pierremont Park Broadstairs Kent CT10 1JX",
+        "DISTRICT": "BSH",
+        "OBJECTID": 10,
+        "POSTCODE": "CT10 1JX",
+        "X": 639408,
+        "Y": 167815,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4374094340605588, 51.35891875230011], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"ADDRESS\": \"Council Office Pierremont Hall Pierremont Park Broadstairs Kent CT10 1JX\", \"DISTRICT\": \"BSH\", \"OBJECTID\": 10, \"POSTCODE\": \"CT10 1JX\", \"X\": 639408, \"Y\": 167815}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Racing Greyhound 227 Hereson Road RAMSGATE Kent CT11 7EX",
+        "DISTRICT": "RD",
+        "OBJECTID": 11,
+        "POSTCODE": "CT11 7EX",
+        "X": 638820,
+        "Y": 166279,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.427951317026179, 51.345385048509975], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"ADDRESS\": \"The Racing Greyhound 227 Hereson Road RAMSGATE Kent CT11 7EX\", \"DISTRICT\": \"RD\", \"OBJECTID\": 11, \"POSTCODE\": \"CT11 7EX\", \"X\": 638820, \"Y\": 166279}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Lawrence College College Road RAMSGATE Kent CT11 7AF",
+        "DISTRICT": "RE1",
+        "OBJECTID": 12,
+        "POSTCODE": "CT11 7AF",
+        "X": 637870,
+        "Y": 165962,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.41412258387646, 51.342936375565614], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"ADDRESS\": \"St Lawrence College College Road RAMSGATE Kent CT11 7AF\", \"DISTRICT\": \"RE1\", \"OBJECTID\": 12, \"POSTCODE\": \"CT11 7AF\", \"X\": 637870, \"Y\": 165962}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Margate Bowling Club 18 Northdown Avenue MARGATE Kent CT9 2NW",
+        "DISTRICT": "MJ2",
+        "OBJECTID": 13,
+        "POSTCODE": "CT9 2NW",
+        "X": 636660,
+        "Y": 170631,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3998864030088636, 51.38534924814798], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"ADDRESS\": \"Margate Bowling Club 18 Northdown Avenue MARGATE Kent CT9 2NW\", \"DISTRICT\": \"MJ2\", \"OBJECTID\": 13, \"POSTCODE\": \"CT9 2NW\", \"X\": 636660, \"Y\": 170631}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "United Reformed Church Union Crescent MARGATE Kent CT9 1NR",
+        "DISTRICT": "MG",
+        "OBJECTID": 14,
+        "POSTCODE": "CT9 1NR",
+        "X": 635514,
+        "Y": 170851,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.383592808503859, 51.3878002532351], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"ADDRESS\": \"United Reformed Church Union Crescent MARGATE Kent CT9 1NR\", \"DISTRICT\": \"MG\", \"OBJECTID\": 14, \"POSTCODE\": \"CT9 1NR\", \"X\": 635514, \"Y\": 170851}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Westbrook Bowls Club Royal Esplanade MARGATE Kent CT9 5ET",
+        "DISTRICT": "MC",
+        "OBJECTID": 15,
+        "POSTCODE": "CT9 5ET",
+        "X": 633964,
+        "Y": 170436,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.361089414359166, 51.38471835271736], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"ADDRESS\": \"Westbrook Bowls Club Royal Esplanade MARGATE Kent CT9 5ET\", \"DISTRICT\": \"MC\", \"OBJECTID\": 15, \"POSTCODE\": \"CT9 5ET\", \"X\": 633964, \"Y\": 170436}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Botany Bay Hotel Marine Drive BROADSTAIRS Kent CT10 3LG",
+        "DISTRICT": "BSA",
+        "OBJECTID": 16,
+        "POSTCODE": "CT10 3LG",
+        "X": 639220,
+        "Y": 170999,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4368521733771846, 51.38757924955974], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"ADDRESS\": \"Botany Bay Hotel Marine Drive BROADSTAIRS Kent CT10 3LG\", \"DISTRICT\": \"BSA\", \"OBJECTID\": 16, \"POSTCODE\": \"CT10 3LG\", \"X\": 639220, \"Y\": 170999}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Lawrence Parish Hall 33 High Street St Lawrence RAMSGATE Kent CT11 0QW",
+        "DISTRICT": "RJ",
+        "OBJECTID": 17,
+        "POSTCODE": "CT11 0QW",
+        "X": 636985,
+        "Y": 165254,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.400974985069877, 51.33695345016468], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"ADDRESS\": \"St Lawrence Parish Hall 33 High Street St Lawrence RAMSGATE Kent CT11 0QW\", \"DISTRICT\": \"RJ\", \"OBJECTID\": 17, \"POSTCODE\": \"CT11 0QW\", \"X\": 636985, \"Y\": 165254}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Manston Village Hall Preston Road RAMSGATE Kent CT12 5BA",
+        "DISTRICT": "VMA",
+        "OBJECTID": 18,
+        "POSTCODE": "CT12 5BA",
+        "X": 634802,
+        "Y": 166218,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3703139684339718, 51.34650780639388], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"ADDRESS\": \"Manston Village Hall Preston Road RAMSGATE Kent CT12 5BA\", \"DISTRICT\": \"VMA\", \"OBJECTID\": 18, \"POSTCODE\": \"CT12 5BA\", \"X\": 634802, \"Y\": 166218}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Newington Community Centre Princess Margaret Avenue RAMSGATE Kent CT12 6HX",
+        "DISTRICT": "RI",
+        "OBJECTID": 19,
+        "POSTCODE": "CT12 6HX",
+        "X": 636335,
+        "Y": 165855,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.392052573979364, 51.342615700156664], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"ADDRESS\": \"Newington Community Centre Princess Margaret Avenue RAMSGATE Kent CT12 6HX\", \"DISTRICT\": \"RI\", \"OBJECTID\": 19, \"POSTCODE\": \"CT12 6HX\", \"X\": 636335, \"Y\": 165855}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Johns Community Centre Victoria Road MARGATE Kent CT9 1LN",
+        "DISTRICT": "MH",
+        "OBJECTID": 20,
+        "POSTCODE": "CT9 1LN",
+        "X": 635582,
+        "Y": 170396,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3842611614574423, 51.38369143491394], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"ADDRESS\": \"St Johns Community Centre Victoria Road MARGATE Kent CT9 1LN\", \"DISTRICT\": \"MH\", \"OBJECTID\": 20, \"POSTCODE\": \"CT9 1LN\", \"X\": 635582, \"Y\": 170396}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Phillips Church Summerfield Road MARGATE Kent CT9 3JJ",
+        "DISTRICT": "ML",
+        "OBJECTID": 21,
+        "POSTCODE": "CT9 3JJ",
+        "X": 638425,
+        "Y": 170792,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4253181632402416, 51.386052769619546], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ADDRESS\": \"St Phillips Church Summerfield Road MARGATE Kent CT9 3JJ\", \"DISTRICT\": \"ML\", \"OBJECTID\": 21, \"POSTCODE\": \"CT9 3JJ\", \"X\": 638425, \"Y\": 170792}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Minster Village Hall Church Street Minster RAMSGATE Kent CT12 4BX",
+        "DISTRICT": "VMI",
+        "OBJECTID": 22,
+        "POSTCODE": "CT12 4BX",
+        "X": 631068,
+        "Y": 164342,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3155858074114557, 51.33119359125029], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"ADDRESS\": \"Minster Village Hall Church Street Minster RAMSGATE Kent CT12 4BX\", \"DISTRICT\": \"VMI\", \"OBJECTID\": 22, \"POSTCODE\": \"CT12 4BX\", \"X\": 631068, \"Y\": 164342}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Crown Inn Ramsgate Road Sarre Birchington Kent CT7 0LF",
+        "DISTRICT": "VSA",
+        "OBJECTID": 23,
+        "POSTCODE": "CT7 0LF",
+        "X": 625757,
+        "Y": 164966,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2398709195827808, 51.338931171999334], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"ADDRESS\": \"Crown Inn Ramsgate Road Sarre Birchington Kent CT7 0LF\", \"DISTRICT\": \"VSA\", \"OBJECTID\": 23, \"POSTCODE\": \"CT7 0LF\", \"X\": 625757, \"Y\": 164966}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Crampton Tower The Broadway BROADSTAIRS Kent CT10 2AB",
+        "DISTRICT": "BSG",
+        "OBJECTID": 24,
+        "POSTCODE": "CT10 2AB",
+        "X": 639114,
+        "Y": 167905,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4332550690570702, 51.359854368422226], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"ADDRESS\": \"Crampton Tower The Broadway BROADSTAIRS Kent CT10 2AB\", \"DISTRICT\": \"BSG\", \"OBJECTID\": 24, \"POSTCODE\": \"CT10 2AB\", \"X\": 639114, \"Y\": 167905}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Johns Scout Hall Durban Road MARGATE Kent CT9 2SS",
+        "DISTRICT": "MN",
+        "OBJECTID": 25,
+        "POSTCODE": "CT9 2SS",
+        "X": 636115,
+        "Y": 170115,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3917254258137113, 51.380947478223135], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"ADDRESS\": \"St Johns Scout Hall Durban Road MARGATE Kent CT9 2SS\", \"DISTRICT\": \"MN\", \"OBJECTID\": 25, \"POSTCODE\": \"CT9 2SS\", \"X\": 636115, \"Y\": 170115}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Ramsgate Social Club Elms Avenue RAMSGATE Kent CT11 9BD",
+        "DISTRICT": "RH",
+        "OBJECTID": 26,
+        "POSTCODE": "CT11 9BD",
+        "X": 637967,
+        "Y": 164817,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4147493982970134, 51.332617232140514], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"ADDRESS\": \"Ramsgate Social Club Elms Avenue RAMSGATE Kent CT11 9BD\", \"DISTRICT\": \"RH\", \"OBJECTID\": 26, \"POSTCODE\": \"CT11 9BD\", \"X\": 637967, \"Y\": 164817}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Annes Church Eastern Esplanade MARGATE Kent CT9 3AA",
+        "DISTRICT": "MK",
+        "OBJECTID": 27,
+        "POSTCODE": "CT9 3AA",
+        "X": 636974,
+        "Y": 171218,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4047778632468888, 51.39048714209661], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"ADDRESS\": \"St Annes Church Eastern Esplanade MARGATE Kent CT9 3AA\", \"DISTRICT\": \"MK\", \"OBJECTID\": 27, \"POSTCODE\": \"CT9 3AA\", \"X\": 636974, \"Y\": 171218}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Trinity Resource Centre St Marys Avenue MARGATE Kent CT9 3TN",
+        "DISTRICT": "MO1",
+        "OBJECTID": 28,
+        "POSTCODE": "CT9 3TN",
+        "X": 637747,
+        "Y": 170124,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4151374707670352, 51.38034262557466], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ADDRESS\": \"Trinity Resource Centre St Marys Avenue MARGATE Kent CT9 3TN\", \"DISTRICT\": \"MO1\", \"OBJECTID\": 28, \"POSTCODE\": \"CT9 3TN\", \"X\": 637747, \"Y\": 170124}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Cliftonville Library Queen Elizabeth Avenue MARGATE Kent CT9 3JX",
+        "DISTRICT": "MM",
+        "OBJECTID": 29,
+        "POSTCODE": "CT9 3JX",
+        "X": 637926,
+        "Y": 170558,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4179966733015374, 51.384162460059265], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"ADDRESS\": \"Cliftonville Library Queen Elizabeth Avenue MARGATE Kent CT9 3JX\", \"DISTRICT\": \"MM\", \"OBJECTID\": 29, \"POSTCODE\": \"CT9 3JX\", \"X\": 637926, \"Y\": 170558}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Newlands County Primary School Dumpton Lane RAMSGATE Kent CT11 7AJ",
+        "DISTRICT": "RC",
+        "OBJECTID": 30,
+        "POSTCODE": "CT11 7AJ",
+        "X": 638261,
+        "Y": 166239,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4199096148032762, 51.3452587471128], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"ADDRESS\": \"Newlands County Primary School Dumpton Lane RAMSGATE Kent CT11 7AJ\", \"DISTRICT\": \"RC\", \"OBJECTID\": 30, \"POSTCODE\": \"CT11 7AJ\", \"X\": 638261, \"Y\": 166239}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Christchurch Junior School London Road RAMSGATE Kent CT11 0ZZ",
+        "DISTRICT": "RM",
+        "OBJECTID": 31,
+        "POSTCODE": "CT11 0ZZ",
+        "X": 637368,
+        "Y": 164574,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4060024232223705, 51.33068570171323], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"ADDRESS\": \"Christchurch Junior School London Road RAMSGATE Kent CT11 0ZZ\", \"DISTRICT\": \"RM\", \"OBJECTID\": 31, \"POSTCODE\": \"CT11 0ZZ\", \"X\": 637368, \"Y\": 164574}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sure Start Family Centre Dane Valley Road MARGATE Kent CT9 3RU",
+        "DISTRICT": "MO2",
+        "OBJECTID": 32,
+        "POSTCODE": "CT9 3RU",
+        "X": 637003,
+        "Y": 169514,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4040678454393585, 51.37518014541204], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"ADDRESS\": \"Sure Start Family Centre Dane Valley Road MARGATE Kent CT9 3RU\", \"DISTRICT\": \"MO2\", \"OBJECTID\": 32, \"POSTCODE\": \"CT9 3RU\", \"X\": 637003, \"Y\": 169514}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Brunswick Hall Hardres Street RAMSGATE Kent CT11 8QL",
+        "DISTRICT": "RE2",
+        "OBJECTID": 33,
+        "POSTCODE": "CT11 8QL",
+        "X": 638385,
+        "Y": 165262,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4210402530378394, 51.33643873960271], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"ADDRESS\": \"Brunswick Hall Hardres Street RAMSGATE Kent CT11 8QL\", \"DISTRICT\": \"RE2\", \"OBJECTID\": 33, \"POSTCODE\": \"CT11 8QL\", \"X\": 638385, \"Y\": 165262}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Village Hall The Street St Nicholas At Wade BIRCHINGTON Kent CT7 0NP",
+        "DISTRICT": "VSN",
+        "OBJECTID": 34,
+        "POSTCODE": "CT7 0NP",
+        "X": 626680,
+        "Y": 166619,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.254151537136472, 51.35340663490116], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ADDRESS\": \"Village Hall The Street St Nicholas At Wade BIRCHINGTON Kent CT7 0NP\", \"DISTRICT\": \"VSN\", \"OBJECTID\": 34, \"POSTCODE\": \"CT7 0NP\", \"X\": 626680, \"Y\": 166619}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Kent Innovation Centre Thanet Reach Business Park Millennium Way Ramsgate Kent CT10 2QQ",
+        "DISTRICT": "BSF",
+        "OBJECTID": 35,
+        "POSTCODE": "CT10 2QQ",
+        "X": 637242,
+        "Y": 167714,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4062949131826583, 51.35892021092958], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"ADDRESS\": \"Kent Innovation Centre Thanet Reach Business Park Millennium Way Ramsgate Kent CT10 2QQ\", \"DISTRICT\": \"BSF\", \"OBJECTID\": 35, \"POSTCODE\": \"CT10 2QQ\", \"X\": 637242, \"Y\": 167714}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Village Hall The Street Acol BIRCHINGTON Kent CT7 0JA",
+        "DISTRICT": "VAC",
+        "OBJECTID": 36,
+        "POSTCODE": "CT7 0JA",
+        "X": 630742,
+        "Y": 167229,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.312775918783155, 51.35724147578026], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"ADDRESS\": \"Village Hall The Street Acol BIRCHINGTON Kent CT7 0JA\", \"DISTRICT\": \"VAC\", \"OBJECTID\": 36, \"POSTCODE\": \"CT7 0JA\", \"X\": 630742, \"Y\": 167229}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Poppy Room, The Corner, 60 Whitehall Road, Ramsgate CT12 6DF",
+        "DISTRICT": "RB",
+        "OBJECTID": 37,
+        "POSTCODE": "CT12 6EW",
+        "X": 636850,
+        "Y": 165913,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4000798367107354, 51.342536422824104], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"ADDRESS\": \"Poppy Room, The Corner, 60 Whitehall Road, Ramsgate CT12 6DF\", \"DISTRICT\": \"RB\", \"OBJECTID\": 37, \"POSTCODE\": \"CT12 6EW\", \"X\": 636850, \"Y\": 165913}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Monkton Day Nursery Monkton Hall 120 Monkton Street Monkton Ramsgate Kent CT12 4JE",
+        "DISTRICT": "VMK",
+        "OBJECTID": 38,
+        "POSTCODE": "CT12 4JE",
+        "X": 628627,
+        "Y": 165066,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2810658782291673, 51.33868011148792], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"ADDRESS\": \"Monkton Day Nursery Monkton Hall 120 Monkton Street Monkton Ramsgate Kent CT12 4JE\", \"DISTRICT\": \"VMK\", \"OBJECTID\": 38, \"POSTCODE\": \"CT12 4JE\", \"X\": 628627, \"Y\": 165066}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Cliftonville Community Centre St Pauls Road MARGATE Kent CT9 2DB",
+        "DISTRICT": "MJ1",
+        "OBJECTID": 39,
+        "POSTCODE": "CT9 2DB",
+        "X": 636294,
+        "Y": 171002,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3948771981143289, 51.388833633328844], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ADDRESS\": \"Cliftonville Community Centre St Pauls Road MARGATE Kent CT9 2DB\", \"DISTRICT\": \"MJ1\", \"OBJECTID\": 39, \"POSTCODE\": \"CT9 2DB\", \"X\": 636294, \"Y\": 171002}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "All Saints Church All Saints Avenue MARGATE Kent CT9 5QP",
+        "DISTRICT": "MF",
+        "OBJECTID": 40,
+        "POSTCODE": "CT9 5QP",
+        "X": 634453,
+        "Y": 170301,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3680028048936264, 51.38330000480126], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"ADDRESS\": \"All Saints Church All Saints Avenue MARGATE Kent CT9 5QP\", \"DISTRICT\": \"MF\", \"OBJECTID\": 40, \"POSTCODE\": \"CT9 5QP\", \"X\": 634453, \"Y\": 170301}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "2 Westwood Business Park Strasbourg Street MARGATE Kent CT9 4JJ",
+        "DISTRICT": "MP2",
+        "OBJECTID": 41,
+        "POSTCODE": "CT9 4JJ",
+        "X": 636070,
+        "Y": 168828,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3902275119276535, 51.369407114187474], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"ADDRESS\": \"2 Westwood Business Park Strasbourg Street MARGATE Kent CT9 4JJ\", \"DISTRICT\": \"MP2\", \"OBJECTID\": 41, \"POSTCODE\": \"CT9 4JJ\", \"X\": 636070, \"Y\": 168828}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Ramsgate Youth Centre High Street St Lawrence RAMSGATE Kent",
+        "DISTRICT": "RG",
+        "OBJECTID": 42,
+        "POSTCODE": "",
+        "X": 637156,
+        "Y": 165441,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4035478233044245, 51.33855590693818], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"ADDRESS\": \"Ramsgate Youth Centre High Street St Lawrence RAMSGATE Kent\", \"DISTRICT\": \"RG\", \"OBJECTID\": 42, \"POSTCODE\": \" \", \"X\": 637156, \"Y\": 165441}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Westover Free Church Prince Charles Road BROADSTAIRS Kent CT10 3HF",
+        "DISTRICT": "BSB",
+        "OBJECTID": 43,
+        "POSTCODE": "CT10 3HF",
+        "X": 638373,
+        "Y": 169220,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.423512095548066, 51.37196548238871], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"ADDRESS\": \"Westover Free Church Prince Charles Road BROADSTAIRS Kent CT10 3HF\", \"DISTRICT\": \"BSB\", \"OBJECTID\": 43, \"POSTCODE\": \"CT10 3HF\", \"X\": 638373, \"Y\": 169220}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Birchington Bowls Club Beach Avenue BIRCHINGTON Kent CT7 9JS",
+        "DISTRICT": "BTB",
+        "OBJECTID": 44,
+        "POSTCODE": "CT7 9JS",
+        "X": 629826,
+        "Y": 169734,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3012720100330157, 51.38010569230464], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"ADDRESS\": \"Birchington Bowls Club Beach Avenue BIRCHINGTON Kent CT7 9JS\", \"DISTRICT\": \"BTB\", \"OBJECTID\": 44, \"POSTCODE\": \"CT7 9JS\", \"X\": 629826, \"Y\": 169734}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Garlinge Methodist Church Canterbury Road MARGATE Kent CT9 5JP",
+        "DISTRICT": "MD",
+        "OBJECTID": 45,
+        "POSTCODE": "CT9 5JP",
+        "X": 633620,
+        "Y": 169838,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3557522776909803, 51.3794899524396], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"ADDRESS\": \"Garlinge Methodist Church Canterbury Road MARGATE Kent CT9 5JP\", \"DISTRICT\": \"MD\", \"OBJECTID\": 45, \"POSTCODE\": \"CT9 5JP\", \"X\": 633620, \"Y\": 169838}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ",
+        "DISTRICT": "BSC",
+        "OBJECTID": 46,
+        "POSTCODE": "CT10 3AZ",
+        "X": 638851,
+        "Y": 169494,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4305557307027852, 51.374222519573564], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"ADDRESS\": \"St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ\", \"DISTRICT\": \"BSC\", \"OBJECTID\": 46, \"POSTCODE\": \"CT10 3AZ\", \"X\": 638851, \"Y\": 169494}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Ramsgate Football Club Southwood Stadium Prices Avenue RAMSGATE Kent CT11 0AN",
+        "DISTRICT": "RK",
+        "OBJECTID": 47,
+        "POSTCODE": "CT11 0AN",
+        "X": 637007,
+        "Y": 164812,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.400990993438756, 51.332975032513176], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"ADDRESS\": \"Ramsgate Football Club Southwood Stadium Prices Avenue RAMSGATE Kent CT11 0AN\", \"DISTRICT\": \"RK\", \"OBJECTID\": 47, \"POSTCODE\": \"CT11 0AN\", \"X\": 637007, \"Y\": 164812}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Church House Kent Gardens BIRCHINGTON Kent CT7 9RS",
+        "DISTRICT": "BTC",
+        "OBJECTID": 48,
+        "POSTCODE": "CT7 9RS",
+        "X": 630116,
+        "Y": 168985,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.304936774850238, 51.37325851921685], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"ADDRESS\": \"Church House Kent Gardens BIRCHINGTON Kent CT7 9RS\", \"DISTRICT\": \"BTC\", \"OBJECTID\": 48, \"POSTCODE\": \"CT7 9RS\", \"X\": 630116, \"Y\": 168985}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Salmestone Grange Nash Road Margate",
+        "DISTRICT": "MP1",
+        "OBJECTID": 49,
+        "POSTCODE": "CT9 4BX",
+        "X": 6352635294,
+        "Y": 169566,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3796166083848944, 51.376345047388156], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"ADDRESS\": \"Salmestone Grange Nash Road Margate\", \"DISTRICT\": \"MP1\", \"OBJECTID\": 49, \"POSTCODE\": \"CT9 4BX\", \"X\": 6352635294, \"Y\": 169566}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Comfort Inn Victoria Parade Ramsgate",
+        "DISTRICT": "RF",
+        "OBJECTID": 50,
+        "POSTCODE": "CT11 8DT",
+        "X": 638922,
+        "Y": 165328,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.428774971607744, 51.336805431770564], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"ADDRESS\": \"Comfort Inn Victoria Parade Ramsgate\", \"DISTRICT\": \"RF\", \"OBJECTID\": 50, \"POSTCODE\": \"CT11 8DT\", \"X\": 638922, \"Y\": 165328}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Garlinge Methodist Church Canterbury Road MARGATE Kent CT9 5JP",
+        "DISTRICT": "ME",
+        "OBJECTID": 51,
+        "POSTCODE": "CT9 5JP",
+        "X": 633620,
+        "Y": 169838,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3557522776909803, 51.3794899524396], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"ADDRESS\": \"Garlinge Methodist Church Canterbury Road MARGATE Kent CT9 5JP\", \"DISTRICT\": \"ME\", \"OBJECTID\": 51, \"POSTCODE\": \"CT9 5JP\", \"X\": 633620, \"Y\": 169838}, \"type\": \"Feature\"}"
+    }
+]
