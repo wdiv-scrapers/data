@@ -1,0 +1,738 @@
+[
+    {
+        "GlobalID": "{6008605A-473E-403C-BEBA-6E16E32DB922}",
+        "OBJECTID": 13748,
+        "Polling_di": "RSA4",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1890853702621271, 51.24151997989549]], \"type\": \"MultiPoint\"}, \"id\": 13748, \"properties\": {\"GlobalID\": \"{6008605A-473E-403C-BEBA-6E16E32DB922}\", \"OBJECTID\": 13748, \"Polling_di\": \"RSA4\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{660FF293-6D09-4F3F-A2F8-B43F1AB0FEA4}",
+        "OBJECTID": 13749,
+        "Polling_di": "RN4",
+        "Ward": "Nailbourne",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1590915750329382, 51.207501994067854]], \"type\": \"MultiPoint\"}, \"id\": 13749, \"properties\": {\"GlobalID\": \"{660FF293-6D09-4F3F-A2F8-B43F1AB0FEA4}\", \"OBJECTID\": 13749, \"Polling_di\": \"RN4\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{928D1872-B168-4C4C-BA61-6FF5EBC0EEBB}",
+        "OBJECTID": 13750,
+        "Polling_di": "RN3",
+        "Ward": "Nailbourne",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1194622339469011, 51.20705912310667]], \"type\": \"MultiPoint\"}, \"id\": 13750, \"properties\": {\"GlobalID\": \"{928D1872-B168-4C4C-BA61-6FF5EBC0EEBB}\", \"OBJECTID\": 13750, \"Polling_di\": \"RN3\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{BB4499C5-F0E9-494D-9CA6-8A0CD22BB9B2}",
+        "OBJECTID": 13751,
+        "Polling_di": "RN5",
+        "Ward": "Nailbourne",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.2008034909013523, 51.198411313704504]], \"type\": \"MultiPoint\"}, \"id\": 13751, \"properties\": {\"GlobalID\": \"{BB4499C5-F0E9-494D-9CA6-8A0CD22BB9B2}\", \"OBJECTID\": 13751, \"Polling_di\": \"RN5\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{35C6B316-4A70-4EE7-B6B4-9626CEE88BA2}",
+        "OBJECTID": 13752,
+        "Polling_di": "RBF1",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.045000246439819, 51.30729696240942]], \"type\": \"MultiPoint\"}, \"id\": 13752, \"properties\": {\"GlobalID\": \"{35C6B316-4A70-4EE7-B6B4-9626CEE88BA2}\", \"OBJECTID\": 13752, \"Polling_di\": \"RBF1\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{D925D317-D6A9-48E0-B0C2-09150D3A4D8E}",
+        "OBJECTID": 13753,
+        "Polling_di": "RBF2",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0697319649968513, 51.29727814379654]], \"type\": \"MultiPoint\"}, \"id\": 13753, \"properties\": {\"GlobalID\": \"{D925D317-D6A9-48E0-B0C2-09150D3A4D8E}\", \"OBJECTID\": 13753, \"Polling_di\": \"RBF2\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{8E87E6C0-276A-4891-92A8-ED63BAA2D4B4}",
+        "OBJECTID": 13754,
+        "Polling_di": "RBF3",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.069739122219628, 51.297273729466944]], \"type\": \"MultiPoint\"}, \"id\": 13754, \"properties\": {\"GlobalID\": \"{8E87E6C0-276A-4891-92A8-ED63BAA2D4B4}\", \"OBJECTID\": 13754, \"Polling_di\": \"RBF3\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{ABDFE8A8-4D1D-4B81-ADB5-671F4192F994}",
+        "OBJECTID": 13755,
+        "Polling_di": "RBF4",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0711464321026933, 51.30696381611368]], \"type\": \"MultiPoint\"}, \"id\": 13755, \"properties\": {\"GlobalID\": \"{ABDFE8A8-4D1D-4B81-ADB5-671F4192F994}\", \"OBJECTID\": 13755, \"Polling_di\": \"RBF4\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{0F156108-6891-4676-8B07-89E7E3439643}",
+        "OBJECTID": 13756,
+        "Polling_di": "RCS1",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.019806342275266, 51.25599773207662]], \"type\": \"MultiPoint\"}, \"id\": 13756, \"properties\": {\"GlobalID\": \"{0F156108-6891-4676-8B07-89E7E3439643}\", \"OBJECTID\": 13756, \"Polling_di\": \"RCS1\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{DE9A61A9-DB71-4A61-9049-230BD7789212}",
+        "OBJECTID": 13757,
+        "Polling_di": "RCS2",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0198118873421105, 51.255997588923165]], \"type\": \"MultiPoint\"}, \"id\": 13757, \"properties\": {\"GlobalID\": \"{DE9A61A9-DB71-4A61-9049-230BD7789212}\", \"OBJECTID\": 13757, \"Polling_di\": \"RCS2\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{FCBD69E3-BD98-4B25-98B5-9D688B91216C}",
+        "OBJECTID": 13758,
+        "Polling_di": "RCS3",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.048553521407258, 51.22233155942831]], \"type\": \"MultiPoint\"}, \"id\": 13758, \"properties\": {\"GlobalID\": \"{FCBD69E3-BD98-4B25-98B5-9D688B91216C}\", \"OBJECTID\": 13758, \"Polling_di\": \"RCS3\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{43D35AB7-45AB-4381-860E-D60EDEDBD39B}",
+        "OBJECTID": 13759,
+        "Polling_di": "RCS4",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0161107091426513, 51.19813167824298]], \"type\": \"MultiPoint\"}, \"id\": 13759, \"properties\": {\"GlobalID\": \"{43D35AB7-45AB-4381-860E-D60EDEDBD39B}\", \"OBJECTID\": 13759, \"Polling_di\": \"RCS4\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{C0B4C1B1-D7E1-4053-ACFC-D3085CD5BB6A}",
+        "OBJECTID": 13760,
+        "Polling_di": "RCS5",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0754152550630607, 51.238768121641854]], \"type\": \"MultiPoint\"}, \"id\": 13760, \"properties\": {\"GlobalID\": \"{C0B4C1B1-D7E1-4053-ACFC-D3085CD5BB6A}\", \"OBJECTID\": 13760, \"Polling_di\": \"RCS5\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{AC00C508-E63F-4FD9-AA6F-D6AA118428B7}",
+        "OBJECTID": 13761,
+        "Polling_di": "RCS6",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0757338593832932, 51.197100010241954]], \"type\": \"MultiPoint\"}, \"id\": 13761, \"properties\": {\"GlobalID\": \"{AC00C508-E63F-4FD9-AA6F-D6AA118428B7}\", \"OBJECTID\": 13761, \"Polling_di\": \"RCS6\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{DDF0EFD4-3CBB-4C88-81AB-E45A23F3F7A4}",
+        "OBJECTID": 13762,
+        "Polling_di": "RCS7",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.013684986139923, 51.2716819097344]], \"type\": \"MultiPoint\"}, \"id\": 13762, \"properties\": {\"GlobalID\": \"{DDF0EFD4-3CBB-4C88-81AB-E45A23F3F7A4}\", \"OBJECTID\": 13762, \"Polling_di\": \"RCS7\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{DC6FDCCC-6A54-4924-BE27-5F9C671B6E39}",
+        "OBJECTID": 13763,
+        "Polling_di": "RCS8",
+        "Ward": "Chartham and Stone Street",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0563987428994115, 51.28253546743321]], \"type\": \"MultiPoint\"}, \"id\": 13763, \"properties\": {\"GlobalID\": \"{DC6FDCCC-6A54-4924-BE27-5F9C671B6E39}\", \"OBJECTID\": 13763, \"Polling_di\": \"RCS8\", \"Ward\": \"Chartham and Stone Street\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{01129447-CA20-4138-B3FC-FC50931483BD}",
+        "OBJECTID": 13764,
+        "Polling_di": "RBF6",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0463658565560632, 51.288703433128674]], \"type\": \"MultiPoint\"}, \"id\": 13764, \"properties\": {\"GlobalID\": \"{01129447-CA20-4138-B3FC-FC50931483BD}\", \"OBJECTID\": 13764, \"Polling_di\": \"RBF6\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{FAC7A7A7-B638-4360-9A85-341F97346634}",
+        "OBJECTID": 13765,
+        "Polling_di": "RSA1",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1646510024788166, 51.273980089892575]], \"type\": \"MultiPoint\"}, \"id\": 13765, \"properties\": {\"GlobalID\": \"{FAC7A7A7-B638-4360-9A85-341F97346634}\", \"OBJECTID\": 13765, \"Polling_di\": \"RSA1\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{18591C4E-91C3-4414-B3B2-45F8B5CC124B}",
+        "OBJECTID": 13766,
+        "Polling_di": "RSA3",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1841462367148228, 51.27628046128746]], \"type\": \"MultiPoint\"}, \"id\": 13766, \"properties\": {\"GlobalID\": \"{18591C4E-91C3-4414-B3B2-45F8B5CC124B}\", \"OBJECTID\": 13766, \"Polling_di\": \"RSA3\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{EED82BC7-6339-4A73-B0D6-ED15A60B59D6}",
+        "OBJECTID": 13767,
+        "Polling_di": "RSA2",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1846532146945923, 51.28442955135655]], \"type\": \"MultiPoint\"}, \"id\": 13767, \"properties\": {\"GlobalID\": \"{EED82BC7-6339-4A73-B0D6-ED15A60B59D6}\", \"OBJECTID\": 13767, \"Polling_di\": \"RSA2\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{ACBB10A2-6BDF-4DE2-BF76-BF0FBF426D3F}",
+        "OBJECTID": 13768,
+        "Polling_di": "RS7",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.144011904955084, 51.30721016657839]], \"type\": \"MultiPoint\"}, \"id\": 13768, \"properties\": {\"GlobalID\": \"{ACBB10A2-6BDF-4DE2-BF76-BF0FBF426D3F}\", \"OBJECTID\": 13768, \"Polling_di\": \"RS7\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{497BCE65-DF2F-405C-99E3-88BD328E192A}",
+        "OBJECTID": 13769,
+        "Polling_di": "RS5",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1638767464144637, 51.31667383392616]], \"type\": \"MultiPoint\"}, \"id\": 13769, \"properties\": {\"GlobalID\": \"{497BCE65-DF2F-405C-99E3-88BD328E192A}\", \"OBJECTID\": 13769, \"Polling_di\": \"RS5\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{1E04DD3B-6524-4D7A-8C5E-7EA16EF2DF78}",
+        "OBJECTID": 13770,
+        "Polling_di": "HR1",
+        "Ward": "Reculver",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1639052947237285, 51.335106715958396]], \"type\": \"MultiPoint\"}, \"id\": 13770, \"properties\": {\"GlobalID\": \"{1E04DD3B-6524-4D7A-8C5E-7EA16EF2DF78}\", \"OBJECTID\": 13770, \"Polling_di\": \"HR1\", \"Ward\": \"Reculver\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{143647C5-E9CB-4B95-9108-D35D3831265B}",
+        "OBJECTID": 13771,
+        "Polling_di": "HR2",
+        "Ward": "Reculver",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1919633060956623, 51.334339609995546]], \"type\": \"MultiPoint\"}, \"id\": 13771, \"properties\": {\"GlobalID\": \"{143647C5-E9CB-4B95-9108-D35D3831265B}\", \"OBJECTID\": 13771, \"Polling_di\": \"HR2\", \"Ward\": \"Reculver\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{5A0CFB5F-3B04-4CA8-B476-DBB18F537BAD}",
+        "OBJECTID": 13772,
+        "Polling_di": "RN2",
+        "Ward": "Nailbourne",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1350973170165928, 51.23022113532714]], \"type\": \"MultiPoint\"}, \"id\": 13772, \"properties\": {\"GlobalID\": \"{5A0CFB5F-3B04-4CA8-B476-DBB18F537BAD}\", \"OBJECTID\": 13772, \"Polling_di\": \"RN2\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{53790CB8-AE4C-49DB-8FC7-095D6488D9E1}",
+        "OBJECTID": 13773,
+        "Polling_di": "RN1",
+        "Ward": "Nailbourne",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1238817677840696, 51.24705339571171]], \"type\": \"MultiPoint\"}, \"id\": 13773, \"properties\": {\"GlobalID\": \"{53790CB8-AE4C-49DB-8FC7-095D6488D9E1}\", \"OBJECTID\": 13773, \"Polling_di\": \"RN1\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{7D101AD8-AA1E-45F6-92F2-06F95206231F}",
+        "OBJECTID": 13774,
+        "Polling_di": "RSA6",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1392461759917867, 51.2603180453647]], \"type\": \"MultiPoint\"}, \"id\": 13774, \"properties\": {\"GlobalID\": \"{7D101AD8-AA1E-45F6-92F2-06F95206231F}\", \"OBJECTID\": 13774, \"Polling_di\": \"RSA6\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{2934F8AB-E802-4A52-8E10-27804EF20EF0}",
+        "OBJECTID": 13775,
+        "Polling_di": "RSA5",
+        "Ward": "Little Stour & Adisham",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1392391484935618, 51.260322459709265]], \"type\": \"MultiPoint\"}, \"id\": 13775, \"properties\": {\"GlobalID\": \"{2934F8AB-E802-4A52-8E10-27804EF20EF0}\", \"OBJECTID\": 13775, \"Polling_di\": \"RSA5\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{DBC74480-1BCE-4AF5-AE39-1E04B3715FB4}",
+        "OBJECTID": 13776,
+        "Polling_di": "RS1",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1087601045331186, 51.31113632858384]], \"type\": \"MultiPoint\"}, \"id\": 13776, \"properties\": {\"GlobalID\": \"{DBC74480-1BCE-4AF5-AE39-1E04B3715FB4}\", \"OBJECTID\": 13776, \"Polling_di\": \"RS1\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{0A26C661-5E4C-47F7-A6CD-210389026BFB}",
+        "OBJECTID": 13777,
+        "Polling_di": "RS3",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.122552726107551, 51.305343075772754]], \"type\": \"MultiPoint\"}, \"id\": 13777, \"properties\": {\"GlobalID\": \"{0A26C661-5E4C-47F7-A6CD-210389026BFB}\", \"OBJECTID\": 13777, \"Polling_di\": \"RS3\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{ED6FCED2-75F8-429D-A991-FFFD63092851}",
+        "OBJECTID": 13778,
+        "Polling_di": "RS6",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1276455987108116, 51.295135704500716]], \"type\": \"MultiPoint\"}, \"id\": 13778, \"properties\": {\"GlobalID\": \"{ED6FCED2-75F8-429D-A991-FFFD63092851}\", \"OBJECTID\": 13778, \"Polling_di\": \"RS6\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{FFC4B470-C7D1-4B39-8A3D-CB09C937A6A9}",
+        "OBJECTID": 13779,
+        "Polling_di": "RS4",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1211689055951735, 51.298209603397126]], \"type\": \"MultiPoint\"}, \"id\": 13779, \"properties\": {\"GlobalID\": \"{FFC4B470-C7D1-4B39-8A3D-CB09C937A6A9}\", \"OBJECTID\": 13779, \"Polling_di\": \"RS4\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{0231E5AC-4915-4DD7-903F-04BB6B25DFE0}",
+        "OBJECTID": 13780,
+        "Polling_di": "RS2",
+        "Ward": "Sturry",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.122546210151864, 51.30534990391937]], \"type\": \"MultiPoint\"}, \"id\": 13780, \"properties\": {\"GlobalID\": \"{0231E5AC-4915-4DD7-903F-04BB6B25DFE0}\", \"OBJECTID\": 13780, \"Polling_di\": \"RS2\", \"Ward\": \"Sturry\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{184E5B0D-0D85-46AE-9BC2-C08882F48DD9}",
+        "OBJECTID": 13781,
+        "Polling_di": "CB1",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0854746996024123, 51.27789838544505]], \"type\": \"MultiPoint\"}, \"id\": 13781, \"properties\": {\"GlobalID\": \"{184E5B0D-0D85-46AE-9BC2-C08882F48DD9}\", \"OBJECTID\": 13781, \"Polling_di\": \"CB1\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{A005969E-EC9B-492C-8F89-5425C3052C0A}",
+        "OBJECTID": 13782,
+        "Polling_di": "CB2",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0952858478667677, 51.27812559300621]], \"type\": \"MultiPoint\"}, \"id\": 13782, \"properties\": {\"GlobalID\": \"{A005969E-EC9B-492C-8F89-5425C3052C0A}\", \"OBJECTID\": 13782, \"Polling_di\": \"CB2\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{A47FDF00-8351-48B9-9A32-00841512C48C}",
+        "OBJECTID": 13783,
+        "Polling_di": "CB3",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.085467768086513, 51.277900816918105]], \"type\": \"MultiPoint\"}, \"id\": 13783, \"properties\": {\"GlobalID\": \"{A47FDF00-8351-48B9-9A32-00841512C48C}\", \"OBJECTID\": 13783, \"Polling_di\": \"CB3\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{29C055D5-E000-4192-AA9D-2FADEDC3FC54}",
+        "OBJECTID": 13784,
+        "Polling_di": "CB4",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1017344849663457, 51.27511976698299]], \"type\": \"MultiPoint\"}, \"id\": 13784, \"properties\": {\"GlobalID\": \"{29C055D5-E000-4192-AA9D-2FADEDC3FC54}\", \"OBJECTID\": 13784, \"Polling_di\": \"CB4\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{B82B6B58-36A6-44D3-A7C2-5F5C15CE4704}",
+        "OBJECTID": 13785,
+        "Polling_di": "CB5",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0995152781870456, 51.26848792731668]], \"type\": \"MultiPoint\"}, \"id\": 13785, \"properties\": {\"GlobalID\": \"{B82B6B58-36A6-44D3-A7C2-5F5C15CE4704}\", \"OBJECTID\": 13785, \"Polling_di\": \"CB5\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{48668C48-1214-4457-B983-5F4314FD3781}",
+        "OBJECTID": 13786,
+        "Polling_di": "CN3",
+        "Ward": "Northgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0838788040667726, 51.28568343475559]], \"type\": \"MultiPoint\"}, \"id\": 13786, \"properties\": {\"GlobalID\": \"{48668C48-1214-4457-B983-5F4314FD3781}\", \"OBJECTID\": 13786, \"Polling_di\": \"CN3\", \"Ward\": \"Northgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{D67E21B6-3825-4F06-9A10-F07A80F66B2F}",
+        "OBJECTID": 13787,
+        "Polling_di": "CN2",
+        "Ward": "Northgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1007279410260353, 51.288545829148255]], \"type\": \"MultiPoint\"}, \"id\": 13787, \"properties\": {\"GlobalID\": \"{D67E21B6-3825-4F06-9A10-F07A80F66B2F}\", \"OBJECTID\": 13787, \"Polling_di\": \"CN2\", \"Ward\": \"Northgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{BD0194CC-660D-49ED-8D63-73AC1DBBCCCC}",
+        "OBJECTID": 13788,
+        "Polling_di": "CSS2",
+        "Ward": "St Stephens",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0784476826096063, 51.29074861995047]], \"type\": \"MultiPoint\"}, \"id\": 13788, \"properties\": {\"GlobalID\": \"{BD0194CC-660D-49ED-8D63-73AC1DBBCCCC}\", \"OBJECTID\": 13788, \"Polling_di\": \"CSS2\", \"Ward\": \"St Stephens\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{0E9D6D15-7153-4348-93AA-C3E297B720EF}",
+        "OBJECTID": 13789,
+        "Polling_di": "CSS3",
+        "Ward": "St Stephens",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0832661466915074, 51.29605455161338]], \"type\": \"MultiPoint\"}, \"id\": 13789, \"properties\": {\"GlobalID\": \"{0E9D6D15-7153-4348-93AA-C3E297B720EF}\", \"OBJECTID\": 13789, \"Polling_di\": \"CSS3\", \"Ward\": \"St Stephens\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{65055BFC-9188-481E-8A64-FC72A1C5CB1F}",
+        "OBJECTID": 13790,
+        "Polling_di": "CSS4",
+        "Ward": "St Stephens",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.083876257732606, 51.28569132539982]], \"type\": \"MultiPoint\"}, \"id\": 13790, \"properties\": {\"GlobalID\": \"{65055BFC-9188-481E-8A64-FC72A1C5CB1F}\", \"OBJECTID\": 13790, \"Polling_di\": \"CSS4\", \"Ward\": \"St Stephens\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{72B27693-A53C-4C63-B675-7C9373181F72}",
+        "OBJECTID": 13791,
+        "Polling_di": "CWE2",
+        "Ward": "Westgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0705255599336956, 51.28340034521885]], \"type\": \"MultiPoint\"}, \"id\": 13791, \"properties\": {\"GlobalID\": \"{72B27693-A53C-4C63-B675-7C9373181F72}\", \"OBJECTID\": 13791, \"Polling_di\": \"CWE2\", \"Ward\": \"Westgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{BBB7B776-1A1E-4D03-92BB-D90B5C6AD174}",
+        "OBJECTID": 13792,
+        "Polling_di": "CWE4",
+        "Ward": "Westgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0769028743067979, 51.28012622578789]], \"type\": \"MultiPoint\"}, \"id\": 13792, \"properties\": {\"GlobalID\": \"{BBB7B776-1A1E-4D03-92BB-D90B5C6AD174}\", \"OBJECTID\": 13792, \"Polling_di\": \"CWE4\", \"Ward\": \"Westgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{8CCF094F-1619-46EB-B4A2-9BE15B2669FF}",
+        "OBJECTID": 13793,
+        "Polling_di": "CWE5",
+        "Ward": "Westgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0761174284096329, 51.2756360212492]], \"type\": \"MultiPoint\"}, \"id\": 13793, \"properties\": {\"GlobalID\": \"{8CCF094F-1619-46EB-B4A2-9BE15B2669FF}\", \"OBJECTID\": 13793, \"Polling_di\": \"CWE5\", \"Ward\": \"Westgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{801D3A22-7C55-437C-B5C4-F904D173142B}",
+        "OBJECTID": 13794,
+        "Polling_di": "CWI1",
+        "Ward": "Wincheap",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0585558495479954, 51.27028807984574]], \"type\": \"MultiPoint\"}, \"id\": 13794, \"properties\": {\"GlobalID\": \"{801D3A22-7C55-437C-B5C4-F904D173142B}\", \"OBJECTID\": 13794, \"Polling_di\": \"CWI1\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{2F6D814D-3037-494D-94E1-DF972B5E32CB}",
+        "OBJECTID": 13795,
+        "Polling_di": "CWI2",
+        "Ward": "Wincheap",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0645701190126071, 51.25857060343089]], \"type\": \"MultiPoint\"}, \"id\": 13795, \"properties\": {\"GlobalID\": \"{2F6D814D-3037-494D-94E1-DF972B5E32CB}\", \"OBJECTID\": 13795, \"Polling_di\": \"CWI2\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{817EE9BA-65E9-414B-A509-4EB8A2B95329}",
+        "OBJECTID": 13796,
+        "Polling_di": "CWI4",
+        "Ward": "Wincheap",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0732502293557857, 51.27038655753179]], \"type\": \"MultiPoint\"}, \"id\": 13796, \"properties\": {\"GlobalID\": \"{817EE9BA-65E9-414B-A509-4EB8A2B95329}\", \"OBJECTID\": 13796, \"Polling_di\": \"CWI4\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{14B5A9DF-930A-4B0C-BF06-56D81FE5C8F2}",
+        "OBJECTID": 13797,
+        "Polling_di": "CWI5",
+        "Ward": "Wincheap",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0834561204205007, 51.273141483065345]], \"type\": \"MultiPoint\"}, \"id\": 13797, \"properties\": {\"GlobalID\": \"{14B5A9DF-930A-4B0C-BF06-56D81FE5C8F2}\", \"OBJECTID\": 13797, \"Polling_di\": \"CWI5\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{AC804525-F297-4413-9196-D358158B6CAD}",
+        "OBJECTID": 13798,
+        "Polling_di": "HGE1",
+        "Ward": "Greenhill",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1031910443412325, 51.36122778188117]], \"type\": \"MultiPoint\"}, \"id\": 13798, \"properties\": {\"GlobalID\": \"{AC804525-F297-4413-9196-D358158B6CAD}\", \"OBJECTID\": 13798, \"Polling_di\": \"HGE1\", \"Ward\": \"Greenhill\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{9CD07CC7-E2C5-48C7-84B1-99C61E44E9AE}",
+        "OBJECTID": 13799,
+        "Polling_di": "HGE2",
+        "Ward": "Greenhill",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1069997562754825, 51.36060198261038]], \"type\": \"MultiPoint\"}, \"id\": 13799, \"properties\": {\"GlobalID\": \"{9CD07CC7-E2C5-48C7-84B1-99C61E44E9AE}\", \"OBJECTID\": 13799, \"Polling_di\": \"HGE2\", \"Ward\": \"Greenhill\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{6D4E45D0-B71C-46AE-A30A-89800A8A3FEC}",
+        "OBJECTID": 13800,
+        "Polling_di": "HH5",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1315783848436434, 51.35873159109138]], \"type\": \"MultiPoint\"}, \"id\": 13800, \"properties\": {\"GlobalID\": \"{6D4E45D0-B71C-46AE-A30A-89800A8A3FEC}\", \"OBJECTID\": 13800, \"Polling_di\": \"HH5\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{7EA63346-3E1D-469F-A5B7-C8520BD39450}",
+        "OBJECTID": 13801,
+        "Polling_di": "HHB1",
+        "Ward": "Herne and Broomfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1344903400624131, 51.35024013323895]], \"type\": \"MultiPoint\"}, \"id\": 13801, \"properties\": {\"GlobalID\": \"{7EA63346-3E1D-469F-A5B7-C8520BD39450}\", \"OBJECTID\": 13801, \"Polling_di\": \"HHB1\", \"Ward\": \"Herne and Broomfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{11E04552-7440-4FEE-B90E-AD135E6A9796}",
+        "OBJECTID": 13802,
+        "Polling_di": "HHB2",
+        "Ward": "Herne and Broomfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1369078597645161, 51.35541064650904]], \"type\": \"MultiPoint\"}, \"id\": 13802, \"properties\": {\"GlobalID\": \"{11E04552-7440-4FEE-B90E-AD135E6A9796}\", \"OBJECTID\": 13802, \"Polling_di\": \"HHB2\", \"Ward\": \"Herne and Broomfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{8807D45A-CBE4-4E35-9D61-D6FA39C54918}",
+        "OBJECTID": 13803,
+        "Polling_di": "HHB4",
+        "Ward": "Herne and Broomfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1508500203873062, 51.358145655144405]], \"type\": \"MultiPoint\"}, \"id\": 13803, \"properties\": {\"GlobalID\": \"{8807D45A-CBE4-4E35-9D61-D6FA39C54918}\", \"OBJECTID\": 13803, \"Polling_di\": \"HHB4\", \"Ward\": \"Herne and Broomfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{73B46C08-952B-46D4-9D7E-6B6BFC44BC9A}",
+        "OBJECTID": 13804,
+        "Polling_di": "HHB3",
+        "Ward": "Herne and Broomfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1508500203873062, 51.358145655144405]], \"type\": \"MultiPoint\"}, \"id\": 13804, \"properties\": {\"GlobalID\": \"{73B46C08-952B-46D4-9D7E-6B6BFC44BC9A}\", \"OBJECTID\": 13804, \"Polling_di\": \"HHB3\", \"Ward\": \"Herne and Broomfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{751B760C-55D1-4B34-95BA-DB179151978A}",
+        "OBJECTID": 13805,
+        "Polling_di": "HH1",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1153811536006297, 51.37058337694304]], \"type\": \"MultiPoint\"}, \"id\": 13805, \"properties\": {\"GlobalID\": \"{751B760C-55D1-4B34-95BA-DB179151978A}\", \"OBJECTID\": 13805, \"Polling_di\": \"HH1\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{32F1F259-C528-4E7E-918A-5C5E71BBF4A9}",
+        "OBJECTID": 13806,
+        "Polling_di": "HH2",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1240306465228038, 51.370033488360455]], \"type\": \"MultiPoint\"}, \"id\": 13806, \"properties\": {\"GlobalID\": \"{32F1F259-C528-4E7E-918A-5C5E71BBF4A9}\", \"OBJECTID\": 13806, \"Polling_di\": \"HH2\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{5DCE2E09-C10E-4877-90CE-01882038AD19}",
+        "OBJECTID": 13807,
+        "Polling_di": "HH3",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1290288176865166, 51.37031327984483]], \"type\": \"MultiPoint\"}, \"id\": 13807, \"properties\": {\"GlobalID\": \"{5DCE2E09-C10E-4877-90CE-01882038AD19}\", \"OBJECTID\": 13807, \"Polling_di\": \"HH3\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{D8060C13-7CE8-4198-953A-FC2EBD69EE46}",
+        "OBJECTID": 13808,
+        "Polling_di": "HH4",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.129029117753313, 51.3703176782878]], \"type\": \"MultiPoint\"}, \"id\": 13808, \"properties\": {\"GlobalID\": \"{D8060C13-7CE8-4198-953A-FC2EBD69EE46}\", \"OBJECTID\": 13808, \"Polling_di\": \"HH4\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{2D38D964-1B1D-4A82-A099-2009F96E10EF}",
+        "OBJECTID": 13809,
+        "Polling_di": "HB3",
+        "Ward": "Beltinge",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1556399834025333, 51.37066976882333]], \"type\": \"MultiPoint\"}, \"id\": 13809, \"properties\": {\"GlobalID\": \"{2D38D964-1B1D-4A82-A099-2009F96E10EF}\", \"OBJECTID\": 13809, \"Polling_di\": \"HB3\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{17EB7841-EBED-4B41-A536-F1FFD1AF6D15}",
+        "OBJECTID": 13810,
+        "Polling_di": "HWB1",
+        "Ward": "West Bay",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.095309372995411, 51.36690384487386]], \"type\": \"MultiPoint\"}, \"id\": 13810, \"properties\": {\"GlobalID\": \"{17EB7841-EBED-4B41-A536-F1FFD1AF6D15}\", \"OBJECTID\": 13810, \"Polling_di\": \"HWB1\", \"Ward\": \"West Bay\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{836ADA17-69A9-484C-8AA0-698A59AD72C1}",
+        "OBJECTID": 13811,
+        "Polling_di": "HWB2",
+        "Ward": "West Bay",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0989104257656679, 51.365866577251275]], \"type\": \"MultiPoint\"}, \"id\": 13811, \"properties\": {\"GlobalID\": \"{836ADA17-69A9-484C-8AA0-698A59AD72C1}\", \"OBJECTID\": 13811, \"Polling_di\": \"HWB2\", \"Ward\": \"West Bay\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{B9545853-7A13-4594-B505-DFA718D7FE31}",
+        "OBJECTID": 13812,
+        "Polling_di": "HH6",
+        "Ward": "Heron",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1121674795470202, 51.367723967018435]], \"type\": \"MultiPoint\"}, \"id\": 13812, \"properties\": {\"GlobalID\": \"{B9545853-7A13-4594-B505-DFA718D7FE31}\", \"OBJECTID\": 13812, \"Polling_di\": \"HH6\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{C8783C9C-3F02-41EE-AE7C-B06DF9F7B9D1}",
+        "OBJECTID": 13813,
+        "Polling_di": "WC2",
+        "Ward": "Chestfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0405340498875013, 51.35575123506885]], \"type\": \"MultiPoint\"}, \"id\": 13813, \"properties\": {\"GlobalID\": \"{C8783C9C-3F02-41EE-AE7C-B06DF9F7B9D1}\", \"OBJECTID\": 13813, \"Polling_di\": \"WC2\", \"Ward\": \"Chestfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{F0DFD3B4-112B-4525-A96C-71F6B16C3F30}",
+        "OBJECTID": 13814,
+        "Polling_di": "WC1",
+        "Ward": "Chestfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0405269555772756, 51.355751419331646]], \"type\": \"MultiPoint\"}, \"id\": 13814, \"properties\": {\"GlobalID\": \"{F0DFD3B4-112B-4525-A96C-71F6B16C3F30}\", \"OBJECTID\": 13814, \"Polling_di\": \"WC1\", \"Ward\": \"Chestfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{C4268AC9-DEF3-4480-AADA-1A435D243CF0}",
+        "OBJECTID": 13815,
+        "Polling_di": "WC3",
+        "Ward": "Chestfield",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.064837847711798, 51.35586792251417]], \"type\": \"MultiPoint\"}, \"id\": 13815, \"properties\": {\"GlobalID\": \"{C4268AC9-DEF3-4480-AADA-1A435D243CF0}\", \"OBJECTID\": 13815, \"Polling_di\": \"WC3\", \"Ward\": \"Chestfield\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{5956FEC1-6DF5-4590-A9A0-4089BC60DFD0}",
+        "OBJECTID": 13816,
+        "Polling_di": "WSW1",
+        "Ward": "Swalecliffe",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0674931368230722, 51.36199723707949]], \"type\": \"MultiPoint\"}, \"id\": 13816, \"properties\": {\"GlobalID\": \"{5956FEC1-6DF5-4590-A9A0-4089BC60DFD0}\", \"OBJECTID\": 13816, \"Polling_di\": \"WSW1\", \"Ward\": \"Swalecliffe\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{28FD6F86-FEAE-4AE4-81D9-B6115E3243DD}",
+        "OBJECTID": 13817,
+        "Polling_di": "WG1",
+        "Ward": "Gorrell",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0276071333556327, 51.34997764534851]], \"type\": \"MultiPoint\"}, \"id\": 13817, \"properties\": {\"GlobalID\": \"{28FD6F86-FEAE-4AE4-81D9-B6115E3243DD}\", \"OBJECTID\": 13817, \"Polling_di\": \"WG1\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{A51E0A88-EDAF-4B9D-823D-ACF44588F663}",
+        "OBJECTID": 13818,
+        "Polling_di": "WG2",
+        "Ward": "Gorrell",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0279981413400416, 51.354378946608286]], \"type\": \"MultiPoint\"}, \"id\": 13818, \"properties\": {\"GlobalID\": \"{A51E0A88-EDAF-4B9D-823D-ACF44588F663}\", \"OBJECTID\": 13818, \"Polling_di\": \"WG2\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{91C7D47E-974F-4F39-B686-FA96EEDC7C25}",
+        "OBJECTID": 13819,
+        "Polling_di": "WG3",
+        "Ward": "Gorrell",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0239542946409805, 51.357675857416524]], \"type\": \"MultiPoint\"}, \"id\": 13819, \"properties\": {\"GlobalID\": \"{91C7D47E-974F-4F39-B686-FA96EEDC7C25}\", \"OBJECTID\": 13819, \"Polling_di\": \"WG3\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{A1182B06-663D-4FE7-A082-B659274C89B1}",
+        "OBJECTID": 13820,
+        "Polling_di": "WG4",
+        "Ward": "Gorrell",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0302834179252458, 51.36033231838896]], \"type\": \"MultiPoint\"}, \"id\": 13820, \"properties\": {\"GlobalID\": \"{A1182B06-663D-4FE7-A082-B659274C89B1}\", \"OBJECTID\": 13820, \"Polling_di\": \"WG4\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{0C08CED1-B858-40BB-9C1D-CE4BEB17D1F8}",
+        "OBJECTID": 13821,
+        "Polling_di": "WSE1",
+        "Ward": "Seasalter",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0004779845587106, 51.34438898147915]], \"type\": \"MultiPoint\"}, \"id\": 13821, \"properties\": {\"GlobalID\": \"{0C08CED1-B858-40BB-9C1D-CE4BEB17D1F8}\", \"OBJECTID\": 13821, \"Polling_di\": \"WSE1\", \"Ward\": \"Seasalter\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{6641BF76-3568-467E-A723-A8F0B70E53C8}",
+        "OBJECTID": 13822,
+        "Polling_di": "WSE3",
+        "Ward": "Seasalter",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0190816274923242, 51.348983306547645]], \"type\": \"MultiPoint\"}, \"id\": 13822, \"properties\": {\"GlobalID\": \"{6641BF76-3568-467E-A723-A8F0B70E53C8}\", \"OBJECTID\": 13822, \"Polling_di\": \"WSE3\", \"Ward\": \"Seasalter\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{8362C326-A02A-4708-A3FF-2F86566561EA}",
+        "OBJECTID": 13823,
+        "Polling_di": "WT1",
+        "Ward": "Tankerton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.03806592516553, 51.36117205186795]], \"type\": \"MultiPoint\"}, \"id\": 13823, \"properties\": {\"GlobalID\": \"{8362C326-A02A-4708-A3FF-2F86566561EA}\", \"OBJECTID\": 13823, \"Polling_di\": \"WT1\", \"Ward\": \"Tankerton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{AD6293DA-DA88-4C66-997D-CF8689439534}",
+        "OBJECTID": 13824,
+        "Polling_di": "WT2",
+        "Ward": "Tankerton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0585484964955758, 51.36100746818831]], \"type\": \"MultiPoint\"}, \"id\": 13824, \"properties\": {\"GlobalID\": \"{AD6293DA-DA88-4C66-997D-CF8689439534}\", \"OBJECTID\": 13824, \"Polling_di\": \"WT2\", \"Ward\": \"Tankerton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{BDF88C30-631F-4555-8285-760CF7412474}",
+        "OBJECTID": 13825,
+        "Polling_di": "HR3",
+        "Ward": "Reculver",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1754875138510223, 51.367895030014715]], \"type\": \"MultiPoint\"}, \"id\": 13825, \"properties\": {\"GlobalID\": \"{BDF88C30-631F-4555-8285-760CF7412474}\", \"OBJECTID\": 13825, \"Polling_di\": \"HR3\", \"Ward\": \"Reculver\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{190651A5-0909-42F4-A0E6-8E1902D864EA}",
+        "OBJECTID": 13826,
+        "Polling_di": "CB8",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1228015282171584, 51.278895566372476]], \"type\": \"MultiPoint\"}, \"id\": 13826, \"properties\": {\"GlobalID\": \"{190651A5-0909-42F4-A0E6-8E1902D864EA}\", \"OBJECTID\": 13826, \"Polling_di\": \"CB8\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{E284E1F2-0DDD-4754-A9C4-B60CBEC7A21A}",
+        "OBJECTID": 13827,
+        "Polling_di": "CSS1",
+        "Ward": "St Stephens",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.070869213227423, 51.28495953458188]], \"type\": \"MultiPoint\"}, \"id\": 13827, \"properties\": {\"GlobalID\": \"{E284E1F2-0DDD-4754-A9C4-B60CBEC7A21A}\", \"OBJECTID\": 13827, \"Polling_di\": \"CSS1\", \"Ward\": \"St Stephens\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{9C3B2A13-BA6E-49B7-A277-4F4FE37064D6}",
+        "OBJECTID": 13828,
+        "Polling_di": "CWE3",
+        "Ward": "Westgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0628581744648515, 51.27864861106168]], \"type\": \"MultiPoint\"}, \"id\": 13828, \"properties\": {\"GlobalID\": \"{9C3B2A13-BA6E-49B7-A277-4F4FE37064D6}\", \"OBJECTID\": 13828, \"Polling_di\": \"CWE3\", \"Ward\": \"Westgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{E79FCAD1-A17A-47E1-AAD7-AC27CBEF2F84}",
+        "OBJECTID": 13829,
+        "Polling_di": "WSE2",
+        "Ward": "Seasalter",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0190816274923242, 51.348983306547645]], \"type\": \"MultiPoint\"}, \"id\": 13829, \"properties\": {\"GlobalID\": \"{E79FCAD1-A17A-47E1-AAD7-AC27CBEF2F84}\", \"OBJECTID\": 13829, \"Polling_di\": \"WSE2\", \"Ward\": \"Seasalter\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{FE876F62-1C5D-4904-A2EE-B07BA47E4AF0}",
+        "OBJECTID": 13830,
+        "Polling_di": "CN1",
+        "Ward": "Northgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0933371607533546, 51.284554403959966]], \"type\": \"MultiPoint\"}, \"id\": 13830, \"properties\": {\"GlobalID\": \"{FE876F62-1C5D-4904-A2EE-B07BA47E4AF0}\", \"OBJECTID\": 13830, \"Polling_di\": \"CN1\", \"Ward\": \"Northgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{4D2D0B87-23EF-430D-A8D2-8295E9897F96}",
+        "OBJECTID": 13831,
+        "Polling_di": "WSW2",
+        "Ward": "Swalecliffe",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0585484964955758, 51.36100746818831]], \"type\": \"MultiPoint\"}, \"id\": 13831, \"properties\": {\"GlobalID\": \"{4D2D0B87-23EF-430D-A8D2-8295E9897F96}\", \"OBJECTID\": 13831, \"Polling_di\": \"WSW2\", \"Ward\": \"Swalecliffe\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{C4FBF040-0257-4EAD-9969-3839BDCDB7E0}",
+        "OBJECTID": 13832,
+        "Polling_di": "RBF5",
+        "Ward": "Blean Forest",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0708390331891693, 51.28494854740488]], \"type\": \"MultiPoint\"}, \"id\": 13832, \"properties\": {\"GlobalID\": \"{C4FBF040-0257-4EAD-9969-3839BDCDB7E0}\", \"OBJECTID\": 13832, \"Polling_di\": \"RBF5\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{D223D375-3995-4B80-BFFE-12F0C6B0A9C2}",
+        "OBJECTID": 13833,
+        "Polling_di": "CB6",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0834561204205007, 51.273141483065345]], \"type\": \"MultiPoint\"}, \"id\": 13833, \"properties\": {\"GlobalID\": \"{D223D375-3995-4B80-BFFE-12F0C6B0A9C2}\", \"OBJECTID\": 13833, \"Polling_di\": \"CB6\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{2ABFCD36-89FA-4193-8540-BAB6AEABDB4A}",
+        "OBJECTID": 13834,
+        "Polling_di": "CWE1",
+        "Ward": "Westgate",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0769081356661534, 51.28014479082229]], \"type\": \"MultiPoint\"}, \"id\": 13834, \"properties\": {\"GlobalID\": \"{2ABFCD36-89FA-4193-8540-BAB6AEABDB4A}\", \"OBJECTID\": 13834, \"Polling_di\": \"CWE1\", \"Ward\": \"Westgate\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{7348FB30-863A-4D43-9173-B095F95ED6F4}",
+        "OBJECTID": 13835,
+        "Polling_di": "WG5",
+        "Ward": "Gorrell",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0279981413400416, 51.354378946608286]], \"type\": \"MultiPoint\"}, \"id\": 13835, \"properties\": {\"GlobalID\": \"{7348FB30-863A-4D43-9173-B095F95ED6F4}\", \"OBJECTID\": 13835, \"Polling_di\": \"WG5\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{F9F01AA5-F531-45A4-BB66-C90D0E11F1B7}",
+        "OBJECTID": 13836,
+        "Polling_di": "CWI3",
+        "Ward": "Wincheap",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0732502293557857, 51.27038655753179]], \"type\": \"MultiPoint\"}, \"id\": 13836, \"properties\": {\"GlobalID\": \"{F9F01AA5-F531-45A4-BB66-C90D0E11F1B7}\", \"OBJECTID\": 13836, \"Polling_di\": \"CWI3\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{AB133625-1288-4C59-99E9-AA6C65F30269}",
+        "OBJECTID": 13837,
+        "Polling_di": "HB4",
+        "Ward": "Beltinge",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1436580488214252, 51.36717967330744]], \"type\": \"MultiPoint\"}, \"id\": 13837, \"properties\": {\"GlobalID\": \"{AB133625-1288-4C59-99E9-AA6C65F30269}\", \"OBJECTID\": 13837, \"Polling_di\": \"HB4\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{897D0FEC-9332-42CA-9B5A-254FA8C03373}",
+        "OBJECTID": 13838,
+        "Polling_di": "HB2",
+        "Ward": "Beltinge",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1436580488214252, 51.36717967330744]], \"type\": \"MultiPoint\"}, \"id\": 13838, \"properties\": {\"GlobalID\": \"{897D0FEC-9332-42CA-9B5A-254FA8C03373}\", \"OBJECTID\": 13838, \"Polling_di\": \"HB2\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{239DA02E-0FB5-4549-9244-EA63D0B1DCDD}",
+        "OBJECTID": 13839,
+        "Polling_di": "HB1",
+        "Ward": "Beltinge",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1420612745213152, 51.36770937317186]], \"type\": \"MultiPoint\"}, \"id\": 13839, \"properties\": {\"GlobalID\": \"{239DA02E-0FB5-4549-9244-EA63D0B1DCDD}\", \"OBJECTID\": 13839, \"Polling_di\": \"HB1\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+    }
+]
