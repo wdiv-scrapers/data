@@ -1,0 +1,890 @@
+[
+    {
+        "EnwGorsaf": "Neuadd y Pentre Nanhyfer",
+        "StationID": 1,
+        "StationName": "Nevern Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.795223213156922, 52.024208126556424], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.1\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentre Nanhyfer\", \"StationID\": 1, \"StationName\": \"Nevern Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.1"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 1, Neuadd y Dref, Abergwaun",
+        "StationID": 10,
+        "StationName": "No 1 Station, Town Hall, Fishguard",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.975780940018972, 51.9937440904016], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.10\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 1, Neuadd y Dref, Abergwaun\", \"StationID\": 10, \"StationName\": \"No 1 Station, Town Hall, Fishguard\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.10"
+    },
+    {
+        "EnwGorsaf": "Canolfan Gymunedol Cas-lai",
+        "StationID": 100,
+        "StationName": "Hayscastle Community Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.049727001781833, 51.899497162824126], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.100\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Cas-lai\", \"StationID\": 100, \"StationName\": \"Hayscastle Community Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.100"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol Maenclochog",
+        "StationID": 101,
+        "StationName": "Maenclochog Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.7862258058859855, 51.91226119411603], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.101\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Maenclochog\", \"StationID\": 101, \"StationName\": \"Maenclochog Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.101"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol Clynderwen",
+        "StationID": 102,
+        "StationName": "Clunderwen Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.7303613351474025, 51.84403592488297], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.102\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Clynderwen\", \"StationID\": 102, \"StationName\": \"Clunderwen Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.102"
+    },
+    {
+        "EnwGorsaf": "Canolfan Ddydd Meadow park, Prendergast",
+        "StationID": 103,
+        "StationName": "Meadow Park Day Centre, Prendergast",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.960268140149087, 51.80814709075989], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.103\", \"properties\": {\"EnwGorsaf\": \"Canolfan Ddydd Meadow park, Prendergast\", \"StationID\": 103, \"StationName\": \"Meadow Park Day Centre, Prendergast\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.103"
+    },
+    {
+        "EnwGorsaf": "The Lounge, Hilton House, Mount Estate, Aberdaugleddau",
+        "StationID": 104,
+        "StationName": "The Lounge, Hilton House, Mount Estate, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.024180062142529, 51.7171931773846], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.104\", \"properties\": {\"EnwGorsaf\": \"The Lounge, Hilton House, Mount Estate, Aberdaugleddau\", \"StationID\": 104, \"StationName\": \"The Lounge, Hilton House, Mount Estate, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.104"
+    },
+    {
+        "EnwGorsaf": "Woodridge Inn, Wooden",
+        "StationID": 105,
+        "StationName": "Woodridge Inn, Wooden",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.733807354855675, 51.71452226166458], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.105\", \"properties\": {\"EnwGorsaf\": \"Woodridge Inn, Wooden\", \"StationID\": 105, \"StationName\": \"Woodridge Inn, Wooden\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.105"
+    },
+    {
+        "EnwGorsaf": "Clwb Rygbi Penfro",
+        "StationID": 106,
+        "StationName": "Pembroke Rugby Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.8996181292332555, 51.67358599898615], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.106\", \"properties\": {\"EnwGorsaf\": \"Clwb Rygbi Penfro\", \"StationID\": 106, \"StationName\": \"Pembroke Rugby Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.106"
+    },
+    {
+        "EnwGorsaf": "Ysgol Ystagbwll",
+        "StationID": 107,
+        "StationName": "Stackpole VC School",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.913696634278407, 51.630746211905326], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.107\", \"properties\": {\"EnwGorsaf\": \"Ysgol Ystagbwll\", \"StationID\": 107, \"StationName\": \"Stackpole VC School\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.107"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 2, Neuadd y Dref, Abergwaun",
+        "StationID": 108,
+        "StationName": "No 2 Station, Town Hall, Fishguard",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.975803969061287, 51.993733748061224], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.108\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2, Neuadd y Dref, Abergwaun\", \"StationID\": 108, \"StationName\": \"No 2 Station, Town Hall, Fishguard\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.108"
+    },
+    {
+        "EnwGorsaf": "Ystafell Gyfarfod Cefn, Neuadd Gymunedol Maenclochog",
+        "StationID": 109,
+        "StationName": "Back Meeting Room, Maenclochog Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.786286767902526, 51.91230804658608], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.109\", \"properties\": {\"EnwGorsaf\": \"Ystafell Gyfarfod Cefn, Neuadd Gymunedol Maenclochog\", \"StationID\": 109, \"StationName\": \"Back Meeting Room, Maenclochog Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.109"
+    },
+    {
+        "EnwGorsaf": "Neuadd Scout Wdig, Y Parrog, Wdig",
+        "StationID": 11,
+        "StationName": "Goodwick Scout Hall, The Parrog, Goodwick",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.992103464228673, 52.00176596429086], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.11\", \"properties\": {\"EnwGorsaf\": \"Neuadd Scout Wdig, Y Parrog, Wdig\", \"StationID\": 11, \"StationName\": \"Goodwick Scout Hall, The Parrog, Goodwick\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.11"
+    },
+    {
+        "EnwGorsaf": "Eglwys Efengyl Emmanuel",
+        "StationID": 110,
+        "StationName": "Emmanuel Gospel Church",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.795659338096549, 51.655789646353696], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.110\", \"properties\": {\"EnwGorsaf\": \"Eglwys Efengyl Emmanuel\", \"StationID\": 110, \"StationName\": \"Emmanuel Gospel Church\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.110"
+    },
+    {
+        "EnwGorsaf": "Neuadd Scout & Guide Penfro, Woodbine Terrace",
+        "StationID": 111,
+        "StationName": "Pembroke Scout & Guide Hall, Woodbine Terrace",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.913302291184893, 51.67768784401246], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.111\", \"properties\": {\"EnwGorsaf\": \"Neuadd Scout & Guide Penfro, Woodbine Terrace\", \"StationID\": 111, \"StationName\": \"Pembroke Scout & Guide Hall, Woodbine Terrace\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.111"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Tremarchog",
+        "StationID": 12,
+        "StationName": "St Nicholas Village Hall, St Nicholas",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.058567024001633, 51.979276875202515], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.12\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Tremarchog\", \"StationID\": 12, \"StationName\": \"St Nicholas Village Hall, St Nicholas\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.12"
+    },
+    {
+        "EnwGorsaf": "Neuadd CFI Trefwrdan",
+        "StationID": 127,
+        "StationName": "Jordanston YFC Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.014642503454669, 51.95835766095519], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.127\", \"properties\": {\"EnwGorsaf\": \"Neuadd CFI Trefwrdan\", \"StationID\": 127, \"StationName\": \"Jordanston YFC Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.127"
+    },
+    {
+        "EnwGorsaf": "Festri Capel Glandwr, Llanychaer",
+        "StationID": 13,
+        "StationName": "Glandwr Chapel Vestry, Llanychaer",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.926228646474174, 51.976421221879136], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.13\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Glandwr, Llanychaer\", \"StationID\": 13, \"StationName\": \"Glandwr Chapel Vestry, Llanychaer\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.13"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Treletert",
+        "StationID": 14,
+        "StationName": "Letterston Memorial Hall, Letterston",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.987702693944051, 51.92830618002284], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.14\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Treletert\", \"StationID\": 14, \"StationName\": \"Letterston Memorial Hall, Letterston\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.14"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol Mathri",
+        "StationID": 15,
+        "StationName": "Mathry Community Hall, Mathry",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.0881274756248045, 51.94631443030209], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.15\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Mathri\", \"StationID\": 15, \"StationName\": \"Mathry Community Hall, Mathry\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.15"
+    },
+    {
+        "EnwGorsaf": "Festri Capel y Bedyddwyr Croesgoch",
+        "StationID": 16,
+        "StationName": "Croesgoch Baptist Chapel Vestry, Croesgoch",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.158758094561726, 51.92886790733637], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.16\", \"properties\": {\"EnwGorsaf\": \"Festri Capel y Bedyddwyr Croesgoch\", \"StationID\": 16, \"StationName\": \"Croesgoch Baptist Chapel Vestry, Croesgoch\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.16"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentre Trefin",
+        "StationID": 17,
+        "StationName": "Trefin Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.144319005148681, 51.948886460276164], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.17\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentre Trefin\", \"StationID\": 17, \"StationName\": \"Trefin Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.17"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Ddinas Tyddewi",
+        "StationID": 18,
+        "StationName": "St Davids City Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.264369308713987, 51.880621497742965], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.18\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Ddinas Tyddewi\", \"StationID\": 18, \"StationName\": \"St Davids City Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.18"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Solfach",
+        "StationID": 19,
+        "StationName": "Solva Memorial Hall, Solva",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.1972120491059455, 51.87384701650714], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.19\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Solfach\", \"StationID\": 19, \"StationName\": \"Solva Memorial Hall, Solva\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.19"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Hen Ysgol Trewyddel",
+        "StationID": 2,
+        "StationName": "Moylegrove Old School Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.749202021639591, 52.06742388735357], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.2\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Hen Ysgol Trewyddel\", \"StationID\": 2, \"StationName\": \"Moylegrove Old School Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.2"
+    },
+    {
+        "EnwGorsaf": "Ystafell Ysgol Treffgarn Owen",
+        "StationID": 20,
+        "StationName": "Treffgarn Owen School Room",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.097723309045145, 51.88683294262566], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.20\", \"properties\": {\"EnwGorsaf\": \"Ystafell Ysgol Treffgarn Owen\", \"StationID\": 20, \"StationName\": \"Treffgarn Owen School Room\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.20"
+    },
+    {
+        "EnwGorsaf": "Ystafell yr Ardd, Wolfscastle Country Hotel, Casblaidd",
+        "StationID": 21,
+        "StationName": "Garden Room, Wolfscastle Country Hotel",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.970776039699047, 51.90025443827544], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.21\", \"properties\": {\"EnwGorsaf\": \"Ystafell yr Ardd, Wolfscastle Country Hotel, Casblaidd\", \"StationID\": 21, \"StationName\": \"Garden Room, Wolfscastle Country Hotel\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.21"
+    },
+    {
+        "EnwGorsaf": "Neuadd Eglwys Spittal",
+        "StationID": 22,
+        "StationName": "Spittal Church Hall, Spittal",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.941121333901244, 51.86929675135772], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.22\", \"properties\": {\"EnwGorsaf\": \"Neuadd Eglwys Spittal\", \"StationID\": 22, \"StationName\": \"Spittal Church Hall, Spittal\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.22"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Treamlod, Woodstock",
+        "StationID": 23,
+        "StationName": "Ambleston Memorial Hall, Woodstock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.877985737757091, 51.89412397436749], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.23\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Treamlod, Woodstock\", \"StationID\": 23, \"StationName\": \"Ambleston Memorial Hall, Woodstock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.23"
+    },
+    {
+        "EnwGorsaf": "Neuadd CFI Llys y Fran",
+        "StationID": 24,
+        "StationName": "Llys-y-Fran YFC Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.837270868251994, 51.88793666330991], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.24\", \"properties\": {\"EnwGorsaf\": \"Neuadd CFI Llys y Fran\", \"StationID\": 24, \"StationName\": \"Llys-y-Fran YFC Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.24"
+    },
+    {
+        "EnwGorsaf": "Festri Capel y Bedyddwyr Bethel, Mynachlog Ddu",
+        "StationID": 25,
+        "StationName": "Bethel Baptist Chapel Vestry, Mynachlog Ddu",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6997549576203195, 51.94104914477007], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.25\", \"properties\": {\"EnwGorsaf\": \"Festri Capel y Bedyddwyr Bethel, Mynachlog Ddu\", \"StationID\": 25, \"StationName\": \"Bethel Baptist Chapel Vestry, Mynachlog Ddu\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.25"
+    },
+    {
+        "EnwGorsaf": "Neuadd Maes Chwarae Llandissilio",
+        "StationID": 26,
+        "StationName": "Llandissilio Playing Field Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.72756846451071, 51.857906079497255], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.26\", \"properties\": {\"EnwGorsaf\": \"Neuadd Maes Chwarae Llandissilio\", \"StationID\": 26, \"StationName\": \"Llandissilio Playing Field Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.26"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Clarbeston Road",
+        "StationID": 27,
+        "StationName": "Clarbeston Road Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.87854253135812, 51.85231024593139], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.27\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Clarbeston Road\", \"StationID\": 27, \"StationName\": \"Clarbeston Road Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.27"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Gymunedol Crundale",
+        "StationID": 28,
+        "StationName": "Crundale Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9449591544879175, 51.82727981792103], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.28\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Gymunedol Crundale\", \"StationID\": 28, \"StationName\": \"Crundale Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.28"
+    },
+    {
+        "EnwGorsaf": "Festri Capel Bedyddwyr Camros",
+        "StationID": 29,
+        "StationName": "Camrose Baptist Chapel Vestry",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.007814781098055, 51.84100959112221], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.29\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Bedyddwyr Camros\", \"StationID\": 29, \"StationName\": \"Camrose Baptist Chapel Vestry\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.29"
+    },
+    {
+        "EnwGorsaf": "Hen Ysgol Eglwyswrw",
+        "StationID": 3,
+        "StationName": "Eglwyswrw Old School, Eglwyswrw",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.708725626634311, 52.01328386207523], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.3\", \"properties\": {\"EnwGorsaf\": \"Hen Ysgol Eglwyswrw\", \"StationID\": 3, \"StationName\": \"Eglwyswrw Old School, Eglwyswrw\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.3"
+    },
+    {
+        "EnwGorsaf": "Neuadd Capel y Bedyddwyr, Sutton",
+        "StationID": 30,
+        "StationName": "Sutton Baptist Chapel Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.034185882567777, 51.80652270060915], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.30\", \"properties\": {\"EnwGorsaf\": \"Neuadd Capel y Bedyddwyr, Sutton\", \"StationID\": 30, \"StationName\": \"Sutton Baptist Chapel Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.30"
+    },
+    {
+        "EnwGorsaf": "Neuadd Victoria Y Garn",
+        "StationID": 31,
+        "StationName": "Roch Victoria Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.091484414115017, 51.851609434205244], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.31\", \"properties\": {\"EnwGorsaf\": \"Neuadd Victoria Y Garn\", \"StationID\": 31, \"StationName\": \"Roch Victoria Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.31"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Aber Llydan",
+        "StationID": 32,
+        "StationName": "Broad Haven Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.1008681144245935, 51.778875845101815], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.32\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Aber Llydan\", \"StationID\": 32, \"StationName\": \"Broad Haven Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.32"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentre Castell Gwalchmai",
+        "StationID": 33,
+        "StationName": "Walwyn's Castle Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.083457675813963, 51.75926235805739], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.33\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentre Castell Gwalchmai\", \"StationID\": 33, \"StationName\": \"Walwyn's Castle Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.33"
+    },
+    {
+        "EnwGorsaf": "Ystafell Ysgol Tier Cross",
+        "StationID": 34,
+        "StationName": "Tiers Cross School Room",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.035056659194384, 51.75649213070164], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.34\", \"properties\": {\"EnwGorsaf\": \"Ystafell Ysgol Tier Cross\", \"StationID\": 34, \"StationName\": \"Tiers Cross School Room\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.34"
+    },
+    {
+        "EnwGorsaf": "Yr Athrofa, Johnston",
+        "StationID": 35,
+        "StationName": "The Institute, Johnston",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.997482521160245, 51.75333989906852], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.35\", \"properties\": {\"EnwGorsaf\": \"Yr Athrofa, Johnston\", \"StationID\": 35, \"StationName\": \"The Institute, Johnston\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.35"
+    },
+    {
+        "EnwGorsaf": "Neuadd Les Pont Fadlen",
+        "StationID": 36,
+        "StationName": "Merlins Bridge Welfare Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.975356153129917, 51.789768565803044], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.36\", \"properties\": {\"EnwGorsaf\": \"Neuadd Les Pont Fadlen\", \"StationID\": 36, \"StationName\": \"Merlins Bridge Welfare Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.36"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Albany, Hill St, Hwlffordd",
+        "StationID": 37,
+        "StationName": "Albany Church Hall, Hill Street, Haverfordwest",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.971175998786476, 51.798866184218355], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.37\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Albany, Hill St, Hwlffordd\", \"StationID\": 37, \"StationName\": \"Albany Church Hall, Hill Street, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.37"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys St Martins, Hwlffordd",
+        "StationID": 38,
+        "StationName": "St Martins Church Hall, Haverfordwest",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.971209549864528, 51.802690040853726], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.38\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys St Martins, Hwlffordd\", \"StationID\": 38, \"StationName\": \"St Martins Church Hall, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.38"
+    },
+    {
+        "EnwGorsaf": "Yr Ystafell Werdd, Canolfan Hamdden Hwlffordd",
+        "StationID": 39,
+        "StationName": "The Green Room, Haverfordwest Leisure Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.970186876450553, 51.798596106996634], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.39\", \"properties\": {\"EnwGorsaf\": \"Yr Ystafell Werdd, Canolfan Hamdden Hwlffordd\", \"StationID\": 39, \"StationName\": \"The Green Room, Haverfordwest Leisure Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.39"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Farchnad Crymych",
+        "StationID": 4,
+        "StationName": "Crymych Market Hall, Crymych",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.646193280880704, 51.97417966840359], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.4\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Farchnad Crymych\", \"StationID\": 4, \"StationName\": \"Crymych Market Hall, Crymych\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.4"
+    },
+    {
+        "EnwGorsaf": "Canolfan Gymunedol Picton, Freeman's Way, Hwlffordd",
+        "StationID": 40,
+        "StationName": "Picton Community Centre, Freeman's Way, Haverfordwest",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.965169183905986, 51.80077007727717], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.40\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Picton, Freeman's Way, Hwlffordd\", \"StationID\": 40, \"StationName\": \"Picton Community Centre, Freeman's Way, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.40"
+    },
+    {
+        "EnwGorsaf": "Canolfan Deulu, Trafalgar Road, Hwlffordd",
+        "StationID": 41,
+        "StationName": "Family Centre, Trafalgar Road, Haverfordwest",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.989146512143635, 51.80143300292166], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.41\", \"properties\": {\"EnwGorsaf\": \"Canolfan Deulu, Trafalgar Road, Hwlffordd\", \"StationID\": 41, \"StationName\": \"Family Centre, Trafalgar Road, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.41"
+    },
+    {
+        "EnwGorsaf": "Ystafell Ysgol Bedyddwyr Bethesda, Perrots Avenue, Hwlffordd",
+        "StationID": 42,
+        "StationName": "Bethesda Baptist School Room, Perrots Avenue, Haverfordwest",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.966636747081151, 51.8050229351555], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.42\", \"properties\": {\"EnwGorsaf\": \"Ystafell Ysgol Bedyddwyr Bethesda, Perrots Avenue, Hwlffordd\", \"StationID\": 42, \"StationName\": \"Bethesda Baptist School Room, Perrots Avenue, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.42"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Uzmastion",
+        "StationID": 43,
+        "StationName": "Uzmaston Church Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.945073527211898, 51.791366788052336], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.43\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Uzmastion\", \"StationID\": 43, \"StationName\": \"Uzmaston Church Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.43"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Freystrop",
+        "StationID": 44,
+        "StationName": "Freystrop Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9603880111872956, 51.76316968055138], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.44\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Freystrop\", \"StationID\": 44, \"StationName\": \"Freystrop Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.44"
+    },
+    {
+        "EnwGorsaf": "Clwb Chwaraeon a Chymdeithasol Hook",
+        "StationID": 45,
+        "StationName": "Hook Sports & Social Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.930841357513832, 51.762129307739286], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.45\", \"properties\": {\"EnwGorsaf\": \"Clwb Chwaraeon a Chymdeithasol Hook\", \"StationID\": 45, \"StationName\": \"Hook Sports & Social Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.45"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Llangwm",
+        "StationID": 46,
+        "StationName": "Llangwm Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.910503148854944, 51.74771607419023], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.46\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Llangwm\", \"StationID\": 46, \"StationName\": \"Llangwm Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.46"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Rhos Farchnad",
+        "StationID": 47,
+        "StationName": "Rosemarket Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.965954233052918, 51.73882867060967], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.47\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Rhos Farchnad\", \"StationID\": 47, \"StationName\": \"Rosemarket Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.47"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Jiwbil\u00ee Burton, Houghton",
+        "StationID": 48,
+        "StationName": "Burton Jubilee Hall, Houghton",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.920724262413647, 51.72741146657761], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.48\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Jiwbil\\u00ee Burton, Houghton\", \"StationID\": 48, \"StationName\": \"Burton Jubilee Hall, Houghton\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.48"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 1, Neuadd yr Eglwys, Neyland",
+        "StationID": 49,
+        "StationName": "No 1 Station, St Clements Church Hall, Neyland",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.947185148852321, 51.70709287206499], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.49\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 1, Neuadd yr Eglwys, Neyland\", \"StationID\": 49, \"StationName\": \"No 1 Station, St Clements Church Hall, Neyland\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.49"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Cilgerran",
+        "StationID": 5,
+        "StationName": "Cilgerran Village Hall, Cilgerran",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.628889164160006, 52.0545203874874], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.5\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Cilgerran\", \"StationID\": 5, \"StationName\": \"Cilgerran Village Hall, Cilgerran\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.5"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 2,  Neuadd yr Eglwys, Neyland",
+        "StationID": 50,
+        "StationName": "No 2 Station, St Clements Church Hall, Neyland",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.947182938628416, 51.70708825206544], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.50\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2,  Neuadd yr Eglwys, Neyland\", \"StationID\": 50, \"StationName\": \"No 2 Station, St Clements Church Hall, Neyland\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.50"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Mascle  Bridge",
+        "StationID": 51,
+        "StationName": "Mascle Bridge Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9627340345745, 51.711705601314506], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.51\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Mascle  Bridge\", \"StationID\": 51, \"StationName\": \"Mascle Bridge Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.51"
+    },
+    {
+        "EnwGorsaf": "Murray Suite, Neuadd y Dref, Aberdaugleddau",
+        "StationID": 52,
+        "StationName": "Murray Suite, Town Hall, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.029965622164373, 51.71136933687926], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.52\", \"properties\": {\"EnwGorsaf\": \"Murray Suite, Neuadd y Dref, Aberdaugleddau\", \"StationID\": 52, \"StationName\": \"Murray Suite, Town Hall, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.52"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys St Katherine, Aberdaugleddau",
+        "StationID": 53,
+        "StationName": "St Katherines Church Hall, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.028290634025602, 51.711291174614246], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.53\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys St Katherine, Aberdaugleddau\", \"StationID\": 53, \"StationName\": \"St Katherines Church Hall, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.53"
+    },
+    {
+        "EnwGorsaf": "Ystafell Ysgol Capel Bedyddwyr, Great North Road, Aberdaugleddau",
+        "StationID": 54,
+        "StationName": "North Road Baptist Chapel School Room, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.028728019085747, 51.713882023616655], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.54\", \"properties\": {\"EnwGorsaf\": \"Ystafell Ysgol Capel Bedyddwyr, Great North Road, Aberdaugleddau\", \"StationID\": 54, \"StationName\": \"North Road Baptist Chapel School Room, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.54"
+    },
+    {
+        "EnwGorsaf": "Prif Neuadd, Eglwys Fethodistaidd, Prioiry Road, Aberdaugleddau",
+        "StationID": 55,
+        "StationName": "Main Hall Methodist Church, Priory Road, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.035176357962027, 51.71443650109442], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.55\", \"properties\": {\"EnwGorsaf\": \"Prif Neuadd, Eglwys Fethodistaidd, Prioiry Road, Aberdaugleddau\", \"StationID\": 55, \"StationName\": \"Main Hall Methodist Church, Priory Road, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.55"
+    },
+    {
+        "EnwGorsaf": "Clwb Rygbi Aberdaugleddau",
+        "StationID": 56,
+        "StationName": "Room at Milford Haven Rugby Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.053217530758843, 51.71208698773749], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.56\", \"properties\": {\"EnwGorsaf\": \"Clwb Rygbi Aberdaugleddau\", \"StationID\": 56, \"StationName\": \"Room at Milford Haven Rugby Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.56"
+    },
+    {
+        "EnwGorsaf": "Canolfan Gymunedol Hubberston & Hakin, Aberdaugleddau",
+        "StationID": 57,
+        "StationName": "Hubberston and Hakin  Community Centre, Milford Haven",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.054952240754993, 51.71579311936274], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.57\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Hubberston & Hakin, Aberdaugleddau\", \"StationID\": 57, \"StationName\": \"Hubberston and Hakin  Community Centre, Milford Haven\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.57"
+    },
+    {
+        "EnwGorsaf": "Church of the Holy Spirit, Hubberston",
+        "StationID": 58,
+        "StationName": "Church of the Holy Spirit, Hubberston",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.050114748252991, 51.7160313051826], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.58\", \"properties\": {\"EnwGorsaf\": \"Church of the Holy Spirit, Hubberston\", \"StationID\": 58, \"StationName\": \"Church of the Holy Spirit, Hubberston\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.58"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Herbrandston",
+        "StationID": 59,
+        "StationName": "Herbrandston Church Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.086015227680397, 51.72696458666614], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.59\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Herbrandston\", \"StationID\": 59, \"StationName\": \"Herbrandston Church Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.59"
+    },
+    {
+        "EnwGorsaf": "Ystafell Ddarllen Capel Newydd",
+        "StationID": 6,
+        "StationName": "Newchapel Reading Room",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.583012815007409, 52.02504369535692], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.6\", \"properties\": {\"EnwGorsaf\": \"Ystafell Ddarllen Capel Newydd\", \"StationID\": 6, \"StationName\": \"Newchapel Reading Room\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.6"
+    },
+    {
+        "EnwGorsaf": "Clwb Chwaraeon a Chymdeithasol Llanismel",
+        "StationID": 60,
+        "StationName": "St Ishmaels Sports & Social Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.128271108066731, 51.721042215917656], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.60\", \"properties\": {\"EnwGorsaf\": \"Clwb Chwaraeon a Chymdeithasol Llanismel\", \"StationID\": 60, \"StationName\": \"St Ishmaels Sports & Social Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.60"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Marloes",
+        "StationID": 61,
+        "StationName": "Marloes Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.196520803346259, 51.73061998694107], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.61\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Marloes\", \"StationID\": 61, \"StationName\": \"Marloes Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.61"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Coroni Dale",
+        "StationID": 62,
+        "StationName": "Dale Coronation Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.169148305467996, 51.70721136269462], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.62\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Coroni Dale\", \"StationID\": 62, \"StationName\": \"Dale Coronation Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.62"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Llandewi Velfrey",
+        "StationID": 63,
+        "StationName": "Llandewi Velfrey Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.688211790423054, 51.82094840881698], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.63\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Llandewi Velfrey\", \"StationID\": 63, \"StationName\": \"Llandewi Velfrey Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.63"
+    },
+    {
+        "EnwGorsaf": "Neuadd Bentref Tafan Ysbyty",
+        "StationID": 64,
+        "StationName": "Tavernspite Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.64052640819109, 51.781866675391356], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.64\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Tafan Ysbyty\", \"StationID\": 64, \"StationName\": \"Tavernspite Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.64"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 1, Neuadd y Frenhines, High St, Arberth",
+        "StationID": 65,
+        "StationName": "No 1 Station, Queens Hall, High St, Narberth",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.744492103850163, 51.79930513100592], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.65\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 1, Neuadd y Frenhines, High St, Arberth\", \"StationID\": 65, \"StationName\": \"No 1 Station, Queens Hall, High St, Narberth\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.65"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 2,  Neuadd y Frenhines, High St, Arberth",
+        "StationID": 66,
+        "StationName": "No 2 Station, Queens Hall, High St, Narberth",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.744518030931483, 51.79934401089767], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.66\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2,  Neuadd y Frenhines, High St, Arberth\", \"StationID\": 66, \"StationName\": \"No 2 Station, Queens Hall, High St, Narberth\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.66"
+    },
+    {
+        "EnwGorsaf": "Neuadd CFI Llawhaden",
+        "StationID": 67,
+        "StationName": "Llawhaden YFC Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.806194060086368, 51.82081325052206], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.67\", \"properties\": {\"EnwGorsaf\": \"Neuadd CFI Llawhaden\", \"StationID\": 67, \"StationName\": \"Llawhaden YFC Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.67"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol Rhos",
+        "StationID": 68,
+        "StationName": "The Rhos Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.890130415574734, 51.79217893611478], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.68\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Rhos\", \"StationID\": 68, \"StationName\": \"The Rhos Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.68"
+    },
+    {
+        "EnwGorsaf": "Ystafell yn y Snooty Fox Inn, Martletwy",
+        "StationID": 69,
+        "StationName": "Room at the Snooty Fox Inn, Martletwy",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.80816156789844, 51.772671523945014], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.69\", \"properties\": {\"EnwGorsaf\": \"Ystafell yn y Snooty Fox Inn, Martletwy\", \"StationID\": 69, \"StationName\": \"Room at the Snooty Fox Inn, Martletwy\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.69"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol Boncath",
+        "StationID": 7,
+        "StationName": "Boncath Community Hall, Boncath",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6165551504723705, 52.01474841004185], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.7\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Boncath\", \"StationID\": 7, \"StationName\": \"Boncath Community Hall, Boncath\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.7"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Tredemel",
+        "StationID": 70,
+        "StationName": "Templeton Church Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.736710944630571, 51.770244383986046], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.70\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Tredemel\", \"StationID\": 70, \"StationName\": \"Templeton Church Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.70"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Plwyf Amroth",
+        "StationID": 71,
+        "StationName": "Amroth Parish Hall, Summerhill",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6773713117369, 51.73506566931844], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.71\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Plwyf Amroth\", \"StationID\": 71, \"StationName\": \"Amroth Parish Hall, Summerhill\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.71"
+    },
+    {
+        "EnwGorsaf": "Neuadd Regency, Saundersfoot",
+        "StationID": 72,
+        "StationName": "Regency Hall, Saundersfoot",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.701092562597492, 51.710455690559286], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.72\", \"properties\": {\"EnwGorsaf\": \"Neuadd Regency, Saundersfoot\", \"StationID\": 72, \"StationName\": \"Regency Hall, Saundersfoot\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.72"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref New Hedges",
+        "StationID": 73,
+        "StationName": "New Hedges Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.707588758176979, 51.693122913190564], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.73\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref New Hedges\", \"StationID\": 73, \"StationName\": \"New Hedges Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.73"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 1, Canolfan Ddysgu Gymunedol, Dinbych y Pysgod",
+        "StationID": 74,
+        "StationName": "No 1 Station, Community Learning Centre, Tenby",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.705536070565061, 51.673419253965285], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.74\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 1, Canolfan Ddysgu Gymunedol, Dinbych y Pysgod\", \"StationID\": 74, \"StationName\": \"No 1 Station, Community Learning Centre, Tenby\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.74"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 2, Canolfan Ddysgu Gymunedol, Dinbych y Pysgod",
+        "StationID": 75,
+        "StationName": "No 2 Station, Community Learning Centre, Tenby",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.705488218718483, 51.67348680000274], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.75\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2, Canolfan Ddysgu Gymunedol, Dinbych y Pysgod\", \"StationID\": 75, \"StationName\": \"No 2 Station, Community Learning Centre, Tenby\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.75"
+    },
+    {
+        "EnwGorsaf": "Canolfan Gymunedol Cilgeti & Begeli",
+        "StationID": 76,
+        "StationName": "Kilgetty & Begelly Community Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.72037572847375, 51.731485509627994], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.76\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Cilgeti & Begeli\", \"StationID\": 76, \"StationName\": \"Kilgetty & Begelly Community Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.76"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol East Williamston",
+        "StationID": 77,
+        "StationName": "East Williamston Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.753307921345543, 51.71114733289471], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.77\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol East Williamston\", \"StationID\": 77, \"StationName\": \"East Williamston Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.77"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Jeffreyston",
+        "StationID": 78,
+        "StationName": "Jeffreyston Church Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.766755114869, 51.724692518582415], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.78\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Jeffreyston\", \"StationID\": 78, \"StationName\": \"Jeffreyston Church Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.78"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Caeriw",
+        "StationID": 79,
+        "StationName": "Carew Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.82518280910815, 51.6974122163529], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.79\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Caeriw\", \"StationID\": 79, \"StationName\": \"Carew Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.79"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Trefdraeth",
+        "StationID": 8,
+        "StationName": "Newport Memorial Hall, Newport",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.837566035881992, 52.01567905056924], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.8\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Trefdraeth\", \"StationID\": 8, \"StationName\": \"Newport Memorial Hall, Newport\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.8"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol St Florence",
+        "StationID": 80,
+        "StationName": "St Florence Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.773228404637011, 51.67909794683868], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.80\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol St Florence\", \"StationID\": 80, \"StationName\": \"St Florence Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.80"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Penally",
+        "StationID": 81,
+        "StationName": "Penally Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.724626750293985, 51.658197457285674], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.81\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Penally\", \"StationID\": 81, \"StationName\": \"Penally Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.81"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Llandyf\u00e1i",
+        "StationID": 83,
+        "StationName": "Lamphey Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.869325851865181, 51.6685196218133], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.83\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Llandyf\\u00e1i\", \"StationID\": 83, \"StationName\": \"Lamphey Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.83"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Cosheston",
+        "StationID": 84,
+        "StationName": "Cosheston Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.888773244736754, 51.69846907576427], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.84\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Cosheston\", \"StationID\": 84, \"StationName\": \"Cosheston Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.84"
+    },
+    {
+        "EnwGorsaf": "Neuadd Gymunedol St Patricks, Pennar, Doc Penfro",
+        "StationID": 85,
+        "StationName": "St Patricks, Pennar Community Hall, Pembroke Dock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9484115037688055, 51.685506682243116], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.85\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol St Patricks, Pennar, Doc Penfro\", \"StationID\": 85, \"StationName\": \"St Patricks, Pennar Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.85"
+    },
+    {
+        "EnwGorsaf": "No 1 Station, St Johns Community Hall, Doc Penfro",
+        "StationID": 86,
+        "StationName": "No 1 Station, St Johns Community Hall, Pembroke Dock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.94249942078224, 51.69155497017436], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.86\", \"properties\": {\"EnwGorsaf\": \"No 1 Station, St Johns Community Hall, Doc Penfro\", \"StationID\": 86, \"StationName\": \"No 1 Station, St Johns Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.86"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 2, St Johns Community Hall, Doc Penfro",
+        "StationID": 87,
+        "StationName": "No 2 Station, St Johns Community Hall, Pembroke Dock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.942497313841041, 51.69149073902075], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.87\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2, St Johns Community Hall, Doc Penfro\", \"StationID\": 87, \"StationName\": \"No 2 Station, St Johns Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.87"
+    },
+    {
+        "EnwGorsaf": "Canolfan Ieuenctid, Bush Street,  Doc Penfro",
+        "StationID": 88,
+        "StationName": "Youth Centre, Bush Street, Pembroke Dock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.936162397010013, 51.69149609634664], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.88\", \"properties\": {\"EnwGorsaf\": \"Canolfan Ieuenctid, Bush Street,  Doc Penfro\", \"StationID\": 88, \"StationName\": \"Youth Centre, Bush Street, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.88"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Dref Penfro",
+        "StationID": 89,
+        "StationName": "Pembroke Town Hall, Pembroke",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9177272724894285, 51.67582155513867], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.89\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Dref Penfro\", \"StationID\": 89, \"StationName\": \"Pembroke Town Hall, Pembroke\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.89"
+    },
+    {
+        "EnwGorsaf": "Yr Hen Ysgol, Dinas",
+        "StationID": 9,
+        "StationName": "Old Schooll, Dinas Cross",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.900363124705874, 52.012169589417375], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.9\", \"properties\": {\"EnwGorsaf\": \"Yr Hen Ysgol, Dinas\", \"StationID\": 9, \"StationName\": \"Old Schooll, Dinas Cross\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.9"
+    },
+    {
+        "EnwGorsaf": "Neuadd yr Eglwys Monkton Priory, Penfro",
+        "StationID": 90,
+        "StationName": "Monkton Priory Church Hall, Pembroke",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.923333109250492, 51.674752438344065], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.90\", \"properties\": {\"EnwGorsaf\": \"Neuadd yr Eglwys Monkton Priory, Penfro\", \"StationID\": 90, \"StationName\": \"Monkton Priory Church Hall, Pembroke\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.90"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Castellmartin",
+        "StationID": 91,
+        "StationName": "Castlemartin Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.018736562260406, 51.646230231464635], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.91\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Castellmartin\", \"StationID\": 91, \"StationName\": \"Castlemartin Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.91"
+    },
+    {
+        "EnwGorsaf": "Pafiliwn Chwaraeon Hundleton",
+        "StationID": 92,
+        "StationName": "Hundleton Sports Pavilion",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.953248139154607, 51.66610397561004], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.92\", \"properties\": {\"EnwGorsaf\": \"Pafiliwn Chwaraeon Hundleton\", \"StationID\": 92, \"StationName\": \"Hundleton Sports Pavilion\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.92"
+    },
+    {
+        "EnwGorsaf": "Neuadd y Pentref Angle",
+        "StationID": 93,
+        "StationName": "Angle Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.088146315835715, 51.68389156306284], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.93\", \"properties\": {\"EnwGorsaf\": \"Neuadd y Pentref Angle\", \"StationID\": 93, \"StationName\": \"Angle Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.93"
+    },
+    {
+        "EnwGorsaf": "Canolfan Goffa Llandudoch",
+        "StationID": 94,
+        "StationName": "St Dogmaels Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.681952900231678, 52.08260417776092], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.94\", \"properties\": {\"EnwGorsaf\": \"Canolfan Goffa Llandudoch\", \"StationID\": 94, \"StationName\": \"St Dogmaels Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.94"
+    },
+    {
+        "EnwGorsaf": "Canolfan Gweithgareddau Cymdeithasol Portfield",
+        "StationID": 95,
+        "StationName": "Portfield Social Activity Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.98395205287631, 51.797686212338036], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.95\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gweithgareddau Cymdeithasol Portfield\", \"StationID\": 95, \"StationName\": \"Portfield Social Activity Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.95"
+    },
+    {
+        "EnwGorsaf": "Festri Capel Jabes, Cwm Gwaun",
+        "StationID": 96,
+        "StationName": "Jabes Chapel Vestry, Gwaun Valley",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.871268696265379, 51.969701303609774], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.96\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Jabes, Cwm Gwaun\", \"StationID\": 96, \"StationName\": \"Jabes Chapel Vestry, Gwaun Valley\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.96"
+    },
+    {
+        "EnwGorsaf": "Canolfan Clydau",
+        "StationID": 97,
+        "StationName": "Canolfan Clydau",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.572086872662371, 51.966490913335974], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.97\", \"properties\": {\"EnwGorsaf\": \"Canolfan Clydau\", \"StationID\": 97, \"StationName\": \"Canolfan Clydau\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.97"
+    },
+    {
+        "EnwGorsaf": "Festri Capel Smyrna, Casmael",
+        "StationID": 98,
+        "StationName": "Smyrna Chapel Vestri, Puncheston",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.900462694778506, 51.930576543828394], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.98\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Smyrna, Casmael\", \"StationID\": 98, \"StationName\": \"Smyrna Chapel Vestri, Puncheston\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.98"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Bleidleisio Symudol, Maes Parcio, Trecwn",
+        "StationID": 99,
+        "StationName": "Mobile Polling Station, Car Park, Trecwn",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.958657617483208, 51.954815991615064], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.99\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Bleidleisio Symudol, Maes Parcio, Trecwn\", \"StationID\": 99, \"StationName\": \"Mobile Polling Station, Car Park, Trecwn\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.99"
+    }
+]
