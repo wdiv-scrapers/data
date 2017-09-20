@@ -1,0 +1,322 @@
+[
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "1",
+        "Polling_District": "AB1",
+        "Premises": "Surrey Muslim Centre (Form. St. Augustine's Church Hall), Albert Road",
+        "Station_Number": "0",
+        "Ward": "Addlestone Bourneside",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__1\"><runnymedeinspire:OBJECTID>1</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Addlestone Bourneside</runnymedeinspire:Ward><runnymedeinspire:Polling_District>AB1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Surrey Muslim Centre (Form. St. Augustine's Church Hall), Albert Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>505921.26563087478 165011.48384764604</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "12",
+        "Polling_District": "CSRT3",
+        "Premises": "Addlestone Youth Centre, Church Road",
+        "Station_Number": "0",
+        "Ward": "Chertsey South & Row Town",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__12\"><runnymedeinspire:OBJECTID>12</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey South &amp; Row Town</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CSRT3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Addlestone Youth Centre, Church Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504396.76386918593 164322.38393135741</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "13",
+        "Polling_District": "CSRT2",
+        "Premises": "Meadowcroft County Infant School, Little Green Lane",
+        "Station_Number": "0",
+        "Ward": "Chertsey South & Row Town",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__13\"><runnymedeinspire:OBJECTID>13</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey South &amp; Row Town</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CSRT2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Meadowcroft County Infant School, Little Green Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>503601.30160618946 165230.29296458326</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "14",
+        "Polling_District": "EGT12",
+        "Premises": "Egham Town Band Hall, Waspe Farm Car Park, Station Road",
+        "Station_Number": "0",
+        "Ward": "Egham Town",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__14\"><runnymedeinspire:OBJECTID>14</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Egham Town</runnymedeinspire:Ward><runnymedeinspire:Polling_District>EGT12</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Egham Town Band Hall, Waspe Farm Car Park, Station Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>500958.35137315001 171031.4508122839</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "15",
+        "Polling_District": "ENGW1",
+        "Premises": "Englefield Green Youth Club, Corby Drive",
+        "Station_Number": "0",
+        "Ward": "Englefield Green West",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__15\"><runnymedeinspire:OBJECTID>15</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Englefield Green West</runnymedeinspire:Ward><runnymedeinspire:Polling_District>ENGW1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Englefield Green Youth Club, Corby Drive</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>499110.8712262176 170520.54764310084</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "16",
+        "Polling_District": "ENGE1",
+        "Premises": "Jurgens Centre, (Adjacent to the Catholic Church), 91 Harvest Road",
+        "Station_Number": "0",
+        "Ward": "Englefield Green East",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__16\"><runnymedeinspire:OBJECTID>16</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Englefield Green East</runnymedeinspire:Ward><runnymedeinspire:Polling_District>ENGE1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Jurgens Centre, (Adjacent to the Catholic Church), 91 Harvest Road </runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>499744.31623669155 170931.93824998848</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "17",
+        "Polling_District": "FH1/2",
+        "Premises": "Lyne Village Hall, Lyne Lane",
+        "Station_Number": "0",
+        "Ward": "Foxhills",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__17\"><runnymedeinspire:OBJECTID>17</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Foxhills</runnymedeinspire:Ward><runnymedeinspire:Polling_District>FH1/2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Lyne Village Hall, Lyne Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>501232.52528891899 166435.7591882851</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "18",
+        "Polling_District": "FH3",
+        "Premises": "Brook Memorial Hall, Brox Road",
+        "Station_Number": "0",
+        "Ward": "Foxhills",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__18\"><runnymedeinspire:OBJECTID>18</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Foxhills</runnymedeinspire:Ward><runnymedeinspire:Polling_District>FH3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Brook Memorial Hall, Brox Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>502353.23594280612 163922.51220148429</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "19",
+        "Polling_District": "NH1",
+        "Premises": "New Haw Community Centre, Woodham Lane",
+        "Station_Number": "0",
+        "Ward": "New Haw",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__19\"><runnymedeinspire:OBJECTID>19</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>New Haw</runnymedeinspire:Ward><runnymedeinspire:Polling_District>NH1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>New Haw Community Centre, Woodham Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>505347.79192695674 162700.86191971973</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "20",
+        "Polling_District": "NH2",
+        "Premises": "Sayes Court Junior School, Sayes Court, Farm Drive",
+        "Station_Number": "0",
+        "Ward": "New Haw",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__20\"><runnymedeinspire:OBJECTID>20</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>New Haw</runnymedeinspire:Ward><runnymedeinspire:Polling_District>NH2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Sayes Court Junior School, Sayes Court, Farm Drive</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504865.33554019406 164099.19517687522</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "21",
+        "Polling_District": "TH1",
+        "Premises": "Thorpe Village Hall, Coldharbour Lane",
+        "Station_Number": "0",
+        "Ward": "Thorpe",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__21\"><runnymedeinspire:OBJECTID>21</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Thorpe</runnymedeinspire:Ward><runnymedeinspire:Polling_District>TH1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Thorpe Village Hall, Coldharbour Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>502428.66180245299 168740.43750866316</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "22",
+        "Polling_District": "TH3/4",
+        "Premises": "Egham Cricket Club Pavilion, Vicarage Road",
+        "Station_Number": "0",
+        "Ward": "Thorpe",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__22\"><runnymedeinspire:OBJECTID>22</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Thorpe</runnymedeinspire:Ward><runnymedeinspire:Polling_District>TH3/4</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Egham Cricket Club Pavilion, Vicarage Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>501796.18229409307 170825.40770642273</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "23",
+        "Polling_District": "VW1",
+        "Premises": "Old Church Hall, Rear of Station Parade",
+        "Station_Number": "0",
+        "Ward": "Virginia Water",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__23\"><runnymedeinspire:OBJECTID>23</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Virginia Water</runnymedeinspire:Ward><runnymedeinspire:Polling_District>VW1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Old Church Hall, Rear of Station Parade</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>499956.54677034914 167941.69671080261</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "24",
+        "Polling_District": "VW2",
+        "Premises": "St. Ann's Heath Junior School, Sandhills Lane",
+        "Station_Number": "0",
+        "Ward": "Virginia Water",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__24\"><runnymedeinspire:OBJECTID>24</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Virginia Water</runnymedeinspire:Ward><runnymedeinspire:Polling_District>VW2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>St. Ann's Heath Junior School, Sandhills Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>500488.51952956431 167751.79593975469</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "25",
+        "Polling_District": "WDH1",
+        "Premises": "New Haw County Junior School, The Avenue",
+        "Station_Number": "0",
+        "Ward": "Woodham",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__25\"><runnymedeinspire:OBJECTID>25</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Woodham</runnymedeinspire:Ward><runnymedeinspire:Polling_District>WDH1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>New Haw County Junior School, The Avenue</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504080.99121984374 162332.50037161633</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "26",
+        "Polling_District": "WDH2",
+        "Premises": "Fullbrook Secondary School, Selsdon Road",
+        "Station_Number": "0",
+        "Ward": "Woodham",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__26\"><runnymedeinspire:OBJECTID>26</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Woodham</runnymedeinspire:Ward><runnymedeinspire:Polling_District>WDH2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Fullbrook Secondary School, Selsdon Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504134.45500303339 161548.86143498495</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "27",
+        "Polling_District": "ENGE1",
+        "Premises": "Arts Building - Room G24, Royal Holloway University of London, Egham Hill",
+        "Station_Number": "0",
+        "Ward": "Englefield Green East",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__27\"><runnymedeinspire:OBJECTID>27</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Englefield Green East</runnymedeinspire:Ward><runnymedeinspire:Polling_District>ENGE1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Arts Building - Room G24, Royal Holloway University of London, Egham Hill</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>499887.55476645473 170638.80307223462</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "28",
+        "Polling_District": "TH3",
+        "Premises": "The Mobile Unit - Ashleigh Avenue, (Off Warwick Avenue)",
+        "Station_Number": "0",
+        "Ward": "Thorpe",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__28\"><runnymedeinspire:OBJECTID>28</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Thorpe</runnymedeinspire:Ward><runnymedeinspire:Polling_District>TH3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>The Mobile Unit - Ashleigh Avenue, (Off Warwick Avenue) </runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>502236.37628681585 170103.75713478401</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "29",
+        "Polling_District": "TH2",
+        "Premises": "The Mobile Unit - Truss's Island, Chertsey Lane",
+        "Station_Number": "0",
+        "Ward": "Thorpe",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__29\"><runnymedeinspire:OBJECTID>29</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Thorpe</runnymedeinspire:Ward><runnymedeinspire:Polling_District>TH2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>The Mobile Unit - Truss's Island, Chertsey Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>503443.4834077647 169925.56234345585</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "3",
+        "Polling_District": "AN1/3",
+        "Premises": "Philip Southcote School",
+        "Station_Number": "0",
+        "Ward": "Addlestone North",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__3\"><runnymedeinspire:OBJECTID>3</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Addlestone North</runnymedeinspire:Ward><runnymedeinspire:Polling_District>AN1/3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Philip Southcote School</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>505224.85208496358 165889.13896012492</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "30",
+        "Polling_District": "AB1",
+        "Premises": "The Mobile Unit - Hamm Court, Weybridge Road",
+        "Station_Number": "0",
+        "Ward": "Addlestone Bourneside",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__30\"><runnymedeinspire:OBJECTID>30</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Addlestone Bourneside</runnymedeinspire:Ward><runnymedeinspire:Polling_District>AB1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>The Mobile Unit - Hamm Court, Weybridge Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>506885.89742437936 165729.33369185217</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "33",
+        "Polling_District": "VW3",
+        "Premises": "Virginia Water Community Centre, Beechmont Avenue",
+        "Station_Number": "0",
+        "Ward": "Virginia Water",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__33\"><runnymedeinspire:OBJECTID>33</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Virginia Water</runnymedeinspire:Ward><runnymedeinspire:Polling_District>VW3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Virginia Water Community Centre, Beechmont Avenue</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>499756.82343322504 167606.02663402446</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "34",
+        "Polling_District": "CM3",
+        "Premises": "Meadowcroft County Infant School, Little Green Lane",
+        "Station_Number": "0",
+        "Ward": "Chertsey Meads",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__34\"><runnymedeinspire:OBJECTID>34</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey Meads</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CM3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Meadowcroft County Infant School, Little Green Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>503601.30160618946 165230.29296458326</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "4",
+        "Polling_District": "AN2",
+        "Premises": "Baptist Church Hall",
+        "Station_Number": "0",
+        "Ward": "Addlestone North",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__4\"><runnymedeinspire:OBJECTID>4</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Addlestone North</runnymedeinspire:Ward><runnymedeinspire:Polling_District>AN2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Baptist Church Hall</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>505061.33181750216 164665.25192092918</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "40",
+        "Polling_District": "AB2",
+        "Premises": "Darley Dene Infant School, Garfield Road",
+        "Station_Number": "0",
+        "Ward": "Addlestone Bourneside",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__40\"><runnymedeinspire:OBJECTID>40</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Addlestone Bourneside</runnymedeinspire:Ward><runnymedeinspire:Polling_District>AB2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Darley Dene Infant School, Garfield Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>505282.50155777205 164463.67841837555</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "43",
+        "Polling_District": "CS1/3",
+        "Premises": "Ongar Place Infant School, Milton Road",
+        "Station_Number": "0",
+        "Ward": "Chertsey South & Row Town",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__43\"><runnymedeinspire:OBJECTID>43</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey South &amp; Row Town</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CS1/3</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Ongar Place Infant School, Milton Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504324.88122627977 163876.32130255364</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "45",
+        "Polling_District": "EGH12",
+        "Premises": "The Hythe Centre, Thorpe Road",
+        "Station_Number": "0",
+        "Ward": "Egham Hythe",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__45\"><runnymedeinspire:OBJECTID>45</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Egham Hythe</runnymedeinspire:Ward><runnymedeinspire:Polling_District>EGH12</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>The Hythe Centre, Thorpe Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>502742.87700105086 170980.52236854285</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "5",
+        "Polling_District": "CM1",
+        "Premises": "St. Anne's Catholic Primary School, Free Prae Road",
+        "Station_Number": "0",
+        "Ward": "Chertsey Meads",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__5\"><runnymedeinspire:OBJECTID>5</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey Meads</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CM1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>St. Anne's Catholic Primary School, Free Prae Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504404.16974630952 166443.41605684347</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "6",
+        "Polling_District": "CM2",
+        "Premises": "Chertsey Hall, Heriot Road",
+        "Station_Number": "0",
+        "Ward": "Chertsey Meads",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__6\"><runnymedeinspire:OBJECTID>6</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey Meads</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CM2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Chertsey Hall, Heriot Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504146.31744494755 166684.7381275408</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "7",
+        "Polling_District": "CSTA1",
+        "Premises": "The Pavilion, Abbeyfields, Windsor Street",
+        "Station_Number": "0",
+        "Ward": "Chertsey St. Ann's",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__7\"><runnymedeinspire:OBJECTID>7</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey St. Ann's</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CSTA1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>The Pavilion, Abbeyfields, Windsor Street</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504133.40866211988 167254.85376164503</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "8",
+        "Polling_District": "CSTA2",
+        "Premises": "Pyrcroft Grange County Primary School, Pyrcroft Road",
+        "Station_Number": "0",
+        "Ward": "Chertsey St. Ann's",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__8\"><runnymedeinspire:OBJECTID>8</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey St. Ann's</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CSTA2</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Pyrcroft Grange County Primary School, Pyrcroft Road</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>503259.00209591724 167023.79235116392</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    },
+    {
+        "Number_of_Electorates": "0",
+        "OBJECTID": "9",
+        "Polling_District": "CSTA1",
+        "Premises": "Penton Community and Social Centre, Penton Park, Mixnams Lane",
+        "Station_Number": "0",
+        "Ward": "Chertsey St. Ann's",
+        "council_id": "E07000212",
+        "geometry": "<wfs:FeatureCollection xmlns:runnymedeinspire=\"http:///runnymedeinspire/MapServer/WFSServer\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wfs=\"http://www.opengis.net/wfs\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http:///runnymedeinspire/MapServer/WFSServer http://maps.runnymede.gov.uk/arcgis/services/runnymedeinspire/MapServer/WFSServer?request=DescribeFeatureType%26version=1.1.0%26typename=Polling_Stations http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd\"><gml:boundedBy><gml:Envelope srsName=\"urn:ogc:def:crs:EPSG:6.9:27700\"><gml:lowerCorner>499110.8712262176 161548.86143498495</gml:lowerCorner><gml:upperCorner>506885.89742437936 171031.4508122839</gml:upperCorner></gml:Envelope></gml:boundedBy><gml:featureMember><runnymedeinspire:Polling_Stations gml:id=\"F19__9\"><runnymedeinspire:OBJECTID>9</runnymedeinspire:OBJECTID><runnymedeinspire:Ward>Chertsey St. Ann's</runnymedeinspire:Ward><runnymedeinspire:Polling_District>CSTA1</runnymedeinspire:Polling_District><runnymedeinspire:Station_Number>0</runnymedeinspire:Station_Number><runnymedeinspire:Premises>Penton Community and Social Centre, Penton Park, Mixnams Lane</runnymedeinspire:Premises><runnymedeinspire:Number_of_Electorates>0</runnymedeinspire:Number_of_Electorates><runnymedeinspire:Shape><gml:Point><gml:pos>504315.03649472632 168811.39506885596</gml:pos></gml:Point></runnymedeinspire:Shape></runnymedeinspire:Polling_Stations></gml:featureMember></wfs:FeatureCollection>"
+    }
+]
