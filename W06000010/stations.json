@@ -1,0 +1,1586 @@
+[
+    {
+        "address": "Gellimanwydd Hall, Wallasey Road, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.985199053945576, 51.79219796887586], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 0, \"properties\": {\"address\": \"Gellimanwydd Hall, Wallasey Road, Ammanford                                                                                                                                                                                                               \", \"postcode\": null, \"register\": \"A                        \"}, \"type\": \"Feature\"}",
+        "pk": 0,
+        "postcode": null,
+        "register": "A"
+    },
+    {
+        "address": "Abergwilli Curch Hall, Ismyrddin, Abergwili, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.26770480846796, 51.865223896141465], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 1, \"properties\": {\"address\": \"Abergwilli Curch Hall, Ismyrddin, Abergwili, Carmarthen                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"AA                       \"}, \"type\": \"Feature\"}",
+        "pk": 1,
+        "postcode": null,
+        "register": "AA"
+    },
+    {
+        "address": "Peniel Community Room, Peniel, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.272459226871707, 51.89400793687482], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 2, \"properties\": {\"address\": \"Peniel Community Room, Peniel, Carmarthen                                                                                                                                                                                                                 \", \"postcode\": \"SA32 7AB \", \"register\": \"AB                       \"}, \"type\": \"Feature\"}",
+        "pk": 2,
+        "postcode": "SA32 7AB",
+        "register": "AB"
+    },
+    {
+        "address": "Whitemill Inn, Whitemill, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.233927225242869, 51.87078427048492], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 3, \"properties\": {\"address\": \"Whitemill Inn, Whitemill, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA32 7EN \", \"register\": \"AC                       \"}, \"type\": \"Feature\"}",
+        "pk": 3,
+        "postcode": "SA32 7EN",
+        "register": "AC"
+    },
+    {
+        "address": "Talog Village Hall, Talog, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.427417979762718, 51.901092044206834], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 4, \"properties\": {\"address\": \"Talog Village Hall, Talog, Carmarthen                                                                                                                                                                                                                     \", \"postcode\": \"SA33 6NY \", \"register\": \"AD                       \"}, \"type\": \"Feature\"}",
+        "pk": 4,
+        "postcode": "SA33 6NY",
+        "register": "AD"
+    },
+    {
+        "address": "Bronwydd Memorial Hall, Bronwydd, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.298423411254092, 51.89831809283624], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 5, \"properties\": {\"address\": \"Bronwydd Memorial Hall, Bronwydd, Carmarthen                                                                                                                                                                                                              \", \"postcode\": \"SA33 6BE \", \"register\": \"AE                       \"}, \"type\": \"Feature\"}",
+        "pk": 5,
+        "postcode": "SA33 6BE",
+        "register": "AE"
+    },
+    {
+        "address": "Carmarthen Community Education Centre, Furnace Road, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.304071061502991, 51.85871159400572], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 6, \"properties\": {\"address\": \"Carmarthen Community Education Centre, Furnace Road, Carmarthen                                                                                                                                                                                           \", \"postcode\": \"SA31 1EU \", \"register\": \"AF                       \"}, \"type\": \"Feature\"}",
+        "pk": 6,
+        "postcode": "SA31 1EU",
+        "register": "AF"
+    },
+    {
+        "address": "Special Needs Unit, Myrddin CP School, Heol Disgwylfa, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.313514707274084, 51.862166413537054], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 7, \"properties\": {\"address\": \"Special Needs Unit, Myrddin CP School, Heol Disgwylfa, Carmarthen                                                                                                                                                                                         \", \"postcode\": \"SA31 1TE \", \"register\": \"AG                       \"}, \"type\": \"Feature\"}",
+        "pk": 7,
+        "postcode": "SA31 1TE",
+        "register": "AG"
+    },
+    {
+        "address": "Carmarthen Town AFC Clubhouse, Priory Street, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.301515913236835, 51.86004775450764], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 8, \"properties\": {\"address\": \"Carmarthen Town AFC Clubhouse, Priory Street, Carmarthen                                                                                                                                                                                                  \", \"postcode\": \"SA31 1HZ \", \"register\": \"AH                       \"}, \"type\": \"Feature\"}",
+        "pk": 8,
+        "postcode": "SA31 1HZ",
+        "register": "AH"
+    },
+    {
+        "address": "Parish Hall, Christ Church, Lammas Street, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.313806176653326, 51.85617760548108], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 9, \"properties\": {\"address\": \"Parish Hall, Christ Church, Lammas Street, Carmarthen                                                                                                                                                                                                     \", \"postcode\": null, \"register\": \"AI                       \"}, \"type\": \"Feature\"}",
+        "pk": 9,
+        "postcode": null,
+        "register": "AI"
+    },
+    {
+        "address": "Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.329974846727415, 51.85214008348403], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 10, \"properties\": {\"address\": \"Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen                                                                                                                                                                                       \", \"postcode\": \"SA31 3JF \", \"register\": \"AJ                       \"}, \"type\": \"Feature\"}",
+        "pk": 10,
+        "postcode": "SA31 3JF",
+        "register": "AJ"
+    },
+    {
+        "address": "St Marys Catholic Church Hall, Union Street, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.319532436258368, 51.85775113555865], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 11, \"properties\": {\"address\": \"St Marys Catholic Church Hall, Union Street, Carmarthen                                                                                                                                                                                                   \", \"postcode\": \"SA31 3DE \", \"register\": \"AK                       \"}, \"type\": \"Feature\"}",
+        "pk": 11,
+        "postcode": "SA31 3DE",
+        "register": "AK"
+    },
+    {
+        "address": "Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.329974846727415, 51.85214008348403], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 12, \"properties\": {\"address\": \"Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen                                                                                                                                                                                       \", \"postcode\": \"SA31 3JF \", \"register\": \"AL                       \"}, \"type\": \"Feature\"}",
+        "pk": 12,
+        "postcode": "SA31 3JF",
+        "register": "AL"
+    },
+    {
+        "address": "Cenarth Church, Cenarth",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.5235717857960305, 52.044853446268554], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 13, \"properties\": {\"address\": \"Cenarth Church, Cenarth                                                                                                                                                                                                                                   \", \"postcode\": \"SA38 9JL \", \"register\": \"AM                       \"}, \"type\": \"Feature\"}",
+        "pk": 13,
+        "postcode": "SA38 9JL",
+        "register": "AM"
+    },
+    {
+        "address": "Capel Iwan Community Centre, Capel Iwan",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.494692547052849, 51.99670296541828], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 14, \"properties\": {\"address\": \"Capel Iwan Community Centre, Capel Iwan                                                                                                                                                                                                                   \", \"postcode\": \"SA38 9LJ \", \"register\": \"AN                       \"}, \"type\": \"Feature\"}",
+        "pk": 14,
+        "postcode": "SA38 9LJ",
+        "register": "AN"
+    },
+    {
+        "address": "Nebo Chapel Vestry, Efailwen, Clunderwen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.705451739075694, 51.89853199578083], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 15, \"properties\": {\"address\": \"Nebo Chapel Vestry, Efailwen, Clunderwen                                                                                                                                                                                                                  \", \"postcode\": null, \"register\": \"AO                       \"}, \"type\": \"Feature\"}",
+        "pk": 15,
+        "postcode": null,
+        "register": "AO"
+    },
+    {
+        "address": "Nebo Chapel Vestry, Efailwen, Clunderwen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.705451739075694, 51.89853199578083], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 16, \"properties\": {\"address\": \"Nebo Chapel Vestry, Efailwen, Clunderwen                                                                                                                                                                                                                  \", \"postcode\": null, \"register\": \"AP                       \"}, \"type\": \"Feature\"}",
+        "pk": 16,
+        "postcode": null,
+        "register": "AP"
+    },
+    {
+        "address": "Cynwyl Elfed Community Centre, Cynwyl Elfed, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.368372875381547, 51.923503167240376], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 17, \"properties\": {\"address\": \"Cynwyl Elfed Community Centre, Cynwyl Elfed, Carmarthen                                                                                                                                                                                                   \", \"postcode\": \"SA33 6TR \", \"register\": \"AT                       \"}, \"type\": \"Feature\"}",
+        "pk": 17,
+        "postcode": "SA33 6TR",
+        "register": "AT"
+    },
+    {
+        "address": "Eglwyscummin Church Hall, Pendine, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.564766821350498, 51.76622428544888], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 18, \"properties\": {\"address\": \"Eglwyscummin Church Hall, Pendine, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 4PR \", \"register\": \"AU                       \"}, \"type\": \"Feature\"}",
+        "pk": 18,
+        "postcode": "SA33 4PR",
+        "register": "AU"
+    },
+    {
+        "address": "Whitland Memorial Hall, Market Street, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.611920443154127, 51.819408539068945], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 19, \"properties\": {\"address\": \"Whitland Memorial Hall, Market Street, Whitland                                                                                                                                                                                                           \", \"postcode\": \"SA34 0QB \", \"register\": \"AV                       \"}, \"type\": \"Feature\"}",
+        "pk": 19,
+        "postcode": "SA34 0QB",
+        "register": "AV"
+    },
+    {
+        "address": "Eglwyscummin Church Hall, Pendine, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.564766821350498, 51.76622428544888], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 20, \"properties\": {\"address\": \"Eglwyscummin Church Hall, Pendine, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 4PR \", \"register\": \"AW                       \"}, \"type\": \"Feature\"}",
+        "pk": 20,
+        "postcode": "SA33 4PR",
+        "register": "AW"
+    },
+    {
+        "address": "Eglwyscummin Church Hall, Pendine, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.564766821350498, 51.76622428544888], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 21, \"properties\": {\"address\": \"Eglwyscummin Church Hall, Pendine, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 4PR \", \"register\": \"AX                       \"}, \"type\": \"Feature\"}",
+        "pk": 21,
+        "postcode": "SA33 4PR",
+        "register": "AX"
+    },
+    {
+        "address": "Cefneithin / Foelgastell Welfare Hall, Heol y Parc, Cefneithin, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.099622738847136, 51.8044755547724], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 22, \"properties\": {\"address\": \"Cefneithin / Foelgastell Welfare Hall, Heol y Parc, Cefneithin, Llanelli                                                                                                                                                                                  \", \"postcode\": \"SA14 7DE \", \"register\": \"AY                       \"}, \"type\": \"Feature\"}",
+        "pk": 22,
+        "postcode": "SA14 7DE",
+        "register": "AY"
+    },
+    {
+        "address": "Drefach Welfare Hall, Heol Cwmmawr, Drefach, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.135323885113961, 51.79829053268543], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 23, \"properties\": {\"address\": \"Drefach Welfare Hall, Heol Cwmmawr, Drefach, Llanelli                                                                                                                                                                                                     \", \"postcode\": null, \"register\": \"AZ                       \"}, \"type\": \"Feature\"}",
+        "pk": 23,
+        "postcode": null,
+        "register": "AZ"
+    },
+    {
+        "address": "Pensioners Hall, Quay Street, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9869262124739753, 51.790935213657], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 24, \"properties\": {\"address\": \"Pensioners Hall, Quay Street, Ammanford                                                                                                                                                                                                                   \", \"postcode\": \"SA18 3EN \", \"register\": \"B                        \"}, \"type\": \"Feature\"}",
+        "pk": 24,
+        "postcode": "SA18 3EN",
+        "register": "B"
+    },
+    {
+        "address": "Gorslas Church Hall, Church Road, Gorslas, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.076105781999658, 51.805497068310316], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 25, \"properties\": {\"address\": \"Gorslas Church Hall, Church Road, Gorslas, Llanelli                                                                                                                                                                                                       \", \"postcode\": null, \"register\": \"BA                       \"}, \"type\": \"Feature\"}",
+        "pk": 25,
+        "postcode": null,
+        "register": "BA"
+    },
+    {
+        "address": "Henllanfallteg Millennium Hall, Llanfallteg, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.678978710824902, 51.847600522845404], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 26, \"properties\": {\"address\": \"Henllanfallteg Millennium Hall, Llanfallteg, Whitland                                                                                                                                                                                                     \", \"postcode\": \"SA34 0UN \", \"register\": \"BC                       \"}, \"type\": \"Feature\"}",
+        "pk": 26,
+        "postcode": "SA34 0UN",
+        "register": "BC"
+    },
+    {
+        "address": "Laugharne Millenium Memorial Hall, Clifton Street, Laugharne",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.463284591523045, 51.77387887809493], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 27, \"properties\": {\"address\": \"Laugharne Millenium Memorial Hall, Clifton Street, Laugharne                                                                                                                                                                                              \", \"postcode\": \"SA33 4QG \", \"register\": \"BD                       \"}, \"type\": \"Feature\"}",
+        "pk": 27,
+        "postcode": "SA33 4QG",
+        "register": "BD"
+    },
+    {
+        "address": "Village Hall, Llanarthne, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.131293518196427, 51.85807880130671], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 28, \"properties\": {\"address\": \"Village Hall, Llanarthne, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA32 8JD \", \"register\": \"BE                       \"}, \"type\": \"Feature\"}",
+        "pk": 28,
+        "postcode": "SA32 8JD",
+        "register": "BE"
+    },
+    {
+        "address": "Llanboidy Market Hall, Llanboidy, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.5915704387528695, 51.87852714508819], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 29, \"properties\": {\"address\": \"Llanboidy Market Hall, Llanboidy, Whitland                                                                                                                                                                                                                \", \"postcode\": \"SA34 0EJ \", \"register\": \"BF                       \"}, \"type\": \"Feature\"}",
+        "pk": 29,
+        "postcode": "SA34 0EJ",
+        "register": "BF"
+    },
+    {
+        "address": "Whitland Memorial Hall, Market Street, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.611920385979469, 51.81940849768851], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 30, \"properties\": {\"address\": \"Whitland Memorial Hall, Market Street, Whitland                                                                                                                                                                                                           \", \"postcode\": \"SA34 0QB \", \"register\": \"BG                       \"}, \"type\": \"Feature\"}",
+        "pk": 30,
+        "postcode": "SA34 0QB",
+        "register": "BG"
+    },
+    {
+        "address": "Y Neuadd Fach, Porthyrhyd, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.148674254514319, 51.822552050081605], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 31, \"properties\": {\"address\": \"Y Neuadd Fach, Porthyrhyd, Carmarthen                                                                                                                                                                                                                     \", \"postcode\": null, \"register\": \"BH                       \"}, \"type\": \"Feature\"}",
+        "pk": 31,
+        "postcode": null,
+        "register": "BH"
+    },
+    {
+        "address": "Mynyddcerrig Workingmen's Club, Mynyddcerrig",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.163817033759683, 51.79988578604049], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 32, \"properties\": {\"address\": \"Mynyddcerrig Workingmen's Club, Mynyddcerrig                                                                                                                                                                                                              \", \"postcode\": \"SA15 5BD \", \"register\": \"BI                       \"}, \"type\": \"Feature\"}",
+        "pk": 32,
+        "postcode": "SA15 5BD",
+        "register": "BI"
+    },
+    {
+        "address": "Glenalla Community Hall, Glanalla Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.150399590318416, 51.68397517818404], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 33, \"properties\": {\"address\": \"Glenalla Community Hall, Glanalla Road, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA15 1EG \", \"register\": \"BIG-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 33,
+        "postcode": "SA15 1EG",
+        "register": "BIG-A"
+    },
+    {
+        "address": "Glenalla Community Hall, Glanalla Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.150399590318416, 51.68397517818404], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 34, \"properties\": {\"address\": \"Glenalla Community Hall, Glanalla Road, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA15 1EG \", \"register\": \"BIG-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 34,
+        "postcode": "SA15 1EG",
+        "register": "BIG-B"
+    },
+    {
+        "address": "Bigyn Community Hall, Bigyn, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.154199505509312, 51.67667794711173], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 35, \"properties\": {\"address\": \"Bigyn Community Hall, Bigyn, Llanelli                                                                                                                                                                                                                     \", \"postcode\": \"SA15 1PB \", \"register\": \"BIG-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 35,
+        "postcode": "SA15 1PB",
+        "register": "BIG-C"
+    },
+    {
+        "address": "Portakabin, Firth Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.147917828699647, 51.6768798847607], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 36, \"properties\": {\"address\": \"Portakabin, Firth Road, Llanelli                                                                                                                                                                                                                          \", \"postcode\": \"SA15 1PN \", \"register\": \"BIG-D (TEM               \"}, \"type\": \"Feature\"}",
+        "pk": 36,
+        "postcode": "SA15 1PN",
+        "register": "BIG-D (TEM"
+    },
+    {
+        "address": "Portakabin, Columbia Row / Ann Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15732701192168, 51.67904127928122], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 37, \"properties\": {\"address\": \"Portakabin, Columbia Row / Ann Street, Llanelli                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"BIG-E (POR               \"}, \"type\": \"Feature\"}",
+        "pk": 37,
+        "postcode": null,
+        "register": "BIG-E (POR"
+    },
+    {
+        "address": "Portakabin, Tircapel, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.137095957269113, 51.686658966166405], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 38, \"properties\": {\"address\": \"Portakabin, Tircapel, Llanelli                                                                                                                                                                                                                            \", \"postcode\": \"         \", \"register\": \"BIG-F                    \"}, \"type\": \"Feature\"}",
+        "pk": 38,
+        "postcode": "",
+        "register": "BIG-F"
+    },
+    {
+        "address": "Llanddowror Community Meeting Room, Llanddowror, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.531363364807584, 51.801750361311846], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 39, \"properties\": {\"address\": \"Llanddowror Community Meeting Room, Llanddowror, Carmarthen                                                                                                                                                                                               \", \"postcode\": \"SA33 4HJ \", \"register\": \"BJ                       \"}, \"type\": \"Feature\"}",
+        "pk": 39,
+        "postcode": "SA33 4HJ",
+        "register": "BJ"
+    },
+    {
+        "address": "Llanddowror Community Meeting Room, Llanddowror, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.531361842792926, 51.80174932477987], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 40, \"properties\": {\"address\": \"Llanddowror Community Meeting Room, Llanddowror, Carmarthen                                                                                                                                                                                               \", \"postcode\": \"SA33 4HJ \", \"register\": \"BK                       \"}, \"type\": \"Feature\"}",
+        "pk": 40,
+        "postcode": "SA33 4HJ",
+        "register": "BK"
+    },
+    {
+        "address": "St Barbara's Church Hall, Llanmiloe, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.5315519112277105, 51.749655156900786], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 41, \"properties\": {\"address\": \"St Barbara's Church Hall, Llanmiloe, Carmarthen                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"BL                       \"}, \"type\": \"Feature\"}",
+        "pk": 41,
+        "postcode": null,
+        "register": "BL"
+    },
+    {
+        "address": "St Anne's Church Hall, Cwmffrwd, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.288610517991425, 51.829374595894414], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 42, \"properties\": {\"address\": \"St Anne's Church Hall, Cwmffrwd, Carmarthen                                                                                                                                                                                                               \", \"postcode\": null, \"register\": \"BM                       \"}, \"type\": \"Feature\"}",
+        "pk": 42,
+        "postcode": null,
+        "register": "BM"
+    },
+    {
+        "address": "Llandyfaelog Welfare Hall, Llandyfaelog, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.297162552697759, 51.78180361519429], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 43, \"properties\": {\"address\": \"Llandyfaelog Welfare Hall, Llandyfaelog, Kidwelly                                                                                                                                                                                                         \", \"postcode\": \"SA17 5PW \", \"register\": \"BN                       \"}, \"type\": \"Feature\"}",
+        "pk": 43,
+        "postcode": "SA17 5PW",
+        "register": "BN"
+    },
+    {
+        "address": "Llanfihangel Ar Arth School Hall, Llanfihangel ar Arth, Pencader",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.251278235864854, 52.03296466726301], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 44, \"properties\": {\"address\": \"Llanfihangel Ar Arth School Hall, Llanfihangel ar Arth, Pencader                                                                                                                                                                                          \", \"postcode\": \"SA39 9JH \", \"register\": \"BO                       \"}, \"type\": \"Feature\"}",
+        "pk": 44,
+        "postcode": "SA39 9JH",
+        "register": "BO"
+    },
+    {
+        "address": "Pencader Pavilion, Pencader",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.265042014330798, 52.001926237975475], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 45, \"properties\": {\"address\": \"Pencader Pavilion, Pencader                                                                                                                                                                                                                               \", \"postcode\": \"SA39 9ER \", \"register\": \"BP                       \"}, \"type\": \"Feature\"}",
+        "pk": 45,
+        "postcode": "SA39 9ER",
+        "register": "BP"
+    },
+    {
+        "address": "Abergolech Church Hall",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.061371285197199, 51.982886105330806], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 46, \"properties\": {\"address\": \"Abergolech Church Hall                                                                                                                                                                                                                                    \", \"postcode\": null, \"register\": \"BQ                       \"}, \"type\": \"Feature\"}",
+        "pk": 46,
+        "postcode": null,
+        "register": "BQ"
+    },
+    {
+        "address": "Brechfa Church Hall, Brechfa",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.148630893772436, 51.95127701418768], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 47, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa                                                                                                                                                                                                                              \", \"postcode\": null, \"register\": \"BR                       \"}, \"type\": \"Feature\"}",
+        "pk": 47,
+        "postcode": null,
+        "register": "BR"
+    },
+    {
+        "address": "Gwernogle Chapel Vestry, Gwernogle",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.142425839498914, 51.98507015974997], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 48, \"properties\": {\"address\": \"Gwernogle Chapel Vestry, Gwernogle                                                                                                                                                                                                                        \", \"postcode\": null, \"register\": \"BS                       \"}, \"type\": \"Feature\"}",
+        "pk": 48,
+        "postcode": null,
+        "register": "BS"
+    },
+    {
+        "address": "Llangain Memorial Hall, Llangain, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.347193356102451, 51.8168059275871], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 49, \"properties\": {\"address\": \"Llangain Memorial Hall, Llangain, Carmarthen                                                                                                                                                                                                              \", \"postcode\": \"SA33 5AE \", \"register\": \"BT                       \"}, \"type\": \"Feature\"}",
+        "pk": 49,
+        "postcode": "SA33 5AE",
+        "register": "BT"
+    },
+    {
+        "address": "Saron Chapel Vestri, Saron",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.371816567560224, 52.018980477757836], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 50, \"properties\": {\"address\": \"Saron Chapel Vestri, Saron                                                                                                                                                                                                                                \", \"postcode\": \"SA44 5EN \", \"register\": \"BU                       \"}, \"type\": \"Feature\"}",
+        "pk": 50,
+        "postcode": "SA44 5EN",
+        "register": "BU"
+    },
+    {
+        "address": "Burry Port Memorial Hall, Memorial Square, Burry Port",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.247765610762318, 51.685327071797616], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 51, \"properties\": {\"address\": \"Burry Port Memorial Hall, Memorial Square, Burry Port                                                                                                                                                                                                     \", \"postcode\": \"SA16 0BN \", \"register\": \"BUR-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 51,
+        "postcode": "SA16 0BN",
+        "register": "BUR-A"
+    },
+    {
+        "address": "Residents Lounge Plas Y Mor, Glanmor Terrace, Burry Port",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.246171385658561, 51.68355684565275], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 52, \"properties\": {\"address\": \"Residents Lounge Plas Y Mor, Glanmor Terrace, Burry Port                                                                                                                                                                                                  \", \"postcode\": \"SA16 0NW \", \"register\": \"BUR-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 52,
+        "postcode": "SA16 0NW",
+        "register": "BUR-B"
+    },
+    {
+        "address": "Pentrecwrt Village Hall, Pentrecwrt, Llandysul",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.355412857130794, 52.023544690114825], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 53, \"properties\": {\"address\": \"Pentrecwrt Village Hall, Pentrecwrt, Llandysul                                                                                                                                                                                                            \", \"postcode\": \"SA44 5BD \", \"register\": \"BV                       \"}, \"type\": \"Feature\"}",
+        "pk": 53,
+        "postcode": "SA44 5BD",
+        "register": "BV"
+    },
+    {
+        "address": "Red Dragon Hall, Felindre, Llandysul",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.399644128342342, 52.01994699495397], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 54, \"properties\": {\"address\": \"Red Dragon Hall, Felindre, Llandysul                                                                                                                                                                                                                      \", \"postcode\": \"SA44 5UG \", \"register\": \"BW                       \"}, \"type\": \"Feature\"}",
+        "pk": 54,
+        "postcode": "SA44 5UG",
+        "register": "BW"
+    },
+    {
+        "address": "Yr Aelwyd, Llangunnor, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.297751708520959, 51.85013036992925], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 55, \"properties\": {\"address\": \"Yr Aelwyd, Llangunnor, Carmarthen                                                                                                                                                                                                                         \", \"postcode\": \"SA31 2ED \", \"register\": \"BX                       \"}, \"type\": \"Feature\"}",
+        "pk": 55,
+        "postcode": "SA31 2ED",
+        "register": "BX"
+    },
+    {
+        "address": "Yr Aelwyd, Llangunnor, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.297751708520959, 51.85013036992925], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 56, \"properties\": {\"address\": \"Yr Aelwyd, Llangunnor, Carmarthen                                                                                                                                                                                                                         \", \"postcode\": \"SA31 2ED \", \"register\": \"BY                       \"}, \"type\": \"Feature\"}",
+        "pk": 56,
+        "postcode": "SA31 2ED",
+        "register": "BY"
+    },
+    {
+        "address": "Saron Hall, Saron Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.104366555417434, 51.674935347413246], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 57, \"properties\": {\"address\": \"Saron Hall, Saron Road, Llanelli                                                                                                                                                                                                                          \", \"postcode\": \"SA14 9LJ \", \"register\": \"BYN-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 57,
+        "postcode": "SA14 9LJ",
+        "register": "BYN-A"
+    },
+    {
+        "address": "Trallwm Community Hall, Amanwy, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.115189277794249, 51.6811258451869], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 58, \"properties\": {\"address\": \"Trallwm Community Hall, Amanwy, Llanelli                                                                                                                                                                                                                  \", \"postcode\": \"SA14 9ET \", \"register\": \"BYN-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 58,
+        "postcode": "SA14 9ET",
+        "register": "BYN-B"
+    },
+    {
+        "address": "Llwynhendy Community Centre, Llwynhendy Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.118666358533346, 51.67854504430469], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 59, \"properties\": {\"address\": \"Llwynhendy Community Centre, Llwynhendy Road, Llanelli                                                                                                                                                                                                    \", \"postcode\": \"SA14 9DP \", \"register\": \"BYN-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 59,
+        "postcode": "SA14 9DP",
+        "register": "BYN-C"
+    },
+    {
+        "address": "Carway Welfare Hall, Heol Trimsaran, Carway",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.224794805185811, 51.73662520934025], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 60, \"properties\": {\"address\": \"Carway Welfare Hall, Heol Trimsaran, Carway                                                                                                                                                                                                               \", \"postcode\": \"SA17 4HL \", \"register\": \"BZ                       \"}, \"type\": \"Feature\"}",
+        "pk": 60,
+        "postcode": "SA17 4HL",
+        "register": "BZ"
+    },
+    {
+        "address": "The Hall, Nantlais, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.995835707002854, 51.799502110531996], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 61, \"properties\": {\"address\": \"The Hall, Nantlais, Ammanford                                                                                                                                                                                                                             \", \"postcode\": \"SA18 2EJ \", \"register\": \"C                        \"}, \"type\": \"Feature\"}",
+        "pk": 61,
+        "postcode": "SA18 2EJ",
+        "register": "C"
+    },
+    {
+        "address": "Princess Gwenllian Centre, Hillfield Villas, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.3136039307840734, 51.736073590677755], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 62, \"properties\": {\"address\": \"Princess Gwenllian Centre, Hillfield Villas, Kidwelly                                                                                                                                                                                                     \", \"postcode\": \"SA17 4UL \", \"register\": \"CAS-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 62,
+        "postcode": "SA17 4UL",
+        "register": "CAS-A"
+    },
+    {
+        "address": "Church Hall, Llangyndeyrn, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.239913171354927, 51.80361252685991], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 63, \"properties\": {\"address\": \"Church Hall, Llangyndeyrn, Kidwelly                                                                                                                                                                                                                       \", \"postcode\": null, \"register\": \"CB                       \"}, \"type\": \"Feature\"}",
+        "pk": 63,
+        "postcode": null,
+        "register": "CB"
+    },
+    {
+        "address": "Salem Vestry, Four Roads, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.250455680771786, 51.761227068237396], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 64, \"properties\": {\"address\": \"Salem Vestry, Four Roads, Kidwelly                                                                                                                                                                                                                        \", \"postcode\": \"SA17 4SD \", \"register\": \"CC                       \"}, \"type\": \"Feature\"}",
+        "pk": 64,
+        "postcode": "SA17 4SD",
+        "register": "CC"
+    },
+    {
+        "address": "Pontyates Welfare Hall, Pontyates",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.217243772985852, 51.7527579273998], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 65, \"properties\": {\"address\": \"Pontyates Welfare Hall, Pontyates                                                                                                                                                                                                                         \", \"postcode\": \"SA15 5TR \", \"register\": \"CD                       \"}, \"type\": \"Feature\"}",
+        "pk": 65,
+        "postcode": "SA15 5TR",
+        "register": "CD"
+    },
+    {
+        "address": "Bryn Chapel Hall, Llangynnin",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.541874963160196, 51.8492211563179], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 66, \"properties\": {\"address\": \"Bryn Chapel Hall, Llangynnin                                                                                                                                                                                                                              \", \"postcode\": null, \"register\": \"CE                       \"}, \"type\": \"Feature\"}",
+        "pk": 66,
+        "postcode": null,
+        "register": "CE"
+    },
+    {
+        "address": "Llangynog Village Hall, Llangynog, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.41143637116336, 51.81471575970897], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 67, \"properties\": {\"address\": \"Llangynog Village Hall, Llangynog, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 5BS \", \"register\": \"CF                       \"}, \"type\": \"Feature\"}",
+        "pk": 67,
+        "postcode": "SA33 5BS",
+        "register": "CF"
+    },
+    {
+        "address": "Llanllawddog Church Hall, Llanllawddog, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.245619316178155, 51.94166816399532], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 68, \"properties\": {\"address\": \"Llanllawddog Church Hall, Llanllawddog, Carmarthen                                                                                                                                                                                                        \", \"postcode\": null, \"register\": \"CG                       \"}, \"type\": \"Feature\"}",
+        "pk": 68,
+        "postcode": null,
+        "register": "CG"
+    },
+    {
+        "address": "Nonni Chapel Vestry, Llanllwni, Pencader",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.196207487237737, 52.04048596678592], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 69, \"properties\": {\"address\": \"Nonni Chapel Vestry, Llanllwni, Pencader                                                                                                                                                                                                                  \", \"postcode\": null, \"register\": \"CH                       \"}, \"type\": \"Feature\"}",
+        "pk": 69,
+        "postcode": null,
+        "register": "CH"
+    },
+    {
+        "address": "Llanpumsaint Memorial Hall, Llanpumsaint, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.303753855049845, 51.93967676277521], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 70, \"properties\": {\"address\": \"Llanpumsaint Memorial Hall, Llanpumsaint, Carmarthen                                                                                                                                                                                                      \", \"postcode\": \"SA33 6BZ \", \"register\": \"CI                       \"}, \"type\": \"Feature\"}",
+        "pk": 70,
+        "postcode": "SA33 6BZ",
+        "register": "CI"
+    },
+    {
+        "address": "Llansteffan Memorial Hall, Llansteffan, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.391661942254018, 51.77131678083037], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 71, \"properties\": {\"address\": \"Llansteffan Memorial Hall, Llansteffan, Carmarthen                                                                                                                                                                                                        \", \"postcode\": \"SA33 5JQ \", \"register\": \"CJ                       \"}, \"type\": \"Feature\"}",
+        "pk": 71,
+        "postcode": "SA33 5JQ",
+        "register": "CJ"
+    },
+    {
+        "address": "Llanybri Community Hall, Llanybri, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.414124703299902, 51.785918488459835], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 72, \"properties\": {\"address\": \"Llanybri Community Hall, Llanybri, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 5HJ \", \"register\": \"CK                       \"}, \"type\": \"Feature\"}",
+        "pk": 72,
+        "postcode": "SA33 5HJ",
+        "register": "CK"
+    },
+    {
+        "address": "Portakabin, Chapel Car Park, Cwmfelin Mynach",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.573630383096059, 51.89437559832031], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 73, \"properties\": {\"address\": \"Portakabin, Chapel Car Park, Cwmfelin Mynach                                                                                                                                                                                                              \", \"postcode\": \"SA34 0DH \", \"register\": \"CL                       \"}, \"type\": \"Feature\"}",
+        "pk": 73,
+        "postcode": "SA34 0DH",
+        "register": "CL"
+    },
+    {
+        "address": "Aberduar Chapel Vestry, Llanybydder",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15228137801936, 52.07329189431217], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 74, \"properties\": {\"address\": \"Aberduar Chapel Vestry, Llanybydder                                                                                                                                                                                                                       \", \"postcode\": null, \"register\": \"CM                       \"}, \"type\": \"Feature\"}",
+        "pk": 74,
+        "postcode": null,
+        "register": "CM"
+    },
+    {
+        "address": "Aberduar Chapel Vestry, Llanybydder",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15228137801936, 52.07329189431217], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 75, \"properties\": {\"address\": \"Aberduar Chapel Vestry, Llanybydder                                                                                                                                                                                                                       \", \"postcode\": null, \"register\": \"CN                       \"}, \"type\": \"Feature\"}",
+        "pk": 75,
+        "postcode": null,
+        "register": "CN"
+    },
+    {
+        "address": "Ffaldybrenin Chapel, Heol y Pistyll, Ffaldybrenin",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9905419623655143, 52.08286140118497], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 76, \"properties\": {\"address\": \"Ffaldybrenin Chapel, Heol y Pistyll, Ffaldybrenin                                                                                                                                                                                                         \", \"postcode\": null, \"register\": \"CO                       \"}, \"type\": \"Feature\"}",
+        "pk": 76,
+        "postcode": null,
+        "register": "CO"
+    },
+    {
+        "address": "Meidrim Youth Hall, Meidrim, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.4832021396680535, 51.85963164589924], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 77, \"properties\": {\"address\": \"Meidrim Youth Hall, Meidrim, Carmarthen                                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"CP                       \"}, \"type\": \"Feature\"}",
+        "pk": 77,
+        "postcode": null,
+        "register": "CP"
+    },
+    {
+        "address": "Holy Trinity Church Community Hall, Church Lane, Newcastle Emlyn",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.468614960964193, 52.038904217837455], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 78, \"properties\": {\"address\": \"Holy Trinity Church Community Hall, Church Lane, Newcastle Emlyn                                                                                                                                                                                          \", \"postcode\": null, \"register\": \"CQ                       \"}, \"type\": \"Feature\"}",
+        "pk": 78,
+        "postcode": null,
+        "register": "CQ"
+    },
+    {
+        "address": "Merthyr Community Hall, Merthyr, Bancyfelin, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.395086405745252, 51.86181534116049], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 79, \"properties\": {\"address\": \"Merthyr Community Hall, Merthyr, Bancyfelin, Carmarthen                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"CR                       \"}, \"type\": \"Feature\"}",
+        "pk": 79,
+        "postcode": null,
+        "register": "CR"
+    },
+    {
+        "address": "St. Anne's Church Hall, Heol Bryngwili, Cross Hands",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.088603010249023, 51.79309740002322], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 80, \"properties\": {\"address\": \"St. Anne's Church Hall, Heol Bryngwili, Cross Hands                                                                                                                                                                                                       \", \"postcode\": null, \"register\": \"CRO-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 80,
+        "postcode": null,
+        "register": "CRO-A"
+    },
+    {
+        "address": "Welfare Hall, Heol y Deri, Cwmgwili",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.070090110412372, 51.77477592066582], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 81, \"properties\": {\"address\": \"Welfare Hall, Heol y Deri, Cwmgwili                                                                                                                                                                                                                       \", \"postcode\": \"SA14 6PP \", \"register\": \"CRO-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 81,
+        "postcode": "SA14 6PP",
+        "register": "CRO-B"
+    },
+    {
+        "address": "Newchurch Community Hall, Trawsmawr, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.349692514085403, 51.893577473988174], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 82, \"properties\": {\"address\": \"Newchurch Community Hall, Trawsmawr, Carmarthen                                                                                                                                                                                                           \", \"postcode\": \"SA33 6AF \", \"register\": \"CS                       \"}, \"type\": \"Feature\"}",
+        "pk": 82,
+        "postcode": "SA33 6AF",
+        "register": "CS"
+    },
+    {
+        "address": "St James Hall, Cwmann, Lampeter",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.074748842390766, 52.10226177674401], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 83, \"properties\": {\"address\": \"St James Hall, Cwmann, Lampeter                                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"CT                       \"}, \"type\": \"Feature\"}",
+        "pk": 83,
+        "postcode": null,
+        "register": "CT"
+    },
+    {
+        "address": "The Coffee Shop, Pendine, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.560359638364124, 51.74236229763826], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 84, \"properties\": {\"address\": \"The Coffee Shop, Pendine, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA33 4PA \", \"register\": \"CW                       \"}, \"type\": \"Feature\"}",
+        "pk": 84,
+        "postcode": "SA33 4PA",
+        "register": "CW"
+    },
+    {
+        "address": "St Clears Leisure Centre, Station Road, St. Clears, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.491738923503328, 51.822053055474804], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 85, \"properties\": {\"address\": \"St Clears Leisure Centre, Station Road, St. Clears, Carmarthen                                                                                                                                                                                            \", \"postcode\": \"SA33 4BP \", \"register\": \"CX                       \"}, \"type\": \"Feature\"}",
+        "pk": 85,
+        "postcode": "SA33 4BP",
+        "register": "CX"
+    },
+    {
+        "address": "Bancyfelin Village Hall, Lon Cywin, Bancyfelin, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.43469849313113, 51.83613527490524], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 86, \"properties\": {\"address\": \"Bancyfelin Village Hall, Lon Cywin, Bancyfelin, Carmarthen                                                                                                                                                                                                \", \"postcode\": \"SA33 5NF \", \"register\": \"CY                       \"}, \"type\": \"Feature\"}",
+        "pk": 86,
+        "postcode": "SA33 5NF",
+        "register": "CY"
+    },
+    {
+        "address": "St. Clears Boat Club, Bridge Street, St. Clears, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.493904626380012, 51.809828355649124], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 87, \"properties\": {\"address\": \"St. Clears Boat Club, Bridge Street, St. Clears, Carmarthen                                                                                                                                                                                               \", \"postcode\": \"SA33 4EW \", \"register\": \"CZ                       \"}, \"type\": \"Feature\"}",
+        "pk": 87,
+        "postcode": "SA33 4EW",
+        "register": "CZ"
+    },
+    {
+        "address": "English Congregational Vestry, Iscennen Road, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9913940420962386, 51.79379014864872], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 88, \"properties\": {\"address\": \"English Congregational Vestry, Iscennen Road, Ammanford                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"D                        \"}, \"type\": \"Feature\"}",
+        "pk": 88,
+        "postcode": null,
+        "register": "D"
+    },
+    {
+        "address": "Ferryside Welfare Hall, Hall Terrace, Ferryside, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.370713050493283, 51.76453872296156], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 89, \"properties\": {\"address\": \"Ferryside Welfare Hall, Hall Terrace, Ferryside, Carmarthen                                                                                                                                                                                               \", \"postcode\": \"SA17 5SN \", \"register\": \"DA                       \"}, \"type\": \"Feature\"}",
+        "pk": 89,
+        "postcode": "SA17 5SN",
+        "register": "DA"
+    },
+    {
+        "address": "Dafen Rural Park Hall, Maescanner Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.131945858750282, 51.690594092459], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 90, \"properties\": {\"address\": \"Dafen Rural Park Hall, Maescanner Road, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA14 8LP \", \"register\": \"DAF-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 90,
+        "postcode": "SA14 8LP",
+        "register": "DAF-A"
+    },
+    {
+        "address": "Church Hall, Bryngwyn Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.131909559573376, 51.68903834578613], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 91, \"properties\": {\"address\": \"Church Hall, Bryngwyn Road, Llanelli                                                                                                                                                                                                                      \", \"postcode\": \"SA14 8LW \", \"register\": \"DAF-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 91,
+        "postcode": "SA14 8LW",
+        "register": "DAF-B"
+    },
+    {
+        "address": "Portakabin, Tircapel, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.137096330547035, 51.686659145337345], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 92, \"properties\": {\"address\": \"Portakabin, Tircapel, Llanelli                                                                                                                                                                                                                            \", \"postcode\": null, \"register\": \"DAF-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 92,
+        "postcode": null,
+        "register": "DAF-C"
+    },
+    {
+        "address": "Llansaint Welfare Hall, Heol Gwermont, Llansaint, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.339337059438228, 51.747228740292464], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 93, \"properties\": {\"address\": \"Llansaint Welfare Hall, Heol Gwermont, Llansaint, Kidwelly                                                                                                                                                                                                \", \"postcode\": \"SA17 5JS \", \"register\": \"DB                       \"}, \"type\": \"Feature\"}",
+        "pk": 93,
+        "postcode": "SA17 5JS",
+        "register": "DB"
+    },
+    {
+        "address": "Llansaint Welfare Hall, Heol Gwermont, Llansaint, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.339337059438228, 51.747228740292464], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 94, \"properties\": {\"address\": \"Llansaint Welfare Hall, Heol Gwermont, Llansaint, Kidwelly                                                                                                                                                                                                \", \"postcode\": \"SA17 5JS \", \"register\": \"DC                       \"}, \"type\": \"Feature\"}",
+        "pk": 94,
+        "postcode": "SA17 5JS",
+        "register": "DC"
+    },
+    {
+        "address": "Ferryside Welfare Hall, Hall Terrace, Ferryside, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.370713050493283, 51.76453872296156], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 95, \"properties\": {\"address\": \"Ferryside Welfare Hall, Hall Terrace, Ferryside, Carmarthen                                                                                                                                                                                               \", \"postcode\": \"SA17 5SN \", \"register\": \"DD                       \"}, \"type\": \"Feature\"}",
+        "pk": 95,
+        "postcode": "SA17 5SN",
+        "register": "DD"
+    },
+    {
+        "address": "Trelech Community Centre, Trelech, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.500332933890967, 51.94548015807866], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 96, \"properties\": {\"address\": \"Trelech Community Centre, Trelech, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 6RU \", \"register\": \"DE-C                     \"}, \"type\": \"Feature\"}",
+        "pk": 96,
+        "postcode": "SA33 6RU",
+        "register": "DE-C"
+    },
+    {
+        "address": "Alma Community Centre, Meidrim, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.471450904969487, 51.896519108088135], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 97, \"properties\": {\"address\": \"Alma Community Centre, Meidrim, Carmarthen                                                                                                                                                                                                                \", \"postcode\": \"SA33 5PS \", \"register\": \"DF-C                     \"}, \"type\": \"Feature\"}",
+        "pk": 97,
+        "postcode": "SA33 5PS",
+        "register": "DF-C"
+    },
+    {
+        "address": "Whitland Memorial Hall, Market Street, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6119203347405335, 51.81940855888259], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 98, \"properties\": {\"address\": \"Whitland Memorial Hall, Market Street, Whitland                                                                                                                                                                                                           \", \"postcode\": \"SA34 0QB \", \"register\": \"DG-C                     \"}, \"type\": \"Feature\"}",
+        "pk": 98,
+        "postcode": "SA34 0QB",
+        "register": "DG-C"
+    },
+    {
+        "address": "Whitland Memorial Hall, Market Street, Whitland",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6119203584352135, 51.819408507002755], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 99, \"properties\": {\"address\": \"Whitland Memorial Hall, Market Street, Whitland                                                                                                                                                                                                           \", \"postcode\": \"SA34 0QB \", \"register\": \"DH-C                     \"}, \"type\": \"Feature\"}",
+        "pk": 99,
+        "postcode": "SA34 0QB",
+        "register": "DH-C"
+    },
+    {
+        "address": "Capel Newydd Vestry, Betws Road, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.983649031824123, 51.78852568681796], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 100, \"properties\": {\"address\": \"Capel Newydd Vestry, Betws Road, Ammanford                                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"E                        \"}, \"type\": \"Feature\"}",
+        "pk": 100,
+        "postcode": null,
+        "register": "E"
+    },
+    {
+        "address": "Rhys Pritchard Memorial Hall, High Street, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.7930378799729323, 51.993933332388515], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 101, \"properties\": {\"address\": \"Rhys Pritchard Memorial Hall, High Street, Llandovery                                                                                                                                                                                                     \", \"postcode\": \"SA20 0DD \", \"register\": \"EA                       \"}, \"type\": \"Feature\"}",
+        "pk": 101,
+        "postcode": "SA20 0DD",
+        "register": "EA"
+    },
+    {
+        "address": "Rhys Pritchard Memorial Hall, High Street, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.7930378799729323, 51.993933332388515], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 102, \"properties\": {\"address\": \"Rhys Pritchard Memorial Hall, High Street, Llandovery                                                                                                                                                                                                     \", \"postcode\": \"SA20 0DD \", \"register\": \"EB                       \"}, \"type\": \"Feature\"}",
+        "pk": 102,
+        "postcode": "SA20 0DD",
+        "register": "EB"
+    },
+    {
+        "address": "Rhys Pritchard Memorial Hall, High Street, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.7930378799729323, 51.993933332388515], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 103, \"properties\": {\"address\": \"Rhys Pritchard Memorial Hall, High Street, Llandovery                                                                                                                                                                                                     \", \"postcode\": \"SA20 0DD \", \"register\": \"EC                       \"}, \"type\": \"Feature\"}",
+        "pk": 103,
+        "postcode": "SA20 0DD",
+        "register": "EC"
+    },
+    {
+        "address": "Glanamman Community Centre, High Street, Glanamman",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.922174616995515, 51.80474265141788], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 104, \"properties\": {\"address\": \"Glanamman Community Centre, High Street, Glanamman                                                                                                                                                                                                        \", \"postcode\": \"SA18 1DX \", \"register\": \"ED                       \"}, \"type\": \"Feature\"}",
+        "pk": 104,
+        "postcode": "SA18 1DX",
+        "register": "ED"
+    },
+    {
+        "address": "Tabernacle Vestry, Cwmamman Road, Glanamman",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9132121611608928, 51.80432657723186], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 105, \"properties\": {\"address\": \"Tabernacle Vestry, Cwmamman Road, Glanamman                                                                                                                                                                                                               \", \"postcode\": null, \"register\": \"EE                       \"}, \"type\": \"Feature\"}",
+        "pk": 105,
+        "postcode": null,
+        "register": "EE"
+    },
+    {
+        "address": "Garnant Club, Cwmamman Road, Garnant, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.901303196770262, 51.8013233914389], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 106, \"properties\": {\"address\": \"Garnant Club, Cwmamman Road, Garnant, Ammanford                                                                                                                                                                                                           \", \"postcode\": \"SA18 1ND \", \"register\": \"EF                       \"}, \"type\": \"Feature\"}",
+        "pk": 106,
+        "postcode": "SA18 1ND",
+        "register": "EF"
+    },
+    {
+        "address": "Ysgol y Bedol, Folland Road, Garnant, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9051323512770435, 51.80511001064942], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 107, \"properties\": {\"address\": \"Ysgol y Bedol, Folland Road, Garnant, Ammanford                                                                                                                                                                                                           \", \"postcode\": \"SA18 2GB \", \"register\": \"EG                       \"}, \"type\": \"Feature\"}",
+        "pk": 107,
+        "postcode": "SA18 2GB",
+        "register": "EG"
+    },
+    {
+        "address": "Llandeilo Civic Hall, Crescent Road, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9898573770902086, 51.883772880008856], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 108, \"properties\": {\"address\": \"Llandeilo Civic Hall, Crescent Road, Llandeilo                                                                                                                                                                                                            \", \"postcode\": \"SA19 6HN \", \"register\": \"EH                       \"}, \"type\": \"Feature\"}",
+        "pk": 108,
+        "postcode": "SA19 6HN",
+        "register": "EH"
+    },
+    {
+        "address": "Llandeilo Civic Hall, Crescent Road, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9898573770902086, 51.883772880008856], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 109, \"properties\": {\"address\": \"Llandeilo Civic Hall, Crescent Road, Llandeilo                                                                                                                                                                                                            \", \"postcode\": \"SA19 6HN \", \"register\": \"EI                       \"}, \"type\": \"Feature\"}",
+        "pk": 109,
+        "postcode": "SA19 6HN",
+        "register": "EI"
+    },
+    {
+        "address": "Crugybar Village Hall, Crugybar",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9585395409778066, 52.0214232018328], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 110, \"properties\": {\"address\": \"Crugybar Village Hall, Crugybar                                                                                                                                                                                                                           \", \"postcode\": \"Neuadd yr\", \"register\": \"EJ                       \"}, \"type\": \"Feature\"}",
+        "pk": 110,
+        "postcode": "Neuadd yr",
+        "register": "EJ"
+    },
+    {
+        "address": "Village Hall, Ffarmers, Llanwrda",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.972531499368867, 52.084025382968406], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 111, \"properties\": {\"address\": \"Village Hall, Ffarmers, Llanwrda                                                                                                                                                                                                                          \", \"postcode\": \"SA19 8LQ \", \"register\": \"EK                       \"}, \"type\": \"Feature\"}",
+        "pk": 111,
+        "postcode": "SA19 8LQ",
+        "register": "EK"
+    },
+    {
+        "address": "Public Hall, Llanwrda",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8762630611497326, 51.966798197445165], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 112, \"properties\": {\"address\": \"Public Hall, Llanwrda                                                                                                                                                                                                                                     \", \"postcode\": \"SA19 8HD \", \"register\": \"EL                       \"}, \"type\": \"Feature\"}",
+        "pk": 112,
+        "postcode": "SA19 8HD",
+        "register": "EL"
+    },
+    {
+        "address": "Tygwyn Community Church, 83 New Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.168628689320409, 51.68762357734534], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 113, \"properties\": {\"address\": \"Tygwyn Community Church, 83 New Road, Llanelli                                                                                                                                                                                                            \", \"postcode\": \"SA15 3DS \", \"register\": \"ELL-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 113,
+        "postcode": "SA15 3DS",
+        "register": "ELL-A"
+    },
+    {
+        "address": "Tygwyn Community Church, 83 New Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.168628689320409, 51.68762357734534], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 114, \"properties\": {\"address\": \"Tygwyn Community Church, 83 New Road, Llanelli                                                                                                                                                                                                            \", \"postcode\": \"SA15 3DS \", \"register\": \"ELL-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 114,
+        "postcode": "SA15 3DS",
+        "register": "ELL-B"
+    },
+    {
+        "address": "Disabled Drivers Centre, Albert Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.170133085022488, 51.679128819814196], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 115, \"properties\": {\"address\": \"Disabled Drivers Centre, Albert Street, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA15 2SY \", \"register\": \"ELL-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 115,
+        "postcode": "SA15 2SY",
+        "register": "ELL-C"
+    },
+    {
+        "address": "Babel Hall, Babel Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.7001264580792808, 52.00649419644826], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 116, \"properties\": {\"address\": \"Babel Hall, Babel Llandovery                                                                                                                                                                                                                              \", \"postcode\": \"SA20 0RW \", \"register\": \"EM                       \"}, \"type\": \"Feature\"}",
+        "pk": 116,
+        "postcode": "SA20 0RW",
+        "register": "EM"
+    },
+    {
+        "address": "Bethel Chapel, Cynghordy, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.740797179973447, 52.044301161697035], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 117, \"properties\": {\"address\": \"Bethel Chapel, Cynghordy, Llandovery                                                                                                                                                                                                                      \", \"postcode\": null, \"register\": \"EN                       \"}, \"type\": \"Feature\"}",
+        "pk": 117,
+        "postcode": null,
+        "register": "EN"
+    },
+    {
+        "address": "The Lounge, Royal Oak Inn, Rhandirmwyn, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.7746688631041385, 52.07862550434814], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 118, \"properties\": {\"address\": \"The Lounge, Royal Oak Inn, Rhandirmwyn, Llandovery                                                                                                                                                                                                        \", \"postcode\": \"SA20 0NY \", \"register\": \"EO                       \"}, \"type\": \"Feature\"}",
+        "pk": 118,
+        "postcode": "SA20 0NY",
+        "register": "EO"
+    },
+    {
+        "address": "Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8201397626810736, 52.043144183057834], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 119, \"properties\": {\"address\": \"Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"EP                       \"}, \"type\": \"Feature\"}",
+        "pk": 119,
+        "postcode": null,
+        "register": "EP"
+    },
+    {
+        "address": "Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8201397626810736, 52.043144183057834], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 120, \"properties\": {\"address\": \"Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"EQ                       \"}, \"type\": \"Feature\"}",
+        "pk": 120,
+        "postcode": null,
+        "register": "EQ"
+    },
+    {
+        "address": "Young Farmers Hall, Heol Bethlehem, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9930198551478027, 51.87523441382288], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 121, \"properties\": {\"address\": \"Young Farmers Hall, Heol Bethlehem, Llandeilo                                                                                                                                                                                                             \", \"postcode\": \"SA19 6SY \", \"register\": \"ER                       \"}, \"type\": \"Feature\"}",
+        "pk": 121,
+        "postcode": "SA19 6SY",
+        "register": "ER"
+    },
+    {
+        "address": "Church Hall, Llandyfan, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9756290925236737, 51.83970111949492], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 122, \"properties\": {\"address\": \"Church Hall, Llandyfan, Ammanford                                                                                                                                                                                                                         \", \"postcode\": null, \"register\": \"ES                       \"}, \"type\": \"Feature\"}",
+        "pk": 122,
+        "postcode": null,
+        "register": "ES"
+    },
+    {
+        "address": "Village Hall, Salem, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.005962022075009, 51.92302308742328], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 123, \"properties\": {\"address\": \"Village Hall, Salem, Llandeilo                                                                                                                                                                                                                            \", \"postcode\": \"SA19 7LY \", \"register\": \"ET                       \"}, \"type\": \"Feature\"}",
+        "pk": 123,
+        "postcode": "SA19 7LY",
+        "register": "ET"
+    },
+    {
+        "address": "Village Hall, Cwmifor, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.953018480370542, 51.909325035870836], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 124, \"properties\": {\"address\": \"Village Hall, Cwmifor, Llandeilo                                                                                                                                                                                                                          \", \"postcode\": \"SA19 7AW \", \"register\": \"EU                       \"}, \"type\": \"Feature\"}",
+        "pk": 124,
+        "postcode": "SA19 7AW",
+        "register": "EU"
+    },
+    {
+        "address": "Penygroes Memorial Hall, Waterloo Road, Penygroes",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.052763260567753, 51.80219905452869], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 125, \"properties\": {\"address\": \"Penygroes Memorial Hall, Waterloo Road, Penygroes                                                                                                                                                                                                         \", \"postcode\": \"SA14 7NP \", \"register\": \"EV                       \"}, \"type\": \"Feature\"}",
+        "pk": 125,
+        "postcode": "SA14 7NP",
+        "register": "EV"
+    },
+    {
+        "address": "Welfare Hall, Caerbryn Terrace, Caerbryn, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.033799908081677, 51.80488773072005], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 126, \"properties\": {\"address\": \"Welfare Hall, Caerbryn Terrace, Caerbryn, Ammanford                                                                                                                                                                                                       \", \"postcode\": \"SA18 3DQ \", \"register\": \"EW                       \"}, \"type\": \"Feature\"}",
+        "pk": 126,
+        "postcode": "SA18 3DQ",
+        "register": "EW"
+    },
+    {
+        "address": "Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.039084105490849, 51.781978604407854], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 127, \"properties\": {\"address\": \"Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford                                                                                                                                                                                                 \", \"postcode\": null, \"register\": \"EXC                      \"}, \"type\": \"Feature\"}",
+        "pk": 127,
+        "postcode": null,
+        "register": "EXC"
+    },
+    {
+        "address": "Saron Welfare Hall, Saron Road, Saron, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.031020063755216, 51.79258342710727], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 128, \"properties\": {\"address\": \"Saron Welfare Hall, Saron Road, Saron, Ammanford                                                                                                                                                                                                          \", \"postcode\": \"SA18 3LN \", \"register\": \"EXS                      \"}, \"type\": \"Feature\"}",
+        "pk": 128,
+        "postcode": "SA18 3LN",
+        "register": "EXS"
+    },
+    {
+        "address": "The Hall, Gwynfryn Estate, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.000355131574471, 51.796837677936566], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 129, \"properties\": {\"address\": \"The Hall, Gwynfryn Estate, Ammanford                                                                                                                                                                                                                      \", \"postcode\": null, \"register\": \"EY                       \"}, \"type\": \"Feature\"}",
+        "pk": 129,
+        "postcode": null,
+        "register": "EY"
+    },
+    {
+        "address": "Welfare Hall, Heol y Deri, Cwmgwili",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.070090110412372, 51.77477592066582], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 130, \"properties\": {\"address\": \"Welfare Hall, Heol y Deri, Cwmgwili                                                                                                                                                                                                                       \", \"postcode\": \"SA14 6PP \", \"register\": \"EZ                       \"}, \"type\": \"Feature\"}",
+        "pk": 130,
+        "postcode": "SA14 6PP",
+        "register": "EZ"
+    },
+    {
+        "address": "Penybanc Welfare Hall, Penybanc Road, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.006131765382602, 51.78781403150445], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 131, \"properties\": {\"address\": \"Penybanc Welfare Hall, Penybanc Road, Ammanford                                                                                                                                                                                                           \", \"postcode\": \"SA18 3QS \", \"register\": \"FA                       \"}, \"type\": \"Feature\"}",
+        "pk": 131,
+        "postcode": "SA18 3QS",
+        "register": "FA"
+    },
+    {
+        "address": "Llandybie Memorial Hall, Woodfield Road, Llandybie",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.006577869701365, 51.818040093439485], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 132, \"properties\": {\"address\": \"Llandybie Memorial Hall, Woodfield Road, Llandybie                                                                                                                                                                                                        \", \"postcode\": \"SA18 3UR \", \"register\": \"FB                       \"}, \"type\": \"Feature\"}",
+        "pk": 132,
+        "postcode": "SA18 3UR",
+        "register": "FB"
+    },
+    {
+        "address": "Gellimanwydd Hall, Wallasey Road, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.985199053945576, 51.79219796887586], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 133, \"properties\": {\"address\": \"Gellimanwydd Hall, Wallasey Road, Ammanford                                                                                                                                                                                                               \", \"postcode\": null, \"register\": \"FC                       \"}, \"type\": \"Feature\"}",
+        "pk": 133,
+        "postcode": null,
+        "register": "FC"
+    },
+    {
+        "address": "CM Chapel Vestry, Brynberllan Road, Llanfynydd, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.0970727924065455, 51.92575887839223], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 134, \"properties\": {\"address\": \"CM Chapel Vestry, Brynberllan Road, Llanfynydd, Carmarthen                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"FD                       \"}, \"type\": \"Feature\"}",
+        "pk": 134,
+        "postcode": null,
+        "register": "FD"
+    },
+    {
+        "address": "Brechfa Church Hall, Brechfa, Caerfyrddin",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.149736618345076, 51.95005633393444], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 135, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa, Caerfyrddin                                                                                                                                                                                                                 \", \"postcode\": \"SA32 7RA \", \"register\": \"FE                       \"}, \"type\": \"Feature\"}",
+        "pk": 135,
+        "postcode": "SA32 7RA",
+        "register": "FE"
+    },
+    {
+        "address": "Portakabin, Felinfoel Community Resource Centre, Felinfoel, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.142618764227903, 51.69745429357227], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 136, \"properties\": {\"address\": \"Portakabin, Felinfoel Community Resource Centre, Felinfoel, Llanelli                                                                                                                                                                                      \", \"postcode\": \"SA14 8BE \", \"register\": \"FEL-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 136,
+        "postcode": "SA14 8BE",
+        "register": "FEL-A"
+    },
+    {
+        "address": "Ysgol y Felin, Ynyswen, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.14011123534891, 51.69526901486824], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 137, \"properties\": {\"address\": \"Ysgol y Felin, Ynyswen, Llanelli                                                                                                                                                                                                                          \", \"postcode\": \"SA14 8BE \", \"register\": \"FEL-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 137,
+        "postcode": "SA14 8BE",
+        "register": "FEL-B"
+    },
+    {
+        "address": "Village Hall, Felingwm, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.168517548408428, 51.89992745388385], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 138, \"properties\": {\"address\": \"Village Hall, Felingwm, Carmarthen                                                                                                                                                                                                                        \", \"postcode\": \"SA32 7PR \", \"register\": \"FF                       \"}, \"type\": \"Feature\"}",
+        "pk": 138,
+        "postcode": "SA32 7PR",
+        "register": "FF"
+    },
+    {
+        "address": "Pontargothi Memorial Hall, Pontargothi, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.175660673843713, 51.87379299136726], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 139, \"properties\": {\"address\": \"Pontargothi Memorial Hall, Pontargothi, Carmarthen                                                                                                                                                                                                        \", \"postcode\": \"SA32 7LZ \", \"register\": \"FG                       \"}, \"type\": \"Feature\"}",
+        "pk": 139,
+        "postcode": "SA32 7LZ",
+        "register": "FG"
+    },
+    {
+        "address": "Church Hall, Golden Grove, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.049093619528562, 51.85863511637569], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 140, \"properties\": {\"address\": \"Church Hall, Golden Grove, Carmarthen                                                                                                                                                                                                                     \", \"postcode\": null, \"register\": \"FH                       \"}, \"type\": \"Feature\"}",
+        "pk": 140,
+        "postcode": null,
+        "register": "FH"
+    },
+    {
+        "address": "Welfare Hall, Gate Road, Penygroes",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.063843818861658, 51.81122007424079], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 141, \"properties\": {\"address\": \"Welfare Hall, Gate Road, Penygroes                                                                                                                                                                                                                        \", \"postcode\": null, \"register\": \"FI                       \"}, \"type\": \"Feature\"}",
+        "pk": 141,
+        "postcode": null,
+        "register": "FI"
+    },
+    {
+        "address": "Village Hall, Llangathen, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.060429779761201, 51.8801974912082], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 142, \"properties\": {\"address\": \"Village Hall, Llangathen, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA32 8QH \", \"register\": \"FJN                      \"}, \"type\": \"Feature\"}",
+        "pk": 142,
+        "postcode": "SA32 8QH",
+        "register": "FJN"
+    },
+    {
+        "address": "Village Hall, Llangathen, Carmarthen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.060429779761201, 51.8801974912082], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 143, \"properties\": {\"address\": \"Village Hall, Llangathen, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA32 8QH \", \"register\": \"FJS                      \"}, \"type\": \"Feature\"}",
+        "pk": 143,
+        "postcode": "SA32 8QH",
+        "register": "FJS"
+    },
+    {
+        "address": "Llangadog Community Centre, Llangadog",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.883199374257349, 51.937520554919914], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 144, \"properties\": {\"address\": \"Llangadog Community Centre, Llangadog                                                                                                                                                                                                                     \", \"postcode\": \"SA19 9BR \", \"register\": \"FK                       \"}, \"type\": \"Feature\"}",
+        "pk": 144,
+        "postcode": "SA19 9BR",
+        "register": "FK"
+    },
+    {
+        "address": "Llangadog Community Centre, Llangadog",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.883199374257349, 51.937520554919914], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 145, \"properties\": {\"address\": \"Llangadog Community Centre, Llangadog                                                                                                                                                                                                                     \", \"postcode\": \"SA19 9BR \", \"register\": \"FL                       \"}, \"type\": \"Feature\"}",
+        "pk": 145,
+        "postcode": "SA19 9BR",
+        "register": "FL"
+    },
+    {
+        "address": "Community Hall, Gwynfe, Llangadog",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8568253831324357, 51.88194551425323], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 146, \"properties\": {\"address\": \"Community Hall, Gwynfe, Llangadog                                                                                                                                                                                                                         \", \"postcode\": \"SA19 9RE \", \"register\": \"FM                       \"}, \"type\": \"Feature\"}",
+        "pk": 146,
+        "postcode": "SA19 9RE",
+        "register": "FM"
+    },
+    {
+        "address": "Reading Room, Llansadwrn, Llanwrda",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8996500069290922, 51.9664753073941], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 147, \"properties\": {\"address\": \"Reading Room, Llansadwrn, Llanwrda                                                                                                                                                                                                                        \", \"postcode\": \"SA19 8HH \", \"register\": \"FN                       \"}, \"type\": \"Feature\"}",
+        "pk": 147,
+        "postcode": "SA19 8HH",
+        "register": "FN"
+    },
+    {
+        "address": "Llansawel Hall, Llansawel, Llandeilo",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.012446601300679, 52.00825143416699], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 148, \"properties\": {\"address\": \"Llansawel Hall, Llansawel, Llandeilo                                                                                                                                                                                                                      \", \"postcode\": \"SA19 7JH \", \"register\": \"FO                       \"}, \"type\": \"Feature\"}",
+        "pk": 148,
+        "postcode": "SA19 7JH",
+        "register": "FO"
+    },
+    {
+        "address": "Talley Church Hall, Talley",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9926192376874723, 51.97638837221666], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 149, \"properties\": {\"address\": \"Talley Church Hall, Talley                                                                                                                                                                                                                                \", \"postcode\": \"SA19 7AX \", \"register\": \"FP                       \"}, \"type\": \"Feature\"}",
+        "pk": 149,
+        "postcode": "SA19 7AX",
+        "register": "FP"
+    },
+    {
+        "address": "Village Hall, Myddfai, Llandovery",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.788732647729329, 51.95575529199657], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 150, \"properties\": {\"address\": \"Village Hall, Myddfai, Llandovery                                                                                                                                                                                                                         \", \"postcode\": \"SA20 0JD \", \"register\": \"FQ                       \"}, \"type\": \"Feature\"}",
+        "pk": 150,
+        "postcode": "SA20 0JD",
+        "register": "FQ"
+    },
+    {
+        "address": "The Old School, Llanddeusant, Llangadog",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8035572864036435, 51.90851165731495], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 151, \"properties\": {\"address\": \"The Old School, Llanddeusant, Llangadog                                                                                                                                                                                                                   \", \"postcode\": \"SA19 9YB \", \"register\": \"FR                       \"}, \"type\": \"Feature\"}",
+        "pk": 151,
+        "postcode": "SA19 9YB",
+        "register": "FR"
+    },
+    {
+        "address": "Brynamman Community Centre, Cwmgarw Road, Brynamman, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.866587581561116, 51.812715277387305], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 152, \"properties\": {\"address\": \"Brynamman Community Centre, Cwmgarw Road, Brynamman, Ammanford                                                                                                                                                                                            \", \"postcode\": \"SA18 1BU \", \"register\": \"FS                       \"}, \"type\": \"Feature\"}",
+        "pk": 152,
+        "postcode": "SA18 1BU",
+        "register": "FS"
+    },
+    {
+        "address": "Former Cefnbrynbrain CP School, Brynbrain Road, Ystradowen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.825179695660844, 51.8054435178011], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 153, \"properties\": {\"address\": \"Former Cefnbrynbrain CP School, Brynbrain Road, Ystradowen                                                                                                                                                                                                \", \"postcode\": \"SA9 2WD  \", \"register\": \"FT                       \"}, \"type\": \"Feature\"}",
+        "pk": 153,
+        "postcode": "SA9 2WD",
+        "register": "FT"
+    },
+    {
+        "address": "Ystradowen Day Club, New Road, Ystradowen",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8132608045100853, 51.79579070476587], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 154, \"properties\": {\"address\": \"Ystradowen Day Club, New Road, Ystradowen                                                                                                                                                                                                                 \", \"postcode\": \"SA9 2YY  \", \"register\": \"FU                       \"}, \"type\": \"Feature\"}",
+        "pk": 154,
+        "postcode": "SA9 2YY",
+        "register": "FU"
+    },
+    {
+        "address": "Brynamman Community Centre, Cwmgarw Road, Brynamman, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.866587581561116, 51.812715277387305], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 155, \"properties\": {\"address\": \"Brynamman Community Centre, Cwmgarw Road, Brynamman, Ammanford                                                                                                                                                                                            \", \"postcode\": \"SA18 1BU \", \"register\": \"FV                       \"}, \"type\": \"Feature\"}",
+        "pk": 155,
+        "postcode": "SA18 1BU",
+        "register": "FV"
+    },
+    {
+        "address": "The Hall, Nantlais, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.995835707002854, 51.799502110531996], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 156, \"properties\": {\"address\": \"The Hall, Nantlais, Ammanford                                                                                                                                                                                                                             \", \"postcode\": \"SA18 2EJ \", \"register\": \"FW                       \"}, \"type\": \"Feature\"}",
+        "pk": 156,
+        "postcode": "SA18 2EJ",
+        "register": "FW"
+    },
+    {
+        "address": "Bethel Schoolroom, Marine Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.165225057519368, 51.67316397858629], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 157, \"properties\": {\"address\": \"Bethel Schoolroom, Marine Street, Llanelli                                                                                                                                                                                                                \", \"postcode\": \"SA15 2NR \", \"register\": \"GLA-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 157,
+        "postcode": "SA15 2NR",
+        "register": "GLA-A"
+    },
+    {
+        "address": "Trinity Schoolroom, New Dock Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.158388208243349, 51.67250872501875], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 158, \"properties\": {\"address\": \"Trinity Schoolroom, New Dock Road, Llanelli                                                                                                                                                                                                               \", \"postcode\": \"SA15 2EG \", \"register\": \"GLA-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 158,
+        "postcode": "SA15 2EG",
+        "register": "GLA-B"
+    },
+    {
+        "address": "Wesleyan Hall, Campbell Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.149432821033167, 51.66967654546249], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 159, \"properties\": {\"address\": \"Wesleyan Hall, Campbell Street, Llanelli                                                                                                                                                                                                                  \", \"postcode\": \"SA15 2BW \", \"register\": \"GLA-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 159,
+        "postcode": "SA15 2BW",
+        "register": "GLA-C"
+    },
+    {
+        "address": "Community Hall, Heol Hen, Five Roads, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.192754442298103, 51.72990818780642], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 160, \"properties\": {\"address\": \"Community Hall, Heol Hen, Five Roads, Llanelli                                                                                                                                                                                                            \", \"postcode\": \"SA15 5HJ \", \"register\": \"GLY-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 160,
+        "postcode": "SA15 5HJ",
+        "register": "GLY-A"
+    },
+    {
+        "address": "Community Hall, Thomas Avenue, Ponthenri",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.205162267783881, 51.76231960906158], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 161, \"properties\": {\"address\": \"Community Hall, Thomas Avenue, Ponthenri                                                                                                                                                                                                                  \", \"postcode\": \"SA15 5PP \", \"register\": \"GLY-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 161,
+        "postcode": "SA15 5PP",
+        "register": "GLY-B"
+    },
+    {
+        "address": "Pontyates Welfare Hall, Pontyates",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.217243772985852, 51.7527579273998], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 162, \"properties\": {\"address\": \"Pontyates Welfare Hall, Pontyates                                                                                                                                                                                                                         \", \"postcode\": \"SA15 5TR \", \"register\": \"GLY-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 162,
+        "postcode": "SA15 5TR",
+        "register": "GLY-C"
+    },
+    {
+        "address": "Portakabin Behind Hendy Rugby Club, Iscoed Road, Hendy",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.05628966351347, 51.71365608084273], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 163, \"properties\": {\"address\": \"Portakabin Behind Hendy Rugby Club, Iscoed Road, Hendy                                                                                                                                                                                                    \", \"postcode\": \"SA4 0TP  \", \"register\": \"HED-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 163,
+        "postcode": "SA4 0TP",
+        "register": "HED-A"
+    },
+    {
+        "address": "Church Hall, Church Road, Llanedi",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.045940473652663, 51.740962831928876], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 164, \"properties\": {\"address\": \"Church Hall, Church Road, Llanedi                                                                                                                                                                                                                         \", \"postcode\": null, \"register\": \"HED-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 164,
+        "postcode": null,
+        "register": "HED-B"
+    },
+    {
+        "address": "Community Hall, Sandy Road, Sandy, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.178645847577473, 51.68470086359509], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 165, \"properties\": {\"address\": \"Community Hall, Sandy Road, Sandy, Llanelli                                                                                                                                                                                                               \", \"postcode\": \"SA15 4DW \", \"register\": \"HEN-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 165,
+        "postcode": "SA15 4DW",
+        "register": "HEN-A"
+    },
+    {
+        "address": "Community Hall, Stradey Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.166966885852632, 51.6907901801374], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 166, \"properties\": {\"address\": \"Community Hall, Stradey Road, Llanelli                                                                                                                                                                                                                    \", \"postcode\": \"SA15 4ET \", \"register\": \"HEN-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 166,
+        "postcode": "SA15 4ET",
+        "register": "HEN-B"
+    },
+    {
+        "address": "Community Hall, Stradey Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.166966885852632, 51.6907901801374], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 167, \"properties\": {\"address\": \"Community Hall, Stradey Road, Llanelli                                                                                                                                                                                                                    \", \"postcode\": \"SA15 4ET \", \"register\": \"HEN-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 167,
+        "postcode": "SA15 4ET",
+        "register": "HEN-C"
+    },
+    {
+        "address": "Community Centre, Pwll Road, Pwll, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.198708657678177, 51.68704615650394], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 168, \"properties\": {\"address\": \"Community Centre, Pwll Road, Pwll, Llanelli                                                                                                                                                                                                               \", \"postcode\": \"SA15 4BG \", \"register\": \"HEN-D                    \"}, \"type\": \"Feature\"}",
+        "pk": 168,
+        "postcode": "SA15 4BG",
+        "register": "HEN-D"
+    },
+    {
+        "address": "Community Centre, Hendre Road, Llangennech, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.086496376190285, 51.693718909052976], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 169, \"properties\": {\"address\": \"Community Centre, Hendre Road, Llangennech, Llanelli                                                                                                                                                                                                      \", \"postcode\": \"SA14 8TH \", \"register\": \"LLA-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 169,
+        "postcode": "SA14 8TH",
+        "register": "LLA-A"
+    },
+    {
+        "address": "Bryn Village Hall, Heol Tabor, Bryn, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.106566769115172, 51.685579980692395], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 170, \"properties\": {\"address\": \"Bryn Village Hall, Heol Tabor, Bryn, Llanelli                                                                                                                                                                                                             \", \"postcode\": \"SA14 9TY \", \"register\": \"LLA-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 170,
+        "postcode": "SA14 9TY",
+        "register": "LLA-B"
+    },
+    {
+        "address": "Llanelli Bowls Club, Old Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.161433085473435, 51.68600274599996], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 171, \"properties\": {\"address\": \"Llanelli Bowls Club, Old Road, Llanelli                                                                                                                                                                                                                   \", \"postcode\": \"SA15 3HW \", \"register\": \"LLI-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 171,
+        "postcode": "SA15 3HW",
+        "register": "LLI-A"
+    },
+    {
+        "address": "Llanelli Scouts Hall, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.155751656395181, 51.685566175896696], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 172, \"properties\": {\"address\": \"Llanelli Scouts Hall, Llanelli                                                                                                                                                                                                                            \", \"postcode\": \"SA15 3SE \", \"register\": \"LLI-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 172,
+        "postcode": "SA15 3SE",
+        "register": "LLI-B"
+    },
+    {
+        "address": "Llanerch Community Hall, Corporation Avenue, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.152330642271677, 51.68777963193269], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 173, \"properties\": {\"address\": \"Llanerch Community Hall, Corporation Avenue, Llanelli                                                                                                                                                                                                     \", \"postcode\": \"SA15 3PB \", \"register\": \"LLI-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 173,
+        "postcode": "SA15 3PB",
+        "register": "LLI-C"
+    },
+    {
+        "address": "Portakabin, Maes Golau, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.146616199266215, 51.69452250036238], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 174, \"properties\": {\"address\": \"Portakabin, Maes Golau, Llanelli                                                                                                                                                                                                                          \", \"postcode\": null, \"register\": \"LLI-D                    \"}, \"type\": \"Feature\"}",
+        "pk": 174,
+        "postcode": null,
+        "register": "LLI-D"
+    },
+    {
+        "address": "Portakabin, Gelli Deg, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.143415006657453, 51.686327215126994], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 175, \"properties\": {\"address\": \"Portakabin, Gelli Deg, Llanelli                                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"LLI-E                    \"}, \"type\": \"Feature\"}",
+        "pk": 175,
+        "postcode": null,
+        "register": "LLI-E"
+    },
+    {
+        "address": "Princess Gwenllian Centre, Hillfield Villas, Kidwelly",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.3136039307840734, 51.736073590677755], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 176, \"properties\": {\"address\": \"Princess Gwenllian Centre, Hillfield Villas, Kidwelly                                                                                                                                                                                                     \", \"postcode\": \"SA17 4UL \", \"register\": \"MYN-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 176,
+        "postcode": "SA17 4UL",
+        "register": "MYN-A"
+    },
+    {
+        "address": "Mynyddygarreg Welfare Hall, Heol yr Ysgol, Mynyddygarreg",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.278045085518666, 51.74884135947731], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 177, \"properties\": {\"address\": \"Mynyddygarreg Welfare Hall, Heol yr Ysgol, Mynyddygarreg                                                                                                                                                                                                  \", \"postcode\": \"SA17 4RL \", \"register\": \"MYN-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 177,
+        "postcode": "SA17 4RL",
+        "register": "MYN-B"
+    },
+    {
+        "address": "The Library, Heol Elfed, Llwynhendy, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.12107299168045, 51.681756881088816], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 178, \"properties\": {\"address\": \"The Library, Heol Elfed, Llwynhendy, Llanelli                                                                                                                                                                                                             \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 178,
+        "postcode": "SA14 9HH",
+        "register": "PEM-A"
+    },
+    {
+        "address": "The Library",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.12107299168045, 51.681756881088816], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 179, \"properties\": {\"address\": \"The Library                                                                                                                                                                                                                                               \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 179,
+        "postcode": "SA14 9HH",
+        "register": "PEM-B"
+    },
+    {
+        "address": "Smiths Arms, Gelli Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.124701995118223, 51.68480271493744], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 180, \"properties\": {\"address\": \"Smiths Arms, Gelli Road, Llanelli                                                                                                                                                                                                                         \", \"postcode\": \"SA14 9AA \", \"register\": \"PEM-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 180,
+        "postcode": "SA14 9AA",
+        "register": "PEM-C"
+    },
+    {
+        "address": "Smiths Arms, Gelli Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.124701995118223, 51.68480271493744], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 181, \"properties\": {\"address\": \"Smiths Arms, Gelli Road, Llanelli                                                                                                                                                                                                                         \", \"postcode\": \"SA14 9AA \", \"register\": \"PEM-D                    \"}, \"type\": \"Feature\"}",
+        "pk": 181,
+        "postcode": "SA14 9AA",
+        "register": "PEM-D"
+    },
+    {
+        "address": "Nant Y Glo, Coalbrook Road, Pontyberem, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.166490485525694, 51.77941451387898], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 182, \"properties\": {\"address\": \"Nant Y Glo, Coalbrook Road, Pontyberem, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA15 5HT \", \"register\": \"PON-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 182,
+        "postcode": "SA15 5HT",
+        "register": "PON-A"
+    },
+    {
+        "address": "Bancffosfelen & Crwbin Hall, Bancffosfelen, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.194218194814692, 51.78797423825979], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 183, \"properties\": {\"address\": \"Bancffosfelen & Crwbin Hall, Bancffosfelen, Llanelli                                                                                                                                                                                                      \", \"postcode\": \"SA15 5DR \", \"register\": \"PON-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 183,
+        "postcode": "SA15 5DR",
+        "register": "PON-B"
+    },
+    {
+        "address": "Burry Port Library, Carway Street, Burry Port",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.253776386891973, 51.684769971567164], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 184, \"properties\": {\"address\": \"Burry Port Library, Carway Street, Burry Port                                                                                                                                                                                                             \", \"postcode\": \"SA16 0AE \", \"register\": \"REY-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 184,
+        "postcode": "SA16 0AE",
+        "register": "REY-A"
+    },
+    {
+        "address": "Church Hall, Randell Square, Pembrey",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.275582766010825, 51.68744647522639], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 185, \"properties\": {\"address\": \"Church Hall, Randell Square, Pembrey                                                                                                                                                                                                                      \", \"postcode\": null, \"register\": \"REY-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 185,
+        "postcode": null,
+        "register": "REY-B"
+    },
+    {
+        "address": "Community Centre, Heol Nant, Swiss Valley, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.134496695758197, 51.704183952179214], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 186, \"properties\": {\"address\": \"Community Centre, Heol Nant, Swiss Valley, Llanelli                                                                                                                                                                                                       \", \"postcode\": \"SA14 8EH \", \"register\": \"SWI-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 186,
+        "postcode": "SA14 8EH",
+        "register": "SWI-A"
+    },
+    {
+        "address": "Trimsaran Leisure Centre, Heol Llanelli, Trimsaran",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.240969484808632, 51.721300876429915], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 187, \"properties\": {\"address\": \"Trimsaran Leisure Centre, Heol Llanelli, Trimsaran                                                                                                                                                                                                        \", \"postcode\": \"SA17 4AA \", \"register\": \"TRI-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 187,
+        "postcode": "SA17 4AA",
+        "register": "TRI-A"
+    },
+    {
+        "address": "Bethania Vestry, Bethania Road, Tumble, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.104733214846215, 51.78794862376338], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 188, \"properties\": {\"address\": \"Bethania Vestry, Bethania Road, Tumble, Llanelli                                                                                                                                                                                                          \", \"postcode\": null, \"register\": \"TUM-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 188,
+        "postcode": null,
+        "register": "TUM-A"
+    },
+    {
+        "address": "Hermon Chapel, Heol Morlais, Llannon",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.119150195686554, 51.748806043271394], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 189, \"properties\": {\"address\": \"Hermon Chapel, Heol Morlais, Llannon                                                                                                                                                                                                                      \", \"postcode\": \"SA14 6AY \", \"register\": \"TUM-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 189,
+        "postcode": "SA14 6AY",
+        "register": "TUM-B"
+    },
+    {
+        "address": "Tumble Welfare Hall, Heol y Neuadd, Tymble, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.119134555027409, 51.788146134303474], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 190, \"properties\": {\"address\": \"Tumble Welfare Hall, Heol y Neuadd, Tymble, Llanelli                                                                                                                                                                                                      \", \"postcode\": \"SA14 6HR \", \"register\": \"TUM-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 190,
+        "postcode": "SA14 6HR",
+        "register": "TUM-C"
+    },
+    {
+        "address": "Scouts Hall, Heol Brown, Tycroes, Ammanford",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.016853361563575, 51.77955879407093], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 191, \"properties\": {\"address\": \"Scouts Hall, Heol Brown, Tycroes, Ammanford                                                                                                                                                                                                               \", \"postcode\": \"SA18 3QG \", \"register\": \"TYC-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 191,
+        "postcode": "SA18 3QG",
+        "register": "TYC-A"
+    },
+    {
+        "address": "St Barnabas Hall, Llewellyn Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15727660146519, 51.67487278352724], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 192, \"properties\": {\"address\": \"St Barnabas Hall, Llewellyn Street, Llanelli                                                                                                                                                                                                              \", \"postcode\": \"SA15 1AS \", \"register\": \"TYI-A                    \"}, \"type\": \"Feature\"}",
+        "pk": 192,
+        "postcode": "SA15 1AS",
+        "register": "TYI-A"
+    },
+    {
+        "address": "Lakefield Community Centre, Lakefield Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.163691475331216, 51.677676063784766], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 193, \"properties\": {\"address\": \"Lakefield Community Centre, Lakefield Road, Llanelli                                                                                                                                                                                                      \", \"postcode\": \"SA15 2UE \", \"register\": \"TYI-B                    \"}, \"type\": \"Feature\"}",
+        "pk": 193,
+        "postcode": "SA15 2UE",
+        "register": "TYI-B"
+    },
+    {
+        "address": "Lakefield Community Centre, Lakefield Road, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.163691475331216, 51.677676063784766], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 194, \"properties\": {\"address\": \"Lakefield Community Centre, Lakefield Road, Llanelli                                                                                                                                                                                                      \", \"postcode\": \"SA15 2UE \", \"register\": \"TYI-C                    \"}, \"type\": \"Feature\"}",
+        "pk": 194,
+        "postcode": "SA15 2UE",
+        "register": "TYI-C"
+    },
+    {
+        "address": "Portakabin, Columbia Row / Ann Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15732701192168, 51.67904127928122], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 195, \"properties\": {\"address\": \"Portakabin, Columbia Row / Ann Street, Llanelli                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"TYI-D                    \"}, \"type\": \"Feature\"}",
+        "pk": 195,
+        "postcode": null,
+        "register": "TYI-D"
+    },
+    {
+        "address": "Bigyn Community Hall, Bigyn, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.154199505509312, 51.67667794711173], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 196, \"properties\": {\"address\": \"Bigyn Community Hall, Bigyn, Llanelli                                                                                                                                                                                                                     \", \"postcode\": \"SA15 1PB \", \"register\": \"TYI-E                    \"}, \"type\": \"Feature\"}",
+        "pk": 196,
+        "postcode": "SA15 1PB",
+        "register": "TYI-E"
+    },
+    {
+        "address": "Portakabin, Columbia Row / Ann Street, Llanelli",
+        "council_id": "W06000010",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.15732701192168, 51.67904127928122], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 197, \"properties\": {\"address\": \"Portakabin, Columbia Row / Ann Street, Llanelli                                                                                                                                                                                                           \", \"postcode\": null, \"register\": \"TYI-F (POR               \"}, \"type\": \"Feature\"}",
+        "pk": 197,
+        "postcode": null,
+        "register": "TYI-F (POR"
+    }
+]
