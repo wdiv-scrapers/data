@@ -1,0 +1,128 @@
+{
+    "result": {
+        "author": "Assurance Director/Electoral Officer",
+        "author_email": "open.data@barnet.gov.uk",
+        "creator_user_id": null,
+        "email_notify_author": false,
+        "email_notify_maintainer": false,
+        "groups": [
+            {
+                "description": "",
+                "display_name": "Council & Democracy",
+                "id": "5e51a6e1-304c-403a-87f2-f100b99931c1",
+                "image_display_url": "/wp-content/themes/theme_barnet/img/topic/council.png",
+                "name": "council-democracy",
+                "title": "Council & Democracy"
+            }
+        ],
+        "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
+        "isopen": null,
+        "license_id": "a23e17ee-aebf-4eee-896d-1a12778405c6",
+        "license_text": null,
+        "license_title": "UK Open Government Licence (OGL v2)",
+        "maintainer": "John Bailey",
+        "maintainer_email": "john.bailey@barnet.gov.uk",
+        "metadata_created": "2014-08-12T08:45:39.000Z",
+        "metadata_modified": "2016-05-26T13:12:58.000Z",
+        "name": "polling-stations-in-barnet",
+        "notes": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
+        "notes_markdown": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
+        "num_resources": 1,
+        "num_tags": 6,
+        "organization": {
+            "approval_status": "approved",
+            "created": "2015-03-19T09:57:59.597Z",
+            "description": "",
+            "id": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
+            "image_url": "/wp-content/themes/theme_barnet/img/publisher/barnet.png",
+            "is_organization": true,
+            "name": "london-borough-of-barnet",
+            "revision_id": null,
+            "state": "active",
+            "title": "London Borough of Barnet",
+            "type": "organization"
+        },
+        "owner_org": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
+        "private": false,
+        "relationships_as_object": [],
+        "relationships_as_subject": [],
+        "resources": [
+            {
+                "cache_last_updated": null,
+                "cache_url": null,
+                "created": "2016-05-26T13:11:06.581Z",
+                "datastore_json": {},
+                "description": "",
+                "format": "csv",
+                "hash": "58f67ee7709edf6ac3224ab3f21a22b2",
+                "id": "8e22cea7-2ff2-4270-9acb-e16bade02cf8",
+                "last_modified": null,
+                "lazyboy_json": {},
+                "mimetype": null,
+                "mimetype_inner": null,
+                "name": "Polling Stations",
+                "package_id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
+                "position": 0,
+                "resource_type": null,
+                "revision_id": null,
+                "size": 6973,
+                "state": "active",
+                "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv",
+                "url_type": null,
+                "webstore_last_updated": null,
+                "webstore_url": null
+            }
+        ],
+        "revision_id": null,
+        "state": "active",
+        "tags": [
+            {
+                "display_name": "Wards",
+                "id": null,
+                "name": "Wards",
+                "state": "active",
+                "vocabulary_id": null
+            },
+            {
+                "display_name": "Elections",
+                "id": null,
+                "name": "Elections",
+                "state": "active",
+                "vocabulary_id": null
+            },
+            {
+                "display_name": "Voting",
+                "id": null,
+                "name": "Voting",
+                "state": "active",
+                "vocabulary_id": null
+            },
+            {
+                "display_name": "Locations",
+                "id": null,
+                "name": "Locations",
+                "state": "active",
+                "vocabulary_id": null
+            },
+            {
+                "display_name": "Councillors",
+                "id": null,
+                "name": "Councillors",
+                "state": "active",
+                "vocabulary_id": null
+            },
+            {
+                "display_name": "Address",
+                "id": null,
+                "name": "Address",
+                "state": "active",
+                "vocabulary_id": null
+            }
+        ],
+        "title": "Polling Stations in Barnet",
+        "type": "dataset",
+        "url": null,
+        "version": null
+    },
+    "success": true
+}
