@@ -130,7 +130,7 @@
                 "state": "active",
                 "tracking_summary": {
                     "recent": 1,
-                    "total": 1
+                    "total": 2
                 },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wfs&version=2.0&request=GetCapabilities",
                 "url_type": null,
@@ -156,7 +156,7 @@
         "title": "Salford Polling Districts",
         "tracking_summary": {
             "recent": 1,
-            "total": 130
+            "total": 131
         },
         "type": "dataset",
         "update_frequency": "as required",
