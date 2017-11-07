@@ -70,10 +70,6 @@
                 "revision_timestamp": "2017-05-09T09:49:29.134152",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wfs&version=2.0.0&request=GetFeature&typeName=OpenData:v_polling_stations&outputFormat=csv",
                 "url_type": null,
                 "webstore_last_updated": null,
@@ -99,10 +95,6 @@
                 "revision_timestamp": "2017-05-09T09:49:42.297714",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=OpenData:v_polling_stations&srsName=EPSG:4326&outputFormat=application/json",
                 "url_type": null,
                 "webstore_last_updated": null,
@@ -128,10 +120,6 @@
                 "revision_timestamp": "2017-05-09T09:49:53.056107",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wms&version=1.3.0&request=GetCapabilities",
                 "url_type": null,
                 "webstore_last_updated": null,
@@ -157,10 +145,6 @@
                 "revision_timestamp": "2017-05-09T09:50:08.845566",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wfs&version=2.0.0&request=GetCapabilities",
                 "url_type": null,
                 "webstore_last_updated": null,
