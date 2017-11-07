@@ -70,10 +70,6 @@
                 "revision_timestamp": "2017-05-09T09:47:24.445140",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=OpenData:polling_districts&srsName=EPSG:4326&outputFormat=application/json",
                 "url_type": null,
                 "webstore_last_updated": null,
@@ -99,10 +95,6 @@
                 "revision_timestamp": "2017-05-09T09:47:41.254696",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 0,
-                    "total": 0
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wms&version=1.3.0&request=GetCapabilities",
                 "url_type": null,
                 "webstore_last_updated": null,
@@ -128,10 +120,6 @@
                 "revision_timestamp": "2017-05-09T09:47:54.852947",
                 "size": null,
                 "state": "active",
-                "tracking_summary": {
-                    "recent": 1,
-                    "total": 2
-                },
                 "url": "https://map.salford.gov.uk/geoserver/OpenData/ows?service=wfs&version=2.0&request=GetCapabilities",
                 "url_type": null,
                 "webstore_last_updated": null,
