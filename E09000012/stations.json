@@ -55,7 +55,7 @@
     },
     {
         "ADDRESS_1": "3 Queen Elizabeth\u2019s Walk",
-        "ADDRESS_2": "Stoke Newington",
+        "ADDRESS_2": null,
         "ENTRANCE": null,
         "GMAP_URL": null,
         "ID": "HNDA",
@@ -68,12 +68,12 @@
         "UPRN": 10008338319,
         "WARD": "Stoke Newington",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08680599657317263, 51.56397516777623], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.12\", \"properties\": {\"ADDRESS_1\": \"3 Queen Elizabeth\\u2019s Walk\", \"ADDRESS_2\": \"Stoke Newington\", \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDA\", \"MI_PRINX\": 12, \"MI_STYLE\": null, \"NAME\": \"Clissold Park Tennis Pavilion\", \"NEW\": null, \"PDN\": 12, \"POSTCODE\": \"N16 0BF\", \"UPRN\": 10008338319, \"WARD\": \"Stoke Newington\", \"bbox\": [-0.08680599657317263, 51.56397516777623, -0.08680599657317263, 51.56397516777623]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08680599657317263, 51.56397516777623], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.12\", \"properties\": {\"ADDRESS_1\": \"3 Queen Elizabeth\\u2019s Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDA\", \"MI_PRINX\": 12, \"MI_STYLE\": null, \"NAME\": \"Clissold Park Tennis Pavilion\", \"NEW\": null, \"PDN\": 12, \"POSTCODE\": \"N16 0BF\", \"UPRN\": 10008338319, \"WARD\": \"Stoke Newington\", \"bbox\": [-0.08680599657317263, 51.56397516777623, -0.08680599657317263, 51.56397516777623]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.12"
     },
     {
         "ADDRESS_1": "Behind Club House",
-        "ADDRESS_2": "Stamford Hill",
+        "ADDRESS_2": null,
         "ENTRANCE": null,
         "GMAP_URL": null,
         "ID": "HNDB",
@@ -86,7 +86,7 @@
         "UPRN": 100021075143,
         "WARD": "Stamford Hill West",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07477455889945829, 51.5678149400713], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.13\", \"properties\": {\"ADDRESS_1\": \"Behind Club House\", \"ADDRESS_2\": \"Stamford Hill\", \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDB\", \"MI_PRINX\": 13, \"MI_STYLE\": null, \"NAME\": \"Guinness Trust Club House\", \"NEW\": null, \"PDN\": 13, \"POSTCODE\": \"N16 5TE\", \"UPRN\": 100021075143, \"WARD\": \"Stamford Hill West\", \"bbox\": [-0.07477455889945829, 51.5678149400713, -0.07477455889945829, 51.5678149400713]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07477455889945829, 51.5678149400713], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.13\", \"properties\": {\"ADDRESS_1\": \"Behind Club House\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDB\", \"MI_PRINX\": 13, \"MI_STYLE\": null, \"NAME\": \"Guinness Trust Club House\", \"NEW\": null, \"PDN\": 13, \"POSTCODE\": \"N16 5TE\", \"UPRN\": 100021075143, \"WARD\": \"Stamford Hill West\", \"bbox\": [-0.07477455889945829, 51.5678149400713, -0.07477455889945829, 51.5678149400713]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.13"
     },
     {
