@@ -18,24 +18,6 @@
         "pk": "Polling Stations.1"
     },
     {
-        "ADDRESS_1": "Queen's Drive",
-        "ADDRESS_2": null,
-        "ENTRANCE": null,
-        "GMAP_URL": null,
-        "ID": "HNCB",
-        "MI_PRINX": 10,
-        "MI_STYLE": null,
-        "NAME": "Parkwood Primary School",
-        "NEW": null,
-        "PDN": "10",
-        "POSTCODE": "N4 2HQ",
-        "UPRN": 100023186921,
-        "WARD": "Brownswood",
-        "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.09931294382898552, 51.56506861109769], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.10\", \"properties\": {\"ADDRESS_1\": \"Queen's Drive\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNCB\", \"MI_PRINX\": 10, \"MI_STYLE\": null, \"NAME\": \"Parkwood Primary School\", \"NEW\": null, \"PDN\": 10, \"POSTCODE\": \"N4 2HQ\", \"UPRN\": 100023186921, \"WARD\": \"Brownswood\", \"bbox\": [-0.09931294382898552, 51.56506861109769, -0.09931294382898552, 51.56506861109769]}, \"type\": \"Feature\"}",
-        "pk": "Polling Stations.10"
-    },
-    {
         "ADDRESS_1": "108 Colthurst Crescent",
         "ADDRESS_2": null,
         "ENTRANCE": null,
@@ -1510,5 +1492,23 @@
         "council_id": "E09000012",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.03422259280510769, 51.55342992753731], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.92\", \"properties\": {\"ADDRESS_1\": \"Kingsmead Way\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSND\", \"MI_PRINX\": 92, \"MI_STYLE\": null, \"NAME\": \"Kingsmead Youth Center \", \"NEW\": null, \"PDN\": null, \"POSTCODE\": \"E9 5PP\", \"UPRN\": 100023546618, \"WARD\": \"King\\u00b4s Park\", \"bbox\": [-0.03422259280510769, 51.55342992753731, -0.03422259280510769, 51.55342992753731]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.92"
+    },
+    {
+        "ADDRESS_1": "Alexandra Mews",
+        "ADDRESS_2": null,
+        "ENTRANCE": null,
+        "GMAP_URL": null,
+        "ID": "HNCB",
+        "MI_PRINX": 93,
+        "MI_STYLE": null,
+        "NAME": "Azalea Court Community Hall",
+        "NEW": null,
+        "PDN": null,
+        "POSTCODE": "N4 2LB",
+        "UPRN": 10008348541,
+        "WARD": "Brownswood",
+        "council_id": "E09000012",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.10117291190965355, 51.566065183101685], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.93\", \"properties\": {\"ADDRESS_1\": \"Alexandra Mews\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNCB\", \"MI_PRINX\": 93, \"MI_STYLE\": null, \"NAME\": \"Azalea Court Community Hall\", \"NEW\": null, \"PDN\": null, \"POSTCODE\": \"N4 2LB\", \"UPRN\": 10008348541, \"WARD\": \"Brownswood\", \"bbox\": [-0.10117291190965355, 51.566065183101685, -0.10117291190965355, 51.566065183101685]}, \"type\": \"Feature\"}",
+        "pk": "Polling Stations.93"
     }
 ]
