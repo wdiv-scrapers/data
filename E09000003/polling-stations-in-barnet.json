@@ -1,128 +1,278 @@
 {
-    "result": {
-        "author": "Assurance Director/Electoral Officer",
-        "author_email": "open.data@barnet.gov.uk",
-        "creator_user_id": null,
-        "email_notify_author": false,
-        "email_notify_maintainer": false,
-        "groups": [
-            {
-                "description": "",
-                "display_name": "Council & Democracy",
-                "id": "5e51a6e1-304c-403a-87f2-f100b99931c1",
-                "image_display_url": "/wp-content/themes/theme_barnet/img/topic/council.png",
-                "name": "council-democracy",
-                "title": "Council & Democracy"
-            }
-        ],
-        "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
-        "isopen": null,
-        "license_id": "d753071a-3745-4457-8772-19ae12d77601",
-        "license_text": null,
-        "license_title": "UK Open Government Licence (OGL v3)",
-        "maintainer": "John Bailey",
-        "maintainer_email": "john.bailey@barnet.gov.uk",
-        "metadata_created": "2014-08-12T08:45:39",
-        "metadata_modified": "2016-05-26T13:12:58",
-        "name": "polling-stations-in-barnet",
-        "notes": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
-        "notes_markdown": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
-        "num_resources": 1,
-        "num_tags": 6,
-        "organization": {
-            "approval_status": "approved",
-            "created": "2015-03-19T09:57:59.597Z",
+    "author": "Assurance Director/Electoral Officer",
+    "author_email": "open.data@barnet.gov.uk",
+    "barnet_delivery_unit": "Assurance",
+    "barnet_next_update": "2016-05-04",
+    "barnet_retention": "4 years",
+    "barnet_service": "Elections Team",
+    "createdAt": "2014-08-12T08:45:39",
+    "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
+    "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
+    "licence": "d753071a-3745-4457-8772-19ae12d77601",
+    "licence_notes": "",
+    "maintainer": "John Bailey",
+    "maintainer_email": "john.bailey@barnet.gov.uk",
+    "next_review_date": "2004-05-20",
+    "odi-certificate": "",
+    "parent": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
+    "private": false,
+    "readonly": {
+        "auth": {
+            "package_update": false
+        },
+        "licence": {
+            "is_okd_compliant": true,
+            "title": "UK Open Government Licence (OGL v3)",
+            "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+        },
+        "parent": {
+            "createdAt": "2015-03-19T09:57:59.597Z",
             "description": "",
+            "harvestedByOrgs": [],
             "id": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
-            "image_url": "/wp-content/themes/theme_barnet/img/publisher/barnet.png",
-            "is_organization": true,
-            "name": "london-borough-of-barnet",
-            "revision_id": null,
+            "img": "/wp-content/themes/theme_barnet/img/publisher/barnet.png",
+            "parent": {
+                "id": "0a3f68a9-9324-47e8-86d0-0cf8b905e2a4",
+                "img": "/wp-content/themes/theme_barnet/img/publisher/barnet.png",
+                "parent": null,
+                "site": "open.barnet.gov.uk",
+                "slug": "barnet",
+                "state": "active",
+                "title": "Open Barnet"
+            },
+            "shares": {
+                "orgs": {},
+                "users": {}
+            },
+            "slug": "london-borough-of-barnet",
             "state": "active",
             "title": "London Borough of Barnet",
-            "type": "organization"
+            "updatedAt": "2015-03-19T09:57:59.597Z"
         },
-        "owner_org": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
-        "private": false,
-        "relationships_as_object": [],
-        "relationships_as_subject": [],
-        "resources": [
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2016-05-26T13:11:06.581Z",
-                "datastore_json": {},
+        "rootOrg": {
+            "createdAt": "2015-03-19T09:57:59.597Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "harvesters": {},
+            "id": "0a3f68a9-9324-47e8-86d0-0cf8b905e2a4",
+            "img": "/wp-content/themes/theme_barnet/img/publisher/barnet.png",
+            "licences": {
+                "076e4b3e-2daf-4250-88b2-10cddbf377b5": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution Share-Alike",
+                    "url": "http://www.opendefinition.org/licenses/cc-by-sa"
+                },
+                "0a43cb22-6cda-44b4-8516-471f52990365": {
+                    "is_okd_compliant": false,
+                    "title": "Not Specified",
+                    "url": ""
+                },
+                "1796ce31-6894-44c5-805f-afdb2cccf94c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-pddl"
+                },
+                "25cf20e9-6830-4628-8965-465e5229db54": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons CCZero",
+                    "url": "http://www.opendefinition.org/licenses/cc-zero"
+                },
+                "2a1cb34f-21f5-474b-8e7d-6d263876da0c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Open Database License (ODbL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-odbl"
+                },
+                "2a3db546-fe57-4478-872e-174d14071f8b": {
+                    "is_okd_compliant": true,
+                    "title": "GNU Free Documentation License",
+                    "url": "http://www.opendefinition.org/licenses/gfdl"
+                },
+                "5857b430-ff94-4a18-8d4b-c31fad9d3711": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Attribution License",
+                    "url": "http://www.opendefinition.org/licenses/odc-by"
+                },
+                "5b3de4b2-9467-40d3-81f7-e11ba0ba5e1e": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Open)",
+                    "url": ""
+                },
+                "71b017b2-dea0-4996-88a1-d5d201d7aa08": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution",
+                    "url": "http://www.opendefinition.org/licenses/cc-by"
+                },
+                "a23e17ee-aebf-4eee-896d-1a12778405c6": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v2)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+                },
+                "a88fccc5-4b2f-44fd-8da6-567dc544a826": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Non-Commercial)",
+                    "url": ""
+                },
+                "bf40353a-615f-47c3-880b-f636f2ba053f": {
+                    "is_okd_compliant": false,
+                    "title": "Creative Commons Non-Commercial (Any)",
+                    "url": "http://creativecommons.org/licenses/by-nc/2.0/"
+                },
+                "cde72da9-992a-450f-88f9-3ec1c9da4a32": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Not Open)",
+                    "url": ""
+                },
+                "d5bc9c2a-9ad9-49c2-8245-f8790559ea29": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Public Domain)",
+                    "url": ""
+                },
+                "d753071a-3745-4457-8772-19ae12d77601": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v3)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "eb972d0c-7896-43f7-8991-4646b0312538": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Attribution)",
+                    "url": ""
+                }
+            },
+            "parent": null,
+            "shares": {
+                "orgs": {},
+                "users": {}
+            },
+            "site": "open.barnet.gov.uk",
+            "slug": "barnet",
+            "state": "active",
+            "title": "Open Barnet",
+            "topics": {
+                "01df22ff-46dc-480e-ad1f-9745a9f17120": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/roads.png",
+                    "slug": "roads-transportation",
+                    "title": "Roads & Transportation"
+                },
+                "0268c024-5ccd-40a2-ad46-3b8e90aff2f2": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/information-dashboard.png",
+                    "slug": "barnet-information-dashboard",
+                    "title": "Barnet Information Dashboard"
+                },
+                "03b32699-655b-49e7-9cf6-acba5115034f": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/business.png",
+                    "slug": "business-industry",
+                    "title": "Business & Industry"
+                },
+                "28e559de-f0f4-480d-bc9d-946e5113fdaa": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/environment.png",
+                    "slug": "environment-property-land",
+                    "title": "Environment, Property & Land"
+                },
+                "31def11e-b435-40dc-b1d1-72ef44855a00": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/health.png",
+                    "slug": "health-social-care",
+                    "title": "Health & Social Care"
+                },
+                "5e51a6e1-304c-403a-87f2-f100b99931c1": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/council.png",
+                    "slug": "council-democracy",
+                    "title": "Council & Democracy"
+                },
+                "9a6b00ff-1a93-41ec-8a42-eb566145335c": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/education.png",
+                    "slug": "education-skills-learning",
+                    "title": "Education, Skills & Learning"
+                },
+                "acebe6c9-f7c6-407f-8a34-0225b6461d78": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/community.png",
+                    "slug": "community-information",
+                    "title": "Community Information"
+                },
+                "b9df09cd-c862-4828-9f26-8746795f7d2c": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/finance.png",
+                    "slug": "finance-procurement",
+                    "title": "Finance & Procurement"
+                },
+                "e3f13a44-0882-4590-b09a-bc6deb0e0bff": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_barnet/img/topic/waste.png",
+                    "slug": "waste-recycling",
+                    "title": "Waste & Recycling"
+                }
+            },
+            "updatedAt": "2015-03-19T09:57:59.597Z"
+        },
+        "shares": {
+            "orgs": {},
+            "users": {}
+        },
+        "topics": {
+            "5e51a6e1-304c-403a-87f2-f100b99931c1": {
                 "description": "",
-                "format": "csv",
-                "hash": "58f67ee7709edf6ac3224ab3f21a22b2",
-                "id": "8e22cea7-2ff2-4270-9acb-e16bade02cf8",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Stations",
-                "package_id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
-                "position": 0,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 6973,
-                "state": "active",
-                "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "img": "/wp-content/themes/theme_barnet/img/topic/council.png",
+                "slug": "council-democracy",
+                "title": "Council & Democracy"
             }
-        ],
-        "revision_id": null,
-        "state": "active",
-        "tags": [
-            {
-                "display_name": "Wards",
-                "id": null,
-                "name": "Wards",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "Elections",
-                "id": null,
-                "name": "Elections",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "Voting",
-                "id": null,
-                "name": "Voting",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "Locations",
-                "id": null,
-                "name": "Locations",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "Councillors",
-                "id": null,
-                "name": "Councillors",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "Address",
-                "id": null,
-                "name": "Address",
-                "state": "active",
-                "vocabulary_id": null
-            }
-        ],
-        "title": "Polling Stations in Barnet",
-        "type": "dataset",
-        "url": null,
-        "version": null
+        }
     },
-    "success": true
+    "resources": {
+        "8e22cea7-2ff2-4270-9acb-e16bade02cf8": {
+            "check_hash": "58f67ee7709edf6ac3224ab3f21a22b2",
+            "check_http_status": 200,
+            "check_mimetype": "text/csv",
+            "check_size": 6973,
+            "check_timestamp": "2016-05-26T13:11:06.581Z",
+            "datastore_json": {},
+            "description": "",
+            "format": "csv",
+            "order": 0,
+            "temporal_coverage_from": "2013-03-31",
+            "temporal_coverage_to": "2014-03-30",
+            "title": "Polling Stations",
+            "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv",
+            "versions": [
+                {
+                    "format": "CSV",
+                    "size": 6973,
+                    "timestamp": "2016-05-26T12:11:06.579Z",
+                    "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 6973,
+                    "timestamp": "2017-05-10T20:29:35.176Z",
+                    "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv"
+                }
+            ]
+        }
+    },
+    "shares": {
+        "orgs": {},
+        "users": {}
+    },
+    "slug": "polling-stations-in-barnet",
+    "state": "active",
+    "tags": [
+        "Wards",
+        "Elections",
+        "Voting",
+        "Locations",
+        "Councillors",
+        "Address"
+    ],
+    "title": "Polling Stations in Barnet",
+    "topics": [
+        "5e51a6e1-304c-403a-87f2-f100b99931c1"
+    ],
+    "update_frequency": "Annually",
+    "updatedAt": "2016-05-26T13:12:58"
 }
