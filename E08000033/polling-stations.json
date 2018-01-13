@@ -1,207 +1,364 @@
 {
-    "result": {
-        "author": "Calderdale Council",
-        "author_email": "",
-        "creator_user_id": null,
-        "email_notify_author": false,
-        "email_notify_maintainer": false,
-        "groups": [
-            {
-                "description": "",
-                "display_name": "Organisation and Salaries",
-                "id": "a3cb827f-b76a-4663-a531-f628eb60a934",
-                "image_display_url": "/wp-content/themes/theme_calderdale/img/topic/organisation-and-salaries.png",
-                "name": "organisation-and-salaries",
-                "title": "Organisation and Salaries"
-            }
-        ],
-        "id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-        "isopen": null,
-        "license_id": "a23e17ee-aebf-4eee-896d-1a12778405c6",
-        "license_text": null,
-        "license_title": "UK Open Government Licence (OGL v2)",
-        "maintainer": "Calderdale Council",
-        "maintainer_email": "",
-        "metadata_created": "2016-02-01T05:48:05",
-        "metadata_modified": "2017-05-26T11:16:51",
-        "name": "polling-stations",
-        "notes": "<p>Polling stations information including address, polling district letters, ward. Updated annually - last update April 2017.</p>\r\n<p>For maps and mapping information on polling districts, see <a href=\"/dataset/polling-station-districts\">Polling districts</a> .</p>\r\n<p> You can find information on polling stations, candidates, elections and MPs at <a hef=\"https://democracyclub.org.uk/projects/\">Democracy club</a>.</p>",
-        "notes_markdown": "Polling stations information including address, polling district letters, ward. Updated annually - last update April 2017.\r\nFor maps and mapping information on polling districts, see Polling districts .\r\n You can find information on polling stations, candidates, elections and MPs at Democracy club.",
-        "num_resources": 5,
-        "num_tags": 3,
-        "organization": {
-            "approval_status": "approved",
-            "created": "2015-09-16T00:26:07.674Z",
+    "author": "Calderdale Council",
+    "author_email": "",
+    "createdAt": "2016-02-01T05:48:05",
+    "description": "<p>Polling stations information including address, polling district letters, ward. Updated annually - last update April 2017.</p>\r\n<p>For maps and mapping information on polling districts, see <a href=\"/dataset/polling-station-districts\">Polling districts</a> .</p>\r\n<p> You can find information on polling stations, candidates, elections and MPs at <a hef=\"https://democracyclub.org.uk/projects/\">Democracy club</a>.</p>",
+    "id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
+    "licence": "a23e17ee-aebf-4eee-896d-1a12778405c6",
+    "licence_notes": "",
+    "maintainer": "Calderdale Council",
+    "maintainer_email": "",
+    "odi-certificate": "",
+    "parent": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
+    "private": false,
+    "readonly": {
+        "auth": {
+            "package_update": false
+        },
+        "licence": {
+            "is_okd_compliant": true,
+            "title": "UK Open Government Licence (OGL v2)",
+            "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        "parent": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
             "description": "",
+            "harvestedByOrgs": [],
             "id": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
-            "image_url": "/wp-content/themes/theme_calderdale/img/publisher/calderdale-council.png",
-            "is_organization": true,
-            "name": "calderdale-council",
-            "revision_id": null,
+            "img": "/wp-content/themes/theme_calderdale/img/publisher/calderdale-council.png",
+            "parent": {
+                "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+                "img": "/wp-content/themes/theme_calderdale/img/publisher/calderdale-council.png",
+                "parent": null,
+                "site": "dataworks.calderdale.gov.uk",
+                "slug": "calderdale",
+                "state": "active",
+                "title": "Calderdale Data Works"
+            },
+            "shares": {
+                "orgs": {},
+                "users": {}
+            },
+            "slug": "calderdale-council",
             "state": "active",
             "title": "Calderdale Council",
-            "type": "organization"
+            "updatedAt": "2015-09-16T00:26:07.674Z"
         },
-        "owner_org": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
-        "private": false,
-        "relationships_as_object": [],
-        "relationships_as_subject": [],
-        "resources": [
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2017-04-20T10:24:45.856Z",
-                "datastore_json": {},
-                "description": "Names and addresses of all polling stations in Calderdale. Updated April 2017.",
-                "format": "csv",
-                "hash": "d44618e82ab326f23dc2224e7364aec8",
-                "id": "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Stations",
-                "package_id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-                "position": 1,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 11927,
-                "state": "active",
-                "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+        "rootOrg": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "harvesters": {},
+            "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+            "img": "/wp-content/themes/theme_calderdale/img/publisher/calderdale-council.png",
+            "licences": {
+                "076e4b3e-2daf-4250-88b2-10cddbf377b5": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution Share-Alike",
+                    "url": "http://www.opendefinition.org/licenses/cc-by-sa"
+                },
+                "0a43cb22-6cda-44b4-8516-471f52990365": {
+                    "is_okd_compliant": false,
+                    "title": "Not Specified",
+                    "url": ""
+                },
+                "1796ce31-6894-44c5-805f-afdb2cccf94c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-pddl"
+                },
+                "25cf20e9-6830-4628-8965-465e5229db54": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons CCZero",
+                    "url": "http://www.opendefinition.org/licenses/cc-zero"
+                },
+                "2a1cb34f-21f5-474b-8e7d-6d263876da0c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Open Database License (ODbL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-odbl"
+                },
+                "2a3db546-fe57-4478-872e-174d14071f8b": {
+                    "is_okd_compliant": true,
+                    "title": "GNU Free Documentation License",
+                    "url": "http://www.opendefinition.org/licenses/gfdl"
+                },
+                "5857b430-ff94-4a18-8d4b-c31fad9d3711": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Attribution License",
+                    "url": "http://www.opendefinition.org/licenses/odc-by"
+                },
+                "5b3de4b2-9467-40d3-81f7-e11ba0ba5e1e": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Open)",
+                    "url": ""
+                },
+                "71b017b2-dea0-4996-88a1-d5d201d7aa08": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution",
+                    "url": "http://www.opendefinition.org/licenses/cc-by"
+                },
+                "a23e17ee-aebf-4eee-896d-1a12778405c6": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v2)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+                },
+                "a88fccc5-4b2f-44fd-8da6-567dc544a826": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Non-Commercial)",
+                    "url": ""
+                },
+                "bf40353a-615f-47c3-880b-f636f2ba053f": {
+                    "is_okd_compliant": false,
+                    "title": "Creative Commons Non-Commercial (Any)",
+                    "url": "http://creativecommons.org/licenses/by-nc/2.0/"
+                },
+                "cde72da9-992a-450f-88f9-3ec1c9da4a32": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Not Open)",
+                    "url": ""
+                },
+                "d5bc9c2a-9ad9-49c2-8245-f8790559ea29": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Public Domain)",
+                    "url": ""
+                },
+                "d753071a-3745-4457-8772-19ae12d77601": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v3)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "eb972d0c-7896-43f7-8991-4646b0312538": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Attribution)",
+                    "url": ""
+                }
             },
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2017-04-20T10:23:34.213Z",
-                "datastore_json": {},
-                "description": "",
-                "format": "spreadsheet",
-                "hash": "15823320a7a2e09112fa11ed224910e2",
-                "id": "6ccefc8e-a2ce-4bd6-8a2c-65436dfbc87d",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Stations",
-                "package_id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-                "position": 0,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 16551,
-                "state": "active",
-                "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+            "parent": null,
+            "shares": {
+                "orgs": {},
+                "users": {}
             },
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2017-05-26T10:53:57.697Z",
-                "datastore_json": {},
-                "description": "",
-                "format": "zip",
-                "hash": "e31a3b34de4bde45ec640e8ed2aed7b2",
-                "id": "35a16224-e435-440b-ab29-7146ef8b2060",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Tab Files",
-                "package_id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-                "position": 2,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 18516,
-                "state": "active",
-                "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:53:48.01/tab files.zip",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+            "site": "dataworks.calderdale.gov.uk",
+            "slug": "calderdale",
+            "state": "active",
+            "title": "Calderdale Data Works",
+            "topics": {
+                "135d7dcb-aa78-4fca-9a91-597fa8aeae53": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/health.png",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                "1a37b621-4da1-48c6-af62-81adea604b35": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/land-and-property.png",
+                    "slug": "land-and-property",
+                    "title": "Land and Property"
+                },
+                "23658e50-3f58-4884-921c-ac1accfacf2b": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/education.png",
+                    "slug": "education",
+                    "title": "Education"
+                },
+                "3d339a29-234e-4463-b9cb-5787cf648c74": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/spending-and-procurement.png",
+                    "slug": "spending-and-procurement",
+                    "title": "Spending and Procurement"
+                },
+                "3f48e604-3140-4098-b2be-e495488f2fcb": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/population.png",
+                    "slug": "population",
+                    "title": "Population"
+                },
+                "452ec79e-b507-4ba6-8f19-6c7d9c805e5a": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/society.png",
+                    "slug": "society",
+                    "title": "Society"
+                },
+                "56075f7e-298e-4cc8-9f1e-4b6772267a70": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/transparency.png",
+                    "slug": "transparency",
+                    "title": "Transparency"
+                },
+                "8d2c54ca-1b47-4ddf-8cee-b0b5937c7c47": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/transport.png",
+                    "slug": "transport",
+                    "title": "Transport"
+                },
+                "a3cb827f-b76a-4663-a531-f628eb60a934": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/organisation-and-salaries.png",
+                    "slug": "organisation-and-salaries",
+                    "title": "Organisation and Salaries"
+                },
+                "e51b19c8-9609-483f-9e0d-d379dd776fc3": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/environment.png",
+                    "slug": "environment",
+                    "title": "Environment"
+                }
             },
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2017-05-26T10:55:09.962Z",
-                "datastore_json": {},
+            "updatedAt": "2015-09-16T00:26:07.674Z"
+        },
+        "shares": {
+            "orgs": {},
+            "users": {}
+        },
+        "topics": {
+            "a3cb827f-b76a-4663-a531-f628eb60a934": {
                 "description": "",
-                "format": "zip",
-                "hash": "ae73174be7a9241c9e0a1e963014ef8b",
-                "id": "9114cd43-00dd-412e-8126-514fb0efca95",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Stations Shape Files",
-                "package_id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-                "position": 3,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 6874,
-                "state": "active",
-                "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:00.07/Shape Files.zip",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
-            },
-            {
-                "cache_last_updated": null,
-                "cache_url": null,
-                "created": "2017-05-26T10:56:22.086Z",
-                "datastore_json": {},
-                "description": "",
-                "format": "json",
-                "hash": "5f3efb7c7b725e7925b9ca1fd97f9f23",
-                "id": "6453ecd3-3075-4414-8cef-8815daad44d7",
-                "last_modified": null,
-                "lazyboy_json": {},
-                "mimetype": null,
-                "mimetype_inner": null,
-                "name": "Polling Stations",
-                "package_id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
-                "position": 4,
-                "resource_type": null,
-                "revision_id": null,
-                "size": 32814,
-                "state": "active",
-                "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:50.88/polling-stations.json",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "img": "/wp-content/themes/theme_calderdale/img/topic/organisation-and-salaries.png",
+                "slug": "organisation-and-salaries",
+                "title": "Organisation and Salaries"
             }
-        ],
-        "revision_id": null,
-        "state": "active",
-        "tags": [
-            {
-                "display_name": "polling",
-                "id": null,
-                "name": "polling",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "polling stations",
-                "id": null,
-                "name": "polling stations",
-                "state": "active",
-                "vocabulary_id": null
-            },
-            {
-                "display_name": "elections",
-                "id": null,
-                "name": "elections",
-                "state": "active",
-                "vocabulary_id": null
-            }
-        ],
-        "title": "Polling Stations",
-        "type": "dataset",
-        "url": null,
-        "version": null
+        }
     },
-    "success": true
+    "resources": {
+        "35a16224-e435-440b-ab29-7146ef8b2060": {
+            "check_hash": "e31a3b34de4bde45ec640e8ed2aed7b2",
+            "check_http_status": 200,
+            "check_mimetype": "application/zip",
+            "check_size": 18516,
+            "check_timestamp": "2017-05-26T10:53:57.697Z",
+            "description": "",
+            "format": "zip",
+            "order": 2,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Tab Files",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:53:48.01/tab files.zip",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:53:57.455Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:53:48.01/tab files.zip"
+                }
+            ]
+        },
+        "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
+            "check_hash": "d44618e82ab326f23dc2224e7364aec8",
+            "check_http_status": 200,
+            "check_mimetype": "text/csv",
+            "check_size": 11927,
+            "check_timestamp": "2017-04-20T10:24:45.856Z",
+            "datastore_json": {},
+            "description": "Names and addresses of all polling stations in Calderdale. Updated April 2017.",
+            "format": "csv",
+            "order": 1,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Stations",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv",
+            "versions": [
+                {
+                    "format": "CSV",
+                    "size": 11927,
+                    "timestamp": "2017-04-20T09:24:45.854Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 11927,
+                    "timestamp": "2017-05-10T20:26:32.781Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv"
+                }
+            ]
+        },
+        "6453ecd3-3075-4414-8cef-8815daad44d7": {
+            "check_hash": "5f3efb7c7b725e7925b9ca1fd97f9f23",
+            "check_http_status": 200,
+            "check_mimetype": "application/json",
+            "check_size": 32814,
+            "check_timestamp": "2017-05-26T10:56:22.086Z",
+            "description": "",
+            "format": "json",
+            "order": 4,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Stations",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:50.88/polling-stations.json",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:56:20.921Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:50.88/polling-stations.json"
+                }
+            ]
+        },
+        "6ccefc8e-a2ce-4bd6-8a2c-65436dfbc87d": {
+            "check_hash": "15823320a7a2e09112fa11ed224910e2",
+            "check_http_status": 200,
+            "check_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "check_size": 16551,
+            "check_timestamp": "2017-04-20T10:23:34.213Z",
+            "description": "",
+            "format": "spreadsheet",
+            "order": 0,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Stations",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx",
+            "versions": [
+                {
+                    "format": "XLS",
+                    "size": 16551,
+                    "timestamp": "2017-04-20T09:23:34.211Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx"
+                },
+                {
+                    "format": "spreadsheet",
+                    "size": 16551,
+                    "timestamp": "2017-05-10T20:26:32.781Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx"
+                }
+            ]
+        },
+        "9114cd43-00dd-412e-8126-514fb0efca95": {
+            "check_hash": "ae73174be7a9241c9e0a1e963014ef8b",
+            "check_http_status": 200,
+            "check_mimetype": "application/zip",
+            "check_size": 6874,
+            "check_timestamp": "2017-05-26T10:55:09.962Z",
+            "description": "",
+            "format": "zip",
+            "order": 3,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Stations Shape Files",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:00.07/Shape Files.zip",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:55:09.886Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:00.07/Shape Files.zip"
+                }
+            ]
+        }
+    },
+    "shares": {
+        "orgs": {},
+        "users": {}
+    },
+    "slug": "polling-stations",
+    "state": "active",
+    "tags": [
+        "polling",
+        "polling stations",
+        "elections"
+    ],
+    "title": "Polling Stations",
+    "topics": [
+        "a3cb827f-b76a-4663-a531-f628eb60a934"
+    ],
+    "update_frequency": "Annually",
+    "updatedAt": "2017-05-26T11:16:51"
 }
