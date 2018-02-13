@@ -97,14 +97,14 @@
         "ID": "HNEA",
         "MI_PRINX": 16,
         "MI_STYLE": null,
-        "NAME": "Stamford Hill Estate Community Hall",
+        "NAME": "Stamford Hill Community Centre",
         "NEW": null,
         "PDN": 16,
         "POSTCODE": "N16 6RZ",
         "UPRN": 100023157700,
         "WARD": "Cazenove",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07150317417245006, 51.56929993786948], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.16\", \"properties\": {\"ADDRESS_1\": \"Stamford Hill Estate\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNEA\", \"MI_PRINX\": 16, \"MI_STYLE\": null, \"NAME\": \"Stamford Hill Estate Community Hall\", \"NEW\": null, \"PDN\": 16, \"POSTCODE\": \"N16 6RZ\", \"UPRN\": 100023157700, \"WARD\": \"Cazenove\", \"bbox\": [-0.07150317417245006, 51.56929993786948, -0.07150317417245006, 51.56929993786948]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07150317417245006, 51.56929993786948], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.16\", \"properties\": {\"ADDRESS_1\": \"Stamford Hill Estate\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNEA\", \"MI_PRINX\": 16, \"MI_STYLE\": null, \"NAME\": \"Stamford Hill Community Centre\", \"NEW\": null, \"PDN\": 16, \"POSTCODE\": \"N16 6RZ\", \"UPRN\": 100023157700, \"WARD\": \"Cazenove\", \"bbox\": [-0.07150317417245006, 51.56929993786948, -0.07150317417245006, 51.56929993786948]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.16"
     },
     {
@@ -205,14 +205,14 @@
         "ID": "HNFC",
         "MI_PRINX": 21,
         "MI_STYLE": null,
-        "NAME": "Hawksley Court Community Hall",
+        "NAME": "Hawksley Community Hall",
         "NEW": null,
         "PDN": 22,
         "POSTCODE": "N16 0UA",
         "UPRN": 100023647821,
         "WARD": "Clissold",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08181873974215427, 51.55923011967348], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.21\", \"properties\": {\"ADDRESS_1\": \"Albion Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNFC\", \"MI_PRINX\": 21, \"MI_STYLE\": null, \"NAME\": \"Hawksley Court Community Hall\", \"NEW\": null, \"PDN\": 22, \"POSTCODE\": \"N16 0UA\", \"UPRN\": 100023647821, \"WARD\": \"Clissold\", \"bbox\": [-0.08181873974215427, 51.55923011967348, -0.08181873974215427, 51.55923011967348]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08181873974215427, 51.55923011967348], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.21\", \"properties\": {\"ADDRESS_1\": \"Albion Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNFC\", \"MI_PRINX\": 21, \"MI_STYLE\": null, \"NAME\": \"Hawksley Community Hall\", \"NEW\": null, \"PDN\": 22, \"POSTCODE\": \"N16 0UA\", \"UPRN\": 100023647821, \"WARD\": \"Clissold\", \"bbox\": [-0.08181873974215427, 51.55923011967348, -0.08181873974215427, 51.55923011967348]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.21"
     },
     {
@@ -691,14 +691,14 @@
         "ID": "HSLE",
         "MI_PRINX": 48,
         "MI_STYLE": null,
-        "NAME": "Hackney Town Hall (Assembly Hall)",
+        "NAME": "Hackney Town Hall",
         "NEW": null,
         "PDN": 49,
         "POSTCODE": "E8 1EA",
         "UPRN": 10008308117,
         "WARD": "Hackney Central",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.05643433331522717, 51.54503225688195], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.48\", \"properties\": {\"ADDRESS_1\": \"Reading Lane Entrance\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSLE\", \"MI_PRINX\": 48, \"MI_STYLE\": null, \"NAME\": \"Hackney Town Hall (Assembly Hall)\", \"NEW\": null, \"PDN\": 49, \"POSTCODE\": \"E8 1EA\", \"UPRN\": 10008308117, \"WARD\": \"Hackney Central\", \"bbox\": [-0.05643433331522717, 51.54503225688195, -0.05643433331522717, 51.54503225688195]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.05643433331522717, 51.54503225688195], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.48\", \"properties\": {\"ADDRESS_1\": \"Reading Lane Entrance\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSLE\", \"MI_PRINX\": 48, \"MI_STYLE\": null, \"NAME\": \"Hackney Town Hall\", \"NEW\": null, \"PDN\": 49, \"POSTCODE\": \"E8 1EA\", \"UPRN\": 10008308117, \"WARD\": \"Hackney Central\", \"bbox\": [-0.05643433331522717, 51.54503225688195, -0.05643433331522717, 51.54503225688195]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.48"
     },
     {
@@ -979,14 +979,14 @@
         "ID": "HSQB",
         "MI_PRINX": 65,
         "MI_STYLE": null,
-        "NAME": "Regent Estate Pensions Hall",
+        "NAME": "Regents Estate Senior Citizens Club",
         "NEW": null,
         "PDN": 66,
         "POSTCODE": "E8 4PD",
         "UPRN": 100023016926,
         "WARD": "Haggerston",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.06399420031054179, 51.5374955460025], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.65\", \"properties\": {\"ADDRESS_1\": \"Brougham Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSQB\", \"MI_PRINX\": 65, \"MI_STYLE\": null, \"NAME\": \"Regent Estate Pensions Hall\", \"NEW\": null, \"PDN\": 66, \"POSTCODE\": \"E8 4PD\", \"UPRN\": 100023016926, \"WARD\": \"Haggerston\", \"bbox\": [-0.06399420031054179, 51.5374955460025, -0.06399420031054179, 51.5374955460025]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.06399420031054179, 51.5374955460025], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.65\", \"properties\": {\"ADDRESS_1\": \"Brougham Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSQB\", \"MI_PRINX\": 65, \"MI_STYLE\": null, \"NAME\": \"Regents Estate Senior Citizens Club\", \"NEW\": null, \"PDN\": 66, \"POSTCODE\": \"E8 4PD\", \"UPRN\": 100023016926, \"WARD\": \"Haggerston\", \"bbox\": [-0.06399420031054179, 51.5374955460025, -0.06399420031054179, 51.5374955460025]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.65"
     },
     {
@@ -1285,14 +1285,14 @@
         "ID": "HSUB",
         "MI_PRINX": 82,
         "MI_STYLE": null,
-        "NAME": "Arden Estate Community Hall",
+        "NAME": "Arden Community Hall",
         "NEW": null,
         "PDN": 83,
         "POSTCODE": "N1 6PH",
         "UPRN": 100021024344,
         "WARD": "Hoxton East and Shoreditch",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08092885172358105, 51.532558185578345], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.82\", \"properties\": {\"ADDRESS_1\": \"Regan Way\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSUB\", \"MI_PRINX\": 82, \"MI_STYLE\": null, \"NAME\": \"Arden Estate Community Hall\", \"NEW\": null, \"PDN\": 83, \"POSTCODE\": \"N1 6PH\", \"UPRN\": 100021024344, \"WARD\": \"Hoxton East and Shoreditch\", \"bbox\": [-0.08092885172358105, 51.532558185578345, -0.08092885172358105, 51.532558185578345]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08092885172358105, 51.532558185578345], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.82\", \"properties\": {\"ADDRESS_1\": \"Regan Way\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSUB\", \"MI_PRINX\": 82, \"MI_STYLE\": null, \"NAME\": \"Arden Community Hall\", \"NEW\": null, \"PDN\": 83, \"POSTCODE\": \"N1 6PH\", \"UPRN\": 100021024344, \"WARD\": \"Hoxton East and Shoreditch\", \"bbox\": [-0.08092885172358105, 51.532558185578345, -0.08092885172358105, 51.532558185578345]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.82"
     },
     {
@@ -1362,9 +1362,9 @@
         "PDN": 39,
         "POSTCODE": "N16 7TN",
         "UPRN": 10008309534,
-        "WARD": "Stoke Newington",
+        "WARD": "Shacklewell",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07176286082537567, 51.55429571825256], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.86\", \"properties\": {\"ADDRESS_1\": \"Somerford Grove Estate\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNJA\", \"MI_PRINX\": 86, \"MI_STYLE\": null, \"NAME\": \"Somerford/Shacklewell Community Hall\", \"NEW\": null, \"PDN\": 39, \"POSTCODE\": \"N16 7TN\", \"UPRN\": 10008309534, \"WARD\": \"Stoke Newington \", \"bbox\": [-0.07176286082537567, 51.55429571825256, -0.07176286082537567, 51.55429571825256]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07176286082537567, 51.55429571825256], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.86\", \"properties\": {\"ADDRESS_1\": \"Somerford Grove Estate\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNJA\", \"MI_PRINX\": 86, \"MI_STYLE\": null, \"NAME\": \"Somerford/Shacklewell Community Hall\", \"NEW\": null, \"PDN\": 39, \"POSTCODE\": \"N16 7TN\", \"UPRN\": 10008309534, \"WARD\": \"Shacklewell\", \"bbox\": [-0.07176286082537567, 51.55429571825256, -0.07176286082537567, 51.55429571825256]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.86"
     },
     {
@@ -1398,9 +1398,9 @@
         "PDN": 58,
         "POSTCODE": "N1 4DB",
         "UPRN": 10008241541,
-        "WARD": "Dalston",
+        "WARD": "De Beauvoir",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07854173875693024, 51.54498636060778], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.88\", \"properties\": {\"ADDRESS_1\": \"Buckingham Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSOA\", \"MI_PRINX\": 88, \"MI_STYLE\": null, \"NAME\": \"Kingsgate Community Hall\", \"NEW\": null, \"PDN\": 58, \"POSTCODE\": \"N1 4DB\", \"UPRN\": 10008241541, \"WARD\": \"Dalston\", \"bbox\": [-0.07854173875693024, 51.54498636060778, -0.07854173875693024, 51.54498636060778]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07854173875693024, 51.54498636060778], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.88\", \"properties\": {\"ADDRESS_1\": \"Buckingham Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSOA\", \"MI_PRINX\": 88, \"MI_STYLE\": null, \"NAME\": \"Kingsgate Community Hall\", \"NEW\": null, \"PDN\": 58, \"POSTCODE\": \"N1 4DB\", \"UPRN\": 10008241541, \"WARD\": \"De Beauvoir\", \"bbox\": [-0.07854173875693024, 51.54498636060778, -0.07854173875693024, 51.54498636060778]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.88"
     },
     {
