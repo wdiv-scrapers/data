@@ -564,7 +564,7 @@
             <Placemark id="POLLING_STATIONS.62">
                 <name>BD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Hollybrook Pre-School room, Seagarth Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Hollybrook Meeting Room, Seagarth Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: BD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bassett&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
@@ -744,13 +744,13 @@
             <Placemark id="POLLING_STATIONS.49">
                 <name>BF</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Burgess Road Library, Burgess Road, SO16 3HF&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Cantell School (Community Room), Violet Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: BF&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bassett&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.395547507279602</longitude>
-                    <latitude>50.93832224278638</latitude>
+                    <longitude>-1.3980886731742146</longitude>
+                    <latitude>50.941450666291274</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -774,7 +774,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.3955475072796086,50.93832224278637</coordinates>
+                    <coordinates>-1.398088673174217,50.94145066629128</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.43">
@@ -1896,7 +1896,7 @@
             <Placemark id="POLLING_STATIONS.38">
                 <name>AD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;James Street Church Hall, James Street&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;James Street Evangelical Church Hall (Main Hall), James Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
@@ -2364,13 +2364,13 @@
             <Placemark id="POLLING_STATIONS.78">
                 <name>JA</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Bitterne Infants School, Brownlow Avenue&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Holy Saviour Church (Church Room), Bursledon Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: JA&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Peartree&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.3626081951949516</longitude>
-                    <latitude>50.91347686128282</latitude>
+                    <longitude>-1.358571093614671</longitude>
+                    <latitude>50.91377805045859</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2394,7 +2394,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.3626081951949585,50.913476861282824</coordinates>
+                    <coordinates>-1.3585710936146673,50.91377805045859</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.14">
