@@ -221,24 +221,30 @@
     },
     "resources": {
         "14937500-83dd-43ea-8b24-89766099ea7d": {
-            "check_hash": "ea11a8688d7ce2211999f9e9413efdf9",
+            "check_hash": "9b1ec189fde9421bc6573ced5d404ec5-2",
             "check_http_status": 200,
             "check_mimetype": "application/json",
-            "check_size": 3280987,
-            "check_timestamp": "2017-05-26T11:05:08.913Z",
+            "check_size": 7613576,
+            "check_timestamp": "2018-02-26T10:21:27.130Z",
             "description": "",
             "format": "json",
             "order": 3,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:04:26.22/polling-districts.json",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json",
             "versions": [
                 {
                     "format": "",
                     "size": null,
                     "timestamp": "2017-05-26T11:05:08.698Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:04:26.22/polling-districts.json"
+                },
+                {
+                    "format": "json",
+                    "size": 7613576,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json"
                 }
             ]
         },
@@ -265,18 +271,18 @@
             ]
         },
         "4114fd1d-e226-41f4-a3ea-2a1f052cd351": {
-            "check_hash": "b2d3fffc29e5d4049ef450b5e69bb523",
+            "check_hash": "95367c5ed0d586e740db72c5eca88fae",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 935944,
-            "check_timestamp": "2017-05-26T11:03:55.268Z",
+            "check_size": 1647256,
+            "check_timestamp": "2018-02-26T10:20:57.215Z",
             "description": "",
             "format": "zip",
             "order": 1,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts - Shape Files",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:03:14.48/Shape files.zip",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip",
             "versions": [
                 {
                     "format": "",
@@ -289,6 +295,12 @@
                     "size": 935944,
                     "timestamp": "2017-05-26T11:04:01.828Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:03:14.48/Shape files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 1647256,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip"
                 }
             ]
         },
@@ -557,24 +569,30 @@
             ]
         },
         "b033c876-eeda-4b60-bce9-a924ca28de75": {
-            "check_hash": "c0c5618e17f06d9cdec15af15a9962ab",
+            "check_hash": "29c449cc487ff9c55d66828b31fe3f30",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 5007,
-            "check_timestamp": "2017-05-26T11:05:54.891Z",
+            "check_size": 19181,
+            "check_timestamp": "2018-02-26T10:21:10.920Z",
             "description": "",
             "format": "csv",
             "order": 2,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:05:44.66/polling-districts.csv",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv",
             "versions": [
                 {
                     "format": "",
                     "size": null,
                     "timestamp": "2017-05-26T11:05:54.723Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:05:44.66/polling-districts.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 19181,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv"
                 }
             ]
         },
@@ -623,18 +641,18 @@
             ]
         },
         "d96c03f5-95fa-4d30-96b3-66cf101fe814": {
-            "check_hash": "753eace6a6fbdfd4b688c1fe0f8c1cca",
+            "check_hash": "1f04b450a0146e42f4b3cf006ec059fa",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 1074918,
-            "check_timestamp": "2017-05-26T11:02:40.728Z",
+            "check_size": 755510,
+            "check_timestamp": "2018-02-26T10:20:46.010Z",
             "description": "",
             "format": "zip",
             "order": 0,
             "temporal_coverage_from": "2016-03-01",
             "temporal_coverage_to": "2017-03-01",
             "title": "Polling Station Districts - Tab Files",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:02:20.08/Tab files.zip",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip",
             "versions": [
                 {
                     "format": "ZIP",
@@ -659,6 +677,12 @@
                     "size": 1074918,
                     "timestamp": "2017-05-26T11:02:52.437Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:02:20.08/Tab files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 755510,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip"
                 }
             ]
         },
@@ -724,5 +748,5 @@
         "452ec79e-b507-4ba6-8f19-6c7d9c805e5a"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2017-05-26T11:57:38"
+    "updatedAt": "2018-02-26T10:19:34"
 }
