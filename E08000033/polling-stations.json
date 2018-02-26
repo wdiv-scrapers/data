@@ -221,41 +221,47 @@
     },
     "resources": {
         "35a16224-e435-440b-ab29-7146ef8b2060": {
-            "check_hash": "e31a3b34de4bde45ec640e8ed2aed7b2",
+            "check_hash": "b22a3d6df6ccef5f8a2a368215a84b48",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 18516,
-            "check_timestamp": "2017-05-26T10:53:57.697Z",
+            "check_size": 19794,
+            "check_timestamp": "2018-02-26T09:45:14.361Z",
             "description": "",
             "format": "zip",
-            "order": 2,
+            "order": 1,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Tab Files",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:53:48.01/tab files.zip",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:05.88/polling-stations-tab.zip",
             "versions": [
                 {
                     "format": "",
                     "size": null,
                     "timestamp": "2017-05-26T10:53:57.455Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:53:48.01/tab files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 19794,
+                    "timestamp": "2018-02-26T09:46:57.702Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:05.88/polling-stations-tab.zip"
                 }
             ]
         },
         "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
-            "check_hash": "d44618e82ab326f23dc2224e7364aec8",
+            "check_hash": "965d96c1e8d30ab896a9d4489a46a9cf",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 11927,
-            "check_timestamp": "2017-04-20T10:24:45.856Z",
+            "check_size": 15807,
+            "check_timestamp": "2018-02-26T09:44:55.702Z",
             "datastore_json": {},
             "description": "Names and addresses of all polling stations in Calderdale. Updated April 2017.",
             "format": "csv",
-            "order": 1,
+            "order": 0,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:44:51.97/POLLING_STATIONS.csv",
             "versions": [
                 {
                     "format": "CSV",
@@ -268,78 +274,68 @@
                     "size": 11927,
                     "timestamp": "2017-05-10T20:26:32.781Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:57.75/Polling Stations.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 15807,
+                    "timestamp": "2018-02-26T09:46:57.702Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:44:51.97/POLLING_STATIONS.csv"
                 }
             ]
         },
         "6453ecd3-3075-4414-8cef-8815daad44d7": {
-            "check_hash": "5f3efb7c7b725e7925b9ca1fd97f9f23",
+            "check_hash": "c4735796b9d76c6f5bb9b08bb3197d47",
             "check_http_status": 200,
             "check_mimetype": "application/json",
-            "check_size": 32814,
-            "check_timestamp": "2017-05-26T10:56:22.086Z",
+            "check_size": 269204,
+            "check_timestamp": "2018-02-26T09:45:43.338Z",
             "description": "",
             "format": "json",
-            "order": 4,
+            "order": 3,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:50.88/polling-stations.json",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:40.01/polling-stations-json.json",
             "versions": [
                 {
                     "format": "",
                     "size": null,
                     "timestamp": "2017-05-26T10:56:20.921Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:50.88/polling-stations.json"
-                }
-            ]
-        },
-        "6ccefc8e-a2ce-4bd6-8a2c-65436dfbc87d": {
-            "check_hash": "15823320a7a2e09112fa11ed224910e2",
-            "check_http_status": 200,
-            "check_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "check_size": 16551,
-            "check_timestamp": "2017-04-20T10:23:34.213Z",
-            "description": "",
-            "format": "spreadsheet",
-            "order": 0,
-            "temporal_coverage_from": null,
-            "temporal_coverage_to": null,
-            "title": "Polling Stations",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx",
-            "versions": [
-                {
-                    "format": "XLS",
-                    "size": 16551,
-                    "timestamp": "2017-04-20T09:23:34.211Z",
-                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx"
                 },
                 {
-                    "format": "spreadsheet",
-                    "size": 16551,
-                    "timestamp": "2017-05-10T20:26:32.781Z",
-                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-04-20T09:23:30.53/Polling Stations.xlsx"
+                    "format": "json",
+                    "size": 269204,
+                    "timestamp": "2018-02-26T09:46:57.702Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:40.01/polling-stations-json.json"
                 }
             ]
         },
         "9114cd43-00dd-412e-8126-514fb0efca95": {
-            "check_hash": "ae73174be7a9241c9e0a1e963014ef8b",
+            "check_hash": "3977c658c6098711f321e6c4cdeeb846",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 6874,
-            "check_timestamp": "2017-05-26T10:55:09.962Z",
+            "check_size": 41360,
+            "check_timestamp": "2018-02-26T09:45:27.546Z",
             "description": "",
             "format": "zip",
-            "order": 3,
+            "order": 2,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations Shape Files",
-            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:00.07/Shape Files.zip",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:23.82/polling-stations-shp.zip",
             "versions": [
                 {
                     "format": "",
                     "size": null,
                     "timestamp": "2017-05-26T10:55:09.886Z",
                     "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2017-05-26T10:55:00.07/Shape Files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 41360,
+                    "timestamp": "2018-02-26T09:46:57.702Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-stations/2018-02-26T09:45:23.82/polling-stations-shp.zip"
                 }
             ]
         }
@@ -360,5 +356,5 @@
         "a3cb827f-b76a-4663-a531-f628eb60a934"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2017-05-26T11:16:51"
+    "updatedAt": "2018-02-26T09:44:29"
 }
