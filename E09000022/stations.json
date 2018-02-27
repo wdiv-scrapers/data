@@ -1206,7 +1206,7 @@
         "VENUE": "Longfield Hall",
         "WARD": "Vassall",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.10500845426975826, 51.471746219221785], \"type\": \"Point\"}, \"id\": null, \"properties\": {\"ADDRESS\": \"50 Knatchbull Road\", \"DISTRICT_C\": \"VED\", \"EASTING\": 531713, \"NORTHING\": 176456, \"OBJECTID\": null, \"OBJECTID_1\": 96, \"POSTCODE\": \"SE5 9QY\", \"VENUE\": \"Longfield Hall\", \"WARD\": \"Vassall\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.10500845426975826, 51.471746219221785], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"50 Knatchbull Road\", \"DISTRICT_C\": \"VED\", \"EASTING\": 531713, \"NORTHING\": 176456, \"OBJECTID\": null, \"OBJECTID_1\": 96, \"POSTCODE\": \"SE5 9QY\", \"VENUE\": \"Longfield Hall\", \"WARD\": \"Vassall\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "226 Leigham Court Road",
@@ -1219,7 +1219,7 @@
         "VENUE": "Julian's Primary School",
         "WARD": "Streatham Wells",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.11574779322883544, 51.42892782430655], \"type\": \"Point\"}, \"id\": null, \"properties\": {\"ADDRESS\": \"226 Leigham Court Road\", \"DISTRICT_C\": \"SUE\", \"EASTING\": 531089.65, \"NORTHING\": 171675.25, \"OBJECTID\": null, \"OBJECTID_1\": 321, \"POSTCODE\": \"SW16 2RB\", \"VENUE\": \"Julian's Primary School\", \"WARD\": \"Streatham Wells\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.11574779322883544, 51.42892782430655], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"226 Leigham Court Road\", \"DISTRICT_C\": \"SUE\", \"EASTING\": 531089.65, \"NORTHING\": 171675.25, \"OBJECTID\": null, \"OBJECTID_1\": 321, \"POSTCODE\": \"SW16 2RB\", \"VENUE\": \"Julian's Primary School\", \"WARD\": \"Streatham Wells\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "13-17 Bridgetown Close",
@@ -1232,6 +1232,6 @@
         "VENUE": "Berridge Road Estate Community Resource Centre",
         "WARD": "Gipsy Hill",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08634361383591001, 51.425022958525794], \"type\": \"Point\"}, \"id\": null, \"properties\": {\"ADDRESS\": \"13-17 Bridgetown Close\", \"DISTRICT_C\": \"NND\", \"EASTING\": 533145, \"NORTHING\": 171294, \"OBJECTID\": null, \"OBJECTID_1\": 322, \"POSTCODE\": \"SE19 1JZ\", \"VENUE\": \"Berridge Road Estate Community Resource Centre\", \"WARD\": \"Gipsy Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08634361383591001, 51.425022958525794], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"13-17 Bridgetown Close\", \"DISTRICT_C\": \"NND\", \"EASTING\": 533145, \"NORTHING\": 171294, \"OBJECTID\": null, \"OBJECTID_1\": 322, \"POSTCODE\": \"SE19 1JZ\", \"VENUE\": \"Berridge Road Estate Community Resource Centre\", \"WARD\": \"Gipsy Hill\"}, \"type\": \"Feature\"}"
     }
 ]
