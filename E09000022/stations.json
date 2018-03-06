@@ -949,17 +949,17 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.10726610024440975, 51.44006419754093], \"type\": \"Point\"}, \"id\": 74, \"properties\": {\"ADDRESS\": \"138 Christchurch Road\", \"DISTRICT_C\": \"STE\", \"EASTING\": 531647.2553053, \"NORTHING\": 172928.83266849, \"OBJECTID\": 74, \"OBJECTID_1\": 74, \"POSTCODE\": \"SW2 3DQ\", \"VENUE\": \"Tulse Hill Methodist Church Hall\", \"WARD\": \"Streatham Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Cricklade Avenue",
+        "ADDRESS": "Barcombe Avenue",
         "DISTRICT_C": "STD",
-        "EASTING": 530783.85538869,
-        "NORTHING": 172752.2100428,
+        "EASTING": 530776.258,
+        "NORTHING": 172731.653,
         "OBJECTID": 75,
         "OBJECTID_1": 75,
         "POSTCODE": "SW2 3BH",
-        "VENUE": "St Margaret's Church Hall",
+        "VENUE": "St Margaret's The Queen",
         "WARD": "Streatham Hill",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.11974656112440085, 51.43867675501214], \"type\": \"Point\"}, \"id\": 75, \"properties\": {\"ADDRESS\": \"Cricklade Avenue\", \"DISTRICT_C\": \"STD\", \"EASTING\": 530783.85538869, \"NORTHING\": 172752.2100428, \"OBJECTID\": 75, \"OBJECTID_1\": 75, \"POSTCODE\": \"SW2 3BH\", \"VENUE\": \"St Margaret's Church Hall\", \"WARD\": \"Streatham Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.11985696379246548, 51.4384936616583], \"type\": \"Point\"}, \"id\": 75, \"properties\": {\"ADDRESS\": \"Barcombe Avenue\", \"DISTRICT_C\": \"STD\", \"EASTING\": 530776.258, \"NORTHING\": 172731.653, \"OBJECTID\": 75, \"OBJECTID_1\": 75, \"POSTCODE\": \"SW2 3BH\", \"VENUE\": \"St Margaret's The Queen\", \"WARD\": \"Streatham Hill\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "50 Palace Road",
@@ -1053,17 +1053,17 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.10341496645650436, 51.43223013885806], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"ADDRESS\": \"Knight's Hill\", \"DISTRICT_C\": \"NMA\", \"EASTING\": 531937.45178779, \"NORTHING\": 172064.59302489, \"OBJECTID\": 82, \"OBJECTID_1\": 82, \"POSTCODE\": \"SE27 0HS\", \"VENUE\": \"St Luke's Church Hall\", \"WARD\": \"Knights Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "218 Lambeth Road",
-        "DISTRICT_C": "VAC",
-        "EASTING": 530772.9922,
-        "NORTHING": 179042.3271,
+        "ADDRESS": "1 Kennington Road",
+        "DISTRICT_C": "VAB",
+        "EASTING": 531163.135,
+        "NORTHING": 179363.2,
         "OBJECTID": 83,
         "OBJECTID_1": 83,
-        "POSTCODE": "SE1 7JY",
-        "VENUE": "Fairley House Junior School",
+        "POSTCODE": "SE1 7QP",
+        "VENUE": "Oasis Hub Waterloo",
         "WARD": "Bishops",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.11757777177909065, 51.4952064327423], \"type\": \"Point\"}, \"id\": 83, \"properties\": {\"ADDRESS\": \"218 Lambeth Road\", \"DISTRICT_C\": \"VAC\", \"EASTING\": 530772.9922, \"NORTHING\": 179042.3271, \"OBJECTID\": 83, \"OBJECTID_1\": 83, \"POSTCODE\": \"SE1 7JY\", \"VENUE\": \"Fairley House Junior School\", \"WARD\": \"Bishops\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.11183569242329781, 51.497991556494256], \"type\": \"Point\"}, \"id\": 83, \"properties\": {\"ADDRESS\": \"1 Kennington Road\", \"DISTRICT_C\": \"VAB\", \"EASTING\": 531163.135, \"NORTHING\": 179363.2, \"OBJECTID\": 83, \"OBJECTID_1\": 83, \"POSTCODE\": \"SE1 7QP\", \"VENUE\": \"Oasis Hub Waterloo\", \"WARD\": \"Bishops\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "106 The Cut",
