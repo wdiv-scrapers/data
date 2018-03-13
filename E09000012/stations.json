@@ -990,7 +990,7 @@
         "pk": "Polling Stations.65"
     },
     {
-        "ADDRESS_1": "Laburnum",
+        "ADDRESS_1": "Laburnum Street",
         "ADDRESS_2": null,
         "ENTRANCE": null,
         "GMAP_URL": null,
@@ -1004,7 +1004,7 @@
         "UPRN": 10008308079,
         "WARD": "Haggerston",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07350623187633558, 51.53556592991906], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.66\", \"properties\": {\"ADDRESS_1\": \"Laburnum\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSQC\", \"MI_PRINX\": 66, \"MI_STYLE\": null, \"NAME\": \"Laburnum Boat Club\", \"NEW\": null, \"PDN\": 67, \"POSTCODE\": \"E2 8BH\", \"UPRN\": 10008308079, \"WARD\": \"Haggerston\", \"bbox\": [-0.07350623187633558, 51.53556592991906, -0.07350623187633558, 51.53556592991906]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07350623187633558, 51.53556592991906], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.66\", \"properties\": {\"ADDRESS_1\": \"Laburnum Street\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSQC\", \"MI_PRINX\": 66, \"MI_STYLE\": null, \"NAME\": \"Laburnum Boat Club\", \"NEW\": null, \"PDN\": 67, \"POSTCODE\": \"E2 8BH\", \"UPRN\": 10008308079, \"WARD\": \"Haggerston\", \"bbox\": [-0.07350623187633558, 51.53556592991906, -0.07350623187633558, 51.53556592991906]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.66"
     },
     {
