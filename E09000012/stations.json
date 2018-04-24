@@ -48,9 +48,9 @@
         "PDN": 12,
         "POSTCODE": "N16 0BF",
         "UPRN": 10008338319,
-        "WARD": "Stoke Newington",
+        "WARD": "Clissold",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08680599657317263, 51.56397516777623], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.12\", \"properties\": {\"ADDRESS_1\": \"3 Queen Elizabeth\\u2019s Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDA\", \"MI_PRINX\": 12, \"MI_STYLE\": null, \"NAME\": \"Clissold Park Tennis Pavilion\", \"NEW\": null, \"PDN\": 12, \"POSTCODE\": \"N16 0BF\", \"UPRN\": 10008338319, \"WARD\": \"Stoke Newington\", \"bbox\": [-0.08680599657317263, 51.56397516777623, -0.08680599657317263, 51.56397516777623]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08680599657317263, 51.56397516777623], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.12\", \"properties\": {\"ADDRESS_1\": \"3 Queen Elizabeth\\u2019s Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDA\", \"MI_PRINX\": 12, \"MI_STYLE\": null, \"NAME\": \"Clissold Park Tennis Pavilion\", \"NEW\": null, \"PDN\": 12, \"POSTCODE\": \"N16 0BF\", \"UPRN\": 10008338319, \"WARD\": \"Clissold\", \"bbox\": [-0.08680599657317263, 51.56397516777623, -0.08680599657317263, 51.56397516777623]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.12"
     },
     {
@@ -84,9 +84,9 @@
         "PDN": 15,
         "POSTCODE": "N16 5ED",
         "UPRN": 10008305735,
-        "WARD": "Stamford Hill West",
+        "WARD": "Woodberry Down",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08131460045216636, 51.57069275923822], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.15\", \"properties\": {\"ADDRESS_1\": \"77 Bethune Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDD\", \"MI_PRINX\": 15, \"MI_STYLE\": null, \"NAME\": \"Oaktree Community Centre\", \"NEW\": null, \"PDN\": 15, \"POSTCODE\": \"N16 5ED\", \"UPRN\": 10008305735, \"WARD\": \"Stamford Hill West\", \"bbox\": [-0.08131460045216636, 51.57069275923822, -0.08131460045216636, 51.57069275923822]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08131460045216636, 51.57069275923822], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.15\", \"properties\": {\"ADDRESS_1\": \"77 Bethune Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDD\", \"MI_PRINX\": 15, \"MI_STYLE\": null, \"NAME\": \"Oaktree Community Centre\", \"NEW\": null, \"PDN\": 15, \"POSTCODE\": \"N16 5ED\", \"UPRN\": 10008305735, \"WARD\": \"Woodberry Down\", \"bbox\": [-0.08131460045216636, 51.57069275923822, -0.08131460045216636, 51.57069275923822]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.15"
     },
     {
@@ -336,9 +336,9 @@
         "PDN": 29,
         "POSTCODE": "N16 7ED",
         "UPRN": 100023159605,
-        "WARD": "Hackney Downs",
+        "WARD": "Cazenove",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.06661126312921666, 51.56250205711189], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.28\", \"properties\": {\"ADDRESS_1\": \"55 Fountayne Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNHA\", \"MI_PRINX\": 28, \"MI_STYLE\": null, \"NAME\": \"St. Michael's Church\", \"NEW\": null, \"PDN\": 29, \"POSTCODE\": \"N16 7ED\", \"UPRN\": 100023159605, \"WARD\": \"Hackney Downs\", \"bbox\": [-0.06661126312921666, 51.56250205711189, -0.06661126312921666, 51.56250205711189]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.06661126312921666, 51.56250205711189], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.28\", \"properties\": {\"ADDRESS_1\": \"55 Fountayne Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNHA\", \"MI_PRINX\": 28, \"MI_STYLE\": null, \"NAME\": \"St. Michael's Church\", \"NEW\": null, \"PDN\": 29, \"POSTCODE\": \"N16 7ED\", \"UPRN\": 100023159605, \"WARD\": \"Cazenove\", \"bbox\": [-0.06661126312921666, 51.56250205711189, -0.06661126312921666, 51.56250205711189]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.28"
     },
     {
@@ -480,9 +480,9 @@
         "PDN": 37,
         "POSTCODE": "E9 6DF",
         "UPRN": 100023020798,
-        "WARD": "Lea Bridge (Part)",
+        "WARD": "King's Park",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.042710578702700445, 51.55026255086633], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.36\", \"properties\": {\"ADDRESS_1\": \"42-44 Brooksby's Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSIE\", \"MI_PRINX\": 36, \"MI_STYLE\": null, \"NAME\": \"Chats Palace Arts Centre\", \"NEW\": null, \"PDN\": 37, \"POSTCODE\": \"E9 6DF\", \"UPRN\": 100023020798, \"WARD\": \"Lea Bridge (Part)\", \"bbox\": [-0.042710578702700445, 51.55026255086633, -0.042710578702700445, 51.55026255086633]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.042710578702700445, 51.55026255086633], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.36\", \"properties\": {\"ADDRESS_1\": \"42-44 Brooksby's Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSIE\", \"MI_PRINX\": 36, \"MI_STYLE\": null, \"NAME\": \"Chats Palace Arts Centre\", \"NEW\": null, \"PDN\": 37, \"POSTCODE\": \"E9 6DF\", \"UPRN\": 100023020798, \"WARD\": \"King's Park\", \"bbox\": [-0.042710578702700445, 51.55026255086633, -0.042710578702700445, 51.55026255086633]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.36"
     },
     {
@@ -498,9 +498,9 @@
         "PDN": 38,
         "POSTCODE": "E9 6DF",
         "UPRN": 100023020798,
-        "WARD": "Lea Bridge (Part)",
+        "WARD": "King's Park",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.042710578702700445, 51.55026255086633], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.37\", \"properties\": {\"ADDRESS_1\": \"42-44 Brooksby's Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSIF\", \"MI_PRINX\": 37, \"MI_STYLE\": null, \"NAME\": \"Chats Palace Arts Centre\", \"NEW\": null, \"PDN\": 38, \"POSTCODE\": \"E9 6DF\", \"UPRN\": 100023020798, \"WARD\": \"Lea Bridge (Part)\", \"bbox\": [-0.042710578702700445, 51.55026255086633, -0.042710578702700445, 51.55026255086633]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.042710578702700445, 51.55026255086633], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.37\", \"properties\": {\"ADDRESS_1\": \"42-44 Brooksby's Walk\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSIF\", \"MI_PRINX\": 37, \"MI_STYLE\": null, \"NAME\": \"Chats Palace Arts Centre\", \"NEW\": null, \"PDN\": 38, \"POSTCODE\": \"E9 6DF\", \"UPRN\": 100023020798, \"WARD\": \"King's Park\", \"bbox\": [-0.042710578702700445, 51.55026255086633, -0.042710578702700445, 51.55026255086633]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.37"
     },
     {
@@ -858,9 +858,9 @@
         "PDN": 60,
         "POSTCODE": "N1 5RF",
         "UPRN": 10008292317,
-        "WARD": "De Beauvoir",
+        "WARD": "Hoxton East and Shoreditch",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08050418788142531, 51.5361392267301], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.59\", \"properties\": {\"ADDRESS_1\": \"Halcomb Street\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSOC\", \"MI_PRINX\": 59, \"MI_STYLE\": null, \"NAME\": \"Comet Nursery(School & Children's Centre)\", \"NEW\": null, \"PDN\": 60, \"POSTCODE\": \"N1 5RF\", \"UPRN\": 10008292317, \"WARD\": \"De Beauvoir\", \"bbox\": [-0.08050418788142531, 51.5361392267301, -0.08050418788142531, 51.5361392267301]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08050418788142531, 51.5361392267301], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.59\", \"properties\": {\"ADDRESS_1\": \"Halcomb Street\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSOC\", \"MI_PRINX\": 59, \"MI_STYLE\": null, \"NAME\": \"Comet Nursery(School & Children's Centre)\", \"NEW\": null, \"PDN\": 60, \"POSTCODE\": \"N1 5RF\", \"UPRN\": 10008292317, \"WARD\": \"Hoxton East and Shoreditch\", \"bbox\": [-0.08050418788142531, 51.5361392267301, -0.08050418788142531, 51.5361392267301]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.59"
     },
     {
@@ -948,9 +948,9 @@
         "PDN": 64,
         "POSTCODE": "E8 3BY",
         "UPRN": 100023016044,
-        "WARD": "London Field (Part)",
+        "WARD": "Dalston",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.07347518413646946, 51.54415327441102], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.63\", \"properties\": {\"ADDRESS_1\": \"29 Forest Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNPD\", \"MI_PRINX\": 63, \"MI_STYLE\": null, \"NAME\": \"Hackney Youth Centre\", \"NEW\": null, \"PDN\": 64, \"POSTCODE\": \"E8 3BY\", \"UPRN\": 100023016044, \"WARD\": \"London Field (Part)\", \"bbox\": [-0.07347518413646946, 51.54415327441102, -0.07347518413646946, 51.54415327441102]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.07347518413646946, 51.54415327441102], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.63\", \"properties\": {\"ADDRESS_1\": \"29 Forest Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNPD\", \"MI_PRINX\": 63, \"MI_STYLE\": null, \"NAME\": \"Hackney Youth Centre\", \"NEW\": null, \"PDN\": 64, \"POSTCODE\": \"E8 3BY\", \"UPRN\": 100023016044, \"WARD\": \"Dalston\", \"bbox\": [-0.07347518413646946, 51.54415327441102, -0.07347518413646946, 51.54415327441102]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.63"
     },
     {
@@ -1128,9 +1128,9 @@
         "PDN": 74,
         "POSTCODE": "E9 6PT",
         "UPRN": 10008307654,
-        "WARD": "Victoria",
+        "WARD": "Homerton",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.05468844478594949, 51.542615491916514], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.73\", \"properties\": {\"ADDRESS_1\": \"St Thomas Square\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSSA\", \"MI_PRINX\": 73, \"MI_STYLE\": null, \"NAME\": \"Pitcairn Hall\", \"NEW\": null, \"PDN\": 74, \"POSTCODE\": \"E9 6PT\", \"UPRN\": 10008307654, \"WARD\": \"Victoria\", \"bbox\": [-0.05468844478594949, 51.542615491916514, -0.05468844478594949, 51.542615491916514]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.05468844478594949, 51.542615491916514], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.73\", \"properties\": {\"ADDRESS_1\": \"St Thomas Square\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSSA\", \"MI_PRINX\": 73, \"MI_STYLE\": null, \"NAME\": \"Pitcairn Hall\", \"NEW\": null, \"PDN\": 74, \"POSTCODE\": \"E9 6PT\", \"UPRN\": 10008307654, \"WARD\": \"Homerton\", \"bbox\": [-0.05468844478594949, 51.542615491916514, -0.05468844478594949, 51.542615491916514]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.73"
     },
     {
@@ -1252,11 +1252,11 @@
         "NAME": "The Bell Club",
         "NEW": null,
         "PDN": 81,
-        "POSTCODE": "N1 2HF",
+        "POSTCODE": "N1 6EL",
         "UPRN": 100023651116,
-        "WARD": "Hoxton West",
+        "WARD": "Hoxton East and Shoreditch",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08330384278477733, 51.528190666222535], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.80\", \"properties\": {\"ADDRESS_1\": \"Pitfield Street,137-139\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSTD\", \"MI_PRINX\": 80, \"MI_STYLE\": null, \"NAME\": \"The Bell Club\", \"NEW\": null, \"PDN\": 81, \"POSTCODE\": \"N1 2HF\", \"UPRN\": 100023651116, \"WARD\": \"Hoxton West\", \"bbox\": [-0.08330384278477733, 51.528190666222535, -0.08330384278477733, 51.528190666222535]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08330384278477733, 51.528190666222535], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.80\", \"properties\": {\"ADDRESS_1\": \"Pitfield Street,137-139\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSTD\", \"MI_PRINX\": 80, \"MI_STYLE\": null, \"NAME\": \"The Bell Club\", \"NEW\": null, \"PDN\": 81, \"POSTCODE\": \"N1 6EL\", \"UPRN\": 100023651116, \"WARD\": \"Hoxton East and Shoreditch\", \"bbox\": [-0.08330384278477733, 51.528190666222535, -0.08330384278477733, 51.528190666222535]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.80"
     },
     {
@@ -1344,9 +1344,9 @@
         "PDN": 14,
         "POSTCODE": "N16 5ED",
         "UPRN": 10008305735,
-        "WARD": "Stamford Hill West",
+        "WARD": "Woodberry Down",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.08131460045216636, 51.57069275923822], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.85\", \"properties\": {\"ADDRESS_1\": \"77 Bethune Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDC\", \"MI_PRINX\": 85, \"MI_STYLE\": null, \"NAME\": \"Oaktree Community Centre\", \"NEW\": null, \"PDN\": 14, \"POSTCODE\": \"N16 5ED\", \"UPRN\": 10008305735, \"WARD\": \"Stamford Hill West\", \"bbox\": [-0.08131460045216636, 51.57069275923822, -0.08131460045216636, 51.57069275923822]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.08131460045216636, 51.57069275923822], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.85\", \"properties\": {\"ADDRESS_1\": \"77 Bethune Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HNDC\", \"MI_PRINX\": 85, \"MI_STYLE\": null, \"NAME\": \"Oaktree Community Centre\", \"NEW\": null, \"PDN\": 14, \"POSTCODE\": \"N16 5ED\", \"UPRN\": 10008305735, \"WARD\": \"Woodberry Down\", \"bbox\": [-0.08131460045216636, 51.57069275923822, -0.08131460045216636, 51.57069275923822]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.85"
     },
     {
@@ -1488,9 +1488,9 @@
         "PDN": 57,
         "POSTCODE": "E9 5PP",
         "UPRN": 100023546618,
-        "WARD": "King\u00b4s Park",
+        "WARD": "King's Park",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.03422259280510769, 51.55342992753731], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.92\", \"properties\": {\"ADDRESS_1\": \"Kingsmead Way\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSND\", \"MI_PRINX\": 92, \"MI_STYLE\": null, \"NAME\": \"Concorde Community Centre\", \"NEW\": null, \"PDN\": 57, \"POSTCODE\": \"E9 5PP\", \"UPRN\": 100023546618, \"WARD\": \"King\\u00b4s Park\", \"bbox\": [-0.03422259280510769, 51.55342992753731, -0.03422259280510769, 51.55342992753731]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.03422259280510769, 51.55342992753731], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.92\", \"properties\": {\"ADDRESS_1\": \"Kingsmead Way\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSND\", \"MI_PRINX\": 92, \"MI_STYLE\": null, \"NAME\": \"Concorde Community Centre\", \"NEW\": null, \"PDN\": 57, \"POSTCODE\": \"E9 5PP\", \"UPRN\": 100023546618, \"WARD\": \"King's Park\", \"bbox\": [-0.03422259280510769, 51.55342992753731, -0.03422259280510769, 51.55342992753731]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.92"
     },
     {
