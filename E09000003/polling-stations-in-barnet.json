@@ -226,19 +226,19 @@
     },
     "resources": {
         "8e22cea7-2ff2-4270-9acb-e16bade02cf8": {
-            "check_hash": "58f67ee7709edf6ac3224ab3f21a22b2",
+            "check_hash": "2993d6129ff4ef8c71fa6398f58c9a58",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 6973,
-            "check_timestamp": "2016-05-26T13:11:06.581Z",
+            "check_size": 8303,
+            "check_timestamp": "2018-06-12T13:24:56.130Z",
             "datastore_json": {},
             "description": "",
             "format": "csv",
             "order": 0,
-            "temporal_coverage_from": "2013-03-31",
-            "temporal_coverage_to": "2014-03-30",
+            "temporal_coverage_from": "2018-05-03",
+            "temporal_coverage_to": "2018-05-03",
             "title": "Polling Stations",
-            "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv",
+            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54.34/Barnet2018PollingStationsList.csv",
             "versions": [
                 {
                     "format": "CSV",
@@ -251,6 +251,12 @@
                     "size": 6973,
                     "timestamp": "2017-05-10T20:29:35.176Z",
                     "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 6973,
+                    "timestamp": "2018-06-12T13:24:56.075Z",
+                    "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54.34/Barnet2018PollingStationsList.csv"
                 }
             ]
         }
@@ -274,5 +280,5 @@
         "5e51a6e1-304c-403a-87f2-f100b99931c1"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2016-05-26T13:12:58"
+    "updatedAt": "2018-06-12T13:25:11.445Z"
 }
