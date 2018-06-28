@@ -28,9 +28,9 @@
         "maintainer": "City of York Council - Business Intelligence Hub",
         "maintainer_email": "business.intelligence@york.gov.uk",
         "metadata_created": "2015-03-18T16:56:40.431336",
-        "metadata_modified": "2017-07-19T09:37:04.647243",
+        "metadata_modified": "2018-06-28T10:59:37.794613",
         "name": "polling-stations",
-        "notes": "Polling Stations in York",
+        "notes": "Polling Stations in York.\r\n\r\n*Please note that the data published within this dataset is a live API link to CYC's GIS server. Any changes made to the master copy of the data will be inmediately reflected in the resources of this dataset.The date shown in the \"Last Updated\" field of each GIS resource reflects when the data was first published.",
         "num_resources": 3,
         "num_tags": 0,
         "organization": {
@@ -124,7 +124,7 @@
                 "webstore_url": null
             }
         ],
-        "revision_id": "52b4efa7-16e3-482d-b069-862b19e8f20b",
+        "revision_id": "1bc6c8b4-c8e7-492a-a9aa-bb787a33f918",
         "state": "active",
         "tags": [],
         "title": "Polling Stations in York",
