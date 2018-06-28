@@ -52,9 +52,9 @@
         "maintainer": "City of York Council - Business Intelligence Hub",
         "maintainer_email": "business.intelligence@york.gov.uk",
         "metadata_created": "2015-06-12T14:15:19.019563",
-        "metadata_modified": "2017-07-19T09:35:18.163906",
+        "metadata_modified": "2018-06-28T10:59:45.145408",
         "name": "polling-districts",
-        "notes": "Polling Districts in York",
+        "notes": "Polling Districts in York.\r\n\r\n*Please note that the data published within this dataset is a live API link to CYC's GIS server. Any changes made to the master copy of the data will be inmediately reflected in the resources of this dataset.The date shown in the \"Last Updated\" field of each GIS resource reflects when the data was first published.",
         "num_resources": 3,
         "num_tags": 0,
         "organization": {
@@ -148,7 +148,7 @@
                 "webstore_url": null
             }
         ],
-        "revision_id": "afb48e5d-9fb1-43f1-9e5c-cb52fb0caae6",
+        "revision_id": "d27c7b29-8576-477e-86b4-b30fe629ded1",
         "state": "active",
         "tags": [],
         "title": "Polling Districts",
