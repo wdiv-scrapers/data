@@ -1,0 +1,792 @@
+[
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.623686921362539, 55.45026737678351], \"type\": \"Point\"}, \"properties\": {\"id\": 21, \"objectid\": 1, \"place\": \"YEOMANRY HOUSE TA CENTRE\", \"postcode\": \"KA7 2JQ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 21,
+        "objectid": 1,
+        "pk": 1,
+        "place": "YEOMANRY HOUSE TA CENTRE",
+        "postcode": "KA7 2JQ",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.61734774639875, 55.45354168297824], \"type\": \"Point\"}, \"properties\": {\"id\": 22, \"objectid\": 2, \"place\": \"FOREHILL LIBRARY\", \"postcode\": \"KA7 3EN\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 22,
+        "objectid": 2,
+        "pk": 2,
+        "place": "FOREHILL LIBRARY",
+        "postcode": "KA7 3EN",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.624872031805758, 55.46373285251351], \"type\": \"Point\"}, \"properties\": {\"id\": 23, \"objectid\": 3, \"place\": \"SALVATION ARMY HALL\", \"postcode\": \"KA8 0BS\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 23,
+        "objectid": 3,
+        "pk": 3,
+        "place": "SALVATION ARMY HALL",
+        "postcode": "KA8 0BS",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.61693125182397, 55.473115036077566], \"type\": \"Point\"}, \"properties\": {\"id\": 24, \"objectid\": 4, \"place\": \"HEATHFIELD COMMUNITY CENTRE\", \"postcode\": \"KA8 9JJ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 24,
+        "objectid": 4,
+        "pk": 4,
+        "place": "HEATHFIELD COMMUNITY CENTRE",
+        "postcode": "KA8 9JJ",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.614776711009796, 55.48323824381503], \"type\": \"Point\"}, \"properties\": {\"id\": 25, \"objectid\": 5, \"place\": \"HEATHFIELD PRIMARY SCHOOL\", \"postcode\": \"KA8 9DR\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 25,
+        "objectid": 5,
+        "pk": 5,
+        "place": "HEATHFIELD PRIMARY SCHOOL",
+        "postcode": "KA8 9DR",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.624466628330501, 55.551056263687165], \"type\": \"Point\"}, \"properties\": {\"id\": 26, \"objectid\": 6, \"place\": \"LOANS VILLAGE HALL\", \"postcode\": \"KA10 7EX\", \"town\": \"LOANS\"}, \"type\": \"Feature\"}",
+        "id": 26,
+        "objectid": 6,
+        "pk": 6,
+        "place": "LOANS VILLAGE HALL",
+        "postcode": "KA10 7EX",
+        "town": "LOANS"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.60106410456153, 55.462428523427846], \"type\": \"Point\"}, \"properties\": {\"id\": 27, \"objectid\": 7, \"place\": \"TEMPORARY POLLING PLACE\", \"postcode\": \"KA8 0SQ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 27,
+        "objectid": 7,
+        "pk": 7,
+        "place": "TEMPORARY POLLING PLACE",
+        "postcode": "KA8 0SQ",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.611434002726812, 55.471464865952804], \"type\": \"Point\"}, \"properties\": {\"id\": 28, \"objectid\": 8, \"place\": \"LOCHSIDE COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA8 9LH\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 28,
+        "objectid": 8,
+        "pk": 8,
+        "place": "LOCHSIDE COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA8 9LH",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.615815723862289, 55.48555635674604], \"type\": \"Point\"}, \"properties\": {\"id\": 29, \"objectid\": 9, \"place\": \"KINGCASE PARISH CHURCH HALL\", \"postcode\": \"KA9 2AA\", \"town\": \"PRESTWICK\"}, \"type\": \"Feature\"}",
+        "id": 29,
+        "objectid": 9,
+        "pk": 9,
+        "place": "KINGCASE PARISH CHURCH HALL",
+        "postcode": "KA9 2AA",
+        "town": "PRESTWICK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.607565422423204, 55.49967364791662], \"type\": \"Point\"}, \"properties\": {\"id\": 30, \"objectid\": 10, \"place\": \"PRESTWICK COMMUNITY CENTRE\", \"postcode\": \"KA9 1HY\", \"town\": \"PRESTWICK\"}, \"type\": \"Feature\"}",
+        "id": 30,
+        "objectid": 10,
+        "pk": 10,
+        "place": "PRESTWICK COMMUNITY CENTRE",
+        "postcode": "KA9 1HY",
+        "town": "PRESTWICK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.601993447601079, 55.468631524705714], \"type\": \"Point\"}, \"properties\": {\"id\": 32, \"objectid\": 11, \"place\": \"JOHN POLLOCK CENTRE\", \"postcode\": \"KA8 0QP\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 32,
+        "objectid": 11,
+        "pk": 11,
+        "place": "JOHN POLLOCK CENTRE",
+        "postcode": "KA8 0QP",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.598699362334932, 55.47354015625022], \"type\": \"Point\"}, \"properties\": {\"id\": 33, \"objectid\": 12, \"place\": \"WHITLETTS ACTIVITY CENTRE\", \"postcode\": \"KA8 9RN\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 33,
+        "objectid": 12,
+        "pk": 12,
+        "place": "WHITLETTS ACTIVITY CENTRE",
+        "postcode": "KA8 9RN",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.597712601071562, 55.49874022577856], \"type\": \"Point\"}, \"properties\": {\"id\": 34, \"objectid\": 13, \"place\": \"ST. NINIANS PRIMARY SCHOOL\", \"postcode\": \"KA9 2LJ\", \"town\": \"PRESTWICK\"}, \"type\": \"Feature\"}",
+        "id": 34,
+        "objectid": 13,
+        "pk": 13,
+        "place": "ST. NINIANS PRIMARY SCHOOL",
+        "postcode": "KA9 2LJ",
+        "town": "PRESTWICK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.593035573659783, 55.57496971834755], \"type\": \"Point\"}, \"properties\": {\"id\": 35, \"objectid\": 14, \"place\": \"MONTGOMERIE HALL\", \"postcode\": \"KA2 9HG\", \"town\": \"DUNDONALD\"}, \"type\": \"Feature\"}",
+        "id": 35,
+        "objectid": 14,
+        "pk": 14,
+        "place": "MONTGOMERIE HALL",
+        "postcode": "KA2 9HG",
+        "town": "DUNDONALD"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.552355246320539, 55.31162237220652], \"type\": \"Point\"}, \"properties\": {\"id\": 36, \"objectid\": 15, \"place\": \"MCCANDLISH HALL\", \"postcode\": \"KA197NF\", \"town\": \"STRAITON\"}, \"type\": \"Feature\"}",
+        "id": 36,
+        "objectid": 15,
+        "pk": 15,
+        "place": "MCCANDLISH HALL",
+        "postcode": "KA197NF",
+        "town": "STRAITON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.564140244035463, 55.54991975791831], \"type\": \"Point\"}, \"properties\": {\"id\": 37, \"objectid\": 16, \"place\": \"SYMINGTON COMMUNITY HALL\", \"postcode\": \"KA1 5QE\", \"town\": \"SYMINGTON\"}, \"type\": \"Feature\"}",
+        "id": 37,
+        "objectid": 16,
+        "pk": 16,
+        "place": "SYMINGTON COMMUNITY HALL",
+        "postcode": "KA1 5QE",
+        "town": "SYMINGTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.5231559375820565, 55.47587181113316], \"type\": \"Point\"}, \"properties\": {\"id\": 38, \"objectid\": 17, \"place\": \"ANNBANK VILLAGE HALL\", \"postcode\": \"KA6 5EQ\", \"town\": \"ANNBANK\"}, \"type\": \"Feature\"}",
+        "id": 38,
+        "objectid": 17,
+        "pk": 17,
+        "place": "ANNBANK VILLAGE HALL",
+        "postcode": "KA6 5EQ",
+        "town": "ANNBANK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.532197215980225, 55.48949132234269], \"type\": \"Point\"}, \"properties\": {\"id\": 39, \"objectid\": 18, \"place\": \"MOSSBLOWN ACTIVITY CENTRE\", \"postcode\": \"KA6 5BA\", \"town\": \"MOSSBLOWN\"}, \"type\": \"Feature\"}",
+        "id": 39,
+        "objectid": 18,
+        "pk": 18,
+        "place": "MOSSBLOWN ACTIVITY CENTRE",
+        "postcode": "KA6 5BA",
+        "town": "MOSSBLOWN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.515687900863181, 55.44314899869079], \"type\": \"Point\"}, \"properties\": {\"id\": 40, \"objectid\": 19, \"place\": \"COYLTON ACTIVITY CENTRE\", \"postcode\": \"KA6 6JL\", \"town\": \"COYLTON\"}, \"type\": \"Feature\"}",
+        "id": 40,
+        "objectid": 19,
+        "pk": 19,
+        "place": "COYLTON ACTIVITY CENTRE",
+        "postcode": "KA6 6JL",
+        "town": "COYLTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.49499962275762, 55.558506269158016], \"type\": \"Point\"}, \"properties\": {\"id\": 41, \"objectid\": 20, \"place\": \"CRAIGIE VILLAGE HALL\", \"postcode\": \"KA1 5LY\", \"town\": \"CRAIGIE\"}, \"type\": \"Feature\"}",
+        "id": 41,
+        "objectid": 20,
+        "pk": 20,
+        "place": "CRAIGIE VILLAGE HALL",
+        "postcode": "KA1 5LY",
+        "town": "CRAIGIE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.486136958191063, 55.5121754267984], \"type\": \"Point\"}, \"properties\": {\"id\": 42, \"objectid\": 21, \"place\": \"TARBOLTON COMMUNITY CAMPUS\", \"postcode\": \"KA5 5QD\", \"town\": \"TARBOLTON\"}, \"type\": \"Feature\"}",
+        "id": 42,
+        "objectid": 21,
+        "pk": 21,
+        "place": "TARBOLTON COMMUNITY CAMPUS",
+        "postcode": "KA5 5QD",
+        "town": "TARBOLTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.005127046022591, 55.10097273862218], \"type\": \"Point\"}, \"properties\": {\"id\": 43, \"objectid\": 22, \"place\": \"BALLANTRAE COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA26 0NH\", \"town\": \"BALLANTRAE\"}, \"type\": \"Feature\"}",
+        "id": 43,
+        "objectid": 22,
+        "pk": 22,
+        "place": "BALLANTRAE COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA26 0NH",
+        "town": "BALLANTRAE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.936008253121226, 55.168725460291824], \"type\": \"Point\"}, \"properties\": {\"id\": 44, \"objectid\": 23, \"place\": \"LENDALFOOT HALL\", \"postcode\": \"KA26 0JG\", \"town\": \"LENDALFOOT\"}, \"type\": \"Feature\"}",
+        "id": 44,
+        "objectid": 23,
+        "pk": 23,
+        "place": "LENDALFOOT HALL",
+        "postcode": "KA26 0JG",
+        "town": "LENDALFOOT"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.907451831668878, 55.13326418687839], \"type\": \"Point\"}, \"properties\": {\"id\": 45, \"objectid\": 24, \"place\": \"COLMONELL COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA26 0RY\", \"town\": \"COLMONELL\"}, \"type\": \"Feature\"}",
+        "id": 45,
+        "objectid": 24,
+        "pk": 24,
+        "place": "COLMONELL COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA26 0RY",
+        "town": "COLMONELL"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.619000761430097, 55.45215716318008], \"type\": \"Point\"}, \"properties\": {\"id\": 67, \"objectid\": 25, \"place\": \"CHURCH OF JESUS CHRIST LDS HALL\", \"postcode\": \"KA7 1DB\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 67,
+        "objectid": 25,
+        "pk": 25,
+        "place": "CHURCH OF JESUS CHRIST LDS HALL",
+        "postcode": "KA7 1DB",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.604612167317809, 55.51666706452307], \"type\": \"Point\"}, \"properties\": {\"id\": 31, \"objectid\": 26, \"place\": \"MONKTON PRIMARY SCHOOL\", \"postcode\": \"KA9 2RH\", \"town\": \"MONKTON\"}, \"type\": \"Feature\"}",
+        "id": 31,
+        "objectid": 26,
+        "pk": 26,
+        "place": "MONKTON PRIMARY SCHOOL",
+        "postcode": "KA9 2RH",
+        "town": "MONKTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.824396565265876, 55.332996947417655], \"type\": \"Point\"}, \"properties\": {\"id\": 1, \"objectid\": 27, \"place\": \"MAIDENS BOWLING CLUB\", \"postcode\": \"KA26 9NR\", \"town\": \"MAIDENS\"}, \"type\": \"Feature\"}",
+        "id": 1,
+        "objectid": 27,
+        "pk": 27,
+        "place": "MAIDENS BOWLING CLUB",
+        "postcode": "KA26 9NR",
+        "town": "MAIDENS"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.770639608368839, 55.33111163942001], \"type\": \"Point\"}, \"properties\": {\"id\": 2, \"objectid\": 28, \"place\": \"RICHMOND HALL\", \"postcode\": \"KA19 8HY\", \"town\": \"KIRKOSWALD\"}, \"type\": \"Feature\"}",
+        "id": 2,
+        "objectid": 28,
+        "pk": 28,
+        "place": "RICHMOND HALL",
+        "postcode": "KA19 8HY",
+        "town": "KIRKOSWALD"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.759469885256345, 55.40651043950845], \"type\": \"Point\"}, \"properties\": {\"id\": 3, \"objectid\": 29, \"place\": \"KENNEDY HALL\", \"postcode\": \"KA7 4LX\", \"town\": \"DUNURE\"}, \"type\": \"Feature\"}",
+        "id": 3,
+        "objectid": 29,
+        "pk": 29,
+        "place": "KENNEDY HALL",
+        "postcode": "KA7 4LX",
+        "town": "DUNURE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.726164214891589, 55.27749432389605], \"type\": \"Point\"}, \"properties\": {\"id\": 4, \"objectid\": 30, \"place\": \"DAILLY COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA26 9NR\", \"town\": \"DAILLY\"}, \"type\": \"Feature\"}",
+        "id": 4,
+        "objectid": 30,
+        "pk": 30,
+        "place": "DAILLY COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA26 9NR",
+        "town": "DAILLY"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.683994043887044, 55.35506423251303], \"type\": \"Point\"}, \"properties\": {\"id\": 5, \"objectid\": 31, \"place\": \"CARRICK CENTRE\", \"postcode\": \"KA19 7DE\", \"town\": \"MAYBOLE\"}, \"type\": \"Feature\"}",
+        "id": 5,
+        "objectid": 31,
+        "pk": 31,
+        "place": "CARRICK CENTRE",
+        "postcode": "KA19 7DE",
+        "town": "MAYBOLE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6826946974799295, 55.353331533537244], \"type\": \"Point\"}, \"properties\": {\"id\": 6, \"objectid\": 32, \"place\": \"MAYBOLE TOWN HALL\", \"postcode\": \"KA19 7BZ\", \"town\": \"MAYBOLE\"}, \"type\": \"Feature\"}",
+        "id": 6,
+        "objectid": 32,
+        "pk": 32,
+        "place": "MAYBOLE TOWN HALL",
+        "postcode": "KA19 7BZ",
+        "town": "MAYBOLE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.658190156622213, 55.436874521222876], \"type\": \"Point\"}, \"properties\": {\"id\": 7, \"objectid\": 33, \"place\": \"DOONFOOT PRIMARY SCHOOL IFE WING\", \"postcode\": \"KA7 4HJ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 7,
+        "objectid": 33,
+        "pk": 33,
+        "place": "DOONFOOT PRIMARY SCHOOL IFE WING",
+        "postcode": "KA7 4HJ",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.636498219087169, 55.324533488993595], \"type\": \"Point\"}, \"properties\": {\"id\": 8, \"objectid\": 34, \"place\": \"CROSSHILL COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA19 7RH\", \"town\": \"CROSSHILL\"}, \"type\": \"Feature\"}",
+        "id": 8,
+        "objectid": 34,
+        "pk": 34,
+        "place": "CROSSHILL COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA19 7RH",
+        "town": "CROSSHILL"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6439540709438205, 55.39065670684903], \"type\": \"Point\"}, \"properties\": {\"id\": 9, \"objectid\": 35, \"place\": \"MINISHANT PRIMARY SCHOOL IFE WING\", \"postcode\": \"KA19 8ES\", \"town\": \"MINISHANT\"}, \"type\": \"Feature\"}",
+        "id": 9,
+        "objectid": 35,
+        "pk": 35,
+        "place": "MINISHANT PRIMARY SCHOOL IFE WING",
+        "postcode": "KA19 8ES",
+        "town": "MINISHANT"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.653404194936243, 55.544573413976465], \"type\": \"Point\"}, \"properties\": {\"id\": 10, \"objectid\": 36, \"place\": \"OUR LADY CHURCH HALL\", \"postcode\": \"KA10 6NJ\", \"town\": \"TROON\"}, \"type\": \"Feature\"}",
+        "id": 10,
+        "objectid": 36,
+        "pk": 36,
+        "place": "OUR LADY CHURCH HALL",
+        "postcode": "KA10 6NJ",
+        "town": "TROON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.662401522760956, 55.5422439708106], \"type\": \"Point\"}, \"properties\": {\"id\": 11, \"objectid\": 37, \"place\": \"WALKER HALL\", \"postcode\": \"KA10 6EF\", \"town\": \"TROON\"}, \"type\": \"Feature\"}",
+        "id": 11,
+        "objectid": 37,
+        "pk": 37,
+        "place": "WALKER HALL",
+        "postcode": "KA10 6EF",
+        "town": "TROON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.654116996844771, 55.55636045423038], \"type\": \"Point\"}, \"properties\": {\"id\": 12, \"objectid\": 38, \"place\": \"BARASSIE PRIMARY SCHOOL\", \"postcode\": \"KA10 6RQ\", \"town\": \"TROON\"}, \"type\": \"Feature\"}",
+        "id": 12,
+        "objectid": 38,
+        "pk": 38,
+        "place": "BARASSIE PRIMARY SCHOOL",
+        "postcode": "KA10 6RQ",
+        "town": "TROON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.631044585665979, 55.4302892274763], \"type\": \"Point\"}, \"properties\": {\"id\": 13, \"objectid\": 39, \"place\": \"ALLOWAY PRIMARY SCHOOL\", \"postcode\": \"KA7 4QQ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 13,
+        "objectid": 39,
+        "pk": 39,
+        "place": "ALLOWAY PRIMARY SCHOOL",
+        "postcode": "KA7 4QQ",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6276642078679115, 55.46267719090481], \"type\": \"Point\"}, \"properties\": {\"id\": 14, \"objectid\": 40, \"place\": \"AULD KIRK HALLS\", \"postcode\": \"KA7 1TT\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 14,
+        "objectid": 40,
+        "pk": 40,
+        "place": "AULD KIRK HALLS",
+        "postcode": "KA7 1TT",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.629553131873768, 55.4551585572237], \"type\": \"Point\"}, \"properties\": {\"id\": 15, \"objectid\": 41, \"place\": \"AYR GRAMMAR PRIMARY SCHOOL\", \"postcode\": \"KA7 2DL\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 15,
+        "objectid": 41,
+        "pk": 41,
+        "place": "AYR GRAMMAR PRIMARY SCHOOL",
+        "postcode": "KA7 2DL",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6294930214809185, 55.46741237164404], \"type\": \"Point\"}, \"properties\": {\"id\": 16, \"objectid\": 42, \"place\": \"NEWTON WALLACETOWN CHURCH HALL\", \"postcode\": \"KA8 8EF\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 16,
+        "objectid": 42,
+        "pk": 42,
+        "place": "NEWTON WALLACETOWN CHURCH HALL",
+        "postcode": "KA8 8EF",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.636783535075589, 55.55043390561326], \"type\": \"Point\"}, \"properties\": {\"id\": 17, \"objectid\": 43, \"place\": \"MUIRHEAD ACTIVITY CENTRE\", \"postcode\": \"KA10 7AZ\", \"town\": \"TROON\"}, \"type\": \"Feature\"}",
+        "id": 17,
+        "objectid": 43,
+        "pk": 43,
+        "place": "MUIRHEAD ACTIVITY CENTRE",
+        "postcode": "KA10 7AZ",
+        "town": "TROON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.617432411286779, 55.34623935384862], \"type\": \"Point\"}, \"properties\": {\"id\": 18, \"objectid\": 44, \"place\": \"MCCOSH HALL\", \"postcode\": \"KA19 7PJ\", \"town\": \"KIRKMICHAEL\"}, \"type\": \"Feature\"}",
+        "id": 18,
+        "objectid": 44,
+        "pk": 44,
+        "place": "MCCOSH HALL",
+        "postcode": "KA19 7PJ",
+        "town": "KIRKMICHAEL"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.607852340455163, 55.44201004219156], \"type\": \"Point\"}, \"properties\": {\"id\": 19, \"objectid\": 45, \"place\": \"KINCAIDSTON COMMUNITY PAVILION\", \"postcode\": \"KA7 3XA\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 19,
+        "objectid": 45,
+        "pk": 45,
+        "place": "KINCAIDSTON COMMUNITY PAVILION",
+        "postcode": "KA7 3XA",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.613800421612969, 55.446136906982474], \"type\": \"Point\"}, \"properties\": {\"id\": 20, \"objectid\": 46, \"place\": \"ST PAULS RC CHURCH HALL\", \"postcode\": \"KA7 3RF\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 20,
+        "objectid": 46,
+        "pk": 46,
+        "place": "ST PAULS RC CHURCH HALL",
+        "postcode": "KA7 3RF",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.858727033385697, 55.24015778233322], \"type\": \"Point\"}, \"properties\": {\"id\": 69, \"objectid\": 47, \"place\": \"GIRVAN SOUTH PARISH CHURCH HALL\", \"postcode\": \"KA26 9AX\", \"town\": \"GIRVAN\"}, \"type\": \"Feature\"}",
+        "id": 69,
+        "objectid": 47,
+        "pk": 47,
+        "place": "GIRVAN SOUTH PARISH CHURCH HALL",
+        "postcode": "KA26 9AX",
+        "town": "GIRVAN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.8523367390448575, 55.24401523199555], \"type\": \"Point\"}, \"properties\": {\"id\": 46, \"objectid\": 48, \"place\": \"GIRVAN NORTH PARISH CHURCH HALL\", \"postcode\": \"KA26 9AN\", \"town\": \"GIRVAN\"}, \"type\": \"Feature\"}",
+        "id": 46,
+        "objectid": 48,
+        "pk": 48,
+        "place": "GIRVAN NORTH PARISH CHURCH HALL",
+        "postcode": "KA26 9AN",
+        "town": "GIRVAN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.772429504235854, 55.10371998937519], \"type\": \"Point\"}, \"properties\": {\"id\": 47, \"objectid\": 49, \"place\": \"BARRHILL COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA26 0PP\", \"town\": \"BARRHILL\"}, \"type\": \"Feature\"}",
+        "id": 47,
+        "objectid": 49,
+        "pk": 49,
+        "place": "BARRHILL COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA26 0PP",
+        "town": "BARRHILL"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.712061808449809, 55.21086074344182], \"type\": \"Point\"}, \"properties\": {\"id\": 48, \"objectid\": 50, \"place\": \"BARR COMMUNITY EDUCATION CENTRE\", \"postcode\": \"KA26 9TW\", \"town\": \"BARR\"}, \"type\": \"Feature\"}",
+        "id": 48,
+        "objectid": 50,
+        "pk": 50,
+        "place": "BARR COMMUNITY EDUCATION CENTRE",
+        "postcode": "KA26 9TW",
+        "town": "BARR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.859104793900399, 55.241620635305694], \"type\": \"Point\"}, \"properties\": {\"id\": 70, \"objectid\": 51, \"place\": \"SACRED HEART RC CHURCH HALL\", \"postcode\": \"KA26 9AL\", \"town\": \"GIRVAN\"}, \"type\": \"Feature\"}",
+        "id": 70,
+        "objectid": 51,
+        "pk": 51,
+        "place": "SACRED HEART RC CHURCH HALL",
+        "postcode": "KA26 9AL",
+        "town": "GIRVAN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.632864430883045, 55.46140774643137], \"type\": \"Point\"}, \"properties\": {\"id\": 68, \"objectid\": 52, \"place\": \"HOLY TRINITY CHURCH HALL\", \"postcode\": \"KA7 1UB\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "id": 68,
+        "objectid": 52,
+        "pk": 52,
+        "place": "HOLY TRINITY CHURCH HALL",
+        "postcode": "KA7 1UB",
+        "town": "AYR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.471356779620831, 55.466481889473066], \"type\": \"Point\"}, \"properties\": {\"id\": 54, \"objectid\": 53, \"place\": \"STAIR COMMUNITY CENTRE\", \"postcode\": \"KA5 5JB\", \"town\": \"STAIR\"}, \"type\": \"Feature\"}",
+        "id": 54,
+        "objectid": 53,
+        "pk": 53,
+        "place": "STAIR COMMUNITY CENTRE",
+        "postcode": "KA5 5JB",
+        "town": "STAIR"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.4472440155148325, 55.399826276883914], \"type\": \"Point\"}, \"properties\": {\"id\": 56, \"objectid\": 54, \"place\": \"RANKINSTON COMMUNITY CENTRE\", \"postcode\": \" \", \"town\": \"RANKINSTON\"}, \"type\": \"Feature\"}",
+        "id": 56,
+        "objectid": 54,
+        "pk": 54,
+        "place": "RANKINSTON COMMUNITY CENTRE",
+        "postcode": "",
+        "town": "RANKINSTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.250251327568427, 55.44212444740789], \"type\": \"Point\"}, \"properties\": {\"id\": 58, \"objectid\": 55, \"place\": \"NETHERTHIRD COMMUNITY CENTRE\", \"postcode\": \" \", \"town\": \"CUMNOCK\"}, \"type\": \"Feature\"}",
+        "id": 58,
+        "objectid": 55,
+        "pk": 55,
+        "place": "NETHERTHIRD COMMUNITY CENTRE",
+        "postcode": "",
+        "town": "CUMNOCK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.500943124405811, 55.36099415429774], \"type\": \"Point\"}, \"properties\": {\"id\": 62, \"objectid\": 56, \"place\": \"PATNA COMMUNITY CENTRE\", \"postcode\": \" \", \"town\": \"PATNA\"}, \"type\": \"Feature\"}",
+        "id": 62,
+        "objectid": 56,
+        "pk": 56,
+        "place": "PATNA COMMUNITY CENTRE",
+        "postcode": "",
+        "town": "PATNA"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.402911288166282, 55.32417014453885], \"type\": \"Point\"}, \"properties\": {\"id\": 63, \"objectid\": 57, \"place\": \"DALMELLINGTON COMMUNITY CENTRE\", \"postcode\": \" \", \"town\": \"DALMELLINGTON\"}, \"type\": \"Feature\"}",
+        "id": 63,
+        "objectid": 57,
+        "pk": 57,
+        "place": "DALMELLINGTON COMMUNITY CENTRE",
+        "postcode": "",
+        "town": "DALMELLINGTON"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.399164084023553, 55.313015752488816], \"type\": \"Point\"}, \"properties\": {\"id\": 64, \"objectid\": 58, \"place\": \"BELLSBANK PRIMARY SCHOOL\", \"postcode\": \" \", \"town\": \"BELLSBANK\"}, \"type\": \"Feature\"}",
+        "id": 64,
+        "objectid": 58,
+        "pk": 58,
+        "place": "BELLSBANK PRIMARY SCHOOL",
+        "postcode": "",
+        "town": "BELLSBANK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.460023385501975, 55.43222974058606], \"type\": \"Point\"}, \"properties\": {\"id\": 55, \"objectid\": 59, \"place\": \"DRONGAN PRIMARY SCHOOL\", \"postcode\": \" \", \"town\": \"DRONGAN\"}, \"type\": \"Feature\"}",
+        "id": 55,
+        "objectid": 59,
+        "pk": 59,
+        "place": "DRONGAN PRIMARY SCHOOL",
+        "postcode": "",
+        "town": "DRONGAN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.592893790738096, 55.39838295292048], \"type\": \"Point\"}, \"properties\": {\"id\": 61, \"objectid\": 60, \"place\": \"DALYMPLE PRIMARY SCHOOL\", \"postcode\": \" \", \"town\": \"DALRYMPLE\"}, \"type\": \"Feature\"}",
+        "id": 61,
+        "objectid": 60,
+        "pk": 60,
+        "place": "DALYMPLE PRIMARY SCHOOL",
+        "postcode": "",
+        "town": "DALRYMPLE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.184487509441357, 55.394570471450486], \"type\": \"Point\"}, \"properties\": {\"id\": 65, \"objectid\": 61, \"place\": \"NEW CUMNOCK PRIMARY SCHOOL\", \"postcode\": \"KA18 4AH\", \"town\": \"NEW CUMNOCK\"}, \"type\": \"Feature\"}",
+        "id": 65,
+        "objectid": 61,
+        "pk": 61,
+        "place": "NEW CUMNOCK PRIMARY SCHOOL",
+        "postcode": "KA18 4AH",
+        "town": "NEW CUMNOCK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.263477683443649, 55.452225950492384], \"type\": \"Point\"}, \"properties\": {\"id\": 60, \"objectid\": 62, \"place\": \"CUMNOCK TOWN HALL\", \"postcode\": \"KA18 1BY\", \"town\": \"CUMNOCK\"}, \"type\": \"Feature\"}",
+        "id": 60,
+        "objectid": 62,
+        "pk": 62,
+        "place": "CUMNOCK TOWN HALL",
+        "postcode": "KA18 1BY",
+        "town": "CUMNOCK"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.365289040931674, 55.460360788119864], \"type\": \"Point\"}, \"properties\": {\"id\": 57, \"objectid\": 63, \"place\": \"OCHILTREE PRIMARY SCHOOL\", \"postcode\": \" \", \"town\": \"OCHILTREE\"}, \"type\": \"Feature\"}",
+        "id": 57,
+        "objectid": 63,
+        "pk": 63,
+        "place": "OCHILTREE PRIMARY SCHOOL",
+        "postcode": "",
+        "town": "OCHILTREE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6847342649102695, 55.65289384273728], \"type\": \"Point\"}, \"properties\": {\"id\": 86, \"objectid\": 64, \"place\": \"WILLIAM LOVE MEMORIAL HALL\", \"postcode\": \"KA13 7LF\", \"town\": \"KILWINNING\"}, \"type\": \"Feature\"}",
+        "id": 86,
+        "objectid": 64,
+        "pk": 64,
+        "place": "WILLIAM LOVE MEMORIAL HALL",
+        "postcode": "KA13 7LF",
+        "town": "KILWINNING"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.666866151829725, 55.629960269424906], \"type\": \"Point\"}, \"properties\": {\"id\": 71, \"objectid\": 65, \"place\": \"CASTLEPARK COMMUNITY CENTRE\", \"postcode\": \"KA12 9LQ\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 71,
+        "objectid": 65,
+        "pk": 65,
+        "place": "CASTLEPARK COMMUNITY CENTRE",
+        "postcode": "KA12 9LQ",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6649443521857625, 55.629065236685086], \"type\": \"Point\"}, \"properties\": {\"id\": 72, \"objectid\": 66, \"place\": \"REDBURN CENTRE\", \"postcode\": \"KA12 9EW\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 72,
+        "objectid": 66,
+        "pk": 66,
+        "place": "REDBURN CENTRE",
+        "postcode": "KA12 9EW",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.66365297351132, 55.62117712345196], \"type\": \"Point\"}, \"properties\": {\"id\": 73, \"objectid\": 67, \"place\": \"VINEBURGH COMMUNITY CENTRE\", \"postcode\": \"KA12 0PS\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 73,
+        "objectid": 67,
+        "pk": 67,
+        "place": "VINEBURGH COMMUNITY CENTRE",
+        "postcode": "KA12 0PS",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.650746599367045, 55.62096053094539], \"type\": \"Point\"}, \"properties\": {\"id\": 74, \"objectid\": 68, \"place\": \"ST MARK'S PRIMARY SCHOOL\", \"postcode\": \"KA12 0NS\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 74,
+        "objectid": 68,
+        "pk": 68,
+        "place": "ST MARK'S PRIMARY SCHOOL",
+        "postcode": "KA12 0NS",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.665056050292381, 55.612917156142004], \"type\": \"Point\"}, \"properties\": {\"id\": 75, \"objectid\": 69, \"place\": \"VOLUNTEER ROOMS\", \"postcode\": \"KA12 0BA\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 75,
+        "objectid": 69,
+        "pk": 69,
+        "place": "VOLUNTEER ROOMS",
+        "postcode": "KA12 0BA",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.604036101177452, 55.59483302591599], \"type\": \"Point\"}, \"properties\": {\"id\": 77, \"objectid\": 70, \"place\": \"DRYBRIDGE COMMUNITY HALL\", \"postcode\": \"KA11 5BY\", \"town\": \"DRYBRIDGE\"}, \"type\": \"Feature\"}",
+        "id": 77,
+        "objectid": 70,
+        "pk": 70,
+        "place": "DRYBRIDGE COMMUNITY HALL",
+        "postcode": "KA11 5BY",
+        "town": "DRYBRIDGE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6367299446787635, 55.62643949437258], \"type\": \"Point\"}, \"properties\": {\"id\": 78, \"objectid\": 71, \"place\": \"STANECASTLE SCHOOL\", \"postcode\": \"KA11 1AQ\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 78,
+        "objectid": 71,
+        "pk": 71,
+        "place": "STANECASTLE SCHOOL",
+        "postcode": "KA11 1AQ",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.630000097614659, 55.63126729632749], \"type\": \"Point\"}, \"properties\": {\"id\": 79, \"objectid\": 72, \"place\": \"LITTLESTANE COMMUNITY CENTRE\", \"postcode\": \"KA11 2EX\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 79,
+        "objectid": 72,
+        "pk": 72,
+        "place": "LITTLESTANE COMMUNITY CENTRE",
+        "postcode": "KA11 2EX",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6287369688672575, 55.61905094837299], \"type\": \"Point\"}, \"properties\": {\"id\": 80, \"objectid\": 73, \"place\": \"TOWERLANDS COMMUNITY CENTRE\", \"postcode\": \"KA11 1PY\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 80,
+        "objectid": 73,
+        "pk": 73,
+        "place": "TOWERLANDS COMMUNITY CENTRE",
+        "postcode": "KA11 1PY",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.590169219275436, 55.615493583326554], \"type\": \"Point\"}, \"properties\": {\"id\": 81, \"objectid\": 74, \"place\": \"SPRINGSIDE COMMUNITY CENTRE\", \"postcode\": \"KA11 3BG\", \"town\": \"SPRINGSIDE\"}, \"type\": \"Feature\"}",
+        "id": 81,
+        "objectid": 74,
+        "pk": 74,
+        "place": "SPRINGSIDE COMMUNITY CENTRE",
+        "postcode": "KA11 3BG",
+        "town": "SPRINGSIDE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6349663566056165, 55.61238749686922], \"type\": \"Point\"}, \"properties\": {\"id\": 82, \"objectid\": 75, \"place\": \"ELDERBANK PRIMARY SCHOOL\", \"postcode\": \"KA11 1LA\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 82,
+        "objectid": 75,
+        "pk": 75,
+        "place": "ELDERBANK PRIMARY SCHOOL",
+        "postcode": "KA11 1LA",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.619594860229635, 55.60846139261858], \"type\": \"Point\"}, \"properties\": {\"id\": 83, \"objectid\": 76, \"place\": \"TOWNEND COMMUNITY CENTRE\", \"postcode\": \"KA11 4EQ\", \"town\": \"DREGHORN\"}, \"type\": \"Feature\"}",
+        "id": 83,
+        "objectid": 76,
+        "pk": 76,
+        "place": "TOWNEND COMMUNITY CENTRE",
+        "postcode": "KA11 4EQ",
+        "town": "DREGHORN"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.639752556898822, 55.63069704954533], \"type\": \"Point\"}, \"properties\": {\"id\": 84, \"objectid\": 77, \"place\": \"LANFINE COMMUNITY CENTRE\", \"postcode\": \"KA11 1BT\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 84,
+        "objectid": 77,
+        "pk": 77,
+        "place": "LANFINE COMMUNITY CENTRE",
+        "postcode": "KA11 1BT",
+        "town": "IRVINE"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6901840119463785, 55.64680382915695], \"type\": \"Point\"}, \"properties\": {\"id\": 85, \"objectid\": 78, \"place\": \"DIRRANS SPORTS PAVILION\", \"postcode\": \"KA13 7PH\", \"town\": \"KILWINNING\"}, \"type\": \"Feature\"}",
+        "id": 85,
+        "objectid": 78,
+        "pk": 78,
+        "place": "DIRRANS SPORTS PAVILION",
+        "postcode": "KA13 7PH",
+        "town": "KILWINNING"
+    },
+    {
+        "council_id": "S12000028",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.66459067617833, 55.609692306972846], \"type\": \"Point\"}, \"properties\": {\"id\": 76, \"objectid\": 79, \"place\": \"LOUDOUN MONTGOMERY PRIMARY SCHOOL\", \"postcode\": \"KA12 8DF\", \"town\": \"IRVINE\"}, \"type\": \"Feature\"}",
+        "id": 76,
+        "objectid": 79,
+        "pk": 79,
+        "place": "LOUDOUN MONTGOMERY PRIMARY SCHOOL",
+        "postcode": "KA12 8DF",
+        "town": "IRVINE"
+    }
+]
