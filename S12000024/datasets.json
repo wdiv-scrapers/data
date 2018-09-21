@@ -948,10 +948,6 @@
                 },
                 {
                     "count": 10,
-                    "name": "road edges"
-                },
-                {
-                    "count": 10,
                     "name": "mississippi"
                 },
                 {
@@ -969,6 +965,10 @@
                 {
                     "count": 9,
                     "name": "sidewalks"
+                },
+                {
+                    "count": 9,
+                    "name": "road edges"
                 },
                 {
                     "count": 9,
@@ -1188,6 +1188,10 @@
                 },
                 {
                     "count": 5,
+                    "name": "gis"
+                },
+                {
+                    "count": 5,
                     "name": "camera"
                 },
                 {
@@ -1277,10 +1281,6 @@
                 {
                     "count": 4,
                     "name": "dot"
-                },
-                {
-                    "count": 4,
-                    "name": "department"
                 }
             ],
             "total_count": 3
