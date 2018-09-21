@@ -1,1 +1,752 @@
-{"id":"c1cf0109-3272-4ff3-bd06-8a7b6963a8b1","slug":"polling-station-districts","parent":"c13bd7f3-e8ea-4362-9481-6f9f108a4e74","private":false,"state":"active","title":"Polling Districts","author":"Calderdale Council","author_email":"","maintainer":"Calderdale Council","maintainer_email":"","tags":["polling","polling stations","polling station districts","democracy"],"resources":{"d96c03f5-95fa-4d30-96b3-66cf101fe814":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip","format":"zip","description":"","temporal_coverage_from":"2016-03-01","temporal_coverage_to":"2017-03-01","order":0,"title":"Polling Station Districts - Tab Files","check_timestamp":"2018-02-26T10:20:46.010Z","check_http_status":200,"check_mimetype":"application/zip","check_size":755510,"check_hash":"1f04b450a0146e42f4b3cf006ec059fa","versions":[{"timestamp":"2016-03-03T09:41:44.452Z","format":"ZIP","size":1066730,"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2016-03-03T09:41:39/Polling station districts.zip"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2016-03-03T09:41:39/Polling station districts.zip","format":"zip","size":1066730,"timestamp":"2017-05-10T20:26:21.345Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:58:54.50/tab files.zip","format":"zip","size":18516,"timestamp":"2017-05-26T10:59:19.592Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:02:20.08/Tab files.zip","format":"zip","size":1074918,"timestamp":"2017-05-26T11:02:52.437Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip","format":"zip","size":755510,"timestamp":"2018-02-26T10:21:36.926Z"}]},"6967eed3-0513-496b-b305-21802d6d00f4":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:54:38.73/Brighouse.pdf","title":"Brighouse ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:54:38.73/Brighouse.pdf","format":"","size":null,"timestamp":"2017-05-26T09:54:47.407Z"}],"order":4,"check_http_status":200,"check_hash":"3740b36f089bd6199811990ea1392f56","check_size":354595,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:54:47.647Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"5f56d3ec-1801-415d-8310-e29c9b3967de":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:55:41.30/Calder.pdf","title":"Calder ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:55:41.30/Calder.pdf","format":"","size":null,"timestamp":"2017-05-26T09:55:56.220Z"}],"order":5,"check_http_status":200,"check_hash":"12933a484dde40bde35f587bf6b071f7","check_size":582089,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:55:56.473Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"d66d63db-43e5-44af-83dd-21fd26aced0a":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:16.14/Elland.pdf","title":"Elland ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:16.14/Elland.pdf","format":"","size":null,"timestamp":"2017-05-26T09:56:24.311Z"}],"order":6,"check_http_status":200,"check_hash":"8d5364ae4cdab2bde73ac97a4f11bc45","check_size":364751,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:56:24.473Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"6d0f21a1-9da3-494e-9083-7dc2cbd8d81a":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:47.22/Greetland and Stainland.pdf","title":"Greetland and Stainland ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:47.22/Greetland and Stainland.pdf","format":"","size":null,"timestamp":"2017-05-26T09:57:03.970Z"}],"order":7,"check_http_status":200,"check_hash":"e9c1a824927ae7aa7641fc92c07d469d","check_size":395094,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:57:04.252Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"8ac1097e-72b2-4622-b4b3-f4d098a73a4f":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:58:47.11/Hipperholme and Lightcliffe.pdf","title":"Hipperholme and Lightcliffe ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:58:47.11/Hipperholme and Lightcliffe.pdf","format":"","size":null,"timestamp":"2017-05-26T09:58:53.381Z"}],"order":8,"check_http_status":200,"check_hash":"d28ccbb38f63e9183fc777eef554d6ec","check_size":329480,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:58:53.596Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"81773e19-fca5-4074-b588-fd3130e65026":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:59:29.76/Illingworth and Mixenden.pdf","title":"Illingworth and Mixenden ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:59:29.76/Illingworth and Mixenden.pdf","format":"","size":null,"timestamp":"2017-05-26T09:59:34.525Z"}],"order":9,"check_http_status":200,"check_hash":"ef84f9bf615001712b0f303f7bbd761c","check_size":307423,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T09:59:34.645Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"1db9502f-961f-48c5-a3ec-d9685b76c8dd":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:00:08.15/Luddendenfoot.pdf","title":"Luddendenfoot ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:00:08.15/Luddendenfoot.pdf","format":"","size":null,"timestamp":"2017-05-26T10:00:16.115Z"}],"order":10,"check_http_status":200,"check_hash":"28bdc998c40c3374699bebb3877f562a","check_size":381368,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:00:16.337Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"c0d13570-1b4d-4258-adaf-177405bf394d":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:02.18/Northowram and Shelf.pdf","title":"Northowram and Shelf ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:02.18/Northowram and Shelf.pdf","format":"","size":null,"timestamp":"2017-05-26T10:01:09.537Z"}],"order":11,"check_http_status":200,"check_hash":"a0e04050ab15654eb20f7a360da91772","check_size":359020,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:01:10.040Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"4fa0969c-27ae-47a6-bbcd-ec3ae58e786c":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:45.87/Ovenden.pdf","title":"Ovenden ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:45.87/Ovenden.pdf","format":"","size":null,"timestamp":"2017-05-26T10:01:52.898Z"}],"order":12,"check_http_status":200,"check_hash":"78c279bc7c6260720d4285ad745a5076","check_size":376672,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:01:53.112Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"e00aab45-e108-436c-b658-319cd61b99e9":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:02:28.60/Park.pdf","title":"Park ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:02:28.60/Park.pdf","format":"","size":null,"timestamp":"2017-05-26T10:02:40.430Z"}],"order":13,"check_http_status":200,"check_hash":"25d0a71693efd77abbd063d859088cf3","check_size":456106,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:02:40.599Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"db9f780b-3c9f-4054-b446-a8dd9a1518de":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:13.47/Rastrick.pdf","title":"Rastrick ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:13.47/Rastrick.pdf","format":"","size":null,"timestamp":"2017-05-26T10:03:24.013Z"}],"order":14,"check_http_status":200,"check_hash":"b040fb41b85293a971b03500db8531f1","check_size":362561,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:03:24.228Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"6bce1477-f30a-408c-8da2-6c5752294fd7":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:53.41/Ryburn.pdf","title":"Ryburn ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:53.41/Ryburn.pdf","format":"","size":null,"timestamp":"2017-05-26T10:04:00.246Z"}],"order":15,"check_http_status":200,"check_hash":"74e1c3316c9c5a38cf189cd0467f67a4","check_size":381928,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:04:00.583Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"9f527b18-c669-4fb8-91f6-320f6c253391":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:04:30.64/Skircoat.pdf","title":"Skircoat ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:04:30.64/Skircoat.pdf","format":"","size":null,"timestamp":"2017-05-26T10:04:38.385Z"}],"order":16,"check_http_status":200,"check_hash":"d2b5621653fce1aab48bec37c1efc7f0","check_size":341270,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:04:38.611Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"9498c37b-35b7-4d1d-8eab-1ca86234be1c":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:05:17.59/Sowerby Bridge.pdf","title":"Sowerby Bridge ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:05:17.59/Sowerby Bridge.pdf","format":"","size":null,"timestamp":"2017-05-26T10:05:27.735Z"}],"order":17,"check_http_status":200,"check_hash":"1210cc3f17ef989b0fc2b4525b849a3c","check_size":348547,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:05:28.688Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"8c98c54f-50a2-46f2-b5a6-d8d78b568b7a":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:02.96/Todmorden.pdf","title":"Todmorden ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:02.96/Todmorden.pdf","format":"","size":null,"timestamp":"2017-05-26T10:06:09.619Z"}],"order":18,"check_http_status":200,"check_hash":"e3e981c01a2bae0b39f4202ea0eae164","check_size":350824,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:06:09.767Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"66ef0335-e4da-4e0c-95d3-3b615ec275ba":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:46.42/Town.pdf","title":"Town ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:46.42/Town.pdf","format":"","size":null,"timestamp":"2017-05-26T10:06:58.015Z"}],"order":19,"check_http_status":200,"check_hash":"2d7a9ef904ecd5f191fd0cbd10f82885","check_size":399075,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:06:58.472Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"8a64087b-9340-4653-afc0-6e2ebbbb606b":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:07:43.18/Warley.pdf","title":"Warley ward polling districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:07:43.18/Warley.pdf","format":"","size":null,"timestamp":"2017-05-26T10:07:48.916Z"}],"order":20,"check_http_status":200,"check_hash":"d3b6069f1a646de5deb9ccb57cd6c087","check_size":365494,"check_mimetype":"application/pdf","format":"pdf","check_timestamp":"2017-05-26T10:07:49.152Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"4114fd1d-e226-41f4-a3ea-2a1f052cd351":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip","title":"Polling Station Districts - Shape Files","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:00:21.09/Shape Files.zip","format":"","size":null,"timestamp":"2017-05-26T11:00:36.359Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:03:14.48/Shape files.zip","format":"zip","size":935944,"timestamp":"2017-05-26T11:04:01.828Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip","format":"zip","size":1647256,"timestamp":"2018-02-26T10:21:36.926Z"}],"order":1,"check_http_status":200,"check_hash":"95367c5ed0d586e740db72c5eca88fae","check_size":1647256,"check_mimetype":"application/zip","format":"zip","check_timestamp":"2018-02-26T10:20:57.215Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"14937500-83dd-43ea-8b24-89766099ea7d":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json","title":"Polling Station Districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:04:26.22/polling-districts.json","format":"","size":null,"timestamp":"2017-05-26T11:05:08.698Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json","format":"json","size":7613576,"timestamp":"2018-02-26T10:21:36.926Z"}],"order":3,"check_http_status":200,"check_hash":"9b1ec189fde9421bc6573ced5d404ec5-2","check_size":7613576,"check_mimetype":"application/json","format":"json","check_timestamp":"2018-02-26T10:21:27.130Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null},"b033c876-eeda-4b60-bce9-a924ca28de75":{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv","title":"Polling Station Districts","versions":[{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:05:44.66/polling-districts.csv","format":"","size":null,"timestamp":"2017-05-26T11:05:54.723Z"},{"url":"https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv","format":"csv","size":19181,"timestamp":"2018-02-26T10:21:36.926Z"}],"order":2,"check_http_status":200,"check_hash":"29c449cc487ff9c55d66828b31fe3f30","check_size":19181,"check_mimetype":"text/csv","format":"csv","check_timestamp":"2018-02-26T10:21:10.920Z","description":"","temporal_coverage_from":null,"temporal_coverage_to":null}},"update_frequency":"Annually","odi-certificate":"","licence":"d753071a-3745-4457-8772-19ae12d77601","createdAt":"2016-03-03T09:36:52","updatedAt":"2018-02-26T10:19:34","description":"<p>Polling districts&nbsp;in Calderdale. These files contain the shape, extent and location of polling districts, and polling district code.</p>\r\n<p>Each pdf map shows each ward with the polling district names and boundaries marked on.</p>\r\n<p>To find out where all polling stations are sited, see <a href=\"/dataset/polling-stations\">Polling stations</a></p>\r\n<p> You can find information on polling stations, candidates, elections and MPs at <a hef=\"https://democracyclub.org.uk/projects/\">Democracy club</a>.</p>","topics":["452ec79e-b507-4ba6-8f19-6c7d9c805e5a"],"licence_notes":"","shares":{"users":{},"orgs":{}},"readonly":{"shares":{"users":{},"orgs":{}},"parent":{"id":"c13bd7f3-e8ea-4362-9481-6f9f108a4e74","slug":"calderdale-council","parent":{"id":"3b0a55e9-0e2c-4f86-8920-3b97e102948f","title":"Calderdale Data Works","slug":"calderdale","img":"https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png","state":"active","site":"dataworks.calderdale.gov.uk","parent":null},"title":"Calderdale Council","description":"","state":"active","createdAt":"2015-09-16T00:26:07.674Z","updatedAt":"2015-09-16T00:26:07.674Z","img":"https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A23.35/calderdale-council.png","shares":{"users":{},"orgs":{}},"harvestedByOrgs":[]},"rootOrg":{"id":"3b0a55e9-0e2c-4f86-8920-3b97e102948f","slug":"calderdale","parent":null,"description":"","state":"active","title":"Calderdale Data Works","site":"dataworks.calderdale.gov.uk","img":"https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png","createdAt":"2015-09-16T00:26:07.674Z","updatedAt":"2015-09-16T00:26:07.674Z","topics":{"3d339a29-234e-4463-b9cb-5787cf648c74":{"title":"Spending and Procurement","img":"/wp-content/themes/theme_calderdale/img/topic/spending-and-procurement.png","slug":"spending-and-procurement","description":""},"1a37b621-4da1-48c6-af62-81adea604b35":{"title":"Land and Property","img":"/wp-content/themes/theme_calderdale/img/topic/land-and-property.png","slug":"land-and-property","description":""},"23658e50-3f58-4884-921c-ac1accfacf2b":{"title":"Education","img":"/wp-content/themes/theme_calderdale/img/topic/education.png","slug":"education","description":""},"a3cb827f-b76a-4663-a531-f628eb60a934":{"title":"Organisation and Salaries","img":"/wp-content/themes/theme_calderdale/img/topic/organisation-and-salaries.png","slug":"organisation-and-salaries","description":""},"e51b19c8-9609-483f-9e0d-d379dd776fc3":{"title":"Environment","img":"/wp-content/themes/theme_calderdale/img/topic/environment.png","slug":"environment","description":""},"135d7dcb-aa78-4fca-9a91-597fa8aeae53":{"title":"Health","img":"/wp-content/themes/theme_calderdale/img/topic/health.png","slug":"health","description":""},"8d2c54ca-1b47-4ddf-8cee-b0b5937c7c47":{"title":"Transport","img":"/wp-content/themes/theme_calderdale/img/topic/transport.png","slug":"transport","description":""},"452ec79e-b507-4ba6-8f19-6c7d9c805e5a":{"title":"Society","img":"/wp-content/themes/theme_calderdale/img/topic/society.png","slug":"society","description":""},"3f48e604-3140-4098-b2be-e495488f2fcb":{"title":"Population","img":"/wp-content/themes/theme_calderdale/img/population.png","slug":"population","description":""},"56075f7e-298e-4cc8-9f1e-4b6772267a70":{"title":"Transparency","img":"/wp-content/themes/theme_calderdale/img/transparency.png","slug":"transparency","description":""}},"licences":{"0a43cb22-6cda-44b4-8516-471f52990365":{"title":"Not Specified","url":"","is_okd_compliant":false},"1796ce31-6894-44c5-805f-afdb2cccf94c":{"title":"Open Data Commons Public Domain Dedication and License (PDDL)","url":"http://www.opendefinition.org/licenses/odc-pddl","is_okd_compliant":true},"2a1cb34f-21f5-474b-8e7d-6d263876da0c":{"title":"Open Data Commons Open Database License (ODbL)","url":"http://www.opendefinition.org/licenses/odc-odbl","is_okd_compliant":true},"5857b430-ff94-4a18-8d4b-c31fad9d3711":{"title":"Open Data Commons Attribution License","url":"http://www.opendefinition.org/licenses/odc-by","is_okd_compliant":true},"25cf20e9-6830-4628-8965-465e5229db54":{"title":"Creative Commons CCZero","url":"http://www.opendefinition.org/licenses/cc-zero","is_okd_compliant":true},"71b017b2-dea0-4996-88a1-d5d201d7aa08":{"title":"Creative Commons Attribution","url":"http://www.opendefinition.org/licenses/cc-by","is_okd_compliant":true},"076e4b3e-2daf-4250-88b2-10cddbf377b5":{"title":"Creative Commons Attribution Share-Alike","url":"http://www.opendefinition.org/licenses/cc-by-sa","is_okd_compliant":true},"2a3db546-fe57-4478-872e-174d14071f8b":{"title":"GNU Free Documentation License","url":"http://www.opendefinition.org/licenses/gfdl","is_okd_compliant":true},"5b3de4b2-9467-40d3-81f7-e11ba0ba5e1e":{"title":"Other (Open)","url":"","is_okd_compliant":true},"d5bc9c2a-9ad9-49c2-8245-f8790559ea29":{"title":"Other (Public Domain)","url":"","is_okd_compliant":true},"eb972d0c-7896-43f7-8991-4646b0312538":{"title":"Other (Attribution)","url":"","is_okd_compliant":true},"a23e17ee-aebf-4eee-896d-1a12778405c6":{"title":"UK Open Government Licence (OGL v2)","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/","is_okd_compliant":true},"d753071a-3745-4457-8772-19ae12d77601":{"title":"UK Open Government Licence (OGL v3)","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","is_okd_compliant":true},"bf40353a-615f-47c3-880b-f636f2ba053f":{"title":"Creative Commons Non-Commercial (Any)","url":"http://creativecommons.org/licenses/by-nc/2.0/","is_okd_compliant":false},"a88fccc5-4b2f-44fd-8da6-567dc544a826":{"title":"Other (Non-Commercial)","url":"","is_okd_compliant":false},"cde72da9-992a-450f-88f9-3ec1c9da4a32":{"title":"Other (Not Open)","url":"","is_okd_compliant":false}},"harvesters":{},"shares":{"users":{},"orgs":{}},"harvestedByOrgs":[]},"licence":{"title":"UK Open Government Licence (OGL v3)","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","is_okd_compliant":true},"topics":{"452ec79e-b507-4ba6-8f19-6c7d9c805e5a":{"title":"Society","img":"/wp-content/themes/theme_calderdale/img/topic/society.png","slug":"society","description":""}},"auth":{"package_update":false}}}
+{
+    "author": "Calderdale Council",
+    "author_email": "",
+    "createdAt": "2016-03-03T09:36:52",
+    "description": "<p>Polling districts&nbsp;in Calderdale. These files contain the shape, extent and location of polling districts, and polling district code.</p>\r\n<p>Each pdf map shows each ward with the polling district names and boundaries marked on.</p>\r\n<p>To find out where all polling stations are sited, see <a href=\"/dataset/polling-stations\">Polling stations</a></p>\r\n<p> You can find information on polling stations, candidates, elections and MPs at <a hef=\"https://democracyclub.org.uk/projects/\">Democracy club</a>.</p>",
+    "id": "c1cf0109-3272-4ff3-bd06-8a7b6963a8b1",
+    "licence": "d753071a-3745-4457-8772-19ae12d77601",
+    "licence_notes": "",
+    "maintainer": "Calderdale Council",
+    "maintainer_email": "",
+    "odi-certificate": "",
+    "parent": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
+    "private": false,
+    "readonly": {
+        "auth": {
+            "package_update": false
+        },
+        "licence": {
+            "is_okd_compliant": true,
+            "title": "UK Open Government Licence (OGL v3)",
+            "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+        },
+        "parent": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "id": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
+            "img": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A23.35/calderdale-council.png",
+            "parent": {
+                "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+                "img": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png",
+                "parent": null,
+                "site": "dataworks.calderdale.gov.uk",
+                "slug": "calderdale",
+                "state": "active",
+                "title": "Calderdale Data Works"
+            },
+            "shares": {
+                "orgs": {},
+                "users": {}
+            },
+            "slug": "calderdale-council",
+            "state": "active",
+            "title": "Calderdale Council",
+            "updatedAt": "2015-09-16T00:26:07.674Z"
+        },
+        "rootOrg": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "harvesters": {},
+            "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+            "img": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png",
+            "licences": {
+                "076e4b3e-2daf-4250-88b2-10cddbf377b5": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution Share-Alike",
+                    "url": "http://www.opendefinition.org/licenses/cc-by-sa"
+                },
+                "0a43cb22-6cda-44b4-8516-471f52990365": {
+                    "is_okd_compliant": false,
+                    "title": "Not Specified",
+                    "url": ""
+                },
+                "1796ce31-6894-44c5-805f-afdb2cccf94c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-pddl"
+                },
+                "25cf20e9-6830-4628-8965-465e5229db54": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons CCZero",
+                    "url": "http://www.opendefinition.org/licenses/cc-zero"
+                },
+                "2a1cb34f-21f5-474b-8e7d-6d263876da0c": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Open Database License (ODbL)",
+                    "url": "http://www.opendefinition.org/licenses/odc-odbl"
+                },
+                "2a3db546-fe57-4478-872e-174d14071f8b": {
+                    "is_okd_compliant": true,
+                    "title": "GNU Free Documentation License",
+                    "url": "http://www.opendefinition.org/licenses/gfdl"
+                },
+                "5857b430-ff94-4a18-8d4b-c31fad9d3711": {
+                    "is_okd_compliant": true,
+                    "title": "Open Data Commons Attribution License",
+                    "url": "http://www.opendefinition.org/licenses/odc-by"
+                },
+                "5b3de4b2-9467-40d3-81f7-e11ba0ba5e1e": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Open)",
+                    "url": ""
+                },
+                "71b017b2-dea0-4996-88a1-d5d201d7aa08": {
+                    "is_okd_compliant": true,
+                    "title": "Creative Commons Attribution",
+                    "url": "http://www.opendefinition.org/licenses/cc-by"
+                },
+                "a23e17ee-aebf-4eee-896d-1a12778405c6": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v2)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+                },
+                "a88fccc5-4b2f-44fd-8da6-567dc544a826": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Non-Commercial)",
+                    "url": ""
+                },
+                "bf40353a-615f-47c3-880b-f636f2ba053f": {
+                    "is_okd_compliant": false,
+                    "title": "Creative Commons Non-Commercial (Any)",
+                    "url": "http://creativecommons.org/licenses/by-nc/2.0/"
+                },
+                "cde72da9-992a-450f-88f9-3ec1c9da4a32": {
+                    "is_okd_compliant": false,
+                    "title": "Other (Not Open)",
+                    "url": ""
+                },
+                "d5bc9c2a-9ad9-49c2-8245-f8790559ea29": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Public Domain)",
+                    "url": ""
+                },
+                "d753071a-3745-4457-8772-19ae12d77601": {
+                    "is_okd_compliant": true,
+                    "title": "UK Open Government Licence (OGL v3)",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "eb972d0c-7896-43f7-8991-4646b0312538": {
+                    "is_okd_compliant": true,
+                    "title": "Other (Attribution)",
+                    "url": ""
+                }
+            },
+            "parent": null,
+            "shares": {
+                "orgs": {},
+                "users": {}
+            },
+            "site": "dataworks.calderdale.gov.uk",
+            "slug": "calderdale",
+            "state": "active",
+            "title": "Calderdale Data Works",
+            "topics": {
+                "135d7dcb-aa78-4fca-9a91-597fa8aeae53": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/health.png",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                "1a37b621-4da1-48c6-af62-81adea604b35": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/land-and-property.png",
+                    "slug": "land-and-property",
+                    "title": "Land and Property"
+                },
+                "23658e50-3f58-4884-921c-ac1accfacf2b": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/education.png",
+                    "slug": "education",
+                    "title": "Education"
+                },
+                "3d339a29-234e-4463-b9cb-5787cf648c74": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/spending-and-procurement.png",
+                    "slug": "spending-and-procurement",
+                    "title": "Spending and Procurement"
+                },
+                "3f48e604-3140-4098-b2be-e495488f2fcb": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/population.png",
+                    "slug": "population",
+                    "title": "Population"
+                },
+                "452ec79e-b507-4ba6-8f19-6c7d9c805e5a": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/society.png",
+                    "slug": "society",
+                    "title": "Society"
+                },
+                "56075f7e-298e-4cc8-9f1e-4b6772267a70": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/transparency.png",
+                    "slug": "transparency",
+                    "title": "Transparency"
+                },
+                "8d2c54ca-1b47-4ddf-8cee-b0b5937c7c47": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/transport.png",
+                    "slug": "transport",
+                    "title": "Transport"
+                },
+                "a3cb827f-b76a-4663-a531-f628eb60a934": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/organisation-and-salaries.png",
+                    "slug": "organisation-and-salaries",
+                    "title": "Organisation and Salaries"
+                },
+                "e51b19c8-9609-483f-9e0d-d379dd776fc3": {
+                    "description": "",
+                    "img": "/wp-content/themes/theme_calderdale/img/topic/environment.png",
+                    "slug": "environment",
+                    "title": "Environment"
+                }
+            },
+            "updatedAt": "2015-09-16T00:26:07.674Z"
+        },
+        "shares": {
+            "orgs": {},
+            "users": {}
+        },
+        "topics": {
+            "452ec79e-b507-4ba6-8f19-6c7d9c805e5a": {
+                "description": "",
+                "img": "/wp-content/themes/theme_calderdale/img/topic/society.png",
+                "slug": "society",
+                "title": "Society"
+            }
+        }
+    },
+    "resources": {
+        "14937500-83dd-43ea-8b24-89766099ea7d": {
+            "check_hash": "9b1ec189fde9421bc6573ced5d404ec5-2",
+            "check_http_status": 200,
+            "check_mimetype": "application/json",
+            "check_size": 7613576,
+            "check_timestamp": "2018-02-26T10:21:27.130Z",
+            "description": "",
+            "format": "json",
+            "order": 3,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Station Districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T11:05:08.698Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:04:26.22/polling-districts.json"
+                },
+                {
+                    "format": "json",
+                    "size": 7613576,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:19.23/polling-districts-json.json"
+                }
+            ]
+        },
+        "1db9502f-961f-48c5-a3ec-d9685b76c8dd": {
+            "check_hash": "28bdc998c40c3374699bebb3877f562a",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 381368,
+            "check_timestamp": "2017-05-26T10:00:16.337Z",
+            "description": "",
+            "format": "pdf",
+            "order": 10,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Luddendenfoot ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:00:08.15/Luddendenfoot.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:00:16.115Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:00:08.15/Luddendenfoot.pdf"
+                }
+            ]
+        },
+        "4114fd1d-e226-41f4-a3ea-2a1f052cd351": {
+            "check_hash": "95367c5ed0d586e740db72c5eca88fae",
+            "check_http_status": 200,
+            "check_mimetype": "application/zip",
+            "check_size": 1647256,
+            "check_timestamp": "2018-02-26T10:20:57.215Z",
+            "description": "",
+            "format": "zip",
+            "order": 1,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Station Districts - Shape Files",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T11:00:36.359Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:00:21.09/Shape Files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 935944,
+                    "timestamp": "2017-05-26T11:04:01.828Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:03:14.48/Shape files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 1647256,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:54.17/polling-districts-shp.zip"
+                }
+            ]
+        },
+        "4fa0969c-27ae-47a6-bbcd-ec3ae58e786c": {
+            "check_hash": "78c279bc7c6260720d4285ad745a5076",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 376672,
+            "check_timestamp": "2017-05-26T10:01:53.112Z",
+            "description": "",
+            "format": "pdf",
+            "order": 12,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Ovenden ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:45.87/Ovenden.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:01:52.898Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:45.87/Ovenden.pdf"
+                }
+            ]
+        },
+        "5f56d3ec-1801-415d-8310-e29c9b3967de": {
+            "check_hash": "12933a484dde40bde35f587bf6b071f7",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 582089,
+            "check_timestamp": "2017-05-26T09:55:56.473Z",
+            "description": "",
+            "format": "pdf",
+            "order": 5,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Calder ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:55:41.30/Calder.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:55:56.220Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:55:41.30/Calder.pdf"
+                }
+            ]
+        },
+        "66ef0335-e4da-4e0c-95d3-3b615ec275ba": {
+            "check_hash": "2d7a9ef904ecd5f191fd0cbd10f82885",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 399075,
+            "check_timestamp": "2017-05-26T10:06:58.472Z",
+            "description": "",
+            "format": "pdf",
+            "order": 19,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Town ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:46.42/Town.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:06:58.015Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:46.42/Town.pdf"
+                }
+            ]
+        },
+        "6967eed3-0513-496b-b305-21802d6d00f4": {
+            "check_hash": "3740b36f089bd6199811990ea1392f56",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 354595,
+            "check_timestamp": "2017-05-26T09:54:47.647Z",
+            "description": "",
+            "format": "pdf",
+            "order": 4,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Brighouse ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:54:38.73/Brighouse.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:54:47.407Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:54:38.73/Brighouse.pdf"
+                }
+            ]
+        },
+        "6bce1477-f30a-408c-8da2-6c5752294fd7": {
+            "check_hash": "74e1c3316c9c5a38cf189cd0467f67a4",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 381928,
+            "check_timestamp": "2017-05-26T10:04:00.583Z",
+            "description": "",
+            "format": "pdf",
+            "order": 15,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Ryburn ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:53.41/Ryburn.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:04:00.246Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:53.41/Ryburn.pdf"
+                }
+            ]
+        },
+        "6d0f21a1-9da3-494e-9083-7dc2cbd8d81a": {
+            "check_hash": "e9c1a824927ae7aa7641fc92c07d469d",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 395094,
+            "check_timestamp": "2017-05-26T09:57:04.252Z",
+            "description": "",
+            "format": "pdf",
+            "order": 7,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Greetland and Stainland ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:47.22/Greetland and Stainland.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:57:03.970Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:47.22/Greetland and Stainland.pdf"
+                }
+            ]
+        },
+        "81773e19-fca5-4074-b588-fd3130e65026": {
+            "check_hash": "ef84f9bf615001712b0f303f7bbd761c",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 307423,
+            "check_timestamp": "2017-05-26T09:59:34.645Z",
+            "description": "",
+            "format": "pdf",
+            "order": 9,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Illingworth and Mixenden ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:59:29.76/Illingworth and Mixenden.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:59:34.525Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:59:29.76/Illingworth and Mixenden.pdf"
+                }
+            ]
+        },
+        "8a64087b-9340-4653-afc0-6e2ebbbb606b": {
+            "check_hash": "d3b6069f1a646de5deb9ccb57cd6c087",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 365494,
+            "check_timestamp": "2017-05-26T10:07:49.152Z",
+            "description": "",
+            "format": "pdf",
+            "order": 20,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Warley ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:07:43.18/Warley.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:07:48.916Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:07:43.18/Warley.pdf"
+                }
+            ]
+        },
+        "8ac1097e-72b2-4622-b4b3-f4d098a73a4f": {
+            "check_hash": "d28ccbb38f63e9183fc777eef554d6ec",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 329480,
+            "check_timestamp": "2017-05-26T09:58:53.596Z",
+            "description": "",
+            "format": "pdf",
+            "order": 8,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Hipperholme and Lightcliffe ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:58:47.11/Hipperholme and Lightcliffe.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:58:53.381Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:58:47.11/Hipperholme and Lightcliffe.pdf"
+                }
+            ]
+        },
+        "8c98c54f-50a2-46f2-b5a6-d8d78b568b7a": {
+            "check_hash": "e3e981c01a2bae0b39f4202ea0eae164",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 350824,
+            "check_timestamp": "2017-05-26T10:06:09.767Z",
+            "description": "",
+            "format": "pdf",
+            "order": 18,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Todmorden ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:02.96/Todmorden.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:06:09.619Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:06:02.96/Todmorden.pdf"
+                }
+            ]
+        },
+        "9498c37b-35b7-4d1d-8eab-1ca86234be1c": {
+            "check_hash": "1210cc3f17ef989b0fc2b4525b849a3c",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 348547,
+            "check_timestamp": "2017-05-26T10:05:28.688Z",
+            "description": "",
+            "format": "pdf",
+            "order": 17,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Sowerby Bridge ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:05:17.59/Sowerby Bridge.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:05:27.735Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:05:17.59/Sowerby Bridge.pdf"
+                }
+            ]
+        },
+        "9f527b18-c669-4fb8-91f6-320f6c253391": {
+            "check_hash": "d2b5621653fce1aab48bec37c1efc7f0",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 341270,
+            "check_timestamp": "2017-05-26T10:04:38.611Z",
+            "description": "",
+            "format": "pdf",
+            "order": 16,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Skircoat ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:04:30.64/Skircoat.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:04:38.385Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:04:30.64/Skircoat.pdf"
+                }
+            ]
+        },
+        "b033c876-eeda-4b60-bce9-a924ca28de75": {
+            "check_hash": "29c449cc487ff9c55d66828b31fe3f30",
+            "check_http_status": 200,
+            "check_mimetype": "text/csv",
+            "check_size": 19181,
+            "check_timestamp": "2018-02-26T10:21:10.920Z",
+            "description": "",
+            "format": "csv",
+            "order": 2,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Station Districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T11:05:54.723Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:05:44.66/polling-districts.csv"
+                },
+                {
+                    "format": "csv",
+                    "size": 19181,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:21:07.63/POLLING_DISTRICTS.csv"
+                }
+            ]
+        },
+        "c0d13570-1b4d-4258-adaf-177405bf394d": {
+            "check_hash": "a0e04050ab15654eb20f7a360da91772",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 359020,
+            "check_timestamp": "2017-05-26T10:01:10.040Z",
+            "description": "",
+            "format": "pdf",
+            "order": 11,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Northowram and Shelf ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:02.18/Northowram and Shelf.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:01:09.537Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:01:02.18/Northowram and Shelf.pdf"
+                }
+            ]
+        },
+        "d66d63db-43e5-44af-83dd-21fd26aced0a": {
+            "check_hash": "8d5364ae4cdab2bde73ac97a4f11bc45",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 364751,
+            "check_timestamp": "2017-05-26T09:56:24.473Z",
+            "description": "",
+            "format": "pdf",
+            "order": 6,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Elland ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:16.14/Elland.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T09:56:24.311Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09:56:16.14/Elland.pdf"
+                }
+            ]
+        },
+        "d96c03f5-95fa-4d30-96b3-66cf101fe814": {
+            "check_hash": "1f04b450a0146e42f4b3cf006ec059fa",
+            "check_http_status": 200,
+            "check_mimetype": "application/zip",
+            "check_size": 755510,
+            "check_timestamp": "2018-02-26T10:20:46.010Z",
+            "description": "",
+            "format": "zip",
+            "order": 0,
+            "temporal_coverage_from": "2016-03-01",
+            "temporal_coverage_to": "2017-03-01",
+            "title": "Polling Station Districts - Tab Files",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip",
+            "versions": [
+                {
+                    "format": "ZIP",
+                    "size": 1066730,
+                    "timestamp": "2016-03-03T09:41:44.452Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2016-03-03T09:41:39/Polling station districts.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 1066730,
+                    "timestamp": "2017-05-10T20:26:21.345Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2016-03-03T09:41:39/Polling station districts.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 18516,
+                    "timestamp": "2017-05-26T10:59:19.592Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:58:54.50/tab files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 1074918,
+                    "timestamp": "2017-05-26T11:02:52.437Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T11:02:20.08/Tab files.zip"
+                },
+                {
+                    "format": "zip",
+                    "size": 755510,
+                    "timestamp": "2018-02-26T10:21:36.926Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10:20:41.96/polling-districts-tab.zip"
+                }
+            ]
+        },
+        "db9f780b-3c9f-4054-b446-a8dd9a1518de": {
+            "check_hash": "b040fb41b85293a971b03500db8531f1",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 362561,
+            "check_timestamp": "2017-05-26T10:03:24.228Z",
+            "description": "",
+            "format": "pdf",
+            "order": 14,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Rastrick ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:13.47/Rastrick.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:03:24.013Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:03:13.47/Rastrick.pdf"
+                }
+            ]
+        },
+        "e00aab45-e108-436c-b658-319cd61b99e9": {
+            "check_hash": "25d0a71693efd77abbd063d859088cf3",
+            "check_http_status": 200,
+            "check_mimetype": "application/pdf",
+            "check_size": 456106,
+            "check_timestamp": "2017-05-26T10:02:40.599Z",
+            "description": "",
+            "format": "pdf",
+            "order": 13,
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Park ward polling districts",
+            "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:02:28.60/Park.pdf",
+            "versions": [
+                {
+                    "format": "",
+                    "size": null,
+                    "timestamp": "2017-05-26T10:02:40.430Z",
+                    "url": "https://files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10:02:28.60/Park.pdf"
+                }
+            ]
+        }
+    },
+    "shares": {
+        "orgs": {},
+        "users": {}
+    },
+    "slug": "polling-station-districts",
+    "state": "active",
+    "tags": [
+        "polling",
+        "polling stations",
+        "polling station districts",
+        "democracy"
+    ],
+    "title": "Polling Districts",
+    "topics": [
+        "452ec79e-b507-4ba6-8f19-6c7d9c805e5a"
+    ],
+    "update_frequency": "Annually",
+    "updatedAt": "2018-02-26T10:19:34"
+}
