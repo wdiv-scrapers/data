@@ -1,1 +1,1331 @@
-{"data":[{"id":"a3da8ff112a647fe857a45c9996488fd_3","type":"dataset","attributes":{"name":"Polling Stations","title":"polling stations","description":"Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districts  This layer shows Broxtowe's current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place.","url":"https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3","landingPage":"https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd","dataType":"Layer","extent":{"coordinates":[[-1.310146,52.904336],[-1.194228,53.04021]]},"owner":"Broxtowe_GIS","thumbnail":null,"tags":["polling","polling stations","polling places","elections"],"createdAt":"2018-02-12T14:45:30.000Z","updatedAt":"2018-02-12T14:53:23.000Z","harvestedAt":"2018-02-13T08:06:32.778Z","quality":77,"licenseInfo":"\n\n<p><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open\nGovernment Licence</a></p>","maxRecordCount":10000,"recordCount":66,"currentVersion":"10.5","commentsEnabled":true,"fields":[{"name":"OBJECTID","type":"esriFieldTypeOID","alias":"OBJECTID","domain":null,"statistics":{"duration":0},"updatedAt":"2018-02-13T08:06:27.805Z"},{"name":"X","type":"esriFieldTypeDouble","alias":"X","domain":null,"updatedAt":"2018-02-13T08:06:29.149Z","statistics":{"duration":1344.34932601452,"sum":29707026.7174,"avg":450106.465415,"count":66,"min":446393.093,"max":454020.636,"stddev":2103.1955361357,"var":4423431.46322115}},{"name":"Y","type":"esriFieldTypeDouble","alias":"Y","domain":null,"updatedAt":"2018-02-13T08:06:29.420Z","statistics":{"duration":1614.5198019743,"sum":22469380.7352,"avg":340445.162654,"count":66,"min":334437.5821,"max":349472.878,"stddev":4530.78236946248,"var":20527988.8794321}},{"name":"ADDRESS","type":"esriFieldTypeString","alias":"ADDRESS","domain":null,"updatedAt":"2018-02-13T08:06:29.399Z","statistics":{"values":[{"value":"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ","count":3},{"value":"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE","count":3},{"value":"The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ","count":2},{"value":"St Marys Church Church Street Eastwood Nottinghamshire","count":2},{"value":"Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW","count":2},{"value":"Greenwood Community Centre Chester Green Toton Nottinghamshire","count":2},{"value":"Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire","count":2},{"value":"Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD","count":2},{"value":"Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ","count":2},{"value":"Westbourne Court Trenton Close Bramcote Nottinghamshire","count":1}],"duration":1592.21988898516,"count":55}},{"name":"POSTCODE","type":"esriFieldTypeString","alias":"POSTCODE","domain":null,"updatedAt":"2018-02-13T08:06:29.208Z","statistics":{"values":[{"value":"NG9 1AE","count":3},{"value":"NG16 2NJ","count":3},{"value":"NG9 8HZ","count":2},{"value":"NG9 7HD","count":2},{"value":"NG9 6LN","count":2},{"value":"NG9 5JW","count":2},{"value":"NG16 3QN","count":2},{"value":"NG16 3BP","count":2},{"value":"NG16 3AQ","count":2},{"value":"NG9 8QD","count":1}],"duration":1401.04034000635,"count":55}},{"name":"POLL_DIST","type":"esriFieldTypeString","alias":"POLL_DIST","domain":null,"updatedAt":"2018-02-13T08:06:29.334Z","statistics":{"values":[{"value":"WNW2","count":1},{"value":"WNW1","count":1},{"value":"TCM4","count":1},{"value":"TCM3","count":1},{"value":"TCM2","count":1},{"value":"TCM1","count":1},{"value":"SSW2","count":1},{"value":"SSW1","count":1},{"value":"SSE3","count":1},{"value":"SSE2","count":1}],"duration":1526.46766000986,"count":66}},{"name":"LABEL","type":"esriFieldTypeString","alias":"LABEL","domain":null,"updatedAt":"2018-02-13T08:06:29.123Z","statistics":{"values":[{"value":"Parish Hall","count":3},{"value":"Our Lady of the Assumption Church Hall","count":3},{"value":"Stapleford Community Centre","count":2},{"value":"Scout Hall","count":2},{"value":"Pastures Community Church","count":2},{"value":"Parish Rooms, St Marys Church","count":2},{"value":"Greenwood Community Centre","count":2},{"value":"Greasley Parish Hall","count":2},{"value":"Cadet Centre","count":2},{"value":"Women's Institute","count":1}],"duration":1315.51354801655,"count":55}},{"name":"CURR","type":"esriFieldTypeString","alias":"Current","domain":{"type":"codedValue","name":"Yes_No","mergePolicy":"esriMPTDefaultValue","splitPolicy":"esriSPTDefaultValue","coded_values":[{"name":"Yes","code":"Y"},{"name":"No","code":"N"}]},"updatedAt":"2018-02-13T08:06:29.120Z","statistics":{"values":[{"value":"Yes","count":66,"code":"Y"}],"duration":1312.15620100498,"count":1}},{"name":"Shape","type":"esriFieldTypeGeometry","alias":"Shape","domain":null,"statistics":{"duration":0},"updatedAt":"2018-02-13T08:06:27.809Z"},{"name":"Origin","type":"esriFieldTypeString","alias":"Originator","domain":{"type":"codedValue","name":"Originators","mergePolicy":"esriMPTDefaultValue","splitPolicy":"esriSPTDefaultValue","coded_values":[{"name":"Broxtowe Borough Council","code":"BBC"},{"name":"Ordnance Survey","code":"OS"},{"name":"Ashfield District Council","code":"ADC"},{"name":"Boundary Commission","code":"BC"},{"name":"Coal Authority","code":"CA"},{"name":"Civil Aviation Authority","code":"CAA"},{"name":"Canal and River Trust","code":"CART"},{"name":"Derbyshire County Council","code":"DCC"},{"name":"Department for Transport","code":"DFT"},{"name":"Erewash Borough Council","code":"EBC"},{"name":"Environment Agency","code":"EA"},{"name":"Nottingham City Council","code":"City"},{"name":"Historic England","code":"HE"},{"name":"High Speed 2","code":"HS2"},{"name":"Health and Safety Executive","code":"HSE"},{"name":"Local Government Boundary Commission","code":"LGBCE"},{"name":"Land Registry","code":"LR"},{"name":"Met Office","code":"MO"},{"name":"Natural England","code":"NE"},{"name":"Nottinghamshire County Council","code":"NCC"},{"name":"Notts Biological and Geological Records Centre","code":"NBGRC"},{"name":"National Grid","code":"NG"},{"name":"Nottinghamshire Police","code":"NP"},{"name":"National Rail","code":"NR"},{"name":"Neward and Sherwood District Council","code":"NSDC"},{"name":"Office for National Statistics","code":"ONS"},{"name":"Rushcliffe Borough Council","code":"RBC"},{"name":"Sustrans","code":"SUS"},{"name":"Unknown","code":"U"},{"name":"Cadent Gas","code":"CG"}]},"updatedAt":"2018-02-13T08:06:29.227Z","statistics":{"values":[{"value":"Broxtowe Borough Council","count":66,"code":"BBC"}],"duration":1418.02288603783,"count":1}},{"name":"Licence","type":"esriFieldTypeString","alias":"Licence","domain":{"type":"codedValue","name":"LicenceType","mergePolicy":"esriMPTDefaultValue","splitPolicy":"esriSPTDefaultValue","coded_values":[{"name":"Memorandum of Understanding","code":"MOU"},{"name":"Open Government Licence","code":"OGL"},{"name":"OS Open Data","code":"OSOD"},{"name":"Public Sector Mapping Agreement","code":"PSMA"},{"name":"Public Sector Mapping Agreement INSPIRE","code":"PSMA INSPIRE"},{"name":"Unknown","code":"U"},{"name":"Supplier Specific","code":"SS"}]},"updatedAt":"2018-02-13T08:06:29.617Z","statistics":{"values":[{"value":"Open Government Licence","count":66,"code":"OGL"}],"duration":1807.69898796082,"count":1}},{"name":"LicenceURL","type":"esriFieldTypeString","alias":"Licence URL","domain":null,"updatedAt":"2018-02-13T08:06:29.173Z","statistics":{"values":[{"value":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","count":66}],"duration":1363.71015501022,"count":1}},{"name":"UPDATED","type":"esriFieldTypeDate","alias":"UPDATED","domain":null,"updatedAt":"2018-02-13T08:06:29.420Z","statistics":{"duration":1610.27168601751,"count":66,"min":1420588800000,"max":1483920000000}}],"useStandardizedQueries":true,"advancedQueryCapabilities":{"useStandardizedQueries":true,"supportsStatistics":true,"supportsOrderBy":true,"supportsDistinct":true,"supportsPagination":true,"supportsTrueCurve":true,"supportsReturningQueryExtent":true,"supportsQueryWithDistance":true,"supportsSqlExpression":true},"supportsAdvancedQueries":true,"supportedExtensions":"WFSServer, WMSServer","source":"Broxtowe Borough Council","content":"spatial dataset","displayField":"LABEL","geometryType":"esriGeometryPoint","objectIdField":"OBJECTID","itemName":"Polling Stations","type":"Layer","itemType":"Feature Layer","thumbnailUrl":"https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/thumbnail/thumbnail.JPEG","public":true,"views":null,"coverage":"local","serviceSpatialReference":{"wkid":27700,"latestWkid":27700},"metadataUrl":"https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/metadata/metadata.xml?format=default&output=html","timeInfo":null,"metadata":{"published":null,"present":true,"url":"https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/metadata/metadata.xml","online_resources":[{"url":"https://maps.broxtowe.gov.uk/arcgis/services/OpenData/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS","name":"Web Feature Service"}]},"structuredLicense":{"type":"custom","text":"\n\n<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open\nGovernment Licence</a>"},"hasWarnings":true,"hasErrors":false,"messages":[{"type":"warn","log":"The maxRecordCount for this layer is greater than 5000. This can cause browsers to crash. We recommend lowering this number.","i18n":{"key":"messages.inspectors.record_count_query.more_than_5000"}},{"log":"In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.","i18n":{"key":"messages.inspectors.last_edited_date.not_enabled"},"type":"info"},{"type":"info","log":"Statistics are not generated for fields named OBJECTID.","i18n":{"key":"messages.stats.not_generated.black_list_name","data":{"field_name":"OBJECTID"}}},{"type":"info","log":"Statistics are not generated for fields named Shape.","i18n":{"key":"messages.stats.not_generated.black_list_name","data":{"field_name":"Shape"}}}],"expiration":"automatic","downloadCache":"automatic","catalogs":null,"slug":"broxtowe::polling-stations"},"relationships":{"organization":{"data":{"type":"organization","id":"vQdM6keryJ7Iv4oS"}},"site":{"meta":{"count":0}},"group":{"data":[{"type":"group","id":"e591d5c171e34d67909dc0b9a0fc6772"}],"meta":{"count":1}}},"meta":{},"links":{"self":"https://opendata.arcgis.com/api/v2/datasets/a3da8ff112a647fe857a45c9996488fd_3"}},{"id":"ace0ecbc348a41b5b804557f6a68f575_1","type":"dataset","attributes":{"name":"Polling Districts","title":"polling districts","description":"Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districts. They layer details those polling districts for Broxtowe Borough with information about which borough ward they fall within.","url":"https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/1","landingPage":"https://www.arcgis.com/home/item.html?id=ace0ecbc348a41b5b804557f6a68f575","dataType":"Layer","extent":{"coordinates":[[-180.0,-90.0],[180.0,90.0]]},"owner":"Broxtowe_GIS","thumbnail":null,"tags":["elections","boundaries","open data"],"createdAt":"2018-01-15T08:11:46.000Z","updatedAt":"2018-01-25T12:01:58.000Z","harvestedAt":"2018-01-25T12:02:29.839Z","quality":77,"licenseInfo":"<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">Open Government Licence</a>","maxRecordCount":10000,"recordCount":65,"currentVersion":"10.5","commentsEnabled":true,"fields":[{"name":"OBJECTID","type":"esriFieldTypeOID","alias":"OBJECTID","domain":null,"statistics":{"duration":0},"updatedAt":"2018-01-25T12:02:26.929Z"},{"name":"NAME","type":"esriFieldTypeString","alias":"NAME","domain":null,"updatedAt":"2018-01-25T12:02:28.179Z","statistics":{"values":[{"value":"WNW2","count":1},{"value":"WNW1","count":1},{"value":"TCM4","count":1},{"value":"TCM3","count":1},{"value":"TCM2","count":1},{"value":"TCM1","count":1},{"value":"SSW2","count":1},{"value":"SSW1","count":1},{"value":"SSE3","count":1},{"value":"SSE2","count":1}],"duration":1249.87981897593,"count":65}},{"name":"WARD_NAME","type":"esriFieldTypeString","alias":"WARD_NAME","domain":null,"updatedAt":"2018-01-25T12:02:28.225Z","statistics":{"values":[{"value":"Kimberley","count":6},{"value":"Greasley","count":5},{"value":"Awsworth Cossall and Trowell","count":5},{"value":"Toton and Chilwell Meadows","count":4},{"value":"Nuthall East and Strelley","count":4},{"value":"Beeston West","count":4},{"value":"Attenborough and Chilwell East","count":4},{"value":"Stapleford South East","count":3},{"value":"Stapleford North","count":3},{"value":"Eastwood St Marys","count":3}],"duration":1295.00556796789,"count":20}},{"name":"Shape","type":"esriFieldTypeGeometry","alias":"Shape","domain":null,"statistics":{"duration":0},"updatedAt":"2018-01-25T12:02:26.930Z"},{"name":"Origin","type":"esriFieldTypeString","alias":"Originator","domain":{"type":"codedValue","name":"Originators","mergePolicy":"esriMPTDefaultValue","splitPolicy":"esriSPTDefaultValue","coded_values":[{"name":"Broxtowe Borough Council","code":"BBC"},{"name":"Ordnance Survey","code":"OS"},{"name":"Ashfield District Council","code":"ADC"},{"name":"Boundary Commission","code":"BC"},{"name":"Coal Authority","code":"CA"},{"name":"Civil Aviation Authority","code":"CAA"},{"name":"Canal and River Trust","code":"CART"},{"name":"Derbyshire County Council","code":"DCC"},{"name":"Department for Transport","code":"DFT"},{"name":"Erewash Borough Council","code":"EBC"},{"name":"Environment Agency","code":"EA"},{"name":"Nottingham City Council","code":"City"},{"name":"Historic England","code":"HE"},{"name":"High Speed 2","code":"HS2"},{"name":"Health and Safety Executive","code":"HSE"},{"name":"Local Government Boundary Commission","code":"LGBCE"},{"name":"Land Registry","code":"LR"},{"name":"Met Office","code":"MO"},{"name":"Natural England","code":"NE"},{"name":"Nottinghamshire County Council","code":"NCC"},{"name":"Notts Biological and Geological Records Centre","code":"NBGRC"},{"name":"National Grid","code":"NG"},{"name":"Nottinghamshire Police","code":"NP"},{"name":"National Rail","code":"NR"},{"name":"Neward and Sherwood District Council","code":"NSDC"},{"name":"Office for National Statistics","code":"ONS"},{"name":"Rushcliffe Borough Council","code":"RBC"},{"name":"Sustrans","code":"SUS"},{"name":"Unknown","code":"U"},{"name":"Cadent Gas","code":"CG"}]},"updatedAt":"2018-01-25T12:02:28.249Z","statistics":{"values":[{"value":"Broxtowe Borough Council","count":65,"code":"BBC"}],"duration":1319.29694598913,"count":1}},{"name":"Licence","type":"esriFieldTypeString","alias":"Licence","domain":{"type":"codedValue","name":"LicenceType","mergePolicy":"esriMPTDefaultValue","splitPolicy":"esriSPTDefaultValue","coded_values":[{"name":"Memorandum of Understanding","code":"MOU"},{"name":"Open Government Licence","code":"OGL"},{"name":"OS Open Data","code":"OSOD"},{"name":"Public Sector Mapping Agreement","code":"PSMA"},{"name":"Public Sector Mapping Agreement INSPIRE","code":"PSMA INSPIRE"},{"name":"Unknown","code":"U"},{"name":"Supplier Specific","code":"SS"}]},"updatedAt":"2018-01-25T12:02:28.155Z","statistics":{"values":[{"value":"Open Government Licence","count":65,"code":"OGL"}],"duration":1224.79925900698,"count":1}},{"name":"LicenceURL","type":"esriFieldTypeString","alias":"Licence URL","domain":null,"updatedAt":"2018-01-25T12:02:28.202Z","statistics":{"values":[{"value":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","count":65}],"duration":1271.66312599182,"count":1}},{"name":"Shape.STArea()","type":"esriFieldTypeDouble","alias":"Shape.STArea()","domain":null,"statistics":{"duration":0},"updatedAt":"2018-01-25T12:02:26.931Z"},{"name":"Shape.STLength()","type":"esriFieldTypeDouble","alias":"Shape.STLength()","domain":null,"statistics":{"duration":0},"updatedAt":"2018-01-25T12:02:26.931Z"}],"useStandardizedQueries":true,"advancedQueryCapabilities":{"useStandardizedQueries":true,"supportsStatistics":true,"supportsOrderBy":true,"supportsDistinct":true,"supportsPagination":true,"supportsTrueCurve":true,"supportsReturningQueryExtent":true,"supportsQueryWithDistance":true,"supportsSqlExpression":true},"supportsAdvancedQueries":true,"supportedExtensions":"WFSServer, WMSServer","source":"Broxtowe Borough Council","content":"spatial dataset","displayField":"NAME","geometryType":"esriGeometryPolygon","objectIdField":"OBJECTID","itemName":"Polling Districts","type":"Layer","itemType":"Feature Layer","thumbnailUrl":"https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/thumbnail/ago_downloaded.png","public":true,"views":null,"coverage":"global","serviceSpatialReference":{"wkid":27700,"latestWkid":27700},"metadataUrl":"https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/metadata/metadata.xml?format=default&output=html","timeInfo":null,"metadata":{"published":"2018-01-15","present":true,"url":"https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/metadata/metadata.xml","online_resources":[]},"structuredLicense":{"type":"custom","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},"hasWarnings":true,"hasErrors":false,"messages":[{"type":"warn","log":"The maxRecordCount for this layer is greater than 5000. This can cause browsers to crash. We recommend lowering this number.","i18n":{"key":"messages.inspectors.record_count_query.more_than_5000"}},{"type":"warn","log":"Query performance on layer is sub-optimal and will impact user experience.","i18n":{"key":"messages.inspectors.record_count_query.slow"}},{"log":"In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.","i18n":{"key":"messages.inspectors.last_edited_date.not_enabled"},"type":"info"},{"type":"info","log":"Statistics are not generated for fields named OBJECTID.","i18n":{"key":"messages.stats.not_generated.black_list_name","data":{"field_name":"OBJECTID"}}},{"type":"info","log":"Statistics are not generated for fields named Shape.","i18n":{"key":"messages.stats.not_generated.black_list_name","data":{"field_name":"Shape"}}},{"type":"info","log":"Statistics are not generated for fields with . in the name. ( Shape.STArea()).","i18n":{"key":"messages.stats.not_generated.period_in_name","data":{"field_name":"Shape.STArea()"}}},{"type":"info","log":"Statistics are not generated for fields with . in the name. ( Shape.STLength()).","i18n":{"key":"messages.stats.not_generated.period_in_name","data":{"field_name":"Shape.STLength()"}}}],"expiration":"automatic","downloadCache":"automatic","catalogs":null,"slug":"broxtowe::polling-districts"},"relationships":{"organization":{"data":{"type":"organization","id":"vQdM6keryJ7Iv4oS"}},"site":{"meta":{"count":0}},"group":{"data":[{"type":"group","id":"e591d5c171e34d67909dc0b9a0fc6772"}],"meta":{"count":1}}},"meta":{},"links":{"self":"https://opendata.arcgis.com/api/v2/datasets/ace0ecbc348a41b5b804557f6a68f575_1"}}],"meta":{"apiRoot":"https://opendata.arcgis.com/api/v2","resourceRoot":"https://opendata.arcgis.com/api/v2/datasets","request":"https://opendata.arcgis.com/api/v2/datasets?filter%5Btags%5D=Elections&filter%5Bcatalogs%5D=maps-broxtowe.opendata.arcgis.com&include=organizations%2Cgroups&page%5Bnumber%5D=1&page%5Bsize%5D=10&sort=-updatedAt","queryParameters":{"page":{"number":1,"size":10},"filter":{"tags":"Elections","catalogs":"maps-broxtowe.opendata.arcgis.com"},"include":"organizations,groups","sort":"-updatedAt"},"stats":{"count":2,"totalCount":2,"aggs":{"source":[{"key":"Broxtowe Borough Council","docCount":2}],"content":[{"key":"spatial dataset","docCount":2}],"tags":[{"key":"elections","docCount":2},{"key":"boundaries","docCount":1},{"key":"open data","docCount":1},{"key":"polling","docCount":1},{"key":"polling places","docCount":1},{"key":"polling stations","docCount":1}]}}},"links":{"first":"https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[tags]=Elections&filter[catalogs]=maps-broxtowe.opendata.arcgis.com&include=organizations,groups&sort=-updatedAt","last":"https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[tags]=Elections&filter[catalogs]=maps-broxtowe.opendata.arcgis.com&include=organizations,groups&sort=-updatedAt"},"included":[{"id":"vQdM6keryJ7Iv4oS","type":"organization","attributes":{"urlKey":"broxtowe","title":"Broxtowe Borough Council","description":"The Borough lies to the west of the City of Nottingham and is bounded by the River Trent on the south and the River Erewash on the west. There are four main towns in Broxtowe - Beeston, Stapleford, Kimberley and Eastwood each with its own character and individuality.  There is a wide choice of employment, housing amenities and countryside which makes Broxtowe a very pleasant place to live and work. Nearly two thirds of the land in Broxtowe is open countryside with a number of areas noted for their particular charm, and preserved as conservation areas.  The most notable son of Broxtowe is D.H. Lawrence, born in Eastwood, whose writings reflect many places in the area.","summary":"Broxtowe Borough is a semi-rural borough in Nottinghamshire. It sits between the City of Nottingham and the Derbyshire border","culture":"en","homepageUrl":"www.broxtowe.gov.uk","type":null,"contact":{"name":"GIS Admin","phone":"","email":"gis@broxtowe.gov.uk"},"logo":"thumbnail.png"},"links":{"self":"https://opendata.arcgis.com/api/v2/organizations/vQdM6keryJ7Iv4oS"}},{"id":"e591d5c171e34d67909dc0b9a0fc6772","type":"group","attributes":{"title":"Broxtowe Open Layers","description":null,"tags":["open data"],"createdAt":"2017-12-13T14:27:37.867Z","updatedAt":"2017-12-13T14:47:57.410Z"},"links":{"self":"https://opendata.arcgis.com/api/v2/groups/e591d5c171e34d67909dc0b9a0fc6772"}}]}
+{
+    "data": [
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsSqlExpression": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2018-02-12T14:45:30.000Z",
+                "currentVersion": "10.5",
+                "dataType": "Layer",
+                "description": "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districts  This layer shows Broxtowe's current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place.",
+                "displayField": "LABEL",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -1.310146,
+                            52.904336
+                        ],
+                        [
+                            -1.194228,
+                            53.04021
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2018-09-21T06:35:20.019Z"
+                    },
+                    {
+                        "alias": "X",
+                        "domain": null,
+                        "name": "X",
+                        "statistics": {
+                            "avg": 450086.802289,
+                            "count": 65,
+                            "duration": 882.018787004054,
+                            "max": 454020.636,
+                            "min": 446393.093,
+                            "stddev": 2113.44049276557,
+                            "sum": 29255642.1488,
+                            "var": 4466630.71646118
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2018-09-21T06:35:20.901Z"
+                    },
+                    {
+                        "alias": "Y",
+                        "domain": null,
+                        "name": "Y",
+                        "statistics": {
+                            "avg": 340510.591433,
+                            "count": 65,
+                            "duration": 825.732757002115,
+                            "max": 349472.878,
+                            "min": 334437.5821,
+                            "stddev": 4534.51022062455,
+                            "sum": 22133188.4432,
+                            "var": 20561782.9409485
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2018-09-21T06:35:20.845Z"
+                    },
+                    {
+                        "alias": "ADDRESS",
+                        "domain": null,
+                        "name": "ADDRESS",
+                        "statistics": {
+                            "count": 54,
+                            "duration": 871.396526999772,
+                            "values": [
+                                {
+                                    "count": 3,
+                                    "value": "Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "St Marys Church Church Street Eastwood Nottinghamshire"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Greenwood Community Centre Chester Green Toton Nottinghamshire"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Westbourne Court Trenton Close Bramcote Nottinghamshire"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:20.891Z"
+                    },
+                    {
+                        "alias": "POSTCODE",
+                        "domain": null,
+                        "name": "POSTCODE",
+                        "statistics": {
+                            "count": 54,
+                            "duration": 1035.93925900012,
+                            "values": [
+                                {
+                                    "count": 3,
+                                    "value": "NG9 1AE"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "NG16 2NJ"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG9 8HZ"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG9 7HD"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG9 6LN"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG9 5JW"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG16 3QN"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG16 3BP"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "NG16 3AQ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "NG9 8QD"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.056Z"
+                    },
+                    {
+                        "alias": "POLL_DIST",
+                        "domain": null,
+                        "name": "POLL_DIST",
+                        "statistics": {
+                            "count": 65,
+                            "duration": 1205.93749599904,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WNW2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WNW1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM4"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM3"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSW2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSW1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSE3"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSE2"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.226Z"
+                    },
+                    {
+                        "alias": "LABEL",
+                        "domain": null,
+                        "name": "LABEL",
+                        "statistics": {
+                            "count": 54,
+                            "duration": 1118.40364199877,
+                            "values": [
+                                {
+                                    "count": 3,
+                                    "value": "Parish Hall"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Our Lady of the Assumption Church Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Stapleford Community Centre"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Scout Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Pastures Community Church"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Parish Rooms, St Marys Church"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Greenwood Community Centre"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Greasley Parish Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Cadet Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Women's Institute"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.139Z"
+                    },
+                    {
+                        "alias": "Current",
+                        "domain": {
+                            "coded_values": [
+                                {
+                                    "code": "Y",
+                                    "name": "Yes"
+                                },
+                                {
+                                    "code": "N",
+                                    "name": "No"
+                                }
+                            ],
+                            "mergePolicy": "esriMPTDefaultValue",
+                            "name": "Yes_No",
+                            "splitPolicy": "esriSPTDefaultValue",
+                            "type": "codedValue"
+                        },
+                        "name": "CURR",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 964.991685003042,
+                            "values": [
+                                {
+                                    "code": "Y",
+                                    "count": 65,
+                                    "value": "Yes"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:20.985Z"
+                    },
+                    {
+                        "alias": "Shape",
+                        "domain": null,
+                        "name": "Shape",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2018-09-21T06:35:20.021Z"
+                    },
+                    {
+                        "alias": "Originator",
+                        "domain": {
+                            "coded_values": [
+                                {
+                                    "code": "BBC",
+                                    "name": "Broxtowe Borough Council"
+                                },
+                                {
+                                    "code": "OS",
+                                    "name": "Ordnance Survey"
+                                },
+                                {
+                                    "code": "ADC",
+                                    "name": "Ashfield District Council"
+                                },
+                                {
+                                    "code": "BC",
+                                    "name": "Boundary Commission"
+                                },
+                                {
+                                    "code": "CA",
+                                    "name": "Coal Authority"
+                                },
+                                {
+                                    "code": "CAA",
+                                    "name": "Civil Aviation Authority"
+                                },
+                                {
+                                    "code": "CART",
+                                    "name": "Canal and River Trust"
+                                },
+                                {
+                                    "code": "DCC",
+                                    "name": "Derbyshire County Council"
+                                },
+                                {
+                                    "code": "DFT",
+                                    "name": "Department for Transport"
+                                },
+                                {
+                                    "code": "EBC",
+                                    "name": "Erewash Borough Council"
+                                },
+                                {
+                                    "code": "EA",
+                                    "name": "Environment Agency"
+                                },
+                                {
+                                    "code": "City",
+                                    "name": "Nottingham City Council"
+                                },
+                                {
+                                    "code": "HE",
+                                    "name": "Historic England"
+                                },
+                                {
+                                    "code": "HS2",
+                                    "name": "High Speed 2"
+                                },
+                                {
+                                    "code": "HSE",
+                                    "name": "Health and Safety Executive"
+                                },
+                                {
+                                    "code": "LGBCE",
+                                    "name": "Local Government Boundary Commission"
+                                },
+                                {
+                                    "code": "LR",
+                                    "name": "Land Registry"
+                                },
+                                {
+                                    "code": "MO",
+                                    "name": "Met Office"
+                                },
+                                {
+                                    "code": "NE",
+                                    "name": "Natural England"
+                                },
+                                {
+                                    "code": "NCC",
+                                    "name": "Nottinghamshire County Council"
+                                },
+                                {
+                                    "code": "NBGRC",
+                                    "name": "Notts Biological and Geological Records Centre"
+                                },
+                                {
+                                    "code": "NG",
+                                    "name": "National Grid"
+                                },
+                                {
+                                    "code": "NP",
+                                    "name": "Nottinghamshire Police"
+                                },
+                                {
+                                    "code": "NR",
+                                    "name": "National Rail"
+                                },
+                                {
+                                    "code": "NSDC",
+                                    "name": "Neward and Sherwood District Council"
+                                },
+                                {
+                                    "code": "ONS",
+                                    "name": "Office for National Statistics"
+                                },
+                                {
+                                    "code": "RBC",
+                                    "name": "Rushcliffe Borough Council"
+                                },
+                                {
+                                    "code": "SUS",
+                                    "name": "Sustrans"
+                                },
+                                {
+                                    "code": "U",
+                                    "name": "Unknown"
+                                },
+                                {
+                                    "code": "CG",
+                                    "name": "Cadent Gas"
+                                }
+                            ],
+                            "mergePolicy": "esriMPTDefaultValue",
+                            "name": "Originators",
+                            "splitPolicy": "esriSPTDefaultValue",
+                            "type": "codedValue"
+                        },
+                        "name": "Origin",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 1045.40833999962,
+                            "values": [
+                                {
+                                    "code": "BBC",
+                                    "count": 65,
+                                    "value": "Broxtowe Borough Council"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.066Z"
+                    },
+                    {
+                        "alias": "Licence",
+                        "domain": {
+                            "coded_values": [
+                                {
+                                    "code": "MOU",
+                                    "name": "Memorandum of Understanding"
+                                },
+                                {
+                                    "code": "OGL",
+                                    "name": "Open Government Licence"
+                                },
+                                {
+                                    "code": "OSOD",
+                                    "name": "OS Open Data"
+                                },
+                                {
+                                    "code": "PSMA",
+                                    "name": "Public Sector Mapping Agreement"
+                                },
+                                {
+                                    "code": "PSMA INSPIRE",
+                                    "name": "Public Sector Mapping Agreement INSPIRE"
+                                },
+                                {
+                                    "code": "U",
+                                    "name": "Unknown"
+                                },
+                                {
+                                    "code": "SS",
+                                    "name": "Supplier Specific"
+                                }
+                            ],
+                            "mergePolicy": "esriMPTDefaultValue",
+                            "name": "LicenceType",
+                            "splitPolicy": "esriSPTDefaultValue",
+                            "type": "codedValue"
+                        },
+                        "name": "Licence",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 1146.30087599903,
+                            "values": [
+                                {
+                                    "code": "OGL",
+                                    "count": 65,
+                                    "value": "Open Government Licence"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.167Z"
+                    },
+                    {
+                        "alias": "Licence URL",
+                        "domain": null,
+                        "name": "LicenceURL",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 1187.35344099998,
+                            "values": [
+                                {
+                                    "count": 65,
+                                    "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:35:21.208Z"
+                    },
+                    {
+                        "alias": "UPDATED",
+                        "domain": null,
+                        "name": "UPDATED",
+                        "statistics": {
+                            "count": 65,
+                            "duration": 1230.4886899963,
+                            "max": 1483920000000,
+                            "min": 1420588800000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2018-09-21T06:35:21.252Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPoint",
+                "harvestedAt": "2018-09-21T06:35:22.210Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "Polling Stations",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd",
+                "licenseInfo": "\n\n<p><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open\nGovernment Licence</a></p>",
+                "maxRecordCount": 10000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.record_count_query.more_than_5000"
+                        },
+                        "log": "The maxRecordCount for this layer is greater than 5000. This can cause browsers to crash. We recommend lowering this number.",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named Shape.",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [
+                        {
+                            "name": "Web Feature Service",
+                            "url": "https://maps.broxtowe.gov.uk/arcgis/services/OpenData/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+                        }
+                    ],
+                    "present": true,
+                    "published": null,
+                    "url": "https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/metadata/metadata.xml"
+                },
+                "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/metadata/metadata.xml?format=default&output=html",
+                "name": "Polling Stations",
+                "objectIdField": "OBJECTID",
+                "owner": "Broxtowe_GIS",
+                "public": true,
+                "quality": 77,
+                "recordCount": 65,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "broxtowe::polling-stations",
+                "source": "Broxtowe Borough Council",
+                "structuredLicense": {
+                    "text": "\n\n<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open\nGovernment Licence</a>",
+                    "type": "custom"
+                },
+                "supportedExtensions": "WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "polling",
+                    "polling stations",
+                    "polling places",
+                    "elections"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/a3da8ff112a647fe857a45c9996488fd/info/thumbnail/thumbnail.JPEG",
+                "timeInfo": null,
+                "title": "polling stations",
+                "type": "Layer",
+                "updatedAt": "2018-09-21T06:35:22.262Z",
+                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "a3da8ff112a647fe857a45c9996488fd_3",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/a3da8ff112a647fe857a45c9996488fd_3"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "e591d5c171e34d67909dc0b9a0fc6772",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "vQdM6keryJ7Iv4oS",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 0
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsSqlExpression": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "global",
+                "createdAt": "2018-01-15T08:11:46.000Z",
+                "currentVersion": "10.5",
+                "dataType": "Layer",
+                "description": "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districts. They layer details those polling districts\u00a0for Broxtowe Borough\u00a0with information about which borough\u00a0ward they fall within.",
+                "displayField": "NAME",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -180.0,
+                            -90.0
+                        ],
+                        [
+                            180.0,
+                            90.0
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2018-09-21T06:34:51.482Z"
+                    },
+                    {
+                        "alias": "NAME",
+                        "domain": null,
+                        "name": "NAME",
+                        "statistics": {
+                            "count": 65,
+                            "duration": 966.909000001848,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WNW2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WNW1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM4"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM3"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TCM1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSW2"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSW1"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSE3"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SSE2"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:34:52.449Z"
+                    },
+                    {
+                        "alias": "WARD_NAME",
+                        "domain": null,
+                        "name": "WARD_NAME",
+                        "statistics": {
+                            "count": 20,
+                            "duration": 760.504440993071,
+                            "values": [
+                                {
+                                    "count": 6,
+                                    "value": "Kimberley"
+                                },
+                                {
+                                    "count": 5,
+                                    "value": "Greasley"
+                                },
+                                {
+                                    "count": 5,
+                                    "value": "Awsworth Cossall and Trowell"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Toton and Chilwell Meadows"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Nuthall East and Strelley"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Beeston West"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Attenborough and Chilwell East"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Stapleford South East"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Stapleford North"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Eastwood St Marys"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:34:52.243Z"
+                    },
+                    {
+                        "alias": "Shape",
+                        "domain": null,
+                        "name": "Shape",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2018-09-21T06:34:51.483Z"
+                    },
+                    {
+                        "alias": "Originator",
+                        "domain": {
+                            "coded_values": [
+                                {
+                                    "code": "BBC",
+                                    "name": "Broxtowe Borough Council"
+                                },
+                                {
+                                    "code": "OS",
+                                    "name": "Ordnance Survey"
+                                },
+                                {
+                                    "code": "ADC",
+                                    "name": "Ashfield District Council"
+                                },
+                                {
+                                    "code": "BC",
+                                    "name": "Boundary Commission"
+                                },
+                                {
+                                    "code": "CA",
+                                    "name": "Coal Authority"
+                                },
+                                {
+                                    "code": "CAA",
+                                    "name": "Civil Aviation Authority"
+                                },
+                                {
+                                    "code": "CART",
+                                    "name": "Canal and River Trust"
+                                },
+                                {
+                                    "code": "DCC",
+                                    "name": "Derbyshire County Council"
+                                },
+                                {
+                                    "code": "DFT",
+                                    "name": "Department for Transport"
+                                },
+                                {
+                                    "code": "EBC",
+                                    "name": "Erewash Borough Council"
+                                },
+                                {
+                                    "code": "EA",
+                                    "name": "Environment Agency"
+                                },
+                                {
+                                    "code": "City",
+                                    "name": "Nottingham City Council"
+                                },
+                                {
+                                    "code": "HE",
+                                    "name": "Historic England"
+                                },
+                                {
+                                    "code": "HS2",
+                                    "name": "High Speed 2"
+                                },
+                                {
+                                    "code": "HSE",
+                                    "name": "Health and Safety Executive"
+                                },
+                                {
+                                    "code": "LGBCE",
+                                    "name": "Local Government Boundary Commission"
+                                },
+                                {
+                                    "code": "LR",
+                                    "name": "Land Registry"
+                                },
+                                {
+                                    "code": "MO",
+                                    "name": "Met Office"
+                                },
+                                {
+                                    "code": "NE",
+                                    "name": "Natural England"
+                                },
+                                {
+                                    "code": "NCC",
+                                    "name": "Nottinghamshire County Council"
+                                },
+                                {
+                                    "code": "NBGRC",
+                                    "name": "Notts Biological and Geological Records Centre"
+                                },
+                                {
+                                    "code": "NG",
+                                    "name": "National Grid"
+                                },
+                                {
+                                    "code": "NP",
+                                    "name": "Nottinghamshire Police"
+                                },
+                                {
+                                    "code": "NR",
+                                    "name": "National Rail"
+                                },
+                                {
+                                    "code": "NSDC",
+                                    "name": "Neward and Sherwood District Council"
+                                },
+                                {
+                                    "code": "ONS",
+                                    "name": "Office for National Statistics"
+                                },
+                                {
+                                    "code": "RBC",
+                                    "name": "Rushcliffe Borough Council"
+                                },
+                                {
+                                    "code": "SUS",
+                                    "name": "Sustrans"
+                                },
+                                {
+                                    "code": "U",
+                                    "name": "Unknown"
+                                },
+                                {
+                                    "code": "CG",
+                                    "name": "Cadent Gas"
+                                }
+                            ],
+                            "mergePolicy": "esriMPTDefaultValue",
+                            "name": "Originators",
+                            "splitPolicy": "esriSPTDefaultValue",
+                            "type": "codedValue"
+                        },
+                        "name": "Origin",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 927.329999998212,
+                            "values": [
+                                {
+                                    "code": "BBC",
+                                    "count": 65,
+                                    "value": "Broxtowe Borough Council"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:34:52.410Z"
+                    },
+                    {
+                        "alias": "Licence",
+                        "domain": {
+                            "coded_values": [
+                                {
+                                    "code": "MOU",
+                                    "name": "Memorandum of Understanding"
+                                },
+                                {
+                                    "code": "OGL",
+                                    "name": "Open Government Licence"
+                                },
+                                {
+                                    "code": "OSOD",
+                                    "name": "OS Open Data"
+                                },
+                                {
+                                    "code": "PSMA",
+                                    "name": "Public Sector Mapping Agreement"
+                                },
+                                {
+                                    "code": "PSMA INSPIRE",
+                                    "name": "Public Sector Mapping Agreement INSPIRE"
+                                },
+                                {
+                                    "code": "U",
+                                    "name": "Unknown"
+                                },
+                                {
+                                    "code": "SS",
+                                    "name": "Supplier Specific"
+                                }
+                            ],
+                            "mergePolicy": "esriMPTDefaultValue",
+                            "name": "LicenceType",
+                            "splitPolicy": "esriSPTDefaultValue",
+                            "type": "codedValue"
+                        },
+                        "name": "Licence",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 810.018412001431,
+                            "values": [
+                                {
+                                    "code": "OGL",
+                                    "count": 65,
+                                    "value": "Open Government Licence"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:34:52.293Z"
+                    },
+                    {
+                        "alias": "Licence URL",
+                        "domain": null,
+                        "name": "LicenceURL",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 888.355438999832,
+                            "values": [
+                                {
+                                    "count": 65,
+                                    "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2018-09-21T06:34:52.372Z"
+                    },
+                    {
+                        "alias": "Shape.STArea()",
+                        "domain": null,
+                        "name": "Shape.STArea()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2018-09-21T06:34:51.484Z"
+                    },
+                    {
+                        "alias": "Shape.STLength()",
+                        "domain": null,
+                        "name": "Shape.STLength()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2018-09-21T06:34:51.484Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPolygon",
+                "harvestedAt": "2018-09-21T06:34:56.481Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "Polling Districts",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=ace0ecbc348a41b5b804557f6a68f575",
+                "licenseInfo": "<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">Open Government Licence</a>",
+                "maxRecordCount": 10000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.record_count_query.more_than_5000"
+                        },
+                        "log": "The maxRecordCount for this layer is greater than 5000. This can cause browsers to crash. We recommend lowering this number.",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named Shape.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape.STArea()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( Shape.STArea()).",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape.STLength()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( Shape.STLength()).",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": true,
+                    "published": "2018-01-15",
+                    "url": "https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/metadata/metadata.xml"
+                },
+                "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/metadata/metadata.xml?format=default&output=html",
+                "name": "Polling Districts",
+                "objectIdField": "OBJECTID",
+                "owner": "Broxtowe_GIS",
+                "public": true,
+                "quality": 77,
+                "recordCount": 65,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "broxtowe::polling-districts",
+                "source": "Broxtowe Borough Council",
+                "structuredLicense": {
+                    "type": "custom",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "supportedExtensions": "WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "elections",
+                    "boundaries",
+                    "open data"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/ace0ecbc348a41b5b804557f6a68f575/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "polling districts",
+                "type": "Layer",
+                "updatedAt": "2018-09-21T06:34:56.536Z",
+                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/1",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "ace0ecbc348a41b5b804557f6a68f575_1",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/ace0ecbc348a41b5b804557f6a68f575_1"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "e591d5c171e34d67909dc0b9a0fc6772",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "vQdM6keryJ7Iv4oS",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 0
+                    }
+                }
+            },
+            "type": "dataset"
+        }
+    ],
+    "included": [
+        {
+            "attributes": {
+                "contact": {
+                    "email": "gis@broxtowe.gov.uk",
+                    "name": "GIS Admin",
+                    "phone": ""
+                },
+                "culture": "en",
+                "description": "The Borough lies to the west of the City of Nottingham and is bounded by the River Trent on the south and the River Erewash on the west. There are four main towns in Broxtowe - Beeston, Stapleford, Kimberley and Eastwood each with its own character and individuality.  There is a wide choice of employment, housing amenities and countryside which makes Broxtowe a very pleasant place to live and work. Nearly two thirds of the land in Broxtowe is open countryside with a number of areas noted for their particular charm, and preserved as conservation areas.  The most notable son of Broxtowe is D.H. Lawrence, born in Eastwood, whose writings reflect many places in the area.",
+                "homepageUrl": "www.broxtowe.gov.uk",
+                "logo": "thumbnail.png",
+                "summary": "Broxtowe Borough is a semi-rural borough in Nottinghamshire. It sits between the City of Nottingham and the Derbyshire border",
+                "title": "Broxtowe Borough Council",
+                "type": null,
+                "urlKey": "broxtowe"
+            },
+            "id": "vQdM6keryJ7Iv4oS",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/organizations/vQdM6keryJ7Iv4oS"
+            },
+            "type": "organization"
+        },
+        {
+            "attributes": {
+                "createdAt": "2018-09-21T06:33:41.410Z",
+                "description": null,
+                "tags": [
+                    "open data"
+                ],
+                "title": "Broxtowe Open Layers",
+                "updatedAt": "2018-09-21T06:33:52.303Z"
+            },
+            "id": "e591d5c171e34d67909dc0b9a0fc6772",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/groups/e591d5c171e34d67909dc0b9a0fc6772"
+            },
+            "type": "group"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[tags]=Elections&filter[catalogs]=maps-broxtowe.opendata.arcgis.com&include=organizations,groups&sort=-updatedAt",
+        "last": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[tags]=Elections&filter[catalogs]=maps-broxtowe.opendata.arcgis.com&include=organizations,groups&sort=-updatedAt"
+    },
+    "meta": {
+        "apiRoot": "https://opendata.arcgis.com/api/v2",
+        "queryParameters": {
+            "filter": {
+                "catalogs": "maps-broxtowe.opendata.arcgis.com",
+                "tags": "Elections"
+            },
+            "include": "organizations,groups",
+            "page": {
+                "number": 1,
+                "size": 10
+            },
+            "sort": "-updatedAt"
+        },
+        "request": "https://opendata.arcgis.com/api/v2/datasets?filter%5Btags%5D=Elections&filter%5Bcatalogs%5D=maps-broxtowe.opendata.arcgis.com&include=organizations%2Cgroups&page%5Bnumber%5D=1&page%5Bsize%5D=10&sort=-updatedAt",
+        "resourceRoot": "https://opendata.arcgis.com/api/v2/datasets",
+        "stats": {
+            "aggs": {
+                "content": [
+                    {
+                        "docCount": 2,
+                        "key": "spatial dataset"
+                    }
+                ],
+                "source": [
+                    {
+                        "docCount": 2,
+                        "key": "Broxtowe Borough Council"
+                    }
+                ],
+                "tags": [
+                    {
+                        "docCount": 2,
+                        "key": "elections"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "boundaries"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "open data"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "polling"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "polling places"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "polling stations"
+                    }
+                ]
+            },
+            "count": 2,
+            "totalCount": 2
+        }
+    }
+}
