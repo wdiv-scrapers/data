@@ -671,7 +671,7 @@
                     "name": "vote"
                 },
                 {
-                    "count": 75,
+                    "count": 76,
                     "name": "local government"
                 },
                 {
@@ -1232,6 +1232,10 @@
                 },
                 {
                     "count": 4,
+                    "name": "property"
+                },
+                {
+                    "count": 4,
                     "name": "polling station"
                 },
                 {
@@ -1277,10 +1281,6 @@
                 {
                     "count": 4,
                     "name": "dot"
-                },
-                {
-                    "count": 4,
-                    "name": "department"
                 }
             ],
             "total_count": 3
