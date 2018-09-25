@@ -675,7 +675,7 @@
                     "name": "local government"
                 },
                 {
-                    "count": 60,
+                    "count": 62,
                     "name": "open data"
                 },
                 {
@@ -691,12 +691,8 @@
                     "name": "voting precincts"
                 },
                 {
-                    "count": 42,
+                    "count": 41,
                     "name": "service definition"
-                },
-                {
-                    "count": 42,
-                    "name": "arcgis"
                 },
                 {
                     "count": 41,
@@ -708,7 +704,7 @@
                 },
                 {
                     "count": 41,
-                    "name": ".sd"
+                    "name": "arcgis"
                 },
                 {
                     "count": 40,
@@ -721,6 +717,10 @@
                 {
                     "count": 40,
                     "name": "arcgis for local government"
+                },
+                {
+                    "count": 40,
+                    "name": ".sd"
                 },
                 {
                     "count": 36,
@@ -855,7 +855,7 @@
                     "name": "poll"
                 },
                 {
-                    "count": 19,
+                    "count": 20,
                     "name": "community"
                 },
                 {
@@ -928,10 +928,6 @@
                 },
                 {
                     "count": 11,
-                    "name": "roanoke county"
-                },
-                {
-                    "count": 11,
                     "name": "polling place"
                 },
                 {
@@ -945,6 +941,10 @@
                 {
                     "count": 10,
                     "name": "trails"
+                },
+                {
+                    "count": 10,
+                    "name": "roanoke county"
                 },
                 {
                     "count": 10,
