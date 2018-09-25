@@ -13,146 +13,6 @@
                 "supports_query_with_datum_transformation": true,
                 "supports_query_with_distance": true,
                 "supports_query_with_result_type": true,
-                "supports_returning_geometry_centroid": true,
-                "supports_returning_geometry_properties": true,
-                "supports_returning_query_extent": true,
-                "supports_sql_expression": true,
-                "supports_statistics": true
-            },
-            "comments_enabled": true,
-            "coverage": "local",
-            "created_at": "2016-06-16T14:10:32.000Z",
-            "current_version": 10.51,
-            "description": "Parliamentary polling district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2007 electoral ward boundaries.",
-            "display_field": "PPD_NAME",
-            "extent": {
-                "coordinates": [
-                    [
-                        -4.68200492295143,
-                        56.1139985933438
-                    ],
-                    [
-                        -3.04823352127839,
-                        56.9592551542214
-                    ]
-                ]
-            },
-            "fields": [
-                {
-                    "alias": "OBJECTID",
-                    "domain": null,
-                    "name": "OBJECTID",
-                    "type": "esriFieldTypeOID"
-                },
-                {
-                    "alias": "MI_PRINX",
-                    "domain": null,
-                    "name": "MI_PRINX",
-                    "type": "esriFieldTypeDouble"
-                },
-                {
-                    "alias": "PPD_NAME",
-                    "domain": null,
-                    "name": "PPD_NAME",
-                    "type": "esriFieldTypeString"
-                },
-                {
-                    "alias": "PPD_ID",
-                    "domain": null,
-                    "name": "PPD_ID",
-                    "type": "esriFieldTypeString"
-                },
-                {
-                    "alias": "POLL_NAME",
-                    "domain": null,
-                    "name": "POLL_NAME",
-                    "type": "esriFieldTypeString"
-                },
-                {
-                    "alias": "POLL_TOWN",
-                    "domain": null,
-                    "name": "POLL_TOWN",
-                    "type": "esriFieldTypeString"
-                },
-                {
-                    "alias": "UPRN",
-                    "domain": null,
-                    "name": "UPRN",
-                    "type": "esriFieldTypeDouble"
-                },
-                {
-                    "alias": "ID_PRE2011",
-                    "domain": null,
-                    "name": "ID_PRE2011",
-                    "type": "esriFieldTypeString"
-                },
-                {
-                    "alias": "ID_PRE2014",
-                    "domain": null,
-                    "name": "ID_PRE2014",
-                    "type": "esriFieldTypeString"
-                }
-            ],
-            "geometry_type": "esriGeometryPolygon",
-            "id": "6dac129ea3cb492b961186e316e09690_0",
-            "item_name": "Polling districts",
-            "item_type": "Feature Layer",
-            "landing_page": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
-            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-            "main_group_description": "<p><font size='2'>This contains data relating to administrative boundaries.</font></p><p><font color='#000000'></font><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'><font size='2'>When you use this information under the Open Government Licence , you should include the following attribution and link to the OGL website. </font></span></p><p><font color='#000000'></font><font size='3'><font size='2'><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'>[Insert Dataset Name ,Perth &amp; Kinross Council , 2016] licensed under the Open Government Licence </span><span style='color: black;'>[</span><span style='color: rgb(68, 68, 68);'><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'><span style='color: blue;'>OGL</span></a></span><span style='color: black;'>].</span></font></font></p>",
-            "main_group_thumbnail_url": null,
-            "main_group_title": "Administrative Boundaries",
-            "max_record_count": 1000,
-            "metadata": {
-                "online_resources": [],
-                "present": true,
-                "published": null,
-                "url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml"
-            },
-            "metadata_url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml?format=default&output=html",
-            "name": "Polling districts",
-            "object_id_field": "OBJECTID",
-            "org_id": "pfFDYSlYcp7mabvZ",
-            "owner": "gis_pkc",
-            "public": true,
-            "quality": 77,
-            "record_count": 106,
-            "service_spatial_reference": {
-                "latestWkid": 27700,
-                "wkid": 27700
-            },
-            "structured_license": {
-                "type": "custom",
-                "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-            },
-            "supported_extensions": "",
-            "supports_advanced_queries": true,
-            "tags": [
-                "polling",
-                " boundary",
-                " elecorate",
-                " administrative"
-            ],
-            "thumbnail_url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/thumbnail/thumbnail.png",
-            "type": "ItemLayer",
-            "updated_at": "2017-09-28T20:18:21.960Z",
-            "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0",
-            "use_standardized_queries": true,
-            "views": null
-        },
-        {
-            "advanced_query_capabilities": {
-                "supports_advanced_query_related": true,
-                "supports_distinct": true,
-                "supports_having_clause": true,
-                "supports_order_by": true,
-                "supports_out_field_sql_expression": true,
-                "supports_pagination": true,
-                "supports_pagination_on_aggregated_queries": true,
-                "supports_query_related_pagination": true,
-                "supports_query_with_datum_transformation": true,
-                "supports_query_with_distance": true,
-                "supports_query_with_result_type": true,
                 "supports_returning_geometry_centroid": false,
                 "supports_returning_query_extent": true,
                 "supports_sql_expression": true,
@@ -406,6 +266,146 @@
             "type": "ItemLayer",
             "updated_at": "2017-09-28T20:18:22.394Z",
             "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0",
+            "use_standardized_queries": true,
+            "views": null
+        },
+        {
+            "advanced_query_capabilities": {
+                "supports_advanced_query_related": true,
+                "supports_distinct": true,
+                "supports_having_clause": true,
+                "supports_order_by": true,
+                "supports_out_field_sql_expression": true,
+                "supports_pagination": true,
+                "supports_pagination_on_aggregated_queries": true,
+                "supports_query_related_pagination": true,
+                "supports_query_with_datum_transformation": true,
+                "supports_query_with_distance": true,
+                "supports_query_with_result_type": true,
+                "supports_returning_geometry_centroid": true,
+                "supports_returning_geometry_properties": true,
+                "supports_returning_query_extent": true,
+                "supports_sql_expression": true,
+                "supports_statistics": true
+            },
+            "comments_enabled": true,
+            "coverage": "local",
+            "created_at": "2016-06-16T14:10:32.000Z",
+            "current_version": 10.51,
+            "description": "Parliamentary polling district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2007 electoral ward boundaries.",
+            "display_field": "PPD_NAME",
+            "extent": {
+                "coordinates": [
+                    [
+                        -4.68200492295143,
+                        56.1139985933438
+                    ],
+                    [
+                        -3.04823352127839,
+                        56.9592551542214
+                    ]
+                ]
+            },
+            "fields": [
+                {
+                    "alias": "OBJECTID",
+                    "domain": null,
+                    "name": "OBJECTID",
+                    "type": "esriFieldTypeOID"
+                },
+                {
+                    "alias": "MI_PRINX",
+                    "domain": null,
+                    "name": "MI_PRINX",
+                    "type": "esriFieldTypeDouble"
+                },
+                {
+                    "alias": "PPD_NAME",
+                    "domain": null,
+                    "name": "PPD_NAME",
+                    "type": "esriFieldTypeString"
+                },
+                {
+                    "alias": "PPD_ID",
+                    "domain": null,
+                    "name": "PPD_ID",
+                    "type": "esriFieldTypeString"
+                },
+                {
+                    "alias": "POLL_NAME",
+                    "domain": null,
+                    "name": "POLL_NAME",
+                    "type": "esriFieldTypeString"
+                },
+                {
+                    "alias": "POLL_TOWN",
+                    "domain": null,
+                    "name": "POLL_TOWN",
+                    "type": "esriFieldTypeString"
+                },
+                {
+                    "alias": "UPRN",
+                    "domain": null,
+                    "name": "UPRN",
+                    "type": "esriFieldTypeDouble"
+                },
+                {
+                    "alias": "ID_PRE2011",
+                    "domain": null,
+                    "name": "ID_PRE2011",
+                    "type": "esriFieldTypeString"
+                },
+                {
+                    "alias": "ID_PRE2014",
+                    "domain": null,
+                    "name": "ID_PRE2014",
+                    "type": "esriFieldTypeString"
+                }
+            ],
+            "geometry_type": "esriGeometryPolygon",
+            "id": "6dac129ea3cb492b961186e316e09690_0",
+            "item_name": "Polling districts",
+            "item_type": "Feature Layer",
+            "landing_page": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "main_group_description": "<p><font size='2'>This contains data relating to administrative boundaries.</font></p><p><font color='#000000'></font><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'><font size='2'>When you use this information under the Open Government Licence , you should include the following attribution and link to the OGL website. </font></span></p><p><font color='#000000'></font><font size='3'><font size='2'><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'>[Insert Dataset Name ,Perth &amp; Kinross Council , 2016] licensed under the Open Government Licence </span><span style='color: black;'>[</span><span style='color: rgb(68, 68, 68);'><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'><span style='color: blue;'>OGL</span></a></span><span style='color: black;'>].</span></font></font></p>",
+            "main_group_thumbnail_url": null,
+            "main_group_title": "Administrative Boundaries",
+            "max_record_count": 1000,
+            "metadata": {
+                "online_resources": [],
+                "present": true,
+                "published": null,
+                "url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml"
+            },
+            "metadata_url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml?format=default&output=html",
+            "name": "Polling districts",
+            "object_id_field": "OBJECTID",
+            "org_id": "pfFDYSlYcp7mabvZ",
+            "owner": "gis_pkc",
+            "public": true,
+            "quality": 77,
+            "record_count": 106,
+            "service_spatial_reference": {
+                "latestWkid": 27700,
+                "wkid": 27700
+            },
+            "structured_license": {
+                "type": "custom",
+                "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "supported_extensions": "",
+            "supports_advanced_queries": true,
+            "tags": [
+                "polling",
+                " boundary",
+                " elecorate",
+                " administrative"
+            ],
+            "thumbnail_url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/thumbnail/thumbnail.png",
+            "type": "ItemLayer",
+            "updated_at": "2017-09-28T20:18:21.960Z",
+            "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0",
             "use_standardized_queries": true,
             "views": null
         },
