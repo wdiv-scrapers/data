@@ -35,10 +35,6 @@
                 "state": "active",
                 "title": "Calderdale Data Works"
             },
-            "shares": {
-                "orgs": {},
-                "users": {}
-            },
             "slug": "calderdale-council",
             "state": "active",
             "title": "Calderdale Council",
@@ -134,10 +130,6 @@
                 }
             },
             "parent": null,
-            "shares": {
-                "orgs": {},
-                "users": {}
-            },
             "site": "dataworks.calderdale.gov.uk",
             "slug": "calderdale",
             "state": "active",
