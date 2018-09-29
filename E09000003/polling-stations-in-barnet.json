@@ -8,7 +8,7 @@
     "createdAt": "2014-08-12T08:45:39",
     "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
     "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
-    "licence": "d753071a-3745-4457-8772-19ae12d77601",
+    "licence": "ogl-v3",
     "licence_notes": "",
     "maintainer": "John Bailey",
     "maintainer_email": "john.bailey@barnet.gov.uk",
@@ -52,88 +52,6 @@
             "harvesters": {},
             "id": "0a3f68a9-9324-47e8-86d0-0cf8b905e2a4",
             "img": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/img/publisher/2018-05-25T16%3A14%3A37.50/barnet.png",
-            "licences": {
-                "076e4b3e-2daf-4250-88b2-10cddbf377b5": {
-                    "is_okd_compliant": true,
-                    "title": "Creative Commons Attribution Share-Alike",
-                    "url": "http://www.opendefinition.org/licenses/cc-by-sa"
-                },
-                "0a43cb22-6cda-44b4-8516-471f52990365": {
-                    "is_okd_compliant": false,
-                    "title": "Not Specified",
-                    "url": ""
-                },
-                "1796ce31-6894-44c5-805f-afdb2cccf94c": {
-                    "is_okd_compliant": true,
-                    "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
-                    "url": "http://www.opendefinition.org/licenses/odc-pddl"
-                },
-                "25cf20e9-6830-4628-8965-465e5229db54": {
-                    "is_okd_compliant": true,
-                    "title": "Creative Commons CCZero",
-                    "url": "http://www.opendefinition.org/licenses/cc-zero"
-                },
-                "2a1cb34f-21f5-474b-8e7d-6d263876da0c": {
-                    "is_okd_compliant": true,
-                    "title": "Open Data Commons Open Database License (ODbL)",
-                    "url": "http://www.opendefinition.org/licenses/odc-odbl"
-                },
-                "2a3db546-fe57-4478-872e-174d14071f8b": {
-                    "is_okd_compliant": true,
-                    "title": "GNU Free Documentation License",
-                    "url": "http://www.opendefinition.org/licenses/gfdl"
-                },
-                "5857b430-ff94-4a18-8d4b-c31fad9d3711": {
-                    "is_okd_compliant": true,
-                    "title": "Open Data Commons Attribution License",
-                    "url": "http://www.opendefinition.org/licenses/odc-by"
-                },
-                "5b3de4b2-9467-40d3-81f7-e11ba0ba5e1e": {
-                    "is_okd_compliant": true,
-                    "title": "Other (Open)",
-                    "url": ""
-                },
-                "71b017b2-dea0-4996-88a1-d5d201d7aa08": {
-                    "is_okd_compliant": true,
-                    "title": "Creative Commons Attribution",
-                    "url": "http://www.opendefinition.org/licenses/cc-by"
-                },
-                "a23e17ee-aebf-4eee-896d-1a12778405c6": {
-                    "is_okd_compliant": true,
-                    "title": "UK Open Government Licence (OGL v2)",
-                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
-                },
-                "a88fccc5-4b2f-44fd-8da6-567dc544a826": {
-                    "is_okd_compliant": false,
-                    "title": "Other (Non-Commercial)",
-                    "url": ""
-                },
-                "bf40353a-615f-47c3-880b-f636f2ba053f": {
-                    "is_okd_compliant": false,
-                    "title": "Creative Commons Non-Commercial (Any)",
-                    "url": "http://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                "cde72da9-992a-450f-88f9-3ec1c9da4a32": {
-                    "is_okd_compliant": false,
-                    "title": "Other (Not Open)",
-                    "url": ""
-                },
-                "d5bc9c2a-9ad9-49c2-8245-f8790559ea29": {
-                    "is_okd_compliant": true,
-                    "title": "Other (Public Domain)",
-                    "url": ""
-                },
-                "d753071a-3745-4457-8772-19ae12d77601": {
-                    "is_okd_compliant": true,
-                    "title": "UK Open Government Licence (OGL v3)",
-                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-                },
-                "eb972d0c-7896-43f7-8991-4646b0312538": {
-                    "is_okd_compliant": true,
-                    "title": "Other (Attribution)",
-                    "url": ""
-                }
-            },
             "parent": null,
             "site": "open.barnet.gov.uk",
             "slug": "barnet",
