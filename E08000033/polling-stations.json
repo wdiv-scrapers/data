@@ -10,7 +10,6 @@
     "maintainer_email": "",
     "odi-certificate": "",
     "parent": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
-    "private": false,
     "readonly": {
         "auth": {
             "package_update": false
@@ -253,6 +252,7 @@
         "orgs": {},
         "users": {}
     },
+    "sharing": "public",
     "slug": "polling-stations",
     "state": "active",
     "tags": [
