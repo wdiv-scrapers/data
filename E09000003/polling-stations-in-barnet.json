@@ -15,7 +15,6 @@
     "next_review_date": "2004-05-20",
     "odi-certificate": "",
     "parent": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
-    "private": false,
     "readonly": {
         "auth": {
             "package_update": false
@@ -174,6 +173,7 @@
         "orgs": {},
         "users": {}
     },
+    "sharing": "public",
     "slug": "polling-stations-in-barnet",
     "state": "active",
     "tags": [
