@@ -146,27 +146,7 @@
             "temporal_coverage_from": "2018-05-03",
             "temporal_coverage_to": "2018-05-03",
             "title": "Polling Stations",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54.34/Barnet2018PollingStationsList.csv",
-            "versions": [
-                {
-                    "format": "CSV",
-                    "size": 6973,
-                    "timestamp": "2016-05-26T12:11:06.579Z",
-                    "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv"
-                },
-                {
-                    "format": "csv",
-                    "size": 6973,
-                    "timestamp": "2017-05-10T20:29:35.176Z",
-                    "url": "https://files.datapress.com/barnet/dataset/polling-stations-in-barnet/2016-05-26T13:10:59/Polling Stations 2016.csv"
-                },
-                {
-                    "format": "csv",
-                    "size": 6973,
-                    "timestamp": "2018-06-12T13:24:56.075Z",
-                    "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54.34/Barnet2018PollingStationsList.csv"
-                }
-            ]
+            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54.34/Barnet2018PollingStationsList.csv"
         }
     },
     "shares": {
