@@ -141,7 +141,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A21%3A19.23/polling-districts-json.json"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A21%3A19/polling-districts-json.json"
         },
         "1db9502f-961f-48c5-a3ec-d9685b76c8dd": {
             "check_hash": "28bdc998c40c3374699bebb3877f562a",
@@ -155,7 +155,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Luddendenfoot ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A00%3A08.15/Luddendenfoot.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A00%3A08/Luddendenfoot.pdf"
         },
         "4114fd1d-e226-41f4-a3ea-2a1f052cd351": {
             "check_hash": "95367c5ed0d586e740db72c5eca88fae",
@@ -169,7 +169,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts - Shape Files",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A20%3A54.17/polling-districts-shp.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A20%3A54/polling-districts-shp.zip"
         },
         "4fa0969c-27ae-47a6-bbcd-ec3ae58e786c": {
             "check_hash": "78c279bc7c6260720d4285ad745a5076",
@@ -183,7 +183,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Ovenden ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A01%3A45.87/Ovenden.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A01%3A45/Ovenden.pdf"
         },
         "5f56d3ec-1801-415d-8310-e29c9b3967de": {
             "check_hash": "12933a484dde40bde35f587bf6b071f7",
@@ -197,7 +197,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Calder ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A55%3A41.30/Calder.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A55%3A41/Calder.pdf"
         },
         "66ef0335-e4da-4e0c-95d3-3b615ec275ba": {
             "check_hash": "2d7a9ef904ecd5f191fd0cbd10f82885",
@@ -211,7 +211,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Town ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A06%3A46.42/Town.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A06%3A46/Town.pdf"
         },
         "6967eed3-0513-496b-b305-21802d6d00f4": {
             "check_hash": "3740b36f089bd6199811990ea1392f56",
@@ -225,7 +225,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Brighouse ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A54%3A38.73/Brighouse.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A54%3A38/Brighouse.pdf"
         },
         "6bce1477-f30a-408c-8da2-6c5752294fd7": {
             "check_hash": "74e1c3316c9c5a38cf189cd0467f67a4",
@@ -239,7 +239,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Ryburn ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A03%3A53.41/Ryburn.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A03%3A53/Ryburn.pdf"
         },
         "6d0f21a1-9da3-494e-9083-7dc2cbd8d81a": {
             "check_hash": "e9c1a824927ae7aa7641fc92c07d469d",
@@ -253,7 +253,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Greetland and Stainland ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A56%3A47.22/Greetland%20and%20Stainland.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A56%3A47/Greetland%20and%20Stainland.pdf"
         },
         "81773e19-fca5-4074-b588-fd3130e65026": {
             "check_hash": "ef84f9bf615001712b0f303f7bbd761c",
@@ -267,7 +267,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Illingworth and Mixenden ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A59%3A29.76/Illingworth%20and%20Mixenden.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A59%3A29/Illingworth%20and%20Mixenden.pdf"
         },
         "8a64087b-9340-4653-afc0-6e2ebbbb606b": {
             "check_hash": "d3b6069f1a646de5deb9ccb57cd6c087",
@@ -281,7 +281,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Warley ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A07%3A43.18/Warley.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A07%3A43/Warley.pdf"
         },
         "8ac1097e-72b2-4622-b4b3-f4d098a73a4f": {
             "check_hash": "d28ccbb38f63e9183fc777eef554d6ec",
@@ -295,7 +295,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Hipperholme and Lightcliffe ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A58%3A47.11/Hipperholme%20and%20Lightcliffe.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A58%3A47/Hipperholme%20and%20Lightcliffe.pdf"
         },
         "8c98c54f-50a2-46f2-b5a6-d8d78b568b7a": {
             "check_hash": "e3e981c01a2bae0b39f4202ea0eae164",
@@ -309,7 +309,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Todmorden ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A06%3A02.96/Todmorden.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A06%3A02/Todmorden.pdf"
         },
         "9498c37b-35b7-4d1d-8eab-1ca86234be1c": {
             "check_hash": "1210cc3f17ef989b0fc2b4525b849a3c",
@@ -323,7 +323,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Sowerby Bridge ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A05%3A17.59/Sowerby%20Bridge.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A05%3A17/Sowerby%20Bridge.pdf"
         },
         "9f527b18-c669-4fb8-91f6-320f6c253391": {
             "check_hash": "d2b5621653fce1aab48bec37c1efc7f0",
@@ -337,7 +337,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Skircoat ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A04%3A30.64/Skircoat.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A04%3A30/Skircoat.pdf"
         },
         "b033c876-eeda-4b60-bce9-a924ca28de75": {
             "check_hash": "29c449cc487ff9c55d66828b31fe3f30",
@@ -351,7 +351,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A21%3A07.63/POLLING_DISTRICTS.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A21%3A07/POLLING_DISTRICTS.csv"
         },
         "c0d13570-1b4d-4258-adaf-177405bf394d": {
             "check_hash": "a0e04050ab15654eb20f7a360da91772",
@@ -365,7 +365,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Northowram and Shelf ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A01%3A02.18/Northowram%20and%20Shelf.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A01%3A02/Northowram%20and%20Shelf.pdf"
         },
         "d66d63db-43e5-44af-83dd-21fd26aced0a": {
             "check_hash": "8d5364ae4cdab2bde73ac97a4f11bc45",
@@ -379,7 +379,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Elland ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A56%3A16.14/Elland.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A56%3A16/Elland.pdf"
         },
         "d96c03f5-95fa-4d30-96b3-66cf101fe814": {
             "check_hash": "1f04b450a0146e42f4b3cf006ec059fa",
@@ -393,7 +393,7 @@
             "temporal_coverage_from": "2016-03-01",
             "temporal_coverage_to": "2017-03-01",
             "title": "Polling Station Districts - Tab Files",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A20%3A41.96/polling-districts-tab.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2018-02-26T10%3A20%3A41/polling-districts-tab.zip"
         },
         "db9f780b-3c9f-4054-b446-a8dd9a1518de": {
             "check_hash": "b040fb41b85293a971b03500db8531f1",
@@ -407,7 +407,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Rastrick ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A03%3A13.47/Rastrick.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A03%3A13/Rastrick.pdf"
         },
         "e00aab45-e108-436c-b658-319cd61b99e9": {
             "check_hash": "25d0a71693efd77abbd063d859088cf3",
@@ -421,7 +421,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Park ward polling districts",
-            "url": "https://s3-eu-west-1.amazonaws.com/files.datapress.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A02%3A28.60/Park.pdf"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A02%3A28/Park.pdf"
         }
     },
     "shares": {
