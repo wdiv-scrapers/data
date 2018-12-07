@@ -952,23 +952,6 @@
         "pk": 62
     },
     {
-        "ADDRESS": "Mornington Primary School Mornington Crescent Nuthall Nottinghamshire NG16 1RF",
-        "CURR": "Yes",
-        "LABEL": "Mornington Primary School",
-        "Licence": "Open Government Licence",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 63,
-        "Origin": "Broxtowe Borough Council",
-        "POLL_DIST": "NES2",
-        "POSTCODE": "NG16 1RF",
-        "UPDATED": "2016-04-28T00:00:00.000Z",
-        "X": 451968.167,
-        "Y": 343511.325,
-        "council_id": "E07000172",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2273369013415256, 52.986447269931965], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Mornington Primary School Mornington Crescent Nuthall Nottinghamshire NG16 1RF\", \"CURR\": \"Yes\", \"LABEL\": \"Mornington Primary School\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 63, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1RF\", \"UPDATED\": \"2016-04-28T00:00:00.000Z\", \"X\": 451968.167, \"Y\": 343511.325}, \"type\": \"Feature\"}",
-        "pk": 63
-    },
-    {
         "ADDRESS": "Temple Centre Nottingham Road Nuthall Nottinghamshire NG16 1DP",
         "CURR": "Yes",
         "LABEL": "Nuthall Temple Centre",
@@ -1103,5 +1086,22 @@
         "council_id": "E07000172",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2942903916049318, 53.016195070765804], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Eastwood Elder Citizens Community Centre 15 Edward Road Eastwood Nottinghamshire NG16 3EU\", \"CURR\": \"Yes\", \"LABEL\": \"Age Concern\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 74, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"EHT1\", \"POSTCODE\": \"NG16 3EU\", \"UPDATED\": \"2015-01-12T00:00:00.000Z\", \"X\": 447440.896, \"Y\": 346774.348}, \"type\": \"Feature\"}",
         "pk": 74
+    },
+    {
+        "ADDRESS": "Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE",
+        "CURR": "Yes",
+        "LABEL": "Oldmoor Lodge Function Room",
+        "Licence": "Open Government Licence",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 79,
+        "Origin": "Broxtowe Borough Council",
+        "POLL_DIST": "NES2",
+        "POSTCODE": "NG16 1QE",
+        "UPDATED": "2018-08-29T00:00:00.000Z",
+        "X": 451769.0,
+        "Y": 343489.0,
+        "council_id": "E07000172",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2303022839751063, 52.986267803236004], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE\", \"CURR\": \"Yes\", \"LABEL\": \"Oldmoor Lodge Function Room\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 79, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1QE\", \"UPDATED\": \"2018-08-29T00:00:00.000Z\", \"X\": 451769, \"Y\": 343489}, \"type\": \"Feature\"}",
+        "pk": 79
     }
 ]
