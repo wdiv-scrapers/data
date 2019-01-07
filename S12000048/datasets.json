@@ -1,0 +1,923 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsAdvancedQueryRelated": true,
+                    "supportsDistinct": true,
+                    "supportsHavingClause": true,
+                    "supportsOrderBy": true,
+                    "supportsOutFieldSQLExpression": true,
+                    "supportsPagination": true,
+                    "supportsPaginationOnAggregatedQueries": true,
+                    "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithDatumTransformation": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsQueryWithResultType": true,
+                    "supportsReturningGeometryCentroid": true,
+                    "supportsReturningGeometryProperties": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsSqlExpression": true,
+                    "supportsStatistics": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2016-06-16T14:01:12.000Z",
+                "currentVersion": "10.51",
+                "dataType": "Layer",
+                "description": "Community Council boundaries adopted in November 2011.",
+                "displayField": "NAME",
+                "downloadCache": "hosted",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -4.68195649853323,
+                            56.1133643123794
+                        ],
+                        [
+                            -3.04818765948735,
+                            56.9592886719234
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2017-09-28T20:18:19.283Z"
+                    },
+                    {
+                        "alias": "MI_PRINX",
+                        "domain": null,
+                        "name": "MI_PRINX",
+                        "statistics": {
+                            "avg": 26.5,
+                            "count": 52,
+                            "duration": 802.73732098937,
+                            "max": 52,
+                            "min": 1,
+                            "stddev": 15.1547572288924,
+                            "sum": 1378,
+                            "var": 229.666666666667
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2017-09-28T20:18:20.086Z"
+                    },
+                    {
+                        "alias": "NAME",
+                        "domain": null,
+                        "name": "NAME",
+                        "statistics": {
+                            "count": 52,
+                            "duration": 310.852079004049,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "West Carse"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tulloch"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Stanley"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "St Fillans"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spittalfield and District"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Scone and District"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rannoch and Tummel"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portmoak"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Pitlochry and Moulin"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "North Muirton"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2017-09-28T20:18:19.595Z"
+                    },
+                    {
+                        "alias": "CC_NUMBER",
+                        "domain": null,
+                        "name": "CC_NUMBER",
+                        "statistics": {
+                            "count": 52,
+                            "duration": 176.151845991611,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "9"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "8"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "7"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "53"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "52"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "51"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "50"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "5"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "49"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "48"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2017-09-28T20:18:19.460Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPolygon",
+                "harvestedAt": "2017-09-28T20:18:22.349Z",
+                "hasErrors": false,
+                "hasWarnings": false,
+                "itemName": "Community Councils",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=0d911f5dd4e14c03b0b434ed6076fe00",
+                "licenseInfo": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+                "maxRecordCount": 1000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": true,
+                    "published": null,
+                    "url": "https://www.arcgis.com/sharing/rest/content/items/0d911f5dd4e14c03b0b434ed6076fe00/info/metadata/metadata.xml"
+                },
+                "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/0d911f5dd4e14c03b0b434ed6076fe00/info/metadata/metadata.xml?format=default&output=html",
+                "name": "Community Councils",
+                "objectIdField": "OBJECTID",
+                "owner": "gis_pkc",
+                "public": true,
+                "quality": 77,
+                "recordCount": 52,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "pkc::community-councils",
+                "source": "Perth & Kinross Council",
+                "structuredLicense": {
+                    "type": "custom",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "supportedExtensions": "",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "polling",
+                    " boundary",
+                    " administrative",
+                    " community"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/0d911f5dd4e14c03b0b434ed6076fe00/info/thumbnail/thumbnail.png",
+                "timeInfo": null,
+                "title": "community councils",
+                "type": "Layer",
+                "updatedAt": "2017-09-28T20:18:22.643Z",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "0d911f5dd4e14c03b0b434ed6076fe00_0",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "c6c78d59d7754bc68bb02cbf869252d2",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "pfFDYSlYcp7mabvZ",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 3
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsAdvancedQueryRelated": true,
+                    "supportsDistinct": true,
+                    "supportsHavingClause": true,
+                    "supportsOrderBy": true,
+                    "supportsOutFieldSQLExpression": true,
+                    "supportsPagination": true,
+                    "supportsPaginationOnAggregatedQueries": true,
+                    "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithDatumTransformation": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsQueryWithResultType": true,
+                    "supportsReturningGeometryCentroid": false,
+                    "supportsReturningQueryExtent": true,
+                    "supportsSqlExpression": true,
+                    "supportsStatistics": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2016-06-16T14:18:53.000Z",
+                "currentVersion": "10.51",
+                "dataType": "Layer",
+                "description": "Location of polling places to be used for elections in PKC from 2011 onwards.",
+                "displayField": "NAME",
+                "downloadCache": "hosted",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -4.15317217381749,
+                            56.1327872340046
+                        ],
+                        [
+                            -3.07002586037149,
+                            56.7750331472143
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2017-09-28T20:18:19.235Z"
+                    },
+                    {
+                        "alias": "MI_PRINX",
+                        "domain": null,
+                        "name": "MI_PRINX",
+                        "statistics": {
+                            "avg": 44,
+                            "count": 87,
+                            "duration": 409.874955996871,
+                            "max": 87,
+                            "min": 1,
+                            "stddev": 25.2586618806302,
+                            "sum": 3828,
+                            "var": 638
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2017-09-28T20:18:19.645Z"
+                    },
+                    {
+                        "alias": "UPRN",
+                        "domain": null,
+                        "name": "UPRN",
+                        "statistics": {
+                            "avg": 124061630.586207,
+                            "count": 87,
+                            "duration": 250.725228995085,
+                            "max": 124097652,
+                            "min": 124002031,
+                            "stddev": 22589.796519462,
+                            "sum": 10793361861,
+                            "var": 510298906.790698
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2017-09-28T20:18:19.486Z"
+                    },
+                    {
+                        "alias": "NAME",
+                        "domain": null,
+                        "name": "NAME",
+                        "statistics": {
+                            "count": 87,
+                            "duration": 130.396496996284,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "Williamson Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Upper Springland"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tulloch Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Institute"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Crook of Devon Institute"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tabernacle Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Strathearn Community Campus"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Stanley Village Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "St Madoes Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "St John's RC Church Hall"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2017-09-28T20:18:19.366Z"
+                    },
+                    {
+                        "alias": "SETTLEMENT",
+                        "domain": null,
+                        "name": "SETTLEMENT",
+                        "statistics": {
+                            "count": 68,
+                            "duration": 159.590231999755,
+                            "values": [
+                                {
+                                    "count": 17,
+                                    "value": "Perth"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Blairgowrie"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Crieff"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tummel Bridge"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Stanley"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "St Madoes"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "St Fillans"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Scotlandwell"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Scone"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Ruthvenfield"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2017-09-28T20:18:19.395Z"
+                    },
+                    {
+                        "alias": "EASTING",
+                        "domain": null,
+                        "name": "EASTING",
+                        "statistics": {
+                            "avg": 305543.517241379,
+                            "count": 87,
+                            "duration": 157.191698998213,
+                            "max": 334705,
+                            "min": 266278,
+                            "stddev": 14798.8920341578,
+                            "sum": 26582286,
+                            "var": 219007205.438658
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2017-09-28T20:18:19.393Z"
+                    },
+                    {
+                        "alias": "NORTHING",
+                        "domain": null,
+                        "name": "NORTHING",
+                        "statistics": {
+                            "avg": 729738.517241379,
+                            "count": 87,
+                            "duration": 142.418934002519,
+                            "max": 765341,
+                            "min": 695430,
+                            "stddev": 15958.0481225162,
+                            "sum": 63487251,
+                            "var": 254659299.880541
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2017-09-28T20:18:19.379Z"
+                    }
+                ],
+                "geometryType": "esriGeometryMultipoint",
+                "harvestedAt": "2017-09-28T20:18:22.117Z",
+                "hasErrors": false,
+                "hasWarnings": false,
+                "itemName": "Polling places",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=909e45688aa646199cad8e8616ddef7a",
+                "licenseInfo": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+                "maxRecordCount": 1000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": true,
+                    "published": null,
+                    "url": "https://www.arcgis.com/sharing/rest/content/items/909e45688aa646199cad8e8616ddef7a/info/metadata/metadata.xml"
+                },
+                "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/909e45688aa646199cad8e8616ddef7a/info/metadata/metadata.xml?format=default&output=html",
+                "name": "Polling places",
+                "objectIdField": "OBJECTID",
+                "owner": "gis_pkc",
+                "public": true,
+                "quality": 77,
+                "recordCount": 87,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "pkc::polling-places",
+                "source": "Perth & Kinross Council",
+                "structuredLicense": {
+                    "type": "custom",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "supportedExtensions": "",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "polling",
+                    " boundary",
+                    " electorate",
+                    " administrative"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/909e45688aa646199cad8e8616ddef7a/info/thumbnail/thumbnail.png",
+                "timeInfo": null,
+                "title": "polling places",
+                "type": "Layer",
+                "updatedAt": "2017-09-28T20:18:22.394Z",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "909e45688aa646199cad8e8616ddef7a_0",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/909e45688aa646199cad8e8616ddef7a_0"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "c6c78d59d7754bc68bb02cbf869252d2",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "pfFDYSlYcp7mabvZ",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 3
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsAdvancedQueryRelated": true,
+                    "supportsDistinct": true,
+                    "supportsHavingClause": true,
+                    "supportsOrderBy": true,
+                    "supportsOutFieldSQLExpression": true,
+                    "supportsPagination": true,
+                    "supportsPaginationOnAggregatedQueries": true,
+                    "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithDatumTransformation": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsQueryWithResultType": true,
+                    "supportsReturningGeometryCentroid": true,
+                    "supportsReturningGeometryProperties": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsSqlExpression": true,
+                    "supportsStatistics": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2016-06-16T14:10:32.000Z",
+                "currentVersion": "10.51",
+                "dataType": "Layer",
+                "description": "Parliamentary polling district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2007 electoral ward boundaries.",
+                "displayField": "PPD_NAME",
+                "downloadCache": "hosted",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -4.68200492295143,
+                            56.1139985933438
+                        ],
+                        [
+                            -3.04823352127839,
+                            56.9592551542214
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "type": "esriFieldTypeOID"
+                    },
+                    {
+                        "alias": "MI_PRINX",
+                        "domain": null,
+                        "name": "MI_PRINX",
+                        "type": "esriFieldTypeDouble"
+                    },
+                    {
+                        "alias": "PPD_NAME",
+                        "domain": null,
+                        "name": "PPD_NAME",
+                        "type": "esriFieldTypeString"
+                    },
+                    {
+                        "alias": "PPD_ID",
+                        "domain": null,
+                        "name": "PPD_ID",
+                        "type": "esriFieldTypeString"
+                    },
+                    {
+                        "alias": "POLL_NAME",
+                        "domain": null,
+                        "name": "POLL_NAME",
+                        "type": "esriFieldTypeString"
+                    },
+                    {
+                        "alias": "POLL_TOWN",
+                        "domain": null,
+                        "name": "POLL_TOWN",
+                        "type": "esriFieldTypeString"
+                    },
+                    {
+                        "alias": "UPRN",
+                        "domain": null,
+                        "name": "UPRN",
+                        "type": "esriFieldTypeDouble"
+                    },
+                    {
+                        "alias": "ID_PRE2011",
+                        "domain": null,
+                        "name": "ID_PRE2011",
+                        "type": "esriFieldTypeString"
+                    },
+                    {
+                        "alias": "ID_PRE2014",
+                        "domain": null,
+                        "name": "ID_PRE2014",
+                        "type": "esriFieldTypeString"
+                    }
+                ],
+                "geometryType": "esriGeometryPolygon",
+                "harvestedAt": "2017-09-28T20:18:21.913Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "Polling districts",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
+                "licenseInfo": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+                "maxRecordCount": 1000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "data": {
+                                "server_message": "Got 500 on GET to https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0/query?where=1%3D1&returnIdsOnly=true&f=json"
+                            },
+                            "key": "messages.inspectors.idsonlyquery.fail"
+                        },
+                        "log": "Ids Only query failed. Server responded with [Got 500 on GET to https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0/query?where=1%3D1&returnIdsOnly=true&f=json]",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.stats.not_generated.other_error"
+                        },
+                        "log": "Other errors listed prevented statistics from being generated for any fields in this dataset.",
+                        "type": "warn"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": true,
+                    "published": null,
+                    "url": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml"
+                },
+                "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml?format=default&output=html",
+                "name": "Polling districts",
+                "objectIdField": "OBJECTID",
+                "owner": "gis_pkc",
+                "public": true,
+                "quality": 77,
+                "recordCount": 106,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "pkc::polling-districts",
+                "source": "Perth & Kinross Council",
+                "structuredLicense": {
+                    "type": "custom",
+                    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                },
+                "supportedExtensions": "",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "polling",
+                    " boundary",
+                    " elecorate",
+                    " administrative"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/thumbnail/thumbnail.png",
+                "timeInfo": null,
+                "title": "polling districts",
+                "type": "Layer",
+                "updatedAt": "2017-09-28T20:18:21.960Z",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "6dac129ea3cb492b961186e316e09690_0",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/6dac129ea3cb492b961186e316e09690_0"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "c6c78d59d7754bc68bb02cbf869252d2",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "pfFDYSlYcp7mabvZ",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 3
+                    }
+                }
+            },
+            "type": "dataset"
+        }
+    ],
+    "included": [
+        {
+            "attributes": {
+                "contact": {
+                    "email": "gis@pkc.gov.uk",
+                    "name": "Caroline Hogan",
+                    "phone": null
+                },
+                "culture": "en",
+                "description": "<br>",
+                "homepageUrl": "http://www.pkc.gov.uk",
+                "logo": "http://www.pkc.gov.uk/media/38311/PKC-logo/affiliate-logo/PKClogo",
+                "summary": "",
+                "title": "Perth & Kinross Council",
+                "type": "localgov",
+                "urlKey": "pkc"
+            },
+            "id": "pfFDYSlYcp7mabvZ",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/organizations/pfFDYSlYcp7mabvZ"
+            },
+            "type": "organization"
+        },
+        {
+            "attributes": {
+                "createdAt": "2016-05-10T14:24:27.603Z",
+                "description": "<p><font size='2'>This contains data relating to administrative boundaries.</font></p><p><font color='#000000'></font><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'><font size='2'>When you use this information under the Open Government Licence , you should include the following attribution and link to the OGL website. </font></span></p><p><font color='#000000'></font><font size='3'><font size='2'><span style='color: rgb(68, 68, 68); mso-bidi-font-family: Arial;'>[Insert Dataset Name ,Perth &amp; Kinross Council , 2016] licensed under the Open Government Licence </span><span style='color: black;'>[</span><span style='color: rgb(68, 68, 68);'><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'><span style='color: blue;'>OGL</span></a></span><span style='color: black;'>].</span></font></font></p>",
+                "tags": [
+                    "administrative",
+                    "electorate",
+                    "boundary"
+                ],
+                "title": "Administrative Boundaries",
+                "updatedAt": "2017-09-28T20:18:13.371Z"
+            },
+            "id": "c6c78d59d7754bc68bb02cbf869252d2",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/groups/c6c78d59d7754bc68bb02cbf869252d2"
+            },
+            "type": "group"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=gis-pkc.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt",
+        "last": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=gis-pkc.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt"
+    },
+    "meta": {
+        "apiRoot": "https://opendata.arcgis.com/api/v2",
+        "queryParameters": {
+            "filter": {
+                "catalogs": "gis-pkc.opendata.arcgis.com"
+            },
+            "include": "organizations,groups",
+            "page": {
+                "number": 1,
+                "size": 10
+            },
+            "q": "polling",
+            "sort": "-updatedAt"
+        },
+        "request": "https://opendata.arcgis.com/api/v2/datasets?filter%5Bcatalogs%5D=gis-pkc.opendata.arcgis.com&include=organizations%2Cgroups&page%5Bnumber%5D=1&page%5Bsize%5D=10&q=polling&sort=-updatedAt",
+        "resourceRoot": "https://opendata.arcgis.com/api/v2/datasets",
+        "stats": {
+            "aggs": {
+                "content": [
+                    {
+                        "docCount": 3,
+                        "key": "spatial dataset"
+                    }
+                ],
+                "source": [
+                    {
+                        "docCount": 3,
+                        "key": "Perth & Kinross Council"
+                    }
+                ],
+                "tags": [
+                    {
+                        "docCount": 3,
+                        "key": " administrative"
+                    },
+                    {
+                        "docCount": 3,
+                        "key": " boundary"
+                    },
+                    {
+                        "docCount": 3,
+                        "key": "polling"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": " community"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": " elecorate"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": " electorate"
+                    }
+                ]
+            },
+            "count": 3,
+            "totalCount": 3
+        }
+    }
+}
