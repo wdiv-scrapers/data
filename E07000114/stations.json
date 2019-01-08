@@ -30,16 +30,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [1.3380507757363813, 51.38332169537311], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"ADDRESS\": \"Christ Church United Reformed Church 54 Westgate Bay Avenue Westgate On Sea Kent CT8 8SN\", \"DISTRICT\": \"MA\", \"OBJECTID\": 3, \"POSTCODE\": \"CT8 8SN\", \"X\": 632367, \"Y\": 170207}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Broadstairs Youth \u0016 Leisure Centre Retort House Albion Street BROADSTAIRS Kent CT10 1NE",
-        "DISTRICT": "BSD",
-        "OBJECTID": 4,
-        "POSTCODE": "CT10 1NE",
-        "X": 639787,
-        "Y": 167944,
-        "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4429552451422025, 51.35992825300312], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"ADDRESS\": \"Broadstairs Youth \\u0016 Leisure Centre Retort House Albion Street BROADSTAIRS Kent CT10 1NE\", \"DISTRICT\": \"BSD\", \"OBJECTID\": 4, \"POSTCODE\": \"CT10 1NE\", \"X\": 639787, \"Y\": 167944}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Westgate Community Centre Lymington Road Westgate On Sea Kent CT8 8EJ",
         "DISTRICT": "MB",
         "OBJECTID": 5,
@@ -508,5 +498,25 @@
         "Y": 169838,
         "council_id": "E07000114",
         "geometry": "{\"geometry\": {\"coordinates\": [1.355779106447764, 51.37949620450134], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"ADDRESS\": \"Garlinge Methodist Church Canterbury Road MARGATE Kent CT9 5JP\", \"DISTRICT\": \"ME\", \"OBJECTID\": 51, \"POSTCODE\": \"CT9 5JP\", \"X\": 633620, \"Y\": 169838}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Holy Trinity Church Hall Church Road Broadstairs",
+        "DISTRICT": "BSD",
+        "OBJECTID": 52,
+        "POSTCODE": "CT10 1EZ",
+        "X": 639842,
+        "Y": 167991,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4438388530289787, 51.360422622302295], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall Church Road Broadstairs\", \"DISTRICT\": \"BSD \", \"OBJECTID\": 52, \"POSTCODE\": \"CT10 1EZ\", \"X\": 639842, \"Y\": 167991}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "",
+        "DISTRICT": "",
+        "OBJECTID": 54,
+        "POSTCODE": "",
+        "X": 0,
+        "Y": 0,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": null, \"id\": 54, \"properties\": {\"ADDRESS\": \" \", \"DISTRICT\": \" \", \"OBJECTID\": 54, \"POSTCODE\": \" \", \"X\": 0, \"Y\": 0}, \"type\": \"Feature\"}"
     }
 ]
