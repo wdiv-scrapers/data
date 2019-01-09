@@ -738,6 +738,15 @@
         "pk": 331
     },
     {
+        "OBJECTID_1": 332,
+        "POLLINGDIS": "XED",
+        "POLLINGSTA": "Bedern Hall, Bartle Garth, St Andrewgate",
+        "WARD": "Guildhall",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0789563992253408, 53.96149779782537], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 332, \"POLLINGDIS\": \"XED\", \"POLLINGSTA\": \"Bedern Hall, Bartle Garth, St Andrewgate\", \"WARD\": \"Guildhall\"}, \"type\": \"Feature\"}",
+        "pk": 332
+    },
+    {
         "OBJECTID_1": 333,
         "POLLINGDIS": "JB",
         "POLLINGSTA": "Clements Hall, Nunthorpe Road, York, YO23 1BG",
