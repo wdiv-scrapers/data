@@ -192,18 +192,6 @@
         "pk": 16
     },
     {
-        "ADDRESS": "St Johns Methodist Church Hall Vale Road Southborough Royal Tunbridge Wells Kent",
-        "Constituen": "Tunbridge Wells",
-        "County_Div": "Tunbridge Wells North",
-        "OBJECTID": 17,
-        "Polling_Di": "Southborough North",
-        "Polling_le": "C",
-        "Ward": "Southborough North",
-        "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.25674720268084283, 51.16003137387542], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Methodist Church Hall Vale Road Southborough Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 17, \"Polling_Di\": \"Southborough North\", \"Polling_le\": \"C\", \"Ward\": \"Southborough North\"}, \"type\": \"Feature\"}",
-        "pk": 17
-    },
-    {
         "ADDRESS": "Arnold Cooke Hall, All Saints Church, Five Oak Green Road, Tudeley, Tonbridge, Kent TN11 0NZ.",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells Rural",
@@ -420,18 +408,6 @@
         "pk": 35
     },
     {
-        "ADDRESS": "United Refomed Church Manor Road Rusthall Royal Tunbridge Wells Kent TN4 8UD",
-        "Constituen": "Tunbridge Wells",
-        "County_Div": "Tunbridge Wells West",
-        "OBJECTID": 36,
-        "Polling_Di": "Rusthall West",
-        "Polling_le": "OO",
-        "Ward": "Rusthall",
-        "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.23045636026775823, 51.135416500420085], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"United Refomed Church Manor Road Rusthall Royal Tunbridge Wells Kent TN4 8UD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 36, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
-        "pk": 36
-    },
-    {
         "ADDRESS": "Bishops Down County Primary School Rydal Drive Royal Tunbridge Wells Kent TN4 9SU",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells West",
@@ -502,18 +478,6 @@
         "council_id": "E07000116",
         "geometry": "{\"geometry\": {\"coordinates\": [0.2612740359287738, 51.140023906651045], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall St Johns Road Royal Tunbridge Wells Kent TN4 9LG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 42, \"Polling_Di\": \"Grosvenor\", \"Polling_le\": \"WW\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
         "pk": 42
-    },
-    {
-        "ADDRESS": "United Refomed Church Manor Road Rusthall Royal Tunbridge Wells Kent TN4 8UD",
-        "Constituen": "Tunbridge Wells",
-        "County_Div": "Tunbridge Wells West",
-        "OBJECTID": 43,
-        "Polling_Di": "Rusthall East",
-        "Polling_le": "PP",
-        "Ward": "Rusthall",
-        "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.23045636026775823, 51.135416500420085], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"United Refomed Church Manor Road Rusthall Royal Tunbridge Wells Kent TN4 8UD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 43, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
-        "pk": 43
     },
     {
         "ADDRESS": "Village Hall The Street Benenden Cranbrook Kent TN17 4DE",
@@ -598,5 +562,41 @@
         "council_id": "E07000116",
         "geometry": "{\"geometry\": {\"coordinates\": [0.38577276791892834, 51.17923007456622], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Day Centre Dowding House Commercial Road Paddock Wood Tonbridge Kent TN12 6DP\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 50, \"Polling_Di\": \"Paddock Wood East\", \"Polling_le\": \"MA\", \"Ward\": \"Paddock Wood East\"}, \"type\": \"Feature\"}",
         "pk": 50
+    },
+    {
+        "ADDRESS": "St Dunstans Church Hall London Road Southborough Royal Tunbridge Wells Kent TN4 0QA",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells North",
+        "OBJECTID": 402,
+        "Polling_Di": "Southborough North",
+        "Polling_le": "C",
+        "Ward": "Southborough North",
+        "council_id": "E07000116",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.25679322780381325, 51.16045691905355], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Dunstans Church Hall London Road Southborough Royal Tunbridge Wells Kent TN4 0QA \", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 402, \"Polling_Di\": \"Southborough North\", \"Polling_le\": \"C\", \"Ward\": \"Southborough North\"}, \"type\": \"Feature\"}",
+        "pk": 402
+    },
+    {
+        "ADDRESS": "The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells West",
+        "OBJECTID": 404,
+        "Polling_Di": "Rusthall East",
+        "Polling_le": "PP",
+        "Ward": "Rusthall",
+        "council_id": "E07000116",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2328827573183009, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 404, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "pk": 404
+    },
+    {
+        "ADDRESS": "The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells West",
+        "OBJECTID": 405,
+        "Polling_Di": "Rusthall West",
+        "Polling_le": "OO",
+        "Ward": "Rusthall",
+        "council_id": "E07000116",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2328827573183009, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 405, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "pk": 405
     }
 ]
