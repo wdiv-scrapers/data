@@ -937,7 +937,7 @@
     {
         "ADDRESS": "Scout Hall Back Lane Nuthall Nottinghamshire",
         "CURR": "Yes",
-        "LABEL": "St Patrick's Church Hall",
+        "LABEL": "St Patricks Church Hall",
         "Licence": "Open Government Licence",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 66,
@@ -948,13 +948,13 @@
         "X": 451534.673,
         "Y": 344629.806,
         "council_id": "E07000172",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.233615761875763, 52.99654194158741], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Back Lane Nuthall Nottinghamshire\", \"CURR\": \"Yes\", \"LABEL\": \"St Patrick's Church Hall\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 66, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"WNW2\", \"POSTCODE\": \"NG16 1BT\", \"UPDATED\": \"2015-01-14T00:00:00.000Z\", \"X\": 451534.673, \"Y\": 344629.806}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.233615761875763, 52.99654194158741], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Back Lane Nuthall Nottinghamshire\", \"CURR\": \"Yes\", \"LABEL\": \"St Patricks Church Hall\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 66, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"WNW2\", \"POSTCODE\": \"NG16 1BT\", \"UPDATED\": \"2015-01-14T00:00:00.000Z\", \"X\": 451534.673, \"Y\": 344629.806}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
         "ADDRESS": "Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS",
         "CURR": "Yes",
-        "LABEL": "Women's Institute",
+        "LABEL": "Womens Institute",
         "Licence": "Open Government Licence",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 67,
@@ -965,7 +965,7 @@
         "X": 450217.701,
         "Y": 345696.83,
         "council_id": "E07000172",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2530707724095844, 53.006256915051324], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS\", \"CURR\": \"Yes\", \"LABEL\": \"Women's Institute\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 67, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"WNW1\", \"POSTCODE\": \"NG16 1HS\", \"UPDATED\": \"2015-01-14T00:00:00.000Z\", \"X\": 450217.701, \"Y\": 345696.83}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2530707724095844, 53.006256915051324], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS\", \"CURR\": \"Yes\", \"LABEL\": \"Womens Institute\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 67, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"WNW1\", \"POSTCODE\": \"NG16 1HS\", \"UPDATED\": \"2015-01-14T00:00:00.000Z\", \"X\": 450217.701, \"Y\": 345696.83}, \"type\": \"Feature\"}",
         "pk": 67
     },
     {
