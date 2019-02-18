@@ -130,60 +130,60 @@
     },
     "resources": {
         "35a16224-e435-440b-ab29-7146ef8b2060": {
-            "check_hash": "b22a3d6df6ccef5f8a2a368215a84b48",
+            "check_hash": "0ad092440bc991938e6ac1fe874fadc9",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 19794,
-            "check_timestamp": "2018-02-26T09:45:14.361Z",
+            "check_size": 22979,
+            "check_timestamp": "2019-02-18T16:09:59.018Z",
             "description": "",
             "format": "zip",
             "order": 1,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Tab Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2018-02-26T09%3A45%3A05/polling-stations-tab.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-02-18T16%3A09%3A57/Polling%20Stations%20Tab%202019.zip"
         },
         "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
-            "check_hash": "965d96c1e8d30ab896a9d4489a46a9cf",
+            "check_hash": "6eef29a1db9ffe4389bff63c7b412f8f",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 15807,
-            "check_timestamp": "2018-02-26T09:44:55.702Z",
+            "check_size": 12096,
+            "check_timestamp": "2019-02-18T16:09:35.817Z",
             "description": "Names and addresses of all polling stations in Calderdale. ",
             "format": "csv",
             "order": 0,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2018-02-26T09%3A44%3A51/POLLING_STATIONS.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-02-18T16%3A09%3A33/Polling%20Stations%202019.csv"
         },
         "6453ecd3-3075-4414-8cef-8815daad44d7": {
-            "check_hash": "c4735796b9d76c6f5bb9b08bb3197d47",
+            "check_hash": "10316b358d21b821777e35ba44c8b97a",
             "check_http_status": 200,
             "check_mimetype": "application/json",
-            "check_size": 269204,
-            "check_timestamp": "2018-02-26T09:45:43.338Z",
+            "check_size": 173453,
+            "check_timestamp": "2019-02-18T16:10:46.416Z",
             "description": "",
             "format": "json",
             "order": 3,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2018-02-26T09%3A45%3A40/polling-stations-json.json"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-02-18T16%3A10%3A44/Polling%20Station%202019.json"
         },
         "9114cd43-00dd-412e-8126-514fb0efca95": {
-            "check_hash": "3977c658c6098711f321e6c4cdeeb846",
+            "check_hash": "670923a88a7322004cf42bf9d93c370e",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 41360,
-            "check_timestamp": "2018-02-26T09:45:27.546Z",
+            "check_size": 28298,
+            "check_timestamp": "2019-02-18T16:10:15.089Z",
             "description": "",
             "format": "zip",
             "order": 2,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations Shape Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2018-02-26T09%3A45%3A23/polling-stations-shp.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-02-18T16%3A10%3A13/Polling%20Stations%20Shp%202019.zip"
         }
     },
     "shares": {
@@ -203,5 +203,5 @@
         "a3cb827f-b76a-4663-a531-f628eb60a934"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2018-02-26T09:44:29"
+    "updatedAt": "2019-02-18T16:10:46.104Z"
 }
