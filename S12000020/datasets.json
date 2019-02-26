@@ -1,7 +1,1751 @@
 {
-    "data": [],
-    "included": [],
-    "links": {},
+    "data": [
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2017-04-10T12:02:37.000Z",
+                "currentVersion": "10.41",
+                "dataType": "Layer",
+                "description": "Moray Council Polling District Boundaries.  Polygon data showing the polling district boundaries for the Moray Council area used\u00a0for the purposes of designating an area of electors which attend a particular polling place.",
+                "displayField": "PD_NAME",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -3.769,
+                            57.0674
+                        ],
+                        [
+                            -2.6419,
+                            57.7322
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-02-26T15:16:02.268Z"
+                    },
+                    {
+                        "alias": "Polling District Code",
+                        "domain": null,
+                        "name": "PD_CODE",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 356.670314311981,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "MM0810"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0809"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0808"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0807"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0806"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0805"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0804"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0803"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0802"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0801"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.625Z"
+                    },
+                    {
+                        "alias": "Polling District Name",
+                        "domain": null,
+                        "name": "PD_NAME",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 319.272562026978,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "Westerton - Arradoul"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tomintoul"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rothiemay"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rothes"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rafford"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portknockie"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portgordon"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portessie"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.588Z"
+                    },
+                    {
+                        "alias": "SCOTTISH_P",
+                        "domain": null,
+                        "name": "SCOTTISH_P",
+                        "statistics": {
+                            "count": 2,
+                            "duration": 246.351233005524,
+                            "values": [
+                                {
+                                    "count": 49,
+                                    "value": "Moray"
+                                },
+                                {
+                                    "count": 11,
+                                    "value": "Banffshire and Buchan Coast"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.516Z"
+                    },
+                    {
+                        "alias": "Polling Place",
+                        "domain": null,
+                        "name": "POLL_PLACE",
+                        "statistics": {
+                            "count": 57,
+                            "duration": 609.260208129883,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Longmore Halls"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Forres Town Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Buckpool Golf Club Function Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Williamson Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Victoria Hotel Function Suite"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart Village Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Town Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Seafield School"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Royal British Legion Hall"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.879Z"
+                    },
+                    {
+                        "alias": "Council Area",
+                        "domain": null,
+                        "name": "COUNCIL",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 529.555399894714,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": "Moray"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.799Z"
+                    },
+                    {
+                        "alias": "Ward Name",
+                        "domain": null,
+                        "name": "WARD_N",
+                        "statistics": {
+                            "count": 8,
+                            "duration": 556.209283828735,
+                            "values": [
+                                {
+                                    "count": 11,
+                                    "value": "Speyside Glenlivet"
+                                },
+                                {
+                                    "count": 10,
+                                    "value": "Forres"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "Keith and Cullen"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "Fochabers Lhanbryde"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "Heldon and Laich"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "Buckie"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Elgin City North"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Elgin City South"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.826Z"
+                    },
+                    {
+                        "alias": "Ward Number",
+                        "domain": null,
+                        "name": "Ward_Num",
+                        "statistics": {
+                            "count": 8,
+                            "duration": 542.175245285034,
+                            "values": [
+                                {
+                                    "count": 11,
+                                    "value": "1"
+                                },
+                                {
+                                    "count": 10,
+                                    "value": "8"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "4"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "2"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "5"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "3"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "6"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "7"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.813Z"
+                    },
+                    {
+                        "alias": "Notes",
+                        "domain": null,
+                        "name": "Notes",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 278.315811157227,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": "Constructed from previous polling districts and the new wards data Sept 2016 version"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.549Z"
+                    },
+                    {
+                        "alias": "REF",
+                        "domain": null,
+                        "name": "REF",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 319.973433971405,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.591Z"
+                    },
+                    {
+                        "alias": "Web page number",
+                        "domain": null,
+                        "name": "PAGENO",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 293.255596160889,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": "70811"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.564Z"
+                    },
+                    {
+                        "alias": "Web page section",
+                        "domain": null,
+                        "name": "PAGESEC",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 305.997245788574,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.577Z"
+                    },
+                    {
+                        "alias": "Dataset Date Open",
+                        "domain": null,
+                        "name": "DSDateOpen",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 332.862350940704,
+                            "max": 1477526400000,
+                            "min": 1477526400000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:16:02.604Z"
+                    },
+                    {
+                        "alias": "Dataset Date Closed",
+                        "domain": null,
+                        "name": "DSDateClosed",
+                        "statistics": {
+                            "count": 0,
+                            "duration": 347.649141788483
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:16:02.619Z"
+                    },
+                    {
+                        "alias": "Dataset Date Modified",
+                        "domain": null,
+                        "name": "DSDateModified",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 376.069889068604,
+                            "max": 1537401600000,
+                            "min": 1537401600000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:16:02.648Z"
+                    },
+                    {
+                        "alias": "Dataset Date Published",
+                        "domain": null,
+                        "name": "DSDatePublish",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 361.604501724243,
+                            "max": 1493856000000,
+                            "min": 1493856000000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:16:02.634Z"
+                    },
+                    {
+                        "alias": "Dataset Date Superseded",
+                        "domain": null,
+                        "name": "DSDateSuper",
+                        "statistics": {
+                            "count": 0,
+                            "duration": 389.862380027771
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:16:02.662Z"
+                    },
+                    {
+                        "alias": "Shape",
+                        "domain": null,
+                        "name": "Shape",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2019-02-26T15:16:02.273Z"
+                    },
+                    {
+                        "alias": "X Coordinate",
+                        "domain": null,
+                        "name": "X_Coord",
+                        "statistics": {
+                            "avg": 326943.15653291,
+                            "count": 60,
+                            "duration": 404.71374130249,
+                            "max": 354786.077569,
+                            "min": 299045.380327,
+                            "stddev": 15169.3518628764,
+                            "sum": 19616589.391975,
+                            "var": 230109235.939751
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.677Z"
+                    },
+                    {
+                        "alias": "Y Coordinate",
+                        "domain": null,
+                        "name": "Y_Coord",
+                        "statistics": {
+                            "avg": 857757.9893208,
+                            "count": 60,
+                            "duration": 419.295317173004,
+                            "max": 870894.292897,
+                            "min": 818690.542697,
+                            "stddev": 10050.2913246075,
+                            "sum": 51465479.359248,
+                            "var": 101008355.709481
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.692Z"
+                    },
+                    {
+                        "alias": "Latitude Decimal",
+                        "domain": null,
+                        "name": "Lat_Dec",
+                        "statistics": {
+                            "avg": 57.603636,
+                            "count": 60,
+                            "duration": 436.052999019623,
+                            "max": 57.721325,
+                            "min": 57.251304,
+                            "stddev": 0.0904091299856393,
+                            "sum": 3456.21816,
+                            "var": 0.00817381078476023
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.709Z"
+                    },
+                    {
+                        "alias": "Longitude Decimal",
+                        "domain": null,
+                        "name": "Long_Dec",
+                        "statistics": {
+                            "avg": -3.22410905,
+                            "count": 60,
+                            "duration": 451.165020942688,
+                            "max": -2.756528,
+                            "min": -3.691095,
+                            "stddev": 0.253664209139072,
+                            "sum": -193.446543,
+                            "var": 0.0643455309981507
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.725Z"
+                    },
+                    {
+                        "alias": "Address",
+                        "domain": null,
+                        "name": "Addr",
+                        "statistics": {
+                            "count": 57,
+                            "duration": 559.392392158508,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Longmore Halls, Church Road, Keith AB55 5BR"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Forres Town Hall, High Street, Forres, IV36 1PB"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Buckpool Golf Club Function Hall, Barhill Road, Buckpool, Buckie, AB56 1DU"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Williamson Hall, St Columba's South, Duff Avenue, Elgin, IV30 1QS (can be accessed by foot from Moss Street also)"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Victoria Hotel, Function Suite, Tytler Street. Forres, IV36 1EL"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart Village Hall, Main Street, Urquhart IV30 8LG"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Town Hall, 22 Station Road, Findochty AB56 4PN"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Grant Hall, 46-48 High Street, Rothes AB38 7BJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay Hall, Spey Bay, Fochabers, IV32 7PJ (on B9104)"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Seafield School, Deanshaugh Terrace, Elgin, IV40 4ES"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.833Z"
+                    },
+                    {
+                        "alias": "Latitude",
+                        "domain": null,
+                        "name": "Latitude",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 574.01865196228,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "57\u00b0 40' 17.429\" N"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "57\u00b0 36' 39.106\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 43' 16.769\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 50.252\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 4.541\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 22.871\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 1.202\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 56.218\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 50.936\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 3.772\" N"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.848Z"
+                    },
+                    {
+                        "alias": "Longitude",
+                        "domain": null,
+                        "name": "Longitude",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 587.655217647552,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "3\u00b0 36' 42.616\" W"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "2\u00b0 59' 6.294\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 7' 38.271\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 7' 10.126\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 6' 32.635\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 5' 34.507\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 5' 0.372\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 41' 27.941\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 4' 46.487\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 38' 47.564\" W"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:16:02.862Z"
+                    },
+                    {
+                        "alias": "Shape.STArea()",
+                        "domain": null,
+                        "name": "Shape.STArea()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.274Z"
+                    },
+                    {
+                        "alias": "Shape.STLength()",
+                        "domain": null,
+                        "name": "Shape.STLength()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:16:02.274Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPolygon",
+                "harvestedAt": "2019-02-26T15:16:05.217Z",
+                "hasErrors": false,
+                "hasWarnings": false,
+                "itemName": "Polling Districts (Moray)",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=bd878bfec39f4a659c2d016f1b3bc920",
+                "licenseInfo": "This data has been created by Moray Council for licence under the INSPIRE Regulations 2009. This End User licence will be deemed to have been accepted by you upon accessing the data. <a href=\"https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html\" target=\"_blank\">https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html</a> The following attribution statement must be used to acknowledge the source of the information: Copyright Moray Council, contains Ordnance Survey data \u00a9 Crown copyright and database right (insert year)",
+                "maxRecordCount": 5000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "DSDateClosed",
+                                "stats": "MIN, MAX"
+                            },
+                            "key": "messages.stats.null_stats"
+                        },
+                        "log": "Some statistics (MIN, MAX) returned null for field DSDateClosed. This may be due to all values in the field being null.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "DSDateSuper",
+                                "stats": "MIN, MAX"
+                            },
+                            "key": "messages.stats.null_stats"
+                        },
+                        "log": "Some statistics (MIN, MAX) returned null for field DSDateSuper. This may be due to all values in the field being null.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named Shape.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape.STArea()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( Shape.STArea()).",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "Shape.STLength()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( Shape.STLength()).",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": false,
+                    "published": null,
+                    "url": null
+                },
+                "metadataUrl": null,
+                "name": "Polling Districts (Moray)",
+                "objectIdField": "OBJECTID",
+                "owner": "gis_moray",
+                "public": true,
+                "quality": 82,
+                "recordCount": 60,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "moray::polling-districts-moray",
+                "source": "Moray Council",
+                "structuredLicense": {
+                    "text": "This data has been created by Moray Council for licence under the INSPIRE Regulations 2009. This End User licence will be deemed to have been accepted by you upon accessing the data. <a href=\"https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html\" target=\"_blank\">https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html</a> The following attribution statement must be used to acknowledge the source of the information: Copyright Moray Council, contains Ordnance Survey data \u00a9 Crown copyright and database right (insert year)",
+                    "type": "custom"
+                },
+                "supportedExtensions": "WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "inspire",
+                    "democracy",
+                    "boundaries"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/bd878bfec39f4a659c2d016f1b3bc920/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "polling districts (moray)",
+                "type": "Layer",
+                "updatedAt": "2019-02-26T15:16:05.291Z",
+                "url": "http://maps.moray.gov.uk/arcgiswa/rest/services/INSPIRE/INSPIRE/MapServer/1",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "bd878bfec39f4a659c2d016f1b3bc920_1",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/bd878bfec39f4a659c2d016f1b3bc920_1"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "b42b8e7bce20408684689845a268e8e6",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "ziethFnsF0nRRmsd",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 1
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2017-04-10T12:01:44.000Z",
+                "currentVersion": "10.41",
+                "dataType": "Layer",
+                "description": "Moray Council Polling Places.  Point data showing the polling\u00a0places for the Moray Council area. A polling place is a the particular building where people go to cast their vote(s) during elections. A polling station is located within a polling place. There may be more than one polling station in a polling place.",
+                "displayField": "PD_NAME",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -3.6963,
+                            57.2477
+                        ],
+                        [
+                            -2.7511,
+                            57.7255
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-02-26T15:14:48.828Z"
+                    },
+                    {
+                        "alias": "Polling District Code",
+                        "domain": null,
+                        "name": "PD_CODE",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 1525.84642982483,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "MM0810"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0809"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0808"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0807"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0806"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0805"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0804"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0803"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0802"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "MM0801"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.354Z"
+                    },
+                    {
+                        "alias": "Polling District Name",
+                        "domain": null,
+                        "name": "PD_NAME",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 411.537718772888,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "Westerton - Arradoul"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tomintoul"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rothiemay"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rothes"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Rafford"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portknockie"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portgordon"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Portessie"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:49.240Z"
+                    },
+                    {
+                        "alias": "SCOTTISH_P",
+                        "domain": null,
+                        "name": "SCOTTISH_P",
+                        "statistics": {
+                            "count": 2,
+                            "duration": 1503.13375425339,
+                            "values": [
+                                {
+                                    "count": 49,
+                                    "value": "Moray"
+                                },
+                                {
+                                    "count": 11,
+                                    "value": "Banffshire and Buchan Coast"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.332Z"
+                    },
+                    {
+                        "alias": "Polling Place",
+                        "domain": null,
+                        "name": "POLL_PLACE",
+                        "statistics": {
+                            "count": 57,
+                            "duration": 1574.50890731812,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Longmore Halls"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Forres Town Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Buckpool Golf Club Function Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Williamson Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Victoria Hotel Function Suite"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart Village Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Grant Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Speymouth Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Seafield School"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.403Z"
+                    },
+                    {
+                        "alias": "Council Area",
+                        "domain": null,
+                        "name": "COUNCIL",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 1522.16333389282,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": "Moray"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.351Z"
+                    },
+                    {
+                        "alias": "Ward Name",
+                        "domain": null,
+                        "name": "WARD_N",
+                        "statistics": {
+                            "count": 8,
+                            "duration": 1597.24764680862,
+                            "values": [
+                                {
+                                    "count": 11,
+                                    "value": "Speyside Glenlivet"
+                                },
+                                {
+                                    "count": 10,
+                                    "value": "Forres"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "Keith and Cullen"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "Fochabers Lhanbryde"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "Heldon and Laich"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "Buckie"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Elgin City North"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "Elgin City South"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.426Z"
+                    },
+                    {
+                        "alias": "Ward Number",
+                        "domain": null,
+                        "name": "Ward_Num",
+                        "statistics": {
+                            "count": 8,
+                            "duration": 1537.69157838821,
+                            "values": [
+                                {
+                                    "count": 11,
+                                    "value": "1"
+                                },
+                                {
+                                    "count": 10,
+                                    "value": "8"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "4"
+                                },
+                                {
+                                    "count": 9,
+                                    "value": "2"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "5"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "3"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "6"
+                                },
+                                {
+                                    "count": 3,
+                                    "value": "7"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.367Z"
+                    },
+                    {
+                        "alias": "Notes",
+                        "domain": null,
+                        "name": "Notes",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 423.11336183548,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:49.252Z"
+                    },
+                    {
+                        "alias": "REF",
+                        "domain": null,
+                        "name": "REF",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 574.899782657623,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:49.404Z"
+                    },
+                    {
+                        "alias": "Web page number",
+                        "domain": null,
+                        "name": "PAGENO",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 596.579798698425,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": "70811"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:49.426Z"
+                    },
+                    {
+                        "alias": "Web page section",
+                        "domain": null,
+                        "name": "PAGESEC",
+                        "statistics": {
+                            "count": 1,
+                            "duration": 615.936566829681,
+                            "values": [
+                                {
+                                    "count": 60,
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:49.445Z"
+                    },
+                    {
+                        "alias": "Dataset Date Open",
+                        "domain": null,
+                        "name": "DSDateOpen",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 533.907864093781,
+                            "max": 1490054400000,
+                            "min": 1490054400000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:14:49.364Z"
+                    },
+                    {
+                        "alias": "Dataset Date Closed",
+                        "domain": null,
+                        "name": "DSDateClosed",
+                        "statistics": {
+                            "count": 0,
+                            "duration": 631.128587245941
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:14:49.461Z"
+                    },
+                    {
+                        "alias": "Dataset Date Modified",
+                        "domain": null,
+                        "name": "DSDateModified",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 650.436401367188,
+                            "max": 1537401600000,
+                            "min": 1537401600000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:14:49.480Z"
+                    },
+                    {
+                        "alias": "Dataset Date Published",
+                        "domain": null,
+                        "name": "DSDatePublish",
+                        "statistics": {
+                            "count": 60,
+                            "duration": 670.432444095612,
+                            "max": 1493856000000,
+                            "min": 1493856000000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:14:49.500Z"
+                    },
+                    {
+                        "alias": "Dataset Date Superseded",
+                        "domain": null,
+                        "name": "DSDateSuper",
+                        "statistics": {
+                            "count": 0,
+                            "duration": 962.310881137848
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-02-26T15:14:49.792Z"
+                    },
+                    {
+                        "alias": "SHAPE",
+                        "domain": null,
+                        "name": "SHAPE",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2019-02-26T15:14:48.830Z"
+                    },
+                    {
+                        "alias": "X Coordinate",
+                        "domain": null,
+                        "name": "X_Coord",
+                        "statistics": {
+                            "avg": 326946.80401548,
+                            "count": 60,
+                            "duration": 1274.57384538651,
+                            "max": 354786.077569,
+                            "min": 299045.380327,
+                            "stddev": 15171.0865413328,
+                            "sum": 19616808.240929,
+                            "var": 230161866.844611
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:14:50.105Z"
+                    },
+                    {
+                        "alias": "Y Coordinate",
+                        "domain": null,
+                        "name": "Y_Coord",
+                        "statistics": {
+                            "avg": 857762.91397768,
+                            "count": 60,
+                            "duration": 1338.64025878906,
+                            "max": 870894.292897,
+                            "min": 818690.542697,
+                            "stddev": 10053.6360432045,
+                            "sum": 51465774.838661,
+                            "var": 101075597.689221
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:14:50.169Z"
+                    },
+                    {
+                        "alias": "Latitude Decimal",
+                        "domain": null,
+                        "name": "Lat_Dec",
+                        "statistics": {
+                            "avg": 57.60368064,
+                            "count": 60,
+                            "duration": 1317.83928537369,
+                            "max": 57.72132464,
+                            "min": 57.25130389,
+                            "stddev": 0.0904401094341327,
+                            "sum": 3456.22083893,
+                            "var": 0.0081794133944579
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:14:50.148Z"
+                    },
+                    {
+                        "alias": "Longitude Decimal",
+                        "domain": null,
+                        "name": "Long_Dec",
+                        "statistics": {
+                            "avg": -3.22404921,
+                            "count": 60,
+                            "duration": 1296.8165140152,
+                            "max": -2.75652816,
+                            "min": -3.69109484,
+                            "stddev": 0.253692216370328,
+                            "sum": -193.44295317,
+                            "var": 0.0643597406468894
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-02-26T15:14:50.128Z"
+                    },
+                    {
+                        "alias": "Address",
+                        "domain": null,
+                        "name": "Addr",
+                        "statistics": {
+                            "count": 57,
+                            "duration": 1471.51542377472,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Longmore Halls, Church Road, Keith AB55 5BR"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Forres Town Hall, High Street, Forres, IV36 1PB"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Buckpool Golf Club Function Hall, Barhill Road, Buckpool, Buckie, AB56 1DU"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Williamson Hall, St Columba's South, Duff Avenue, Elgin, IV30 1QS (can be accessed by foot from Moss Street also)"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Victoria Hotel, Function Suite, Tytler Street. Forres, IV36 1EL"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Urquhart Village Hall, Main Street, Urquhart IV30 8LG"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Town Hall, 22 Station Road, Findochty AB56 4PN"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Grant Hall, 46-48 High Street, Rothes AB38 7BJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Spey Bay Hall, Spey Bay, Fochabers, IV32 7PJ (on B9104)"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Seafield School, Deanshaugh Terrace, Elgin, IV40 4ES"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.302Z"
+                    },
+                    {
+                        "alias": "Latitude",
+                        "domain": null,
+                        "name": "Latitude",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 1490.63226032257,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "57\u00b0 40' 17.429\" N"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "57\u00b0 36' 39.106\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 43' 16.769\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 50.252\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 4.541\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 22.871\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 42' 1.202\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 56.218\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 50.936\" N"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "57\u00b0 41' 3.772\" N"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.322Z"
+                    },
+                    {
+                        "alias": "Longitude",
+                        "domain": null,
+                        "name": "Longitude",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 1452.02457761765,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "3\u00b0 36' 42.616\" W"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "2\u00b0 59' 6.294\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 7' 38.271\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 7' 10.126\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 6' 19.713\""
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 5' 34.507\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 5' 0.372\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 41' 27.941\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 4' 46.487\" W"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "3\u00b0 38' 47.564\" W"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-02-26T15:14:50.283Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPoint",
+                "harvestedAt": "2019-02-26T15:14:52.407Z",
+                "hasErrors": false,
+                "hasWarnings": false,
+                "itemName": "Polling Places (Moray)",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=65e731a73f384fadad25bef39fdcc342",
+                "licenseInfo": "This data has been created by Moray Council for licence under the INSPIRE Regulations 2009. This End User licence will be deemed to have been accepted by you upon accessing the data. https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html The following attribution statement must be used to acknowledge the source of the information: Copyright Moray Council, contains Ordnance Survey data \u00a9 Crown copyright and database right (insert year)",
+                "maxRecordCount": 5000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "DSDateClosed",
+                                "stats": "MIN, MAX"
+                            },
+                            "key": "messages.stats.null_stats"
+                        },
+                        "log": "Some statistics (MIN, MAX) returned null for field DSDateClosed. This may be due to all values in the field being null.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "DSDateSuper",
+                                "stats": "MIN, MAX"
+                            },
+                            "key": "messages.stats.null_stats"
+                        },
+                        "log": "Some statistics (MIN, MAX) returned null for field DSDateSuper. This may be due to all values in the field being null.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named SHAPE.",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": false,
+                    "published": null,
+                    "url": null
+                },
+                "metadataUrl": null,
+                "name": "Polling Places (Moray)",
+                "objectIdField": "OBJECTID",
+                "owner": "gis_moray",
+                "public": true,
+                "quality": 78,
+                "recordCount": 60,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": "moray::polling-places-moray",
+                "source": "Moray Council",
+                "structuredLicense": {
+                    "text": "This data has been created by Moray Council for licence under the INSPIRE Regulations 2009. This End User licence will be deemed to have been accepted by you upon accessing the data. https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-eul-scotland.html The following attribution statement must be used to acknowledge the source of the information: Copyright Moray Council, contains Ordnance Survey data \u00a9 Crown copyright and database right (insert year)",
+                    "type": "custom"
+                },
+                "supportedExtensions": "WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "inspire",
+                    "democracy"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/65e731a73f384fadad25bef39fdcc342/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "polling places (moray)",
+                "type": "Layer",
+                "updatedAt": "2017-06-26T13:09:43.000Z",
+                "url": "http://maps.moray.gov.uk/arcgiswa/rest/services/INSPIRE/INSPIRE/MapServer/0",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "65e731a73f384fadad25bef39fdcc342_0",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/65e731a73f384fadad25bef39fdcc342_0"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "b42b8e7bce20408684689845a268e8e6",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": {
+                        "id": "ziethFnsF0nRRmsd",
+                        "type": "organization"
+                    }
+                },
+                "site": {
+                    "meta": {
+                        "count": 1
+                    }
+                }
+            },
+            "type": "dataset"
+        }
+    ],
+    "included": [
+        {
+            "attributes": {
+                "contact": {
+                    "email": "gis@moray.gov.uk",
+                    "name": "GIS Moray",
+                    "phone": null
+                },
+                "culture": "",
+                "description": "<br>",
+                "homepageUrl": "www.moray.gov.uk",
+                "logo": null,
+                "summary": "Moray Council Local Authority",
+                "title": "Moray Council",
+                "type": "localgov",
+                "urlKey": "moray"
+            },
+            "id": "ziethFnsF0nRRmsd",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/organizations/ziethFnsF0nRRmsd"
+            },
+            "type": "organization"
+        },
+        {
+            "attributes": {
+                "createdAt": "2019-02-26T15:11:29.411Z",
+                "description": "",
+                "tags": [
+                    "open data"
+                ],
+                "title": "Moray Council Open Data",
+                "updatedAt": "2019-02-26T15:12:23.092Z"
+            },
+            "id": "b42b8e7bce20408684689845a268e8e6",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/groups/b42b8e7bce20408684689845a268e8e6"
+            },
+            "type": "group"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=data-moray.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt",
+        "last": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=data-moray.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt"
+    },
     "meta": {
         "apiRoot": "https://opendata.arcgis.com/api/v2",
         "queryParameters": {
@@ -20,12 +1764,35 @@
         "resourceRoot": "https://opendata.arcgis.com/api/v2/datasets",
         "stats": {
             "aggs": {
-                "content": [],
-                "source": [],
-                "tags": []
+                "content": [
+                    {
+                        "docCount": 2,
+                        "key": "spatial dataset"
+                    }
+                ],
+                "source": [
+                    {
+                        "docCount": 2,
+                        "key": "Moray Council"
+                    }
+                ],
+                "tags": [
+                    {
+                        "docCount": 2,
+                        "key": "democracy"
+                    },
+                    {
+                        "docCount": 2,
+                        "key": "inspire"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "boundaries"
+                    }
+                ]
             },
-            "count": 0,
-            "totalCount": 0
+            "count": 2,
+            "totalCount": 2
         }
     }
 }
