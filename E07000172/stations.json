@@ -289,23 +289,6 @@
         "pk": 19
     },
     {
-        "ADDRESS": "Bramcote Hills Primary School Moor Lane Bramcote Nottinghamshire NG9 3GE",
-        "CURR": "Yes",
-        "LABEL": "Bramcote Hills Primary School",
-        "Licence": "Open Government Licence",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 23,
-        "Origin": "Broxtowe Borough Council",
-        "POLL_DIST": "BCT2",
-        "POSTCODE": "NG9 3GE",
-        "UPDATED": "2016-04-28T00:00:00.000Z",
-        "X": 450663.0,
-        "Y": 338378.0,
-        "council_id": "E07000172",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.247575770382726, 52.940431358730486], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bramcote Hills Primary School Moor Lane Bramcote Nottinghamshire NG9 3GE\", \"CURR\": \"Yes\", \"LABEL\": \"Bramcote Hills Primary School\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 23, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"BCT2\", \"POSTCODE\": \"NG9 3GE\", \"UPDATED\": \"2016-04-28T00:00:00.000Z\", \"X\": 450663, \"Y\": 338378}, \"type\": \"Feature\"}",
-        "pk": 23
-    },
-    {
         "ADDRESS": "Smithurst Road Giltbrook Nottinghamshire",
         "CURR": "Yes",
         "LABEL": "Smithurst Road Temporary Station",
@@ -1086,6 +1069,23 @@
         "council_id": "E07000172",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2071090921593208, 52.93251045169359], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Evangelical Free Church Salthouse Lane Beeston Nottinghamshire\", \"CURR\": \"Yes\", \"LABEL\": \"Beeston Free Church\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 77, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"BEN2\", \"POSTCODE\": \"NG9 2FU \", \"UPDATED\": \"2019-02-12T00:00:00.000Z\", \"X\": 453392, \"Y\": 337526}, \"type\": \"Feature\"}",
         "pk": 77
+    },
+    {
+        "ADDRESS": "Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW",
+        "CURR": "Yes",
+        "LABEL": "Creo Fitness Gym",
+        "Licence": "Open Government Licence",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 78,
+        "Origin": "Broxtowe Borough Council",
+        "POLL_DIST": "BCT2",
+        "POSTCODE": "NG9 3FW",
+        "UPDATED": "2019-02-25T00:00:00.000Z",
+        "X": 451044.0,
+        "Y": 338453.0,
+        "council_id": "E07000172",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2418147701719073, 52.94103011080159], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW\", \"CURR\": \"Yes\", \"LABEL\": \"Creo Fitness Gym\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 78, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"BCT2\", \"POSTCODE\": \"NG9 3FW\", \"UPDATED\": \"2019-02-25T00:00:00.000Z\", \"X\": 451044, \"Y\": 338453}, \"type\": \"Feature\"}",
+        "pk": 78
     },
     {
         "ADDRESS": "Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE",
