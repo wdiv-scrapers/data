@@ -38,10 +38,10 @@
     {
         "OBJECTID_1": 5,
         "POLLINGDIS": "KD",
-        "POLLINGSTA": "Welly Boots Creche, Energise, Cornlands Road, York YO24 3DX",
+        "POLLINGSTA": "Community Room, Energise, Cornlands Road, York YO24 3DX",
         "WARD": "Westfield",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1283335574199769, 53.948121843314574], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 5, \"POLLINGDIS\": \"KD\", \"POLLINGSTA\": \"Welly Boots Creche, Energise, Cornlands Road, York YO24 3DX\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1283335574199769, 53.948121843314574], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 5, \"POLLINGDIS\": \"KD\", \"POLLINGSTA\": \"Community Room, Energise, Cornlands Road, York YO24 3DX\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -52,15 +52,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9345903885312762, 53.92009837025447], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 6, \"POLLINGDIS\": \"YMD\", \"POLLINGSTA\": \"Elvington Parish Hall, Main Street, Elvington, York, YO41 4AA\", \"WARD\": \"Wheldrake\"}, \"type\": \"Feature\"}",
         "pk": 6
-    },
-    {
-        "OBJECTID_1": 8,
-        "POLLINGDIS": "XBA",
-        "POLLINGSTA": "Nursery Annexe, Haxby Road Primary School, Haxby Road, York, YO31 8JN",
-        "WARD": "Clifton",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0764427376317174, 53.97210986458891], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 8, \"POLLINGDIS\": \"XBA\", \"POLLINGSTA\": \"Nursery Annexe, Haxby Road Primary School, Haxby Road, York, YO31 8JN\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
-        "pk": 8
     },
     {
         "OBJECTID_1": 9,
@@ -217,11 +208,11 @@
     },
     {
         "OBJECTID_1": 27,
-        "POLLINGDIS": "YKD",
+        "POLLINGDIS": "YKC",
         "POLLINGSTA": "Sea Scout Hall, 1st Clifton Sea Scout Group, Green Lane, York, YO30 5QX",
         "WARD": "Skelton, Rawcliffe & Clifton Without",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1053173362612785, 53.979868890398095], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 27, \"POLLINGDIS\": \"YKD\", \"POLLINGSTA\": \"Sea Scout Hall, 1st Clifton Sea Scout Group, Green Lane, York, YO30 5QX\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1053173362612785, 53.979868890398095], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 27, \"POLLINGDIS\": \"YKC\", \"POLLINGSTA\": \"Sea Scout Hall, 1st Clifton Sea Scout Group, Green Lane, York, YO30 5QX\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
         "pk": 27
     },
     {
@@ -596,10 +587,10 @@
     {
         "OBJECTID_1": 72,
         "POLLINGDIS": "GD",
-        "POLLINGSTA": "St. Paul's C. E. Primary School, Watson Street, York, YO24 4BJ",
+        "POLLINGSTA": "York Spiritualist Centre, Wilton Rise, York, YO24 4BT",
         "WARD": "Holgate",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0995708794424452, 53.95499235125258], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 72, \"POLLINGDIS\": \"GD\", \"POLLINGSTA\": \"St. Paul's C. E. Primary School, Watson Street, York, YO24 4BJ\", \"WARD\": \"Holgate\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.101180193738558, 53.95614505770927], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 72, \"POLLINGDIS\": \"GD\", \"POLLINGSTA\": \"York Spiritualist Centre, Wilton Rise, York, YO24 4BT\", \"WARD\": \"Holgate\"}, \"type\": \"Feature\"}",
         "pk": 72
     },
     {
@@ -613,11 +604,11 @@
     },
     {
         "OBJECTID_1": 74,
-        "POLLINGDIS": "YKC",
+        "POLLINGDIS": "YKD",
         "POLLINGSTA": "Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ",
         "WARD": "Skelton, Rawcliffe & Clifton Without",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1066217935011091, 53.97803637207886], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 74, \"POLLINGDIS\": \"YKC\", \"POLLINGSTA\": \"Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1066217935011091, 53.97803637207886], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 74, \"POLLINGDIS\": \"YKD\", \"POLLINGSTA\": \"Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
         "pk": 74
     },
     {
@@ -738,15 +729,6 @@
         "pk": 331
     },
     {
-        "OBJECTID_1": 332,
-        "POLLINGDIS": "XED",
-        "POLLINGSTA": "Bedern Hall, Bartle Garth, St Andrewgate",
-        "WARD": "Guildhall",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0789563992253408, 53.96149779782537], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 332, \"POLLINGDIS\": \"XED\", \"POLLINGSTA\": \"Bedern Hall, Bartle Garth, St Andrewgate\", \"WARD\": \"Guildhall\"}, \"type\": \"Feature\"}",
-        "pk": 332
-    },
-    {
         "OBJECTID_1": 333,
         "POLLINGDIS": "JB",
         "POLLINGSTA": "Clements Hall, Nunthorpe Road, York, YO23 1BG",
@@ -799,15 +781,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9805149360877172, 53.965222536020725], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 972, \"POLLINGDIS\": \"YHD / YHE\", \"POLLINGSTA\": \"The Reading Room, Church Street, Dunnington, York, YO19 5PW\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
         "pk": 972
-    },
-    {
-        "OBJECTID_1": 1292,
-        "POLLINGDIS": "xKD",
-        "POLLINGSTA": "Our Lady\u2019s Church, Gale Lane, York, YO24 3AE",
-        "WARD": "Westfield",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1288973333263608, 53.94961160609782], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1292, \"POLLINGDIS\": \"xKD\", \"POLLINGSTA\": \"Our Lady\\u2019s Church, Gale Lane, York, YO24 3AE\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
-        "pk": 1292
     },
     {
         "OBJECTID_1": 1294,
