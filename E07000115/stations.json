@@ -1,596 +1,596 @@
 [
     {
-        "ADDRESS": "Malthouse Road, Stansted, Kent. TN15 7PH",
+        "ADDRESS": "Stansted Village Hall, Malthouse Road, Stansted, TN15 7PJ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 1,
+        "OBJECTID_1": 1,
         "PD_LETTER": "TRB",
         "POLLING_PL": "Stansted Village Hall",
         "WARD": "Stansted",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.304968880779834, 51.33754874742622], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"ADDRESS\": \"Malthouse Road, Stansted, Kent. TN15 7PH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 1, \"PD_LETTER\": \"TRB\", \"POLLING_PL\": \"Stansted Village Hall\", \"WARD\": \"Stansted\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.304968880779834, 51.33754874742622], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Stansted Village Hall, Malthouse Road, Stansted, TN15 7PJ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 1, \"PD_LETTER\": \"TRB\", \"POLLING_PL\": \"Stansted Village Hall\", \"WARD\": \"Stansted\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "High Street, Wrotham, Kent. TN15 7AB",
+        "ADDRESS": "St. George's Hall, High Street, Wrotham, TN15 7AB",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 2,
+        "OBJECTID_1": 2,
         "PD_LETTER": "TRC",
         "POLLING_PL": "St Georges Hall",
         "WARD": "Wrotham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3106901093768512, 51.30867923508348], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ADDRESS\": \"High Street, Wrotham, Kent. TN15 7AB\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 2, \"PD_LETTER\": \"TRC\", \"POLLING_PL\": \"St Georges Hall\", \"WARD\": \"Wrotham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3106901093768512, 51.30867923508348], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St. George's Hall, High Street, Wrotham, TN15 7AB\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 2, \"PD_LETTER\": \"TRC\", \"POLLING_PL\": \"St Georges Hall\", \"WARD\": \"Wrotham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Sevenoaks Road, Ightham, Kent.TN15 9HA",
+        "ADDRESS": "Ightham Village Hall, Sevenoaks Road, Ightham, TN15 9HA",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 3,
+        "OBJECTID_1": 3,
         "PD_LETTER": "TRA",
         "POLLING_PL": "Ightham Village Hall",
         "WARD": "Ightam",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2847510123589843, 51.286333572355076], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"ADDRESS\": \"Sevenoaks Road, Ightham, Kent.TN15 9HA\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 3, \"PD_LETTER\": \"TRA\", \"POLLING_PL\": \"Ightham Village Hall\", \"WARD\": \"Ightam\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2847510123589843, 51.286333572355076], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Ightham Village Hall, Sevenoaks Road, Ightham, TN15 9HA\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 3, \"PD_LETTER\": \"TRA\", \"POLLING_PL\": \"Ightham Village Hall\", \"WARD\": \"Ightam\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "School Lane, Plaxtol, Kent. TN15 0QD",
+        "ADDRESS": "Plaxtol Memorial Hall, School Lane, Plaxtol, TN15 0QD",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 4,
+        "OBJECTID_1": 4,
         "PD_LETTER": "TAC",
         "POLLING_PL": "Plaxtol Memorial Hall",
         "WARD": "Plaxtol",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.29537784652144355, 51.25810374274434], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"ADDRESS\": \"School Lane, Plaxtol, Kent. TN15 0QD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 4, \"PD_LETTER\": \"TAC\", \"POLLING_PL\": \"Plaxtol Memorial Hall\", \"WARD\": \"Plaxtol\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.29537784652144355, 51.25810374274434], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Plaxtol Memorial Hall, School Lane, Plaxtol, TN15 0QD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 4, \"PD_LETTER\": \"TAC\", \"POLLING_PL\": \"Plaxtol Memorial Hall\", \"WARD\": \"Plaxtol\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Tonbridge Road, Hildenborough, Tonbridge, Kent.TN1",
+        "ADDRESS": "St Johns Church Hall, Foxbush, Hildenborough, TN11 9HT",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 5,
+        "OBJECTID_1": 5,
         "PD_LETTER": "THA",
         "POLLING_PL": "St Johns Church Hall",
         "WARD": "Hildenborough North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.23858798251020638, 51.217603837794435], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"ADDRESS\": \"Tonbridge Road, Hildenborough, Tonbridge, Kent.TN1\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 5, \"PD_LETTER\": \"THA\", \"POLLING_PL\": \"St Johns Church Hall\", \"WARD\": \"Hildenborough North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.23858798251020638, 51.217603837794435], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall, Foxbush, Hildenborough, TN11 9HT\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 5, \"PD_LETTER\": \"THA\", \"POLLING_PL\": \"St Johns Church Hall\", \"WARD\": \"Hildenborough North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "149 Butchers Lane, Mereworth, Kent. ME18 5QD",
+        "ADDRESS": "Mereworth Village Hall, 149 Butchers Lane, Mereworth, Maidstone, ME18 5QD",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 6,
+        "OBJECTID_1": 6,
         "PD_LETTER": "TDC",
         "POLLING_PL": "Mereworth Village Hall",
         "WARD": "Mereworth Village",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.37746166140904885, 51.264692183439024], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"ADDRESS\": \"149 Butchers Lane, Mereworth, Kent. ME18 5QD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 6, \"PD_LETTER\": \"TDC\", \"POLLING_PL\": \"Mereworth Village Hall\", \"WARD\": \"Mereworth Village\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.37746166140904885, 51.264692183439024], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Mereworth Village Hall, 149 Butchers Lane, Mereworth, Maidstone, ME18 5QD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 6, \"PD_LETTER\": \"TDC\", \"POLLING_PL\": \"Mereworth Village Hall\", \"WARD\": \"Mereworth Village\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Park Road, Addington, West Malling, Kent. ME20 5BQ",
+        "ADDRESS": "Addington Village Hall, Park Road, Addington, ME19 5BQ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 7,
+        "OBJECTID_1": 7,
         "PD_LETTER": "TDA",
         "POLLING_PL": "Addington Village Hall",
         "WARD": "Addington",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.36682993175349515, 51.30539091297702], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"ADDRESS\": \"Park Road, Addington, West Malling, Kent. ME20 5BQ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 7, \"PD_LETTER\": \"TDA\", \"POLLING_PL\": \"Addington Village Hall\", \"WARD\": \"Addington\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.36682993175349515, 51.30539091297702], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Addington Village Hall, Park Road, Addington, ME19 5BQ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 7, \"PD_LETTER\": \"TDA\", \"POLLING_PL\": \"Addington Village Hall\", \"WARD\": \"Addington\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Paddlesworth Road, Snodland, Kent. ME6 5DP",
+        "ADDRESS": "Snodland Community Centre, Paddlesworth Road, Snodland, ME6 5DP",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 8,
+        "OBJECTID_1": 8,
         "PD_LETTER": "CHA",
         "POLLING_PL": "Snodland Community Centre",
         "WARD": "Snodland North West",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.434741547578134, 51.33262014700351], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"ADDRESS\": \"Paddlesworth Road, Snodland, Kent. ME6 5DP\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 8, \"PD_LETTER\": \"CHA\", \"POLLING_PL\": \"Snodland Community Centre\", \"WARD\": \"Snodland North West\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.434741547578134, 51.33262014700351], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Snodland Community Centre, Paddlesworth Road, Snodland, ME6 5DP\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 8, \"PD_LETTER\": \"CHA\", \"POLLING_PL\": \"Snodland Community Centre\", \"WARD\": \"Snodland North West\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "4 Waghorn Road, Snodland, Kent. ME6 5BQ",
+        "ADDRESS": "Devonshire Rooms, Town Hall, Waghorn Road, Snodland, ME6 5BQ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 9,
+        "OBJECTID_1": 9,
         "PD_LETTER": "CGA",
         "POLLING_PL": "Devonshire Rooms",
         "WARD": "Snodland North East",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4460898901391948, 51.33004265681388], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"ADDRESS\": \"4 Waghorn Road, Snodland, Kent. ME6 5BQ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 9, \"PD_LETTER\": \"CGA\", \"POLLING_PL\": \"Devonshire Rooms\", \"WARD\": \"Snodland North East\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4460898901391948, 51.33004265681388], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Devonshire Rooms, Town Hall, Waghorn Road, Snodland, ME6 5BQ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 9, \"PD_LETTER\": \"CGA\", \"POLLING_PL\": \"Devonshire Rooms\", \"WARD\": \"Snodland North East\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "New Hythe Lane, Larkfield, Kent ME20 6PU",
+        "ADDRESS": "Larkfield Village Hall, New Hythe Lane, Larkfield, ME20 6PU",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 10,
+        "OBJECTID_1": 10,
         "PD_LETTER": "CEA",
         "POLLING_PL": "Larkfield Village Hall",
         "WARD": "Larkfield North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.44281417746272356, 51.3060039007239], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"ADDRESS\": \"New Hythe Lane, Larkfield, Kent ME20 6PU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 10, \"PD_LETTER\": \"CEA\", \"POLLING_PL\": \"Larkfield Village Hall\", \"WARD\": \"Larkfield North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.44281417746272356, 51.3060039007239], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Larkfield Village Hall, New Hythe Lane, Larkfield, ME20 6PU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 10, \"PD_LETTER\": \"CEA\", \"POLLING_PL\": \"Larkfield Village Hall\", \"WARD\": \"Larkfield North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "15 - 17 High Street, Wouldham, Rochester, ME1 3XD",
+        "ADDRESS": "Wouldham All Saints C of E Primary school, 1 Worrall Drive, Wouldham, Rochester, ME1 3GE",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 11,
+        "OBJECTID_1": 11,
         "PD_LETTER": "CCB",
         "POLLING_PL": "Wouldham Village Hall",
         "WARD": "Wouldham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4578141662501289, 51.34746943978489], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"ADDRESS\": \"15 - 17 High Street, Wouldham, Rochester, ME1 3XD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 11, \"PD_LETTER\": \"CCB\", \"POLLING_PL\": \"Wouldham Village Hall\", \"WARD\": \"Wouldham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4599169880487592, 51.343684952666145], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Wouldham All Saints C of E Primary school, 1 Worrall Drive, Wouldham, Rochester, ME1 3GE\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 11, \"PD_LETTER\": \"CCB\", \"POLLING_PL\": \"Wouldham Village Hall\", \"WARD\": \"Wouldham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Catkin Close, Chatham, Kent. ME5 9HP",
+        "ADDRESS": "Tunbury Hall, 45 Catkin Close, Walderslade, Chatham, ME5 9HP",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 12,
+        "OBJECTID_1": 12,
         "PD_LETTER": "CAD",
         "POLLING_PL": "Tunbury Hall",
         "WARD": "Aylesford Walderslade",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5201024814741654, 51.33310714043392], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"ADDRESS\": \"Catkin Close, Chatham, Kent. ME5 9HP\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 12, \"PD_LETTER\": \"CAD\", \"POLLING_PL\": \"Tunbury Hall\", \"WARD\": \"Aylesford Walderslade\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.5201024814741654, 51.33310714043392], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Tunbury Hall, 45 Catkin Close, Walderslade, Chatham, ME5 9HP\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 12, \"PD_LETTER\": \"CAD\", \"POLLING_PL\": \"Tunbury Hall\", \"WARD\": \"Aylesford Walderslade\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "25 Forstal Road, Aylesford, Kent. ME20 7AU",
+        "ADDRESS": "Aylesford Community Centre, 25 Forstal Road, Aylesford, ME20 7AU",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 13,
+        "OBJECTID_1": 13,
         "PD_LETTER": "CAA",
         "POLLING_PL": "Community Centre",
         "WARD": "Aylesford North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4834584954060426, 51.303696335946455], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"ADDRESS\": \"25 Forstal Road, Aylesford, Kent. ME20 7AU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 13, \"PD_LETTER\": \"CAA\", \"POLLING_PL\": \"Community Centre\", \"WARD\": \"Aylesford North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4834584954060426, 51.303696335946455], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Aylesford Community Centre, 25 Forstal Road, Aylesford, ME20 7AU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 13, \"PD_LETTER\": \"CAA\", \"POLLING_PL\": \"Community Centre\", \"WARD\": \"Aylesford North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Kiln Barn Road, Ditton, Aylesford, Kent. ME20 6AH",
+        "ADDRESS": "Ditton Community Centre, Kiln Barn Road, Ditton, Aylesford, ME20 6AH",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 14,
+        "OBJECTID_1": 14,
         "PD_LETTER": "CDB",
         "POLLING_PL": "The Community Centre",
         "WARD": "Ditton South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4554793090264769, 51.29422339190874], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"ADDRESS\": \"Kiln Barn Road, Ditton, Aylesford, Kent. ME20 6AH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 14, \"PD_LETTER\": \"CDB\", \"POLLING_PL\": \"The Community Centre\", \"WARD\": \"Ditton South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4554793090264769, 51.29422339190874], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Ditton Community Centre, Kiln Barn Road, Ditton, Aylesford, ME20 6AH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 14, \"PD_LETTER\": \"CDB\", \"POLLING_PL\": \"The Community Centre\", \"WARD\": \"Ditton South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "New Road, East Malling, West Malling, Kent. ME19 6",
+        "ADDRESS": "East Malling Village Hall, New Road, East Malling, ME19 6DD",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 15,
+        "OBJECTID_1": 15,
         "PD_LETTER": "TEA",
         "POLLING_PL": "East Malling Village Hall",
         "WARD": "East Malling",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.43830040633865364, 51.28966858429404], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"ADDRESS\": \"New Road, East Malling, West Malling, Kent. ME19 6\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 15, \"PD_LETTER\": \"TEA\", \"POLLING_PL\": \"East Malling Village Hall\", \"WARD\": \"East Malling\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.43830040633865364, 51.28966858429404], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"East Malling Village Hall, New Road, East Malling, ME19 6DD\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 15, \"PD_LETTER\": \"TEA\", \"POLLING_PL\": \"East Malling Village Hall\", \"WARD\": \"East Malling\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "70 Gibson Drive, Kings Hill, Kent. ME19",
+        "ADDRESS": "Kings Hill Centre, 70 Gibson Drive, Kings Hill, West Malling, ME19 4LG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 16,
+        "OBJECTID_1": 16,
         "PD_LETTER": "TKC",
         "POLLING_PL": "Kings Hill Centre",
         "WARD": "Kings Hill",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3992331716832076, 51.27313810252914], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"ADDRESS\": \"70 Gibson Drive, Kings Hill, Kent. ME19\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 16, \"PD_LETTER\": \"TKC\", \"POLLING_PL\": \"Kings Hill Centre\", \"WARD\": \"Kings Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3992331716832076, 51.27313810252914], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kings Hill Centre, 70 Gibson Drive, Kings Hill, West Malling, ME19 4LG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 16, \"PD_LETTER\": \"TKC\", \"POLLING_PL\": \"Kings Hill Centre\", \"WARD\": \"Kings Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Norman Road, West Malling, Kent. ME19 6RL",
+        "ADDRESS": "West Malling CP School, The Old Cricket Ground, Norman Road, West Malling, ME19 6RL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 17,
+        "OBJECTID_1": 17,
         "PD_LETTER": "TQC",
         "POLLING_PL": "West Malling CP School",
         "WARD": "West Malling",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4072368705246993, 51.29523660633239], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"ADDRESS\": \"Norman Road, West Malling, Kent. ME19 6RL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 17, \"PD_LETTER\": \"TQC\", \"POLLING_PL\": \"West Malling CP School\", \"WARD\": \"West Malling\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4072368705246993, 51.29523660633239], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"West Malling CP School, The Old Cricket Ground, Norman Road, West Malling, ME19 6RL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 17, \"PD_LETTER\": \"TQC\", \"POLLING_PL\": \"West Malling CP School\", \"WARD\": \"West Malling\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "147 Tonbridge Road, Wateringbury, Kent. ME18 5BS",
+        "ADDRESS": "Wateringbury Village Hall, 147 Tonbridge Road, Wateringbury, ME18 5NS",
         "CAR_PARK_": "Off Bow Road, Wateringbury.",
         "DISABLE_AC": "Yes",
-        "OBJECTID": 18,
+        "OBJECTID_1": 18,
         "PD_LETTER": "TPA",
         "POLLING_PL": "Wateringbury Village Hall",
         "WARD": "Wateringbury",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.42268193818807115, 51.255515094383945], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"ADDRESS\": \"147 Tonbridge Road, Wateringbury, Kent. ME18 5BS\", \"CAR_PARK_\": \"Off Bow Road, Wateringbury.\", \"DISABLE_AC\": \"Yes\", \"OBJECTID\": 18, \"PD_LETTER\": \"TPA\", \"POLLING_PL\": \"Wateringbury Village Hall\", \"WARD\": \"Wateringbury\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.42268193818807115, 51.255515094383945], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Wateringbury Village Hall, 147 Tonbridge Road, Wateringbury, ME18 5NS\", \"CAR_PARK_\": \"Off Bow Road, Wateringbury.\", \"DISABLE_AC\": \"Yes\", \"OBJECTID_1\": 18, \"PD_LETTER\": \"TPA\", \"POLLING_PL\": \"Wateringbury Village Hall\", \"WARD\": \"Wateringbury\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Pound Road, East Peckham, Tonbridge Kent. TN12 5AU",
+        "ADDRESS": "Curran Hall, E.P Methodist Church, Pound Road, East Peckham, TN12 5AU",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 19,
+        "OBJECTID_1": 19,
         "PD_LETTER": "TFA",
         "POLLING_PL": "Methodist Church & Curran Hall",
         "WARD": "East Peckham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.38594268847832947, 51.2129320017981], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"ADDRESS\": \"Pound Road, East Peckham, Tonbridge Kent. TN12 5AU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 19, \"PD_LETTER\": \"TFA\", \"POLLING_PL\": \"Methodist Church & Curran Hall\", \"WARD\": \"East Peckham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.38594268847832947, 51.2129320017981], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Curran Hall, E.P Methodist Church, Pound Road, East Peckham, TN12 5AU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 19, \"PD_LETTER\": \"TFA\", \"POLLING_PL\": \"Methodist Church & Curran Hall\", \"WARD\": \"East Peckham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "White Cottage Road, Tonbridge, Kent. TN10 4PT",
+        "ADDRESS": "Hugh Christie Technology College, White Cottage Road, Tonbridge, TN10 4PU",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 20,
+        "OBJECTID_1": 20,
         "PD_LETTER": "TBA",
         "POLLING_PL": "Hugh Christie Tech College",
         "WARD": "Cage Green North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.28508068210580845, 51.21396336602132], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"ADDRESS\": \"White Cottage Road, Tonbridge, Kent. TN10 4PT\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 20, \"PD_LETTER\": \"TBA\", \"POLLING_PL\": \"Hugh Christie Tech College\", \"WARD\": \"Cage Green North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.28508068210580845, 51.21396336602132], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Hugh Christie Technology College, White Cottage Road, Tonbridge, TN10 4PU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 20, \"PD_LETTER\": \"TBA\", \"POLLING_PL\": \"Hugh Christie Tech College\", \"WARD\": \"Cage Green North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Northwood Road, Tonbridge, Kent. TN10 3HH",
+        "ADDRESS": "Six In One Community Centre, Northwood Road, Tonbridge, TN10 3HH",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 21,
+        "OBJECTID_1": 21,
         "PD_LETTER": "TMA",
         "POLLING_PL": "Six in One Community Centre",
         "WARD": "Trench",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.27652050802750394, 51.214736111148056], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ADDRESS\": \"Northwood Road, Tonbridge, Kent. TN10 3HH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 21, \"PD_LETTER\": \"TMA\", \"POLLING_PL\": \"Six in One Community Centre\", \"WARD\": \"Trench\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.27652050802750394, 51.214736111148056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Six In One Community Centre, Northwood Road, Tonbridge, TN10 3HH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 21, \"PD_LETTER\": \"TMA\", \"POLLING_PL\": \"Six in One Community Centre\", \"WARD\": \"Trench\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "164 Shipbourne Road, Tonbridge, Kent TN10 3EJ",
+        "ADDRESS": "YMCA Centre, 164 Shipbourne Road, Tonbridge, TN10 3EJ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 22,
+        "OBJECTID_1": 22,
         "PD_LETTER": "TCA",
         "POLLING_PL": "YMCA Centre",
         "WARD": "Castle North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.27735109120563306, 51.20731894250681], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"ADDRESS\": \"164 Shipbourne Road, Tonbridge, Kent TN10 3EJ\\n\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 22, \"PD_LETTER\": \"TCA\", \"POLLING_PL\": \"YMCA Centre\", \"WARD\": \"Castle North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.27735109120563306, 51.20731894250681], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"YMCA Centre, 164 Shipbourne Road, Tonbridge, TN10 3EJ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 22, \"PD_LETTER\": \"TCA\", \"POLLING_PL\": \"YMCA Centre\", \"WARD\": \"Castle North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Lockside, Tonbridge, Kent. TN9 1EY",
+        "ADDRESS": "Fisher Hall, Lockside, Tonbridge, TN9 1EY",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 23,
+        "OBJECTID_1": 23,
         "PD_LETTER": "TLA",
         "POLLING_PL": "Fisher Hall",
         "WARD": "Medway North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.27931169231218506, 51.196308818444415], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"ADDRESS\": \"Lockside, Tonbridge, Kent. TN9 1EY\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 23, \"PD_LETTER\": \"TLA\", \"POLLING_PL\": \"Fisher Hall\", \"WARD\": \"Medway North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.27931169231218506, 51.196308818444415], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Fisher Hall, Lockside, Tonbridge, TN9 1EY\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 23, \"PD_LETTER\": \"TLA\", \"POLLING_PL\": \"Fisher Hall\", \"WARD\": \"Medway North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Deakin Leas, Tonbridge, Kent. TN9 2JR",
+        "ADDRESS": "Tonbridge Grammar School, Deakin Leas, Tonbridge, TN9 2JR",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 24,
+        "OBJECTID_1": 24,
         "PD_LETTER": "TNB",
         "POLLING_PL": "Tonbridge Grammar School",
         "WARD": "Vauxhall South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2749734941437315, 51.18456688343233], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"ADDRESS\": \"Deakin Leas, Tonbridge, Kent. TN9 2JR\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 24, \"PD_LETTER\": \"TNB\", \"POLLING_PL\": \"Tonbridge Grammar School\", \"WARD\": \"Vauxhall South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2749734941437315, 51.18456688343233], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Tonbridge Grammar School, Deakin Leas, Tonbridge, TN9 2JR\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 24, \"PD_LETTER\": \"TNB\", \"POLLING_PL\": \"Tonbridge Grammar School\", \"WARD\": \"Vauxhall South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Brook Street, Tonbridge, Kent. TN9 2PW",
+        "ADDRESS": "West  College, Brook Street, Tonbridge,TN9 2PW",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 25,
+        "OBJECTID_1": 25,
         "PD_LETTER": "TJC",
         "POLLING_PL": "K College",
         "WARD": "Judd South West",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.26303053101697604, 51.18672006665913], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"ADDRESS\": \"Brook Street, Tonbridge, Kent. TN9 2PW\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 25, \"PD_LETTER\": \"TJC\", \"POLLING_PL\": \"K College\", \"WARD\": \"Judd South West\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.26303053101697604, 51.18672006665913], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"West  College, Brook Street, Tonbridge,TN9 2PW\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 25, \"PD_LETTER\": \"TJC\", \"POLLING_PL\": \"K College\", \"WARD\": \"Judd South West\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Robin Hood Lane, Chatham, Kent. ME5 9NR",
+        "ADDRESS": "Blue Bell Hill Village Hall, 316 Robin Hood Lane, Blue Bell Hill, Chatham, ME5 9QR",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 26,
+        "OBJECTID_1": 26,
         "PD_LETTER": "CAB",
         "POLLING_PL": "Blue Bell Hill Village Hall",
         "WARD": "Aylesford Blue Bell Hill",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5079626393114453, 51.33379917888411], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"ADDRESS\": \"Robin Hood Lane, Chatham, Kent. ME5 9NR\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 26, \"PD_LETTER\": \"CAB\", \"POLLING_PL\": \"Blue Bell Hill Village Hall\", \"WARD\": \"Aylesford Blue Bell Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.5079626393114453, 51.33379917888411], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Blue Bell Hill Village Hall, 316 Robin Hood Lane, Blue Bell Hill, Chatham, ME5 9QR\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 26, \"PD_LETTER\": \"CAB\", \"POLLING_PL\": \"Blue Bell Hill Village Hall\", \"WARD\": \"Aylesford Blue Bell Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Rochester Road, Burham, Rochester, Kent. ME1 3RJ",
+        "ADDRESS": "Burham Old School Community Centre, Rochester Road, Bell Lane, Burham, ME1 3SF",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 27,
+        "OBJECTID_1": 27,
         "PD_LETTER": "CCA",
         "POLLING_PL": "Old School Community Centre",
         "WARD": "Burham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.48239637780666633, 51.329977945543476], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"ADDRESS\": \"Rochester Road, Burham, Rochester, Kent. ME1 3RJ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 27, \"PD_LETTER\": \"CCA\", \"POLLING_PL\": \"Old School Community Centre\", \"WARD\": \"Burham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.48239637780666633, 51.329977945543476], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Burham Old School Community Centre, Rochester Road, Bell Lane, Burham, ME1 3SF\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 27, \"PD_LETTER\": \"CCA\", \"POLLING_PL\": \"Old School Community Centre\", \"WARD\": \"Burham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "218 Bull Lane, Eccles, Aylesford, Kent. ME20 7HE",
+        "ADDRESS": "Eccles Church Hall, 218 Bull Lane, Eccles, Aylesford, ME20 7HW",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 28,
+        "OBJECTID_1": 28,
         "PD_LETTER": "CAC",
         "POLLING_PL": "Eccles Methodist Church Hall",
         "WARD": "Aylesford Eccles",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4782797231323172, 51.317773157839476], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ADDRESS\": \"218 Bull Lane, Eccles, Aylesford, Kent. ME20 7HE\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 28, \"PD_LETTER\": \"CAC\", \"POLLING_PL\": \"Eccles Methodist Church Hall\", \"WARD\": \"Aylesford Eccles\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4782797231323172, 51.317773157839476], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Eccles Church Hall, 218 Bull Lane, Eccles, Aylesford, ME20 7HW\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 28, \"PD_LETTER\": \"CAC\", \"POLLING_PL\": \"Eccles Methodist Church Hall\", \"WARD\": \"Aylesford Eccles\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Malling Road, Snodland, Kent. ME6 5HS",
+        "ADDRESS": "Snodland Youth and Childrens Centre, Holmesdale Technology College Site, Malling Road, Snodland, ME6 5HS",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 29,
+        "OBJECTID_1": 29,
         "PD_LETTER": "CGB",
-        "POLLING_PL": "Homesdale Technology College",
+        "POLLING_PL": "Holmesdale Technology College",
         "WARD": "Snodland South East",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.43870179627963035, 51.32322993123817], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"ADDRESS\": \"Malling Road, Snodland, Kent. ME6 5HS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 29, \"PD_LETTER\": \"CGB\", \"POLLING_PL\": \"Homesdale Technology College\", \"WARD\": \"Snodland South East\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.43870179627963035, 51.32322993123817], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Snodland Youth and Childrens Centre, Holmesdale Technology College Site, Malling Road, Snodland, ME6 5HS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 29, \"PD_LETTER\": \"CGB\", \"POLLING_PL\": \"Holmesdale Technology College\", \"WARD\": \"Snodland South East\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Snodland Road, Birling, Kent. ME19 5JG",
+        "ADDRESS": "Birling Village Hall, Snodland Road, Birling  ME19 5JG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 30,
+        "OBJECTID_1": 30,
         "PD_LETTER": "TDB",
         "POLLING_PL": "Birling Village Hall",
         "WARD": "Birling",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.41005378418487276, 51.3194706593059], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"ADDRESS\": \"Snodland Road, Birling, Kent. ME19 5JG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 30, \"PD_LETTER\": \"TDB\", \"POLLING_PL\": \"Birling Village Hall\", \"WARD\": \"Birling\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.41005378418487276, 51.3194706593059], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Birling Village Hall, Snodland Road, Birling  ME19 5JG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 30, \"PD_LETTER\": \"TDB\", \"POLLING_PL\": \"Birling Village Hall\", \"WARD\": \"Birling\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Birling Road, Ryarsh, Kent. ME19 5LS",
+        "ADDRESS": "Ryarsh Village Hall, Birling Road, Ryarsh, ME19 5LS",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 31,
+        "OBJECTID_1": 31,
         "PD_LETTER": "TDE",
         "POLLING_PL": "Ryarsh Village Hall",
         "WARD": "Ryarsh",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3960849610463795, 51.314653667164436], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"ADDRESS\": \"Birling Road, Ryarsh, Kent. ME19 5LS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 31, \"PD_LETTER\": \"TDE\", \"POLLING_PL\": \"Ryarsh Village Hall\", \"WARD\": \"Ryarsh\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3960849610463795, 51.314653667164436], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Ryarsh Village Hall, Birling Road, Ryarsh, ME19 5LS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 31, \"PD_LETTER\": \"TDE\", \"POLLING_PL\": \"Ryarsh Village Hall\", \"WARD\": \"Ryarsh\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Little Market Row, Leybourne, Kent ME19 5QL",
+        "ADDRESS": "Leybourne Village Hall, Little Market Row, Leybourne, ME19 5QL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 32,
+        "OBJECTID_1": 32,
         "PD_LETTER": "TQA",
         "POLLING_PL": "Leybourne Village Hall",
         "WARD": "Leybourne",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4247748096110909, 51.30165053514822], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"ADDRESS\": \"Little Market Row, Leybourne, Kent ME19 5QL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 32, \"PD_LETTER\": \"TQA\", \"POLLING_PL\": \"Leybourne Village Hall\", \"WARD\": \"Leybourne\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4247748096110909, 51.30165053514822], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Leybourne Village Hall, Little Market Row, Leybourne, ME19 5QL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 32, \"PD_LETTER\": \"TQA\", \"POLLING_PL\": \"Leybourne Village Hall\", \"WARD\": \"Leybourne\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "School Lane, Trottiscliffe, Kent. ME19 5EB",
+        "ADDRESS": "Trottiscliffe Village Hall, School Lane, Trottiscliffe, ME19 5EB",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 33,
+        "OBJECTID_1": 33,
         "PD_LETTER": "TDF",
         "POLLING_PL": "Trottiscliffe Village Hall",
         "WARD": "Trottiscliffe",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.35693839245914494, 51.31738142210801], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"ADDRESS\": \"School Lane, Trottiscliffe, Kent. ME19 5EB\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 33, \"PD_LETTER\": \"TDF\", \"POLLING_PL\": \"Trottiscliffe Village Hall\", \"WARD\": \"Trottiscliffe\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.35693839245914494, 51.31738142210801], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Trottiscliffe Village Hall, School Lane, Trottiscliffe, ME19 5EB\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 33, \"PD_LETTER\": \"TDF\", \"POLLING_PL\": \"Trottiscliffe Village Hall\", \"WARD\": \"Trottiscliffe\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "High Street, Borough Green, Kent. TN15 8BJ",
+        "ADDRESS": "Borough Green Village Hall, High Street, Borough Green, TN15 8BJ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 34,
+        "OBJECTID_1": 34,
         "PD_LETTER": "TAA",
         "POLLING_PL": "Village Hall",
         "WARD": "Borough Green",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3064323029313488, 51.29176428779733], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ADDRESS\": \"High Street, Borough Green, Kent. TN15 8BJ\\n\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 34, \"PD_LETTER\": \"TAA\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Borough Green\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3064323029313488, 51.29176428779733], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Borough Green Village Hall, High Street, Borough Green, TN15 8BJ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 34, \"PD_LETTER\": \"TAA\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Borough Green\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Platinum Way, Platt, Kent. TN15 8FH",
+        "ADDRESS": "Platt Memorial Hall, Platinum Way, Platt, Sevenoaks, TN15 8FH",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 35,
+        "OBJECTID_1": 35,
         "PD_LETTER": "TAB",
         "POLLING_PL": "Platt Memorial Hall",
         "WARD": "Platt",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3218984486419053, 51.29205227453428], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"ADDRESS\": \"Platinum Way, Platt, Kent. TN15 8FH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 35, \"PD_LETTER\": \"TAB\", \"POLLING_PL\": \"Platt Memorial Hall\", \"WARD\": \"Platt\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3218984486419053, 51.29205227453428], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Platt Memorial Hall, Platinum Way, Platt, Sevenoaks, TN15 8FH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 35, \"PD_LETTER\": \"TAB\", \"POLLING_PL\": \"Platt Memorial Hall\", \"WARD\": \"Platt\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Church Road, Offham, Kent. ME19 5NY",
+        "ADDRESS": "Offham Village Hall, Church Road, Offham, ME19 5NY",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 36,
+        "OBJECTID_1": 36,
         "PD_LETTER": "TDD",
         "POLLING_PL": "Offham Village Hall",
         "WARD": "Offham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3784507322405302, 51.291649527419196], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"ADDRESS\": \"Church Road, Offham, Kent. ME19 5NY\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 36, \"PD_LETTER\": \"TDD\", \"POLLING_PL\": \"Offham Village Hall\", \"WARD\": \"Offham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3784507322405302, 51.291649527419196], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Offham Village Hall, Church Road, Offham, ME19 5NY\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 36, \"PD_LETTER\": \"TDD\", \"POLLING_PL\": \"Offham Village Hall\", \"WARD\": \"Offham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Church Road, West Peckham, Kent. ME18 5JL",
+        "ADDRESS": "West Peckham Village Hall, Church Road, West Peckham, ME18 5JL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 37,
+        "OBJECTID_1": 37,
         "PD_LETTER": "TDG",
         "POLLING_PL": "Village Hall",
         "WARD": "West Peckham",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.35586654240829335, 51.24849730358618], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"ADDRESS\": \"Church Road, West Peckham, Kent. ME18 5JL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 37, \"PD_LETTER\": \"TDG\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"West Peckham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.35586654240829335, 51.24849730358618], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"West Peckham Village Hall, Church Road, West Peckham, ME18 5JL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 37, \"PD_LETTER\": \"TDG\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"West Peckham\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Hall Road, Aylesford, Kent. ME20 7QU",
+        "ADDRESS": "Royal British Legion Community Hall, Hall Road, Aylesford, ME20 7NL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 38,
+        "OBJECTID_1": 38,
         "PD_LETTER": "CBA",
         "POLLING_PL": "Royal British Legion Comm Hall",
         "WARD": "Aylesford South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4735654767278106, 51.29693956063398], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"ADDRESS\": \"Hall Road, Aylesford, Kent. ME20 7QU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 38, \"PD_LETTER\": \"CBA\", \"POLLING_PL\": \"Royal British Legion Comm Hall\", \"WARD\": \"Aylesford South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4735654767278106, 51.29693956063398], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Royal British Legion Community Hall, Hall Road, Aylesford, ME20 7NL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 38, \"PD_LETTER\": \"CBA\", \"POLLING_PL\": \"Royal British Legion Comm Hall\", \"WARD\": \"Aylesford South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Station Road, Ditton, Aylesford, Kent. ME20 6BX",
+        "ADDRESS": "K Sports formerly Cobdown Sports And Social Club, Station Road, Ditton, Aylesford,  ME20 6AU",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 39,
+        "OBJECTID_1": 39,
         "PD_LETTER": "CDA",
         "POLLING_PL": "Cobdown Sports And Social Club",
         "WARD": "Ditton North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4568553646801672, 51.29949822557323], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ADDRESS\": \"Station Road, Ditton, Aylesford, Kent. ME20 6BX\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 39, \"PD_LETTER\": \"CDA\", \"POLLING_PL\": \"Cobdown Sports And Social Club\", \"WARD\": \"Ditton North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4568553646801672, 51.29949822557323], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"K Sports formerly Cobdown Sports And Social Club, Station Road, Ditton, Aylesford,  ME20 6AU\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 39, \"PD_LETTER\": \"CDA\", \"POLLING_PL\": \"Cobdown Sports And Social Club\", \"WARD\": \"Ditton North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Maidstone Road Hadlow, Tonbridge, Kent. TN11 0ET",
+        "ADDRESS": "Hadlow Old School Hall, Maidstone Road, Hadlow, TN11 0EH",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 40,
+        "OBJECTID_1": 40,
         "PD_LETTER": "TFC",
         "POLLING_PL": "Hadlow Old School",
         "WARD": "Hadlow",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.33787974493980627, 51.22451920963192], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"ADDRESS\": \"Maidstone Road Hadlow, Tonbridge, Kent. TN11 0ET\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 40, \"PD_LETTER\": \"TFC\", \"POLLING_PL\": \"Hadlow Old School\", \"WARD\": \"Hadlow\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.33787974493980627, 51.22451920963192], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Hadlow Old School Hall, Maidstone Road, Hadlow, TN11 0EH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 40, \"PD_LETTER\": \"TFC\", \"POLLING_PL\": \"Hadlow Old School\", \"WARD\": \"Hadlow\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Three Elm Lane, Tonbridge, Kent. TN11 0BE",
+        "ADDRESS": "Golden Green Community Hall, Three Elm Lane, Golden Green, Tonbridge, TN11 0BE",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 41,
+        "OBJECTID_1": 41,
         "PD_LETTER": "TFB",
         "POLLING_PL": "Village Hall",
         "WARD": "Golden Green",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.34313296956769024, 51.21000420552186], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"ADDRESS\": \"Three Elm Lane, Tonbridge, Kent. TN11 0BE\\n\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 41, \"PD_LETTER\": \"TFB\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Golden Green\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.34313296956769024, 51.21000420552186], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Golden Green Community Hall, Three Elm Lane, Golden Green, Tonbridge, TN11 0BE\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 41, \"PD_LETTER\": \"TFB\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Golden Green\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Brionne Gardens, Tonbridge, Kent. TN9 1EY",
+        "ADDRESS": "Hillview School For Girls, Brionne Gardens, Tonbridge, TN9 2HE",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 42,
+        "OBJECTID_1": 42,
         "PD_LETTER": "TLB",
         "POLLING_PL": "Hillview School for Girls",
         "WARD": "Medway South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2836279777176941, 51.18813302416961], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"ADDRESS\": \"Brionne Gardens, Tonbridge, Kent. TN9 1EY\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 42, \"PD_LETTER\": \"TLB\", \"POLLING_PL\": \"Hillview School for Girls\", \"WARD\": \"Medway South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2836279777176941, 51.18813302416961], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Hillview School For Girls, Brionne Gardens, Tonbridge, TN9 2HE\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 42, \"PD_LETTER\": \"TLB\", \"POLLING_PL\": \"Hillview School for Girls\", \"WARD\": \"Medway South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "26 Priory Road, Tonbridge, Kent.TN9 2AS",
+        "ADDRESS": "The New Telegraph Club, 26 Priory Road, Tonbridge, TN9 2AS",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 43,
+        "OBJECTID_1": 43,
         "PD_LETTER": "TNA",
         "POLLING_PL": "Royal British Legion Club",
         "WARD": "Vauxhall North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.27371557417684944, 51.19026301896509], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"ADDRESS\": \"26 Priory Road, Tonbridge, Kent.TN9 2AS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 43, \"PD_LETTER\": \"TNA\", \"POLLING_PL\": \"Royal British Legion Club\", \"WARD\": \"Vauxhall North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.27371557417684944, 51.19026301896509], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The New Telegraph Club, 26 Priory Road, Tonbridge, TN9 2AS\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 43, \"PD_LETTER\": \"TNA\", \"POLLING_PL\": \"Royal British Legion Club\", \"WARD\": \"Vauxhall North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Waterloo Road, Tonbridge, Kent. TN9 2SW",
+        "ADDRESS": "St. Stephens Church Centre, Waterloo Road, Tonbridge, TN9 2SW",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 44,
+        "OBJECTID_1": 44,
         "PD_LETTER": "TJA",
         "POLLING_PL": "St Stephens Church Centre",
         "WARD": "Judd South East",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.26890345706687063, 51.19018725432474], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"ADDRESS\": \"Waterloo Road, Tonbridge, Kent. TN9 2SW\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 44, \"PD_LETTER\": \"TJA\", \"POLLING_PL\": \"St Stephens Church Centre\", \"WARD\": \"Judd South East\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.26890345706687063, 51.19018725432474], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St. Stephens Church Centre, Waterloo Road, Tonbridge, TN9 2SW\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 44, \"PD_LETTER\": \"TJA\", \"POLLING_PL\": \"St Stephens Church Centre\", \"WARD\": \"Judd South East\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Danvers Road, Tonbridge, TN9 1TG",
+        "ADDRESS": "Tonbridge Youth Hub, Access via Danvers Road, Tonbridge, TN9 1TG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 45,
+        "OBJECTID_1": 45,
         "PD_LETTER": "TJB",
         "POLLING_PL": "Tonbridge Youth Hub",
         "WARD": "Judd North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2707161206617803, 51.19255352299739], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"ADDRESS\": \"Danvers Road, Tonbridge, TN9 1TG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 45, \"PD_LETTER\": \"TJB\", \"POLLING_PL\": \"Tonbridge Youth Hub\", \"WARD\": \"Judd North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2707161206617803, 51.19255352299739], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Tonbridge Youth Hub, Access via Danvers Road, Tonbridge, TN9 1TG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 45, \"PD_LETTER\": \"TJB\", \"POLLING_PL\": \"Tonbridge Youth Hub\", \"WARD\": \"Judd North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Castle Street, Tonbridge, Kent. TN9 1BH",
+        "ADDRESS": "Council Chamber, Tonbridge Castle, Castle Street, Tonbridge, TN9 1BG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 46,
+        "OBJECTID_1": 46,
         "PD_LETTER": "TCB",
         "POLLING_PL": "Tonbridge Castle",
         "WARD": "Castle South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2742091453931886, 51.19647527668522], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"ADDRESS\": \"Castle Street, Tonbridge, Kent. TN9 1BH\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 46, \"PD_LETTER\": \"TCB\", \"POLLING_PL\": \"Tonbridge Castle\", \"WARD\": \"Castle South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2742091453931886, 51.19647527668522], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Council Chamber, Tonbridge Castle, Castle Street, Tonbridge, TN9 1BG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 46, \"PD_LETTER\": \"TCB\", \"POLLING_PL\": \"Tonbridge Castle\", \"WARD\": \"Castle South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Higham Lane, Tonbridge, Kent. TN10 4JA",
+        "ADDRESS": "Methodist Hall, Higham Lane, Tonbridge, TN10 4JG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 47,
+        "OBJECTID_1": 47,
         "PD_LETTER": "TGA",
         "POLLING_PL": "Methodist Hall",
         "WARD": "Higham North",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2950199291796889, 51.21183845094161], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"ADDRESS\": \"Higham Lane, Tonbridge, Kent. TN10 4JA\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 47, \"PD_LETTER\": \"TGA\", \"POLLING_PL\": \"Methodist Hall\", \"WARD\": \"Higham North\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2950199291796889, 51.21183845094161], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Methodist Hall, Higham Lane, Tonbridge, TN10 4JG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 47, \"PD_LETTER\": \"TGA\", \"POLLING_PL\": \"Methodist Hall\", \"WARD\": \"Higham North\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Leigh Road, Hildenborough, Tonbridge, Kent.",
+        "ADDRESS": "Stocks Green County Primary School, Leigh Road, Hildenborough, TN11 9AE",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 48,
+        "OBJECTID_1": 48,
         "PD_LETTER": "THB",
         "POLLING_PL": "Stocks Green School",
         "WARD": "Hildenborough South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.24890449258715214, 51.21122854081042], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"ADDRESS\": \"Leigh Road, Hildenborough, Tonbridge, Kent.\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 48, \"PD_LETTER\": \"THB\", \"POLLING_PL\": \"Stocks Green School\", \"WARD\": \"Hildenborough South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.24890449258715214, 51.21122854081042], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Stocks Green County Primary School, Leigh Road, Hildenborough, TN11 9AE\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 48, \"PD_LETTER\": \"THB\", \"POLLING_PL\": \"Stocks Green School\", \"WARD\": \"Hildenborough South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Upper Green Road, Shipbourne, Kent. TN11 9PL",
+        "ADDRESS": "Shipbourne Village Hall, Upper Green Road, Shipbourne, TN11 9PL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 49,
+        "OBJECTID_1": 49,
         "PD_LETTER": "TAD",
         "POLLING_PL": "Village Hall",
         "WARD": "Shipbourne",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2844693658408049, 51.24760488474169], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"ADDRESS\": \"Upper Green Road, Shipbourne, Kent. TN11 9PL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 49, \"PD_LETTER\": \"TAD\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Shipbourne\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2844693658408049, 51.24760488474169], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Shipbourne Village Hall, Upper Green Road, Shipbourne, TN11 9PL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 49, \"PD_LETTER\": \"TAD\", \"POLLING_PL\": \"Village Hall\", \"WARD\": \"Shipbourne\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "New Hythe Lane, Larkfield, Kent. ME20 6ST",
+        "ADDRESS": "Church Farm Hall, 198 New Hythe Lane, Larkfield, ME20 6ST",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 50,
+        "OBJECTID_1": 50,
         "PD_LETTER": "CFA",
         "POLLING_PL": "Church Farm Hall",
         "WARD": "Larkfield South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4429067964957123, 51.30404929990992], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"ADDRESS\": \"New Hythe Lane, Larkfield, Kent. ME20 6ST\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 50, \"PD_LETTER\": \"CFA\", \"POLLING_PL\": \"Church Farm Hall\", \"WARD\": \"Larkfield South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4429067964957123, 51.30404929990992], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Farm Hall, 198 New Hythe Lane, Larkfield, ME20 6ST\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 50, \"PD_LETTER\": \"CFA\", \"POLLING_PL\": \"Church Farm Hall\", \"WARD\": \"Larkfield South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "70 Gibson Drive, Kings Hill, Kent. ME19",
+        "ADDRESS": "Kings Hill Centre, 70 Gibson Drive, Kings Hill, West Malling, ME19 4LG",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 51,
+        "OBJECTID_1": 51,
         "PD_LETTER": "TKB",
         "POLLING_PL": "Kings Hill Centre",
         "WARD": "Mereworth Airfield",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3992331716832076, 51.27313810252914], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"ADDRESS\": \"70 Gibson Drive, Kings Hill, Kent. ME19\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 51, \"PD_LETTER\": \"TKB\", \"POLLING_PL\": \"Kings Hill Centre\", \"WARD\": \"Mereworth Airfield\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.3992331716832076, 51.27313810252914], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kings Hill Centre, 70 Gibson Drive, Kings Hill, West Malling, ME19 4LG\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 51, \"PD_LETTER\": \"TKB\", \"POLLING_PL\": \"Kings Hill Centre\", \"WARD\": \"Mereworth Airfield\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "17 Tiffen Way Kings Hill West Malling ME19 4GZ",
+        "ADDRESS": "Kings Hill Cricket Club Pavilion, 17 Tiffen Way, Kings Hill, West Malling, ME19 4GZ",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 52,
+        "OBJECTID_1": 52,
         "PD_LETTER": "TKA",
         "POLLING_PL": "Kings Hill Cricket Club",
         "WARD": "Kings Hill",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4157594891678975, 51.27186939290816], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"ADDRESS\": \"17 Tiffen Way Kings Hill West Malling ME19 4GZ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 52, \"PD_LETTER\": \"TKA\", \"POLLING_PL\": \"Kings Hill Cricket Club\", \"WARD\": \"Kings Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.4157594891678975, 51.27186939290816], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kings Hill Cricket Club Pavilion, 17 Tiffen Way, Kings Hill, West Malling, ME19 4GZ\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 52, \"PD_LETTER\": \"TKA\", \"POLLING_PL\": \"Kings Hill Cricket Club\", \"WARD\": \"Kings Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Salisbury Road,\r\nSalisbury Road, Tonbridge,",
+        "ADDRESS": "St Philip's Church, Salisbury Road, Tonbridge, TN10 4PA",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 53,
+        "OBJECTID_1": 53,
         "PD_LETTER": "TBB",
         "POLLING_PL": "St Philips Church",
         "WARD": "Cage Green South",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2854626639548119, 51.20828895604544], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ADDRESS\": \"Salisbury Road,\\r\\nSalisbury Road, Tonbridge,\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 53, \"PD_LETTER\": \"TBB\", \"POLLING_PL\": \"St Philips Church\", \"WARD\": \"Cage Green South\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2854626639548119, 51.20828895604544], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Philip's Church, Salisbury Road, Tonbridge, TN10 4PA\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 53, \"PD_LETTER\": \"TBB\", \"POLLING_PL\": \"St Philips Church\", \"WARD\": \"Cage Green South\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "82 Hawley Drive",
+        "ADDRESS": "Leybourne Chase Community Centre, 82 Hawley Drive, Leybourne, West Malling, ME19 5FL",
         "CAR_PARK_": "",
         "DISABLE_AC": "",
-        "OBJECTID": 54,
+        "OBJECTID_1": 54,
         "PD_LETTER": "TQB",
         "POLLING_PL": "Leybourne Community Centre",
         "WARD": "West Malling and Leybourne Ward",
         "council_id": "E07000115",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.40764585191527847, 51.306265253551935], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"ADDRESS\": \"82 Hawley Drive\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID\": 54, \"PD_LETTER\": \"TQB\", \"POLLING_PL\": \"Leybourne Community Centre\", \"WARD\": \"West Malling and Leybourne Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [0.40764585191527847, 51.306265253551935], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Leybourne Chase Community Centre, 82 Hawley Drive, Leybourne, West Malling, ME19 5FL\", \"CAR_PARK_\": \" \", \"DISABLE_AC\": \" \", \"OBJECTID_1\": 54, \"PD_LETTER\": \"TQB\", \"POLLING_PL\": \"Leybourne Community Centre\", \"WARD\": \"West Malling and Leybourne Ward\"}, \"type\": \"Feature\"}"
     }
 ]
