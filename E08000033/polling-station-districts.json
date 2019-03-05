@@ -200,16 +200,16 @@
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A55%3A41/Calder.pdf"
         },
         "60d63b9b-6709-49b9-8c23-ca1cd6fd97ff": {
-            "check_hash": "5da7ffce46bfcd12437a9a7046a96f7d",
+            "check_hash": "8d3a7d711e779080459bef2b3930cc2a",
             "check_http_status": 200,
             "check_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "check_size": 35720,
-            "check_timestamp": "2019-02-26T16:34:19.692Z",
+            "check_size": 35960,
+            "check_timestamp": "2019-03-05T16:01:27.814Z",
             "description": "<p>The information includes: ward, polling district letters, polling districts/place name, polling station, disabled access, parish, constituency and electorate information from 1st December 2018.</p>",
             "format": "spreadsheet",
             "order": 0,
             "title": "Polling districts and polling stations scheme",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-02-26T16%3A34%3A19/Polling%20districts%20and%20polling%20stations%20scheme.xlsx"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-03-05T16%3A01%3A27/Polling%20districts%20and%20polling%20stations%20scheme.xlsx"
         },
         "66ef0335-e4da-4e0c-95d3-3b615ec275ba": {
             "check_hash": "2d7a9ef904ecd5f191fd0cbd10f82885",
@@ -454,5 +454,5 @@
         "452ec79e-b507-4ba6-8f19-6c7d9c805e5a"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2019-02-26T16:45:36.012Z"
+    "updatedAt": "2019-03-05T16:01:29.487Z"
 }
