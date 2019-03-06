@@ -80,16 +80,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [1.3038762609187469, 51.377454736990764], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"ADDRESS\": \"Birchington Village Centre Alpha Road BIRCHINGTON Kent CT7 9EG\", \"DISTRICT\": \"BTD\", \"OBJECTID\": 9, \"POSTCODE\": \"CT7 9EG\", \"X\": 630019, \"Y\": 169447}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Council Office Pierremont Hall Pierremont Park Broadstairs Kent CT10 1JX",
-        "DISTRICT": "BSH",
-        "OBJECTID": 10,
-        "POSTCODE": "CT10 1JX",
-        "X": 639408,
-        "Y": 167815,
-        "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.437435106714741, 51.3589260032313], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"ADDRESS\": \"Council Office Pierremont Hall Pierremont Park Broadstairs Kent CT10 1JX\", \"DISTRICT\": \"BSH\", \"OBJECTID\": 10, \"POSTCODE\": \"CT10 1JX\", \"X\": 639408, \"Y\": 167815}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "The Racing Greyhound 227 Hereson Road RAMSGATE Kent CT11 7EX",
         "DISTRICT": "RD",
         "OBJECTID": 11,
@@ -238,16 +228,6 @@
         "Y": 170115,
         "council_id": "E07000114",
         "geometry": "{\"geometry\": {\"coordinates\": [1.391751866087039, 51.38095402597342], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"ADDRESS\": \"St Johns Scout Hall Durban Road MARGATE Kent CT9 2SS\", \"DISTRICT\": \"MN\", \"OBJECTID\": 25, \"POSTCODE\": \"CT9 2SS\", \"X\": 636115, \"Y\": 170115}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Ramsgate Social Club Elms Avenue RAMSGATE Kent CT11 9BD",
-        "DISTRICT": "RH",
-        "OBJECTID": 26,
-        "POSTCODE": "CT11 9BD",
-        "X": 637967,
-        "Y": 164817,
-        "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4147757854809084, 51.33262460827299], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"ADDRESS\": \"Ramsgate Social Club Elms Avenue RAMSGATE Kent CT11 9BD\", \"DISTRICT\": \"RH\", \"OBJECTID\": 26, \"POSTCODE\": \"CT11 9BD\", \"X\": 637967, \"Y\": 164817}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Annes Church Eastern Esplanade MARGATE Kent CT9 3AA",
@@ -407,17 +387,7 @@
         "X": 637156,
         "Y": 165441,
         "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4035745427644284, 51.33856332282203], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"ADDRESS\": \"Ramsgate Youth Centre High Street St Lawrence RAMSGATE Kent\", \"DISTRICT\": \"RG\", \"OBJECTID\": 42, \"POSTCODE\": \" \", \"X\": 637156, \"Y\": 165441}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Westover Free Church Prince Charles Road BROADSTAIRS Kent CT10 3HF",
-        "DISTRICT": "BSB",
-        "OBJECTID": 43,
-        "POSTCODE": "CT10 3HF",
-        "X": 638373,
-        "Y": 169220,
-        "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4235377755657106, 51.371972576470874], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"ADDRESS\": \"Westover Free Church Prince Charles Road BROADSTAIRS Kent CT10 3HF\", \"DISTRICT\": \"BSB\", \"OBJECTID\": 43, \"POSTCODE\": \"CT10 3HF\", \"X\": 638373, \"Y\": 169220}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4035745427644284, 51.33856332282203], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"ADDRESS\": \"Ramsgate Youth Centre High Street St Lawrence RAMSGATE Kent\", \"DISTRICT\": \"RG\", \"OBJECTID\": 42, \"POSTCODE\": \"\", \"X\": 637156, \"Y\": 165441}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Birchington Bowls Club Beach Avenue BIRCHINGTON Kent CT7 9JS",
@@ -510,13 +480,23 @@
         "geometry": "{\"geometry\": {\"coordinates\": [1.4438388530289787, 51.360422622302295], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall Church Road Broadstairs\", \"DISTRICT\": \"BSD \", \"OBJECTID\": 52, \"POSTCODE\": \"CT10 1EZ\", \"X\": 639842, \"Y\": 167991}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "",
+        "ADDRESS": "Forresters Hall Meeting Street",
         "DISTRICT": "",
-        "OBJECTID": 54,
-        "POSTCODE": "",
-        "X": 0,
-        "Y": 0,
+        "OBJECTID": 62,
+        "POSTCODE": "CT11 9R",
+        "X": 638064,
+        "Y": 165085,
         "council_id": "E07000114",
-        "geometry": "{\"geometry\": null, \"id\": 54, \"properties\": {\"ADDRESS\": \" \", \"DISTRICT\": \" \", \"OBJECTID\": 54, \"POSTCODE\": \" \", \"X\": 0, \"Y\": 0}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4161936246690316, 51.33513107991637], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"ADDRESS\": \"Forresters Hall Meeting Street\", \"DISTRICT\": \" \", \"OBJECTID\": 62, \"POSTCODE\": \" CT11 9R\", \"X\": 638064, \"Y\": 165085}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Queens Road Baptist Church",
+        "DISTRICT": "BDSTPS",
+        "OBJECTID": 63,
+        "POSTCODE": "CT10 1NU",
+        "X": 639557,
+        "Y": 167780,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4394870853429413, 51.358492964629264], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"ADDRESS\": \"Queens Road Baptist Church\", \"DISTRICT\": \"BDSTPS\", \"OBJECTID\": 63, \"POSTCODE\": \"CT10 1NU\", \"X\": 639557, \"Y\": 167780}, \"type\": \"Feature\"}"
     }
 ]
