@@ -1,20 +1,11 @@
 [
     {
-        "OBJECTID_1": 1,
-        "POLLINGDIS": "HD",
-        "POLLINGSTA": "Derwent Infants School, Osbaldwick Lane, York,  YO10 3AX",
-        "WARD": "Hull Road",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0428072030814026, 53.956881671816596], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"Derwent Infants School, Osbaldwick Lane, York,  YO10 3AX\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 1
-    },
-    {
         "OBJECTID_1": 2,
         "POLLINGDIS": "EB",
-        "POLLINGSTA": "Upstage Centre Youth Theatre, 41 Monkgate, York, YO31 7PB",
+        "POLLINGSTA": "Trinity Methodist Church, 43 Monkgate, York, YO31 7PB",
         "WARD": "Guildhall",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0761366965103305, 53.96446766421338], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2, \"POLLINGDIS\": \"EB\", \"POLLINGSTA\": \"Upstage Centre Youth Theatre, 41 Monkgate, York, YO31 7PB\", \"WARD\": \"Guildhall\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0761366965103305, 53.96446766421338], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2, \"POLLINGDIS\": \"EB\", \"POLLINGSTA\": \"Trinity Methodist Church, 43 Monkgate, York, YO31 7PB\", \"WARD\": \"Guildhall\"}, \"type\": \"Feature\"}",
         "pk": 2
     },
     {
@@ -84,9 +75,9 @@
         "OBJECTID_1": 12,
         "POLLINGDIS": "YCA",
         "POLLINGSTA": "Fulford Social Hall, School Lane, Fulford, York, YO10 4LS",
-        "WARD": "Fulford",
+        "WARD": "Fulford & Heslington",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0713098679156112, 53.93723758316285], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 12, \"POLLINGDIS\": \"YCA\", \"POLLINGSTA\": \"Fulford Social Hall, School Lane, Fulford, York, YO10 4LS\", \"WARD\": \"Fulford\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0713098679156112, 53.93723758316285], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 12, \"POLLINGDIS\": \"YCA\", \"POLLINGSTA\": \"Fulford Social Hall, School Lane, Fulford, York, YO10 4LS\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
         "pk": 12
     },
     {
@@ -106,15 +97,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1051173000927648, 53.987128106593154], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 15, \"POLLINGDIS\": \"YKA\", \"POLLINGSTA\": \"Clifton Moor Church and Community Centre, Rivelin Way, York, YO30 4WD\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
         "pk": 15
-    },
-    {
-        "OBJECTID_1": 16,
-        "POLLINGDIS": "HC",
-        "POLLINGSTA": "St. George's Methodist Church, Millfield Lane, York, YO10 3AW",
-        "WARD": "Hull Road",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0482966767421422, 53.95596158545285], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 16, \"POLLINGDIS\": \"HC\", \"POLLINGSTA\": \"St. George's Methodist Church, Millfield Lane, York, YO10 3AW\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 16
     },
     {
         "OBJECTID_1": 17,
@@ -174,9 +156,9 @@
         "OBJECTID_1": 23,
         "POLLINGDIS": "YCB",
         "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York YO10 5EB",
-        "WARD": "Heslington",
+        "WARD": "Fulford & Heslington",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.044437486011104, 53.943860217563106], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 23, \"POLLINGDIS\": \"YCB\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York YO10 5EB\", \"WARD\": \"Heslington\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.044437486011104, 53.943860217563106], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 23, \"POLLINGDIS\": \"YCB\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York YO10 5EB\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -306,15 +288,6 @@
         "pk": 38
     },
     {
-        "OBJECTID_1": 39,
-        "POLLINGDIS": "HE",
-        "POLLINGSTA": "Archbishop Holgates C. of E. School, Hull Road, York, YO10 5ZA",
-        "WARD": "Hull Road",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.04108171665417, 53.95235575217077], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 39, \"POLLINGDIS\": \"HE\", \"POLLINGSTA\": \"Archbishop Holgates C. of E. School, Hull Road, York, YO10 5ZA\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 39
-    },
-    {
         "OBJECTID_1": 40,
         "POLLINGDIS": "BA",
         "POLLINGSTA": "Burton Green Primary School, Burton Green, York, YO30 6JE",
@@ -376,15 +349,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.071773631368256, 54.0150745796279], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 47, \"POLLINGDIS\": \"YDC\", \"POLLINGSTA\": \"2nd Haxby & Wigginton Scout HQ, 9 York Road, Haxby \", \"WARD\": \"Haxby & Wigginton\"}, \"type\": \"Feature\"}",
         "pk": 47
-    },
-    {
-        "OBJECTID_1": 48,
-        "POLLINGDIS": "HB",
-        "POLLINGSTA": "The Parish  Church of St. Hilda's, Tang Hall, Lane, York, YO10 3SD",
-        "WARD": "Hull Road",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.048969328020071, 53.95845333223954], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 48, \"POLLINGDIS\": \"HB\", \"POLLINGSTA\": \"The Parish  Church of St. Hilda's, Tang Hall, Lane, York, YO10 3SD\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 48
     },
     {
         "OBJECTID_1": 49,
@@ -666,15 +630,6 @@
         "pk": 82
     },
     {
-        "OBJECTID_1": 83,
-        "POLLINGDIS": "HA",
-        "POLLINGSTA": "York Environment Centre St. Nicholas Fields Local Nature Reserve, Rawdon Avenue, York, YO10 3ST",
-        "WARD": "Hull Road",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.061998735176816, 53.95752999016956], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 83, \"POLLINGDIS\": \"HA\", \"POLLINGSTA\": \"York Environment Centre St. Nicholas Fields Local Nature Reserve, Rawdon Avenue, York, YO10 3ST\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 83
-    },
-    {
         "OBJECTID_1": 84,
         "POLLINGDIS": "YMB",
         "POLLINGSTA": "Mobile Unit, White Swan car park, York Road, Deighton",
@@ -808,5 +763,50 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.046433274242008, 53.96826232075781], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1695, \"POLLINGDIS\": \"YHA/2\", \"POLLINGSTA\": \"Heworth Without Community Centre, Applecroft Road, York, YO31 0HG\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
         "pk": 1695
+    },
+    {
+        "OBJECTID_1": 1696,
+        "POLLINGDIS": "HG",
+        "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York. YO10 5EB",
+        "WARD": "Fulford & Heslington",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0444857768566267, 53.94384950936533], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1696, \"POLLINGDIS\": \"HG\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York. YO10 5EB\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
+        "pk": 1696
+    },
+    {
+        "OBJECTID_1": 1697,
+        "POLLINGDIS": "HA",
+        "POLLINGSTA": "The Parish Church of St. Hilda, Tang Hall, Lane, York. YO10 3SD",
+        "WARD": "Hull Road",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.048961111394995, 53.9584508709893], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1697, \"POLLINGDIS\": \"HA\", \"POLLINGSTA\": \"The Parish Church of St. Hilda, Tang Hall, Lane, York. YO10 3SD\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "pk": 1697
+    },
+    {
+        "OBJECTID_1": 1698,
+        "POLLINGDIS": "HB",
+        "POLLINGSTA": "St. George's Methodist Church Schoolroom, Millfield Lane, York. YO10 3AW",
+        "WARD": "Hull Road",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0483731517409118, 53.95597729827223], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1698, \"POLLINGDIS\": \"HB\", \"POLLINGSTA\": \"St. George's Methodist Church Schoolroom, Millfield Lane, York. YO10 3AW \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "pk": 1698
+    },
+    {
+        "OBJECTID_1": 1699,
+        "POLLINGDIS": "HC",
+        "POLLINGSTA": "Childrens Centre, Osbaldwick Primary School, Osbaldwick Lane, York. YO10 3AX",
+        "WARD": "Hull Road",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0427747984730884, 53.95684412117683], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1699, \"POLLINGDIS\": \"HC\", \"POLLINGSTA\": \"Childrens Centre, Osbaldwick Primary School, Osbaldwick Lane, York. YO10 3AX \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "pk": 1699
+    },
+    {
+        "OBJECTID_1": 1700,
+        "POLLINGDIS": "HD",
+        "POLLINGSTA": "Archbishop Holgates School, A Church of England Academy, Hull Road, York. YO10 5ZA",
+        "WARD": "Hull Road",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0413147190334224, 53.95259036823479], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1700, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"Archbishop Holgates School, A Church of England Academy, Hull Road, York. YO10 5ZA \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "pk": 1700
     }
 ]
