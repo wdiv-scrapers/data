@@ -1,131 +1,2463 @@
-{"name":"ncc_Polling_Stations","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:27700"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[457028.622500001,340281.932099729]},"properties":{"NAME":"Newton & Arkwright Central Gallery","ADDRESS":"Goldsmith Street, NG1 4BU","WARD":"Arboretum","EASTING":457028.6225,"NORTHING":340281.9321,"LONG":-1.15255005373055,"LAT":52.9568970106019,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456123.494100001,335388.351899726]},"properties":{"NAME":"Silverdale Community Centre","ADDRESS":"The Downs, NG11 7EB","WARD":"Clifton North","EASTING":456123.4941,"NORTHING":335388.3519,"LONG":-1.16686681245104,"LAT":52.9130072459185,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454768.990300001,334849.709499725]},"properties":{"NAME":"Village Hall","ADDRESS":"Clifton Green, NG11 8NN","WARD":"Clifton South","EASTING":454768.9903,"NORTHING":334849.7095,"LONG":-1.18709754509421,"LAT":52.9083051866153,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457028.622500001,340281.932099729]},"properties":{"NAME":"Newton & Arkwright Central Gallery","ADDRESS":"Goldsmith Street, NG1 4BU","WARD":"Arboretum","EASTING":457028.6225,"NORTHING":340281.9321,"LONG":-1.15255005373055,"LAT":52.9568970106019,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455759.993900002,341220.909399729]},"properties":{"NAME":"The Bridge Centre","ADDRESS":"Boulevard United Reformed Church, Gregory Boulevard, NG7 5JA","WARD":"Arboretum","EASTING":455759.9939,"NORTHING":341220.909399999,"LONG":-1.17127100632234,"LAT":52.9654698801399,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[452709.399700001,345413.060899733]},"properties":{"NAME":"Snape Wood Community Centre","ADDRESS":"Snape Wood Road, NG6 7GH","WARD":"Bulwell","EASTING":452709.3997,"NORTHING":345413.060900001,"LONG":-1.21600383427893,"LAT":53.0034582047554,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455476.953500001,346303.221199732]},"properties":{"NAME":"Church on Rise Park","ADDRESS":"Revelstoke Way, NG5 5EB","WARD":"Bulwell Forest","EASTING":455476.9535,"NORTHING":346303.2212,"LONG":-1.17461456675867,"LAT":53.0111802530211,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[452638.016100001,341920.02329973]},"properties":{"NAME":"Brocklehigh Space for Sports and Arts","ADDRESS":"Beechdale Road, NG8 3AJ","WARD":"Bilborough","EASTING":452638.0161,"NORTHING":341920.0233,"LONG":-1.21763475870477,"LAT":52.9720685901268,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457131.186500002,342360.82289973]},"properties":{"NAME":"St John's Community Centre, St John's Church","ADDRESS":"Mansfield Road, NG5 2DG","WARD":"Sherwood","EASTING":457131.1865,"NORTHING":342360.822899999,"LONG":-1.15065745498595,"LAT":52.9755716629175,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451815.748000001,341123.462799728]},"properties":{"NAME":"Community Centre adj to Bilborough Library","ADDRESS":"Bracebridge Drive, NG8 4PN","WARD":"Bilborough","EASTING":451815.748,"NORTHING":341123.4628,"LONG":-1.23000505300118,"LAT":52.9649886976884,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455318.958100002,333544.441699726]},"properties":{"NAME":"Highbank Community Centre","ADDRESS":"Farnborough Road, NG11 9DG","WARD":"Clifton South","EASTING":455318.9581,"NORTHING":333544.4417,"LONG":-1.17914264544838,"LAT":52.8965167246794,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458807.612100002,339595.373099728]},"properties":{"NAME":"Sneinton Branch Library","ADDRESS":"Sneinton Boulevard, NG2 4FD","WARD":"Dales","EASTING":458807.6121,"NORTHING":339595.3731,"LONG":-1.12619618618808,"LAT":52.9505344244886,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456441.717500002,341589.13169973]},"properties":{"NAME":"Forest Fields Advice Centre","ADDRESS":"69 Wiverton Road, NG7 6NU","WARD":"Berridge","EASTING":456441.7175,"NORTHING":341589.1317,"LONG":-1.16105818798784,"LAT":52.9687083933873,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454734.834700001,344022.376499731]},"properties":{"NAME":"Oakleigh Social Club","ADDRESS":"1 Highbury Road, NG6 9DD","WARD":"Bulwell Forest","EASTING":454734.8347,"NORTHING":344022.376499999,"LONG":-1.18605967410364,"LAT":52.9907556560179,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456409.482700001,345391.213099731]},"properties":{"NAME":"Bestwood Park Community Centre","ADDRESS":"Beckhampton Road, NG5 5SP","WARD":"Bestwood","EASTING":456409.4827,"NORTHING":345391.213099999,"LONG":-1.16087635016512,"LAT":53.0028857262059,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455959.264700002,342632.81949973]},"properties":{"NAME":"Stadium Leisure Club","ADDRESS":"190 Nottingham Road, NG5 1EG","WARD":"Berridge","EASTING":455959.2647,"NORTHING":342632.819499999,"LONG":-1.16806089934426,"LAT":52.978139781932,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457599.730900002,343546.896499731]},"properties":{"NAME":"Sherwood Community Centre, Woodthorpe House","ADDRESS":"Mansfield Road, NG5 3FN","WARD":"Sherwood","EASTING":457599.7309,"NORTHING":343546.896500001,"LONG":-1.14346994000483,"LAT":52.9861822837344,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454213.818100001,346416.753899734]},"properties":{"NAME":"Healthy Living Centre","ADDRESS":"Lawton Drive, Bulwell Hall, NG6 8BL","WARD":"Bulwell","EASTING":454213.8181,"NORTHING":346416.753900001,"LONG":-1.19341973192115,"LAT":53.0123298205751,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456594.218300001,343219.936099732]},"properties":{"NAME":"Portable Unit junc Perry Rd & Hucknall Rd","ADDRESS":"Perry Road & Hucknall Road, NG5 1GN","WARD":"Berridge","EASTING":456594.2183,"NORTHING":343219.936100001,"LONG":-1.15850314653034,"LAT":52.9833503994598,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454551.032300001,343289.971399732]},"properties":{"NAME":"The Mill Public House","ADDRESS":"Bagnall Road, NG6 0JY","WARD":"Basford","EASTING":454551.0323,"NORTHING":343289.9714,"LONG":-1.18892081933288,"LAT":52.9841912965319,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451883.096100001,339601.343099729]},"properties":{"NAME":"Wollaton Children's Centre","ADDRESS":"Arleston Drive, NG8 2FZ","WARD":"Wollaton West","EASTING":451883.0961,"NORTHING":339601.3431,"LONG":-1.22924566469825,"LAT":52.9513007612091,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455596.801700001,340352.992699729]},"properties":{"NAME":"John Carroll Community Centre","ADDRESS":"Denman Street, NG7 3PS","WARD":"Radford and Park","EASTING":455596.8017,"NORTHING":340352.992699999,"LONG":-1.17384910759925,"LAT":52.9576857021378,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454837.848300001,343313.07809973]},"properties":{"NAME":"Old Basford Community Centre","ADDRESS":"Bramble Close off David Lane, NG6 0JW","WARD":"Basford","EASTING":454837.8483,"NORTHING":343313.0781,"LONG":-1.18464523391542,"LAT":52.9843697794915,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456928.285300001,344268.830299731]},"properties":{"NAME":"The Leisure Centre Club - City Hospital","ADDRESS":"City Hospital Campus, NG5 1PF","WARD":"Sherwood","EASTING":456928.2853,"NORTHING":344268.8303,"LONG":-1.15334360962043,"LAT":52.9927427648458,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455265.604700002,340847.564099729]},"properties":{"NAME":"Radford Care Group","ADDRESS":"25-31 Prospect Street, NG7 5QE","WARD":"Radford and Park","EASTING":455265.6047,"NORTHING":340847.564099999,"LONG":-1.1786945422312,"LAT":52.9621652067951,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453204.060300001,341978.76569973]},"properties":{"NAME":"St Teresas Church Hall","ADDRESS":"Kingsbury Drive, NG8 3EP","WARD":"Leen Valley","EASTING":453204.0603,"NORTHING":341978.765699999,"LONG":-1.20919708717408,"LAT":52.9725408444148,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454567.677100001,345208.365299731]},"properties":{"NAME":"Bulwell Forest Children's Centre","ADDRESS":"Cantrell Road, NG6 9HJ","WARD":"Bulwell Forest","EASTING":454567.6771,"NORTHING":345208.3653,"LONG":-1.18834981543047,"LAT":53.001432652211,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456054.074000002,340630.001599728]},"properties":{"NAME":"Tennyson Hall","ADDRESS":"Forest Road West, NG7 4EP","WARD":"Arboretum","EASTING":456054.074,"NORTHING":340630.001599999,"LONG":-1.16699511280082,"LAT":52.9601280509276,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457226.212900001,345238.460499732]},"properties":{"NAME":"The People's Church","ADDRESS":"Glade Hill Road, NG5 5SA","WARD":"Bestwood","EASTING":457226.2129,"NORTHING":345238.4605,"LONG":-1.14873428044959,"LAT":53.001426298752,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457584.586900002,341138.041699731]},"properties":{"NAME":"St Augustine's Church Hall","ADDRESS":"Westville Gardens, NG3 4QF","WARD":"St Ann's","EASTING":457584.5869,"NORTHING":341138.0417,"LONG":-1.1441232409466,"LAT":52.9645326468747,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455738.470100001,339331.714699728]},"properties":{"NAME":"The Lenton Centre","ADDRESS":"Willoughby Street, NG7 1RQ","WARD":"Dunkirk and Lenton","EASTING":455738.4701,"NORTHING":339331.7147,"LONG":-1.17191576888483,"LAT":52.9484914847865,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453993.152400001,345485.377999734]},"properties":{"NAME":"Communal Room","ADDRESS":"Hazelhurst Gardens, Hazel Street, NG6 8HB","WARD":"Bulwell","EASTING":453993.1524,"NORTHING":345485.378,"LONG":-1.19686370210542,"LAT":53.0039806149187,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455738.448100001,339331.729099728]},"properties":{"NAME":"The Lenton Centre","ADDRESS":"Willoughby Street, NG7 1RQ","WARD":"Dunkirk and Lenton","EASTING":455738.4481,"NORTHING":339331.7291,"LONG":-1.17191609379857,"LAT":52.9484916164982,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456663.000000002,337689.999999728]},"properties":{"NAME":"Wilford Church Hall","ADDRESS":"Main Road, NG11 7AJ","WARD":"Clifton North","EASTING":456663,"NORTHING":337690,"LONG":-1.15844402967658,"LAT":52.933638670763,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456006.441300002,344533.229299731]},"properties":{"NAME":"Bestwood Community Centre","ADDRESS":"Gainsford Crescent, NG5 5HT","WARD":"Bestwood","EASTING":456006.4413,"NORTHING":344533.2293,"LONG":-1.16702996468435,"LAT":52.9952161925219,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455620.998900002,342504.98659973]},"properties":{"NAME":"New Basford Community Centre","ADDRESS":"Zulu Road, NG7 7DS","WARD":"Berridge","EASTING":455620.9989,"NORTHING":342504.9866,"LONG":-1.1731200464706,"LAT":52.9770259159691,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453251.422500002,340273.247699728]},"properties":{"NAME":"Kingswood Methodist Church Hall","ADDRESS":"Lambourne Drive, NG8 1GR","WARD":"Wollaton West","EASTING":453251.4225,"NORTHING":340273.2477,"LONG":-1.20877173043049,"LAT":52.9572063453084,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456692.756000002,336768.286199726]},"properties":{"NAME":"The Wilford Green","ADDRESS":"Wilford Lane, NG11 7AX","WARD":"Clifton North","EASTING":456692.756,"NORTHING":336768.2862,"LONG":-1.15816207357308,"LAT":52.9253508965517,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454608.459100001,344738.91449973]},"properties":{"NAME":"United Reformed Church Hall","ADDRESS":"Entrance on Brooklyn Road, NG6 9GW","WARD":"Bulwell Forest","EASTING":454608.4591,"NORTHING":344738.9145,"LONG":-1.18782134594931,"LAT":52.9972089587649,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455200.159300002,345295.042499732]},"properties":{"NAME":"Top Valley Community Centre","ADDRESS":"Unit 6, Top Valley Way, NG5 9DD","WARD":"Bulwell Forest","EASTING":455200.1593,"NORTHING":345295.0425,"LONG":-1.17891146390213,"LAT":53.0021470580324,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454769.907300002,333996.206099726]},"properties":{"NAME":"Whitegate Primary School","ADDRESS":"Middlefell Way, NG11 9JQ","WARD":"Clifton South","EASTING":454769.9073,"NORTHING":333996.2061,"LONG":-1.18722744282158,"LAT":52.9006334603181,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454462.337300001,340675.666999729]},"properties":{"NAME":"Pre School Unit, Robert Shaw","ADDRESS":"Southfield Road, NG8 3PL","WARD":"Leen Valley","EASTING":454462.3373,"NORTHING":340675.666999999,"LONG":-1.19068072589565,"LAT":52.9607021255622,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455095.026300001,338363.733099729]},"properties":{"NAME":"Dunkirk and Old Lenton Community Centre","ADDRESS":"Montpelier Road, NG7 2JW","WARD":"Dunkirk and Lenton","EASTING":455095.0263,"NORTHING":338363.733100001,"LONG":-1.18165509138225,"LAT":52.9398572497528,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453291.987900001,338120.019499728]},"properties":{"NAME":"Sheila Roper Centre","ADDRESS":"Baslow Drive, NG9 2SU","WARD":"Wollaton East and Lenton Abbey","EASTING":453291.9879,"NORTHING":338120.0195,"LONG":-1.20852115546572,"LAT":52.937848282879,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[459070.415900002,340178.080099729]},"properties":{"NAME":"Sneinton Children's Centre","ADDRESS":"Edale Road, NG2 4HT","WARD":"Dales","EASTING":459070.4159,"NORTHING":340178.0801,"LONG":-1.1221792277673,"LAT":52.9557430918563,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456080.651300002,341844.14869973]},"properties":{"NAME":"Forest Fields Community Centre","ADDRESS":"Sturton Street, NG7 6HU","WARD":"Berridge","EASTING":456080.6513,"NORTHING":341844.148700001,"LONG":-1.16638967174684,"LAT":52.9710383534995,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454749.353900002,339144.819699729]},"properties":{"NAME":"St Mary's Church Hall","ADDRESS":"Wollaton Hall Drive, Wollaton Park, NG8 1AF","WARD":"Wollaton East and Lenton Abbey","EASTING":454749.3539,"NORTHING":339144.819700001,"LONG":-1.18666647189685,"LAT":52.9469132145416,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455816.002000002,345617.049299732]},"properties":{"NAME":"St Philips Church","ADDRESS":"Knights Close, Off Horsham Drive NG5 9AJ","WARD":"Bulwell Forest","EASTING":455816.002,"NORTHING":345617.0493,"LONG":-1.16968016335504,"LAT":53.0049776365757,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451950.150700001,342583.000799731]},"properties":{"NAME":"Strelley Social Club","ADDRESS":"Helston Drive, NG8 6JZ","WARD":"Bilborough","EASTING":451950.1507,"NORTHING":342583.000800001,"LONG":-1.22777049078101,"LAT":52.9780946221788,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455675.000000002,335144.999999726]},"properties":{"NAME":"School Sports Hall Dovecote Primary School","ADDRESS":"Greencroft, NG11 8EY","WARD":"Clifton North","EASTING":455675,"NORTHING":335145,"LONG":-1.1735770732816,"LAT":52.9108664696544,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[452165.598500001,342325.807099731]},"properties":{"NAME":"Bramley Green Centre","ADDRESS":"Bramley Green, NG8 6LG","WARD":"Bilborough","EASTING":452165.5985,"NORTHING":342325.8071,"LONG":-1.22460352091669,"LAT":52.9757619942259,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455265.028100001,335484.786099727]},"properties":{"NAME":"Portable Unit junc Fleam Road & Meden Close","ADDRESS":"Fleam Road & Meden Close, NG11 8PL","WARD":"Clifton North","EASTING":455265.0281,"NORTHING":335484.7861,"LONG":-1.17961495240893,"LAT":52.9139628232753,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456758.847000002,341660.97559973]},"properties":{"NAME":"The Polish Eagle Club","ADDRESS":"Sherwood Rise, NG7 6JN","WARD":"Berridge","EASTING":456758.847,"NORTHING":341660.9756,"LONG":-1.15632419147985,"LAT":52.969320741,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[452415.650300001,339757.64309973]},"properties":{"NAME":"Wollaton Library","ADDRESS":"Bramcote Lane, NG8 2NA","WARD":"Wollaton West","EASTING":452415.6503,"NORTHING":339757.643100001,"LONG":-1.22129482476477,"LAT":52.9526540092946,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457233.492100002,344510.086299731]},"properties":{"NAME":"Edwards Lane Community Centre","ADDRESS":"Alderton Road, NG5 6DX","WARD":"Sherwood","EASTING":457233.4921,"NORTHING":344510.086300001,"LONG":-1.1487545491649,"LAT":52.9948787690743,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453785.679700002,343870.58669973]},"properties":{"NAME":"Headstocks Public House","ADDRESS":"Bagnall Road, NG6 8SF","WARD":"Basford","EASTING":453785.6797,"NORTHING":343870.5867,"LONG":-1.20022323521817,"LAT":52.9894872298678,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458185.916300002,340595.345899728]},"properties":{"NAME":"Blue Bell Hill Community Centre","ADDRESS":"Dennett Close, NG3 2GL","WARD":"St Ann's","EASTING":458185.9163,"NORTHING":340595.345899999,"LONG":-1.13526885248118,"LAT":52.9595900231089,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451063.026200001,339622.987899729]},"properties":{"NAME":"Vale Community Centre","ADDRESS":"Wollaton Vale, NG8 2JA","WARD":"Bilborough","EASTING":451063.0262,"NORTHING":339622.9879,"LONG":-1.24144681309733,"LAT":52.9515738000192,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457747.046200002,338078.667799727]},"properties":{"NAME":"Meadows Youth Centre","ADDRESS":"Wilford Crescent East, NG2 2EF","WARD":"Bridge","EASTING":457747.0462,"NORTHING":338078.6678,"LONG":-1.14224879049662,"LAT":52.9370168600693,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455904.801800001,344091.88199973]},"properties":{"NAME":"Leen Valley Community Centre","ADDRESS":"234 Arnold Road, NG5 5HB","WARD":"Bestwood","EASTING":455904.8018,"NORTHING":344091.881999999,"LONG":-1.16862026649853,"LAT":52.9912598563063,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457497.693700002,341160.099299731]},"properties":{"NAME":"Creche Room, Highwood","ADDRESS":"39-59 Cranmer Street, NG3 4HD","WARD":"Mapperley","EASTING":457497.6937,"NORTHING":341160.099300001,"LONG":-1.14541287065043,"LAT":52.9647402086089,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453329.912300001,343217.646899731]},"properties":{"NAME":"Bells Lane Community Centre","ADDRESS":"Amesbury Circus, NG8 6DD","WARD":"Aspley","EASTING":453329.9123,"NORTHING":343217.6469,"LONG":-1.20711947478394,"LAT":52.9836638494,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456784.909900002,345403.945899733]},"properties":{"NAME":"Bestwood Park Church","ADDRESS":"Beckhampton Road, NG5 5NG","WARD":"Bestwood","EASTING":456784.9099,"NORTHING":345403.945900001,"LONG":-1.15528034134528,"LAT":53.0029605816925,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451298.535300001,340412.436099729]},"properties":{"NAME":"Birchover Park Community Centre","ADDRESS":"Westwick Road, NG8 4BW","WARD":"Bilborough","EASTING":451298.5353,"NORTHING":340412.436100001,"LONG":-1.23781716691815,"LAT":52.958647293079,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[459780.434100002,340200.070099729]},"properties":{"NAME":"Nottingham Wildcats Arena","ADDRESS":"Greenwood Road, NG3 7EB","WARD":"Dales","EASTING":459780.4341,"NORTHING":340200.0701,"LONG":-1.1116077040209,"LAT":52.9558622535746,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457529.049500002,338469.579099728]},"properties":{"NAME":"Meadows Library","ADDRESS":"Wilford Grove, NG2 2DR","WARD":"Bridge","EASTING":457529.0495,"NORTHING":338469.5791,"LONG":-1.14542274779264,"LAT":52.9405538270137,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454241.268700001,339927.54249973]},"properties":{"NAME":"Wollaton Park Community Centre","ADDRESS":"Harrow Road, NG8 1FL","WARD":"Wollaton West","EASTING":454241.2687,"NORTHING":339927.5425,"LONG":-1.19409640358444,"LAT":52.954000080584,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458724.014100002,341039.60649973]},"properties":{"NAME":"Greyfriars Club","ADDRESS":"Gordon Road, NG3 2LG","WARD":"St Ann's","EASTING":458724.0141,"NORTHING":341039.6065,"LONG":-1.12717900559145,"LAT":52.9635245986984,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456849.599000002,338304.872099727]},"properties":{"NAME":"Communal Rooms Briar Court","ADDRESS":"Briar Court, NG2 1PD","WARD":"Bridge","EASTING":456849.599,"NORTHING":338304.872099999,"LONG":-1.1555606496835,"LAT":52.93914563218,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453261.642300002,341064.69809973]},"properties":{"NAME":"Beechdale Community Centre","ADDRESS":"Ambergate Road, NG8 3GD","WARD":"Bilborough","EASTING":453261.6423,"NORTHING":341064.698100001,"LONG":-1.20848976087781,"LAT":52.9643191780506,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458782.611900002,341584.503299729]},"properties":{"NAME":"Wells Community Centre","ADDRESS":"The Wells Road, NG3 3AG","WARD":"Mapperley","EASTING":458782.6119,"NORTHING":341584.5033,"LONG":-1.12620799150894,"LAT":52.9684158173662,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[460080.314500003,340848.16109973]},"properties":{"NAME":"Dales United Reformed Church Hall","ADDRESS":"Parkdale Road, Bakersfield, NG3 7GL","WARD":"Dales","EASTING":460080.3145,"NORTHING":340848.1611,"LONG":-1.10702450026185,"LAT":52.9616539500743,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453918.569100001,339630.02359973]},"properties":{"NAME":"Drama Block Bluecoat Academy","ADDRESS":"Sutton Passeys Crescent, NG8 5GY","WARD":"Wollaton East and Lenton Abbey","EASTING":453918.5691,"NORTHING":339630.023600001,"LONG":-1.19894857192827,"LAT":52.95135832987,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455815.592500002,340205.54389973]},"properties":{"NAME":"Childrens Resources Centre","ADDRESS":"Garden Street, NG7 3HD","WARD":"Radford and Park","EASTING":455815.5925,"NORTHING":340205.5439,"LONG":-1.17061791409161,"LAT":52.9563377193261,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454577.994900002,340268.555899728]},"properties":{"NAME":"Radford Children's Centre","ADDRESS":"Kennington Road, NG8 1QD","WARD":"Leen Valley","EASTING":454577.9949,"NORTHING":340268.5559,"LONG":-1.18902756122491,"LAT":52.9570311488813,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454815.015900001,341608.484499729]},"properties":{"NAME":"Lutheran Church Hall","ADDRESS":"Homefield Road, NG8 5GH","WARD":"Leen Valley","EASTING":454815.0159,"NORTHING":341608.4845,"LONG":-1.18527341295818,"LAT":52.9690507300844,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[459606.990100002,340699.754099731]},"properties":{"NAME":"Bakersfield Branch Library","ADDRESS":"Watson Avenue, NG3 7BN","WARD":"Dales","EASTING":459606.9901,"NORTHING":340699.7541,"LONG":-1.11409738621292,"LAT":52.960372749205,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455072.935300001,343836.351699731]},"properties":{"NAME":"Southwark Primary School","ADDRESS":"Park Lane, NG6 0BS","WARD":"Basford","EASTING":455072.9353,"NORTHING":343836.3517,"LONG":-1.18105505113098,"LAT":52.9890490477052,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455140.800700001,338928.831099728]},"properties":{"NAME":"Monty Hind Training Centre","ADDRESS":"Leen Gate, NG7 2LX","WARD":"Dunkirk and Lenton","EASTING":455140.8007,"NORTHING":338928.8311,"LONG":-1.1808781598319,"LAT":52.9449318482875,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458306.031300002,339682.98849973]},"properties":{"NAME":"Muslim Community Centre","ADDRESS":"Beaumont Street, NG2 4PJ","WARD":"Dales","EASTING":458306.0313,"NORTHING":339682.988500001,"LONG":-1.1336448164811,"LAT":52.9513765542594,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[459182.389000003,341214.365399729]},"properties":{"NAME":"The Pavilion Hogarth Academy","ADDRESS":"Porchester Road, NG3 6JG","WARD":"Mapperley","EASTING":459182.389,"NORTHING":341214.3654,"LONG":-1.12032372148758,"LAT":52.9650450783046,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456081.222300001,341095.863099731]},"properties":{"NAME":"7th Nottingham Trafalgar Scout Lodge","ADDRESS":"Noel Street, NG7 6AW","WARD":"Arboretum","EASTING":456081.2223,"NORTHING":341095.8631,"LONG":-1.16651051027898,"LAT":52.9643125078912,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451627.110400001,339067.673799729]},"properties":{"NAME":"Grangewood Methodist Church Hall","ADDRESS":"Grangewood Road, NG8 2SJ","WARD":"Wollaton West","EASTING":451627.1104,"NORTHING":339067.673800001,"LONG":-1.23314013028953,"LAT":52.9465285431048,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458254.167500002,340240.016699727]},"properties":{"NAME":"Russell Youth Club","ADDRESS":"Lowdham Street, NG3 2DP","WARD":"St Ann's","EASTING":458254.1675,"NORTHING":340240.0167,"LONG":-1.13431671389669,"LAT":52.9563888606023,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455971.771300002,346098.847899731]},"properties":{"NAME":"Community Room","ADDRESS":"Masson Court, NG5 9NG","WARD":"Bestwood","EASTING":455971.7713,"NORTHING":346098.847899999,"LONG":-1.16727580880761,"LAT":53.0092919172622,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457209.706100002,342286.21749973]},"properties":{"NAME":"Sports Pavilion Carrington Sports Ground","ADDRESS":"Entrance from Esher Grove and Alverstone Road, NG5 2EJ","WARD":"Mapperley","EASTING":457209.7061,"NORTHING":342286.217499999,"LONG":-1.1495014328431,"LAT":52.9748927381296,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453093.013000001,344677.968799733]},"properties":{"NAME":"Mariner Court Common Room","ADDRESS":"Marina Court, Irwin Drive, NG6 7BW","WARD":"Bulwell","EASTING":453093.013,"NORTHING":344677.968800001,"LONG":-1.21040844089968,"LAT":52.9968131637806,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455490.239100001,343433.486899731]},"properties":{"NAME":"Vernon Park Pavilion","ADDRESS":"Vernon Avenue, NG6 0AP","WARD":"Basford","EASTING":455490.2391,"NORTHING":343433.4869,"LONG":-1.1749082593359,"LAT":52.985385039446,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[452673.385700002,342607.259499731]},"properties":{"NAME":"Sixways Community Centre","ADDRESS":"Denton Green, NG8 6GD","WARD":"Aspley","EASTING":452673.3857,"NORTHING":342607.259500001,"LONG":-1.21699652315495,"LAT":52.9782422518004,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457212.253300002,343414.329699731]},"properties":{"NAME":"Sherwood & Edward's Lane Children's Centre","ADDRESS":"Perry Road, NG5 3AE","WARD":"Sherwood","EASTING":457212.2533,"NORTHING":343414.329700001,"LONG":-1.14926442639202,"LAT":52.9850321678109,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454901.171500002,344381.701499732]},"properties":{"NAME":"Highbury Vale Community Centre","ADDRESS":"Brooklyn Road, NG6 9ES","WARD":"Basford","EASTING":454901.1715,"NORTHING":344381.7015,"LONG":-1.18352108423627,"LAT":52.9939683827391,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453454.891100001,345455.957499732]},"properties":{"NAME":"St John's Church","ADDRESS":"Keys Close, NG6 8JL","WARD":"Bulwell","EASTING":453454.8911,"NORTHING":345455.9575,"LONG":-1.20488882145932,"LAT":53.0037700499775,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455422.300700001,340277.911499728]},"properties":{"NAME":"Methodist Church Hall","ADDRESS":"Forster Street, NG7 3DB","WARD":"Radford and Park","EASTING":455422.3007,"NORTHING":340277.911499999,"LONG":-1.17645924892223,"LAT":52.9570288674375,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453589.166100001,344660.444099732]},"properties":{"NAME":"Crabtree Farm Community Centre","ADDRESS":"Steadfold Close, NG6 8AX","WARD":"Bulwell","EASTING":453589.1661,"NORTHING":344660.4441,"LONG":-1.20301972576005,"LAT":52.9966063537051,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457202.024700002,338678.464499728]},"properties":{"NAME":"Queens Walk Community Centre","ADDRESS":"Queens Walk, NG2 2DF","WARD":"Bridge","EASTING":457202.0247,"NORTHING":338678.464500001,"LONG":-1.15025155394644,"LAT":52.9424662197294,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456379.725900002,344995.669699731]},"properties":{"NAME":"Robin Hood Primary School","ADDRESS":"Beckhampton Road, NG5 5NA","WARD":"Bestwood","EASTING":456379.7259,"NORTHING":344995.6697,"LONG":-1.16138859023985,"LAT":52.9993336304064,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[451627.097900001,339067.652099729]},"properties":{"NAME":"Grangewood Methodist Church Hall","ADDRESS":"Grangewood Road, NG8 2SJ","WARD":"Wollaton West","EASTING":451627.0979,"NORTHING":339067.652100001,"LONG":-1.23314031974587,"LAT":52.9465283492553,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458807.654200002,339595.358799728]},"properties":{"NAME":"Sneinton Branch Library","ADDRESS":"Sneinton Boulevard, NG2 4FD","WARD":"Dales","EASTING":458807.6542,"NORTHING":339595.3588,"LONG":-1.12619556226022,"LAT":52.9505342913529,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458724.038700002,341039.60649973]},"properties":{"NAME":"Greyfriars Club","ADDRESS":"Gordon Road, NG3 2LG","WARD":"St Ann's","EASTING":458724.0387,"NORTHING":341039.6065,"LONG":-1.1271786393931,"LAT":52.9635245960105,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455946.715700001,343548.986699731]},"properties":{"NAME":"Heathfield Park Community Centre","ADDRESS":"Ventnor Rise, NG5 1HR","WARD":"Basford","EASTING":455946.7157,"NORTHING":343548.9867,"LONG":-1.16808965586069,"LAT":52.9863758218375,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458122.044600002,340941.944999729]},"properties":{"NAME":"St Ann's Valley Centre","ADDRESS":"2 Livingstone Road, NG3 3GG","WARD":"St Ann's","EASTING":458122.0446,"NORTHING":340941.945,"LONG":-1.136157499894,"LAT":52.9627122354028,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458061.436900002,342428.37989973]},"properties":{"NAME":"St Jude's Church Hall","ADDRESS":"Woodborough Road, NG3 5HE","WARD":"Mapperley","EASTING":458061.4369,"NORTHING":342428.379899999,"LONG":-1.13679365206531,"LAT":52.9760791445933,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455337.295700001,333812.942899726]},"properties":{"NAME":"Community Room adj Blessed Robert Widmerpool Sch","ADDRESS":"Listowel Crescent, NG11 9BH","WARD":"Clifton South","EASTING":455337.2957,"NORTHING":333812.9429,"LONG":-1.17882448388563,"LAT":52.8989282365688,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455460.449500002,340045.087899728]},"properties":{"NAME":"Radford/Lenton Branch Library","ADDRESS":"Lenton Boulevard, NG7 2BZ","WARD":"Radford and Park","EASTING":455460.4495,"NORTHING":340045.0879,"LONG":-1.1759312087677,"LAT":52.9549322450862,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455569.535900001,334751.502699724]},"properties":{"NAME":"Clifton Methodist Church Hall","ADDRESS":"Rivergreen, NG11 8AR","WARD":"Clifton North","EASTING":455569.5359,"NORTHING":334751.502699999,"LONG":-1.17521229837885,"LAT":52.9073404635806,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457440.060100002,342869.259699731]},"properties":{"NAME":"Synagogue Hall","ADDRESS":"Lloyd Street, NG5 4BP","WARD":"Sherwood","EASTING":457440.0601,"NORTHING":342869.2597,"LONG":-1.14596815499252,"LAT":52.9801086579332,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453329.867400001,343217.601999731]},"properties":{"NAME":"Bells Lane Community Centre","ADDRESS":"Amesbury Circus, NG8 6DD","WARD":"Aspley","EASTING":453329.8674,"NORTHING":343217.602,"LONG":-1.20712015088108,"LAT":52.9836634502819,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[460711.242900002,339964.11689973]},"properties":{"NAME":"Portable Unit, The Starting Gate Car Park","ADDRESS":"Colwick Road, NG2 4DX","WARD":"Dales","EASTING":460711.2429,"NORTHING":339964.116900001,"LONG":-1.09779825421917,"LAT":52.9536371602803,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454388.548900001,334095.691299725]},"properties":{"NAME":"Park Gates Community Centre","ADDRESS":"Chamberlain Close, NG11 8RX","WARD":"Clifton South","EASTING":454388.5489,"NORTHING":334095.691299999,"LONG":-1.19287964776255,"LAT":52.9015663103454,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455956.322300002,335127.739499726]},"properties":{"NAME":"Hope Church Hall","ADDRESS":"Entrance off Farnborough Road, NG11 8JX","WARD":"Clifton North","EASTING":455956.3223,"NORTHING":335127.739499999,"LONG":-1.16939727851954,"LAT":52.9106821678701,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453149.226500001,345220.772899733]},"properties":{"NAME":"Snape Wood Primary School","ADDRESS":"Aspen Road, NG6 7DS","WARD":"Bulwell","EASTING":453149.2265,"NORTHING":345220.7729,"LONG":-1.20948190530903,"LAT":53.0016864927269,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453551.291800001,342362.35689973]},"properties":{"NAME":"Aspley Community and Training Centre","ADDRESS":"Minver Crescent, NG8 5PN","WARD":"Aspley","EASTING":453551.2918,"NORTHING":342362.356899999,"LONG":-1.20396365181148,"LAT":52.9759541994681,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454292.646000001,338189.671499727]},"properties":{"NAME":"The Studio, Portland Building","ADDRESS":"University of Nottingham, NG7 2RD","WARD":"Wollaton East and Lenton Abbey","EASTING":454292.646,"NORTHING":338189.671499999,"LONG":-1.19362216822567,"LAT":52.9383742955153,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457155.386600002,340609.46879973]},"properties":{"NAME":"International Community Centre","ADDRESS":"61B Mansfield Road, NG1 3FN","WARD":"St Ann's","EASTING":457155.3866,"NORTHING":340609.468800001,"LONG":-1.15060563689562,"LAT":52.9598275263685,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457099.311100001,342916.10009973]},"properties":{"NAME":"Haydn Primary School (Nursery)","ADDRESS":"Haydn Road, NG5 2JU","WARD":"Sherwood","EASTING":457099.3111,"NORTHING":342916.100099999,"LONG":-1.15103430552259,"LAT":52.980565999462,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454292.646000001,338189.671499727]},"properties":{"NAME":"The Studio, Portland Building","ADDRESS":"University of Nottingham, NG7 2RD","WARD":"Wollaton East and Lenton Abbey","EASTING":454292.646,"NORTHING":338189.671499999,"LONG":-1.19362216822567,"LAT":52.9383742955153,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[454824.853300001,342378.21609973]},"properties":{"NAME":"Whitemoor Primary","ADDRESS":"Bracknall Crescent, NG8 5FF","WARD":"Basford","EASTING":454824.8533,"NORTHING":342378.2161,"LONG":-1.18499685400401,"LAT":52.975968301542,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457480.083300002,339640.331399727]},"properties":{"NAME":"The Studio, Nottingham Contemporary","ADDRESS":"High Pavement, NG1 1HF","WARD":"Bridge","EASTING":457480.0833,"NORTHING":339640.3314,"LONG":-1.14594412943225,"LAT":52.9510820722916,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[457155.386600002,340609.46879973]},"properties":{"NAME":"International Community Centre","ADDRESS":"61B Mansfield Road, NG1 3FN","WARD":"St Ann's","EASTING":457155.3866,"NORTHING":340609.468800001,"LONG":-1.15060563689562,"LAT":52.9598275263685,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453551.291800001,342362.35689973]},"properties":{"NAME":"Aspley Community and Training Centre","ADDRESS":"Minver Crescent, NG8 5PN","WARD":"Aspley","EASTING":453551.2918,"NORTHING":342362.356899999,"LONG":-1.20396365181148,"LAT":52.9759541994681,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455478.122700002,334175.017099728]},"properties":{"NAME":"Clifton Young People Centre","ADDRESS":"Green Lane, NG11 9AY","WARD":"Clifton South","EASTING":455478.1227,"NORTHING":334175.017100001,"LONG":-1.17666954542022,"LAT":52.9021682160976,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458042.910400002,343197.864399731]},"properties":{"NAME":"Winwood Community Centre","ADDRESS":"Chestnut Walk, NG5 4DY","WARD":"Sherwood","EASTING":458042.9104,"NORTHING":343197.864399999,"LONG":-1.13693175695206,"LAT":52.9829974073135,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[458509.199700002,342977.19219973]},"properties":{"NAME":"Mapperley Community Centre","ADDRESS":"589 Woodborough Road, NG3 5GG","WARD":"Mapperley","EASTING":458509.1997,"NORTHING":342977.192199999,"LONG":-1.1300272254962,"LAT":52.9809633756572,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[456690.970700002,339996.436899728]},"properties":{"NAME":"St Barnabas Cathedral Hall","ADDRESS":"College Street, NG1 5AQ","WARD":"Radford and Park","EASTING":456690.9707,"NORTHING":339996.436899999,"LONG":-1.15762549597973,"LAT":52.9543666179429,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455972.544400002,341284.613799728]},"properties":{"NAME":"Hyson Green Community Centre","ADDRESS":"37A Gregory Boulevard, NG7 6BE","WARD":"Berridge","EASTING":455972.5444,"NORTHING":341284.6138,"LONG":-1.16809579108138,"LAT":52.9660203785356,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[455318.958100002,333544.441699726]},"properties":{"NAME":"Highbank Community Centre","ADDRESS":"Farnborough Road, NG11 9DG","WARD":"Clifton South","EASTING":455318.9581,"NORTHING":333544.4417,"LONG":-1.17914264544838,"LAT":52.8965167246794,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[453722.937600001,340774.869099731]},"properties":{"NAME":"Function Room - Beechdale Public House","ADDRESS":"Beechdale Road, NG8 3FE","WARD":"Leen Valley","EASTING":453722.9376,"NORTHING":340774.869100001,"LONG":-1.20167058128871,"LAT":52.9616681885162,"BODY_NAME":"Nottingham City Council","BODY":"http://data.ordnancesurvey.co.uk/doc/7000000000038857\n","CREATE_DAT":"20170313"}}
-]}
+{
+	"type" : "FeatureCollection",
+	"name" : "ncc_Polling_Stations",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:27700"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455201.1990365076, 345296.1500523461 ]
+			},
+			"properties" : {
+				"NAME" : "Top Valley Community Centre",
+				"ADDRESS" : "Top Valley Community Centre, Unit 6, Top Valley Way, Nottingham, NG5 9DD",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 455200.00009999983,
+				"NORTHING" : 345295.00009999983,
+				"LONG" : -1.178913843145404,
+				"LAT" : 53.00214669330331,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455622.1813232293, 342506.1806677836 ]
+			},
+			"properties" : {
+				"NAME" : "New Basford Community Centre",
+				"ADDRESS" : "New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS",
+				"WARD" : "Berridge",
+				"EASTING" : 455621.00009999983,
+				"NORTHING" : 342505.00009999983,
+				"LONG" : -1.1731200262859416,
+				"LAT" : 52.97702603718637,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451896.28234812967, 339603.3778538546 ]
+			},
+			"properties" : {
+				"NAME" : "Wollaton Children's Centre",
+				"ADDRESS" : "Wollaton Children's Centre, Arleston Drive, Nottingham, NG8 2FZ",
+				"WARD" : "Wollaton West",
+				"EASTING" : 451895.1001000004,
+				"NORTHING" : 339602.1900999993,
+				"LONG" : -1.2290668823109248,
+				"LAT" : 52.95130721624318,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458194.13857552456, 340603.2314041409 ]
+			},
+			"properties" : {
+				"NAME" : "Blue Bell Hill Community Centre",
+				"ADDRESS" : "Blue Bell Hill Community Centre, Dennett Close, Nottingham, NG3 2GL",
+				"WARD" : "St Ann's",
+				"EASTING" : 458193.00009999983,
+				"NORTHING" : 340602.00009999983,
+				"LONG" : -1.1351622185914947,
+				"LAT" : 52.959649065535274,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456439.14507403923, 341593.2086131802 ]
+			},
+			"properties" : {
+				"NAME" : "Forest Fields Advice Centre",
+				"ADDRESS" : "69 Wiverton Road, Nottingham, NG7 6NU",
+				"WARD" : "Berridge",
+				"EASTING" : 456438.00009999983,
+				"NORTHING" : 341592.00009999983,
+				"LONG" : -1.16111303373985,
+				"LAT" : 52.968734565705006,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454902.19738328306, 344384.15679690905 ]
+			},
+			"properties" : {
+				"NAME" : "Highbury Vale Community Centre",
+				"ADDRESS" : "Highbury Vale Community Centre, Brooklyn Road, Nottingham, NG6 9ES",
+				"WARD" : "Basford",
+				"EASTING" : 454901.00009999983,
+				"NORTHING" : 344383.00009999983,
+				"LONG" : -1.1835234174761444,
+				"LAT" : 52.993980072418445,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457166.12338442565, 340597.229670841 ]
+			},
+			"properties" : {
+				"NAME" : "International Community Centre",
+				"ADDRESS" : "International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN",
+				"WARD" : "St Ann's",
+				"EASTING" : 457165.00009999983,
+				"NORTHING" : 340596.00009999983,
+				"LONG" : -1.1504649126046207,
+				"LAT" : 52.959705444245955,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457586.86859019834, 341138.9055547199 ]
+			},
+			"properties" : {
+				"NAME" : "St Augustine's Church Hall",
+				"ADDRESS" : "St Augustine's Church Hall, Westville Gardens, Nottingham, NG3 4QF",
+				"WARD" : "St Ann's",
+				"EASTING" : 457585.74010000005,
+				"NORTHING" : 341137.68009999953,
+				"LONG" : -1.1441061379767503,
+				"LAT" : 52.96452927317427,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456664.146212014, 337691.2347842258 ]
+			},
+			"properties" : {
+				"NAME" : "Wilford Church Hall",
+				"ADDRESS" : "Wilford Church Hall, Main Road, Nottingham, NG11 7AJ",
+				"WARD" : "Clifton West",
+				"EASTING" : 456663.00009999983,
+				"NORTHING" : 337690.00009999983,
+				"LONG" : -1.1584440281715567,
+				"LAT" : 52.9336386716513,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452652.09922342235, 342598.17891879904 ]
+			},
+			"properties" : {
+				"NAME" : "Denton Green Training Centre",
+				"ADDRESS" : "Denton Green Training Centre, Denton Green, Nottingham, NG8 6GD",
+				"WARD" : "Aspley",
+				"EASTING" : 452651.00009999983,
+				"NORTHING" : 342597.00009999983,
+				"LONG" : -1.2173315441659156,
+				"LAT" : 52.9781522308208,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 460087.1678803175, 340847.2316204029 ]
+			},
+			"properties" : {
+				"NAME" : "Dales United Reformed Church Hall",
+				"ADDRESS" : "United Reformed Church, Parkdale Road, Nottingham, NG3 7GL",
+				"WARD" : "Dales",
+				"EASTING" : 460086.00009999983,
+				"NORTHING" : 340846.00009999983,
+				"LONG" : -1.106940268009103,
+				"LAT" : 52.96163389111651,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455972.1911291833, 343550.1689528361 ]
+			},
+			"properties" : {
+				"NAME" : "Heathfield Community Centre",
+				"ADDRESS" : "Heathfield Community Centre, 7A Ventnor Rise, Nottingham, NG5 1HR",
+				"WARD" : "Basford",
+				"EASTING" : 455971.00009999983,
+				"NORTHING" : 343549.00009999983,
+				"LONG" : -1.1677279586932867,
+				"LAT" : 52.986373411910854,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453296.22944824543, 338124.22963451635 ]
+			},
+			"properties" : {
+				"NAME" : "Sheila Roper Community Centre",
+				"ADDRESS" : "Sheila Roper Community Centre, Tenants Hall Close, Nottingham, NG9 2RW",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 453295.00009999983,
+				"NORTHING" : 338123.00009999983,
+				"LONG" : -1.2084758524622983,
+				"LAT" : 52.937874775343474,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456682.1354821571, 339985.23715309164 ]
+			},
+			"properties" : {
+				"NAME" : "St. Barnabas Cathedral Hall",
+				"ADDRESS" : "St. Barnabas Cathedral Hall, College Street, Nottingham, NG1 5AQ",
+				"WARD" : "Castle",
+				"EASTING" : 456681.00009999983,
+				"NORTHING" : 339984.00009999983,
+				"LONG" : -1.1577760602771103,
+				"LAT" : 52.95425588395995,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454389.22695489, 334100.18264285347 ]
+			},
+			"properties" : {
+				"NAME" : "Park Gate Community Centre",
+				"ADDRESS" : "Park Gate Community Centre, Chamberlain Close, Nottingham, NG11 8RX",
+				"WARD" : "Clifton West",
+				"EASTING" : 454388.00009999983,
+				"NORTHING" : 334099.00009999983,
+				"LONG" : -1.1928872532918762,
+				"LAT" : 52.901596106637314,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455761.16088118206, 341222.21164007485 ]
+			},
+			"properties" : {
+				"NAME" : "The Bridge Centre",
+				"ADDRESS" : "Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 455760.00009999983,
+				"NORTHING" : 341221.00009999983,
+				"LONG" : -1.17127089843791,
+				"LAT" : 52.96547069473322,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455455.17717567366, 340043.25227589265 ]
+			},
+			"properties" : {
+				"NAME" : "Radford and Lenton Library",
+				"ADDRESS" : "Radford And Lenton Library, Lenton Boulevard, Nottingham, NG7 2BY",
+				"WARD" : "Radford",
+				"EASTING" : 455454.00009999983,
+				"NORTHING" : 340042.00009999983,
+				"LONG" : -1.1760277247816449,
+				"LAT" : 52.95490515622595,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455318.2186054806, 333547.1953525418 ]
+			},
+			"properties" : {
+				"NAME" : "Highbank Community Centre",
+				"ADDRESS" : "Highbank Community Centre, Farnborough Road, Nottingham, NG11 9DG",
+				"WARD" : "Clifton East",
+				"EASTING" : 455317.00009999983,
+				"NORTHING" : 333546.00009999983,
+				"LONG" : -1.1791714832999134,
+				"LAT" : 52.89653093322272,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454294.214173884, 338191.25735299283 ]
+			},
+			"properties" : {
+				"NAME" : "The Studio, Portland Building",
+				"ADDRESS" : "The Studio, Portland Building, University of Nottingham, Nottingham, NG7 2RD",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 454293.00009999983,
+				"NORTHING" : 338190.00009999983,
+				"LONG" : -1.1936168451328273,
+				"LAT" : 52.938377213358926,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453547.13304948714, 342364.1822263335 ]
+			},
+			"properties" : {
+				"NAME" : "Aspley Community and Training Centre",
+				"ADDRESS" : "Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN",
+				"WARD" : "Aspley",
+				"EASTING" : 453546.00009999983,
+				"NORTHING" : 342363.00009999983,
+				"LONG" : -1.2040423425989777,
+				"LAT" : 52.97596050814746,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453204.12522703037, 341979.191706094 ]
+			},
+			"properties" : {
+				"NAME" : "St. Teresa's Church Hall",
+				"ADDRESS" : "Church Hall, Kingsbury Drive, Nottingham, NG8 3EP",
+				"WARD" : "Leen Valley",
+				"EASTING" : 453203.00009999983,
+				"NORTHING" : 341978.00009999983,
+				"LONG" : -1.209212998605826,
+				"LAT" : 52.97253406790204,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456409.18974850845, 345401.1550927138 ]
+			},
+			"properties" : {
+				"NAME" : "Bestwood Park Community Centre",
+				"ADDRESS" : "Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE",
+				"WARD" : "Bestwood",
+				"EASTING" : 456408.00009999983,
+				"NORTHING" : 345400.00009999983,
+				"LONG" : -1.160896909689137,
+				"LAT" : 53.00296486128945,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458722.14439697005, 341037.22888267273 ]
+			},
+			"properties" : {
+				"NAME" : "Greyfriars Club",
+				"ADDRESS" : "Greyfriars Club, Gordon Road, Nottingham, NG3 2LG",
+				"WARD" : "St Ann's",
+				"EASTING" : 458721.00009999983,
+				"NORTHING" : 341036.00009999983,
+				"LONG" : -1.1272245249358395,
+				"LAT" : 52.96349251306448,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457134.14066260366, 342363.2038539673 ]
+			},
+			"properties" : {
+				"NAME" : "St John's Community Centre",
+				"ADDRESS" : "St John's Church, Mansfield Road, Nottingham, NG5 2DP",
+				"WARD" : "Sherwood",
+				"EASTING" : 457133.00009999983,
+				"NORTHING" : 342362.00009999983,
+				"LONG" : -1.1506302424611685,
+				"LAT" : 52.9755820509736,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455357.21649489424, 333841.194265591 ]
+			},
+			"properties" : {
+				"NAME" : "Community Room - Blessed Robert Widmerpool Academy",
+				"ADDRESS" : "Blessed Robert Widmerpool Catholic Voluntary Academy, Listowel Crescent, Nottingham, NG11 9BH",
+				"WARD" : "Clifton East",
+				"EASTING" : 455356.00009999983,
+				"NORTHING" : 333840.00009999983,
+				"LONG" : -1.1785418611683145,
+				"LAT" : 52.89916951579513,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457502.12760719185, 341159.2251300925 ]
+			},
+			"properties" : {
+				"NAME" : "Highwood House Creche Room",
+				"ADDRESS" : "Highwood House, 39 - 59 Cranmer Street, Nottingham",
+				"WARD" : "Mapperley",
+				"EASTING" : 457501.00009999983,
+				"NORTHING" : 341158.00009999983,
+				"LONG" : -1.1453640215771759,
+				"LAT" : 52.96472098679943,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456865.144412926, 338284.2316755527 ]
+			},
+			"properties" : {
+				"NAME" : "Briar Court Communal Room",
+				"ADDRESS" : "Briar Court Communal Room, Briar Court, Nottingham, NG2 1PD",
+				"WARD" : "Meadows",
+				"EASTING" : 456864.00009999983,
+				"NORTHING" : 338283.00009999983,
+				"LONG" : -1.1553502191361629,
+				"LAT" : 52.938947518459294,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451830.12304668466, 341111.1813922638 ]
+			},
+			"properties" : {
+				"NAME" : "Bilborough Community Centre",
+				"ADDRESS" : "Bilborough Community Centre, Bracebridge Drive, Nottingham, NG8 4PN",
+				"WARD" : "Bilborough",
+				"EASTING" : 451829.00009999983,
+				"NORTHING" : 341110.00009999983,
+				"LONG" : -1.2298099188688025,
+				"LAT" : 52.964866411939326,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 459780.1689257011, 340199.2333403161 ]
+			},
+			"properties" : {
+				"NAME" : "Nottingham Wildcats Arena",
+				"ADDRESS" : "Nottingham Wildcats Arena, Greenwood Road, Nottingham, NG3 7EB",
+				"WARD" : "Dales",
+				"EASTING" : 459779.00009999983,
+				"NORTHING" : 340198.00009999983,
+				"LONG" : -1.111629428012772,
+				"LAT" : 52.95584380757231,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458508.1356220929, 342977.205566815 ]
+			},
+			"properties" : {
+				"NAME" : "Mapperley Community Centre",
+				"ADDRESS" : "Mapperley Community Centre, 589 Woodborough Road, Nottingham, NG3 5GG",
+				"WARD" : "Mapperley",
+				"EASTING" : 458507.00009999983,
+				"NORTHING" : 342976.00009999983,
+				"LONG" : -1.130060197348868,
+				"LAT" : 52.98095290048538,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458722.14439697005, 341037.22888267273 ]
+			},
+			"properties" : {
+				"NAME" : "Greyfriars Club",
+				"ADDRESS" : "Greyfriars Club, Gordon Road, Nottingham, NG3 2LG",
+				"WARD" : "St Ann's",
+				"EASTING" : 458721.00009999983,
+				"NORTHING" : 341036.00009999983,
+				"LONG" : -1.1272245249358395,
+				"LAT" : 52.96349251306448,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452831.2353716581, 337710.2103228324 ]
+			},
+			"properties" : {
+				"NAME" : "The Boundary Community Centre",
+				"ADDRESS" : "The Boundary Community Centre, Boundary Road, NG9 2RF",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 452830.00009999983,
+				"NORTHING" : 337709.00009999983,
+				"LONG" : -1.215461228762314,
+				"LAT" : 52.93419942895844,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455676.20839373727, 335146.1935076255 ]
+			},
+			"properties" : {
+				"NAME" : "Dovecote Primary School Sports Hall",
+				"ADDRESS" : "Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY",
+				"WARD" : "Clifton East",
+				"EASTING" : 455675.00009999983,
+				"NORTHING" : 335145.00009999983,
+				"LONG" : -1.1735770717776788,
+				"LAT" : 52.910866470542935,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455265.2119610761, 335485.18770234764 ]
+			},
+			"properties" : {
+				"NAME" : "Portable Unit, junction Fleam Road & Meden Close",
+				"ADDRESS" : "Portable Unit, Junction of Fleam Road and Meden Close, NG11 8PP",
+				"WARD" : "Clifton West",
+				"EASTING" : 455264.00009999983,
+				"NORTHING" : 335484.00009999983,
+				"LONG" : -1.1796303715136451,
+				"LAT" : 52.91395586392157,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454819.1878915976, 341610.1991442268 ]
+			},
+			"properties" : {
+				"NAME" : "Lutheran Church Hall",
+				"ADDRESS" : "Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH",
+				"WARD" : "Leen Valley",
+				"EASTING" : 454818.00009999983,
+				"NORTHING" : 341609.00009999983,
+				"LONG" : -1.1852288963778328,
+				"LAT" : 52.969055060058125,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458073.13133433275, 342451.2110209248 ]
+			},
+			"properties" : {
+				"NAME" : "St. Jude's Church Hall",
+				"ADDRESS" : "St Jude's Church And Church Hall, Woodborough Road, Nottingham, NG3 5GX",
+				"WARD" : "Mapperley",
+				"EASTING" : 458072.00009999983,
+				"NORTHING" : 342450.00009999983,
+				"LONG" : -1.136632489219133,
+				"LAT" : 52.97627232902929,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457209.1385348082, 342289.2059388782 ]
+			},
+			"properties" : {
+				"NAME" : "Carrington Sports Ground Pavilion",
+				"ADDRESS" : "Carrington Sports Ground Pavilion, Esher Grove, Nottingham, NG3 5DR",
+				"WARD" : "Mapperley",
+				"EASTING" : 457208.00009999983,
+				"NORTHING" : 342288.00009999983,
+				"LONG" : -1.1495265209047842,
+				"LAT" : 52.97490894217823,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455096.18935176753, 338365.27421532245 ]
+			},
+			"properties" : {
+				"NAME" : "Dunkirk and Old Lenton Community Centre",
+				"ADDRESS" : "Dunkirk and Old Lenton Community Centre, Montpelier Road, Nottingham, NG7 2JW",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 455095.00009999983,
+				"NORTHING" : 338364.00009999983,
+				"LONG" : -1.1816554359284894,
+				"LAT" : 52.93985965232211,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455019.194817007, 343814.1623844151 ]
+			},
+			"properties" : {
+				"NAME" : "Southwark Primary School",
+				"ADDRESS" : "Southwark Academy, Park Lane, Nottingham, NG6 0DT",
+				"WARD" : "Basford",
+				"EASTING" : 455018.00009999983,
+				"NORTHING" : 343813.00009999983,
+				"LONG" : -1.1818772807785956,
+				"LAT" : 52.988844788395454,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453258.1449439798, 341061.2138585728 ]
+			},
+			"properties" : {
+				"NAME" : "Beechdale Community Centre",
+				"ADDRESS" : "Beechdale Community Centre, Ambergate Road, Nottingham, NG8 3GD",
+				"WARD" : "Bilborough",
+				"EASTING" : 453257.00009999983,
+				"NORTHING" : 341060.00009999983,
+				"LONG" : -1.2085596387886464,
+				"LAT" : 52.964277410692425,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455814.1586839641, 340212.2435338126 ]
+			},
+			"properties" : {
+				"NAME" : "Children's Resources Centre",
+				"ADDRESS" : "Garden Street Family Centre, Garden Street, Nottingham, NG7 3HD",
+				"WARD" : "Radford",
+				"EASTING" : 455813.00009999983,
+				"NORTHING" : 340211.00009999983,
+				"LONG" : -1.1706555609388136,
+				"LAT" : 52.956387030350086,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455265.180985166, 340854.22630971303 ]
+			},
+			"properties" : {
+				"NAME" : "Radford Care Group",
+				"ADDRESS" : "Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 455264.00009999983,
+				"NORTHING" : 340853.00009999983,
+				"LONG" : -1.178717502472378,
+				"LAT" : 52.962214232149435,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453331.127154425, 343216.1680139256 ]
+			},
+			"properties" : {
+				"NAME" : "Bells Lane Community Centre",
+				"ADDRESS" : "Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD",
+				"WARD" : "Aspley",
+				"EASTING" : 453330.00009999983,
+				"NORTHING" : 343215.00009999983,
+				"LONG" : -1.2071186025665666,
+				"LAT" : 52.98364005037922,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457671.1408034262, 339655.2314581626 ]
+			},
+			"properties" : {
+				"NAME" : "St Mary's Church",
+				"ADDRESS" : "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+				"WARD" : "Castle",
+				"EASTING" : 457670.00009999983,
+				"NORTHING" : 339654.00009999983,
+				"LONG" : -1.143115378497806,
+				"LAT" : 52.95118459411375,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454552.1812409786, 343291.16647475224 ]
+			},
+			"properties" : {
+				"NAME" : "The Mill Public House",
+				"ADDRESS" : "The Mill Public House, Bagnall Road, Nottingham, NG6 0JY",
+				"WARD" : "Basford",
+				"EASTING" : 454551.00009999983,
+				"NORTHING" : 343290.00009999983,
+				"LONG" : -1.1889212940721632,
+				"LAT" : 52.98419155776603,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457166.12338442565, 340597.229670841 ]
+			},
+			"properties" : {
+				"NAME" : "International Community Centre",
+				"ADDRESS" : "International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN",
+				"WARD" : "St Ann's",
+				"EASTING" : 457165.00009999983,
+				"NORTHING" : 340596.00009999983,
+				"LONG" : -1.1504649126046207,
+				"LAT" : 52.959705444245955,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458123.89568928035, 340949.14855516073 ]
+			},
+			"properties" : {
+				"NAME" : "St. Ann's Valley Centre",
+				"ADDRESS" : "St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG",
+				"WARD" : "Mapperley",
+				"EASTING" : 458122.7600999996,
+				"NORTHING" : 340947.92009999976,
+				"LONG" : -1.1361457789064782,
+				"LAT" : 52.96276586340735,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454214.1907997992, 346417.13310662383 ]
+			},
+			"properties" : {
+				"NAME" : "Healthy Living Centre",
+				"ADDRESS" : "Healthy Living Centre, Lawton Drive, Nottingham, NG6 8BL",
+				"WARD" : "Bulwell",
+				"EASTING" : 454213.00009999983,
+				"NORTHING" : 346416.00009999983,
+				"LONG" : -1.1934320489781771,
+				"LAT" : 53.01232312787638,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457599.1537955341, 343543.18687564624 ]
+			},
+			"properties" : {
+				"NAME" : "Sherwood Community Centre",
+				"ADDRESS" : "Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN",
+				"WARD" : "Sherwood",
+				"EASTING" : 457598.00009999983,
+				"NORTHING" : 343542.00009999983,
+				"LONG" : -1.143496588704657,
+				"LAT" : 52.986138459652786,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452418.1798019808, 339759.2050561346 ]
+			},
+			"properties" : {
+				"NAME" : "Wollaton Library",
+				"ADDRESS" : "Wollaton Library, Bramcote Lane, Nottingham, NG8 2NA",
+				"WARD" : "Wollaton West",
+				"EASTING" : 452417.00009999983,
+				"NORTHING" : 339758.00009999983,
+				"LONG" : -1.2212746784379875,
+				"LAT" : 52.95265708659207,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455478.20001405216, 346304.142087967 ]
+			},
+			"properties" : {
+				"NAME" : "The Church on Rise Park",
+				"ADDRESS" : "The Church on Rise Park, Revelstoke Way, Nottingham, NG5 5EB",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 455477.00009999983,
+				"NORTHING" : 346303.00009999983,
+				"LONG" : -1.1746139101954012,
+				"LAT" : 53.011178260909205,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455492.1924530392, 343431.16778200015 ]
+			},
+			"properties" : {
+				"NAME" : "Vernon Park Pavilion",
+				"ADDRESS" : "Pavilion, Vernon Park, Vernon Avenue, Old Basford, Nottingham, NG6 0AP",
+				"WARD" : "Basford",
+				"EASTING" : 455491.00009999983,
+				"NORTHING" : 343430.00009999983,
+				"LONG" : -1.1748975221054456,
+				"LAT" : 52.98535362057922,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455817.19695540436, 345618.1502903309 ]
+			},
+			"properties" : {
+				"NAME" : "St. Philip's Church",
+				"ADDRESS" : "St Philip's Church, Knights Close, Nottingham, NG5 9AJ",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 455816.00009999983,
+				"NORTHING" : 345617.00009999983,
+				"LONG" : -1.1696802001486595,
+				"LAT" : 53.00497719455327,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457110.1538647497, 342916.19202489307 ]
+			},
+			"properties" : {
+				"NAME" : "Haydn Primary School Nursery",
+				"ADDRESS" : "Nursery, Haydn Primary School, Haydn Road, Nottingham, NG5 2JU",
+				"WARD" : "Sherwood",
+				"EASTING" : 457109.00009999983,
+				"NORTHING" : 342915.00009999983,
+				"LONG" : -1.1508902101155019,
+				"LAT" : 52.9805550823789,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456077.1616196805, 341863.1977278407 ]
+			},
+			"properties" : {
+				"NAME" : "Forest Fields Community Centre",
+				"ADDRESS" : "Forest Fields Community Centre, Sturton Street, Nottingham, NG7 6HU",
+				"WARD" : "Berridge",
+				"EASTING" : 456076.00009999983,
+				"NORTHING" : 341862.00009999983,
+				"LONG" : -1.1664558368140352,
+				"LAT" : 52.97119929185319,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456248.12984649884, 338915.25433201215 ]
+			},
+			"properties" : {
+				"NAME" : "Holiday Inn",
+				"ADDRESS" : "Holiday Inn, 12 Castle Bridge Road, Nottingham, NG7 1GX",
+				"WARD" : "Castle",
+				"EASTING" : 456247.00009999983,
+				"NORTHING" : 338914.00009999983,
+				"LONG" : -1.1644206077423458,
+				"LAT" : 52.944683998506186,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458811.1597532442, 339599.2319228568 ]
+			},
+			"properties" : {
+				"NAME" : "Sneinton Library",
+				"ADDRESS" : "Sneinton Library, Sneinton Boulevard, Nottingham, NG2 4FD",
+				"WARD" : "Dales",
+				"EASTING" : 458810.00009999983,
+				"NORTHING" : 339598.00009999983,
+				"LONG" : -1.1261601730838287,
+				"LAT" : 52.95055777528625,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456788.18489104207, 345409.15674232953 ]
+			},
+			"properties" : {
+				"NAME" : "Bestwood Park Church",
+				"ADDRESS" : "Bestwood Park Church, Beckhampton Road, Nottingham, NG5 5NG",
+				"WARD" : "Bestwood",
+				"EASTING" : 456787.00009999983,
+				"NORTHING" : 345408.00009999983,
+				"LONG" : -1.1552484867305406,
+				"LAT" : 53.002996800425215,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454578.1986588001, 340235.2497650679 ]
+			},
+			"properties" : {
+				"NAME" : "Radford Children's Centre",
+				"ADDRESS" : "Radford Children's Centre, Southwold Primary School, Kennington Road, Nottingham, NG8 1QD",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 454577.00009999983,
+				"NORTHING" : 340234.00009999983,
+				"LONG" : -1.1890481766010061,
+				"LAT" : 52.956720651000545,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458045.1365046692, 343199.19919466047 ]
+			},
+			"properties" : {
+				"NAME" : "Winwood Community Centre",
+				"ADDRESS" : "Winwood Community Centre, Chestnut Walk, Nottingham, NG5 4EH",
+				"WARD" : "Sherwood",
+				"EASTING" : 458044.00009999983,
+				"NORTHING" : 343198.00009999983,
+				"LONG" : -1.1369155039210346,
+				"LAT" : 52.982998509239906,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454716.7056709133, 339133.63636678684 ]
+			},
+			"properties" : {
+				"NAME" : "St. Mary's Church Hall",
+				"ADDRESS" : "St. Mary's Church Hall, Wollaton Hall Drive, Nottingham, NG8 1AF",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 454715.49010000005,
+				"NORTHING" : 339132.36009999923,
+				"LONG" : -1.1871724853225305,
+				"LAT" : 52.9468046695428,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458256.1430983181, 340244.2322831327 ]
+			},
+			"properties" : {
+				"NAME" : "Russell Youth Club",
+				"ADDRESS" : "Russell Youth Club, Lowdham Street, Nottingham, NG3 2DP",
+				"WARD" : "St Ann's",
+				"EASTING" : 458255.00009999983,
+				"NORTHING" : 340243.00009999983,
+				"LONG" : -1.1343037863888052,
+				"LAT" : 52.95641558578349,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455141.19401641237, 338931.2773117605 ]
+			},
+			"properties" : {
+				"NAME" : "Monty Hind Training Centre",
+				"ADDRESS" : "Monty Hind Training Centre, Leen Gate, Nottingham, NG7 2LX",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 455140.00009999983,
+				"NORTHING" : 338930.00009999983,
+				"LONG" : -1.1808898743142136,
+				"LAT" : 52.94494243771775,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 459748.16310024005, 340749.232127853 ]
+			},
+			"properties" : {
+				"NAME" : "Christadelphian Church Hall",
+				"ADDRESS" : "20 Jarvis Avenue, Nottingham, NG3 7BH",
+				"WARD" : "Dales",
+				"EASTING" : 459747.00009999983,
+				"NORTHING" : 340748.00009999983,
+				"LONG" : -1.1120044597739376,
+				"LAT" : 52.96079084573775,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454802.1822874777, 334006.08747152425 ]
+			},
+			"properties" : {
+				"NAME" : "Whitegate Primary School",
+				"ADDRESS" : "Whitegate Primary And Nursery School, Middlefell Way, Nottingham, NG11 9JQ",
+				"WARD" : "Clifton East",
+				"EASTING" : 454800.9600999998,
+				"NORTHING" : 334004.9001000002,
+				"LONG" : -1.1867643872933624,
+				"LAT" : 52.90070844769813,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456930.18065095984, 344269.16763510945 ]
+			},
+			"properties" : {
+				"NAME" : "The Leisure Centre Club, City Hospital",
+				"ADDRESS" : "Leisure Centre, Nottingham University Hospitals NHS Trust City Hospital Site, North Road, City Hospital Campus, Nottingham, NG5 1PB",
+				"WARD" : "Sherwood",
+				"EASTING" : 456929.00009999983,
+				"NORTHING" : 344268.00009999983,
+				"LONG" : -1.1533331076641453,
+				"LAT" : 52.99273522705741,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451297.1469039886, 340418.1677291996 ]
+			},
+			"properties" : {
+				"NAME" : "Birchover Community Centre",
+				"ADDRESS" : "Birchover Community Centre, 83 Birchover Road, Nottingham, NG8 4BW",
+				"WARD" : "Bilborough",
+				"EASTING" : 451296.00009999983,
+				"NORTHING" : 340417.00009999983,
+				"LONG" : -1.2378541819413862,
+				"LAT" : 52.9586885581429,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455020.51317435474, 333332.4934226122 ]
+			},
+			"properties" : {
+				"NAME" : "Highbank Primary School",
+				"ADDRESS" : "Highbank Primary And Nursery School, Winscombe Mount, Nottingham, NG11 9FP",
+				"WARD" : "Clifton East",
+				"EASTING" : 455019.29009999987,
+				"NORTHING" : 333331.3001000006,
+				"LONG" : -1.1836327051770061,
+				"LAT" : 52.89463160415238,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455622.1813232293, 342506.1806677836 ]
+			},
+			"properties" : {
+				"NAME" : "New Basford Community Centre",
+				"ADDRESS" : "New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS",
+				"WARD" : "Berridge",
+				"EASTING" : 455621.00009999983,
+				"NORTHING" : 342505.00009999983,
+				"LONG" : -1.1731200262859416,
+				"LAT" : 52.97702603718637,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451064.1773491841, 339624.16363668966 ]
+			},
+			"properties" : {
+				"NAME" : "Vale Community Centre",
+				"ADDRESS" : "Vale Community Centre, Wollaton Vale, Nottingham, NG8 2JA",
+				"WARD" : "Bilborough",
+				"EASTING" : 451063.00009999983,
+				"NORTHING" : 339623.00009999983,
+				"LONG" : -1.2414471996109635,
+				"LAT" : 52.95157391215631,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454895.1852193536, 342406.17609383946 ]
+			},
+			"properties" : {
+				"NAME" : "Whitemoor Academy",
+				"ADDRESS" : "Whitemoor Academy, Bracknell Crescent, Nottingham, NG8 5FF",
+				"WARD" : "Basford",
+				"EASTING" : 454894.00009999983,
+				"NORTHING" : 342405.00009999983,
+				"LONG" : -1.1839626826164267,
+				"LAT" : 52.97620198342772,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457229.17871346156, 345232.16058408417 ]
+			},
+			"properties" : {
+				"NAME" : "The People's Church",
+				"ADDRESS" : "The People's Church, Gladehill Road, Nottingham, NG5 5SA",
+				"WARD" : "Bestwood",
+				"EASTING" : 457228.00009999983,
+				"NORTHING" : 345231.00009999983,
+				"LONG" : -1.1487089711254161,
+				"LAT" : 53.00135905286633,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456595.17420496535, 343221.17943108565 ]
+			},
+			"properties" : {
+				"NAME" : "Portable Unit, junction Perry Road & Hucknall Road",
+				"ADDRESS" : "Portable Unit, Junction of Perry Road and Hucknall Road, NG5 1GN",
+				"WARD" : "Berridge",
+				"EASTING" : 456594.00009999983,
+				"NORTHING" : 343220.00009999983,
+				"LONG" : -1.1585063850193023,
+				"LAT" : 52.98335099769772,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451635.20142798196, 339072.18092578533 ]
+			},
+			"properties" : {
+				"NAME" : "Grangewood Methodist Church",
+				"ADDRESS" : "Grangewood Methodist Church, Grangewood Road, Nottingham, NG8 2SJ",
+				"WARD" : "Wollaton West",
+				"EASTING" : 451634.00009999983,
+				"NORTHING" : 339071.00009999983,
+				"LONG" : -1.233037078337073,
+				"LAT" : 52.946557780055784,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453476.1592898545, 345451.1401883843 ]
+			},
+			"properties" : {
+				"NAME" : "St. John's Church",
+				"ADDRESS" : "St John's Church, Keys Close, Nottingham, NG6 8JL",
+				"WARD" : "Bulwell",
+				"EASTING" : 453475.00009999983,
+				"NORTHING" : 345450.00009999983,
+				"LONG" : -1.2045901762971019,
+				"LAT" : 53.00371450014898,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454613.1921880447, 344735.1530891296 ]
+			},
+			"properties" : {
+				"NAME" : "Bulwell United Reformed Church",
+				"ADDRESS" : "Bulwell United Reformed Church, Broomhill Road, Nottingham, NG6 9GJ",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 454612.00009999983,
+				"NORTHING" : 344734.00009999983,
+				"LONG" : -1.1877694209917278,
+				"LAT" : 52.9971644266484,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456085.1504837492, 341095.2163448375 ]
+			},
+			"properties" : {
+				"NAME" : "7th Nottingham Scouts Group, Trafalgar Lodge",
+				"ADDRESS" : "7th Nottingham Scouts Group, Trafalgar Lodge, Noel Steet, Nottingham, NG7 6AW",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 456084.00009999983,
+				"NORTHING" : 341094.00009999983,
+				"LONG" : -1.1664694804311555,
+				"LAT" : 52.96429547290206,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455476.2137413686, 334180.1942455894 ]
+			},
+			"properties" : {
+				"NAME" : "Clifton Young People's Centre",
+				"ADDRESS" : "Clifton Young People's Centre, Green Lane, Nottingham, NG11 9AY",
+				"WARD" : "Clifton East",
+				"EASTING" : 455475.00009999983,
+				"NORTHING" : 334179.00009999983,
+				"LONG" : -1.176715285340182,
+				"LAT" : 52.90220433840782,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453094.13445516763, 344679.14687452815 ]
+			},
+			"properties" : {
+				"NAME" : "Mariner Court Common Room",
+				"ADDRESS" : "Communal Rooms, Mariner Court, Nottingham, NG6 7BW",
+				"WARD" : "Bulwell",
+				"EASTING" : 453093.00009999983,
+				"NORTHING" : 344678.00009999983,
+				"LONG" : -1.2104086279520831,
+				"LAT" : 52.99681344639041,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455985.1964279592, 346081.1467895845 ]
+			},
+			"properties" : {
+				"NAME" : "Masson Court Community Rooms",
+				"ADDRESS" : "Community Rooms, Masson Court, Nottingham, NG5 9NG",
+				"WARD" : "Bestwood",
+				"EASTING" : 455984.00009999983,
+				"NORTHING" : 346080.00009999983,
+				"LONG" : -1.1670968353082212,
+				"LAT" : 53.009121233789436,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455907.1927789733, 344092.16373915883 ]
+			},
+			"properties" : {
+				"NAME" : "Leen Valley Community Centre",
+				"ADDRESS" : "Leen Valley Community Centre, 234 Arnold Road, Nottingham, NG5 5HB",
+				"WARD" : "Bestwood",
+				"EASTING" : 455906.00009999983,
+				"NORTHING" : 344091.00009999983,
+				"LONG" : -1.1686025690239847,
+				"LAT" : 52.99125180482446,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452646.10822573665, 341917.1911434859 ]
+			},
+			"properties" : {
+				"NAME" : "Brocklehigh Community Sports & Art Centre",
+				"ADDRESS" : "Brocklehigh Community Sports & Art Centre, Brocklewood Primary And Nursery School, Fircroft Avenue, Nottingham, NG8 3AL",
+				"WARD" : "Bilborough",
+				"EASTING" : 452645.00009999983,
+				"NORTHING" : 341916.00009999983,
+				"LONG" : -1.217531424102202,
+				"LAT" : 52.97203174399825,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455761.16088118206, 341222.21164007485 ]
+			},
+			"properties" : {
+				"NAME" : "The Bridge Centre",
+				"ADDRESS" : "Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 455760.00009999983,
+				"NORTHING" : 341221.00009999983,
+				"LONG" : -1.17127089843791,
+				"LAT" : 52.96547069473322,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455676.20839373727, 335146.1935076255 ]
+			},
+			"properties" : {
+				"NAME" : "Dovecote Primary School Sports Hall",
+				"ADDRESS" : "Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY",
+				"WARD" : "Clifton West",
+				"EASTING" : 455675.00009999983,
+				"NORTHING" : 335145.00009999983,
+				"LONG" : -1.1735770717776788,
+				"LAT" : 52.910866470542935,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455599.1695756153, 340352.2416564782 ]
+			},
+			"properties" : {
+				"NAME" : "John Carroll Leisure Centre",
+				"ADDRESS" : "John Carroll Leisure Centre, Denman Street Central, Nottingham, NG7 3PS",
+				"WARD" : "Radford",
+				"EASTING" : 455598.00009999983,
+				"NORTHING" : 340351.00009999983,
+				"LONG" : -1.1738316115118685,
+				"LAT" : 52.95766766813244,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452166.0918425281, 342328.17838920327 ]
+			},
+			"properties" : {
+				"NAME" : "Bramley Green Centre",
+				"ADDRESS" : "Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG",
+				"WARD" : "Bilborough",
+				"EASTING" : 452165.00009999983,
+				"NORTHING" : 342327.00009999983,
+				"LONG" : -1.2246122396298686,
+				"LAT" : 52.975772775452796,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452166.0918425281, 342328.17838920327 ]
+			},
+			"properties" : {
+				"NAME" : "Bramley Green Centre",
+				"ADDRESS" : "Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG",
+				"WARD" : "Aspley",
+				"EASTING" : 452165.00009999983,
+				"NORTHING" : 342327.00009999983,
+				"LONG" : -1.2246122396298686,
+				"LAT" : 52.975772775452796,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457746.16415713704, 338090.22251482424 ]
+			},
+			"properties" : {
+				"NAME" : "Meadows Youth Centre",
+				"ADDRESS" : "Meadows Youth Centre, Wilford Crescent East, Nottingham, NG2 2EF",
+				"WARD" : "Meadows",
+				"EASTING" : 457745.00009999983,
+				"NORTHING" : 338089.00009999983,
+				"LONG" : -1.142277394795957,
+				"LAT" : 52.937109949007464,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457206.1472702882, 338679.22482781654 ]
+			},
+			"properties" : {
+				"NAME" : "Queens Walk Community Centre",
+				"ADDRESS" : "Queens Walk Community Centre, Queens Walk, Nottingham, NG2 2DF",
+				"WARD" : "Meadows",
+				"EASTING" : 457205.00009999983,
+				"NORTHING" : 338678.00009999983,
+				"LONG" : -1.1502073648097826,
+				"LAT" : 52.94246172914369,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453959.176320207, 345505.1439912529 ]
+			},
+			"properties" : {
+				"NAME" : "Communal Room at Hazelhurst Gardens",
+				"ADDRESS" : "Communal Rooms, Hazelhurst Gardens, Nottingham, NG6 8HB",
+				"WARD" : "Bulwell",
+				"EASTING" : 453958.00009999983,
+				"NORTHING" : 345504.00009999983,
+				"LONG" : -1.1973843782406437,
+				"LAT" : 53.004151530401764,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456736.1517605346, 342353.19815265114 ]
+			},
+			"properties" : {
+				"NAME" : "The Indian Community Centre Association",
+				"ADDRESS" : "The Indian Community Centre Association, 99 Hucknall Road, Nottingham, NG5 1QZ",
+				"WARD" : "Berridge",
+				"EASTING" : 456735.00009999983,
+				"NORTHING" : 342352.00009999983,
+				"LONG" : -1.1565583573430964,
+				"LAT" : 52.97553434701836,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 459186.1503305805, 341229.22814594867 ]
+			},
+			"properties" : {
+				"NAME" : "The Pavilion, Hogarth Academy",
+				"ADDRESS" : "Hogarth Primary And Nursery School, Porchester Road, Nottingham, NG3 6JG",
+				"WARD" : "Mapperley",
+				"EASTING" : 459185.00009999983,
+				"NORTHING" : 341228.00009999983,
+				"LONG" : -1.1202823640065853,
+				"LAT" : 52.96516734155811,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 451951.0866511904, 342584.171267606 ]
+			},
+			"properties" : {
+				"NAME" : "Strelley Social Club",
+				"ADDRESS" : "Strelley Social Club, Helston Drive, Nottingham, NG8 6JZ",
+				"WARD" : "Bilborough",
+				"EASTING" : 451950.00009999983,
+				"NORTHING" : 342583.00009999983,
+				"LONG" : -1.227772733552194,
+				"LAT" : 52.97809463044819,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454188.1796362218, 345040.14995841606 ]
+			},
+			"properties" : {
+				"NAME" : "St. Mary's Church, Highbury Road",
+				"ADDRESS" : "St Mary's Church, Highbury Road, Nottingham, NG6 9AF",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 454187.00009999983,
+				"NORTHING" : 345039.00009999983,
+				"LONG" : -1.1940500129514922,
+				"LAT" : 52.999948914787915,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456698.17041434965, 336767.2207512232 ]
+			},
+			"properties" : {
+				"NAME" : "The Tailors Arms",
+				"ADDRESS" : "The Tailors Arms, Wilford Lane, Nottingham, NG11 7AX",
+				"WARD" : "Clifton West",
+				"EASTING" : 456697.00009999983,
+				"NORTHING" : 336766.00009999983,
+				"LONG" : -1.1580993489958555,
+				"LAT" : 52.925329901318456,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454840.1931387035, 343316.166022112 ]
+			},
+			"properties" : {
+				"NAME" : "Old Basford Community Centre",
+				"ADDRESS" : "Old Basford Community Centre, Bramble Close, Nottingham, NG6 0QG",
+				"WARD" : "Basford",
+				"EASTING" : 454839.00009999983,
+				"NORTHING" : 343315.00009999983,
+				"LONG" : -1.1846277544231238,
+				"LAT" : 52.98438693736064,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455567.2110581048, 334740.1935749389 ]
+			},
+			"properties" : {
+				"NAME" : "Clifton Methodist Church",
+				"ADDRESS" : "Clifton Methodist Church, Rivergreen, Nottingham, NG11 8AR",
+				"WARD" : "Clifton East",
+				"EASTING" : 455566.00009999983,
+				"NORTHING" : 334739.00009999983,
+				"LONG" : -1.1752669987332194,
+				"LAT" : 52.9072284503516,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456409.18974850845, 345401.1550927138 ]
+			},
+			"properties" : {
+				"NAME" : "Bestwood Park Community Centre",
+				"ADDRESS" : "Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE",
+				"WARD" : "Bestwood",
+				"EASTING" : 456408.00009999983,
+				"NORTHING" : 345400.00009999983,
+				"LONG" : -1.160896909689137,
+				"LAT" : 53.00296486128945,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456055.1510118255, 340631.23000561155 ]
+			},
+			"properties" : {
+				"NAME" : "Tennyson Hall, Unit C",
+				"ADDRESS" : "Unit C, Tennyson Hall, Forest Road West, Nottingham, NG7 4EP",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 456054.00009999983,
+				"NORTHING" : 340630.00009999983,
+				"LONG" : -1.166996213068703,
+				"LAT" : 52.96012804515117,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453149.1433758238, 345222.13869941834 ]
+			},
+			"properties" : {
+				"NAME" : "Snape Wood Primary School",
+				"ADDRESS" : "Snape Wood Primary And Nursery School, Aspen Road, Nottingham, NG6 7DS",
+				"WARD" : "Bulwell",
+				"EASTING" : 453148.00009999983,
+				"NORTHING" : 345221.00009999983,
+				"LONG" : -1.2095001408239057,
+				"LAT" : 53.001688656293496,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454721.1925944115, 344017.15974840504 ]
+			},
+			"properties" : {
+				"NAME" : "Oakleigh Social Club",
+				"ADDRESS" : "Oakleigh Social Club, 1 Highbury Road, Nottingham, NG6 9DD",
+				"WARD" : "Bulwell Forest",
+				"EASTING" : 454720.00009999983,
+				"NORTHING" : 344016.00009999983,
+				"LONG" : -1.186281722657863,
+				"LAT" : 52.9906998550888,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 452711.12831704685, 345411.1265481544 ]
+			},
+			"properties" : {
+				"NAME" : "Snape Wood Community Centre",
+				"ADDRESS" : "Snape Wood Community Centre, Snape Wood Road, Nottingham, NG6 7GH",
+				"WARD" : "Bulwell",
+				"EASTING" : 452710.00009999983,
+				"NORTHING" : 345410.00009999983,
+				"LONG" : -1.2159953864532929,
+				"LAT" : 53.003430634361294,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 460748.8897029339, 340021.7829130449 ]
+			},
+			"properties" : {
+				"NAME" : "Portable Unit, Starting Gate Car Park",
+				"ADDRESS" : "Portable Unit at Starting Gate Car Park, Daleside Road East, NG2 4DX",
+				"WARD" : "Dales",
+				"EASTING" : 460747.7037000004,
+				"NORTHING" : 340020.5474999994,
+				"LONG" : -1.0972450642297282,
+				"LAT" : 52.95414024631137,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455891.2057648679, 335171.1958888774 ]
+			},
+			"properties" : {
+				"NAME" : "Hope Centre",
+				"ADDRESS" : "Hope Centre, 2 Southchurch Drive, Nottingham, NG11 8AR",
+				"WARD" : "Clifton East",
+				"EASTING" : 455890.00009999983,
+				"NORTHING" : 335170.00009999983,
+				"LONG" : -1.17037611208351,
+				"LAT" : 52.91106890853531,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457671.1408034262, 339655.2314581626 ]
+			},
+			"properties" : {
+				"NAME" : "St Mary's Church",
+				"ADDRESS" : "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+				"WARD" : "Castle",
+				"EASTING" : 457670.00009999983,
+				"NORTHING" : 339654.00009999983,
+				"LONG" : -1.143115378497806,
+				"LAT" : 52.95118459411375,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 459074.1575293384, 340182.2328822066 ]
+			},
+			"properties" : {
+				"NAME" : "Sneinton Children's Centre",
+				"ADDRESS" : "Sneinton Children's Centre, Edale Road, Nottingham, NG2 4HT",
+				"WARD" : "Dales",
+				"EASTING" : 459073.00009999983,
+				"NORTHING" : 340181.00009999983,
+				"LONG" : -1.1221402347108818,
+				"LAT" : 52.95576905336453,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453259.16863815207, 340271.2279608749 ]
+			},
+			"properties" : {
+				"NAME" : "Kingswood Methodist Church Hall",
+				"ADDRESS" : "Kingswood Methodist Church, Lambourne Drive, Nottingham, NG8 1GR",
+				"WARD" : "Wollaton West",
+				"EASTING" : 453258.00009999983,
+				"NORTHING" : 340270.00009999983,
+				"LONG" : -1.2086743604819083,
+				"LAT" : 52.95717650318283,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455421.17815507087, 340277.2455451259 ]
+			},
+			"properties" : {
+				"NAME" : "Methodist Church Hall",
+				"ADDRESS" : "Methodist Church, Forster Street, Nottingham, NG7 3DB",
+				"WARD" : "Radford",
+				"EASTING" : 455420.00009999983,
+				"NORTHING" : 340276.00009999983,
+				"LONG" : -1.1764938174887623,
+				"LAT" : 52.957011924358305,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457527.15532606747, 338471.2239498638 ]
+			},
+			"properties" : {
+				"NAME" : "Meadows Library",
+				"ADDRESS" : "Meadows Library, Wilford Grove, Nottingham, NG2 2DR",
+				"WARD" : "Meadows",
+				"EASTING" : 457526.00009999983,
+				"NORTHING" : 338470.00009999983,
+				"LONG" : -1.1454680431492945,
+				"LAT" : 52.94055793719358,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457029.1261022154, 340283.23128177493 ]
+			},
+			"properties" : {
+				"NAME" : "Newton and Arkwright Building (Main Entrance)",
+				"ADDRESS" : "Newton and Arkwright Building (Main Entrance), Nottingham Trent University, Goldsmith Street, Nottingham, NG1 4BU",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 457028.00009999983,
+				"NORTHING" : 340282.00009999983,
+				"LONG" : -1.1525593055467698,
+				"LAT" : 52.956897687826704,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455973.15368742537, 341286.20939198555 ]
+			},
+			"properties" : {
+				"NAME" : "Hyson Green Community Centre",
+				"ADDRESS" : "Hyson Green Community Centre, 37A Gregory Boulevard, Nottingham, NG7 6BE",
+				"WARD" : "Hyson Green & Arboretum",
+				"EASTING" : 455972.00009999983,
+				"NORTHING" : 341285.00009999983,
+				"LONG" : -1.1681038275103799,
+				"LAT" : 52.966023907389655,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454819.1878915976, 341610.1991442268 ]
+			},
+			"properties" : {
+				"NAME" : "Lutheran Church Hall",
+				"ADDRESS" : "Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH",
+				"WARD" : "Leen Valley",
+				"EASTING" : 454818.00009999983,
+				"NORTHING" : 341609.00009999983,
+				"LONG" : -1.1852288963778328,
+				"LAT" : 52.969055060058125,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453718.16129315173, 340776.2295266274 ]
+			},
+			"properties" : {
+				"NAME" : "Beechdale Public House",
+				"ADDRESS" : "Beechdale Public House, Beechdale Road, Nottingham, NG8 3FE",
+				"WARD" : "Leen Valley",
+				"EASTING" : 453717.00009999983,
+				"NORTHING" : 340775.00009999983,
+				"LONG" : -1.2017589437923744,
+				"LAT" : 52.96166995932762,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456009.19280786335, 344531.1606648396 ]
+			},
+			"properties" : {
+				"NAME" : "Bestwood Community Centre",
+				"ADDRESS" : "Bestwood Community Centre, Gainsford Crescent, Nottingham, NG5 5HT",
+				"WARD" : "Bestwood",
+				"EASTING" : 456008.00009999983,
+				"NORTHING" : 344530.00009999983,
+				"LONG" : -1.1670073013317186,
+				"LAT" : 52.995187005146455,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457240.17566578335, 344512.1679214914 ]
+			},
+			"properties" : {
+				"NAME" : "Edwards Lane Community Centre",
+				"ADDRESS" : "Edwards Lane Community Centre, Alderton Road, Nottingham, NG5 6DX",
+				"WARD" : "Sherwood",
+				"EASTING" : 457239.00009999983,
+				"NORTHING" : 344511.00009999983,
+				"LONG" : -1.1486723351448473,
+				"LAT" : 52.994886395244194,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458123.89568928035, 340949.14855516073 ]
+			},
+			"properties" : {
+				"NAME" : "St. Ann's Valley Centre",
+				"ADDRESS" : "St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG",
+				"WARD" : "St Ann's",
+				"EASTING" : 458122.7600999996,
+				"NORTHING" : 340947.92009999976,
+				"LONG" : -1.1361457789064782,
+				"LAT" : 52.96276586340735,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453331.127154425, 343216.1680139256 ]
+			},
+			"properties" : {
+				"NAME" : "Bells Lane Community Centre",
+				"ADDRESS" : "Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD",
+				"WARD" : "Aspley",
+				"EASTING" : 453330.00009999983,
+				"NORTHING" : 343215.00009999983,
+				"LONG" : -1.2071186025665666,
+				"LAT" : 52.98364005037922,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453785.1538521941, 343863.16164243507 ]
+			},
+			"properties" : {
+				"NAME" : "Headstocks Public House",
+				"ADDRESS" : "Headstocks Public House, Bagnall Road, Nottingham, NG6 8SF",
+				"WARD" : "Basford",
+				"EASTING" : 453784.00009999983,
+				"NORTHING" : 343862.00009999983,
+				"LONG" : -1.2002496784865584,
+				"LAT" : 52.989410219119236,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455966.18109095754, 342656.18107850343 ]
+			},
+			"properties" : {
+				"NAME" : "Stadium Leisure",
+				"ADDRESS" : "Stadium Leisure, Nottingham Road, Nottingham, NG5 1EG",
+				"WARD" : "Berridge",
+				"EASTING" : 455965.00009999983,
+				"NORTHING" : 342655.00009999983,
+				"LONG" : -1.1679716635063015,
+				"LAT" : 52.978338549196245,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 456123.20246362087, 335393.1979191818 ]
+			},
+			"properties" : {
+				"NAME" : "Silverdale Community Centre",
+				"ADDRESS" : "Silverdale Community Centre, The Downs, Nottingham, NG11 7EB",
+				"WARD" : "Clifton West",
+				"EASTING" : 456122.00009999983,
+				"NORTHING" : 335392.00009999983,
+				"LONG" : -1.1668883976431632,
+				"LAT" : 52.91304019291321,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454243.1977574474, 339926.25367858476 ]
+			},
+			"properties" : {
+				"NAME" : "Wollaton Park Community Centre",
+				"ADDRESS" : "Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 454242.00009999983,
+				"NORTHING" : 339925.00009999983,
+				"LONG" : -1.194085942750901,
+				"LAT" : 52.9539771548392,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453547.13304948714, 342364.1822263335 ]
+			},
+			"properties" : {
+				"NAME" : "Aspley Community and Training Centre",
+				"ADDRESS" : "Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN",
+				"WARD" : "Aspley",
+				"EASTING" : 453546.00009999983,
+				"NORTHING" : 342363.00009999983,
+				"LONG" : -1.2040423425989777,
+				"LAT" : 52.97596050814746,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 455723.1564278739, 339328.2647248265 ]
+			},
+			"properties" : {
+				"NAME" : "The Lenton Centre",
+				"ADDRESS" : "The Lenton Centre, Willoughby Street, Nottingham, NG7 1RQ",
+				"WARD" : "Lenton & Wollaton East",
+				"EASTING" : 455722.00009999983,
+				"NORTHING" : 339327.00009999983,
+				"LONG" : -1.1721616697557284,
+				"LAT" : 52.948450815302536,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 453592.1549154898, 344667.1524425605 ]
+			},
+			"properties" : {
+				"NAME" : "Crabtree Farm Community Centre",
+				"ADDRESS" : "Crabtree Farm Community Centre, Steadfold Close, Nottingham, NG6 8AX",
+				"WARD" : "Bulwell",
+				"EASTING" : 453591.00009999983,
+				"NORTHING" : 344666.00009999983,
+				"LONG" : -1.202991484050485,
+				"LAT" : 52.99665610963087,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457599.1537955341, 343543.18687564624 ]
+			},
+			"properties" : {
+				"NAME" : "Sherwood Community Centre",
+				"ADDRESS" : "Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN",
+				"WARD" : "Sherwood",
+				"EASTING" : 457598.00009999983,
+				"NORTHING" : 343542.00009999983,
+				"LONG" : -1.143496588704657,
+				"LAT" : 52.986138459652786,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 457364.1468251352, 342820.19704114925 ]
+			},
+			"properties" : {
+				"NAME" : "Sherwood Library",
+				"ADDRESS" : "Sherwood Library, Spondon Street, Nottingham, NG5 4AB",
+				"WARD" : "Sherwood",
+				"EASTING" : 457363.00009999983,
+				"NORTHING" : 342819.00009999983,
+				"LONG" : -1.1471246166216411,
+				"LAT" : 52.97966514974874,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454243.1977574474, 339926.25367858476 ]
+			},
+			"properties" : {
+				"NAME" : "Wollaton Park Community Centre",
+				"ADDRESS" : "Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG",
+				"WARD" : "Wollaton West",
+				"EASTING" : 454242.00009999983,
+				"NORTHING" : 339925.00009999983,
+				"LONG" : -1.194085942750901,
+				"LAT" : 52.9539771548392,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 458300.1501499654, 339695.23216551833 ]
+			},
+			"properties" : {
+				"NAME" : "Muslim Community Organisation Centre",
+				"ADDRESS" : "Muslim Community Organisation Centre, Beaumont Street, Nottingham, NG2 4PJ",
+				"WARD" : "Dales",
+				"EASTING" : 458299.00009999983,
+				"NORTHING" : 339694.00009999983,
+				"LONG" : -1.133747477706761,
+				"LAT" : 52.95147629124073,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 454772.22004437464, 334853.18405541044 ]
+			},
+			"properties" : {
+				"NAME" : "Clifton Village Hall",
+				"ADDRESS" : "Clifton Village Hall, Village Road, Nottingham, NG11 8NE",
+				"WARD" : "Clifton West",
+				"EASTING" : 454771.00009999983,
+				"NORTHING" : 334852.00009999983,
+				"LONG" : -1.1870672792849573,
+				"LAT" : 52.90832557105793,
+				"BODY_NAME" : "Nottingham City Council",
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+				"CREATE_DAT" : "20190308"
+			}
+		}
+	]
+}
