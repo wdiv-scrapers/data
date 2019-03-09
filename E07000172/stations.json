@@ -289,6 +289,23 @@
         "pk": 19
     },
     {
+        "ADDRESS": "Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN",
+        "CURR": "Yes",
+        "LABEL": "School Bungalow, Eskdale Primary School",
+        "Licence": "Open Government Licence",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 20,
+        "Origin": "Broxtowe Borough Council",
+        "POLL_DIST": "CHW2 (part 1)",
+        "POSTCODE": "NG9 5FN",
+        "UPDATED": "2019-03-08T00:00:00.000Z",
+        "X": 450732.541,
+        "Y": 336052.359,
+        "council_id": "E07000172",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.246903268730068, 52.91952066456869], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN\", \"CURR\": \"Yes\", \"LABEL\": \"School Bungalow, Eskdale Primary School\", \"Licence\": \"Open Government Licence\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 20, \"Origin\": \"Broxtowe Borough Council\", \"POLL_DIST\": \"CHW2 (part 1)\", \"POSTCODE\": \"NG9 5FN\", \"UPDATED\": \"2019-03-08T00:00:00.000Z\", \"X\": 450732.541, \"Y\": 336052.359}, \"type\": \"Feature\"}",
+        "pk": 20
+    },
+    {
         "ADDRESS": "Smithurst Road Giltbrook Nottinghamshire",
         "CURR": "Yes",
         "LABEL": "Smithurst Road Temporary Station",
