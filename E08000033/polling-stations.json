@@ -164,6 +164,26 @@
             "description": "Names and addresses of all polling stations in Calderdale. ",
             "format": "csv",
             "order": 0,
+            "tables": {
+                "1nw8v_d16gk": {
+                    "artefactIndex": 0,
+                    "job": "bf95b3d5-cbe4-4230-bab3-79b8f1077914",
+                    "setsquare": {
+                        "columnPercent": 20,
+                        "keepColumns": [],
+                        "numHeaderRows": 1,
+                        "preserveHeader": false,
+                        "rowPercent": 10,
+                        "titles": {},
+                        "transposeFirst": false,
+                        "trimBottom": 0,
+                        "trimTop": 0,
+                        "types": {},
+                        "version": 1
+                    },
+                    "title": "Polling Stations"
+                }
+            },
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
