@@ -372,6 +372,26 @@
             "description": "",
             "format": "csv",
             "order": 3,
+            "tables": {
+                "9z768_gq4th": {
+                    "artefactIndex": 0,
+                    "job": "a0b5a490-8dfd-4bd7-8e64-b39c748e5745",
+                    "setsquare": {
+                        "columnPercent": 20,
+                        "keepColumns": [],
+                        "numHeaderRows": 1,
+                        "preserveHeader": false,
+                        "rowPercent": 10,
+                        "titles": {},
+                        "transposeFirst": false,
+                        "trimBottom": 0,
+                        "trimTop": 0,
+                        "types": {},
+                        "version": 1
+                    },
+                    "title": "Polling Station Districts"
+                }
+            },
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
