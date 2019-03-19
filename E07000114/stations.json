@@ -411,13 +411,13 @@
     },
     {
         "ADDRESS": "St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ",
-        "DISTRICT": "BSB & BSC",
+        "DISTRICT": "BSC",
         "OBJECTID": 46,
         "POSTCODE": "CT10 3AZ",
         "X": 638851,
         "Y": 169494,
         "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4305811638072214, 51.3742295781808], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"ADDRESS\": \"St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ\", \"DISTRICT\": \"BSB & BSC\", \"OBJECTID\": 46, \"POSTCODE\": \"CT10 3AZ\", \"X\": 638851, \"Y\": 169494}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4305811638072214, 51.3742295781808], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"ADDRESS\": \"St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ\", \"DISTRICT\": \"BSC\", \"OBJECTID\": 46, \"POSTCODE\": \"CT10 3AZ\", \"X\": 638851, \"Y\": 169494}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Ramsgate Football Club Southwood Stadium Prices Avenue RAMSGATE Kent CT11 0AN",
@@ -498,5 +498,15 @@
         "Y": 167780,
         "council_id": "E07000114",
         "geometry": "{\"geometry\": {\"coordinates\": [1.4394870853429413, 51.358492964629264], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"ADDRESS\": \"Queens Road Baptist Church\", \"DISTRICT\": \"BSH\", \"OBJECTID\": 63, \"POSTCODE\": \"CT10 1NU\", \"X\": 639557, \"Y\": 167780}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ",
+        "DISTRICT": "BSB",
+        "OBJECTID": 64,
+        "POSTCODE": "CT10 3AZ",
+        "X": 638851,
+        "Y": 169494,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4305811638072214, 51.3742295781808], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"ADDRESS\": \"St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ\", \"DISTRICT\": \"BSB\", \"OBJECTID\": 64, \"POSTCODE\": \"CT10 3AZ\", \"X\": 638851, \"Y\": 169494}, \"type\": \"Feature\"}"
     }
 ]
