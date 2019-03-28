@@ -3,7 +3,9 @@
         {
             "attributes": {
                 "advancedQueryCapabilities": {
+                    "supportsCountDistinct": true,
                     "supportsDistinct": true,
+                    "supportsHavingClause": true,
                     "supportsOrderBy": true,
                     "supportsPagination": true,
                     "supportsQueryWithDistance": true,
@@ -18,7 +20,7 @@
                 "content": "spatial dataset",
                 "coverage": "local",
                 "createdAt": "2018-02-12T14:45:30.000Z",
-                "currentVersion": "10.5",
+                "currentVersion": "10.61",
                 "dataType": "Layer",
                 "description": "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districts  This layer shows Broxtowe's current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place.",
                 "displayField": "LABEL",
@@ -45,49 +47,49 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2018-11-02T10:52:33.287Z"
+                        "updatedAt": "2019-03-28T11:39:35.707Z"
                     },
                     {
                         "alias": "X",
                         "domain": null,
                         "name": "X",
                         "statistics": {
-                            "avg": 450086.802289,
-                            "count": 65,
-                            "duration": 390.280835986137,
+                            "avg": 450109.766837,
+                            "count": 66,
+                            "duration": 991.089495000429,
                             "max": 454020.636,
                             "min": 446393.093,
-                            "stddev": 2113.44049276557,
-                            "sum": 29255642.1488,
-                            "var": 4466630.71646118
+                            "stddev": 2103.7860949615,
+                            "sum": 29707244.6113,
+                            "var": 4425915.93335337
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2018-11-02T10:52:33.677Z"
+                        "updatedAt": "2019-03-28T11:39:36.698Z"
                     },
                     {
                         "alias": "Y",
                         "domain": null,
                         "name": "Y",
                         "statistics": {
-                            "avg": 340510.591433,
-                            "count": 65,
-                            "duration": 789.510888010263,
+                            "avg": 340445.753681,
+                            "count": 66,
+                            "duration": 1089.13880500011,
                             "max": 349472.878,
                             "min": 334437.5821,
-                            "stddev": 4534.51022062455,
-                            "sum": 22133188.4432,
-                            "var": 20561782.9409485
+                            "stddev": 4530.97407763524,
+                            "sum": 22469419.743,
+                            "var": 20529726.0922025
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2018-11-02T10:52:34.077Z"
+                        "updatedAt": "2019-03-28T11:39:36.797Z"
                     },
                     {
                         "alias": "ADDRESS",
                         "domain": null,
                         "name": "ADDRESS",
                         "statistics": {
-                            "count": 54,
-                            "duration": 834.146097004414,
+                            "count": 55,
+                            "duration": 1144.77255999949,
                             "values": [
                                 {
                                     "count": 3,
@@ -132,15 +134,15 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:34.122Z"
+                        "updatedAt": "2019-03-28T11:39:36.853Z"
                     },
                     {
                         "alias": "POSTCODE",
                         "domain": null,
                         "name": "POSTCODE",
                         "statistics": {
-                            "count": 54,
-                            "duration": 621.07620999217,
+                            "count": 55,
+                            "duration": 1049.24184099957,
                             "values": [
                                 {
                                     "count": 3,
@@ -185,15 +187,15 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.909Z"
+                        "updatedAt": "2019-03-28T11:39:36.757Z"
                     },
                     {
                         "alias": "POLL_DIST",
                         "domain": null,
                         "name": "POLL_DIST",
                         "statistics": {
-                            "count": 65,
-                            "duration": 575.182052016258,
+                            "count": 66,
+                            "duration": 1245.23953399993,
                             "values": [
                                 {
                                     "count": 1,
@@ -238,15 +240,15 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.863Z"
+                        "updatedAt": "2019-03-28T11:39:36.953Z"
                     },
                     {
                         "alias": "LABEL",
                         "domain": null,
                         "name": "LABEL",
                         "statistics": {
-                            "count": 54,
-                            "duration": 529.065798997879,
+                            "count": 55,
+                            "duration": 1375.64994799998,
                             "values": [
                                 {
                                     "count": 3,
@@ -286,12 +288,12 @@
                                 },
                                 {
                                     "count": 1,
-                                    "value": "Women's Institute"
+                                    "value": "Womens Institute"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.817Z"
+                        "updatedAt": "2019-03-28T11:39:37.084Z"
                     },
                     {
                         "alias": "Current",
@@ -306,6 +308,7 @@
                                     "name": "No"
                                 }
                             ],
+                            "description": "Yes or No Values",
                             "mergePolicy": "esriMPTDefaultValue",
                             "name": "Yes_No",
                             "splitPolicy": "esriSPTDefaultValue",
@@ -314,17 +317,30 @@
                         "name": "CURR",
                         "statistics": {
                             "count": 1,
-                            "duration": 605.588922977448,
+                            "duration": 1228.89992299955,
                             "values": [
                                 {
                                     "code": "Y",
-                                    "count": 65,
+                                    "count": 66,
                                     "value": "Yes"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.894Z"
+                        "updatedAt": "2019-03-28T11:39:36.938Z"
+                    },
+                    {
+                        "alias": "UPDATED",
+                        "domain": null,
+                        "name": "UPDATED",
+                        "statistics": {
+                            "count": 66,
+                            "duration": 1367.95485599991,
+                            "max": 1552003200000,
+                            "min": 1420588800000
+                        },
+                        "type": "esriFieldTypeDate",
+                        "updatedAt": "2019-03-28T11:39:37.077Z"
                     },
                     {
                         "alias": "Shape",
@@ -334,7 +350,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeGeometry",
-                        "updatedAt": "2018-11-02T10:52:33.289Z"
+                        "updatedAt": "2019-03-28T11:39:35.709Z"
                     },
                     {
                         "alias": "Originator",
@@ -461,6 +477,7 @@
                                     "name": "Cadent Gas"
                                 }
                             ],
+                            "description": "Originators",
                             "mergePolicy": "esriMPTDefaultValue",
                             "name": "Originators",
                             "splitPolicy": "esriSPTDefaultValue",
@@ -469,17 +486,17 @@
                         "name": "Origin",
                         "statistics": {
                             "count": 1,
-                            "duration": 694.137862980366,
+                            "duration": 1313.49520500004,
                             "values": [
                                 {
                                     "code": "BBC",
-                                    "count": 65,
+                                    "count": 66,
                                     "value": "Broxtowe Borough Council"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.983Z"
+                        "updatedAt": "2019-03-28T11:39:37.022Z"
                     },
                     {
                         "alias": "Licence",
@@ -514,6 +531,7 @@
                                     "name": "Supplier Specific"
                                 }
                             ],
+                            "description": "Licence Type",
                             "mergePolicy": "esriMPTDefaultValue",
                             "name": "LicenceType",
                             "splitPolicy": "esriSPTDefaultValue",
@@ -522,17 +540,17 @@
                         "name": "Licence",
                         "statistics": {
                             "count": 1,
-                            "duration": 567.278584986925,
+                            "duration": 1416.0733509995,
                             "values": [
                                 {
                                     "code": "OGL",
-                                    "count": 65,
+                                    "count": 66,
                                     "value": "Open Government Licence"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.856Z"
+                        "updatedAt": "2019-03-28T11:39:37.125Z"
                     },
                     {
                         "alias": "Licence URL",
@@ -540,33 +558,54 @@
                         "name": "LicenceURL",
                         "statistics": {
                             "count": 1,
-                            "duration": 651.867886006832,
+                            "duration": 1459.10732400045,
                             "values": [
                                 {
-                                    "count": 65,
+                                    "count": 66,
                                     "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2018-11-02T10:52:33.941Z"
+                        "updatedAt": "2019-03-28T11:39:37.168Z"
                     },
                     {
-                        "alias": "UPDATED",
+                        "alias": "Polling Station Inspector Area",
                         "domain": null,
-                        "name": "UPDATED",
+                        "name": "PSI",
                         "statistics": {
-                            "count": 65,
-                            "duration": 827.751726984978,
-                            "max": 1483920000000,
-                            "min": 1420588800000
+                            "avg": 4.772727,
+                            "count": 66,
+                            "duration": 1516.77886299975,
+                            "max": 8,
+                            "min": 1,
+                            "stddev": 2.37807585144897,
+                            "sum": 315,
+                            "var": 5.65524475524475
                         },
-                        "type": "esriFieldTypeDate",
-                        "updatedAt": "2018-11-02T10:52:34.117Z"
+                        "type": "esriFieldTypeSmallInteger",
+                        "updatedAt": "2019-03-28T11:39:37.226Z"
+                    },
+                    {
+                        "alias": "PSI Maps point number",
+                        "domain": null,
+                        "name": "PSI_MAPRANK",
+                        "statistics": {
+                            "avg": 3.984848,
+                            "count": 66,
+                            "duration": 1559.72755699977,
+                            "max": 10,
+                            "min": 1,
+                            "stddev": 2.1661197086206,
+                            "sum": 263,
+                            "var": 4.69207459207459
+                        },
+                        "type": "esriFieldTypeSmallInteger",
+                        "updatedAt": "2019-03-28T11:39:37.269Z"
                     }
                 ],
                 "geometryType": "esriGeometryPoint",
-                "harvestedAt": "2018-11-02T10:52:37.097Z",
+                "harvestedAt": "2019-03-28T11:39:37.446Z",
                 "hasErrors": false,
                 "hasWarnings": true,
                 "itemName": "Polling Stations",
@@ -627,7 +666,7 @@
                 "owner": "Broxtowe_GIS",
                 "public": true,
                 "quality": 77,
-                "recordCount": 65,
+                "recordCount": 66,
                 "serviceSpatialReference": {
                     "latestWkid": 27700,
                     "wkid": 27700
@@ -651,7 +690,7 @@
                 "timeInfo": null,
                 "title": "polling stations",
                 "type": "Layer",
-                "updatedAt": "2018-11-02T10:52:23.000Z",
+                "updatedAt": "2019-03-28T11:39:26.000Z",
                 "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3",
                 "useStandardizedQueries": true,
                 "views": null
