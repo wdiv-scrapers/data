@@ -77,7 +77,7 @@
         "X": 393812.040947,
         "Y": 298131.718772,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.092753774156877, 52.58096045734658], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"ADDRESS\": \"East Park Library & Neighbourhood Centre, Hurstbourne Crescent, East Park, Wolverhampton, WV1\\u00a02EE\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"KHB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS61\", \"OBJECTID\": 4, \"OBJECTID_1\": 4, \"POSTCODE\": \"WV1\\u00a02EE\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"EP5\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"East Park\", \"X\": 393812.040947, \"Y\": 298131.718772}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.093808703045415, 52.580959624083356], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"ADDRESS\": \"East Park Library & Neighbourhood Centre, Hurstbourne Crescent, East Park, Wolverhampton, WV1\\u00a02EE\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"KHB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS61\", \"OBJECTID\": 4, \"OBJECTID_1\": 4, \"POSTCODE\": \"WV1\\u00a02EE\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"EP5\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"East Park\", \"X\": 393812.040947, \"Y\": 298131.718772}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Teresas RC Primary School, Malins Road, Wolverhampton, WV4\u00a06AW",
@@ -340,26 +340,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.08494206129298, 52.55728513371087], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"ADDRESS\": \"Temporary Polling Station, Horning Drive, (Off Broadmoor Road), Ettingshall, Bilston, WV14\\u00a00RR\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"HNA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS49\", \"OBJECTID\": 17, \"OBJECTID_1\": 17, \"POSTCODE\": \"WV14\\u00a00RR\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"BE8\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Bilston East\", \"X\": 394338.254808, \"Y\": 295497.495808}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Loxdale Primary School, Chapel Street, Bradley, Bilston, WV14\u00a00PH",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "HEB",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS46",
-        "OBJECTID": 18,
-        "OBJECTID_1": 18,
-        "POSTCODE": "WV14\u00a00PH",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "BE4",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Bilston East",
-        "X": 395627.124808,
-        "Y": 295921.435808,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.0659370339368612, 52.561108436977264], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"ADDRESS\": \"Loxdale Primary School, Chapel Street, Bradley, Bilston, WV14\\u00a00PH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"HEB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS46\", \"OBJECTID\": 18, \"OBJECTID_1\": 18, \"POSTCODE\": \"WV14\\u00a00PH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"BE4\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Bilston East\", \"X\": 395627.124808, \"Y\": 295921.435808}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "The Lunt Community Centre, Lunt Road, Bilston, West Midlands, WV14\u00a07BH",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -540,26 +520,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.0944163528410007, 52.55438320661407], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"ADDRESS\": \"Temporary Polling Station, Overfield Drive (on car park of Elizabeth Arms PH), Sedgemoor Park, Bilston, WV14\\u00a09XW\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"LKA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS68\", \"OBJECTID\": 27, \"OBJECTID_1\": 27, \"POSTCODE\": \"WV14\\u00a09XW\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"ET7\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Ettingshall\", \"X\": 393695.504808, \"Y\": 295175.495808}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Bilston CE Primary School, Albany Crescent, Bilston, WV14\u00a00HU",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "LJA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS67",
-        "OBJECTID": 28,
-        "OBJECTID_1": 28,
-        "POSTCODE": "WV14\u00a00HU",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "ET6",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Ettingshall",
-        "X": 393918.254808,
-        "Y": 296672.995808,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.0911590029087406, 52.567848047145525], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ADDRESS\": \"Bilston CE Primary School, Albany Crescent, Bilston, WV14\\u00a00HU\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"LJA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS67\", \"OBJECTID\": 28, \"OBJECTID_1\": 28, \"POSTCODE\": \"WV14\\u00a00HU\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"ET6\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Ettingshall\", \"X\": 393918.254808, \"Y\": 296672.995808}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "St Martin`s Church Hall, Parkfield Grove, Wolverhampton, WV2\u00a02BG",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -618,26 +578,6 @@
         "Y": 296968.730242,
         "council_id": "E08000031",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.0957045627661697, 52.57050305091628], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"ADDRESS\": \"Memorial Hall, George Street, Ettingshall, Wolverhampton, WV2\\u00a02LY\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"LEA, KIA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS64\", \"OBJECTID\": 31, \"OBJECTID_1\": 31, \"POSTCODE\": \"WV2\\u00a02LY\", \"PURPOSE\": \"Shared Polling Station - East Park and Ettingshall\", \"STA_CODE\": \"ET3, EP6\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Ettingshall\", \"X\": 393610.547315, \"Y\": 296968.730242}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Temporary Polling Station, Springvale House Car Park, Millfields Road, WV14 0QR",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1522022400000,
-        "DIS_CODE": "LIA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS66",
-        "OBJECTID": 32,
-        "OBJECTID_1": 32,
-        "POSTCODE": "WV14\u00a00QR",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "ET5",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Ettingshall",
-        "X": 394099.367731,
-        "Y": 296205.279926,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.0892249420127493, 52.56384667624872], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"ADDRESS\": \"Temporary Polling Station, Springvale House Car Park, Millfields Road, WV14 0QR\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1522022400000, \"DIS_CODE\": \"LIA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS66\", \"OBJECTID\": 32, \"OBJECTID_1\": 32, \"POSTCODE\": \"WV14\\u00a00QR\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"ET5\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Ettingshall\", \"X\": 394099.367731, \"Y\": 296205.279926}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Windsor Centre, Parkfield Road, Wolverhampton, WV4\u00a06EL",
@@ -740,26 +680,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.1029025884633525, 52.59623346601066], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall - Heath Town, Bushbury Road, Wolverhampton, WV10\\u00a00LY\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"DEA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS22\", \"OBJECTID\": 37, \"OBJECTID_1\": 37, \"POSTCODE\": \"WV10\\u00a00LY\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"HT3\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Heath Town\", \"X\": 393126.784187, \"Y\": 299831.581124}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Patrick`s RC Primary School, Graiseley Lane, Wolverhampton, WV11\u00a01PG",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "DJA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS25",
-        "OBJECTID": 38,
-        "OBJECTID_1": 38,
-        "POSTCODE": "WV11\u00a01PG",
-        "PURPOSE": "Polling Station in Wed South Used only by Heath Town",
-        "STA_CODE": "HT6",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Heath Town",
-        "X": 394350.709213,
-        "Y": 300263.837043,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.084841293235142, 52.60013370550207], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"ADDRESS\": \"St Patrick`s RC Primary School, Graiseley Lane, Wolverhampton, WV11\\u00a01PG\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"DJA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS25\", \"OBJECTID\": 38, \"OBJECTID_1\": 38, \"POSTCODE\": \"WV11\\u00a01PG\", \"PURPOSE\": \"Polling Station in Wed South Used only by Heath Town\", \"STA_CODE\": \"HT6\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Heath Town\", \"X\": 394350.709213, \"Y\": 300263.837043}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Civic Centre, Ground Floor , Training/Committee Room , St Peters Square, WV1 1SH",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -773,11 +693,11 @@
         "PURPOSE": "Shared Poling Station - St Peter's and Heath Town",
         "STA_CODE": "SP7, HT7",
         "UPDATED_BY": "David Scandrett",
-        "WARD": "St Peter's",
+        "WARD": "St Peters",
         "X": 391351.799,
         "Y": 298852.273,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.1290807689102893, 52.58740399527834], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ADDRESS\": \"Civic Centre, Ground Floor , Training/Committee Room , St Peters Square, WV1 1SH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1522022400000, \"DIS_CODE\": \"RIA, DMB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS103\", \"OBJECTID\": 39, \"OBJECTID_1\": 39, \"POSTCODE\": \"WV1 1SH\", \"PURPOSE\": \"Shared Poling Station - St Peter's and Heath Town\", \"STA_CODE\": \"SP7, HT7\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"St Peter's\", \"X\": 391351.799, \"Y\": 298852.273}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.1290807689102893, 52.58740399527834], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ADDRESS\": \"Civic Centre, Ground Floor , Training/Committee Room , St Peters Square, WV1 1SH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1522022400000, \"DIS_CODE\": \"RIA, DMB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS103\", \"OBJECTID\": 39, \"OBJECTID_1\": 39, \"POSTCODE\": \"WV1 1SH\", \"PURPOSE\": \"Shared Poling Station - St Peter's and Heath Town\", \"STA_CODE\": \"SP7, HT7\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"St Peters\", \"X\": 391351.799, \"Y\": 298852.273}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "New Testament Church Of God 173 Wednesfield Road Wolverhampton West Midlands WV10 0EN",
@@ -1077,7 +997,7 @@
         "X": 389083.574808,
         "Y": 296769.215808,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.162490424568582, 52.56863649262471], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"ADDRESS\": \"Warstones Primary School, Warstones Road, Wolverhampton, WV4\\u00a04LU\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"QAB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS92\", \"OBJECTID\": 54, \"OBJECTID_1\": 54, \"POSTCODE\": \" WV4\\u00a04LU\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"PN1\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Penn\", \"X\": 389083.574808, \"Y\": 296769.215808}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.162490424568582, 52.56863649262471], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"ADDRESS\": \"Warstones Primary School, Warstones Road, Wolverhampton, WV4\\u00a04LU\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"QAB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS92\", \"OBJECTID\": 54, \"OBJECTID_1\": 54, \"POSTCODE\": \"WV4\\u00a04LU\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"PN1\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Penn\", \"X\": 389083.574808, \"Y\": 296769.215808}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Aidan's Church, Mount Road, Penn, Wolverhampton, WV4\u00a05SW",
@@ -1138,26 +1058,6 @@
         "Y": 301536.745808,
         "council_id": "E08000031",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.1604055666492945, 52.61149847507588], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"ADDRESS\": \"Christ The King Church, Pendeford Avenue, (Use Main Church Entrance), Wolverhampton, WV6\\u00a09EJ\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"SBB\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS104\", \"OBJECTID\": 57, \"OBJECTID_1\": 57, \"POSTCODE\": \"WV6\\u00a09EJ\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TR1\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Tettenhall Regis\", \"X\": 389235.504808, \"Y\": 301536.745808}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "The Kings C Of E School, Regis Road, Wolverhampton, WV6 8XG",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1522108800000,
-        "DIS_CODE": "SIB, SJB",
-        "ELECTION": "June 2017",
-        "KEYVAL": "PS108",
-        "OBJECTID": 58,
-        "OBJECTID_1": 114,
-        "POSTCODE": "WV6\u00a08XF",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "TR5, TR6",
-        "UPDATED_BY": "Dominic Williams",
-        "WARD": "Tettenhall Regis",
-        "X": 387718.176,
-        "Y": 299993.848,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.183774749650631, 52.598275260269425], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"ADDRESS\": \"The Kings C Of E School, Regis Road, Wolverhampton, WV6 8XG\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1522108800000, \"DIS_CODE\": \"SIB, SJB\", \"ELECTION\": \"June 2017\", \"KEYVAL\": \"PS108\", \"OBJECTID\": 58, \"OBJECTID_1\": 114, \"POSTCODE\": \"WV6\\u00a08XF\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TR5, TR6\", \"UPDATED_BY\": \"Dominic Williams\", \"WARD\": \"Tettenhall Regis\", \"X\": 387718.176, \"Y\": 299993.848}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Michael`s Parish Centre, Room Behind Tettenhall Library, Off Upper Street, Tettenhall, Wolverhampton, WV6\u00a08QF",
@@ -1760,26 +1660,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.117161853508429, 52.55257834775901], \"type\": \"Point\"}, \"id\": 89, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall, Farrington Road, Wolverhampton, WV4\\u00a06QH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"MDA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS71\", \"OBJECTID\": 89, \"OBJECTID_1\": 88, \"POSTCODE\": \"WV4\\u00a06QH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"SV3\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Spring Vale\", \"X\": 392153.004808, \"Y\": 294976.995808}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Springvale Primary School, Kenilworth Crescent, Wolverhampton, WV4\u00a06SD",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "MCA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS70",
-        "OBJECTID": 90,
-        "OBJECTID_1": 89,
-        "POSTCODE": "WV4\u00a06SD",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "SV2",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Spring Vale",
-        "X": 392325.254808,
-        "Y": 295817.995808,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.114641199475319, 52.56014128116446], \"type\": \"Point\"}, \"id\": 90, \"properties\": {\"ADDRESS\": \"Springvale Primary School, Kenilworth Crescent, Wolverhampton, WV4\\u00a06SD\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"MCA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS70\", \"OBJECTID\": 90, \"OBJECTID_1\": 89, \"POSTCODE\": \"WV4\\u00a06SD\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"SV2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Spring Vale\", \"X\": 392325.254808, \"Y\": 295817.995808}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Hilton Hall Community Centre, Hilton Road, Lanesfield, Wolverhampton, WV4\u00a06DR",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -1860,26 +1740,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.1753145166710857, 52.57887574397816], \"type\": \"Point\"}, \"id\": 94, \"properties\": {\"ADDRESS\": \"St Columbas Church Hall, St Columbas Church, Castlecroft Road, Wolverhampton, WV3\\u00a08BZ\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"TKA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS114\", \"OBJECTID\": 94, \"OBJECTID_1\": 93, \"POSTCODE\": \"WV3\\u00a08BZ\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TW6\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Tettenhall Wightwick\", \"X\": 388217.139497, \"Y\": 297910.235915}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Compton Youth Centre, Henwood Road, Compton, Wolverhampton, WV6\u00a08PG",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "TCA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS110",
-        "OBJECTID": 95,
-        "OBJECTID_1": 94,
-        "POSTCODE": "WV6\u00a08PG",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "TW2",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Tettenhall Wightwick",
-        "X": 388369.121589,
-        "Y": 299044.855322,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.173111937589908, 52.58907900135154], \"type\": \"Point\"}, \"id\": 95, \"properties\": {\"ADDRESS\": \"Compton Youth Centre, Henwood Road, Compton, Wolverhampton, WV6\\u00a08PG\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"TCA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS110\", \"OBJECTID\": 95, \"OBJECTID_1\": 94, \"POSTCODE\": \"WV6\\u00a08PG\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TW2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Tettenhall Wightwick\", \"X\": 388369.121589, \"Y\": 299044.855322}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Church Hall, St Thomas of Canterbury RC Church, Haywood Drive, Tettenhall, Wolverhampton, WV6\u00a08RF",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -1940,26 +1800,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.082428046304525, 52.610127352412015], \"type\": \"Point\"}, \"id\": 98, \"properties\": {\"ADDRESS\": \"Wood End Primary School, Wood End Road, Wednesfield, Wolverhampton, WV11\\u00a01YQ\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"FAA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS30\", \"OBJECTID\": 98, \"OBJECTID_1\": 97, \"POSTCODE\": \"WV11\\u00a01YQ\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN1\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 394515.434808, \"Y\": 301375.315808}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Ashmore Park Community Centre Griffiths Drive Wolverhampton West Midlands WV11 2LT",
-        "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
-        "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1522022400000,
-        "DIS_CODE": "FBA",
-        "ELECTION": "City Council 5th May 2016",
-        "KEYVAL": "PS31",
-        "OBJECTID": 99,
-        "OBJECTID_1": 98,
-        "POSTCODE": "WV11\u00a02LT",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "WN2",
-        "UPDATED_BY": "David Scandrett",
-        "WARD": "Wednesfield North",
-        "X": 395965.394189,
-        "Y": 301684.700116,
-        "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.061691235389478, 52.612758202302985], \"type\": \"Point\"}, \"id\": 99, \"properties\": {\"ADDRESS\": \"Ashmore Park Community Centre Griffiths Drive Wolverhampton West Midlands WV11 2LT\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1522022400000, \"DIS_CODE\": \"FBA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS31\", \"OBJECTID\": 99, \"OBJECTID_1\": 98, \"POSTCODE\": \"WV11\\u00a02LT\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 395965.394189, \"Y\": 301684.700116}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Ashmore Park Baptist Church, Griffiths Drive, Ashmore Park, Wednesfield, Wolverhampton, West Midlands, WV11\u00a02JW",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
@@ -1989,7 +1829,7 @@
         "KEYVAL": "PS34",
         "OBJECTID": 101,
         "OBJECTID_1": 100,
-        "POSTCODE": "WV112LH",
+        "POSTCODE": "WV11 2LH",
         "PURPOSE": "Designated Polling Station",
         "STA_CODE": "WN5",
         "UPDATED_BY": "David Scandrett",
@@ -1997,7 +1837,7 @@
         "X": 396123.086171,
         "Y": 301807.467028,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.0586919547757154, 52.614026477488444], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ADDRESS\": \"Ashmore Park Community Hub, 82 Griffiths Drive, Wednesfield, Wolverhampton, WV112LH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"FHA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS34\", \"OBJECTID\": 101, \"OBJECTID_1\": 100, \"POSTCODE\": \" WV112LH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN5\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 396123.086171, \"Y\": 301807.467028}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.0586919547757154, 52.614026477488444], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ADDRESS\": \"Ashmore Park Community Hub, 82 Griffiths Drive, Wednesfield, Wolverhampton, WV112LH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"FHA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS34\", \"OBJECTID\": 101, \"OBJECTID_1\": 100, \"POSTCODE\": \"WV11 2LH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN5\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 396123.086171, \"Y\": 301807.467028}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Alban`s CE Primary School, St Alban`s Close, Wednesfield, Wolverhampton, WV11\u00a02PF",
@@ -2163,21 +2003,21 @@
         "ADDRESS": "Wednesfield Community Centre, Well Lane, Wednesfield, Wolverhampton, WV11\u00a01XT",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
-        "DATE_UPDAT": 1455667200000,
-        "DIS_CODE": "GIA",
-        "ELECTION": "City Council 5th May 2016",
+        "DATE_UPDAT": 1553644800000,
+        "DIS_CODE": "DJA, GIA",
+        "ELECTION": "02 May 2019",
         "KEYVAL": "PS42",
         "OBJECTID": 110,
         "OBJECTID_1": 109,
         "POSTCODE": "WV11\u00a01XT",
-        "PURPOSE": "Designated Polling Station",
-        "STA_CODE": "WS7",
+        "PURPOSE": "Sharied Polling Station - Wed South and Heath Town",
+        "STA_CODE": "HT6, WS7",
         "UPDATED_BY": "David Scandrett",
         "WARD": "Wednesfield South",
         "X": 394393.916815,
         "Y": 300052.651867,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.084199710568024, 52.59823565752844], \"type\": \"Point\"}, \"id\": 110, \"properties\": {\"ADDRESS\": \"Wednesfield Community Centre, Well Lane, Wednesfield, Wolverhampton, WV11\\u00a01XT\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1455667200000, \"DIS_CODE\": \"GIA\", \"ELECTION\": \"City Council 5th May 2016\", \"KEYVAL\": \"PS42\", \"OBJECTID\": 110, \"OBJECTID_1\": 109, \"POSTCODE\": \"WV11\\u00a01XT\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WS7\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield South\", \"X\": 394393.916815, \"Y\": 300052.651867}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.084199710568024, 52.59823565752844], \"type\": \"Point\"}, \"id\": 110, \"properties\": {\"ADDRESS\": \"Wednesfield Community Centre, Well Lane, Wednesfield, Wolverhampton, WV11\\u00a01XT\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1553644800000, \"DIS_CODE\": \"DJA, GIA\", \"ELECTION\": \"02 May 2019\", \"KEYVAL\": \"PS42\", \"OBJECTID\": 110, \"OBJECTID_1\": 109, \"POSTCODE\": \"WV11\\u00a01XT\", \"PURPOSE\": \"Sharied Polling Station - Wed South and Heath Town\", \"STA_CODE\": \"HT6, WS7\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield South\", \"X\": 394393.916815, \"Y\": 300052.651867}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Priory Green Community Hub, Whitburn Close, Wolverhampton, WV9\u00a05NJ",
