@@ -1494,21 +1494,21 @@
         "pk": "Polling Stations.94"
     },
     {
-        "ADDRESS_1": "Kenworthy Road",
+        "ADDRESS_1": "2A Wick Road",
         "ADDRESS_2": null,
         "ENTRANCE": null,
         "GMAP_URL": null,
         "ID": "HSRA",
         "MI_PRINX": 95,
         "MI_STYLE": null,
-        "NAME": "St. Dominic's Church Hall",
+        "NAME": "Gascoyne Estate 2 Community Hall",
         "NEW": null,
         "PDN": 70,
-        "POSTCODE": "E9 5RA",
-        "UPRN": 100023020528,
+        "POSTCODE": "E9 5AY",
+        "UPRN": 10008244238,
         "WARD": "Hackney Wick",
         "council_id": "E09000012",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.03639876, 51.54543598], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.95\", \"properties\": {\"ADDRESS_1\": \"Kenworthy Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSRA\", \"MI_PRINX\": 95, \"MI_STYLE\": null, \"NAME\": \"St. Dominic's Church Hall\", \"NEW\": null, \"PDN\": 70, \"POSTCODE\": \"E9 5RA\", \"UPRN\": 100023020528, \"WARD\": \"Hackney Wick\", \"bbox\": [-0.03639876, 51.54543598, -0.03639876, 51.54543598]}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.04459303, 51.54470958], \"type\": \"Point\"}, \"geometry_name\": \"GEOLOC\", \"id\": \"Polling Stations.95\", \"properties\": {\"ADDRESS_1\": \"2A Wick Road\", \"ADDRESS_2\": null, \"ENTRANCE\": null, \"GMAP_URL\": null, \"ID\": \"HSRA\", \"MI_PRINX\": 95, \"MI_STYLE\": null, \"NAME\": \"Gascoyne Estate 2 Community Hall\", \"NEW\": null, \"PDN\": 70, \"POSTCODE\": \"E9 5AY\", \"UPRN\": 10008244238, \"WARD\": \"Hackney Wick\", \"bbox\": [-0.04459303, 51.54470958, -0.04459303, 51.54470958]}, \"type\": \"Feature\"}",
         "pk": "Polling Stations.95"
     }
 ]
