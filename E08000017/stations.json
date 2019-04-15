@@ -190,14 +190,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1922697763812076, 53.48520428767086], \"type\": \"Point\"}, \"id\": 938, \"properties\": {\"ADDRESS\": \"St John the Baptist Church, St Johns Road, DN121AX\", \"OBJECTID\": 938, \"POLLINGPLA\": \"St John the Baptist Church, St Johns Road, DN121AX\", \"POLLING_DI\": \"HA\", \"UPRN\": \"010006617564\", \"WARD\": \"Edlington and Warmsworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Stubbins Hill Community Centre, Stubbins Hill, DN121JN",
+        "ADDRESS": "The Grainger Centre, Stubbins Hill, DN12 1JN",
         "OBJECTID": 939,
-        "POLLINGPLA": "Stubbins Hill Community Centre, Stubbins Hill, DN121JN",
+        "POLLINGPLA": "The Grainger Centre, Stubbins Hill, DN12 1JN",
         "POLLING_DI": "HB",
         "UPRN": "010006621455",
         "WARD": "Edlington and Warmsworth Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1883614113860403, 53.4806806760669], \"type\": \"Point\"}, \"id\": 939, \"properties\": {\"ADDRESS\": \"Stubbins Hill Community Centre, Stubbins Hill, DN121JN\", \"OBJECTID\": 939, \"POLLINGPLA\": \"Stubbins Hill Community Centre, Stubbins Hill, DN121JN\", \"POLLING_DI\": \"HB\", \"UPRN\": \"010006621455\", \"WARD\": \"Edlington and Warmsworth Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1883614113860403, 53.4806806760669], \"type\": \"Point\"}, \"id\": 939, \"properties\": {\"ADDRESS\": \"The Grainger Centre, Stubbins Hill, DN12 1JN\", \"OBJECTID\": 939, \"POLLINGPLA\": \"The Grainger Centre, Stubbins Hill, DN12 1JN\", \"POLLING_DI\": \"HB\", \"UPRN\": \"010006621455\", \"WARD\": \"Edlington and Warmsworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Howbeck Drive Community Centre, Howbeck Drive, DN121RH",
@@ -490,14 +490,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.069306087060842, 53.53905783826], \"type\": \"Point\"}, \"id\": 968, \"properties\": {\"ADDRESS\": \"Charles Court Extra Care Home, Charles Crescent, DN3 2AQ\", \"OBJECTID\": 968, \"POLLINGPLA\": \"Charles Court Extra Care Home, Charles Crescent, DN3 2AQ\", \"POLLING_DI\": \"FF\", \"UPRN\": \"010006618113\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Armthorpe Youth Centre, Mere Lane, Armthorpe, DN3 2BZ",
+        "ADDRESS": "Armthorpe Academy, Mere Lane, DN3 2DA",
         "OBJECTID": 969,
-        "POLLINGPLA": "Armthorpe Youth Centre, Mere Lane, Armthorpe, DN3 2BZ",
+        "POLLINGPLA": "Armthorpe Academy, Mere Lane, DN3 2DA",
         "POLLING_DI": "FA",
         "UPRN": "100051973231",
         "WARD": "Armthorpe Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0610390022791494, 53.53964940424166], \"type\": \"Point\"}, \"id\": 969, \"properties\": {\"ADDRESS\": \"Armthorpe Youth Centre, Mere Lane, Armthorpe, DN3 2BZ\", \"OBJECTID\": 969, \"POLLINGPLA\": \"Armthorpe Youth Centre, Mere Lane, Armthorpe, DN3 2BZ\", \"POLLING_DI\": \"FA\", \"UPRN\": \"100051973231\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0610390022791494, 53.53964940424166], \"type\": \"Point\"}, \"id\": 969, \"properties\": {\"ADDRESS\": \"Armthorpe Academy, Mere Lane, DN3 2DA\", \"OBJECTID\": 969, \"POLLINGPLA\": \"Armthorpe Academy, Mere Lane, DN3 2DA\", \"POLLING_DI\": \"FA\", \"UPRN\": \"100051973231\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Maple Grove Communal Hall, Maple Grove, DN3 2EQ",
@@ -830,14 +830,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.146850763985814, 53.54658424975384], \"type\": \"Point\"}, \"id\": 1002, \"properties\": {\"ADDRESS\": \"Bentley Methodist Church Hall, Chapel Street, DN5 0DE\", \"OBJECTID\": 1002, \"POLLINGPLA\": \"Bentley Methodist Church Hall, Chapel Street, DN5 0DE\", \"POLLING_DI\": \"NF\", \"UPRN\": \"010006629490\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Jet Social Club, Arthur Avenue, Bentley, Doncaster, DN5 0PN",
+        "ADDRESS": "St Philips And St James Church, Victoria Road, DN5 0EZ",
         "OBJECTID": 1003,
-        "POLLINGPLA": "Jet Social Club, Arthur Avenue, Bentley, Doncaster, DN5 0PN",
+        "POLLINGPLA": "St Philips And St James Church, Victoria Road, DN5 0EZ",
         "POLLING_DI": "NE",
         "UPRN": "010006623711",
         "WARD": "Bentley Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1401608561839756, 53.5544249115286], \"type\": \"Point\"}, \"id\": 1003, \"properties\": {\"ADDRESS\": \"Jet Social Club, Arthur Avenue, Bentley, Doncaster, DN5 0PN\", \"OBJECTID\": 1003, \"POLLINGPLA\": \"Jet Social Club, Arthur Avenue, Bentley, Doncaster, DN5 0PN\", \"POLLING_DI\": \"NE\", \"UPRN\": \"010006623711\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1433940610690139, 53.5564263306143], \"type\": \"Point\"}, \"id\": 1003, \"properties\": {\"ADDRESS\": \"St Philips And St James Church, Victoria Road, DN5 0EZ\", \"OBJECTID\": 1003, \"POLLINGPLA\": \"St Philips And St James Church, Victoria Road, DN5 0EZ\", \"POLLING_DI\": \"NE\", \"UPRN\": \"010006623711\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Villa Gardens Community Centre, Villa Gardens, DN5 0LG",
@@ -1360,14 +1360,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0184866297335295, 53.56701101538733], \"type\": \"Point\"}, \"id\": 1055, \"properties\": {\"ADDRESS\": \"Dunsville Primary School, Broadway, DN7 4HX\", \"OBJECTID\": 1055, \"POLLINGPLA\": \"Dunsville Primary School, Broadway, DN7 4HX\", \"POLLING_DI\": \"LB\", \"UPRN\": \"010006576584\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Stainforth Pavilion, Church Road, Stainforth, Doncaster, DN7 5AA",
+        "ADDRESS": "Stainforth Youth Centre, Church Road, DN7 5AA",
         "OBJECTID": 1056,
-        "POLLINGPLA": "Stainforth Pavilion, Church Road, Stainforth, Doncaster, DN7 5AA",
+        "POLLINGPLA": "Stainforth Youth Centre, Church Road, DN7 5AA",
         "POLLING_DI": "RB",
         "UPRN": "010006577236",
         "WARD": "Stainforth and Barnby Dun Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.034816287545215, 53.595130037958135], \"type\": \"Point\"}, \"id\": 1056, \"properties\": {\"ADDRESS\": \"Stainforth Pavilion, Church Road, Stainforth, Doncaster, DN7 5AA\", \"OBJECTID\": 1056, \"POLLINGPLA\": \"Stainforth Pavilion, Church Road, Stainforth, Doncaster, DN7 5AA\", \"POLLING_DI\": \"RB\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0322224899343526, 53.59688575653706], \"type\": \"Point\"}, \"id\": 1056, \"properties\": {\"ADDRESS\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"OBJECTID\": 1056, \"POLLINGPLA\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"POLLING_DI\": \"RB\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Holy Family Junior & Infant School, Kirton Lane, DN7 5BL",
@@ -1380,24 +1380,24 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.019334503068997, 53.60046205212009], \"type\": \"Point\"}, \"id\": 1057, \"properties\": {\"ADDRESS\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"OBJECTID\": 1057, \"POLLINGPLA\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"POLLING_DI\": \"RA\", \"UPRN\": \"010006577227\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Our Lady of Assumption Church Hall, East Lane, Stainforth, Doncaster, DN7 5EZ",
+        "ADDRESS": "Stainforth Methodist Church, Church Road, Stainforth, DN7 5NS",
         "OBJECTID": 1058,
-        "POLLINGPLA": "Our Lady of Assumption Church Hall, East Lane, Stainforth, Doncaster, DN7 5EZ",
+        "POLLINGPLA": "Stainforth Methodist Church, Church Road, Stainforth, DN7 5NS",
         "POLLING_DI": "RC",
         "UPRN": "010006617622",
         "WARD": "Stainforth and Barnby Dun Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0233089161014974, 53.5952429213744], \"type\": \"Point\"}, \"id\": 1058, \"properties\": {\"ADDRESS\": \"Our Lady of Assumption Church Hall, East Lane, Stainforth, Doncaster, DN7 5EZ\", \"OBJECTID\": 1058, \"POLLINGPLA\": \"Our Lady of Assumption Church Hall, East Lane, Stainforth, Doncaster, DN7 5EZ\", \"POLLING_DI\": \"RC\", \"UPRN\": \"010006617622\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.030162482884239, 53.5951444849448], \"type\": \"Point\"}, \"id\": 1058, \"properties\": {\"ADDRESS\": \"Stainforth Methodist Church, Church Road, Stainforth, DN7 5NS\", \"OBJECTID\": 1058, \"POLLINGPLA\": \"Stainforth Methodist Church, Church Road, Stainforth, DN7 5NS\", \"POLLING_DI\": \"RC\", \"UPRN\": \"010006617622\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Junction of Trundle Lane & Far Bank Lane, Fishlake, Doncaster, DN7 5LP",
+        "ADDRESS": "Fishlake Village Hall, Pinfold Lane, Fishlake, DN7 5JS",
         "OBJECTID": 1059,
-        "POLLINGPLA": "Portable Unit, Junction of Trundle Lane & Far Bank Lane, Fishlake, Doncaster, DN7 5LP",
+        "POLLINGPLA": "Fishlake Village Hall, Pinfold Lane, Fishlake, DN7 5JS",
         "POLLING_DI": "PK",
         "UPRN": "010006579587",
         "WARD": "Norton and Askern Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0182456306484018, 53.61271958652373], \"type\": \"Point\"}, \"id\": 1059, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Trundle Lane & Far Bank Lane, Fishlake, Doncaster, DN7 5LP\", \"OBJECTID\": 1059, \"POLLINGPLA\": \"Portable Unit, Junction of Trundle Lane & Far Bank Lane, Fishlake, Doncaster, DN7 5LP\", \"POLLING_DI\": \"PK\", \"UPRN\": \"010006579587\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0116317889344975, 53.61162233867639], \"type\": \"Point\"}, \"id\": 1059, \"properties\": {\"ADDRESS\": \"Fishlake Village Hall, Pinfold Lane, Fishlake, DN7 5JS\", \"OBJECTID\": 1059, \"POLLINGPLA\": \"Fishlake Village Hall, Pinfold Lane, Fishlake, DN7 5JS\", \"POLLING_DI\": \"PK\", \"UPRN\": \"010006579587\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Anfield, Low Lane, DN7 5SS",
@@ -1580,14 +1580,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0217929566116406, 53.48976184865114], \"type\": \"Point\"}, \"id\": 1077, \"properties\": {\"ADDRESS\": \"Hayfield Lane Primary School, Hayfield Lane, DN9 3NB\", \"OBJECTID\": 1077, \"POLLINGPLA\": \"Hayfield Lane Primary School, Hayfield Lane, DN9 3NB\", \"POLLING_DI\": \"KF\", \"UPRN\": \"010006570783\", \"WARD\": \"Finningley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Army Reserve Centre, Danum Road, VDN00508",
+        "ADDRESS": "Mary Woollett, Danum Road, DN4 5HF",
         "OBJECTID": 1078,
-        "POLLINGPLA": "Army Reserve Centre, Danum Road, VDN00508",
+        "POLLINGPLA": "Mary Woollett, Danum Road, DN4 5HF",
         "POLLING_DI": "CD",
         "UPRN": "200002732430",
         "WARD": "Town Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.11577822125235, 53.51822408301685], \"type\": \"Point\"}, \"id\": 1078, \"properties\": {\"ADDRESS\": \"Army Reserve Centre, Danum Road, VDN00508\", \"OBJECTID\": 1078, \"POLLINGPLA\": \"Army Reserve Centre, Danum Road, VDN00508\", \"POLLING_DI\": \"CD\", \"UPRN\": \"200002732430\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1150154499385483, 53.5179849489033], \"type\": \"Point\"}, \"id\": 1078, \"properties\": {\"ADDRESS\": \"Mary Woollett, Danum Road, DN4 5HF\", \"OBJECTID\": 1078, \"POLLINGPLA\": \"Mary Woollett, Danum Road, DN4 5HF\", \"POLLING_DI\": \"CD\", \"UPRN\": \"200002732430\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Park Primary School, Foundation Stage Unit, Monmouth Road, VDN00522",
