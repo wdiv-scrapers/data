@@ -904,19 +904,19 @@
         "register": "EL"
     },
     {
-        "address": "Tygwyn Community Church, 83 New Road, Llanelli",
+        "address": "The Lantern Centre, Hall Street, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.168628689320409, 51.68762357734534], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 113, \"properties\": {\"address\": \"Tygwyn Community Church, 83 New Road, Llanelli                                                                                                                                                                                                            \", \"postcode\": \"SA15 3DS \", \"register\": \"ELL-A                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.163325746874994, 51.68431010009959], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 113, \"properties\": {\"address\": \"The Lantern Centre, Hall Street, Llanelli                                                                                                                                                                                                                 \", \"postcode\": \"SA15 3BB \", \"register\": \"ELL-A                    \"}, \"type\": \"Feature\"}",
         "pk": 113,
-        "postcode": "SA15 3DS",
+        "postcode": "SA15 3BB",
         "register": "ELL-A"
     },
     {
-        "address": "Tygwyn Community Church, 83 New Road, Llanelli",
+        "address": "The Lantern Centre, Hall Street, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.168628689320409, 51.68762357734534], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 114, \"properties\": {\"address\": \"Tygwyn Community Church, 83 New Road, Llanelli                                                                                                                                                                                                            \", \"postcode\": \"SA15 3DS \", \"register\": \"ELL-B                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.163326896372668, 51.684310582105475], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 114, \"properties\": {\"address\": \"The Lantern Centre, Hall Street, Llanelli                                                                                                                                                                                                                 \", \"postcode\": \"SA15 3BB \", \"register\": \"ELL-B                    \"}, \"type\": \"Feature\"}",
         "pk": 114,
-        "postcode": "SA15 3DS",
+        "postcode": "SA15 3BB",
         "register": "ELL-B"
     },
     {
@@ -968,9 +968,9 @@
         "register": "EQ"
     },
     {
-        "address": "Young Farmers Hall, Heol Bethlehem, Llandeilo",
+        "address": "Young Farmers Hall, Heol Bethlehem, Ffairfach, Llandeilo",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.9930198551478027, 51.87523441382288], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 121, \"properties\": {\"address\": \"Young Farmers Hall, Heol Bethlehem, Llandeilo                                                                                                                                                                                                             \", \"postcode\": \"SA19 6SY \", \"register\": \"ER                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.9930198551478027, 51.87523441382288], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 121, \"properties\": {\"address\": \"Young Farmers Hall, Heol Bethlehem, Ffairfach, Llandeilo                                                                                                                                                                                                  \", \"postcode\": \"SA19 6SY \", \"register\": \"ER                       \"}, \"type\": \"Feature\"}",
         "pk": 121,
         "postcode": "SA19 6SY",
         "register": "ER"
@@ -1018,9 +1018,9 @@
     {
         "address": "Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.039084105490849, 51.781978604407854], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 127, \"properties\": {\"address\": \"Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford                                                                                                                                                                                                 \", \"postcode\": null, \"register\": \"EXC                      \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.039084105490849, 51.781978604407854], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 127, \"properties\": {\"address\": \"Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford                                                                                                                                                                                                 \", \"postcode\": \"SA18 3LF \", \"register\": \"EXC                      \"}, \"type\": \"Feature\"}",
         "pk": 127,
-        "postcode": null,
+        "postcode": "SA18 3LF",
         "register": "EXC"
     },
     {
@@ -1040,11 +1040,11 @@
         "register": "EY"
     },
     {
-        "address": "Welfare Hall, Heol y Deri, Cwmgwili",
+        "address": "Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.070090110412372, 51.77477592066582], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 130, \"properties\": {\"address\": \"Welfare Hall, Heol y Deri, Cwmgwili                                                                                                                                                                                                                       \", \"postcode\": \"SA14 6PP \", \"register\": \"EZ                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.039084120954696, 51.7819787471622], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 130, \"properties\": {\"address\": \"Capel Hendre Vestry, Hendre Road, Capel Hendre, Ammanford                                                                                                                                                                                                 \", \"postcode\": \"SA18 3LF \", \"register\": \"EZ                       \"}, \"type\": \"Feature\"}",
         "pk": 130,
-        "postcode": "SA14 6PP",
+        "postcode": "SA18 3LF",
         "register": "EZ"
     },
     {
@@ -1088,9 +1088,9 @@
         "register": "FE"
     },
     {
-        "address": "Portakabin, Felinfoel Community Resource Centre, Felinfoel, Llanelli",
+        "address": "Ysgol y Felin, Ynyswen, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.142618764227903, 51.69745429357227], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 136, \"properties\": {\"address\": \"Portakabin, Felinfoel Community Resource Centre, Felinfoel, Llanelli                                                                                                                                                                                      \", \"postcode\": \"SA14 8BE \", \"register\": \"FEL-A                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.1401111371983985, 51.69527266734772], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 136, \"properties\": {\"address\": \"Ysgol y Felin, Ynyswen, Llanelli                                                                                                                                                                                                                          \", \"postcode\": \"SA14 8BE \", \"register\": \"FEL-A                    \"}, \"type\": \"Feature\"}",
         "pk": 136,
         "postcode": "SA14 8BE",
         "register": "FEL-A"
@@ -1432,27 +1432,27 @@
         "register": "PEM-A"
     },
     {
-        "address": "The Library",
+        "address": "The Library, Heol Elfed, Llwynhendy, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.12107299168045, 51.681756881088816], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 179, \"properties\": {\"address\": \"The Library                                                                                                                                                                                                                                               \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-B                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.12107299168045, 51.681756881088816], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 179, \"properties\": {\"address\": \"The Library, Heol Elfed, Llwynhendy, Llanelli                                                                                                                                                                                                             \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-B                    \"}, \"type\": \"Feature\"}",
         "pk": 179,
         "postcode": "SA14 9HH",
         "register": "PEM-B"
     },
     {
-        "address": "Smiths Arms, Gelli Road, Llanelli",
+        "address": "Portacabin in car park at Brycoch Stores",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.124701995118223, 51.68480271493744], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 180, \"properties\": {\"address\": \"Smiths Arms, Gelli Road, Llanelli                                                                                                                                                                                                                         \", \"postcode\": \"SA14 9AA \", \"register\": \"PEM-C                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.123435897476662, 51.685758852834496], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 180, \"properties\": {\"address\": \"Portacabin in car park at Brycoch Stores                                                                                                                                                                                                                  \", \"postcode\": \"SA14 8RE \", \"register\": \"PEM-C                    \"}, \"type\": \"Feature\"}",
         "pk": 180,
-        "postcode": "SA14 9AA",
+        "postcode": "SA14 8RE",
         "register": "PEM-C"
     },
     {
-        "address": "Smiths Arms, Gelli Road, Llanelli",
+        "address": "Portacabin in car park at Brycoch Stores",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.124701995118223, 51.68480271493744], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 181, \"properties\": {\"address\": \"Smiths Arms, Gelli Road, Llanelli                                                                                                                                                                                                                         \", \"postcode\": \"SA14 9AA \", \"register\": \"PEM-D                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.123435897476662, 51.685758852834496], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 181, \"properties\": {\"address\": \"Portacabin in car park at Brycoch Stores                                                                                                                                                                                                                  \", \"postcode\": \"SA14 8RE \", \"register\": \"PEM-D                    \"}, \"type\": \"Feature\"}",
         "pk": 181,
-        "postcode": "SA14 9AA",
+        "postcode": "SA14 8RE",
         "register": "PEM-D"
     },
     {
