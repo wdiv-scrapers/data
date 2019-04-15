@@ -48,11 +48,11 @@
         "register": "AE"
     },
     {
-        "address": "Carmarthen Community Education Centre, Furnace Road, Carmarthen",
+        "address": "Carmarthen Library, Lower Ground, St Peters Street",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.304071061502991, 51.85871159400572], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 6, \"properties\": {\"address\": \"Carmarthen Community Education Centre, Furnace Road, Carmarthen                                                                                                                                                                                           \", \"postcode\": \"SA31 1EU \", \"register\": \"AF                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.303496394944266, 51.858220520459625], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 6, \"properties\": {\"address\": \"Carmarthen Library, Lower Ground, St Peters Street                                                                                                                                                                                                        \", \"postcode\": \"SA31 1LN \", \"register\": \"AF                       \"}, \"type\": \"Feature\"}",
         "pk": 6,
-        "postcode": "SA31 1EU",
+        "postcode": "SA31 1LN",
         "register": "AF"
     },
     {
@@ -80,11 +80,11 @@
         "register": "AI"
     },
     {
-        "address": "Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen",
+        "address": "Carmarthen Athletic Club, Alltycnap Road, Johnstown",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.329974846727415, 51.85214008348403], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 10, \"properties\": {\"address\": \"Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen                                                                                                                                                                                       \", \"postcode\": \"SA31 3JF \", \"register\": \"AJ                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.3289042017575765, 51.84825603793186], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 10, \"properties\": {\"address\": \"Carmarthen Athletic Club, Alltycnap Road, Johnstown                                                                                                                                                                                                       \", \"postcode\": \"SA31 3QY \", \"register\": \"AJ                       \"}, \"type\": \"Feature\"}",
         "pk": 10,
-        "postcode": "SA31 3JF",
+        "postcode": "SA31 3QY",
         "register": "AJ"
     },
     {
@@ -96,11 +96,11 @@
         "register": "AK"
     },
     {
-        "address": "Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen",
+        "address": "Carmarthen Athletic Club, Alltycnap Road, Johnstown",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.329974846727415, 51.85214008348403], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 12, \"properties\": {\"address\": \"Bethel Christian Church, Old St. Clears Road, Johnstown, Carmarthen                                                                                                                                                                                       \", \"postcode\": \"SA31 3JF \", \"register\": \"AL                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.3289033849624, 51.84825605411212], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 12, \"properties\": {\"address\": \"Carmarthen Athletic Club, Alltycnap Road, Johnstown                                                                                                                                                                                                       \", \"postcode\": \"SA31 3QY \", \"register\": \"AL                       \"}, \"type\": \"Feature\"}",
         "pk": 12,
-        "postcode": "SA31 3JF",
+        "postcode": "SA31 3QY",
         "register": "AL"
     },
     {
@@ -466,17 +466,17 @@
     {
         "address": "Trallwm Community Hall, Amanwy, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.115189277794249, 51.6811258451869], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 58, \"properties\": {\"address\": \"Trallwm Community Hall, Amanwy, Llanelli                                                                                                                                                                                                                  \", \"postcode\": \"SA14 9ET \", \"register\": \"BYN-B                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.115189277794249, 51.6811258451869], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 58, \"properties\": {\"address\": \"Trallwm Community Hall, Amanwy, Llanelli                                                                                                                                                                                                                  \", \"postcode\": \"SA14 9AH \", \"register\": \"BYN-B                    \"}, \"type\": \"Feature\"}",
         "pk": 58,
-        "postcode": "SA14 9ET",
+        "postcode": "SA14 9AH",
         "register": "BYN-B"
     },
     {
-        "address": "Llwynhendy Community Centre, Llwynhendy Road, Llanelli",
+        "address": "Trallwm Community Hall, Amanwy, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.118666358533346, 51.67854504430469], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 59, \"properties\": {\"address\": \"Llwynhendy Community Centre, Llwynhendy Road, Llanelli                                                                                                                                                                                                    \", \"postcode\": \"SA14 9DP \", \"register\": \"BYN-C                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.1151895443526305, 51.68112344356753], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 59, \"properties\": {\"address\": \"Trallwm Community Hall, Amanwy, Llanelli                                                                                                                                                                                                                  \", \"postcode\": \"SA14 9AH \", \"register\": \"BYN-C                    \"}, \"type\": \"Feature\"}",
         "pk": 59,
-        "postcode": "SA14 9DP",
+        "postcode": "SA14 9AH",
         "register": "BYN-C"
     },
     {
@@ -584,11 +584,11 @@
         "register": "CK"
     },
     {
-        "address": "Portakabin, Chapel Car Park, Cwmfelin Mynach",
+        "address": "Llanwinio Community Hall, Llanwinio",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.573630383096059, 51.89437559832031], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 73, \"properties\": {\"address\": \"Portakabin, Chapel Car Park, Cwmfelin Mynach                                                                                                                                                                                                              \", \"postcode\": \"SA34 0DH \", \"register\": \"CL                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.5296311360866595, 51.90882485219855], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 73, \"properties\": {\"address\": \"Llanwinio Community Hall, Llanwinio                                                                                                                                                                                                                       \", \"postcode\": \"SA34 0DS \", \"register\": \"CL                       \"}, \"type\": \"Feature\"}",
         "pk": 73,
-        "postcode": "SA34 0DH",
+        "postcode": "SA34 0DS",
         "register": "CL"
     },
     {
@@ -648,11 +648,11 @@
         "register": "CRO-A"
     },
     {
-        "address": "Welfare Hall, Heol y Deri, Cwmgwili",
+        "address": "St. Anne's Church Hall, Heol Bryngwili, Cross Hands",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.070090110412372, 51.77477592066582], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 81, \"properties\": {\"address\": \"Welfare Hall, Heol y Deri, Cwmgwili                                                                                                                                                                                                                       \", \"postcode\": \"SA14 6PP \", \"register\": \"CRO-B                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.088602987339568, 51.79309802748835], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 81, \"properties\": {\"address\": \"St. Anne's Church Hall, Heol Bryngwili, Cross Hands                                                                                                                                                                                                       \", \"postcode\": \"         \", \"register\": \"CRO-B                    \"}, \"type\": \"Feature\"}",
         "pk": 81,
-        "postcode": "SA14 6PP",
+        "postcode": "",
         "register": "CRO-B"
     },
     {
@@ -672,11 +672,11 @@
         "register": "CT"
     },
     {
-        "address": "The Coffee Shop, Pendine, Carmarthen",
+        "address": "Barnacles Beach Caf\u00e9, Sea View, Pendine",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.560359638364124, 51.74236229763826], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 84, \"properties\": {\"address\": \"The Coffee Shop, Pendine, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA33 4PA \", \"register\": \"CW                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.557331021283134, 51.742179126697685], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 84, \"properties\": {\"address\": \"Barnacles Beach Caf\\u00e9, Sea View, Pendine                                                                                                                                                                                                                   \", \"postcode\": \"SA33 4NY \", \"register\": \"CW                       \"}, \"type\": \"Feature\"}",
         "pk": 84,
-        "postcode": "SA33 4PA",
+        "postcode": "SA33 4NY",
         "register": "CW"
     },
     {
@@ -704,11 +704,11 @@
         "register": "CZ"
     },
     {
-        "address": "English Congregational Vestry, Iscennen Road, Ammanford",
+        "address": "Dinefwr Indoor Bowls Centre, Manor Road, Ammanford",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.9913940420962386, 51.79379014864872], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 88, \"properties\": {\"address\": \"English Congregational Vestry, Iscennen Road, Ammanford                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"D                        \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.996794860503963, 51.791235549628915], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 88, \"properties\": {\"address\": \"Dinefwr Indoor Bowls Centre, Manor Road, Ammanford                                                                                                                                                                                                        \", \"postcode\": \"SA18 3AP \", \"register\": \"D                        \"}, \"type\": \"Feature\"}",
         "pk": 88,
-        "postcode": null,
+        "postcode": "SA18 3AP",
         "register": "D"
     },
     {
@@ -776,11 +776,11 @@
         "register": "DE-C"
     },
     {
-        "address": "Alma Community Centre, Meidrim, Carmarthen",
+        "address": "Trelech Community Centre, Trelech, Carmarthen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.471450904969487, 51.896519108088135], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 97, \"properties\": {\"address\": \"Alma Community Centre, Meidrim, Carmarthen                                                                                                                                                                                                                \", \"postcode\": \"SA33 5PS \", \"register\": \"DF-C                     \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.500328527700438, 51.945482992386204], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 97, \"properties\": {\"address\": \"Trelech Community Centre, Trelech, Carmarthen                                                                                                                                                                                                             \", \"postcode\": \"SA33 6RU \", \"register\": \"DF-C                     \"}, \"type\": \"Feature\"}",
         "pk": 97,
-        "postcode": "SA33 5PS",
+        "postcode": "SA33 6RU",
         "register": "DF-C"
     },
     {
