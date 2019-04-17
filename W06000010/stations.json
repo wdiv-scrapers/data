@@ -952,19 +952,19 @@
         "register": "EO"
     },
     {
-        "address": "Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery",
+        "address": "Neuadd Arms, Cilycwm, Llandoveryi SA20 0ST",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.8201397626810736, 52.043144183057834], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 119, \"properties\": {\"address\": \"Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"EP                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.819602238208965, 52.044464904823236], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 119, \"properties\": {\"address\": \"Neuadd Arms, Cilycwm, Llandoveryi SA20 0ST                                                                                                                                                                                                                \", \"postcode\": \"SA20 0ST \", \"register\": \"EP                       \"}, \"type\": \"Feature\"}",
         "pk": 119,
-        "postcode": null,
+        "postcode": "SA20 0ST",
         "register": "EP"
     },
     {
-        "address": "Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery",
+        "address": "Neuadd Arms, Cilycwm, Llandoveryi SA20 0ST",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.8201397626810736, 52.043144183057834], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 120, \"properties\": {\"address\": \"Portakabin opposite Cilycwm VC School, Cilycwm, Llandovery                                                                                                                                                                                                \", \"postcode\": null, \"register\": \"EQ                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.819602212564231, 52.044464905219414], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 120, \"properties\": {\"address\": \"Neuadd Arms, Cilycwm, Llandoveryi SA20 0ST                                                                                                                                                                                                                \", \"postcode\": \"SA20 0ST \", \"register\": \"EQ                       \"}, \"type\": \"Feature\"}",
         "pk": 120,
-        "postcode": null,
+        "postcode": "SA20 0ST",
         "register": "EQ"
     },
     {
