@@ -1980,13 +1980,13 @@
         "OBJECTID": 117,
         "PAO": "The Woodlands Christian Centre",
         "POLLING_DISTRICT": "CENA",
-        "POSTCODE": "BS8 2AD",
+        "POSTCODE": "BS8 2AA",
         "SAON": "",
-        "STREET": "Woodland Road",
+        "STREET": "Belgrave Road",
         "UPRN": 280235,
         "UPRN_2": "000000280235",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6052078290506793, 51.46014426957457], \"type\": \"Point\"}, \"id\": 117, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Clifton\", \"LOCATION_NAME\": \"The Woodlands Christian Centre\", \"OBJECTID\": 117, \"PAO\": \"The Woodlands Christian Centre\", \"POLLING_DISTRICT\": \"CENA\", \"POSTCODE\": \"BS8 2AD\", \"SAON\": \" \", \"STREET\": \"Woodland Road\", \"UPRN\": 280235, \"UPRN_2\": \"000000280235\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6057005434407516, 51.461714909994754], \"type\": \"Point\"}, \"id\": 117, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Clifton\", \"LOCATION_NAME\": \"The Woodlands Christian Centre\", \"OBJECTID\": 117, \"PAO\": \"The Woodlands Christian Centre\", \"POLLING_DISTRICT\": \"CENA\", \"POSTCODE\": \"BS8 2AA\", \"SAON\": \" \", \"STREET\": \"Belgrave Road\", \"UPRN\": 280235, \"UPRN_2\": \"000000280235\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2432,8 +2432,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by STWE and STWF",
+        "DUAL": "No",
+        "DUAL_STN": null,
         "LOCALITY": "Stockwood",
         "LOCATION_NAME": "Stockwood Free Church",
         "OBJECTID": 144,
@@ -2445,7 +2445,7 @@
         "UPRN": 159907,
         "UPRN_2": "000000347600",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5416388484245926, 51.412873926767354], \"type\": \"Point\"}, \"id\": 144, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by STWE and STWF\", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Stockwood Free Church\", \"OBJECTID\": 144, \"PAO\": \"Stockwood Free Church\", \"POLLING_DISTRICT\": \"STWF\", \"POSTCODE\": \"BS14 8QA\", \"SAON\": \" \", \"STREET\": \"Ladman Road\", \"UPRN\": 159907, \"UPRN_2\": \"000000347600\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5416388484245926, 51.412873926767354], \"type\": \"Point\"}, \"id\": 144, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Stockwood Free Church\", \"OBJECTID\": 144, \"PAO\": \"Stockwood Free Church\", \"POLLING_DISTRICT\": \"STWF\", \"POSTCODE\": \"BS14 8QA\", \"SAON\": \" \", \"STREET\": \"Ladman Road\", \"UPRN\": 159907, \"UPRN_2\": \"000000347600\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2939,5 +2939,22 @@
         "UPRN_2": "000000258612",
         "council_id": "E06000023",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.533208992470459, 51.479064669108396], \"type\": \"Point\"}, \"id\": 173, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Fishponds\", \"LOCATION_NAME\": \"Former Fishponds Library\", \"OBJECTID\": 173, \"PAO\": \"Former Fishponds Library\", \"POLLING_DISTRICT\": \"FRVF\", \"POSTCODE\": \"BS16 3UH\", \"SAON\": null, \"STREET\": \"Fishponds Road\", \"UPRN\": 258612, \"UPRN_2\": \"000000258612\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": "",
+        "DUAL": "No",
+        "DUAL_STN": "",
+        "LOCALITY": "Stockwood",
+        "LOCATION_NAME": "Stockwood Library",
+        "OBJECTID": 174,
+        "PAO": "Stockwood Library",
+        "POLLING_DISTRICT": "STWD",
+        "POSTCODE": "BS14 8DQ",
+        "SAON": "",
+        "STREET": "Stockwood Road",
+        "UPRN": 159907,
+        "UPRN_2": "000000159907",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5472177895812576, 51.41267111149144], \"type\": \"Point\"}, \"id\": 174, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Stockwood Library\", \"OBJECTID\": 174, \"PAO\": \"Stockwood Library\", \"POLLING_DISTRICT\": \"STWD\", \"POSTCODE\": \"BS14 8DQ\", \"SAON\": \" \", \"STREET\": \"Stockwood Road\", \"UPRN\": 159907, \"UPRN_2\": \"000000159907\"}, \"type\": \"Feature\"}"
     }
 ]
