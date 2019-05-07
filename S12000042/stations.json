@@ -14,17 +14,17 @@
         "pk": 0
     },
     {
-        "EASTING": 342993,
+        "EASTING": 342850,
         "ID": "EAC",
-        "LATITUDE": 56.4899094038587,
-        "LONGITUDE": -2.9273813761117,
-        "NAME": "North East Campus",
-        "NORTHING": 733476,
+        "LATITUDE": 56.4922275617816,
+        "LONGITUDE": -2.92976045562829,
+        "NAME": "Angus Housing Association",
+        "NORTHING": 733736,
         "OBJECTID": 2,
         "POLLING_DISTRICT": "EAC",
-        "UPRN": "009059104791",
+        "UPRN": "009059089021",
         "council_id": "S12000042",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92753783, 56.48989258], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 1, \"properties\": {\"EASTING\": 342993, \"ID\": \"EAC\", \"LATITUDE\": 56.4899094038587, \"LONGITUDE\": -2.9273813761117, \"NAME\": \"North East Campus\", \"NORTHING\": 733476, \"OBJECTID\": 2, \"POLLING_DISTRICT\": \"EAC\", \"UPRN\": \"009059104791\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.92984523, 56.49222745], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 1, \"properties\": {\"EASTING\": 342850, \"ID\": \"EAC\", \"LATITUDE\": 56.4922275617816, \"LONGITUDE\": -2.92976045562829, \"NAME\": \"Angus Housing Association\", \"NORTHING\": 733736, \"OBJECTID\": 2, \"POLLING_DISTRICT\": \"EAC\", \"UPRN\": \"009059089021\"}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -920,7 +920,7 @@
         "POLLING_DISTRICT": "WBC",
         "UPRN": "009059031984",
         "council_id": "S12000042",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96899704, 56.45978551], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 65, \"properties\": {\"EASTING\": 340352, \"ID\": \"WBC\", \"LATITUDE\": 56.4599208637167, \"LONGITUDE\": -2.96950715377446, \"NAME\": \"Former Ramsay World Travel, 14 Crichton Street\", \"NORTHING\": 730174, \"OBJECTID\": 66, \"POLLING_DISTRICT\": \"WBC\", \"UPRN\": \"009059031984\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.96950874, 56.45991653], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 65, \"properties\": {\"EASTING\": 340352, \"ID\": \"WBC\", \"LATITUDE\": 56.4599208637167, \"LONGITUDE\": -2.96950715377446, \"NAME\": \"Former Ramsay World Travel, 14 Crichton Street\", \"NORTHING\": 730174, \"OBJECTID\": 66, \"POLLING_DISTRICT\": \"WBC\", \"UPRN\": \"009059031984\"}, \"type\": \"Feature\"}",
         "pk": 65
     },
     {
@@ -1116,7 +1116,7 @@
         "POLLING_DISTRICT": "WED",
         "UPRN": "009059031984",
         "council_id": "S12000042",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96899705, 56.45978551], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 79, \"properties\": {\"EASTING\": 340352, \"ID\": \"WED\", \"LATITUDE\": 56.4599208637167, \"LONGITUDE\": -2.96950715377446, \"NAME\": \"Former Ramsay World Travel, 14 Crichton Street\", \"NORTHING\": 730174, \"OBJECTID\": 80, \"POLLING_DISTRICT\": \"WED\", \"UPRN\": \"009059031984\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.96950874, 56.45991653], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 79, \"properties\": {\"EASTING\": 340352, \"ID\": \"WED\", \"LATITUDE\": 56.4599208637167, \"LONGITUDE\": -2.96950715377446, \"NAME\": \"Former Ramsay World Travel, 14 Crichton Street\", \"NORTHING\": 730174, \"OBJECTID\": 80, \"POLLING_DISTRICT\": \"WED\", \"UPRN\": \"009059031984\"}, \"type\": \"Feature\"}",
         "pk": 79
     },
     {
