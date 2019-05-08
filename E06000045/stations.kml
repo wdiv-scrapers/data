@@ -2076,13 +2076,13 @@
             <Placemark id="POLLING_STATIONS.63">
                 <name>GD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Freemantle Christ Church (Church Room), Waterloo Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Elim Christian Centre, Park Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: GD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Freemantle&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4280459967241654</longitude>
-                    <latitude>50.9115165726726</latitude>
+                    <longitude>-1.424333034957229</longitude>
+                    <latitude>50.91302004434939</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2106,7 +2106,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4280459967241663,50.911516572672596</coordinates>
+                    <coordinates>-1.4243330349572294,50.91302004434939</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.64">
@@ -3440,6 +3440,15 @@
                 <Point>
                     <coordinates>-1.3794003163244526,50.938974048179894</coordinates>
                 </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.147">
+                <name>POLLING_STATIONS.147</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: &lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: &lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <Style/>
             </Placemark>
         </Folder>
     </Document>
