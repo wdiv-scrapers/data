@@ -1245,17 +1245,17 @@
         "council_id": "E06000023",
         "dual": "No",
         "dual_stn": null,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.554840933894317, 51.48149646681394], \"type\": \"Point\"}, \"properties\": {\"dual\": \"No\", \"geo_point_2d\": [51.48149646681394, -2.554840933894317], \"locality\": \"Stapleton\", \"location_name\": \"Stapleton Church Hall\", \"objectid\": \"165\", \"pao\": \"Holy Trinity Church\", \"polling_district\": \"ESVA\", \"postcode\": \"BS16 1AZ\", \"street\": \"Park Road\", \"uprn_2\": \"000000278617\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.554657074611402, 51.48298842950361], \"type\": \"Point\"}, \"properties\": {\"dual\": \"No\", \"geo_point_2d\": [51.48298842950361, -2.554657074611402], \"locality\": \"Stapleton\", \"location_name\": \"Stapleton Church Hall\", \"objectid\": \"165\", \"pao\": \"23 Park Road\", \"polling_district\": \"ESVA\", \"postcode\": \"BS16 1AR\", \"street\": \"Park Road\", \"uprn_2\": \"000000258804\"}, \"type\": \"Feature\"}",
         "locality": "Stapleton",
         "location_name": "Stapleton Church Hall",
         "objectid": "165",
-        "pao": "Holy Trinity Church",
+        "pao": "23 Park Road",
         "pk": "165",
         "polling_district": "ESVA",
-        "postcode": "BS16 1AZ",
+        "postcode": "BS16 1AR",
         "saon": null,
         "street": "Park Road",
-        "uprn_2": "000000278617"
+        "uprn_2": "000000258804"
     },
     {
         "access_desription": null,
