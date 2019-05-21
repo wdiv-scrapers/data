@@ -61,12 +61,12 @@
     },
     {
         "council_id": "S12000028",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.60106410456153, 55.462428523427846], \"type\": \"Point\"}, \"properties\": {\"id\": 27, \"objectid\": 7, \"place\": \"TEMPORARY POLLING PLACE\", \"postcode\": \"KA8 0SQ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.609521257243402, 55.459448317925954], \"type\": \"Point\"}, \"properties\": {\"id\": 27, \"objectid\": 7, \"place\": \"AYR ACADEMY\", \"postcode\": \"KA8 0SZ\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
         "id": 27,
         "objectid": 7,
         "pk": 7,
-        "place": "TEMPORARY POLLING PLACE",
-        "postcode": "KA8 0SQ",
+        "place": "AYR ACADEMY",
+        "postcode": "KA8 0SZ",
         "town": "AYR"
     },
     {
@@ -451,12 +451,12 @@
     },
     {
         "council_id": "S12000028",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.613800421612969, 55.446136906982474], \"type\": \"Point\"}, \"properties\": {\"id\": 20, \"objectid\": 46, \"place\": \"ST PAULS RC CHURCH HALL\", \"postcode\": \"KA7 3RF\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.619290583170555, 55.44528378444866], \"type\": \"Point\"}, \"properties\": {\"id\": 20, \"objectid\": 46, \"place\": \"BELMONT ACADEMY\", \"postcode\": \"KA7 3SN\", \"town\": \"AYR\"}, \"type\": \"Feature\"}",
         "id": 20,
         "objectid": 46,
         "pk": 46,
-        "place": "ST PAULS RC CHURCH HALL",
-        "postcode": "KA7 3RF",
+        "place": "BELMONT ACADEMY",
+        "postcode": "KA7 3SN",
         "town": "AYR"
     },
     {
