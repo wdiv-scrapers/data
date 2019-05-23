@@ -23,15 +23,15 @@
         "LOCALITY": "Ashton",
         "LOCATION_NAME": "St Francis Centre",
         "OBJECTID": 2,
-        "PAO": "St Francis Church",
+        "PAO": null,
         "POLLING_DISTRICT": "SVLA",
         "POSTCODE": "BS3 1JP",
         "SAON": "",
-        "STREET": "North Street",
+        "STREET": null,
         "UPRN": 278652,
         "UPRN_2": "000000278652",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6147961151115218, 51.442317516233295], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ACCESS_DESRIPTION\": \"Access St. Francis Road\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"SVLA & SVLB\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"St Francis Centre\", \"OBJECTID\": 2, \"PAO\": \"St Francis Church\", \"POLLING_DISTRICT\": \"SVLA\", \"POSTCODE\": \"BS3 1JP\", \"SAON\": \" \", \"STREET\": \"North Street\", \"UPRN\": 278652, \"UPRN_2\": \"000000278652\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6147961151115218, 51.442317516233295], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ACCESS_DESRIPTION\": \"Access St. Francis Road\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"SVLA & SVLB\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"St Francis Centre\", \"OBJECTID\": 2, \"PAO\": null, \"POLLING_DISTRICT\": \"SVLA\", \"POSTCODE\": \"BS3 1JP\", \"SAON\": \" \", \"STREET\": null, \"UPRN\": 278652, \"UPRN_2\": \"000000278652\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -445,7 +445,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by ESTG and ESTF",
-        "LOCALITY": "",
+        "LOCALITY": "Redfield",
         "LOCATION_NAME": "St Annes Board Mill Social Club",
         "OBJECTID": 27,
         "PAO": "St Annes Board Mill Social Club",
@@ -456,7 +456,7 @@
         "UPRN": 101930,
         "UPRN_2": "000000101930",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.556270028324748, 51.455746723700635], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ESTG and ESTF\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Annes Board Mill Social Club\", \"OBJECTID\": 27, \"PAO\": \"St Annes Board Mill Social Club\", \"POLLING_DISTRICT\": \"ESTG\", \"POSTCODE\": \"BS5 9RN\", \"SAON\": \" \", \"STREET\": \"Avonvale Road\", \"UPRN\": 101930, \"UPRN_2\": \"000000101930\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.556270028324748, 51.455746723700635], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ESTG and ESTF\", \"LOCALITY\": \"Redfield\", \"LOCATION_NAME\": \"St Annes Board Mill Social Club\", \"OBJECTID\": 27, \"PAO\": \"St Annes Board Mill Social Club\", \"POLLING_DISTRICT\": \"ESTG\", \"POSTCODE\": \"BS5 9RN\", \"SAON\": \" \", \"STREET\": \"Avonvale Road\", \"UPRN\": 101930, \"UPRN_2\": \"000000101930\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -473,7 +473,7 @@
         "UPRN": 117716,
         "UPRN_2": "000000117716",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.599871067356764, 51.44380340870561], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Southville\", \"LOCATION_NAME\": \"Southbank Club\", \"OBJECTID\": 28, \"PAO\": \"Southbank Club\", \"POLLING_DISTRICT\": \"SVLE\", \"POSTCODE\": \"BS3 1DB\", \"SAON\": \" \", \"STREET\": \"Dean Lane\", \"UPRN\": 117716, \"UPRN_2\": \"000000117716\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.599987280595429, 51.443821885090955], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Southville\", \"LOCATION_NAME\": \"Southbank Club\", \"OBJECTID\": 28, \"PAO\": \"Southbank Club\", \"POLLING_DISTRICT\": \"SVLE\", \"POSTCODE\": \"BS3 1DB\", \"SAON\": \" \", \"STREET\": \"Dean Lane\", \"UPRN\": 117716, \"UPRN_2\": \"000000117716\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -887,18 +887,18 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "WEHH & WEHF",
-        "LOCALITY": "",
-        "LOCATION_NAME": "St Peters Church",
+        "LOCALITY": "Henleaze",
+        "LOCATION_NAME": "Church of the Holy Nativity",
         "OBJECTID": 53,
-        "PAO": "St Peters Church",
+        "PAO": "Church of the Holy Nativity",
         "POLLING_DISTRICT": "WEHH",
         "POSTCODE": "BS9 4LD",
         "SAON": "",
-        "STREET": "The Drive",
+        "STREET": "Wells Road",
         "UPRN": 289629,
         "UPRN_2": "000000289629",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.607489108424792, 51.485618152040814], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"WEHH & WEHF\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Peters Church\", \"OBJECTID\": 53, \"PAO\": \"St Peters Church \", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"The Drive\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.607489108424792, 51.485618152040814], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"WEHH & WEHF\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Church of the Holy Nativity\", \"OBJECTID\": 53, \"PAO\": \"Church of the Holy Nativity\", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"Wells Road\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -921,7 +921,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": null,
+        "LOCALITY": "City Centre",
         "LOCATION_NAME": "St James Priory",
         "OBJECTID": 55,
         "PAO": "St James Priory",
@@ -932,7 +932,7 @@
         "UPRN": 216328,
         "UPRN_2": "000000216328",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.592431307519963, 51.45888561461641], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": null, \"LOCATION_NAME\": \"St James Priory\", \"OBJECTID\": 55, \"PAO\": \"St James Priory\", \"POLLING_DISTRICT\": \"CENC\", \"POSTCODE\": \"BS1 3NZ\", \"SAON\": \" \", \"STREET\": \"Whitson Street\", \"UPRN\": 216328, \"UPRN_2\": \"000000216328\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.592431307519963, 51.45888561461641], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"St James Priory\", \"OBJECTID\": 55, \"PAO\": \"St James Priory\", \"POLLING_DISTRICT\": \"CENC\", \"POSTCODE\": \"BS1 3NZ\", \"SAON\": \" \", \"STREET\": \"Whitson Street\", \"UPRN\": 216328, \"UPRN_2\": \"000000216328\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1278,7 +1278,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "St George East",
+        "LOCALITY": "St George",
         "LOCATION_NAME": "Portacabin, Dundridge Playing Field Car Park",
         "OBJECTID": 76,
         "PAO": "Dundridge Lane",
@@ -1289,7 +1289,7 @@
         "UPRN": 110560,
         "UPRN_2": "",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5284141155532383, 51.45018393331531], \"type\": \"Point\"}, \"id\": 76, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George East\", \"LOCATION_NAME\": \"Portacabin, Dundridge Playing Field Car Park\", \"OBJECTID\": 76, \"PAO\": \"Dundridge Lane\", \"POLLING_DISTRICT\": \"SGTC\", \"POSTCODE\": \"BS5 8SW\", \"SAON\": \" \", \"STREET\": \"Dundridge Lane\", \"UPRN\": 110560, \"UPRN_2\": \" \"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5284141155532383, 51.45018393331531], \"type\": \"Point\"}, \"id\": 76, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Portacabin, Dundridge Playing Field Car Park\", \"OBJECTID\": 76, \"PAO\": \"Dundridge Lane\", \"POLLING_DISTRICT\": \"SGTC\", \"POSTCODE\": \"BS5 8SW\", \"SAON\": \" \", \"STREET\": \"Dundridge Lane\", \"UPRN\": 110560, \"UPRN_2\": \" \"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1363,7 +1363,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Stockwood",
         "LOCATION_NAME": "Church Of Christ The Servant",
         "OBJECTID": 81,
         "PAO": "Church Of Christ The Servant",
@@ -1374,24 +1374,24 @@
         "UPRN": 308830,
         "UPRN_2": "000000308830",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.547084356300225, 51.41047831595152], \"type\": \"Point\"}, \"id\": 81, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Church Of Christ The Servant\", \"OBJECTID\": 81, \"PAO\": \"Church Of Christ The Servant\", \"POLLING_DISTRICT\": \"STWG\", \"POSTCODE\": \"BS14 8HS\", \"SAON\": \" \", \"STREET\": \"Stockwood Road\", \"UPRN\": 308830, \"UPRN_2\": \"000000308830\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.547084356300225, 51.41047831595152], \"type\": \"Point\"}, \"id\": 81, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Church Of Christ The Servant\", \"OBJECTID\": 81, \"PAO\": \"Church Of Christ The Servant\", \"POLLING_DISTRICT\": \"STWG\", \"POSTCODE\": \"BS14 8HS\", \"SAON\": \" \", \"STREET\": \"Stockwood Road\", \"UPRN\": 308830, \"UPRN_2\": \"000000308830\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by BEDA & BEDC",
-        "LOCALITY": "",
+        "LOCALITY": "Ashton",
         "LOCATION_NAME": "Bristol St Aldhelms Scout Hut",
         "OBJECTID": 82,
         "PAO": "229      Bristol St Aldhelms Scout Hut",
         "POLLING_DISTRICT": "BEDA",
         "POSTCODE": "BS3 2DL",
         "SAON": "",
-        "STREET": "Ashton Road",
+        "STREET": "Raynes Road",
         "UPRN": 278840,
         "UPRN_2": "000000124231",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6188306215206207, 51.43842549486868], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDA & BEDC\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Bristol St Aldhelms Scout Hut\", \"OBJECTID\": 82, \"PAO\": \"229      Bristol St Aldhelms Scout Hut\", \"POLLING_DISTRICT\": \"BEDA\", \"POSTCODE\": \"BS3 2DL\", \"SAON\": \" \", \"STREET\": \"Ashton Road\", \"UPRN\": 278840, \"UPRN_2\": \"000000124231\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6188306215206207, 51.43842549486868], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDA & BEDC\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"Bristol St Aldhelms Scout Hut\", \"OBJECTID\": 82, \"PAO\": \"229      Bristol St Aldhelms Scout Hut\", \"POLLING_DISTRICT\": \"BEDA\", \"POSTCODE\": \"BS3 2DL\", \"SAON\": \" \", \"STREET\": \"Raynes Road\", \"UPRN\": 278840, \"UPRN_2\": \"000000124231\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1414,7 +1414,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "BIAD & BIAC",
-        "LOCALITY": "",
+        "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Horfield Baptist Church",
         "OBJECTID": 84,
         "PAO": "Horfield Baptist Church",
@@ -1425,7 +1425,7 @@
         "UPRN": 47990,
         "UPRN_2": "000000245048",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.589111316813018, 51.479423806985814], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"BIAD & BIAC\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Horfield Baptist Church\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000245048\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.589111316813018, 51.479423806985814], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"BIAD & BIAC\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Horfield Baptist Church\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000245048\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1449,23 +1449,23 @@
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "St George",
-        "LOCATION_NAME": "St Patricks RC Church",
+        "LOCATION_NAME": "Shore Gallery",
         "OBJECTID": 86,
         "PAO": "St Patricks RC Church",
         "POLLING_DISTRICT": "SGWC",
-        "POSTCODE": "BS5 8AS",
+        "POSTCODE": "BS5 9PF",
         "SAON": "",
-        "STREET": "Netham Road",
+        "STREET": "Dillon Court",
         "UPRN": 346191,
         "UPRN_2": "000000346191",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.553242749829991, 51.457212661095134], \"type\": \"Point\"}, \"id\": 86, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"St Patricks RC Church\", \"OBJECTID\": 86, \"PAO\": \"St Patricks RC Church\", \"POLLING_DISTRICT\": \"SGWC\", \"POSTCODE\": \"BS5 8AS\", \"SAON\": \" \", \"STREET\": \"Netham Road\", \"UPRN\": 346191, \"UPRN_2\": \"000000346191\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.553242749829991, 51.457212661095134], \"type\": \"Point\"}, \"id\": 86, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Shore Gallery\", \"OBJECTID\": 86, \"PAO\": \"St Patricks RC Church\", \"POLLING_DISTRICT\": \"SGWC\", \"POSTCODE\": \"BS5 9PF\", \"SAON\": \" \", \"STREET\": \"Dillon Court\", \"UPRN\": 346191, \"UPRN_2\": \"000000346191\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Pile Marsh Entrance",
         "DUAL": "Yes",
         "DUAL_STN": "SGCG and SGCB",
-        "LOCALITY": "",
+        "LOCALITY": "St George",
         "LOCATION_NAME": "St Michaels Church Hall",
         "OBJECTID": 87,
         "PAO": "St Michaels Church Hall",
@@ -1476,13 +1476,13 @@
         "UPRN": 275145,
         "UPRN_2": "000000275145",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.521148606981144, 51.4619028958339], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"ACCESS_DESRIPTION\": \"Pile Marsh Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \" SGCG and SGCB\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Michaels Church Hall\", \"OBJECTID\": 87, \"PAO\": \"St Michaels Church Hall\", \"POLLING_DISTRICT\": \"SGCG\", \"POSTCODE\": \"BS15 1BQ\", \"SAON\": \" \", \"STREET\": \"Two Mile Hill Road\", \"UPRN\": 275145, \"UPRN_2\": \"000000275145\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.521148606981144, 51.4619028958339], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"ACCESS_DESRIPTION\": \"Pile Marsh Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \" SGCG and SGCB\", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"St Michaels Church Hall\", \"OBJECTID\": 87, \"PAO\": \"St Michaels Church Hall\", \"POLLING_DISTRICT\": \"SGCG\", \"POSTCODE\": \"BS15 1BQ\", \"SAON\": \" \", \"STREET\": \"Two Mile Hill Road\", \"UPRN\": 275145, \"UPRN_2\": \"000000275145\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "St George",
         "LOCATION_NAME": "St Aidans Church Hall",
         "OBJECTID": 88,
         "PAO": "St Aidans Church Hall",
@@ -1493,13 +1493,13 @@
         "UPRN": 300280,
         "UPRN_2": "000000300280",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5293203806306654, 51.45479844701037], \"type\": \"Point\"}, \"id\": 88, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Aidans Church Hall\", \"OBJECTID\": 88, \"PAO\": \"St Aidans Church Hall\", \"POLLING_DISTRICT\": \"SGTB\", \"POSTCODE\": \"BS5 8TZ\", \"SAON\": \" \", \"STREET\": \"Fir Tree Lane\", \"UPRN\": 300280, \"UPRN_2\": \"000000300280\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5293203806306654, 51.45479844701037], \"type\": \"Point\"}, \"id\": 88, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"St Aidans Church Hall\", \"OBJECTID\": 88, \"PAO\": \"St Aidans Church Hall\", \"POLLING_DISTRICT\": \"SGTB\", \"POSTCODE\": \"BS5 8TZ\", \"SAON\": \" \", \"STREET\": \"Fir Tree Lane\", \"UPRN\": 300280, \"UPRN_2\": \"000000300280\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "St George",
         "LOCATION_NAME": "Portacabin, The Bull",
         "OBJECTID": 89,
         "PAO": "Portacabin, The Bull",
@@ -1510,13 +1510,13 @@
         "UPRN": 108459,
         "UPRN_2": "000000108459",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5353086785613526, 51.45196443231002], \"type\": \"Point\"}, \"id\": 89, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Portacabin, The Bull\", \"OBJECTID\": 89, \"PAO\": \"Portacabin, The Bull\", \"POLLING_DISTRICT\": \"SGTA\", \"POSTCODE\": \"BS5 8BQ\", \"SAON\": \" \", \"STREET\": \"Crews Hole Road\", \"UPRN\": 108459, \"UPRN_2\": \"000000108459\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5353086785613526, 51.45196443231002], \"type\": \"Point\"}, \"id\": 89, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Portacabin, The Bull\", \"OBJECTID\": 89, \"PAO\": \"Portacabin, The Bull\", \"POLLING_DISTRICT\": \"SGTA\", \"POSTCODE\": \"BS5 8BQ\", \"SAON\": \" \", \"STREET\": \"Crews Hole Road\", \"UPRN\": 108459, \"UPRN_2\": \"000000108459\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "BISB and BISC",
-        "LOCALITY": "",
+        "LOCALITY": "Bedminster Down",
         "LOCATION_NAME": "Blenheim Scout Hut",
         "OBJECTID": 90,
         "PAO": "Blenheim Scout Centre",
@@ -1527,7 +1527,7 @@
         "UPRN": 347602,
         "UPRN_2": "000000347602",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.616459765900214, 51.42499886058391], \"type\": \"Point\"}, \"id\": 90, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \" BISB and BISC\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Blenheim Scout Hut\", \"OBJECTID\": 90, \"PAO\": \"Blenheim Scout Centre\", \"POLLING_DISTRICT\": \"BISB\", \"POSTCODE\": \"BS13 7DT\", \"SAON\": \" \", \"STREET\": \"Banwell Close\", \"UPRN\": 347602, \"UPRN_2\": \"000000347602\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.616459765900214, 51.42499886058391], \"type\": \"Point\"}, \"id\": 90, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \" BISB and BISC\", \"LOCALITY\": \"Bedminster Down\", \"LOCATION_NAME\": \"Blenheim Scout Hut\", \"OBJECTID\": 90, \"PAO\": \"Blenheim Scout Centre\", \"POLLING_DISTRICT\": \"BISB\", \"POSTCODE\": \"BS13 7DT\", \"SAON\": \" \", \"STREET\": \"Banwell Close\", \"UPRN\": 347602, \"UPRN_2\": \"000000347602\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1547,27 +1547,27 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5690804209555784, 51.47666265830943], \"type\": \"Point\"}, \"id\": 91, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Eastville\", \"LOCATION_NAME\": \"The Old Library - Eastville\", \"OBJECTID\": 91, \"PAO\": \"The Old Library  - Eastville\", \"POLLING_DISTRICT\": \"LOCF\", \"POSTCODE\": \"BS5 6XP\", \"SAON\": \" \", \"STREET\": \"Muller Road\", \"UPRN\": 181977, \"UPRN_2\": \"000000181977\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "",
+        "ACCESS_DESRIPTION": null,
         "DUAL": "Yes",
         "DUAL_STN": "LOCD & LOCB",
-        "LOCALITY": "",
+        "LOCALITY": "Lockleaze",
         "LOCATION_NAME": "The Hub",
         "OBJECTID": 92,
-        "PAO": "The Hub",
-        "POLLING_DISTRICT": "LOCD",
+        "PAO": "Fedden Buildings",
+        "POLLING_DISTRICT": "LOCB",
         "POSTCODE": "BS7 9FB",
-        "SAON": "Fedden Buildings",
+        "SAON": null,
         "STREET": "Gainsborough Square",
         "UPRN": 356760,
         "UPRN_2": "000000356760",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5626759259032554, 51.48990597970209], \"type\": \"Point\"}, \"id\": 92, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"LOCD & LOCB\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"The Hub\", \"OBJECTID\": 92, \"PAO\": \"The Hub\", \"POLLING_DISTRICT\": \"LOCD\", \"POSTCODE\": \"BS7 9FB\", \"SAON\": \"Fedden Buildings\", \"STREET\": \"Gainsborough Square\", \"UPRN\": 356760, \"UPRN_2\": \"000000356760\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5626759259032554, 51.48990597970209], \"type\": \"Point\"}, \"id\": 92, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"LOCD & LOCB\", \"LOCALITY\": \"Lockleaze\", \"LOCATION_NAME\": \"The Hub\", \"OBJECTID\": 92, \"PAO\": \"Fedden Buildings\", \"POLLING_DISTRICT\": \"LOCB\", \"POSTCODE\": \"BS7 9FB\", \"SAON\": null, \"STREET\": \"Gainsborough Square\", \"UPRN\": 356760, \"UPRN_2\": \"000000356760\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "Rookery Way",
+        "LOCALITY": "Whitchurch",
         "LOCATION_NAME": "Wansdyke Primary School",
         "OBJECTID": 93,
         "PAO": "Wansdyke Primary School",
@@ -1578,13 +1578,13 @@
         "UPRN": 365792,
         "UPRN_2": "000000165930",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.580245168327998, 51.406726479670866], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Rookery Way\", \"LOCATION_NAME\": \"Wansdyke Primary School\", \"OBJECTID\": 93, \"PAO\": \"Wansdyke Primary School\", \"POLLING_DISTRICT\": \"HWPG\", \"POSTCODE\": \"BS14 0DU\", \"SAON\": \" \", \"STREET\": \"School Close\", \"UPRN\": 365792, \"UPRN_2\": \"000000165930\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.580245168327998, 51.406726479670866], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Whitchurch\", \"LOCATION_NAME\": \"Wansdyke Primary School\", \"OBJECTID\": 93, \"PAO\": \"Wansdyke Primary School\", \"POLLING_DISTRICT\": \"HWPG\", \"POSTCODE\": \"BS14 0DU\", \"SAON\": \" \", \"STREET\": \"School Close\", \"UPRN\": 365792, \"UPRN_2\": \"000000165930\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "City Centre",
         "LOCATION_NAME": "YHA Bristol Youth Hostel",
         "OBJECTID": 94,
         "PAO": "Bristol Youth Hostel",
@@ -1595,7 +1595,7 @@
         "UPRN": 111130,
         "UPRN_2": "000000111130",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.597175323943044, 51.44975246073847], \"type\": \"Point\"}, \"id\": 94, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"YHA Bristol Youth Hostel\", \"OBJECTID\": 94, \"PAO\": \"Bristol Youth Hostel\", \"POLLING_DISTRICT\": \"CENE\", \"POSTCODE\": \"BS1 4QA\", \"SAON\": \"14\", \"STREET\": \"Narrow Quay\", \"UPRN\": 111130, \"UPRN_2\": \"000000111130\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.597175323943044, 51.44975246073847], \"type\": \"Point\"}, \"id\": 94, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"YHA Bristol Youth Hostel\", \"OBJECTID\": 94, \"PAO\": \"Bristol Youth Hostel\", \"POLLING_DISTRICT\": \"CENE\", \"POSTCODE\": \"BS1 4QA\", \"SAON\": \"14\", \"STREET\": \"Narrow Quay\", \"UPRN\": 111130, \"UPRN_2\": \"000000111130\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1618,7 +1618,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Hartcliffe",
         "LOCATION_NAME": "South Bristol Methodist Church Hall",
         "OBJECTID": 96,
         "PAO": "South Bristol Methodist Church Hall",
@@ -1629,13 +1629,13 @@
         "UPRN": 0,
         "UPRN_2": "000000347603",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.597719427460108, 51.40799049004448], \"type\": \"Point\"}, \"id\": 96, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"South Bristol Methodist Church Hall\", \"OBJECTID\": 96, \"PAO\": \"South Bristol Methodist Church Hall\", \"POLLING_DISTRICT\": \"HAWD\", \"POSTCODE\": \"BS13 0LT\", \"SAON\": \" \", \"STREET\": \"Mowcroft Road\", \"UPRN\": 0, \"UPRN_2\": \"000000347603\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.597719427460108, 51.40799049004448], \"type\": \"Point\"}, \"id\": 96, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Hartcliffe\", \"LOCATION_NAME\": \"South Bristol Methodist Church Hall\", \"OBJECTID\": 96, \"PAO\": \"South Bristol Methodist Church Hall\", \"POLLING_DISTRICT\": \"HAWD\", \"POSTCODE\": \"BS13 0LT\", \"SAON\": \" \", \"STREET\": \"Mowcroft Road\", \"UPRN\": 0, \"UPRN_2\": \"000000347603\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Hartcliffe",
         "LOCATION_NAME": "Fair Furlong Primary School",
         "OBJECTID": 97,
         "PAO": "Fair Furlong Primary School",
@@ -1646,13 +1646,13 @@
         "UPRN": 164792,
         "UPRN_2": "000000164792",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6115305439163032, 51.407445578285625], \"type\": \"Point\"}, \"id\": 97, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Fair Furlong Primary School\", \"OBJECTID\": 97, \"PAO\": \"Fair Furlong Primary School\", \"POLLING_DISTRICT\": \"HAWF\", \"POSTCODE\": \"BS13 9HS\", \"SAON\": \" \", \"STREET\": \"Vowell Close\", \"UPRN\": 164792, \"UPRN_2\": \"000000164792\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6115305439163032, 51.407445578285625], \"type\": \"Point\"}, \"id\": 97, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Hartcliffe\", \"LOCATION_NAME\": \"Fair Furlong Primary School\", \"OBJECTID\": 97, \"PAO\": \"Fair Furlong Primary School\", \"POLLING_DISTRICT\": \"HAWF\", \"POSTCODE\": \"BS13 9HS\", \"SAON\": \" \", \"STREET\": \"Vowell Close\", \"UPRN\": 164792, \"UPRN_2\": \"000000164792\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "City Centre",
         "LOCATION_NAME": "City Hall",
         "OBJECTID": 98,
         "PAO": "City Hall",
@@ -1663,13 +1663,13 @@
         "UPRN": 1,
         "UPRN_2": "000000000001",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.602035306226716, 51.45261242186209], \"type\": \"Point\"}, \"id\": 98, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"City Hall\", \"OBJECTID\": 98, \"PAO\": \"City Hall\", \"POLLING_DISTRICT\": \"HOHA\", \"POSTCODE\": \"BS1 5TR\", \"SAON\": \" \", \"STREET\": \"College Green\", \"UPRN\": 1, \"UPRN_2\": \"000000000001\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.602035306226716, 51.45261242186209], \"type\": \"Point\"}, \"id\": 98, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"City Hall\", \"OBJECTID\": 98, \"PAO\": \"City Hall\", \"POLLING_DISTRICT\": \"HOHA\", \"POSTCODE\": \"BS1 5TR\", \"SAON\": \" \", \"STREET\": \"College Green\", \"UPRN\": 1, \"UPRN_2\": \"000000000001\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by HILF and HILG",
-        "LOCALITY": "",
+        "LOCALITY": "Speedwell",
         "LOCATION_NAME": "Minerva Primary Academy",
         "OBJECTID": 99,
         "PAO": "Minerva Primary Academy",
@@ -1680,7 +1680,7 @@
         "UPRN": 59974,
         "UPRN_2": "000000059974",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5157605729708945, 51.47278385189376], \"type\": \"Point\"}, \"id\": 99, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HILF and HILG\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Minerva Primary Academy\", \"OBJECTID\": 99, \"PAO\": \"Minerva Primary Academy\", \"POLLING_DISTRICT\": \"HILF\", \"POSTCODE\": \"BS16 4HA\", \"SAON\": \" \", \"STREET\": \"The Greenway\", \"UPRN\": 59974, \"UPRN_2\": \"000000059974\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5157605729708945, 51.47278385189376], \"type\": \"Point\"}, \"id\": 99, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HILF and HILG\", \"LOCALITY\": \"Speedwell\", \"LOCATION_NAME\": \"Minerva Primary Academy\", \"OBJECTID\": 99, \"PAO\": \"Minerva Primary Academy\", \"POLLING_DISTRICT\": \"HILF\", \"POSTCODE\": \"BS16 4HA\", \"SAON\": \" \", \"STREET\": \"The Greenway\", \"UPRN\": 59974, \"UPRN_2\": \"000000059974\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1976,9 +1976,9 @@
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Clifton",
-        "LOCATION_NAME": "The Woodlands Christian Centre",
+        "LOCATION_NAME": "The Foyer",
         "OBJECTID": 117,
-        "PAO": "The Woodlands Christian Centre",
+        "PAO": "Woodlands Church",
         "POLLING_DISTRICT": "CENA",
         "POSTCODE": "BS8 2AA",
         "SAON": "",
@@ -1986,7 +1986,7 @@
         "UPRN": 280235,
         "UPRN_2": "000000280235",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6057005434407516, 51.461714909994754], \"type\": \"Point\"}, \"id\": 117, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Clifton\", \"LOCATION_NAME\": \"The Woodlands Christian Centre\", \"OBJECTID\": 117, \"PAO\": \"The Woodlands Christian Centre\", \"POLLING_DISTRICT\": \"CENA\", \"POSTCODE\": \"BS8 2AA\", \"SAON\": \" \", \"STREET\": \"Belgrave Road\", \"UPRN\": 280235, \"UPRN_2\": \"000000280235\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6055183814471365, 51.461792137146894], \"type\": \"Point\"}, \"id\": 117, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Clifton\", \"LOCATION_NAME\": \"The Foyer\", \"OBJECTID\": 117, \"PAO\": \"Woodlands Church\", \"POLLING_DISTRICT\": \"CENA\", \"POSTCODE\": \"BS8 2AA\", \"SAON\": \" \", \"STREET\": \"Belgrave Road\", \"UPRN\": 280235, \"UPRN_2\": \"000000280235\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2027,9 +2027,9 @@
         "DUAL": "Yes",
         "DUAL_STN": "STWB, STWA1 and STWA2",
         "LOCALITY": "Stockwood",
-        "LOCATION_NAME": "Sturminster and Stockwood Community Centre",
+        "LOCATION_NAME": "Sturminster Community Association Hall",
         "OBJECTID": 120,
-        "PAO": "Sturminster Area Community Centre",
+        "PAO": "Sturminster Community Association Hall",
         "POLLING_DISTRICT": "STWB",
         "POSTCODE": "BS14 8AU",
         "SAON": "",
@@ -2037,7 +2037,7 @@
         "UPRN": 152726,
         "UPRN_2": "000000152726",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5538870175833184, 51.41939576364601], \"type\": \"Point\"}, \"id\": 120, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"STWB, STWA1 and STWA2\", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Sturminster and Stockwood Community Centre\", \"OBJECTID\": 120, \"PAO\": \"Sturminster Area Community Centre\", \"POLLING_DISTRICT\": \"STWB\", \"POSTCODE\": \"BS14 8AU\", \"SAON\": \" \", \"STREET\": \"Sturminster Road\", \"UPRN\": 152726, \"UPRN_2\": \"000000152726\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5538870175833184, 51.41939576364601], \"type\": \"Point\"}, \"id\": 120, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"STWB, STWA1 and STWA2\", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Sturminster Community Association Hall\", \"OBJECTID\": 120, \"PAO\": \"Sturminster Community Association Hall\", \"POLLING_DISTRICT\": \"STWB\", \"POSTCODE\": \"BS14 8AU\", \"SAON\": \" \", \"STREET\": \"Sturminster Road\", \"UPRN\": 152726, \"UPRN_2\": \"000000152726\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Bishop Road access",
@@ -2128,7 +2128,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Southmead",
         "LOCATION_NAME": "Southmead Community Centre",
         "OBJECTID": 126,
         "PAO": "Southmead Community Centre",
@@ -2139,13 +2139,13 @@
         "UPRN": 7859,
         "UPRN_2": "000000007859",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6007376947004714, 51.50317889931347], \"type\": \"Point\"}, \"id\": 126, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Southmead Community Centre\", \"OBJECTID\": 126, \"PAO\": \"Southmead Community Centre\", \"POLLING_DISTRICT\": \"SMDE\", \"POSTCODE\": \"BS10 6BQ\", \"SAON\": \"248\", \"STREET\": \"Greystoke Avenue\", \"UPRN\": 7859, \"UPRN_2\": \"000000007859\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6007376947004714, 51.50317889931347], \"type\": \"Point\"}, \"id\": 126, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Southmead\", \"LOCATION_NAME\": \"Southmead Community Centre\", \"OBJECTID\": 126, \"PAO\": \"Southmead Community Centre\", \"POLLING_DISTRICT\": \"SMDE\", \"POSTCODE\": \"BS10 6BQ\", \"SAON\": \"248\", \"STREET\": \"Greystoke Avenue\", \"UPRN\": 7859, \"UPRN_2\": \"000000007859\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by BREA and BREB",
-        "LOCALITY": "",
+        "LOCALITY": "St Annes",
         "LOCATION_NAME": "St Annes House",
         "OBJECTID": 127,
         "PAO": "St Annes House",
@@ -2156,13 +2156,13 @@
         "UPRN": 271803,
         "UPRN_2": "000000271803",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5477228483500856, 51.452697237468854], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREA and BREB\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Annes House\", \"OBJECTID\": 127, \"PAO\": \"St Annes House\", \"POLLING_DISTRICT\": \"BREA\", \"POSTCODE\": \"BS4 4AB\", \"SAON\": \" \", \"STREET\": \"St Annes Road\", \"UPRN\": 271803, \"UPRN_2\": \"000000271803\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5477228483500856, 51.452697237468854], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREA and BREB\", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"St Annes House\", \"OBJECTID\": 127, \"PAO\": \"St Annes House\", \"POLLING_DISTRICT\": \"BREA\", \"POSTCODE\": \"BS4 4AB\", \"SAON\": \" \", \"STREET\": \"St Annes Road\", \"UPRN\": 271803, \"UPRN_2\": \"000000271803\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by COTA and COTB",
-        "LOCALITY": "",
+        "LOCALITY": "Redland",
         "LOCATION_NAME": "Friends Meeting House",
         "OBJECTID": 128,
         "PAO": "Friends Meeting House",
@@ -2173,13 +2173,13 @@
         "UPRN": 67302,
         "UPRN_2": "000000067302 - need to check address",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.608472395471249, 51.46878825252022], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTA and COTB\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Friends Meeting House\", \"OBJECTID\": 128, \"PAO\": \"Friends Meeting House\", \"POLLING_DISTRICT\": \"COTA\", \"POSTCODE\": \"BS6 6JE\", \"SAON\": \" \", \"STREET\": \"Hampton Road\", \"UPRN\": 67302, \"UPRN_2\": \"000000067302 - need to check address\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.608472395471249, 51.46878825252022], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTA and COTB\", \"LOCALITY\": \"Redland\", \"LOCATION_NAME\": \"Friends Meeting House\", \"OBJECTID\": 128, \"PAO\": \"Friends Meeting House\", \"POLLING_DISTRICT\": \"COTA\", \"POSTCODE\": \"BS6 6JE\", \"SAON\": \" \", \"STREET\": \"Hampton Road\", \"UPRN\": 67302, \"UPRN_2\": \"000000067302 - need to check address\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
         "DUAL_STN": "Used by COTE and COTF",
-        "LOCALITY": "",
+        "LOCALITY": "Cotham",
         "LOCATION_NAME": "St Matthews & Nathanael Church",
         "OBJECTID": 129,
         "PAO": "St Matthews Church",
@@ -2190,13 +2190,13 @@
         "UPRN": 80432,
         "UPRN_2": "000000080432",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.595103100392437, 51.46412280874342], \"type\": \"Point\"}, \"id\": 129, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTE and COTF\", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"St Matthews & Nathanael Church\", \"OBJECTID\": 129, \"PAO\": \"St Matthews Church\", \"POLLING_DISTRICT\": \"COTE\", \"POSTCODE\": \"BS6 5TB\", \"SAON\": \" \", \"STREET\": \"Clare Road\", \"UPRN\": 80432, \"UPRN_2\": \"000000080432\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.595103100392437, 51.46412280874342], \"type\": \"Point\"}, \"id\": 129, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTE and COTF\", \"LOCALITY\": \"Cotham\", \"LOCATION_NAME\": \"St Matthews & Nathanael Church\", \"OBJECTID\": 129, \"PAO\": \"St Matthews Church\", \"POLLING_DISTRICT\": \"COTE\", \"POSTCODE\": \"BS6 5TB\", \"SAON\": \" \", \"STREET\": \"Clare Road\", \"UPRN\": 80432, \"UPRN_2\": \"000000080432\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Totterdown",
         "LOCATION_NAME": "The Church Of The Holy Nativity",
         "OBJECTID": 130,
         "PAO": "The Church Of The Holy Nativity",
@@ -2207,13 +2207,13 @@
         "UPRN": 319994,
         "UPRN_2": "000000319994",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5740397678995572, 51.4404823795543], \"type\": \"Point\"}, \"id\": 130, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"The Church Of The Holy Nativity\", \"OBJECTID\": 130, \"PAO\": \"The Church Of The Holy Nativity\", \"POLLING_DISTRICT\": \"WNHF\", \"POSTCODE\": \"BS4 2AG\", \"SAON\": \" \", \"STREET\": \"Wells Road\", \"UPRN\": 319994, \"UPRN_2\": \"000000319994\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5740397678995572, 51.4404823795543], \"type\": \"Point\"}, \"id\": 130, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Totterdown\", \"LOCATION_NAME\": \"The Church Of The Holy Nativity\", \"OBJECTID\": 130, \"PAO\": \"The Church Of The Holy Nativity\", \"POLLING_DISTRICT\": \"WNHF\", \"POSTCODE\": \"BS4 2AG\", \"SAON\": \" \", \"STREET\": \"Wells Road\", \"UPRN\": 319994, \"UPRN_2\": \"000000319994\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Easton",
         "LOCATION_NAME": "The Hellenic Community Centre",
         "OBJECTID": 131,
         "PAO": "The Hellenic",
@@ -2224,13 +2224,13 @@
         "UPRN": 304613,
         "UPRN_2": "000000304613",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.573329891252946, 51.465414744666724], \"type\": \"Point\"}, \"id\": 131, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"The Hellenic Community Centre\", \"OBJECTID\": 131, \"PAO\": \"The Hellenic\", \"POLLING_DISTRICT\": \"LAWA\", \"POSTCODE\": \"BS5 0YL\", \"SAON\": \" \", \"STREET\": \"Lower Ashley Road\", \"UPRN\": 304613, \"UPRN_2\": \"000000304613\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.573329891252946, 51.465414744666724], \"type\": \"Point\"}, \"id\": 131, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Easton\", \"LOCATION_NAME\": \"The Hellenic Community Centre\", \"OBJECTID\": 131, \"PAO\": \"The Hellenic\", \"POLLING_DISTRICT\": \"LAWA\", \"POSTCODE\": \"BS5 0YL\", \"SAON\": \" \", \"STREET\": \"Lower Ashley Road\", \"UPRN\": 304613, \"UPRN_2\": \"000000304613\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Bedminster",
         "LOCATION_NAME": "Community Room",
         "OBJECTID": 132,
         "PAO": "Community Room, Hastings Road Sheltered Housing",
@@ -2241,13 +2241,13 @@
         "UPRN": 353373,
         "UPRN_2": "000000353373",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.603651628671476, 51.430034830327564], \"type\": \"Point\"}, \"id\": 132, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Community Room\", \"OBJECTID\": 132, \"PAO\": \"Community Room, Hastings Road Sheltered Housing\", \"POLLING_DISTRICT\": \"FWDA\", \"POSTCODE\": \"BS3 5RE\", \"SAON\": \" \", \"STREET\": \"10A Hastings Road\", \"UPRN\": 353373, \"UPRN_2\": \"000000353373\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.603651628671476, 51.430034830327564], \"type\": \"Point\"}, \"id\": 132, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Community Room\", \"OBJECTID\": 132, \"PAO\": \"Community Room, Hastings Road Sheltered Housing\", \"POLLING_DISTRICT\": \"FWDA\", \"POSTCODE\": \"BS3 5RE\", \"SAON\": \" \", \"STREET\": \"10A Hastings Road\", \"UPRN\": 353373, \"UPRN_2\": \"000000353373\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Knowle",
         "LOCATION_NAME": "Knowle West Media Centre",
         "OBJECTID": 133,
         "PAO": "Knowle West Media Centre",
@@ -2258,13 +2258,13 @@
         "UPRN": 320072,
         "UPRN_2": "000000320072",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.593337225560295, 51.42540049159684], \"type\": \"Point\"}, \"id\": 133, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Knowle West Media Centre\", \"OBJECTID\": 133, \"PAO\": \"Knowle West Media Centre\", \"POLLING_DISTRICT\": \"FWDC\", \"POSTCODE\": \"BS4 1NL\", \"SAON\": \" \", \"STREET\": \"Leinster Avenue\", \"UPRN\": 320072, \"UPRN_2\": \"000000320072\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.593337225560295, 51.42540049159684], \"type\": \"Point\"}, \"id\": 133, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Knowle\", \"LOCATION_NAME\": \"Knowle West Media Centre\", \"OBJECTID\": 133, \"PAO\": \"Knowle West Media Centre\", \"POLLING_DISTRICT\": \"FWDC\", \"POSTCODE\": \"BS4 1NL\", \"SAON\": \" \", \"STREET\": \"Leinster Avenue\", \"UPRN\": 320072, \"UPRN_2\": \"000000320072\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Sefton Park Primary School",
         "OBJECTID": 134,
         "PAO": "Sefton Park Primary School",
@@ -2275,13 +2275,13 @@
         "UPRN": 199338,
         "UPRN_2": "000000199338",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.582044422757803, 51.475009475923535], \"type\": \"Point\"}, \"id\": 134, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Sefton Park Primary School\", \"OBJECTID\": 134, \"PAO\": \"Sefton Park Primary School\", \"POLLING_DISTRICT\": \"ASHB\", \"POSTCODE\": \"BS7 9BJ\", \"SAON\": \" \", \"STREET\": \"Ashley Down Road\", \"UPRN\": 199338, \"UPRN_2\": \"000000199338\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.582044422757803, 51.475009475923535], \"type\": \"Point\"}, \"id\": 134, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Sefton Park Primary School\", \"OBJECTID\": 134, \"PAO\": \"Sefton Park Primary School\", \"POLLING_DISTRICT\": \"ASHB\", \"POSTCODE\": \"BS7 9BJ\", \"SAON\": \" \", \"STREET\": \"Ashley Down Road\", \"UPRN\": 199338, \"UPRN_2\": \"000000199338\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Henleaze",
         "LOCATION_NAME": "Newman Hall",
         "OBJECTID": 135,
         "PAO": "Newman Hall",
@@ -2292,7 +2292,7 @@
         "UPRN": 32574,
         "UPRN_2": "000000032574",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6139753362813876, 51.48755120889864], \"type\": \"Point\"}, \"id\": 135, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Newman Hall\", \"OBJECTID\": 135, \"PAO\": \"Newman Hall\", \"POLLING_DISTRICT\": \"WEHE\", \"POSTCODE\": \"BS9 4DR\", \"SAON\": \" \", \"STREET\": \"Grange Court Road\", \"UPRN\": 32574, \"UPRN_2\": \"000000032574\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6139753362813876, 51.48755120889864], \"type\": \"Point\"}, \"id\": 135, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Newman Hall\", \"OBJECTID\": 135, \"PAO\": \"Newman Hall\", \"POLLING_DISTRICT\": \"WEHE\", \"POSTCODE\": \"BS9 4DR\", \"SAON\": \" \", \"STREET\": \"Grange Court Road\", \"UPRN\": 32574, \"UPRN_2\": \"000000032574\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2468,7 +2468,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "BS3 5GL",
+        "LOCALITY": "Bedminster",
         "LOCATION_NAME": "Marksbury Road Library",
         "OBJECTID": 146,
         "PAO": "Marksbury Road Library",
@@ -2479,7 +2479,7 @@
         "UPRN": 136944,
         "UPRN_2": "000000136944",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6023332811228146, 51.43374293761226], \"type\": \"Point\"}, \"id\": 146, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"BS3 5GL\", \"LOCATION_NAME\": \"Marksbury Road Library\", \"OBJECTID\": 146, \"PAO\": \"Marksbury Road Library\", \"POLLING_DISTRICT\": \"WNHG\", \"POSTCODE\": \"BS3 5GL\", \"SAON\": \" \", \"STREET\": \"Marksbury Road\", \"UPRN\": 136944, \"UPRN_2\": \"000000136944\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6023332811228146, 51.43374293761226], \"type\": \"Point\"}, \"id\": 146, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Marksbury Road Library\", \"OBJECTID\": 146, \"PAO\": \"Marksbury Road Library\", \"POLLING_DISTRICT\": \"WNHG\", \"POSTCODE\": \"BS3 5GL\", \"SAON\": \" \", \"STREET\": \"Marksbury Road\", \"UPRN\": 136944, \"UPRN_2\": \"000000136944\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Gate 2, Brunel Field Site",
@@ -2502,7 +2502,7 @@
         "ACCESS_DESRIPTION": "Church Hall",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Bedminster",
         "LOCATION_NAME": "South Bristol Methodist Church Hall",
         "OBJECTID": 148,
         "PAO": "South Bristol Methodist Church",
@@ -2513,7 +2513,7 @@
         "UPRN": 123434,
         "UPRN_2": "000000123434",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6025400109317056, 51.44033107318973], \"type\": \"Point\"}, \"id\": 148, \"properties\": {\"ACCESS_DESRIPTION\": \"Church Hall\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"South Bristol Methodist Church Hall\", \"OBJECTID\": 148, \"PAO\": \"South Bristol Methodist Church\", \"POLLING_DISTRICT\": \"BEDE\", \"POSTCODE\": \"BS3 3BW\", \"SAON\": \" \", \"STREET\": \"British Road\", \"UPRN\": 123434, \"UPRN_2\": \"000000123434\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6025400109317056, 51.44033107318973], \"type\": \"Point\"}, \"id\": 148, \"properties\": {\"ACCESS_DESRIPTION\": \"Church Hall\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"South Bristol Methodist Church Hall\", \"OBJECTID\": 148, \"PAO\": \"South Bristol Methodist Church\", \"POLLING_DISTRICT\": \"BEDE\", \"POSTCODE\": \"BS3 3BW\", \"SAON\": \" \", \"STREET\": \"British Road\", \"UPRN\": 123434, \"UPRN_2\": \"000000123434\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Clifton Vale",
@@ -2558,13 +2558,13 @@
         "OBJECTID": 151,
         "PAO": "The Southville Centre",
         "POLLING_DISTRICT": "SVLC",
-        "POSTCODE": "BS3 1QJ",
+        "POSTCODE": "BS3 1QG",
         "SAON": "",
         "STREET": "Beauley Road",
         "UPRN": 116731,
         "UPRN_2": "000000116731",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.60553541146884, 51.44380439949063], \"type\": \"Point\"}, \"id\": 151, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"SVLC & SVLD\", \"LOCALITY\": \"Southville\", \"LOCATION_NAME\": \"The Southville Centre\", \"OBJECTID\": 151, \"PAO\": \"The Southville Centre\", \"POLLING_DISTRICT\": \"SVLC\", \"POSTCODE\": \"BS3 1QJ\", \"SAON\": \" \", \"STREET\": \"Beauley Road\", \"UPRN\": 116731, \"UPRN_2\": \"000000116731\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.60553541146884, 51.44380439949063], \"type\": \"Point\"}, \"id\": 151, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"SVLC & SVLD\", \"LOCALITY\": \"Southville\", \"LOCATION_NAME\": \"The Southville Centre\", \"OBJECTID\": 151, \"PAO\": \"The Southville Centre\", \"POLLING_DISTRICT\": \"SVLC\", \"POSTCODE\": \"BS3 1QG\", \"SAON\": \" \", \"STREET\": \"Beauley Road\", \"UPRN\": 116731, \"UPRN_2\": \"000000116731\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2621,7 +2621,7 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "",
+        "LOCALITY": "Redland",
         "LOCATION_NAME": "Redland Park United Reformed Church",
         "OBJECTID": 155,
         "PAO": "Redland Park United Reformed Church",
@@ -2632,7 +2632,7 @@
         "UPRN": 300072,
         "UPRN_2": "000000300072",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6123675731600526, 51.46793366872255], \"type\": \"Point\"}, \"id\": 155, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \" \", \"LOCATION_NAME\": \"Redland Park United Reformed Church\", \"OBJECTID\": 155, \"PAO\": \"Redland Park United Reformed Church\", \"POLLING_DISTRICT\": \"CLDB\", \"POSTCODE\": \"BS6 6SA\", \"SAON\": \" \", \"STREET\": \"Whiteladies Road\", \"UPRN\": 300072, \"UPRN_2\": \"000000300072\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6123675731600526, 51.46793366872255], \"type\": \"Point\"}, \"id\": 155, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Redland\", \"LOCATION_NAME\": \"Redland Park United Reformed Church\", \"OBJECTID\": 155, \"PAO\": \"Redland Park United Reformed Church\", \"POLLING_DISTRICT\": \"CLDB\", \"POSTCODE\": \"BS6 6SA\", \"SAON\": \" \", \"STREET\": \"Whiteladies Road\", \"UPRN\": 300072, \"UPRN_2\": \"000000300072\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2842,7 +2842,7 @@
         "ACCESS_DESRIPTION": null,
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "Ledbury Road",
+        "LOCALITY": "Fishponds",
         "LOCATION_NAME": "Ledbury Road Flats Community Room",
         "OBJECTID": 168,
         "PAO": "Ledbury Road",
@@ -2853,7 +2853,7 @@
         "UPRN": 328071,
         "UPRN_2": "000000328071",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.517800005793387, 51.479570017542656], \"type\": \"Point\"}, \"id\": 168, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Ledbury Road\", \"LOCATION_NAME\": \"Ledbury Road Flats Community Room\", \"OBJECTID\": 168, \"PAO\": \"Ledbury Road\", \"POLLING_DISTRICT\": \"HILA\", \"POSTCODE\": \"BS16 4AH\", \"SAON\": \" \", \"STREET\": \"Ledbury Road\", \"UPRN\": 328071, \"UPRN_2\": \"000000328071\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.517800005793387, 51.479570017542656], \"type\": \"Point\"}, \"id\": 168, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Fishponds\", \"LOCATION_NAME\": \"Ledbury Road Flats Community Room\", \"OBJECTID\": 168, \"PAO\": \"Ledbury Road\", \"POLLING_DISTRICT\": \"HILA\", \"POSTCODE\": \"BS16 4AH\", \"SAON\": \" \", \"STREET\": \"Ledbury Road\", \"UPRN\": 328071, \"UPRN_2\": \"000000328071\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
