@@ -443,16 +443,16 @@
     },
     {
         "DISTRICT": "HECA",
-        "EASTING": 341657,
+        "EASTING": 341983,
         "ELECTOR_CO": 1245,
-        "NORTHING": 461669,
-        "NOTES": "Change from Mossgate School",
+        "NORTHING": 461992,
+        "NOTES": "",
         "OBJECTID": 35,
-        "POLLING_PL": "Heysham Library Heysham Road Heysham",
+        "POLLING_PL": "Mossgate Primary School Kingsway Heysham",
         "REFERENCE": 61,
-        "UPRN": 10024268342,
+        "UPRN": 100012624890,
         "council_id": "E07000121",
-        "geometry": "{\"geometry\": {\"coordinates\": [341657, 461669], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"DISTRICT\": \"HECA\", \"EASTING\": 341657, \"ELECTOR_CO\": 1245, \"NORTHING\": 461669, \"NOTES\": \"Change from Mossgate School\", \"OBJECTID\": 35, \"POLLING_PL\": \"Heysham Library Heysham Road Heysham\", \"REFERENCE\": 61, \"UPRN\": 10024268342}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [341657, 461669], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"DISTRICT\": \"HECA\", \"EASTING\": 341983, \"ELECTOR_CO\": 1245, \"NORTHING\": 461992, \"NOTES\": \" \", \"OBJECTID\": 35, \"POLLING_PL\": \"Mossgate Primary School Kingsway Heysham\", \"REFERENCE\": 61, \"UPRN\": 100012624890}, \"type\": \"Feature\"}"
     },
     {
         "DISTRICT": "HECB",
