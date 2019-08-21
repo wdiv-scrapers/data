@@ -3,29 +3,39 @@
         {
             "attributes": {
                 "advancedQueryCapabilities": {
+                    "supportedLodTypes": [
+                        "geohash"
+                    ],
                     "supportsAdvancedQueryRelated": true,
+                    "supportsCountDistinct": true,
+                    "supportsDisjointSpatialRel": true,
                     "supportsDistinct": true,
                     "supportsHavingClause": true,
+                    "supportsLod": true,
+                    "supportsMaxRecordCountFactor": true,
                     "supportsOrderBy": true,
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
                     "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
                     "supportsQueryWithDistance": true,
+                    "supportsQueryWithLodSR": false,
                     "supportsQueryWithResultType": true,
                     "supportsReturningGeometryCentroid": true,
                     "supportsReturningGeometryProperties": true,
                     "supportsReturningQueryExtent": true,
                     "supportsSqlExpression": true,
-                    "supportsStatistics": true
+                    "supportsStatistics": true,
+                    "supportsTopFeaturesQuery": true
                 },
                 "catalogs": null,
                 "commentsEnabled": true,
                 "content": "spatial dataset",
                 "coverage": "local",
                 "createdAt": "2016-06-16T14:01:12.000Z",
-                "currentVersion": "10.51",
+                "currentVersion": "10.7",
                 "dataType": "Layer",
                 "description": "Community Council boundaries adopted in November 2011.",
                 "displayField": "NAME",
@@ -34,42 +44,25 @@
                 "extent": {
                     "coordinates": [
                         [
-                            -4.68195649853323,
-                            56.1133643123794
+                            -4.74059195015983,
+                            56.1133643132052
                         ],
                         [
-                            -3.04818765948735,
-                            56.9592886719234
+                            -3.02573426708683,
+                            56.9592886742699
                         ]
                     ]
                 },
                 "fields": [
                     {
-                        "alias": "OBJECTID",
+                        "alias": "FID",
                         "domain": null,
-                        "name": "OBJECTID",
+                        "name": "FID",
                         "statistics": {
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2017-09-28T20:18:19.283Z"
-                    },
-                    {
-                        "alias": "MI_PRINX",
-                        "domain": null,
-                        "name": "MI_PRINX",
-                        "statistics": {
-                            "avg": 26.5,
-                            "count": 52,
-                            "duration": 802.73732098937,
-                            "max": 52,
-                            "min": 1,
-                            "stddev": 15.1547572288924,
-                            "sum": 1378,
-                            "var": 229.666666666667
-                        },
-                        "type": "esriFieldTypeDouble",
-                        "updatedAt": "2017-09-28T20:18:20.086Z"
+                        "updatedAt": "2019-08-21T14:18:54.609Z"
                     },
                     {
                         "alias": "NAME",
@@ -77,7 +70,7 @@
                         "name": "NAME",
                         "statistics": {
                             "count": 52,
-                            "duration": 310.852079004049,
+                            "duration": 178.223659999669,
                             "values": [
                                 {
                                     "count": 1,
@@ -122,7 +115,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2017-09-28T20:18:19.595Z"
+                        "updatedAt": "2019-08-21T14:18:54.787Z"
                     },
                     {
                         "alias": "CC_NUMBER",
@@ -130,7 +123,7 @@
                         "name": "CC_NUMBER",
                         "statistics": {
                             "count": 52,
-                            "duration": 176.151845991611,
+                            "duration": 136.514140000567,
                             "values": [
                                 {
                                     "count": 1,
@@ -175,11 +168,153 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2017-09-28T20:18:19.460Z"
+                        "updatedAt": "2019-08-21T14:18:54.745Z"
+                    },
+                    {
+                        "alias": "AREA",
+                        "domain": null,
+                        "name": "AREA",
+                        "statistics": {
+                            "avg": 0,
+                            "count": 52,
+                            "duration": 135.02911600098,
+                            "max": 0,
+                            "min": 0,
+                            "stddev": 0,
+                            "sum": 0,
+                            "var": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T14:18:54.744Z"
+                    },
+                    {
+                        "alias": "URL",
+                        "domain": null,
+                        "name": "URL",
+                        "statistics": {
+                            "count": 21,
+                            "duration": 134.151983998716,
+                            "values": [
+                                {
+                                    "count": 32,
+                                    "value": "https://www.pkc.gov.uk/communitycouncilcontacts"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.the-glens.org.uk/community-council.html"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.stfillanscc.org.uk/community-council/"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.sdcc.co.uk"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.milnathortcommunitycouncil.org"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.lrmcc.co.uk"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.kinross.cc//cc.htm"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.kettins.org"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.inchture.com"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "www.glenfarg.org"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T14:18:54.744Z"
+                    },
+                    {
+                        "alias": "STATUS",
+                        "domain": null,
+                        "name": "STATUS",
+                        "statistics": {
+                            "count": 2,
+                            "duration": 193.389034999534,
+                            "values": [
+                                {
+                                    "count": 45,
+                                    "value": "Active"
+                                },
+                                {
+                                    "count": 7,
+                                    "value": "Not Active"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T14:18:54.803Z"
+                    },
+                    {
+                        "alias": "MI_PRINX",
+                        "domain": null,
+                        "name": "MI_PRINX",
+                        "statistics": {
+                            "avg": 26.5,
+                            "count": 52,
+                            "duration": 208.856828000396,
+                            "max": 52,
+                            "min": 1,
+                            "stddev": 15.1547572288924,
+                            "sum": 1378,
+                            "var": 229.666666666667
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T14:18:54.819Z"
+                    },
+                    {
+                        "alias": "Shape__Area",
+                        "domain": null,
+                        "name": "Shape__Area",
+                        "statistics": {
+                            "avg": 104225240.560864,
+                            "count": 52,
+                            "duration": 218.660090999678,
+                            "max": 672864451.034653,
+                            "min": 1324018.78901672,
+                            "stddev": 150365191.998957,
+                            "sum": 5419712509.16492,
+                            "var": 22609690964883200
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T14:18:54.829Z"
+                    },
+                    {
+                        "alias": "Shape__Length",
+                        "domain": null,
+                        "name": "Shape__Length",
+                        "statistics": {
+                            "avg": 49963.8515972831,
+                            "count": 52,
+                            "duration": 213.635997001082,
+                            "max": 157373.541019817,
+                            "min": 5036.1825510268,
+                            "stddev": 36118.0558147304,
+                            "sum": 2598120.28305872,
+                            "var": 1304513955.83598
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T14:18:54.824Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2017-09-28T20:18:22.349Z",
+                "harvestedAt": "2019-08-21T14:18:57.843Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Community Councils",
@@ -190,19 +325,12 @@
                 "messages": [
                     {
                         "i18n": {
-                            "key": "messages.inspectors.last_edited_date.not_enabled"
-                        },
-                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
                             "data": {
-                                "field_name": "OBJECTID"
+                                "field_name": "FID"
                             },
                             "key": "messages.stats.not_generated.black_list_name"
                         },
-                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "log": "Statistics are not generated for fields named FID.",
                         "type": "info"
                     }
                 ],
@@ -214,10 +342,10 @@
                 },
                 "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/0d911f5dd4e14c03b0b434ed6076fe00/info/metadata/metadata.xml?format=default&output=html",
                 "name": "Community Councils",
-                "objectIdField": "OBJECTID",
+                "objectIdField": "FID",
                 "owner": "gis_pkc",
                 "public": true,
-                "quality": 77,
+                "quality": 71,
                 "recordCount": 52,
                 "serviceSpatialReference": {
                     "latestWkid": 27700,
@@ -233,16 +361,19 @@
                 "supportsAdvancedQueries": true,
                 "tags": [
                     "polling",
-                    " boundary",
-                    " administrative",
-                    " community"
+                    "boundary",
+                    "administrative",
+                    "community",
+                    "arcgis",
+                    "service definition",
+                    ".sd"
                 ],
                 "thumbnail": null,
                 "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/0d911f5dd4e14c03b0b434ed6076fe00/info/thumbnail/thumbnail.png",
                 "timeInfo": null,
                 "title": "community councils",
                 "type": "Layer",
-                "updatedAt": "2017-09-28T20:18:22.643Z",
+                "updatedAt": "2019-08-21T14:18:57.881Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
@@ -281,28 +412,38 @@
         {
             "attributes": {
                 "advancedQueryCapabilities": {
+                    "supportedLodTypes": [
+                        "geohash"
+                    ],
                     "supportsAdvancedQueryRelated": true,
+                    "supportsCountDistinct": true,
+                    "supportsDisjointSpatialRel": true,
                     "supportsDistinct": true,
                     "supportsHavingClause": true,
+                    "supportsLod": true,
+                    "supportsMaxRecordCountFactor": true,
                     "supportsOrderBy": true,
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
                     "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
                     "supportsQueryWithDistance": true,
+                    "supportsQueryWithLodSR": false,
                     "supportsQueryWithResultType": true,
                     "supportsReturningGeometryCentroid": false,
                     "supportsReturningQueryExtent": true,
                     "supportsSqlExpression": true,
-                    "supportsStatistics": true
+                    "supportsStatistics": true,
+                    "supportsTopFeaturesQuery": true
                 },
                 "catalogs": null,
                 "commentsEnabled": true,
                 "content": "spatial dataset",
                 "coverage": "local",
                 "createdAt": "2016-06-16T14:18:53.000Z",
-                "currentVersion": "10.51",
+                "currentVersion": "10.7",
                 "dataType": "Layer",
                 "description": "Location of polling places to be used for elections in PKC from 2011 onwards.",
                 "displayField": "NAME",
@@ -311,25 +452,25 @@
                 "extent": {
                     "coordinates": [
                         [
-                            -4.15317217381749,
+                            -4.18898306924939,
                             56.1327872340046
                         ],
                         [
-                            -3.07002586037149,
+                            -3.05250870391735,
                             56.7750331472143
                         ]
                     ]
                 },
                 "fields": [
                     {
-                        "alias": "OBJECTID",
+                        "alias": "FID",
                         "domain": null,
-                        "name": "OBJECTID",
+                        "name": "FID",
                         "statistics": {
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2017-09-28T20:18:19.235Z"
+                        "updatedAt": "2019-08-21T11:37:30.185Z"
                     },
                     {
                         "alias": "MI_PRINX",
@@ -338,7 +479,7 @@
                         "statistics": {
                             "avg": 44,
                             "count": 87,
-                            "duration": 409.874955996871,
+                            "duration": 261.347691999748,
                             "max": 87,
                             "min": 1,
                             "stddev": 25.2586618806302,
@@ -346,24 +487,24 @@
                             "var": 638
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2017-09-28T20:18:19.645Z"
+                        "updatedAt": "2019-08-21T11:37:30.447Z"
                     },
                     {
                         "alias": "UPRN",
                         "domain": null,
                         "name": "UPRN",
                         "statistics": {
-                            "avg": 124061630.586207,
+                            "avg": 124062719.655172,
                             "count": 87,
-                            "duration": 250.725228995085,
-                            "max": 124097652,
+                            "duration": 184.51697999984,
+                            "max": 124101826,
                             "min": 124002031,
-                            "stddev": 22589.796519462,
-                            "sum": 10793361861,
-                            "var": 510298906.790698
+                            "stddev": 22661.8048009687,
+                            "sum": 10793456610,
+                            "var": 513557396.837209
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2017-09-28T20:18:19.486Z"
+                        "updatedAt": "2019-08-21T11:37:30.370Z"
                     },
                     {
                         "alias": "NAME",
@@ -371,7 +512,7 @@
                         "name": "NAME",
                         "statistics": {
                             "count": 87,
-                            "duration": 130.396496996284,
+                            "duration": 234.926299000159,
                             "values": [
                                 {
                                     "count": 1,
@@ -416,7 +557,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2017-09-28T20:18:19.366Z"
+                        "updatedAt": "2019-08-21T11:37:30.421Z"
                     },
                     {
                         "alias": "SETTLEMENT",
@@ -424,7 +565,7 @@
                         "name": "SETTLEMENT",
                         "statistics": {
                             "count": 68,
-                            "duration": 159.590231999755,
+                            "duration": 216.342284999788,
                             "values": [
                                 {
                                     "count": 17,
@@ -469,45 +610,151 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2017-09-28T20:18:19.395Z"
+                        "updatedAt": "2019-08-21T11:37:30.403Z"
                     },
                     {
                         "alias": "EASTING",
                         "domain": null,
                         "name": "EASTING",
                         "statistics": {
-                            "avg": 305543.517241379,
+                            "avg": 305545.966185299,
                             "count": 87,
-                            "duration": 157.191698998213,
+                            "duration": 184.426202000119,
                             "max": 334705,
                             "min": 266278,
-                            "stddev": 14798.8920341578,
-                            "sum": 26582286,
-                            "var": 219007205.438658
+                            "stddev": 14804.3542119085,
+                            "sum": 26582499.058121,
+                            "var": 219168903.631654
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2017-09-28T20:18:19.393Z"
+                        "updatedAt": "2019-08-21T11:37:30.371Z"
                     },
                     {
                         "alias": "NORTHING",
                         "domain": null,
                         "name": "NORTHING",
                         "statistics": {
-                            "avg": 729738.517241379,
+                            "avg": 729729.985942333,
                             "count": 87,
-                            "duration": 142.418934002519,
-                            "max": 765341,
+                            "duration": 211.805875000544,
+                            "max": 765340.52,
                             "min": 695430,
-                            "stddev": 15958.0481225162,
-                            "sum": 63487251,
-                            "var": 254659299.880541
+                            "stddev": 15960.9838894077,
+                            "sum": 63486508.776983,
+                            "var": 254753006.717932
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2017-09-28T20:18:19.379Z"
+                        "updatedAt": "2019-08-21T11:37:30.399Z"
+                    },
+                    {
+                        "alias": "CODE",
+                        "domain": null,
+                        "name": "CODE",
+                        "statistics": {
+                            "count": 87,
+                            "duration": 258.818749000318,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "SMK"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMJ, SMG"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMI, SMH"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMF5, SMF9"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SME"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMD"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SLY"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.446Z"
+                    },
+                    {
+                        "alias": "ADDRESS",
+                        "domain": null,
+                        "name": "ADDRESS",
+                        "statistics": {
+                            "count": 87,
+                            "duration": 222.164078000002,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WILLIAMSON HALL, KIRK WYND, ABERNETHY"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "UPPER SPRINGLAND, ISLA ROAD, PERTH, PH2 7HQ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TULLOCH COMMUNITY CENTRE, 2 TULLOCH TERRACE, PERTH, PH1 2PF"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TOWN HALL, CRIEFF ROAD, ABERFELDY, PH15 2BJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "THE VILLAGE HALL, STATION ROAD, CROOK OF DEVON, KINROSS, KY13 0PG"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "THE MORAY INSTITUTE, MORAY STREET, BLACKFORD"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "THE INSTITUTE, STATION ROAD, BRIDGE OF EARN, PERTH, PH2 9EA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TAYSIDE CHRISTIAN FELLOWSHIP CENTRE, PARADISE PLACE, PERTH, PH2 8JH"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TABERNACLE HALL, MAIN STREET, KELTYBRIDGE"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "STRATHEARN COMMUNITY CAMPUS, PITTENZIE ROAD, CRIEFF, PH7 3JN"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.409Z"
                     }
                 ],
-                "geometryType": "esriGeometryMultipoint",
-                "harvestedAt": "2017-09-28T20:18:22.117Z",
+                "geometryType": "esriGeometryPoint",
+                "harvestedAt": "2019-08-21T11:37:31.729Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Polling places",
@@ -518,19 +765,12 @@
                 "messages": [
                     {
                         "i18n": {
-                            "key": "messages.inspectors.last_edited_date.not_enabled"
-                        },
-                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
                             "data": {
-                                "field_name": "OBJECTID"
+                                "field_name": "FID"
                             },
                             "key": "messages.stats.not_generated.black_list_name"
                         },
-                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "log": "Statistics are not generated for fields named FID.",
                         "type": "info"
                     }
                 ],
@@ -542,10 +782,10 @@
                 },
                 "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/909e45688aa646199cad8e8616ddef7a/info/metadata/metadata.xml?format=default&output=html",
                 "name": "Polling places",
-                "objectIdField": "OBJECTID",
+                "objectIdField": "FID",
                 "owner": "gis_pkc",
                 "public": true,
-                "quality": 77,
+                "quality": 71,
                 "recordCount": 87,
                 "serviceSpatialReference": {
                     "latestWkid": 27700,
@@ -561,16 +801,19 @@
                 "supportsAdvancedQueries": true,
                 "tags": [
                     "polling",
-                    " boundary",
-                    " electorate",
-                    " administrative"
+                    "boundary",
+                    "electorate",
+                    "administrative",
+                    "arcgis",
+                    "service definition",
+                    ".sd"
                 ],
                 "thumbnail": null,
                 "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/909e45688aa646199cad8e8616ddef7a/info/thumbnail/thumbnail.png",
                 "timeInfo": null,
                 "title": "polling places",
                 "type": "Layer",
-                "updatedAt": "2017-09-28T20:18:22.394Z",
+                "updatedAt": "2019-08-21T11:37:31.771Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
@@ -609,106 +852,405 @@
         {
             "attributes": {
                 "advancedQueryCapabilities": {
+                    "supportedLodTypes": [
+                        "geohash"
+                    ],
                     "supportsAdvancedQueryRelated": true,
+                    "supportsCountDistinct": true,
+                    "supportsDisjointSpatialRel": true,
                     "supportsDistinct": true,
                     "supportsHavingClause": true,
+                    "supportsLod": true,
+                    "supportsMaxRecordCountFactor": true,
                     "supportsOrderBy": true,
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
                     "supportsQueryRelatedPagination": true,
+                    "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
                     "supportsQueryWithDistance": true,
+                    "supportsQueryWithLodSR": false,
                     "supportsQueryWithResultType": true,
                     "supportsReturningGeometryCentroid": true,
                     "supportsReturningGeometryProperties": true,
                     "supportsReturningQueryExtent": true,
                     "supportsSqlExpression": true,
-                    "supportsStatistics": true
+                    "supportsStatistics": true,
+                    "supportsTopFeaturesQuery": true
                 },
                 "catalogs": null,
                 "commentsEnabled": true,
                 "content": "spatial dataset",
                 "coverage": "local",
                 "createdAt": "2016-06-16T14:10:32.000Z",
-                "currentVersion": "10.51",
+                "currentVersion": "10.7",
                 "dataType": "Layer",
                 "description": "Parliamentary polling district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2007 electoral ward boundaries.",
-                "displayField": "PPD_NAME",
+                "displayField": "NAME",
                 "downloadCache": "hosted",
                 "expiration": "automatic",
                 "extent": {
                     "coordinates": [
                         [
-                            -4.68200492295143,
-                            56.1139985933438
+                            -4.74059386717362,
+                            56.1139985915489
                         ],
                         [
-                            -3.04823352127839,
+                            -3.02579697306423,
                             56.9592551542214
                         ]
                     ]
                 },
                 "fields": [
                     {
-                        "alias": "OBJECTID",
+                        "alias": "FID",
                         "domain": null,
-                        "name": "OBJECTID",
-                        "type": "esriFieldTypeOID"
+                        "name": "FID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-08-21T11:37:30.195Z"
                     },
                     {
                         "alias": "MI_PRINX",
                         "domain": null,
                         "name": "MI_PRINX",
-                        "type": "esriFieldTypeDouble"
+                        "statistics": {
+                            "avg": 54,
+                            "count": 107,
+                            "duration": 266.59345000051,
+                            "max": 107,
+                            "min": 1,
+                            "stddev": 31.0322412983658,
+                            "sum": 5778,
+                            "var": 963
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T11:37:30.461Z"
                     },
                     {
-                        "alias": "PPD_NAME",
+                        "alias": "NAME",
                         "domain": null,
-                        "name": "PPD_NAME",
-                        "type": "esriFieldTypeString"
+                        "name": "NAME",
+                        "statistics": {
+                            "count": 105,
+                            "duration": 249.090339999646,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Tibbermore"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "South Letham"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Whinniemuir"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Western Edge South"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Western Edge North"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wellshill"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Viewlands"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Upper Springlands"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tummel Bridge"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Tullybardine"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.444Z"
                     },
                     {
-                        "alias": "PPD_ID",
+                        "alias": "CODE",
                         "domain": null,
-                        "name": "PPD_ID",
-                        "type": "esriFieldTypeString"
+                        "name": "CODE",
+                        "statistics": {
+                            "count": 107,
+                            "duration": 247.030045000836,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "tba"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMK"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMI"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMH"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMG"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMF9"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMF5"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SME"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SMD"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.443Z"
                     },
                     {
                         "alias": "POLL_NAME",
                         "domain": null,
                         "name": "POLL_NAME",
-                        "type": "esriFieldTypeString"
+                        "statistics": {
+                            "count": 88,
+                            "duration": 249.148207999766,
+                            "values": [
+                                {
+                                    "count": 4,
+                                    "value": "Aytoun Town Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "The Institute"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Strathearn Community Campus"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "St Catharine's Community Centre"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "St Andrew's Church Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Ruthvenfield Primary School"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Robert Douglas Memorial Institute"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Railway Staff Club"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Perth Baptist Church Hall"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Moncreiffe Community Centre"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.445Z"
                     },
                     {
                         "alias": "POLL_TOWN",
                         "domain": null,
                         "name": "POLL_TOWN",
-                        "type": "esriFieldTypeString"
+                        "statistics": {
+                            "count": 69,
+                            "duration": 360.341684999876,
+                            "values": [
+                                {
+                                    "count": 21,
+                                    "value": "Perth"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Crieff"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Blairgowrie"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "Auchterarder"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Scone"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Ruthvenfield"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Kinrossie"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Kettins"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Forgandenny"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Bridge of Earn"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.556Z"
                     },
                     {
                         "alias": "UPRN",
                         "domain": null,
                         "name": "UPRN",
-                        "type": "esriFieldTypeDouble"
+                        "statistics": {
+                            "avg": 122901937.327103,
+                            "count": 107,
+                            "duration": 330.421800000593,
+                            "max": 124101826,
+                            "min": 0,
+                            "stddev": 11993490.7593651,
+                            "sum": 13150507294,
+                            "var": 143843820594975
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T11:37:30.527Z"
                     },
                     {
-                        "alias": "ID_PRE2011",
+                        "alias": "ADDRESS",
                         "domain": null,
-                        "name": "ID_PRE2011",
-                        "type": "esriFieldTypeString"
+                        "name": "ADDRESS",
+                        "statistics": {
+                            "count": 88,
+                            "duration": 217.60937900003,
+                            "values": [
+                                {
+                                    "count": 4,
+                                    "value": "AYTOUN HALL, 91-93 HIGH STREET, AUCHTERARDER, PH3 1BJ"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "THE INSTITUTE, STATION ROAD, BRIDGE OF EARN, PERTH, PH2 9EA"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "STRATHEARN COMMUNITY CAMPUS, PITTENZIE ROAD, CRIEFF, PH7 3JN"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "ST CATHARINE'S COMMUNITY CENTRE, GEORGE STREET, BLAIRGOWRIE, PH10 6EY"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "ST ANDREWS CHURCH HALL, 22 STRATHEARN TERRACE, CRIEFF"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "RUTHVENFIELD PRIMARY SCHOOL, RUTHVENFIELD, PERTH, PH1 3JP"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "ROBERT DOUGLAS MEMORIAL INSTITUTE, ABBEY ROAD, SCONE"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "PERTH BAPTIST CHURCH HALL, ALMOND VIEW, PERTH"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "MONCREIFFE COMMUNITY CENTRE, GLENLYON ROAD, PERTH"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "LETHAM ST MARKS CHURCH HALL, AMULREE ROAD, PERTH"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-08-21T11:37:30.414Z"
                     },
                     {
-                        "alias": "ID_PRE2014",
+                        "alias": "Shape__Area",
                         "domain": null,
-                        "name": "ID_PRE2014",
-                        "type": "esriFieldTypeString"
+                        "name": "Shape__Area",
+                        "statistics": {
+                            "avg": 50643953.7347004,
+                            "count": 107,
+                            "duration": 294.876857999712,
+                            "max": 667415615.009277,
+                            "min": 166026.940933228,
+                            "stddev": 98744905.4677122,
+                            "sum": 5418903049.61295,
+                            "var": 9750556355827410
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T11:37:30.492Z"
+                    },
+                    {
+                        "alias": "Shape__Length",
+                        "domain": null,
+                        "name": "Shape__Length",
+                        "statistics": {
+                            "avg": 32322.3054162739,
+                            "count": 107,
+                            "duration": 356.294155000709,
+                            "max": 151945.959004751,
+                            "min": 2069.38463354129,
+                            "stddev": 27542.5794765747,
+                            "sum": 3458486.6795413,
+                            "var": 758593684.223432
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-08-21T11:37:30.553Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2017-09-28T20:18:21.913Z",
+                "harvestedAt": "2019-08-21T11:37:31.877Z",
                 "hasErrors": false,
-                "hasWarnings": true,
+                "hasWarnings": false,
                 "itemName": "Polling districts",
                 "itemType": "Feature Layer",
                 "landingPage": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
@@ -718,26 +1260,12 @@
                     {
                         "i18n": {
                             "data": {
-                                "server_message": "Got 500 on GET to https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0/query?where=1%3D1&returnIdsOnly=true&f=json"
+                                "field_name": "FID"
                             },
-                            "key": "messages.inspectors.idsonlyquery.fail"
+                            "key": "messages.stats.not_generated.black_list_name"
                         },
-                        "log": "Ids Only query failed. Server responded with [Got 500 on GET to https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0/query?where=1%3D1&returnIdsOnly=true&f=json]",
-                        "type": "warn"
-                    },
-                    {
-                        "i18n": {
-                            "key": "messages.inspectors.last_edited_date.not_enabled"
-                        },
-                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "log": "Statistics are not generated for fields named FID.",
                         "type": "info"
-                    },
-                    {
-                        "i18n": {
-                            "key": "messages.stats.not_generated.other_error"
-                        },
-                        "log": "Other errors listed prevented statistics from being generated for any fields in this dataset.",
-                        "type": "warn"
                     }
                 ],
                 "metadata": {
@@ -748,11 +1276,11 @@
                 },
                 "metadataUrl": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/metadata/metadata.xml?format=default&output=html",
                 "name": "Polling districts",
-                "objectIdField": "OBJECTID",
+                "objectIdField": "FID",
                 "owner": "gis_pkc",
                 "public": true,
-                "quality": 77,
-                "recordCount": 106,
+                "quality": 71,
+                "recordCount": 107,
                 "serviceSpatialReference": {
                     "latestWkid": 27700,
                     "wkid": 27700
@@ -767,16 +1295,19 @@
                 "supportsAdvancedQueries": true,
                 "tags": [
                     "polling",
-                    " boundary",
-                    " elecorate",
-                    " administrative"
+                    "boundary",
+                    "elecorate",
+                    "administrative",
+                    "arcgis",
+                    "service definition",
+                    ".sd"
                 ],
                 "thumbnail": null,
                 "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/6dac129ea3cb492b961186e316e09690/info/thumbnail/thumbnail.png",
                 "timeInfo": null,
                 "title": "polling districts",
                 "type": "Layer",
-                "updatedAt": "2017-09-28T20:18:21.960Z",
+                "updatedAt": "2019-08-21T11:27:32.741Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
@@ -846,7 +1377,7 @@
                     "boundary"
                 ],
                 "title": "Administrative Boundaries",
-                "updatedAt": "2017-09-28T20:18:13.371Z"
+                "updatedAt": "2019-08-21T11:37:23.526Z"
             },
             "id": "c6c78d59d7754bc68bb02cbf869252d2",
             "links": {
@@ -892,27 +1423,39 @@
                 "tags": [
                     {
                         "docCount": 3,
-                        "key": " administrative"
+                        "key": ".sd"
                     },
                     {
                         "docCount": 3,
-                        "key": " boundary"
+                        "key": "administrative"
+                    },
+                    {
+                        "docCount": 3,
+                        "key": "arcgis"
+                    },
+                    {
+                        "docCount": 3,
+                        "key": "boundary"
                     },
                     {
                         "docCount": 3,
                         "key": "polling"
                     },
                     {
-                        "docCount": 1,
-                        "key": " community"
+                        "docCount": 3,
+                        "key": "service definition"
                     },
                     {
                         "docCount": 1,
-                        "key": " elecorate"
+                        "key": "community"
                     },
                     {
                         "docCount": 1,
-                        "key": " electorate"
+                        "key": "elecorate"
+                    },
+                    {
+                        "docCount": 1,
+                        "key": "electorate"
                     }
                 ]
             },
