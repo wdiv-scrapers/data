@@ -1,0 +1,1163 @@
+[
+    {
+        "ADDRESS": "Wollaton Children's Centre, Arleston Drive, Nottingham, NG8 2FZ",
+        "CONST": "WOWD",
+        "NAME": "Wollaton Children's Centre",
+        "OBJECTID": 130,
+        "WARD": "Wollaton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2290489244036071, 52.95131780885946], \"type\": \"Point\"}, \"id\": 130, \"properties\": {\"ADDRESS\": \"Wollaton Children's Centre, Arleston Drive, Nottingham, NG8 2FZ\", \"CONST\": \"WOWD\", \"NAME\": \"Wollaton Children's Centre\", \"OBJECTID\": 130, \"WARD\": \"Wollaton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bestwood Community Centre, Gainsford Crescent, Nottingham, NG5 5HT",
+        "CONST": "BESF",
+        "NAME": "Bestwood Community Centre",
+        "OBJECTID": 131,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.166989138605999, 52.99519734042124], \"type\": \"Point\"}, \"id\": 131, \"properties\": {\"ADDRESS\": \"Bestwood Community Centre, Gainsford Crescent, Nottingham, NG5 5HT\", \"CONST\": \"BESF\", \"NAME\": \"Bestwood Community Centre\", \"OBJECTID\": 131, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Mary's Church, Highbury Road, Nottingham, NG6 9AF",
+        "CONST": "BUFB",
+        "NAME": "St. Mary's Church, Highbury Road",
+        "OBJECTID": 132,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.194032075550699, 52.99995916339709], \"type\": \"Point\"}, \"id\": 132, \"properties\": {\"ADDRESS\": \"St Mary's Church, Highbury Road, Nottingham, NG6 9AF\", \"CONST\": \"BUFB\", \"NAME\": \"St. Mary's Church, Highbury Road\", \"OBJECTID\": 132, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Garden Street Family Centre, Garden Street, Nottingham, NG7 3HD",
+        "CONST": "RADD",
+        "NAME": "Children's Resources Centre",
+        "OBJECTID": 133,
+        "WARD": "Radford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1706379254504196, 52.95639812075541], \"type\": \"Point\"}, \"id\": 133, \"properties\": {\"ADDRESS\": \"Garden Street Family Centre, Garden Street, Nottingham, NG7 3HD\", \"CONST\": \"RADD\", \"NAME\": \"Children's Resources Centre\", \"OBJECTID\": 133, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Beechdale Community Centre, Ambergate Road, Nottingham, NG8 3GD",
+        "CONST": "BILE",
+        "NAME": "Beechdale Community Centre",
+        "OBJECTID": 134,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2085422050941823, 52.96428823693338], \"type\": \"Point\"}, \"id\": 134, \"properties\": {\"ADDRESS\": \"Beechdale Community Centre, Ambergate Road, Nottingham, NG8 3GD\", \"CONST\": \"BILE\", \"NAME\": \"Beechdale Community Centre\", \"OBJECTID\": 134, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bestwood Park Church, Beckhampton Road, Nottingham, NG5 5NG",
+        "CONST": "BESB",
+        "NAME": "Bestwood Park Church",
+        "OBJECTID": 135,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1552304434315923, 53.00300710162826], \"type\": \"Point\"}, \"id\": 135, \"properties\": {\"ADDRESS\": \"Bestwood Park Church, Beckhampton Road, Nottingham, NG5 5NG\", \"CONST\": \"BESB\", \"NAME\": \"Bestwood Park Church\", \"OBJECTID\": 135, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY",
+        "CONST": "CLEA",
+        "NAME": "Dovecote Primary School Sports Hall",
+        "OBJECTID": 136,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1735587202662126, 52.91087710698604], \"type\": \"Point\"}, \"id\": 136, \"properties\": {\"ADDRESS\": \"Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY\", \"CONST\": \"CLEA\", \"NAME\": \"Dovecote Primary School Sports Hall\", \"OBJECTID\": 136, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Tailors Arms, Wilford Lane, Nottingham, NG11 7AX",
+        "CONST": "CLWB",
+        "NAME": "The Tailors Arms",
+        "OBJECTID": 137,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.158081539207252, 52.925340760651444], \"type\": \"Point\"}, \"id\": 137, \"properties\": {\"ADDRESS\": \"The Tailors Arms, Wilford Lane, Nottingham, NG11 7AX\", \"CONST\": \"CLWB\", \"NAME\": \"The Tailors Arms\", \"OBJECTID\": 137, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Strelley Social Club, Helston Drive, Nottingham, NG8 6JZ",
+        "CONST": "BILA",
+        "NAME": "Strelley Social Club",
+        "OBJECTID": 138,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.227756164804873, 52.97810507873422], \"type\": \"Point\"}, \"id\": 138, \"properties\": {\"ADDRESS\": \"Strelley Social Club, Helston Drive, Nottingham, NG8 6JZ\", \"CONST\": \"BILA\", \"NAME\": \"Strelley Social Club\", \"OBJECTID\": 138, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Snape Wood Community Centre, Snape Wood Road, Nottingham, NG6 7GH",
+        "CONST": "BULG",
+        "NAME": "Snape Wood Community Centre",
+        "OBJECTID": 139,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2159781995923378, 53.00344066526273], \"type\": \"Point\"}, \"id\": 139, \"properties\": {\"ADDRESS\": \"Snape Wood Community Centre, Snape Wood Road, Nottingham, NG6 7GH\", \"CONST\": \"BULG\", \"NAME\": \"Snape Wood Community Centre\", \"OBJECTID\": 139, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS",
+        "CONST": "BERE",
+        "NAME": "New Basford Community Centre",
+        "OBJECTID": 140,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1731020325245365, 52.97703656070874], \"type\": \"Point\"}, \"id\": 140, \"properties\": {\"ADDRESS\": \"New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS\", \"CONST\": \"BERE\", \"NAME\": \"New Basford Community Centre\", \"OBJECTID\": 140, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Edwards Lane Community Centre, Alderton Road, Nottingham, NG5 6DX",
+        "CONST": "SHEA",
+        "NAME": "Edwards Lane Community Centre",
+        "OBJECTID": 141,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.148654422036076, 52.99489679644004], \"type\": \"Point\"}, \"id\": 141, \"properties\": {\"ADDRESS\": \"Edwards Lane Community Centre, Alderton Road, Nottingham, NG5 6DX\", \"CONST\": \"SHEA\", \"NAME\": \"Edwards Lane Community Centre\", \"OBJECTID\": 141, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS",
+        "CONST": "BERC",
+        "NAME": "New Basford Community Centre",
+        "OBJECTID": 142,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1731020325245365, 52.97703656070874], \"type\": \"Point\"}, \"id\": 142, \"properties\": {\"ADDRESS\": \"New Basford Community Centre, Zulu Road, Nottingham, NG7 7DS\", \"CONST\": \"BERC\", \"NAME\": \"New Basford Community Centre\", \"OBJECTID\": 142, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Monty Hind Training Centre, Leen Gate, Nottingham, NG7 2LX",
+        "CONST": "LWEE",
+        "NAME": "Monty Hind Training Centre",
+        "OBJECTID": 143,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1808716824215388, 52.944953820526926], \"type\": \"Point\"}, \"id\": 143, \"properties\": {\"ADDRESS\": \"Monty Hind Training Centre, Leen Gate, Nottingham, NG7 2LX\", \"CONST\": \"LWEE\", \"NAME\": \"Monty Hind Training Centre\", \"OBJECTID\": 143, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The People's Church, Gladehill Road, Nottingham, NG5 5SA",
+        "CONST": "BESC",
+        "NAME": "The People's Church",
+        "OBJECTID": 144,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1486910139831374, 53.00136938958592], \"type\": \"Point\"}, \"id\": 144, \"properties\": {\"ADDRESS\": \"The People's Church, Gladehill Road, Nottingham, NG5 5SA\", \"CONST\": \"BESC\", \"NAME\": \"The People's Church\", \"OBJECTID\": 144, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG",
+        "CONST": "ASPF",
+        "NAME": "Bramley Green Centre",
+        "OBJECTID": 145,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2245955918336053, 52.975783290163555], \"type\": \"Point\"}, \"id\": 145, \"properties\": {\"ADDRESS\": \"Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG\", \"CONST\": \"ASPF\", \"NAME\": \"Bramley Green Centre\", \"OBJECTID\": 145, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Unit C, Tennyson Hall, Forest Road West, Nottingham, NG7 4EP",
+        "CONST": "HGAF",
+        "NAME": "Tennyson Hall, Unit C",
+        "OBJECTID": 146,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1669787025776217, 52.960139020803965], \"type\": \"Point\"}, \"id\": 146, \"properties\": {\"ADDRESS\": \"Unit C, Tennyson Hall, Forest Road West, Nottingham, NG7 4EP\", \"CONST\": \"HGAF\", \"NAME\": \"Tennyson Hall, Unit C\", \"OBJECTID\": 146, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Wilford Church Hall, Main Road, Nottingham, NG11 7AJ",
+        "CONST": "CLWA",
+        "NAME": "Wilford Church Hall",
+        "OBJECTID": 147,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1584265443448494, 52.93364966958488], \"type\": \"Point\"}, \"id\": 147, \"properties\": {\"ADDRESS\": \"Wilford Church Hall, Main Road, Nottingham, NG11 7AJ\", \"CONST\": \"CLWA\", \"NAME\": \"Wilford Church Hall\", \"OBJECTID\": 147, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Greyfriars Club, Gordon Road, Nottingham, NG3 2LG",
+        "CONST": "ANNF",
+        "NAME": "Greyfriars Club",
+        "OBJECTID": 148,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1272070804213903, 52.9635034648602], \"type\": \"Point\"}, \"id\": 148, \"properties\": {\"ADDRESS\": \"Greyfriars Club, Gordon Road, Nottingham, NG3 2LG\", \"CONST\": \"ANNF\", \"NAME\": \"Greyfriars Club\", \"OBJECTID\": 148, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Community Rooms, Masson Court, Nottingham, NG5 9NG",
+        "CONST": "BESA",
+        "NAME": "Masson Court Community Rooms",
+        "OBJECTID": 149,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1670786304821839, 53.00913144384412], \"type\": \"Point\"}, \"id\": 149, \"properties\": {\"ADDRESS\": \"Community Rooms, Masson Court, Nottingham, NG5 9NG\", \"CONST\": \"BESA\", \"NAME\": \"Masson Court Community Rooms\", \"OBJECTID\": 149, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Vale Community Centre, Wollaton Vale, Nottingham, NG8 2JA",
+        "CONST": "BILG",
+        "NAME": "Vale Community Centre",
+        "OBJECTID": 150,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2414293229077045, 52.95158428806933], \"type\": \"Point\"}, \"id\": 150, \"properties\": {\"ADDRESS\": \"Vale Community Centre, Wollaton Vale, Nottingham, NG8 2JA\", \"CONST\": \"BILG\", \"NAME\": \"Vale Community Centre\", \"OBJECTID\": 150, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA",
+        "CONST": "HGAA",
+        "NAME": "The Bridge Centre",
+        "OBJECTID": 151,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1712532129933164, 52.965481504559186], \"type\": \"Point\"}, \"id\": 151, \"properties\": {\"ADDRESS\": \"Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA\", \"CONST\": \"HGAA\", \"NAME\": \"The Bridge Centre\", \"OBJECTID\": 151, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+        "CONST": "CASB",
+        "NAME": "St Mary's Church",
+        "OBJECTID": 152,
+        "WARD": "Castle",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1430979987314682, 52.951195565016945], \"type\": \"Point\"}, \"id\": 152, \"properties\": {\"ADDRESS\": \"St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN\", \"CONST\": \"CASB\", \"NAME\": \"St Mary's Church\", \"OBJECTID\": 152, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Russell Youth Club, Lowdham Street, Nottingham, NG3 2DP",
+        "CONST": "ANNH",
+        "NAME": "Russell Youth Club",
+        "OBJECTID": 153,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1342863608003881, 52.956426567847735], \"type\": \"Point\"}, \"id\": 153, \"properties\": {\"ADDRESS\": \"Russell Youth Club, Lowdham Street, Nottingham, NG3 2DP\", \"CONST\": \"ANNH\", \"NAME\": \"Russell Youth Club\", \"OBJECTID\": 153, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Hyson Green Community Centre, 37A Gregory Boulevard, Nottingham, NG7 6BE",
+        "CONST": "HGAD",
+        "NAME": "Hyson Green Community Centre",
+        "OBJECTID": 154,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1680862437124153, 52.966034698958325], \"type\": \"Point\"}, \"id\": 154, \"properties\": {\"ADDRESS\": \"Hyson Green Community Centre, 37A Gregory Boulevard, Nottingham, NG7 6BE\", \"CONST\": \"HGAD\", \"NAME\": \"Hyson Green Community Centre\", \"OBJECTID\": 154, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD",
+        "CONST": "ASPC",
+        "NAME": "Bells Lane Community Centre",
+        "OBJECTID": 155,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2071014266384945, 52.98365046672092], \"type\": \"Point\"}, \"id\": 155, \"properties\": {\"ADDRESS\": \"Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD\", \"CONST\": \"ASPC\", \"NAME\": \"Bells Lane Community Centre\", \"OBJECTID\": 155, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St. Barnabas Cathedral Hall, College Street, Nottingham, NG1 5AQ",
+        "CONST": "CASD",
+        "NAME": "St. Barnabas Cathedral Hall",
+        "OBJECTID": 156,
+        "WARD": "Castle",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1577587632159438, 52.954266912324094], \"type\": \"Point\"}, \"id\": 156, \"properties\": {\"ADDRESS\": \"St. Barnabas Cathedral Hall, College Street, Nottingham, NG1 5AQ\", \"CONST\": \"CASD\", \"NAME\": \"St. Barnabas Cathedral Hall\", \"OBJECTID\": 156, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bilborough Community Centre, Bracebridge Drive, Nottingham, NG8 4PN",
+        "CONST": "BILC",
+        "NAME": "Bilborough Community Centre",
+        "OBJECTID": 157,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.22979283123334, 52.96487694691363], \"type\": \"Point\"}, \"id\": 157, \"properties\": {\"ADDRESS\": \"Bilborough Community Centre, Bracebridge Drive, Nottingham, NG8 4PN\", \"CONST\": \"BILC\", \"NAME\": \"Bilborough Community Centre\", \"OBJECTID\": 157, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Top Valley Community Centre, Unit 6, Top Valley Way, Nottingham, NG5 9DD",
+        "CONST": "BUFC",
+        "NAME": "Top Valley Community Centre",
+        "OBJECTID": 158,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1788956183726904, 53.002156937461514], \"type\": \"Point\"}, \"id\": 158, \"properties\": {\"ADDRESS\": \"Top Valley Community Centre, Unit 6, Top Valley Way, Nottingham, NG5 9DD\", \"CONST\": \"BUFC\", \"NAME\": \"Top Valley Community Centre\", \"OBJECTID\": 158, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "7th Nottingham Scouts Group, Trafalgar Lodge, Noel Steet, Nottingham, NG7 6AW",
+        "CONST": "HGAE",
+        "NAME": "7th Nottingham Scouts Group, Trafalgar Lodge",
+        "OBJECTID": 159,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1664519562643132, 52.96430632611978], \"type\": \"Point\"}, \"id\": 159, \"properties\": {\"ADDRESS\": \"7th Nottingham Scouts Group, Trafalgar Lodge, Noel Steet, Nottingham, NG7 6AW\", \"CONST\": \"HGAE\", \"NAME\": \"7th Nottingham Scouts Group, Trafalgar Lodge\", \"OBJECTID\": 159, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Carrington Sports Ground Pavilion, Esher Grove, Nottingham, NG3 5DR",
+        "CONST": "MAPB",
+        "NAME": "Carrington Sports Ground Pavilion",
+        "OBJECTID": 160,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1495092039411168, 52.97491969584118], \"type\": \"Point\"}, \"id\": 160, \"properties\": {\"ADDRESS\": \"Carrington Sports Ground Pavilion, Esher Grove, Nottingham, NG3 5DR\", \"CONST\": \"MAPB\", \"NAME\": \"Carrington Sports Ground Pavilion\", \"OBJECTID\": 160, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE",
+        "CONST": "BESE",
+        "NAME": "Bestwood Park Community Centre",
+        "OBJECTID": 161,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1608787981428985, 53.00297514500825], \"type\": \"Point\"}, \"id\": 161, \"properties\": {\"ADDRESS\": \"Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE\", \"CONST\": \"BESE\", \"NAME\": \"Bestwood Park Community Centre\", \"OBJECTID\": 161, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Clifton Village Hall, Village Road, Nottingham, NG11 8NE",
+        "CONST": "CLWF",
+        "NAME": "Clifton Village Hall",
+        "OBJECTID": 162,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1870487601547122, 52.9083361240955], \"type\": \"Point\"}, \"id\": 162, \"properties\": {\"ADDRESS\": \"Clifton Village Hall, Village Road, Nottingham, NG11 8NE\", \"CONST\": \"CLWF\", \"NAME\": \"Clifton Village Hall\", \"OBJECTID\": 162, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Church on Rise Park, Revelstoke Way, Nottingham, NG5 5EB",
+        "CONST": "BUFA",
+        "NAME": "The Church on Rise Park",
+        "OBJECTID": 163,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1745956538290574, 53.01118843309145], \"type\": \"Point\"}, \"id\": 163, \"properties\": {\"ADDRESS\": \"The Church on Rise Park, Revelstoke Way, Nottingham, NG5 5EB\", \"CONST\": \"BUFA\", \"NAME\": \"The Church on Rise Park\", \"OBJECTID\": 163, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Hope Centre, 2 Southchurch Drive, Nottingham, NG11 8AR",
+        "CONST": "CLEC",
+        "NAME": "Hope Centre",
+        "OBJECTID": 164,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1703577983972542, 52.911079566215875], \"type\": \"Point\"}, \"id\": 164, \"properties\": {\"ADDRESS\": \"Hope Centre, 2 Southchurch Drive, Nottingham, NG11 8AR\", \"CONST\": \"CLEC\", \"NAME\": \"Hope Centre\", \"OBJECTID\": 164, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Lenton Centre, Willoughby Street, Nottingham, NG7 1RQ",
+        "CONST": "LWED",
+        "NAME": "The Lenton Centre",
+        "OBJECTID": 165,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1721440180287326, 52.948462081093865], \"type\": \"Point\"}, \"id\": 165, \"properties\": {\"ADDRESS\": \"The Lenton Centre, Willoughby Street, Nottingham, NG7 1RQ\", \"CONST\": \"LWED\", \"NAME\": \"The Lenton Centre\", \"OBJECTID\": 165, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG",
+        "CONST": "BILB",
+        "NAME": "Bramley Green Centre",
+        "OBJECTID": 166,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2245955918336053, 52.975783290163555], \"type\": \"Point\"}, \"id\": 166, \"properties\": {\"ADDRESS\": \"Bramley Green Centre, Bramley Green, Nottingham, NG8 6LG\", \"CONST\": \"BILB\", \"NAME\": \"Bramley Green Centre\", \"OBJECTID\": 166, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Denton Green Training Centre, Denton Green, Nottingham, NG8 6GD",
+        "CONST": "ASPB",
+        "NAME": "Denton Green Training Centre",
+        "OBJECTID": 167,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.217314787391918, 52.97816274957151], \"type\": \"Point\"}, \"id\": 167, \"properties\": {\"ADDRESS\": \"Denton Green Training Centre, Denton Green, Nottingham, NG8 6GD\", \"CONST\": \"ASPB\", \"NAME\": \"Denton Green Training Centre\", \"OBJECTID\": 167, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Blessed Robert Widmerpool Catholic Voluntary Academy, Listowel Crescent, Nottingham, NG11 9BH",
+        "CONST": "CLEE",
+        "NAME": "Community Room - Blessed Robert Widmerpool Academy",
+        "OBJECTID": 168,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.178523382636941, 52.89918016088634], \"type\": \"Point\"}, \"id\": 168, \"properties\": {\"ADDRESS\": \"Blessed Robert Widmerpool Catholic Voluntary Academy, Listowel Crescent, Nottingham, NG11 9BH\", \"CONST\": \"CLEE\", \"NAME\": \"Community Room - Blessed Robert Widmerpool Academy\", \"OBJECTID\": 168, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN",
+        "CONST": "SHED",
+        "NAME": "Sherwood Community Centre",
+        "OBJECTID": 169,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1434790059556843, 52.98614903692172], \"type\": \"Point\"}, \"id\": 169, \"properties\": {\"ADDRESS\": \"Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN\", \"CONST\": \"SHED\", \"NAME\": \"Sherwood Community Centre\", \"OBJECTID\": 169, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Clifton Methodist Church, Rivergreen, Nottingham, NG11 8AR",
+        "CONST": "CLEB",
+        "NAME": "Clifton Methodist Church",
+        "OBJECTID": 170,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1752486051733442, 52.9072390884354], \"type\": \"Point\"}, \"id\": 170, \"properties\": {\"ADDRESS\": \"Clifton Methodist Church, Rivergreen, Nottingham, NG11 8AR\", \"CONST\": \"CLEB\", \"NAME\": \"Clifton Methodist Church\", \"OBJECTID\": 170, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "John Carroll Leisure Centre, Denman Street Central, Nottingham, NG7 3PS",
+        "CONST": "RADB",
+        "NAME": "John Carroll Leisure Centre",
+        "OBJECTID": 171,
+        "WARD": "Radford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1738138194362862, 52.957678741234], \"type\": \"Point\"}, \"id\": 171, \"properties\": {\"ADDRESS\": \"John Carroll Leisure Centre, Denman Street Central, Nottingham, NG7 3PS\", \"CONST\": \"RADB\", \"NAME\": \"John Carroll Leisure Centre\", \"OBJECTID\": 171, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Studio, Portland Building, University of Nottingham, Nottingham, NG7 2RD",
+        "CONST": "LWEG",
+        "NAME": "The Studio, Portland Building",
+        "OBJECTID": 172,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1935984282353884, 52.93838842862628], \"type\": \"Point\"}, \"id\": 172, \"properties\": {\"ADDRESS\": \"The Studio, Portland Building, University of Nottingham, Nottingham, NG7 2RD\", \"CONST\": \"LWEG\", \"NAME\": \"The Studio, Portland Building\", \"OBJECTID\": 172, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Oakleigh Social Club, 1 Highbury Road, Nottingham, NG6 9DD",
+        "CONST": "BUFF",
+        "NAME": "Oakleigh Social Club",
+        "OBJECTID": 173,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1862636101801862, 52.990710191116996], \"type\": \"Point\"}, \"id\": 173, \"properties\": {\"ADDRESS\": \"Oakleigh Social Club, 1 Highbury Road, Nottingham, NG6 9DD\", \"CONST\": \"BUFF\", \"NAME\": \"Oakleigh Social Club\", \"OBJECTID\": 173, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Blue Bell Hill Community Centre, Dennett Close, Nottingham, NG3 2GL",
+        "CONST": "ANNE",
+        "NAME": "Blue Bell Hill Community Centre",
+        "OBJECTID": 174,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.135144862186352, 52.95966004259564], \"type\": \"Point\"}, \"id\": 174, \"properties\": {\"ADDRESS\": \"Blue Bell Hill Community Centre, Dennett Close, Nottingham, NG3 2GL\", \"CONST\": \"ANNE\", \"NAME\": \"Blue Bell Hill Community Centre\", \"OBJECTID\": 174, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Muslim Community Organisation Centre, Beaumont Street, Nottingham, NG2 4PJ",
+        "CONST": "DALA",
+        "NAME": "Muslim Community Organisation Centre",
+        "OBJECTID": 175,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1337299465117316, 52.951487267736034], \"type\": \"Point\"}, \"id\": 175, \"properties\": {\"ADDRESS\": \"Muslim Community Organisation Centre, Beaumont Street, Nottingham, NG2 4PJ\", \"CONST\": \"DALA\", \"NAME\": \"Muslim Community Organisation Centre\", \"OBJECTID\": 175, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Highbank Primary And Nursery School, Winscombe Mount, Nottingham, NG11 9FP",
+        "CONST": "CLEG",
+        "NAME": "Highbank Primary School",
+        "OBJECTID": 176,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1836141429287095, 52.8946422308627], \"type\": \"Point\"}, \"id\": 176, \"properties\": {\"ADDRESS\": \"Highbank Primary And Nursery School, Winscombe Mount, Nottingham, NG11 9FP\", \"CONST\": \"CLEG\", \"NAME\": \"Highbank Primary School\", \"OBJECTID\": 176, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Pavilion, Vernon Park, Vernon Avenue, Old Basford, Nottingham, NG6 0AP",
+        "CONST": "BASF",
+        "NAME": "Vernon Park Pavilion",
+        "OBJECTID": 177,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.174879381171643, 52.985364026357054], \"type\": \"Point\"}, \"id\": 177, \"properties\": {\"ADDRESS\": \"Pavilion, Vernon Park, Vernon Avenue, Old Basford, Nottingham, NG6 0AP\", \"CONST\": \"BASF\", \"NAME\": \"Vernon Park Pavilion\", \"OBJECTID\": 177, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Highwood House, 39 - 59 Cranmer Street, Nottingham",
+        "CONST": "MAPA",
+        "NAME": "Highwood House Creche Room",
+        "OBJECTID": 178,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1453468479804778, 52.96473191196166], \"type\": \"Point\"}, \"id\": 178, \"properties\": {\"ADDRESS\": \"Highwood House, 39 - 59 Cranmer Street, Nottingham\", \"CONST\": \"MAPA\", \"NAME\": \"Highwood House Creche Room\", \"OBJECTID\": 178, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Snape Wood Primary And Nursery School, Aspen Road, Nottingham, NG6 7DS",
+        "CONST": "BULF",
+        "NAME": "Snape Wood Primary School",
+        "OBJECTID": 179,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2094827289730308, 53.00169879618813], \"type\": \"Point\"}, \"id\": 179, \"properties\": {\"ADDRESS\": \"Snape Wood Primary And Nursery School, Aspen Road, Nottingham, NG6 7DS\", \"CONST\": \"BULF\", \"NAME\": \"Snape Wood Primary School\", \"OBJECTID\": 179, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH",
+        "CONST": "LEED",
+        "NAME": "Lutheran Church Hall",
+        "OBJECTID": 180,
+        "WARD": "Leen Valley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.185210816218733, 52.96906575452761], \"type\": \"Point\"}, \"id\": 180, \"properties\": {\"ADDRESS\": \"Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH\", \"CONST\": \"LEED\", \"NAME\": \"Lutheran Church Hall\", \"OBJECTID\": 180, \"WARD\": \"Leen Valley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "20 Jarvis Avenue, Nottingham, NG3 7BH",
+        "CONST": "DALF",
+        "NAME": "Christadelphian Church Hall",
+        "OBJECTID": 181,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1119867299550679, 52.960801823693586], \"type\": \"Point\"}, \"id\": 181, \"properties\": {\"ADDRESS\": \"20 Jarvis Avenue, Nottingham, NG3 7BH\", \"CONST\": \"DALF\", \"NAME\": \"Christadelphian Church Hall\", \"OBJECTID\": 181, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Meadows Library, Wilford Grove, Nottingham, NG2 2DR",
+        "CONST": "MEAC",
+        "NAME": "Meadows Library",
+        "OBJECTID": 182,
+        "WARD": "Meadows",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1454504510083463, 52.940568841917305], \"type\": \"Point\"}, \"id\": 182, \"properties\": {\"ADDRESS\": \"Meadows Library, Wilford Grove, Nottingham, NG2 2DR\", \"CONST\": \"MEAC\", \"NAME\": \"Meadows Library\", \"OBJECTID\": 182, \"WARD\": \"Meadows\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Meadows Youth Centre, Wilford Crescent East, Nottingham, NG2 2EF",
+        "CONST": "MEAD",
+        "NAME": "Meadows Youth Centre",
+        "OBJECTID": 183,
+        "WARD": "Meadows",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1422596675904955, 52.93712083562307], \"type\": \"Point\"}, \"id\": 183, \"properties\": {\"ADDRESS\": \"Meadows Youth Centre, Wilford Crescent East, Nottingham, NG2 2EF\", \"CONST\": \"MEAD\", \"NAME\": \"Meadows Youth Centre\", \"OBJECTID\": 183, \"WARD\": \"Meadows\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Birchover Community Centre, 83 Birchover Road, Nottingham, NG8 4BW",
+        "CONST": "BILF",
+        "NAME": "Birchover Community Centre",
+        "OBJECTID": 184,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.237836749404303, 52.95869897500894], \"type\": \"Point\"}, \"id\": 184, \"properties\": {\"ADDRESS\": \"Birchover Community Centre, 83 Birchover Road, Nottingham, NG8 4BW\", \"CONST\": \"BILF\", \"NAME\": \"Birchover Community Centre\", \"OBJECTID\": 184, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE",
+        "CONST": "HGAB",
+        "NAME": "Radford Care Group",
+        "OBJECTID": 185,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1786995309966597, 52.9622251666959], \"type\": \"Point\"}, \"id\": 185, \"properties\": {\"ADDRESS\": \"Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE\", \"CONST\": \"HGAB\", \"NAME\": \"Radford Care Group\", \"OBJECTID\": 185, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE",
+        "CONST": "BESD",
+        "NAME": "Bestwood Park Community Centre",
+        "OBJECTID": 186,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1608787981428985, 53.00297514500825], \"type\": \"Point\"}, \"id\": 186, \"properties\": {\"ADDRESS\": \"Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE\", \"CONST\": \"BESD\", \"NAME\": \"Bestwood Park Community Centre\", \"OBJECTID\": 186, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Crabtree Farm Community Centre, Steadfold Close, Nottingham, NG6 8AX",
+        "CONST": "BULD",
+        "NAME": "Crabtree Farm Community Centre",
+        "OBJECTID": 187,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2029738980979532, 52.99666638063535], \"type\": \"Point\"}, \"id\": 187, \"properties\": {\"ADDRESS\": \"Crabtree Farm Community Centre, Steadfold Close, Nottingham, NG6 8AX\", \"CONST\": \"BULD\", \"NAME\": \"Crabtree Farm Community Centre\", \"OBJECTID\": 187, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Newton and Arkwright Building (Main Entrance), Nottingham Trent University, Goldsmith Street, Nottingham, NG1 4BU",
+        "CONST": "HGAG",
+        "NAME": "Newton and Arkwright Building (Main Entrance)",
+        "OBJECTID": 188,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1525421507900702, 52.95690866577656], \"type\": \"Point\"}, \"id\": 188, \"properties\": {\"ADDRESS\": \"Newton and Arkwright Building (Main Entrance), Nottingham Trent University, Goldsmith Street, Nottingham, NG1 4BU\", \"CONST\": \"HGAG\", \"NAME\": \"Newton and Arkwright Building (Main Entrance)\", \"OBJECTID\": 188, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Kingswood Methodist Church, Lambourne Drive, Nottingham, NG8 1GR",
+        "CONST": "WOWB",
+        "NAME": "Kingswood Methodist Church Hall",
+        "OBJECTID": 189,
+        "WARD": "Wollaton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.208656578334391, 52.95718745361347], \"type\": \"Point\"}, \"id\": 189, \"properties\": {\"ADDRESS\": \"Kingswood Methodist Church, Lambourne Drive, Nottingham, NG8 1GR\", \"CONST\": \"WOWB\", \"NAME\": \"Kingswood Methodist Church Hall\", \"OBJECTID\": 189, \"WARD\": \"Wollaton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Philip's Church, Knights Close, Nottingham, NG5 9AJ",
+        "CONST": "BUFD",
+        "NAME": "St. Philip's Church",
+        "OBJECTID": 190,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1696619893608438, 53.00498743406542], \"type\": \"Point\"}, \"id\": 190, \"properties\": {\"ADDRESS\": \"St Philip's Church, Knights Close, Nottingham, NG5 9AJ\", \"CONST\": \"BUFD\", \"NAME\": \"St. Philip's Church\", \"OBJECTID\": 190, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY",
+        "CONST": "CLWD",
+        "NAME": "Dovecote Primary School Sports Hall",
+        "OBJECTID": 191,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1735587202662126, 52.91087710698604], \"type\": \"Point\"}, \"id\": 191, \"properties\": {\"ADDRESS\": \"Dovecote Primary and Nursery School, Greencroft, Nottingham, NG11 8EY\", \"CONST\": \"CLWD\", \"NAME\": \"Dovecote Primary School Sports Hall\", \"OBJECTID\": 191, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St John's Church, Mansfield Road, Nottingham, NG5 2DP",
+        "CONST": "SHEF",
+        "NAME": "St John's Community Centre",
+        "OBJECTID": 192,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1506128958090391, 52.97559278562001], \"type\": \"Point\"}, \"id\": 192, \"properties\": {\"ADDRESS\": \"St John's Church, Mansfield Road, Nottingham, NG5 2DP\", \"CONST\": \"SHEF\", \"NAME\": \"St John's Community Centre\", \"OBJECTID\": 192, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN",
+        "CONST": "SHEC",
+        "NAME": "Sherwood Community Centre",
+        "OBJECTID": 193,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1434790059556843, 52.98614903692172], \"type\": \"Point\"}, \"id\": 193, \"properties\": {\"ADDRESS\": \"Sherwood Community Centre, Mansfield Road, Nottingham, NG5 3FN\", \"CONST\": \"SHEC\", \"NAME\": \"Sherwood Community Centre\", \"OBJECTID\": 193, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Highbury Vale Community Centre, Brooklyn Road, Nottingham, NG6 9ES",
+        "CONST": "BASA",
+        "NAME": "Highbury Vale Community Centre",
+        "OBJECTID": 194,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1835052327623736, 52.993990381076316], \"type\": \"Point\"}, \"id\": 194, \"properties\": {\"ADDRESS\": \"Highbury Vale Community Centre, Brooklyn Road, Nottingham, NG6 9ES\", \"CONST\": \"BASA\", \"NAME\": \"Highbury Vale Community Centre\", \"OBJECTID\": 194, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG",
+        "CONST": "MAPE",
+        "NAME": "St. Ann's Valley Centre",
+        "OBJECTID": 195,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1361284709420851, 52.962776816444446], \"type\": \"Point\"}, \"id\": 195, \"properties\": {\"ADDRESS\": \"St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG\", \"CONST\": \"MAPE\", \"NAME\": \"St. Ann's Valley Centre\", \"OBJECTID\": 195, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "United Reformed Church, Parkdale Road, Nottingham, NG3 7GL",
+        "CONST": "DALE",
+        "NAME": "Dales United Reformed Church Hall",
+        "OBJECTID": 196,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1069224630767747, 52.96164486537052], \"type\": \"Point\"}, \"id\": 196, \"properties\": {\"ADDRESS\": \"United Reformed Church, Parkdale Road, Nottingham, NG3 7GL\", \"CONST\": \"DALE\", \"NAME\": \"Dales United Reformed Church Hall\", \"OBJECTID\": 196, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Healthy Living Centre, Lawton Drive, Nottingham, NG6 8BL",
+        "CONST": "BULB",
+        "NAME": "Healthy Living Centre",
+        "OBJECTID": 197,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.193413927204925, 53.012333222187536], \"type\": \"Point\"}, \"id\": 197, \"properties\": {\"ADDRESS\": \"Healthy Living Centre, Lawton Drive, Nottingham, NG6 8BL\", \"CONST\": \"BULB\", \"NAME\": \"Healthy Living Centre\", \"OBJECTID\": 197, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Queens Walk Community Centre, Queens Walk, Nottingham, NG2 2DF",
+        "CONST": "MEAB",
+        "NAME": "Queens Walk Community Centre",
+        "OBJECTID": 198,
+        "WARD": "Meadows",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1501898996781579, 52.94247264243203], \"type\": \"Point\"}, \"id\": 198, \"properties\": {\"ADDRESS\": \"Queens Walk Community Centre, Queens Walk, Nottingham, NG2 2DF\", \"CONST\": \"MEAB\", \"NAME\": \"Queens Walk Community Centre\", \"OBJECTID\": 198, \"WARD\": \"Meadows\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN",
+        "CONST": "ASPE",
+        "NAME": "Aspley Community and Training Centre",
+        "OBJECTID": 199,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2040250727064306, 52.97597106353139], \"type\": \"Point\"}, \"id\": 199, \"properties\": {\"ADDRESS\": \"Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN\", \"CONST\": \"ASPE\", \"NAME\": \"Aspley Community and Training Centre\", \"OBJECTID\": 199, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Heathfield Community Centre, 7A Ventnor Rise, Nottingham, NG5 1HR",
+        "CONST": "BASG",
+        "NAME": "Heathfield Community Centre",
+        "OBJECTID": 200,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1677098174096725, 52.9863838260249], \"type\": \"Point\"}, \"id\": 200, \"properties\": {\"ADDRESS\": \"Heathfield Community Centre, 7A Ventnor Rise, Nottingham, NG5 1HR\", \"CONST\": \"BASG\", \"NAME\": \"Heathfield Community Centre\", \"OBJECTID\": 200, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Briar Court Communal Room, Briar Court, Nottingham, NG2 1PD",
+        "CONST": "MEAA",
+        "NAME": "Briar Court Communal Room",
+        "OBJECTID": 201,
+        "WARD": "Meadows",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1553327754135527, 52.93895848642163], \"type\": \"Point\"}, \"id\": 201, \"properties\": {\"ADDRESS\": \"Briar Court Communal Room, Briar Court, Nottingham, NG2 1PD\", \"CONST\": \"MEAA\", \"NAME\": \"Briar Court Communal Room\", \"OBJECTID\": 201, \"WARD\": \"Meadows\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG",
+        "CONST": "ANND",
+        "NAME": "St. Ann's Valley Centre",
+        "OBJECTID": 202,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1361284709420851, 52.962776816444446], \"type\": \"Point\"}, \"id\": 202, \"properties\": {\"ADDRESS\": \"St Ann's Valley Centre, 2 Livingstone Road, Nottingham, NG3 3GG\", \"CONST\": \"ANND\", \"NAME\": \"St. Ann's Valley Centre\", \"OBJECTID\": 202, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sneinton Library, Sneinton Boulevard, Nottingham, NG2 4FD",
+        "CONST": "DALB",
+        "NAME": "Sneinton Library",
+        "OBJECTID": 203,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1261424976985617, 52.95056875150874], \"type\": \"Point\"}, \"id\": 203, \"properties\": {\"ADDRESS\": \"Sneinton Library, Sneinton Boulevard, Nottingham, NG2 4FD\", \"CONST\": \"DALB\", \"NAME\": \"Sneinton Library\", \"OBJECTID\": 203, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Silverdale Community Centre, The Downs, Nottingham, NG11 7EB",
+        "CONST": "CLWC",
+        "NAME": "Silverdale Community Centre",
+        "OBJECTID": 204,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1668701327877862, 52.91305086789496], \"type\": \"Point\"}, \"id\": 204, \"properties\": {\"ADDRESS\": \"Silverdale Community Centre, The Downs, Nottingham, NG11 7EB\", \"CONST\": \"CLWC\", \"NAME\": \"Silverdale Community Centre\", \"OBJECTID\": 204, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Radford Children's Centre, Southwold Primary School, Kennington Road, Nottingham, NG8 1QD",
+        "CONST": "LWEA",
+        "NAME": "Radford Children's Centre",
+        "OBJECTID": 205,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1890299382875191, 52.956731787477246], \"type\": \"Point\"}, \"id\": 205, \"properties\": {\"ADDRESS\": \"Radford Children's Centre, Southwold Primary School, Kennington Road, Nottingham, NG8 1QD\", \"CONST\": \"LWEA\", \"NAME\": \"Radford Children's Centre\", \"OBJECTID\": 205, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Hogarth Primary And Nursery School, Porchester Road, Nottingham, NG3 6JG",
+        "CONST": "MAPF",
+        "NAME": "The Pavilion, Hogarth Academy",
+        "OBJECTID": 206,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1202648230523184, 52.96517828323973], \"type\": \"Point\"}, \"id\": 206, \"properties\": {\"ADDRESS\": \"Hogarth Primary And Nursery School, Porchester Road, Nottingham, NG3 6JG\", \"CONST\": \"MAPF\", \"NAME\": \"The Pavilion, Hogarth Academy\", \"OBJECTID\": 206, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Stadium Leisure, Nottingham Road, Nottingham, NG5 1EG",
+        "CONST": "BERA",
+        "NAME": "Stadium Leisure",
+        "OBJECTID": 207,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1679536701065358, 52.97834907130387], \"type\": \"Point\"}, \"id\": 207, \"properties\": {\"ADDRESS\": \"Stadium Leisure, Nottingham Road, Nottingham, NG5 1EG\", \"CONST\": \"BERA\", \"NAME\": \"Stadium Leisure\", \"OBJECTID\": 207, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St. Mary's Church Hall, Wollaton Hall Drive, Nottingham, NG8 1AF",
+        "CONST": "LWEC",
+        "NAME": "St. Mary's Church Hall",
+        "OBJECTID": 208,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1871539895868066, 52.946816044581134], \"type\": \"Point\"}, \"id\": 208, \"properties\": {\"ADDRESS\": \"St. Mary's Church Hall, Wollaton Hall Drive, Nottingham, NG8 1AF\", \"CONST\": \"LWEC\", \"NAME\": \"St. Mary's Church Hall\", \"OBJECTID\": 208, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Clifton Young People's Centre, Green Lane, Nottingham, NG11 9AY",
+        "CONST": "CLED",
+        "NAME": "Clifton Young People's Centre",
+        "OBJECTID": 209,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.176696844790771, 52.90221498491974], \"type\": \"Point\"}, \"id\": 209, \"properties\": {\"ADDRESS\": \"Clifton Young People's Centre, Green Lane, Nottingham, NG11 9AY\", \"CONST\": \"CLED\", \"NAME\": \"Clifton Young People's Centre\", \"OBJECTID\": 209, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Portable Unit at Starting Gate Car Park, Daleside Road East, NG2 4DX",
+        "CONST": "DALC",
+        "NAME": "Portable Unit, Starting Gate Car Park",
+        "OBJECTID": 210,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.097226990462778, 52.954151256847965], \"type\": \"Point\"}, \"id\": 210, \"properties\": {\"ADDRESS\": \"Portable Unit at Starting Gate Car Park, Daleside Road East, NG2 4DX\", \"CONST\": \"DALC\", \"NAME\": \"Portable Unit, Starting Gate Car Park\", \"OBJECTID\": 210, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Whitegate Primary And Nursery School, Middlefell Way, Nottingham, NG11 9JQ",
+        "CONST": "CLEH",
+        "NAME": "Whitegate Primary School",
+        "OBJECTID": 211,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1867458288511705, 52.90071903075741], \"type\": \"Point\"}, \"id\": 211, \"properties\": {\"ADDRESS\": \"Whitegate Primary And Nursery School, Middlefell Way, Nottingham, NG11 9JQ\", \"CONST\": \"CLEH\", \"NAME\": \"Whitegate Primary School\", \"OBJECTID\": 211, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Holiday Inn, 12 Castle Bridge Road, Nottingham, NG7 1GX",
+        "CONST": "CASC",
+        "NAME": "Holiday Inn",
+        "OBJECTID": 212,
+        "WARD": "Castle",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1644033398239153, 52.94469516610684], \"type\": \"Point\"}, \"id\": 212, \"properties\": {\"ADDRESS\": \"Holiday Inn, 12 Castle Bridge Road, Nottingham, NG7 1GX\", \"CONST\": \"CASC\", \"NAME\": \"Holiday Inn\", \"OBJECTID\": 212, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Indian Community Centre Association, 99 Hucknall Road, Nottingham, NG5 1QZ",
+        "CONST": "BERD",
+        "NAME": "The Indian Community Centre Association",
+        "OBJECTID": 213,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1565408332005, 52.9755450278247], \"type\": \"Point\"}, \"id\": 213, \"properties\": {\"ADDRESS\": \"The Indian Community Centre Association, 99 Hucknall Road, Nottingham, NG5 1QZ\", \"CONST\": \"BERD\", \"NAME\": \"The Indian Community Centre Association\", \"OBJECTID\": 213, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+        "CONST": "CASA",
+        "NAME": "St Mary's Church",
+        "OBJECTID": 214,
+        "WARD": "Castle",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1430979987314682, 52.951195565016945], \"type\": \"Point\"}, \"id\": 214, \"properties\": {\"ADDRESS\": \"St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN\", \"CONST\": \"CASA\", \"NAME\": \"St Mary's Church\", \"OBJECTID\": 214, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Nursery, Haydn Primary School, Haydn Road, Nottingham, NG5 2JU",
+        "CONST": "SHEE",
+        "NAME": "Haydn Primary School Nursery",
+        "OBJECTID": 215,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1508726411436054, 52.980565706864674], \"type\": \"Point\"}, \"id\": 215, \"properties\": {\"ADDRESS\": \"Nursery, Haydn Primary School, Haydn Road, Nottingham, NG5 2JU\", \"CONST\": \"SHEE\", \"NAME\": \"Haydn Primary School Nursery\", \"OBJECTID\": 215, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Southwark Academy, Park Lane, Nottingham, NG6 0DT",
+        "CONST": "BASB",
+        "NAME": "Southwark Primary School",
+        "OBJECTID": 216,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.181859127478347, 52.98885514727551], \"type\": \"Point\"}, \"id\": 216, \"properties\": {\"ADDRESS\": \"Southwark Academy, Park Lane, Nottingham, NG6 0DT\", \"CONST\": \"BASB\", \"NAME\": \"Southwark Primary School\", \"OBJECTID\": 216, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sheila Roper Community Centre, Tenants Hall Close, Nottingham, NG9 2RW",
+        "CONST": "LWEH",
+        "NAME": "Sheila Roper Community Centre",
+        "OBJECTID": 217,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2084571790365184, 52.93788574412263], \"type\": \"Point\"}, \"id\": 217, \"properties\": {\"ADDRESS\": \"Sheila Roper Community Centre, Tenants Hall Close, Nottingham, NG9 2RW\", \"CONST\": \"LWEH\", \"NAME\": \"Sheila Roper Community Centre\", \"OBJECTID\": 217, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Mapperley Community Centre, 589 Woodborough Road, Nottingham, NG3 5GG",
+        "CONST": "MAPD",
+        "NAME": "Mapperley Community Centre",
+        "OBJECTID": 218,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1300428805252918, 52.98096364623426], \"type\": \"Point\"}, \"id\": 218, \"properties\": {\"ADDRESS\": \"Mapperley Community Centre, 589 Woodborough Road, Nottingham, NG3 5GG\", \"CONST\": \"MAPD\", \"NAME\": \"Mapperley Community Centre\", \"OBJECTID\": 218, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St John's Church, Keys Close, Nottingham, NG6 8JL",
+        "CONST": "BULA",
+        "NAME": "St. John's Church",
+        "OBJECTID": 219,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2045725257266409, 53.003724658093844], \"type\": \"Point\"}, \"id\": 219, \"properties\": {\"ADDRESS\": \"St John's Church, Keys Close, Nottingham, NG6 8JL\", \"CONST\": \"BULA\", \"NAME\": \"St. John's Church\", \"OBJECTID\": 219, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Highbank Community Centre, Farnborough Road, Nottingham, NG11 9DG",
+        "CONST": "CLEF",
+        "NAME": "Highbank Community Centre",
+        "OBJECTID": 220,
+        "WARD": "Clifton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1791529817497823, 52.896541583637756], \"type\": \"Point\"}, \"id\": 220, \"properties\": {\"ADDRESS\": \"Highbank Community Centre, Farnborough Road, Nottingham, NG11 9DG\", \"CONST\": \"CLEF\", \"NAME\": \"Highbank Community Centre\", \"OBJECTID\": 220, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Winwood Community Centre, Chestnut Walk, Nottingham, NG5 4EH",
+        "CONST": "SHEH",
+        "NAME": "Winwood Community Centre",
+        "OBJECTID": 221,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.136898179246058, 52.98300920054584], \"type\": \"Point\"}, \"id\": 221, \"properties\": {\"ADDRESS\": \"Winwood Community Centre, Chestnut Walk, Nottingham, NG5 4EH\", \"CONST\": \"SHEH\", \"NAME\": \"Winwood Community Centre\", \"OBJECTID\": 221, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Radford And Lenton Library, Lenton Boulevard, Nottingham, NG7 2BY",
+        "CONST": "RADC",
+        "NAME": "Radford and Lenton Library",
+        "OBJECTID": 222,
+        "WARD": "Radford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1760098021050553, 52.95491631813419], \"type\": \"Point\"}, \"id\": 222, \"properties\": {\"ADDRESS\": \"Radford And Lenton Library, Lenton Boulevard, Nottingham, NG7 2BY\", \"CONST\": \"RADC\", \"NAME\": \"Radford and Lenton Library\", \"OBJECTID\": 222, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Leisure Centre, Nottingham University Hospitals NHS Trust City Hospital Site, North Road, City Hospital Campus, Nottingham, NG5 1PB",
+        "CONST": "SHEB",
+        "NAME": "The Leisure Centre Club, City Hospital",
+        "OBJECTID": 223,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1533151175898717, 52.99274562379743], \"type\": \"Point\"}, \"id\": 223, \"properties\": {\"ADDRESS\": \"Leisure Centre, Nottingham University Hospitals NHS Trust City Hospital Site, North Road, City Hospital Campus, Nottingham, NG5 1PB\", \"CONST\": \"SHEB\", \"NAME\": \"The Leisure Centre Club, City Hospital\", \"OBJECTID\": 223, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bulwell United Reformed Church, Broomhill Road, Nottingham, NG6 9GJ",
+        "CONST": "BUFE",
+        "NAME": "Bulwell United Reformed Church",
+        "OBJECTID": 224,
+        "WARD": "Bulwell Forest",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1877513097902939, 52.997174703289424], \"type\": \"Point\"}, \"id\": 224, \"properties\": {\"ADDRESS\": \"Bulwell United Reformed Church, Broomhill Road, Nottingham, NG6 9GJ\", \"CONST\": \"BUFE\", \"NAME\": \"Bulwell United Reformed Church\", \"OBJECTID\": 224, \"WARD\": \"Bulwell Forest\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sherwood Library, Spondon Street, Nottingham, NG5 4AB",
+        "CONST": "SHEG",
+        "NAME": "Sherwood Library",
+        "OBJECTID": 225,
+        "WARD": "Sherwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1471071528587653, 52.97967582071995], \"type\": \"Point\"}, \"id\": 225, \"properties\": {\"ADDRESS\": \"Sherwood Library, Spondon Street, Nottingham, NG5 4AB\", \"CONST\": \"SHEG\", \"NAME\": \"Sherwood Library\", \"OBJECTID\": 225, \"WARD\": \"Sherwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Brocklehigh Community Sports & Art Centre, Brocklewood Primary And Nursery School, Fircroft Avenue, Nottingham, NG8 3AL",
+        "CONST": "BILD",
+        "NAME": "Brocklehigh Community Sports & Art Centre",
+        "OBJECTID": 226,
+        "WARD": "Bilborough",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2175145352707313, 52.97204237164784], \"type\": \"Point\"}, \"id\": 226, \"properties\": {\"ADDRESS\": \"Brocklehigh Community Sports & Art Centre, Brocklewood Primary And Nursery School, Fircroft Avenue, Nottingham, NG8 3AL\", \"CONST\": \"BILD\", \"NAME\": \"Brocklehigh Community Sports & Art Centre\", \"OBJECTID\": 226, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Augustine's Church Hall, Westville Gardens, Nottingham, NG3 4QF",
+        "CONST": "ANNC",
+        "NAME": "St Augustine's Church Hall",
+        "OBJECTID": 227,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1440889478558924, 52.964540201797135], \"type\": \"Point\"}, \"id\": 227, \"properties\": {\"ADDRESS\": \"St Augustine's Church Hall, Westville Gardens, Nottingham, NG3 4QF\", \"CONST\": \"ANNC\", \"NAME\": \"St Augustine's Church Hall\", \"OBJECTID\": 227, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Mill Public House, Bagnall Road, Nottingham, NG6 0JY",
+        "CONST": "BASD",
+        "NAME": "The Mill Public House",
+        "OBJECTID": 228,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.188903339854603, 52.98420195608637], \"type\": \"Point\"}, \"id\": 228, \"properties\": {\"ADDRESS\": \"The Mill Public House, Bagnall Road, Nottingham, NG6 0JY\", \"CONST\": \"BASD\", \"NAME\": \"The Mill Public House\", \"OBJECTID\": 228, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Church Hall, Kingsbury Drive, Nottingham, NG8 3EP",
+        "CONST": "LEEA",
+        "NAME": "St. Teresa's Church Hall",
+        "OBJECTID": 229,
+        "WARD": "Leen Valley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2091958519282622, 52.972544703297245], \"type\": \"Point\"}, \"id\": 229, \"properties\": {\"ADDRESS\": \"Church Hall, Kingsbury Drive, Nottingham, NG8 3EP\", \"CONST\": \"LEEA\", \"NAME\": \"St. Teresa's Church Hall\", \"OBJECTID\": 229, \"WARD\": \"Leen Valley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Headstocks Public House, Bagnall Road, Nottingham, NG6 8SF",
+        "CONST": "BASC",
+        "NAME": "Headstocks Public House",
+        "OBJECTID": 230,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.200232107848781, 52.98942057564932], \"type\": \"Point\"}, \"id\": 230, \"properties\": {\"ADDRESS\": \"Headstocks Public House, Bagnall Road, Nottingham, NG6 8SF\", \"CONST\": \"BASC\", \"NAME\": \"Headstocks Public House\", \"OBJECTID\": 230, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "69 Wiverton Road, Nottingham, NG7 6NU",
+        "CONST": "BERG",
+        "NAME": "Forest Fields Advice Centre",
+        "OBJECTID": 231,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1610955909060763, 52.96874534590388], \"type\": \"Point\"}, \"id\": 231, \"properties\": {\"ADDRESS\": \"69 Wiverton Road, Nottingham, NG7 6NU\", \"CONST\": \"BERG\", \"NAME\": \"Forest Fields Advice Centre\", \"OBJECTID\": 231, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sneinton Children's Centre, Edale Road, Nottingham, NG2 4HT",
+        "CONST": "DALG",
+        "NAME": "Sneinton Children's Centre",
+        "OBJECTID": 232,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1221225938630282, 52.955780038090694], \"type\": \"Point\"}, \"id\": 232, \"properties\": {\"ADDRESS\": \"Sneinton Children's Centre, Edale Road, Nottingham, NG2 4HT\", \"CONST\": \"DALG\", \"NAME\": \"Sneinton Children's Centre\", \"OBJECTID\": 232, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Forest Fields Community Centre, Sturton Street, Nottingham, NG7 6HU",
+        "CONST": "BERF",
+        "NAME": "Forest Fields Community Centre",
+        "OBJECTID": 233,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1664381349048234, 52.971209970865594], \"type\": \"Point\"}, \"id\": 233, \"properties\": {\"ADDRESS\": \"Forest Fields Community Centre, Sturton Street, Nottingham, NG7 6HU\", \"CONST\": \"BERF\", \"NAME\": \"Forest Fields Community Centre\", \"OBJECTID\": 233, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Park Gate Community Centre, Chamberlain Close, Nottingham, NG11 8RX",
+        "CONST": "CLWG",
+        "NAME": "Park Gate Community Centre",
+        "OBJECTID": 234,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.192868628444062, 52.9016066444117], \"type\": \"Point\"}, \"id\": 234, \"properties\": {\"ADDRESS\": \"Park Gate Community Centre, Chamberlain Close, Nottingham, NG11 8RX\", \"CONST\": \"CLWG\", \"NAME\": \"Park Gate Community Centre\", \"OBJECTID\": 234, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Wollaton Library, Bramcote Lane, Nottingham, NG8 2NA",
+        "CONST": "WOWA",
+        "NAME": "Wollaton Library",
+        "OBJECTID": 235,
+        "WARD": "Wollaton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2212567459152257, 52.952667834257596], \"type\": \"Point\"}, \"id\": 235, \"properties\": {\"ADDRESS\": \"Wollaton Library, Bramcote Lane, Nottingham, NG8 2NA\", \"CONST\": \"WOWA\", \"NAME\": \"Wollaton Library\", \"OBJECTID\": 235, \"WARD\": \"Wollaton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Beechdale Public House, Beechdale Road, Nottingham, NG8 3FE",
+        "CONST": "LEEB",
+        "NAME": "Beechdale Public House",
+        "OBJECTID": 236,
+        "WARD": "Leen Valley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2017412649365098, 52.96168092252912], \"type\": \"Point\"}, \"id\": 236, \"properties\": {\"ADDRESS\": \"Beechdale Public House, Beechdale Road, Nottingham, NG8 3FE\", \"CONST\": \"LEEB\", \"NAME\": \"Beechdale Public House\", \"OBJECTID\": 236, \"WARD\": \"Leen Valley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG",
+        "CONST": "WOWC",
+        "NAME": "Wollaton Park Community Centre",
+        "OBJECTID": 237,
+        "WARD": "Wollaton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1940677206531962, 52.95398832746105], \"type\": \"Point\"}, \"id\": 237, \"properties\": {\"ADDRESS\": \"Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG\", \"CONST\": \"WOWC\", \"NAME\": \"Wollaton Park Community Centre\", \"OBJECTID\": 237, \"WARD\": \"Wollaton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Communal Rooms, Hazelhurst Gardens, Nottingham, NG6 8HB",
+        "CONST": "BULC",
+        "NAME": "Communal Room at Hazelhurst Gardens",
+        "OBJECTID": 238,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1973664792616303, 53.00416172379332], \"type\": \"Point\"}, \"id\": 238, \"properties\": {\"ADDRESS\": \"Communal Rooms, Hazelhurst Gardens, Nottingham, NG6 8HB\", \"CONST\": \"BULC\", \"NAME\": \"Communal Room at Hazelhurst Gardens\", \"OBJECTID\": 238, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG",
+        "CONST": "LWEB",
+        "NAME": "Wollaton Park Community Centre",
+        "OBJECTID": 239,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1940677206531962, 52.95398832746105], \"type\": \"Point\"}, \"id\": 239, \"properties\": {\"ADDRESS\": \"Wollaton Park Community Association, Harrow Road, Nottingham, NG8 1FG\", \"CONST\": \"LWEB\", \"NAME\": \"Wollaton Park Community Centre\", \"OBJECTID\": 239, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Nottingham Wildcats Arena, Greenwood Road, Nottingham, NG3 7EB",
+        "CONST": "DALD",
+        "NAME": "Nottingham Wildcats Arena",
+        "OBJECTID": 240,
+        "WARD": "Dales",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.111611613706923, 52.95585479805736], \"type\": \"Point\"}, \"id\": 240, \"properties\": {\"ADDRESS\": \"Nottingham Wildcats Arena, Greenwood Road, Nottingham, NG3 7EB\", \"CONST\": \"DALD\", \"NAME\": \"Nottingham Wildcats Arena\", \"OBJECTID\": 240, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN",
+        "CONST": "ANNA",
+        "NAME": "International Community Centre",
+        "OBJECTID": 241,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.150447796838255, 52.95971640958886], \"type\": \"Point\"}, \"id\": 241, \"properties\": {\"ADDRESS\": \"International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN\", \"CONST\": \"ANNA\", \"NAME\": \"International Community Centre\", \"OBJECTID\": 241, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Whitemoor Academy, Bracknell Crescent, Nottingham, NG8 5FF",
+        "CONST": "BASH",
+        "NAME": "Whitemoor Academy",
+        "OBJECTID": 242,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1839446361518347, 52.97621247941724], \"type\": \"Point\"}, \"id\": 242, \"properties\": {\"ADDRESS\": \"Whitemoor Academy, Bracknell Crescent, Nottingham, NG8 5FF\", \"CONST\": \"BASH\", \"NAME\": \"Whitemoor Academy\", \"OBJECTID\": 242, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Old Basford Community Centre, Bramble Close, Nottingham, NG6 0QG",
+        "CONST": "BASE",
+        "NAME": "Old Basford Community Centre",
+        "OBJECTID": 243,
+        "WARD": "Basford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1846096312213905, 52.98439733053423], \"type\": \"Point\"}, \"id\": 243, \"properties\": {\"ADDRESS\": \"Old Basford Community Centre, Bramble Close, Nottingham, NG6 0QG\", \"CONST\": \"BASE\", \"NAME\": \"Old Basford Community Centre\", \"OBJECTID\": 243, \"WARD\": \"Basford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Portable Unit, Junction of Perry Road and Hucknall Road, NG5 1GN",
+        "CONST": "BERB",
+        "NAME": "Portable Unit, junction Perry Road & Hucknall Road",
+        "OBJECTID": 244,
+        "WARD": "Berridge",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1584884975456606, 52.983361506396086], \"type\": \"Point\"}, \"id\": 244, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Perry Road and Hucknall Road, NG5 1GN\", \"CONST\": \"BERB\", \"NAME\": \"Portable Unit, junction Perry Road & Hucknall Road\", \"OBJECTID\": 244, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN",
+        "CONST": "ASPD",
+        "NAME": "Aspley Community and Training Centre",
+        "OBJECTID": 245,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2040250727064306, 52.97597106353139], \"type\": \"Point\"}, \"id\": 245, \"properties\": {\"ADDRESS\": \"Aspley Community And Training Centre, Minver Crescent, Nottingham, NG8 5PN\", \"CONST\": \"ASPD\", \"NAME\": \"Aspley Community and Training Centre\", \"OBJECTID\": 245, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA",
+        "CONST": "HGAC",
+        "NAME": "The Bridge Centre",
+        "OBJECTID": 246,
+        "WARD": "Hyson Green & Arboretum",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1712532129933164, 52.965481504559186], \"type\": \"Point\"}, \"id\": 246, \"properties\": {\"ADDRESS\": \"Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA\", \"CONST\": \"HGAC\", \"NAME\": \"The Bridge Centre\", \"OBJECTID\": 246, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH",
+        "CONST": "LEEC",
+        "NAME": "Lutheran Church Hall",
+        "OBJECTID": 247,
+        "WARD": "Leen Valley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.185210816218733, 52.96906575452761], \"type\": \"Point\"}, \"id\": 247, \"properties\": {\"ADDRESS\": \"Lutheran Church, 67 Homefield Road, Nottingham, NG8 5GH\", \"CONST\": \"LEEC\", \"NAME\": \"Lutheran Church Hall\", \"OBJECTID\": 247, \"WARD\": \"Leen Valley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Greyfriars Club, Gordon Road, Nottingham, NG3 2LG",
+        "CONST": "ANNG",
+        "NAME": "Greyfriars Club",
+        "OBJECTID": 248,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1272070804213903, 52.9635034648602], \"type\": \"Point\"}, \"id\": 248, \"properties\": {\"ADDRESS\": \"Greyfriars Club, Gordon Road, Nottingham, NG3 2LG\", \"CONST\": \"ANNG\", \"NAME\": \"Greyfriars Club\", \"OBJECTID\": 248, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Boundary Community Centre, Boundary Road, NG9 2RF",
+        "CONST": "LWEI",
+        "NAME": "The Boundary Community Centre",
+        "OBJECTID": 249,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2154424003107316, 52.93421023475884], \"type\": \"Point\"}, \"id\": 249, \"properties\": {\"ADDRESS\": \"The Boundary Community Centre, Boundary Road, NG9 2RF\", \"CONST\": \"LWEI\", \"NAME\": \"The Boundary Community Centre\", \"OBJECTID\": 249, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Portable Unit, Junction of Fleam Road and Meden Close, NG11 8PP",
+        "CONST": "CLWE",
+        "NAME": "Portable Unit, junction Fleam Road & Meden Close",
+        "OBJECTID": 250,
+        "WARD": "Clifton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1796119694000275, 52.91396644756848], \"type\": \"Point\"}, \"id\": 250, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Fleam Road and Meden Close, NG11 8PP\", \"CONST\": \"CLWE\", \"NAME\": \"Portable Unit, junction Fleam Road & Meden Close\", \"OBJECTID\": 250, \"WARD\": \"Clifton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD",
+        "CONST": "ASPA",
+        "NAME": "Bells Lane Community Centre",
+        "OBJECTID": 251,
+        "WARD": "Aspley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2071014266384945, 52.98365046672092], \"type\": \"Point\"}, \"id\": 251, \"properties\": {\"ADDRESS\": \"Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD\", \"CONST\": \"ASPA\", \"NAME\": \"Bells Lane Community Centre\", \"OBJECTID\": 251, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE",
+        "CONST": "RADA",
+        "NAME": "Radford Care Group",
+        "OBJECTID": 252,
+        "WARD": "Radford",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1786995309966597, 52.9622251666959], \"type\": \"Point\"}, \"id\": 252, \"properties\": {\"ADDRESS\": \"Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE\", \"CONST\": \"RADA\", \"NAME\": \"Radford Care Group\", \"OBJECTID\": 252, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Leen Valley Community Centre, 234 Arnold Road, Nottingham, NG5 5HB",
+        "CONST": "BESG",
+        "NAME": "Leen Valley Community Centre",
+        "OBJECTID": 253,
+        "WARD": "Bestwood",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.168584402949635, 52.99126217199081], \"type\": \"Point\"}, \"id\": 253, \"properties\": {\"ADDRESS\": \"Leen Valley Community Centre, 234 Arnold Road, Nottingham, NG5 5HB\", \"CONST\": \"BESG\", \"NAME\": \"Leen Valley Community Centre\", \"OBJECTID\": 253, \"WARD\": \"Bestwood\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Jude's Church And Church Hall, Woodborough Road, Nottingham, NG3 5GX",
+        "CONST": "MAPC",
+        "NAME": "St. Jude's Church Hall",
+        "OBJECTID": 254,
+        "WARD": "Mapperley",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1366152465621544, 52.976283128629], \"type\": \"Point\"}, \"id\": 254, \"properties\": {\"ADDRESS\": \"St Jude's Church And Church Hall, Woodborough Road, Nottingham, NG3 5GX\", \"CONST\": \"MAPC\", \"NAME\": \"St. Jude's Church Hall\", \"OBJECTID\": 254, \"WARD\": \"Mapperley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Dunkirk and Old Lenton Community Centre, Montpelier Road, Nottingham, NG7 2JW",
+        "CONST": "LWEF",
+        "NAME": "Dunkirk and Old Lenton Community Centre",
+        "OBJECTID": 255,
+        "WARD": "Lenton & Wollaton East",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1816373449464448, 52.939871014626334], \"type\": \"Point\"}, \"id\": 255, \"properties\": {\"ADDRESS\": \"Dunkirk and Old Lenton Community Centre, Montpelier Road, Nottingham, NG7 2JW\", \"CONST\": \"LWEF\", \"NAME\": \"Dunkirk and Old Lenton Community Centre\", \"OBJECTID\": 255, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Communal Rooms, Mariner Court, Nottingham, NG6 7BW",
+        "CONST": "BULE",
+        "NAME": "Mariner Court Common Room",
+        "OBJECTID": 256,
+        "WARD": "Bulwell",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2103913477075887, 52.99682366201913], \"type\": \"Point\"}, \"id\": 256, \"properties\": {\"ADDRESS\": \"Communal Rooms, Mariner Court, Nottingham, NG6 7BW\", \"CONST\": \"BULE\", \"NAME\": \"Mariner Court Common Room\", \"OBJECTID\": 256, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Grangewood Methodist Church, Grangewood Road, Nottingham, NG8 2SJ",
+        "CONST": "WOWE",
+        "NAME": "Grangewood Methodist Church",
+        "OBJECTID": 257,
+        "WARD": "Wollaton West",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2330188391718038, 52.946568308687304], \"type\": \"Point\"}, \"id\": 257, \"properties\": {\"ADDRESS\": \"Grangewood Methodist Church, Grangewood Road, Nottingham, NG8 2SJ\", \"CONST\": \"WOWE\", \"NAME\": \"Grangewood Methodist Church\", \"OBJECTID\": 257, \"WARD\": \"Wollaton West\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN",
+        "CONST": "ANNB",
+        "NAME": "International Community Centre",
+        "OBJECTID": 258,
+        "WARD": "St Ann's",
+        "council_id": "E06000018",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.150447796838255, 52.95971640958886], \"type\": \"Point\"}, \"id\": 258, \"properties\": {\"ADDRESS\": \"International Community Centre, 61B Mansfield Road, Nottingham, NG1 3FN\", \"CONST\": \"ANNB\", \"NAME\": \"International Community Centre\", \"OBJECTID\": 258, \"WARD\": \"St Ann's\"}, \"type\": \"Feature\"}"
+    }
+]
