@@ -1,0 +1,402 @@
+[
+    {
+        "ADDRESS": "St Mary's Centre, Church Lane, Chessington, KT9 2DR",
+        "CODE": "DB",
+        "NAME": "St Mary's Centre",
+        "OBJECTID": 266,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2997848486196085, 51.3584700618618], \"type\": \"Point\"}, \"id\": 266, \"properties\": {\"ADDRESS\": \"St Mary's Centre, Church Lane, Chessington, KT9 2DR\", \"CODE\": \"DB\", \"NAME\": \"St Mary's Centre\", \"OBJECTID\": 266}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Corner House, Douglas Road Entrance, Surbiton, KT6 7SB",
+        "CODE": "MB",
+        "NAME": "The Corner House",
+        "OBJECTID": 267,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29415124907385143, 51.380762990539196], \"type\": \"Point\"}, \"id\": 267, \"properties\": {\"ADDRESS\": \"The Corner House, Douglas Road Entrance, Surbiton, KT6 7SB\", \"CODE\": \"MB\", \"NAME\": \"The Corner House\", \"OBJECTID\": 267}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Matthew's Church, St Matthew's Avenue, Surbiton, KT6 6JZ",
+        "CODE": "MA",
+        "NAME": "St Matthew's Church",
+        "OBJECTID": 268,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29726908850605605, 51.3854451286515], \"type\": \"Point\"}, \"id\": 268, \"properties\": {\"ADDRESS\": \"St Matthew's Church, St Matthew's Avenue, Surbiton, KT6 6JZ\", \"CODE\": \"MA\", \"NAME\": \"St Matthew's Church\", \"OBJECTID\": 268}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Surbiton New Life Baptist Church, 6 Langley Road, Surbiton, KT6 6LN",
+        "CODE": "M",
+        "NAME": "Surbiton New Life Baptist Church",
+        "OBJECTID": 269,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29856904497329095, 51.38868890175335], \"type\": \"Point\"}, \"id\": 269, \"properties\": {\"ADDRESS\": \"Surbiton New Life Baptist Church, 6 Langley Road, Surbiton, KT6 6LN\", \"CODE\": \"M\", \"NAME\": \"Surbiton New Life Baptist Church\", \"OBJECTID\": 269}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Catherines Church Hall, 98 Leatherhead Road, Chessington, KT9 2HY",
+        "CODE": "D",
+        "NAME": "St Catherine's Church Hall",
+        "OBJECTID": 270,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3115306763496985, 51.35977521588124], \"type\": \"Point\"}, \"id\": 270, \"properties\": {\"ADDRESS\": \"St Catherines Church Hall, 98 Leatherhead Road, Chessington, KT9 2HY\", \"CODE\": \"D\", \"NAME\": \"St Catherine's Church Hall\", \"OBJECTID\": 270}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Chessington Methodist Church Hall, Church Lane, Chessington, KT9 2DJ",
+        "CODE": "DA",
+        "NAME": "Chessington Methodist Church Hall",
+        "OBJECTID": 271,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29570695426319976, 51.3633041466127], \"type\": \"Point\"}, \"id\": 271, \"properties\": {\"ADDRESS\": \"Chessington Methodist Church Hall, Church Lane, Chessington, KT9 2DJ\", \"CODE\": \"DA\", \"NAME\": \"Chessington Methodist Church Hall\", \"OBJECTID\": 271}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Caravan at the Chessington Garden Centre, Leatherhead Road, Malden Rushett, KT9 2NG",
+        "CODE": "DC",
+        "NAME": "Chessington Garden Centre",
+        "OBJECTID": 272,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3173896323171198, 51.34395241434263], \"type\": \"Point\"}, \"id\": 272, \"properties\": {\"ADDRESS\": \"Caravan at the Chessington Garden Centre, Leatherhead Road, Malden Rushett, KT9 2NG\", \"CODE\": \"DC\", \"NAME\": \"Chessington Garden Centre\", \"OBJECTID\": 272}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Berrylands Hotel, Chiltern Drive, KT5 8LS",
+        "CODE": "A",
+        "NAME": "Berrylands Hotel",
+        "OBJECTID": 273,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2806950521043193, 51.39811892660621], \"type\": \"Point\"}, \"id\": 273, \"properties\": {\"ADDRESS\": \"Berrylands Hotel, Chiltern Drive, KT5 8LS\", \"CODE\": \"A\", \"NAME\": \"Berrylands Hotel\", \"OBJECTID\": 273}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "United Reformed Church, 11 Eden Street, Kingston upon Thames, KT1 1HZ",
+        "CODE": "E",
+        "NAME": "United Reformed Church",
+        "OBJECTID": 275,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3048006293445093, 51.409149806440396], \"type\": \"Point\"}, \"id\": 275, \"properties\": {\"ADDRESS\": \"United Reformed Church, 11 Eden Street, Kingston upon Thames, KT1 1HZ\", \"CODE\": \"E\", \"NAME\": \"United Reformed Church\", \"OBJECTID\": 275}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Glenmore House, 6 The Crescent, Surbiton, KT6 4BN",
+        "CODE": "LA / EB",
+        "NAME": "Glenmore House",
+        "OBJECTID": 276,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3051518973757958, 51.39513218381543], \"type\": \"Point\"}, \"id\": 276, \"properties\": {\"ADDRESS\": \"Glenmore House, 6 The Crescent, Surbiton, KT6 4BN\", \"CODE\": \"LA / EB\", \"NAME\": \"Glenmore House\", \"OBJECTID\": 276}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Devon Way Centre, Devon Way, Chessington, KT9 2RJ",
+        "CODE": "C",
+        "NAME": "Devon Way Centre",
+        "OBJECTID": 277,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3169238138008139, 51.36619168469718], \"type\": \"Point\"}, \"id\": 277, \"properties\": {\"ADDRESS\": \"Devon Way Centre, Devon Way, Chessington, KT9 2RJ\", \"CODE\": \"C\", \"NAME\": \"Devon Way Centre\", \"OBJECTID\": 277}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Hook Community Hall Hook, Community Centre, Hook Road, Chessington, KT9 1EJ",
+        "CODE": "CA",
+        "NAME": "Hook Community Hall",
+        "OBJECTID": 278,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3060555024870494, 51.367977537578916], \"type\": \"Point\"}, \"id\": 278, \"properties\": {\"ADDRESS\": \"Hook Community Hall Hook, Community Centre, Hook Road, Chessington, KT9 1EJ\", \"CODE\": \"CA\", \"NAME\": \"Hook Community Hall\", \"OBJECTID\": 278}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Castle Hill Primary School, Buckland Road, Chessington, KT9 1JE",
+        "CODE": "CB",
+        "NAME": "Castle Hill Primary School",
+        "OBJECTID": 279,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29691787743416476, 51.3665671911347], \"type\": \"Point\"}, \"id\": 279, \"properties\": {\"ADDRESS\": \"Castle Hill Primary School, Buckland Road, Chessington, KT9 1JE\", \"CODE\": \"CB\", \"NAME\": \"Castle Hill Primary School\", \"OBJECTID\": 279}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Tudor Hall, Tudor Drive, Kingston upon Thames, KT2 5QH",
+        "CODE": "VB",
+        "NAME": "Tudor Hall",
+        "OBJECTID": 280,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29738175278757606, 51.426186571860185], \"type\": \"Point\"}, \"id\": 280, \"properties\": {\"ADDRESS\": \"Tudor Hall, Tudor Drive, Kingston upon Thames, KT2 5QH\", \"CODE\": \"VB\", \"NAME\": \"Tudor Hall\", \"OBJECTID\": 280}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Scout Hut, Park Road, Kingston upon Thames, KT2 5LY",
+        "CODE": "VC",
+        "NAME": "Scout Hut",
+        "OBJECTID": 281,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29073461426794717, 51.42424932275044], \"type\": \"Point\"}, \"id\": 281, \"properties\": {\"ADDRESS\": \"Scout Hut, Park Road, Kingston upon Thames, KT2 5LY\", \"CODE\": \"VC\", \"NAME\": \"Scout Hut\", \"OBJECTID\": 281}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "The Graham Spicer Institute, 15 Dukes Avenue, New Malden, KT3 4HL",
+        "CODE": "BC",
+        "NAME": "The Graham Spicer Institute",
+        "OBJECTID": 282,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2554156988959256, 51.40306052810559], \"type\": \"Point\"}, \"id\": 282, \"properties\": {\"ADDRESS\": \"The Graham Spicer Institute, 15 Dukes Avenue, New Malden, KT3 4HL\", \"CODE\": \"BC\", \"NAME\": \"The Graham Spicer Institute\", \"OBJECTID\": 282}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Methodist Church Hall, Cambridge Road, New Malden, KT3 4BY",
+        "CODE": "BB",
+        "NAME": "Methodist Church Hall",
+        "OBJECTID": 284,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.257110775390461, 51.40216008792444], \"type\": \"Point\"}, \"id\": 284, \"properties\": {\"ADDRESS\": \"Methodist Church Hall, Cambridge Road, New Malden, KT3 4BY\", \"CODE\": \"BB\", \"NAME\": \"Methodist Church Hall\", \"OBJECTID\": 284}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St James Church Hall, Green Lane, New Malden, KT3 5BX",
+        "CODE": "BA",
+        "NAME": "St James Church Hall",
+        "OBJECTID": 285,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2707832592662457, 51.397922732197934], \"type\": \"Point\"}, \"id\": 285, \"properties\": {\"ADDRESS\": \"St James Church Hall, Green Lane, New Malden, KT3 5BX\", \"CODE\": \"BA\", \"NAME\": \"St James Church Hall\", \"OBJECTID\": 285}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St John`s Church Hall (Kingston Road), Kingston Road, New Malden, KT3 3RX",
+        "CODE": "B",
+        "NAME": "St John`s Church Hall (Kingston Road)",
+        "OBJECTID": 286,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2754376762809631, 51.40340148263281], \"type\": \"Point\"}, \"id\": 286, \"properties\": {\"ADDRESS\": \"St John`s Church Hall (Kingston Road), Kingston Road, New Malden, KT3 3RX\", \"CODE\": \"B\", \"NAME\": \"St John`s Church Hall (Kingston Road)\", \"OBJECTID\": 286}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "King Charles Centre, Hollyfield Road, Surbiton, KT5 9AL",
+        "CODE": "AA",
+        "NAME": "King Charles Centre",
+        "OBJECTID": 287,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2921967449780444, 51.386551398461364], \"type\": \"Point\"}, \"id\": 287, \"properties\": {\"ADDRESS\": \"King Charles Centre, Hollyfield Road, Surbiton, KT5 9AL\", \"CODE\": \"AA\", \"NAME\": \"King Charles Centre\", \"OBJECTID\": 287}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Surbiton Hill Methodist Church Hall, 39 Ewell Road, Surbiton, KT6 6AF",
+        "CODE": "AB",
+        "NAME": "Surbiton Hill Methodist Church Hall",
+        "OBJECTID": 288,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2979343266366272, 51.39176422049811], \"type\": \"Point\"}, \"id\": 288, \"properties\": {\"ADDRESS\": \"Surbiton Hill Methodist Church Hall, 39 Ewell Road, Surbiton, KT6 6AF\", \"CODE\": \"AB\", \"NAME\": \"Surbiton Hill Methodist Church Hall\", \"OBJECTID\": 288}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Agatha`s Church Hall, Kings Road, Kingston upon Thames, KT2 5JR",
+        "CODE": "TA",
+        "NAME": "St Agatha`s Church Hall",
+        "OBJECTID": 289,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2930503393394534, 51.419721815491094], \"type\": \"Point\"}, \"id\": 289, \"properties\": {\"ADDRESS\": \"St Agatha`s Church Hall, Kings Road, Kingston upon Thames, KT2 5JR\", \"CODE\": \"TA\", \"NAME\": \"St Agatha`s Church Hall\", \"OBJECTID\": 289}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF",
+        "CODE": "TB",
+        "NAME": "Cornerstone Church Kingston",
+        "OBJECTID": 290,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29162151068831127, 51.41375135881671], \"type\": \"Point\"}, \"id\": 290, \"properties\": {\"ADDRESS\": \"Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF\", \"CODE\": \"TB\", \"NAME\": \"Cornerstone Church Kingston\", \"OBJECTID\": 290}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Community Hall, Piper Road, Kingston upon Thames, KT1 3EX",
+        "CODE": "H",
+        "NAME": "Community Hall",
+        "OBJECTID": 292,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.289320228704591, 51.40722470249416], \"type\": \"Point\"}, \"id\": 292, \"properties\": {\"ADDRESS\": \"Community Hall, Piper Road, Kingston upon Thames, KT1 3EX\", \"CODE\": \"H\", \"NAME\": \"Community Hall\", \"OBJECTID\": 292}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Queen Mary`s Hall, Cambridge Gardens, Kingston upon Thames, KT1 3NJ",
+        "CODE": "HA",
+        "NAME": "Queen Mary`s Hall",
+        "OBJECTID": 293,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.28775232198238765, 51.409964643785095], \"type\": \"Point\"}, \"id\": 293, \"properties\": {\"ADDRESS\": \"Queen Mary`s Hall, Cambridge Gardens, Kingston upon Thames, KT1 3NJ\", \"CODE\": \"HA\", \"NAME\": \"Queen Mary`s Hall\", \"OBJECTID\": 293}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX",
+        "CODE": "HB",
+        "NAME": "Searchlight Y & C Centre",
+        "OBJECTID": 294,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2806854574221364, 51.40498389815292], \"type\": \"Point\"}, \"id\": 294, \"properties\": {\"ADDRESS\": \"Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX\", \"CODE\": \"HB\", \"NAME\": \"Searchlight Y & C Centre\", \"OBJECTID\": 294}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Kingsnympton Youth & Community Centre, Kingston Hill, Kingston upon Thames, KT2 7RE",
+        "CODE": "U",
+        "NAME": "Kingsnympton Youth & Community Centre",
+        "OBJECTID": 295,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2798208867648446, 51.421154180052575], \"type\": \"Point\"}, \"id\": 295, \"properties\": {\"ADDRESS\": \"Kingsnympton Youth & Community Centre, Kingston Hill, Kingston upon Thames, KT2 7RE\", \"CODE\": \"U\", \"NAME\": \"Kingsnympton Youth & Community Centre\", \"OBJECTID\": 295}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St John`s Church Hall (Robin Hood Lane), Robin Hood Lane, London, SW15 3PY",
+        "CODE": "UA",
+        "NAME": "St John`s Church Hall (Robin Hood Lane)",
+        "OBJECTID": 296,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2587456761237299, 51.434064417429475], \"type\": \"Point\"}, \"id\": 296, \"properties\": {\"ADDRESS\": \"St John`s Church Hall (Robin Hood Lane), Robin Hood Lane, London, SW15 3PY\", \"CODE\": \"UA\", \"NAME\": \"St John`s Church Hall (Robin Hood Lane)\", \"OBJECTID\": 296}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Shiraz Mirza Community Hall, 76A Coombe Road, Kingston upon Thames, KT2 7AZ",
+        "CODE": "UC",
+        "NAME": "Shiraz Mirza Community Hall",
+        "OBJECTID": 297,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.28304126265725926, 51.41238456164258], \"type\": \"Point\"}, \"id\": 297, \"properties\": {\"ADDRESS\": \"Shiraz Mirza Community Hall, 76A Coombe Road, Kingston upon Thames, KT2 7AZ\", \"CODE\": \"UC\", \"NAME\": \"Shiraz Mirza Community Hall\", \"OBJECTID\": 297}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Corpus Christi Catholic Primary School, Chestnut Grove, New Malden, KT3 3JU",
+        "CODE": "SB",
+        "NAME": "Corpus Christi Catholic Primary School",
+        "OBJECTID": 298,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2690124953753536, 51.40512543939191], \"type\": \"Point\"}, \"id\": 298, \"properties\": {\"ADDRESS\": \"Corpus Christi Catholic Primary School, Chestnut Grove, New Malden, KT3 3JU\", \"CODE\": \"SB\", \"NAME\": \"Corpus Christi Catholic Primary School\", \"OBJECTID\": 298}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Dickerage Sports and Community Centre, Dickerage Lane, New Malden, KT3 3EQ",
+        "CODE": "S",
+        "NAME": "Dickerage Sports and Community Centre",
+        "OBJECTID": 299,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2741509084053989, 51.40759982032648], \"type\": \"Point\"}, \"id\": 299, \"properties\": {\"ADDRESS\": \"Dickerage Sports and Community Centre, Dickerage Lane, New Malden, KT3 3EQ\", \"CODE\": \"S\", \"NAME\": \"Dickerage Sports and Community Centre\", \"OBJECTID\": 299}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Marion Hill House Guide Hut, Tadworth Avenue, New Malden, KT3 6DJ",
+        "CODE": "KA",
+        "NAME": "Marion Hill House Guide Hut",
+        "OBJECTID": 300,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2527342035079056, 51.39775902710536], \"type\": \"Point\"}, \"id\": 300, \"properties\": {\"ADDRESS\": \"Marion Hill House Guide Hut, Tadworth Avenue, New Malden, KT3 6DJ\", \"CODE\": \"KA\", \"NAME\": \"Marion Hill House Guide Hut\", \"OBJECTID\": 300}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St James Church Hall (Bodley Road), Bodley Road, New Malden, KT3 6AF",
+        "CODE": "K",
+        "NAME": "St James Church Hall (Bodley Road)",
+        "OBJECTID": 301,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2549305498019159, 51.39542213145782], \"type\": \"Point\"}, \"id\": 301, \"properties\": {\"ADDRESS\": \"St James Church Hall (Bodley Road), Bodley Road, New Malden, KT3 6AF\", \"CODE\": \"K\", \"NAME\": \"St James Church Hall (Bodley Road)\", \"OBJECTID\": 301}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Shiraz Mirza Trust, Manor Park Hall, Malden Road, New Malden, KT3 6AU",
+        "CODE": "KB",
+        "NAME": "Shiraz Mirza Trust, Manor Park Hall",
+        "OBJECTID": 302,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.25108225713537485, 51.38738231621426], \"type\": \"Point\"}, \"id\": 302, \"properties\": {\"ADDRESS\": \"Shiraz Mirza Trust, Manor Park Hall, Malden Road, New Malden, KT3 6AU\", \"CODE\": \"KB\", \"NAME\": \"Shiraz Mirza Trust, Manor Park Hall\", \"OBJECTID\": 302}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Maple Lodge, 11 Sherbrooke Way, Worcester Park, KT4 8FT",
+        "CODE": "GB",
+        "NAME": "Oak Hall, Maple Lodge, The Hamptons",
+        "OBJECTID": 303,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2365311874781491, 51.38535096875573], \"type\": \"Point\"}, \"id\": 303, \"properties\": {\"ADDRESS\": \"Maple Lodge, 11 Sherbrooke Way, Worcester Park, KT4 8FT\", \"CODE\": \"GB\", \"NAME\": \"Oak Hall, Maple Lodge, The Hamptons\", \"OBJECTID\": 303}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Malden Manor Children's Centre, Lawrence Avenue, New Malden, KT3 5NB",
+        "CODE": "G",
+        "NAME": "Malden Manor Children's Centre",
+        "OBJECTID": 304,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2618224956797059, 51.386669386732414], \"type\": \"Point\"}, \"id\": 304, \"properties\": {\"ADDRESS\": \"Malden Manor Children's Centre, Lawrence Avenue, New Malden, KT3 5NB\", \"CODE\": \"G\", \"NAME\": \"Malden Manor Children's Centre\", \"OBJECTID\": 304}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St John`s Church Hall (Malden Road), 411 Malden Road, Worcester Park, KT4 7NY",
+        "CODE": "GA",
+        "NAME": "St John`s Church Hall (Malden Road)",
+        "OBJECTID": 305,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.24961413057386073, 51.38273733369327], \"type\": \"Point\"}, \"id\": 305, \"properties\": {\"ADDRESS\": \"St John`s Church Hall (Malden Road), 411 Malden Road, Worcester Park, KT4 7NY\", \"CODE\": \"GA\", \"NAME\": \"St John`s Church Hall (Malden Road)\", \"OBJECTID\": 305}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Emmanuel Church Hall, Grand Avenue, Surbiton, KT5 9HU",
+        "CODE": "F",
+        "NAME": "Emmanuel Church Hall",
+        "OBJECTID": 306,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2762248028388784, 51.38845467165153], \"type\": \"Point\"}, \"id\": 306, \"properties\": {\"ADDRESS\": \"Emmanuel Church Hall, Grand Avenue, Surbiton, KT5 9HU\", \"CODE\": \"F\", \"NAME\": \"Emmanuel Church Hall\", \"OBJECTID\": 306}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "United Reformed Church Hall, Elgar Avenue, Surbiton, KT5 9JR",
+        "CODE": "FA",
+        "NAME": "United Reformed Church Hall",
+        "OBJECTID": 307,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2801427140107209, 51.386001157911856], \"type\": \"Point\"}, \"id\": 307, \"properties\": {\"ADDRESS\": \"United Reformed Church Hall, Elgar Avenue, Surbiton, KT5 9JR\", \"CODE\": \"FA\", \"NAME\": \"United Reformed Church Hall\", \"OBJECTID\": 307}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Sunray Community Centre, Knollmead, Surbiton, KT5 9QP",
+        "CODE": "FB",
+        "NAME": "Sunray Community Centre",
+        "OBJECTID": 308,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2728269035672273, 51.37934921589619], \"type\": \"Point\"}, \"id\": 308, \"properties\": {\"ADDRESS\": \"Sunray Community Centre, Knollmead, Surbiton, KT5 9QP\", \"CODE\": \"FB\", \"NAME\": \"Sunray Community Centre\", \"OBJECTID\": 308}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St. George`s Hall, Hamilton Avenue, Tolworth, KT6 7PT",
+        "CODE": "JA",
+        "NAME": "St George`s Hall",
+        "OBJECTID": 309,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.28334331094388715, 51.378085719486954], \"type\": \"Point\"}, \"id\": 309, \"properties\": {\"ADDRESS\": \"St. George`s Hall, Hamilton Avenue, Tolworth, KT6 7PT\", \"CODE\": \"JA\", \"NAME\": \"St George`s Hall\", \"OBJECTID\": 309}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "1st Hook Scout HQ, Verona Drive / Kent Way, Surbiton, KT6 5AJ",
+        "CODE": "J",
+        "NAME": "1st Hook Scout HQ",
+        "OBJECTID": 310,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.30060792856839474, 51.37746358697404], \"type\": \"Point\"}, \"id\": 310, \"properties\": {\"ADDRESS\": \"1st Hook Scout HQ, Verona Drive / Kent Way, Surbiton, KT6 5AJ\", \"CODE\": \"J\", \"NAME\": \"1st Hook Scout HQ\", \"OBJECTID\": 310}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Caravan A / B at Coombe Girls' School, Darley Drive Entrance, New Malden, KT3 3TU",
+        "CODE": "SA / UB",
+        "NAME": "Caravans A and B at Coombe Girls' School",
+        "OBJECTID": 311,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2641665464737835, 51.41081446930733], \"type\": \"Point\"}, \"id\": 311, \"properties\": {\"ADDRESS\": \"Caravan A / B at Coombe Girls' School, Darley Drive Entrance, New Malden, KT3 3TU\", \"CODE\": \"SA / UB\", \"NAME\": \"Caravans A and B at Coombe Girls' School\", \"OBJECTID\": 311}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Andrew's Church Maple Road, Surbiton, KT6 4AB",
+        "CODE": "L",
+        "NAME": "St Andrew's Church",
+        "OBJECTID": 313,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.30889330805898874, 51.393284085927455], \"type\": \"Point\"}, \"id\": 313, \"properties\": {\"ADDRESS\": \"St Andrew's Church Maple Road, Surbiton, KT6 4AB\", \"CODE\": \"L\", \"NAME\": \"St Andrew's Church\", \"OBJECTID\": 313}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Fern Hill Primary School Richmond Road, Kingston Upon Thames, KT2 5PE",
+        "CODE": "VA",
+        "NAME": "Fern Hill Primary School",
+        "OBJECTID": 314,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3017867134027431, 51.42333361201977], \"type\": \"Point\"}, \"id\": 314, \"properties\": {\"ADDRESS\": \"Fern Hill Primary School Richmond Road, Kingston Upon Thames, KT2 5PE\", \"CODE\": \"VA\", \"NAME\": \"Fern Hill Primary School\", \"OBJECTID\": 314}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Swinnerton Hall, St Luke's Church, Gibbon Road, Kingston upon Thames, KT2 6AB",
+        "CODE": "T",
+        "NAME": "Swinnerton Hall",
+        "OBJECTID": 315,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2974786866187817, 51.41665668711083], \"type\": \"Point\"}, \"id\": 315, \"properties\": {\"ADDRESS\": \"Swinnerton Hall, St Luke's Church, Gibbon Road, Kingston upon Thames, KT2 6AB\", \"CODE\": \"T\", \"NAME\": \"Swinnerton Hall\", \"OBJECTID\": 315}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Tolworth Recreation Centre, Fullers Way, North Surbiton, KT6 7LQ",
+        "CODE": "JB",
+        "NAME": "Tolworth Recreation Centre",
+        "OBJECTID": 316,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2962052398687045, 51.374368668694295], \"type\": \"Point\"}, \"id\": 316, \"properties\": {\"ADDRESS\": \"Tolworth Recreation Centre, Fullers Way, North Surbiton, KT6 7LQ\", \"CODE\": \"JB\", \"NAME\": \"Tolworth Recreation Centre\", \"OBJECTID\": 316}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS",
+        "CODE": "LB / EA",
+        "NAME": "St Mark's Church",
+        "OBJECTID": 317,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3005082620447646, 51.39520648736305], \"type\": \"Point\"}, \"id\": 317, \"properties\": {\"ADDRESS\": \"St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS\", \"CODE\": \"LB / EA  \", \"NAME\": \"St Mark's Church\", \"OBJECTID\": 317}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "YMCA Hawker Centre, Lower Ham Road, Kingston upon Thames, KT2 5BH",
+        "CODE": "V",
+        "NAME": "YMCA Hawker Centre",
+        "OBJECTID": 318,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3091934899564879, 51.426786828897924], \"type\": \"Point\"}, \"id\": 318, \"properties\": {\"ADDRESS\": \"YMCA Hawker Centre, Lower Ham Road, Kingston upon Thames, KT2 5BH\", \"CODE\": \"V\", \"NAME\": \"YMCA Hawker Centre\", \"OBJECTID\": 318}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St. Paul's Church, Alexandra Road, Kingston Upon Thames, KT2 7SF",
+        "CODE": "TC",
+        "NAME": "St. Paul's Church",
+        "OBJECTID": 319,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.28575593328012316, 51.41772669223651], \"type\": \"Point\"}, \"id\": 319, \"properties\": {\"ADDRESS\": \"St. Paul's Church, Alexandra Road, Kingston Upon Thames, KT2 7SF\", \"CODE\": \"TC\", \"NAME\": \"St. Paul's Church\", \"OBJECTID\": 319}, \"type\": \"Feature\"}"
+    }
+]
