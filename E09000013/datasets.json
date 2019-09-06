@@ -2,8 +2,6 @@
     "data": [
         {
             "attributes": {
-                "access": "public",
-                "additionalResources": [],
                 "advancedQueryCapabilities": {
                     "supportsDistinct": true,
                     "supportsOrderBy": true,
@@ -14,3084 +12,830 @@
                     "supportsTrueCurve": true,
                     "useStandardizedQueries": true
                 },
-                "boundary": {
-                    "center": [
-                        -0.213551625,
-                        51.487825
-                    ],
-                    "geometry": {
-                        "rings": [
-                            [
-                                "-0.210761",
-                                "51.4680"
-                            ],
-                            [
-                                "-0.248979",
-                                "51.5028"
-                            ],
-                            [
-                                "-0.243443",
-                                "51.5185"
-                            ],
-                            [
-                                "-0.234668",
-                                "51.5317"
-                            ],
-                            [
-                                "-0.183943",
-                                "51.4745"
-                            ],
-                            [
-                                "-0.185462",
-                                "51.4702"
-                            ],
-                            [
-                                "-0.190396",
-                                "51.4689"
-                            ],
-                            [
-                                "-0.210761",
-                                "51.4680"
-                            ]
-                        ],
-                        "spatialReference": {
-                            "wkid": 4326
-                        },
-                        "type": "polygon"
-                    },
-                    "size": 193
-                },
-                "collection": [
-                    "Dataset"
-                ],
+                "catalogs": null,
                 "commentsEnabled": true,
-                "composeStatus": {
-                    "lastRetriedAt": 1563494668049,
-                    "pass": true,
-                    "retries": 0
-                },
-                "composedAt": 1563494668031,
-                "content": "Map Service",
-                "created": 1558089468000,
-                "currentVersion": 10.41,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2019-05-17T10:37:48.000Z",
+                "currentVersion": "10.41",
+                "dataType": "Layer",
                 "description": "Open Data under the INSPIRE European Directive",
-                "displayField": "POLLING_ST",
-                "downloadable": true,
-                "enrichCoverage": "local",
-                "enrichQuality": 66,
-                "errors": [],
-                "extent": {
-                    "coordinates": [
-                        [
-                            -0.2503,
-                            51.4685
-                        ],
-                        [
-                            -0.1817,
-                            51.5309
-                        ]
-                    ],
-                    "type": "envelope"
-                },
-                "fieldNames": [
-                    "OBJECTID",
-                    "POLLING_ST",
-                    "POLLING_DI",
-                    "POLLING__1",
-                    "POSTCODE",
-                    "WARD",
-                    "LOCATION",
-                    "SHAPE"
-                ],
-                "fields": [
-                    {
-                        "alias": "OBJECTID",
-                        "domain": null,
-                        "name": "OBJECTID",
-                        "type": "esriFieldTypeOID"
-                    },
-                    {
-                        "alias": "POLLING_ST",
-                        "domain": null,
-                        "length": 128,
-                        "name": "POLLING_ST",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "POLLING_DI",
-                        "domain": null,
-                        "length": 254,
-                        "name": "POLLING_DI",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "POLLING__1",
-                        "domain": null,
-                        "length": 254,
-                        "name": "POLLING__1",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "POSTCODE",
-                        "domain": null,
-                        "length": 8,
-                        "name": "POSTCODE",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "WARD",
-                        "domain": null,
-                        "length": 50,
-                        "name": "WARD",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "LOCATION",
-                        "domain": null,
-                        "length": 100,
-                        "name": "LOCATION",
-                        "type": "esriFieldTypeString"
-                    },
-                    {
-                        "alias": "SHAPE",
-                        "domain": null,
-                        "name": "SHAPE",
-                        "type": "esriFieldTypeGeometry"
-                    }
-                ],
-                "geometryType": "esriGeometryPoint",
-                "groupIds": [
-                    "6ecd0e3c9f47481bbccdd7e419ccf212"
-                ],
-                "hasApi": true,
-                "hubType": "Feature Layer",
-                "id": "c15c9a3aca054d4cb7c6b3f84779d64d_0",
-                "itemModified": 1558089470000,
-                "layer": {
-                    "advancedQueryCapabilities": {
-                        "supportsDistinct": true,
-                        "supportsOrderBy": true,
-                        "supportsPagination": true,
-                        "supportsQueryWithDistance": true,
-                        "supportsReturningQueryExtent": true,
-                        "supportsStatistics": true,
-                        "supportsTrueCurve": true,
-                        "useStandardizedQueries": true
-                    },
-                    "canModifyLayer": false,
-                    "canScaleSymbols": false,
-                    "capabilities": "Map,Query,Data",
-                    "copyrightText": "",
-                    "currentVersion": 10.41,
-                    "defaultVisibility": true,
-                    "description": "",
-                    "displayField": "POLLING_ST",
-                    "drawingInfo": {
-                        "labelingInfo": null,
-                        "renderer": {
-                            "description": "",
-                            "label": "",
-                            "symbol": {
-                                "angle": 0,
-                                "color": [
-                                    0,
-                                    51,
-                                    145,
-                                    255
-                                ],
-                                "outline": {
-                                    "color": [
-                                        0,
-                                        0,
-                                        0,
-                                        255
-                                    ],
-                                    "width": 1
-                                },
-                                "size": 4,
-                                "style": "esriSMSCircle",
-                                "type": "esriSMS",
-                                "xoffset": 0,
-                                "yoffset": 0
-                            },
-                            "type": "simple"
-                        },
-                        "transparency": 0
-                    },
-                    "extent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526221.6789999995,
-                        "xmin": 521630,
-                        "ymax": 182897.8780000005,
-                        "ymin": 175839.85612500086
-                    },
-                    "fields": [
-                        {
-                            "alias": "OBJECTID",
-                            "domain": null,
-                            "name": "OBJECTID",
-                            "type": "esriFieldTypeOID"
-                        },
-                        {
-                            "alias": "POLLING_ST",
-                            "domain": null,
-                            "length": 128,
-                            "name": "POLLING_ST",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "POLLING_DI",
-                            "domain": null,
-                            "length": 254,
-                            "name": "POLLING_DI",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "POLLING__1",
-                            "domain": null,
-                            "length": 254,
-                            "name": "POLLING__1",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "POSTCODE",
-                            "domain": null,
-                            "length": 8,
-                            "name": "POSTCODE",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "WARD",
-                            "domain": null,
-                            "length": 50,
-                            "name": "WARD",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "LOCATION",
-                            "domain": null,
-                            "length": 100,
-                            "name": "LOCATION",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "SHAPE",
-                            "domain": null,
-                            "name": "SHAPE",
-                            "type": "esriFieldTypeGeometry"
-                        }
-                    ],
-                    "geometryType": "esriGeometryPoint",
-                    "hasAttachments": false,
-                    "hasLabels": false,
-                    "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
-                    "id": 0,
-                    "indexes": [
-                        {
-                            "description": "",
-                            "fields": "OBJECTID",
-                            "isAscending": true,
-                            "isUnique": true,
-                            "name": "R828_pk"
-                        },
-                        {
-                            "description": "",
-                            "fields": "SHAPE",
-                            "isAscending": true,
-                            "isUnique": true,
-                            "name": "S822_idx"
-                        }
-                    ],
-                    "maxRecordCount": 1000,
-                    "maxScale": 0,
-                    "minScale": 0,
-                    "name": "Polling Stations",
-                    "ownershipBasedAccessControlForFeatures": {
-                        "allowOthersToQuery": true
-                    },
-                    "parentLayer": null,
-                    "relationships": [],
-                    "subLayers": [],
-                    "supportedQueryFormats": "JSON, AMF, geoJSON",
-                    "supportsAdvancedQueries": true,
-                    "supportsStatistics": true,
-                    "type": "Feature Layer",
-                    "typeIdField": null,
-                    "useStandardizedQueries": true
-                },
-                "layers": [
-                    {
-                        "advancedQueryCapabilities": {
-                            "supportsDistinct": true,
-                            "supportsOrderBy": true,
-                            "supportsPagination": true,
-                            "supportsQueryWithDistance": true,
-                            "supportsReturningQueryExtent": true,
-                            "supportsStatistics": true,
-                            "supportsTrueCurve": true,
-                            "useStandardizedQueries": true
-                        },
-                        "canModifyLayer": false,
-                        "canScaleSymbols": false,
-                        "capabilities": "Map,Query,Data",
-                        "copyrightText": "",
-                        "currentVersion": 10.41,
-                        "defaultVisibility": true,
-                        "description": "",
-                        "displayField": "POLLING_ST",
-                        "drawingInfo": {
-                            "labelingInfo": null,
-                            "renderer": {
-                                "description": "",
-                                "label": "",
-                                "symbol": {
-                                    "angle": 0,
-                                    "color": [
-                                        0,
-                                        51,
-                                        145,
-                                        255
-                                    ],
-                                    "outline": {
-                                        "color": [
-                                            0,
-                                            0,
-                                            0,
-                                            255
-                                        ],
-                                        "width": 1
-                                    },
-                                    "size": 4,
-                                    "style": "esriSMSCircle",
-                                    "type": "esriSMS",
-                                    "xoffset": 0,
-                                    "yoffset": 0
-                                },
-                                "type": "simple"
-                            },
-                            "transparency": 0
-                        },
-                        "extent": {
-                            "spatialReference": {
-                                "latestWkid": 27700,
-                                "wkid": 27700
-                            },
-                            "xmax": 526221.6789999995,
-                            "xmin": 521630,
-                            "ymax": 182897.8780000005,
-                            "ymin": 175839.85612500086
-                        },
-                        "fields": [
-                            {
-                                "alias": "OBJECTID",
-                                "domain": null,
-                                "name": "OBJECTID",
-                                "type": "esriFieldTypeOID"
-                            },
-                            {
-                                "alias": "POLLING_ST",
-                                "domain": null,
-                                "length": 128,
-                                "name": "POLLING_ST",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "POLLING_DI",
-                                "domain": null,
-                                "length": 254,
-                                "name": "POLLING_DI",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "POLLING__1",
-                                "domain": null,
-                                "length": 254,
-                                "name": "POLLING__1",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "POSTCODE",
-                                "domain": null,
-                                "length": 8,
-                                "name": "POSTCODE",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "WARD",
-                                "domain": null,
-                                "length": 50,
-                                "name": "WARD",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "LOCATION",
-                                "domain": null,
-                                "length": 100,
-                                "name": "LOCATION",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "SHAPE",
-                                "domain": null,
-                                "name": "SHAPE",
-                                "type": "esriFieldTypeGeometry"
-                            }
-                        ],
-                        "geometryType": "esriGeometryPoint",
-                        "hasAttachments": false,
-                        "hasLabels": false,
-                        "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
-                        "id": 0,
-                        "indexes": [
-                            {
-                                "description": "",
-                                "fields": "OBJECTID",
-                                "isAscending": true,
-                                "isUnique": true,
-                                "name": "R828_pk"
-                            },
-                            {
-                                "description": "",
-                                "fields": "SHAPE",
-                                "isAscending": true,
-                                "isUnique": true,
-                                "name": "S822_idx"
-                            }
-                        ],
-                        "maxRecordCount": 1000,
-                        "maxScale": 0,
-                        "minScale": 0,
-                        "name": "Polling Stations",
-                        "ownershipBasedAccessControlForFeatures": {
-                            "allowOthersToQuery": true
-                        },
-                        "parentLayer": null,
-                        "relationships": [],
-                        "subLayers": [],
-                        "supportedQueryFormats": "JSON, AMF, geoJSON",
-                        "supportsAdvancedQueries": true,
-                        "supportsStatistics": true,
-                        "type": "Feature Layer",
-                        "typeIdField": null,
-                        "useStandardizedQueries": true
-                    }
-                ],
-                "licenseInfo": null,
-                "maxRecordCount": 1000,
-                "modified": 1558089470000,
-                "modifiedProvenance": "item.modified",
-                "name": "Polling Stations",
-                "objectIdField": "OBJECTID",
-                "openData": true,
-                "owner": "admin_lbhf",
-                "recordCount": 59,
-                "searchDescription": "Open Data under the INSPIRE European Directive",
-                "server": {
-                    "capabilities": "Map,Query,Data",
-                    "copyrightText": "",
-                    "currentVersion": 10.41,
-                    "description": "",
-                    "documentInfo": {
-                        "AntialiasingMode": "None",
-                        "Author": "",
-                        "Category": "",
-                        "Comments": "Open Data under the INSPIRE European Directive",
-                        "Keywords": "INSPIRE",
-                        "Subject": "Open Data under the INSPIRE European Directive",
-                        "TextAntialiasingMode": "Force",
-                        "Title": ""
-                    },
-                    "exportTilesAllowed": false,
-                    "fullExtent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526657.0499999998,
-                        "xmin": 521203.7000000002,
-                        "ymax": 183002.60000418202,
-                        "ymin": 175426.7999971265
-                    },
-                    "initialExtent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526043.3140144777,
-                        "xmin": 521570.5238188973,
-                        "ymax": 181439.20533401085,
-                        "ymin": 179790.84787062925
-                    },
-                    "layers": [
-                        {
-                            "defaultVisibility": true,
-                            "id": 0,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Polling Stations",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 1,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Tree Preservation Orders",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 2,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Environmental Permits",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 3,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Tree Preservation Orders - Groups",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 4,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Article 4 Buildings",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 5,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Open Spaces",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 6,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Strategic Sites",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 7,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Town Centres",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 8,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Regeneration Areas",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 9,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Conservation Areas",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 10,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Controlled Parking Zones",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 11,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Polling Districts",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        }
-                    ],
-                    "mapName": "Layers",
-                    "maxImageHeight": 4096,
-                    "maxImageWidth": 4096,
-                    "maxRecordCount": 1000,
-                    "maxScale": 0,
-                    "minScale": 0,
-                    "serviceDescription": "Open Data under the INSPIRE European Directive",
-                    "singleFusedMapCache": false,
-                    "spatialReference": {
-                        "latestWkid": 27700,
-                        "wkid": 27700
-                    },
-                    "supportedExtensions": "KmlServer, WFSServer, WMSServer",
-                    "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
-                    "supportedQueryFormats": "JSON, AMF, geoJSON",
-                    "supportsDynamicLayers": false,
-                    "tables": [],
-                    "units": "esriMeters"
-                },
-                "serverCapabilities": "Map,Query,Data",
-                "serviceSpatialReference": {
-                    "latestWkid": 27700,
-                    "wkid": 27700
-                },
-                "size": 68,
-                "source": "admin_lbhf",
-                "sourceProvenance": "item.owner",
-                "statistics": {
-                    "objectid": {
-                        "objectid": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "duration": 875.620310000144,
-                                "values": {
-                                    "avg": 30,
-                                    "count": 59,
-                                    "max": 61,
-                                    "min": 1,
-                                    "sum": 1782
-                                }
-                            }
-                        }
-                    },
-                    "string": {
-                        "location": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 1006.8933180002496,
-                                "uniqueCount": 58,
-                                "values": [
-                                    {
-                                        "count": 2,
-                                        "value": "Thomas\u2019 Academy"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wormholt Park Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wood Lane Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "White City Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wharf Rooms"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West London Free School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West Kensington Estate Tenants Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Village Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Twynholm Baptist Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Townmead Youth Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Tenants Association Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Temporary Polling Station"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St. Peters C E Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Saviour\u2019s Church Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Peters Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Pauls CE Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Michael's Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys RC Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys Church Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Lukes Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Johns Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Johns CE Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Andrews Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Springvale Tenants Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Queens Manor School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Old Oak Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Miles Coverdale School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Melcombe Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Matthews Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Manor Court"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Macbeth Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Lena Gardens Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Kenmont Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "John Betts House, Rylett Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Trinity Parish Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Innocents Church Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Cross Catholic Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greenside Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Library"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham High Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Cross School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Broadway Methodist Church"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Edward Woods Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Corinthian Sailing Club"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Community Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Church of God"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Childerley Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Charecroft Estate Community Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Brickfields Hall, Off Shinfield Street"
-                                    }
-                                ]
-                            }
-                        },
-                        "polling__1": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 920.163647999987,
-                                "uniqueCount": 58,
-                                "values": [
-                                    {
-                                        "count": 2,
-                                        "value": "Thomas\u2019 Academy, New King's Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wormholt Park Primary School, Bryony Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wood Lane Community Centre, 78 White City Close"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "White City Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West London Free School, Cambridge Grove"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Village Hall, 58 Bulwer Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Twynholm Baptist Church, Fulham Cross"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Townmead Youth Centre, Townmead Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "The Wharf Rooms, Imperial Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Temporary Station, Fulham High Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Temporary Polling Station, Corner of Daisy Lane / Peterborough Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St. Peter's C E Primary School, 47 St Peter's Grove"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Saviour\u2019s Church Hall, Cobbold Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Peters Church, St Peters Terrace"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Pauls CE Primary School, Worlidge Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Michael's Centre, Townmead Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys RC Primary School, Masbro Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys Church Hall, Edith Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Lukes Church, Uxbridge Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Johns Church, Walham Green"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Johns CE Primary School, Filmer Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Andrews Church, Greyhound Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Springvale Tenants Hall, Blythe Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Queens Manor School, Lysia Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Old Oak Community Centre, Braybrook Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Miles Coverdale School, Coverdale Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Melcombe Primary School, Colwith Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Matthews Hall, Margravine Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Manor Court, 23 Bagleys Lane"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Macbeth Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Lena Gardens Primary School, Lena Gardens"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Lancaster Court Residents Hall, Darlan Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Kenmont Primary School, Valliere Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "John Betts House, Rylett Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Trinity Parish Centre, Brook Green"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Innocents Church Hall, Paddenswick Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Cross Catholic Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greenside Primary School, Westville Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Primary School, Halford Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Library, 598 Fulham Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Cross School, Strode Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Broadway Methodist Church, 452 Fulham Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Edward Woods Community Centre, 60-70 Norland Court"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Corinthian Sailing Club, 60 Upper Mall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Community Hall, Len Freeman Place, Clem Attlee Estate"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Church of God, 1A Loftus Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Childerley Centre, Childerley Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Charecroft Estate Community Hall, Rockley Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Brickfields Hall, Off Shinfield Street"
-                                    }
-                                ]
-                            }
-                        },
-                        "polling_di": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 826.9596989993006,
-                                "uniqueCount": 59,
-                                "values": [
-                                    {
-                                        "count": 1,
-                                        "value": "WWC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "WWB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "WWA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SED"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPF"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "ASC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "ASB"
-                                    }
-                                ]
-                            }
-                        },
-                        "polling_st": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 1036.5581879997626,
-                                "uniqueCount": 2,
-                                "values": [
-                                    {
-                                        "count": 58,
-                                        "value": "Polling Stations"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Polling Station"
-                                    }
-                                ]
-                            }
-                        },
-                        "postcode": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 789.4514549998567,
-                                "uniqueCount": 58,
-                                "values": [
-                                    {
-                                        "count": 2,
-                                        "value": "SW6 4LY"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 9TE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 9JJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 9ER"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 9BP"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 9AQ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 8HJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 7PX"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 7BL"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 0LB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 0EJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W6 0BA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 9SA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 9EU"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 9BA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 8RJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 0PW"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 0LY"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W14 0DS"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 9PT"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 9NJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 9LN"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 9AN"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 8PQ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 8EA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 7RT"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 7QR"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 7LJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 7DZ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 7AJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 0RH"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 0NJ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 0BZ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W12 0BX"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "W11 4TX "
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 7SF"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 7PP"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 7PH"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 7JT"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 6SN"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 6ND"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 6ED"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 6BP"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 6AS"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 5TD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 5PA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 4BL"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 3JD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 3DB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SW6 2TX"
-                                    }
-                                ]
-                            }
-                        },
-                        "ward": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 1093.6277340007946,
-                                "uniqueCount": 16,
-                                "values": [
-                                    {
-                                        "count": 5,
-                                        "value": "COLLEGE PARK AND OLD OAK"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "SHEPHERD'S BUSH GREEN"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "SANDS END"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "RAVENSCOURT PARK"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "PARSONS GREEN AND WALHAM"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "MUNSTER"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "HAMMERSMITH BROADWAY"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "FULHAM REACH"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "AVONMORE AND BROOK GREEN"
-                                    },
-                                    {
-                                        "count": 4,
-                                        "value": "ADDISON"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "WORMHOLT AND WHITE CITY"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "TOWN"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "PALACE RIVERSIDE"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "NORTH END"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "FULHAM BROADWAY"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "ASKEW"
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                },
-                "structuredLicense": {
-                    "type": "none"
-                },
-                "supportedExtensions": "KmlServer, WFSServer, WMSServer",
-                "supportedQueryFormats": "JSON, AMF, geoJSON",
-                "supportsAdvancedQueries": true,
-                "tags": [
-                    "INSPIRE"
-                ],
-                "thumbnail": "thumbnail/ago_downloaded.png",
-                "thumbnailUrl": "thumbnail/ago_downloaded.png",
-                "type": "Feature Layer",
-                "typeCategories": [
-                    "Dataset"
-                ],
-                "typeKeywords": [
-                    "ArcGIS Server",
-                    "Data",
-                    "Dynamic",
-                    "Map Service",
-                    "Multilayer",
-                    "Service"
-                ],
-                "url": "https://www.rbkc.gov.uk/arcgis/rest/services//LBHF/INSPIRE/MapServer/0",
-                "useStandardizedQueries": true,
-                "validExtent": true,
-                "xFrameOptions": [
-                    "SAMEORIGIN"
-                ]
-            },
-            "id": "c15c9a3aca054d4cb7c6b3f84779d64d_0",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/c15c9a3aca054d4cb7c6b3f84779d64d_0?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
-                "rawEs": "http://opendata.arcgis.com/api/es/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_0",
-                "self": "http://opendata.arcgis.com/api/v3/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_0"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "access": "public",
-                "additionalResources": [],
-                "advancedQueryCapabilities": {
-                    "supportsDistinct": true,
-                    "supportsOrderBy": true,
-                    "supportsPagination": true,
-                    "supportsQueryWithDistance": true,
-                    "supportsReturningQueryExtent": true,
-                    "supportsStatistics": true,
-                    "supportsTrueCurve": true,
-                    "useStandardizedQueries": true
-                },
-                "boundary": {
-                    "center": [
-                        -0.20453712068965516,
-                        51.47818275862068
-                    ],
-                    "geometry": {
-                        "rings": [
-                            [
-                                "-0.222983",
-                                "51.4734"
-                            ],
-                            [
-                                "-0.255064",
-                                "51.5043"
-                            ],
-                            [
-                                "-0.252637",
-                                "51.5246"
-                            ],
-                            [
-                                "-0.252580",
-                                "51.5249"
-                            ],
-                            [
-                                "-0.252407",
-                                "51.5252"
-                            ],
-                            [
-                                "-0.250408",
-                                "51.5284"
-                            ],
-                            [
-                                "-0.246281",
-                                "51.5327"
-                            ],
-                            [
-                                "-0.234238",
-                                "51.5326"
-                            ],
-                            [
-                                "-0.228706",
-                                "51.5305"
-                            ],
-                            [
-                                "-0.228538",
-                                "51.5304"
-                            ],
-                            [
-                                "-0.228440",
-                                "51.5303"
-                            ],
-                            [
-                                "-0.177579",
-                                "51.4769"
-                            ],
-                            [
-                                "-0.177585",
-                                "51.4768"
-                            ],
-                            [
-                                "-0.177615",
-                                "51.4767"
-                            ],
-                            [
-                                "-0.178753",
-                                "51.4739"
-                            ],
-                            [
-                                "-0.178794",
-                                "51.4738"
-                            ],
-                            [
-                                "-0.179009",
-                                "51.4733"
-                            ],
-                            [
-                                "-0.180364",
-                                "51.4710"
-                            ],
-                            [
-                                "-0.180600",
-                                "51.4706"
-                            ],
-                            [
-                                "-0.181138",
-                                "51.4697"
-                            ],
-                            [
-                                "-0.181279",
-                                "51.4695"
-                            ],
-                            [
-                                "-0.181779",
-                                "51.4688"
-                            ],
-                            [
-                                "-0.181852",
-                                "51.4687"
-                            ],
-                            [
-                                "-0.181926",
-                                "51.4686"
-                            ],
-                            [
-                                "-0.182001",
-                                "51.4685"
-                            ],
-                            [
-                                "-0.182769",
-                                "51.4676"
-                            ],
-                            [
-                                "-0.182883",
-                                "51.4675"
-                            ],
-                            [
-                                "-0.183366",
-                                "51.4671"
-                            ],
-                            [
-                                "-0.184744",
-                                "51.4662"
-                            ],
-                            [
-                                "-0.185535",
-                                "51.4658"
-                            ],
-                            [
-                                "-0.187909",
-                                "51.4649"
-                            ],
-                            [
-                                "-0.188264",
-                                "51.4648"
-                            ],
-                            [
-                                "-0.189784",
-                                "51.4644"
-                            ],
-                            [
-                                "-0.190295",
-                                "51.4643"
-                            ],
-                            [
-                                "-0.190831",
-                                "51.4642"
-                            ],
-                            [
-                                "-0.194237",
-                                "51.4639"
-                            ],
-                            [
-                                "-0.195853",
-                                "51.4639"
-                            ],
-                            [
-                                "-0.198950",
-                                "51.4640"
-                            ],
-                            [
-                                "-0.200813",
-                                "51.4641"
-                            ],
-                            [
-                                "-0.201990",
-                                "51.4642"
-                            ],
-                            [
-                                "-0.202795",
-                                "51.4643"
-                            ],
-                            [
-                                "-0.204145",
-                                "51.4645"
-                            ],
-                            [
-                                "-0.205118",
-                                "51.4647"
-                            ],
-                            [
-                                "-0.205536",
-                                "51.4648"
-                            ],
-                            [
-                                "-0.208693",
-                                "51.4656"
-                            ],
-                            [
-                                "-0.210523",
-                                "51.4661"
-                            ],
-                            [
-                                "-0.211240",
-                                "51.4663"
-                            ],
-                            [
-                                "-0.212579",
-                                "51.4667"
-                            ],
-                            [
-                                "-0.212883",
-                                "51.4668"
-                            ],
-                            [
-                                "-0.214179",
-                                "51.4673"
-                            ],
-                            [
-                                "-0.215383",
-                                "51.4678"
-                            ],
-                            [
-                                "-0.216180",
-                                "51.4682"
-                            ],
-                            [
-                                "-0.216379",
-                                "51.4683"
-                            ],
-                            [
-                                "-0.216560",
-                                "51.4684"
-                            ],
-                            [
-                                "-0.217251",
-                                "51.4688"
-                            ],
-                            [
-                                "-0.218524",
-                                "51.4696"
-                            ],
-                            [
-                                "-0.221423",
-                                "51.4720"
-                            ],
-                            [
-                                "-0.222983",
-                                "51.4734"
-                            ]
-                        ],
-                        "spatialReference": {
-                            "wkid": 4326
-                        },
-                        "type": "polygon"
-                    },
-                    "size": 1393
-                },
-                "collection": [
-                    "Dataset"
-                ],
-                "commentsEnabled": true,
-                "composeStatus": {
-                    "lastRetriedAt": 1563494668049,
-                    "pass": true,
-                    "retries": 0
-                },
-                "composedAt": 1563494668043,
-                "content": "Map Service",
-                "created": 1558089468000,
-                "currentVersion": 10.41,
-                "description": "Open Data under the INSPIRE European Directive",
-                "displayField": "MAPKEY",
-                "downloadable": true,
-                "enrichCoverage": "local",
-                "enrichQuality": 66,
-                "errors": [],
+                "displayField": "POLLING_ZO",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
                 "extent": {
                     "coordinates": [
                         [
                             -0.2566,
-                            51.4648
+                            51.4637
                         ],
                         [
                             -0.1754,
-                            51.5317
+                            51.5329
                         ]
-                    ],
-                    "type": "envelope"
+                    ]
                 },
-                "fieldNames": [
-                    "OBJECTID",
-                    "POLLING_ZO",
-                    "POLLING_ST",
-                    "SHAPE",
-                    "SHAPE.STArea()",
-                    "SHAPE.STLength()"
-                ],
                 "fields": [
                     {
                         "alias": "OBJECTID",
                         "domain": null,
                         "name": "OBJECTID",
-                        "type": "esriFieldTypeOID"
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-05-17T10:43:43.946Z"
                     },
                     {
                         "alias": "POLLING_ZO",
                         "domain": null,
-                        "length": 128,
                         "name": "POLLING_ZO",
-                        "type": "esriFieldTypeString"
+                        "statistics": {
+                            "count": 59,
+                            "duration": 444.532894998789,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SED"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEA"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:43:44.391Z"
                     },
                     {
                         "alias": "POLLING_ST",
                         "domain": null,
-                        "length": 150,
                         "name": "POLLING_ST",
-                        "type": "esriFieldTypeString"
+                        "statistics": {
+                            "count": 58,
+                            "duration": 485.72049100697,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Thomas\u2019 Academy, New King's Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wormholt Park Primary School, Bryony Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wood Lane Community Centre, 78 White City Close"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "White City Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West London Free School, Cambridge Grove"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Village Hall, 58 Bulwer Street"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Twynholm Baptist Church, Fulham Cross"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Townmead Youth Centre, Townmead Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Wharf Rooms, Imperial Road"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:43:44.432Z"
                     },
                     {
                         "alias": "SHAPE",
                         "domain": null,
                         "name": "SHAPE",
-                        "type": "esriFieldTypeGeometry"
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
                     },
                     {
                         "alias": "SHAPE.STArea()",
                         "domain": null,
                         "name": "SHAPE.STArea()",
-                        "type": "esriFieldTypeDouble"
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
                     },
                     {
                         "alias": "SHAPE.STLength()",
                         "domain": null,
                         "name": "SHAPE.STLength()",
-                        "type": "esriFieldTypeDouble"
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "groupIds": [
-                    "6ecd0e3c9f47481bbccdd7e419ccf212"
-                ],
-                "hasApi": true,
-                "hubType": "Feature Layer",
-                "id": "c15c9a3aca054d4cb7c6b3f84779d64d_11",
-                "itemModified": 1558089470000,
-                "layer": {
-                    "advancedQueryCapabilities": {
-                        "supportsDistinct": true,
-                        "supportsOrderBy": true,
-                        "supportsPagination": true,
-                        "supportsQueryWithDistance": true,
-                        "supportsReturningQueryExtent": true,
-                        "supportsStatistics": true,
-                        "supportsTrueCurve": true,
-                        "useStandardizedQueries": true
-                    },
-                    "canModifyLayer": false,
-                    "canScaleSymbols": false,
-                    "capabilities": "Map,Query,Data",
-                    "copyrightText": "",
-                    "currentVersion": 10.41,
-                    "defaultVisibility": true,
-                    "description": "",
-                    "displayField": "MAPKEY",
-                    "drawingInfo": {
-                        "labelingInfo": null,
-                        "renderer": {
-                            "description": "",
-                            "label": "",
-                            "symbol": {
-                                "color": [
-                                    247,
-                                    242,
-                                    210,
-                                    255
-                                ],
-                                "outline": {
-                                    "color": [
-                                        110,
-                                        110,
-                                        110,
-                                        255
-                                    ],
-                                    "style": "esriSLSSolid",
-                                    "type": "esriSLS",
-                                    "width": 0.4
-                                },
-                                "style": "esriSFSSolid",
-                                "type": "esriSFS"
-                            },
-                            "type": "simple"
-                        },
-                        "transparency": 0
-                    },
-                    "extent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526657.0499999998,
-                        "xmin": 521203.7000000002,
-                        "ymax": 183002.59999999963,
-                        "ymin": 175426.80000000075
-                    },
-                    "fields": [
-                        {
-                            "alias": "OBJECTID",
-                            "domain": null,
-                            "name": "OBJECTID",
-                            "type": "esriFieldTypeOID"
-                        },
-                        {
-                            "alias": "POLLING_ZO",
-                            "domain": null,
-                            "length": 128,
-                            "name": "POLLING_ZO",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "POLLING_ST",
-                            "domain": null,
-                            "length": 150,
-                            "name": "POLLING_ST",
-                            "type": "esriFieldTypeString"
-                        },
-                        {
-                            "alias": "SHAPE",
-                            "domain": null,
-                            "name": "SHAPE",
-                            "type": "esriFieldTypeGeometry"
-                        },
-                        {
-                            "alias": "SHAPE.STArea()",
-                            "domain": null,
-                            "name": "SHAPE.STArea()",
-                            "type": "esriFieldTypeDouble"
-                        },
-                        {
-                            "alias": "SHAPE.STLength()",
-                            "domain": null,
-                            "name": "SHAPE.STLength()",
-                            "type": "esriFieldTypeDouble"
-                        }
-                    ],
-                    "geometryType": "esriGeometryPolygon",
-                    "hasAttachments": false,
-                    "hasLabels": false,
-                    "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
-                    "id": 11,
-                    "indexes": [
-                        {
-                            "description": "",
-                            "fields": "OBJECTID",
-                            "isAscending": true,
-                            "isUnique": true,
-                            "name": "R827_pk"
-                        },
-                        {
-                            "description": "",
-                            "fields": "SHAPE",
-                            "isAscending": true,
-                            "isUnique": true,
-                            "name": "S821_idx"
-                        }
-                    ],
-                    "maxRecordCount": 1000,
-                    "maxScale": 0,
-                    "minScale": 0,
-                    "name": "Polling Districts",
-                    "ownershipBasedAccessControlForFeatures": {
-                        "allowOthersToQuery": true
-                    },
-                    "parentLayer": null,
-                    "relationships": [],
-                    "subLayers": [],
-                    "supportedQueryFormats": "JSON, AMF, geoJSON",
-                    "supportsAdvancedQueries": true,
-                    "supportsStatistics": true,
-                    "type": "Feature Layer",
-                    "typeIdField": null,
-                    "useStandardizedQueries": true
-                },
-                "layers": [
+                "harvestedAt": "2019-05-17T10:43:47.118Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "INSPIRE",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
+                "licenseInfo": "",
+                "maxRecordCount": 1000,
+                "messages": [
                     {
-                        "advancedQueryCapabilities": {
-                            "supportsDistinct": true,
-                            "supportsOrderBy": true,
-                            "supportsPagination": true,
-                            "supportsQueryWithDistance": true,
-                            "supportsReturningQueryExtent": true,
-                            "supportsStatistics": true,
-                            "supportsTrueCurve": true,
-                            "useStandardizedQueries": true
+                        "i18n": {
+                            "data": {
+                                "target": "_blank",
+                                "url": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d"
+                            },
+                            "key": "messages.no_license.dataset"
                         },
-                        "canModifyLayer": false,
-                        "canScaleSymbols": false,
-                        "capabilities": "Map,Query,Data",
-                        "copyrightText": "",
-                        "currentVersion": 10.41,
-                        "defaultVisibility": true,
-                        "description": "",
-                        "displayField": "MAPKEY",
-                        "drawingInfo": {
-                            "labelingInfo": null,
-                            "renderer": {
-                                "description": "",
-                                "label": "",
-                                "symbol": {
-                                    "color": [
-                                        247,
-                                        242,
-                                        210,
-                                        255
-                                    ],
-                                    "outline": {
-                                        "color": [
-                                            110,
-                                            110,
-                                            110,
-                                            255
-                                        ],
-                                        "style": "esriSLSSolid",
-                                        "type": "esriSLS",
-                                        "width": 0.4
-                                    },
-                                    "style": "esriSFSSolid",
-                                    "type": "esriSFS"
-                                },
-                                "type": "simple"
+                        "log": "Dataset does not have a license specified.",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "MAPKEY"
                             },
-                            "transparency": 0
+                            "key": "messages.inspectors.display_field.not_present"
                         },
-                        "extent": {
-                            "spatialReference": {
-                                "latestWkid": 27700,
-                                "wkid": 27700
-                            },
-                            "xmax": 526657.0499999998,
-                            "xmin": 521203.7000000002,
-                            "ymax": 183002.59999999963,
-                            "ymin": 175426.80000000075
+                        "log": "Specified display field MAPKEY was not present in the dataset. Using [object Object] as display field instead",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
                         },
-                        "fields": [
-                            {
-                                "alias": "OBJECTID",
-                                "domain": null,
-                                "name": "OBJECTID",
-                                "type": "esriFieldTypeOID"
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
                             },
-                            {
-                                "alias": "POLLING_ZO",
-                                "domain": null,
-                                "length": 128,
-                                "name": "POLLING_ZO",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "POLLING_ST",
-                                "domain": null,
-                                "length": 150,
-                                "name": "POLLING_ST",
-                                "type": "esriFieldTypeString"
-                            },
-                            {
-                                "alias": "SHAPE",
-                                "domain": null,
-                                "name": "SHAPE",
-                                "type": "esriFieldTypeGeometry"
-                            },
-                            {
-                                "alias": "SHAPE.STArea()",
-                                "domain": null,
-                                "name": "SHAPE.STArea()",
-                                "type": "esriFieldTypeDouble"
-                            },
-                            {
-                                "alias": "SHAPE.STLength()",
-                                "domain": null,
-                                "name": "SHAPE.STLength()",
-                                "type": "esriFieldTypeDouble"
-                            }
-                        ],
-                        "geometryType": "esriGeometryPolygon",
-                        "hasAttachments": false,
-                        "hasLabels": false,
-                        "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
-                        "id": 11,
-                        "indexes": [
-                            {
-                                "description": "",
-                                "fields": "OBJECTID",
-                                "isAscending": true,
-                                "isUnique": true,
-                                "name": "R827_pk"
-                            },
-                            {
-                                "description": "",
-                                "fields": "SHAPE",
-                                "isAscending": true,
-                                "isUnique": true,
-                                "name": "S821_idx"
-                            }
-                        ],
-                        "maxRecordCount": 1000,
-                        "maxScale": 0,
-                        "minScale": 0,
-                        "name": "Polling Districts",
-                        "ownershipBasedAccessControlForFeatures": {
-                            "allowOthersToQuery": true
+                            "key": "messages.stats.not_generated.black_list_name"
                         },
-                        "parentLayer": null,
-                        "relationships": [],
-                        "subLayers": [],
-                        "supportedQueryFormats": "JSON, AMF, geoJSON",
-                        "supportsAdvancedQueries": true,
-                        "supportsStatistics": true,
-                        "type": "Feature Layer",
-                        "typeIdField": null,
-                        "useStandardizedQueries": true
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named SHAPE.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE.STArea()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STArea()).",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE.STLength()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STLength()).",
+                        "type": "info"
                     }
                 ],
-                "licenseInfo": null,
-                "maxRecordCount": 1000,
-                "modified": 1558089470000,
-                "modifiedProvenance": "item.modified",
+                "metadata": {
+                    "online_resources": [],
+                    "present": false,
+                    "published": null,
+                    "url": null
+                },
+                "metadataUrl": null,
                 "name": "Polling Districts",
                 "objectIdField": "OBJECTID",
-                "openData": true,
                 "owner": "admin_lbhf",
+                "public": true,
+                "quality": 66,
                 "recordCount": 59,
-                "searchDescription": "Open Data under the INSPIRE European Directive",
-                "server": {
-                    "capabilities": "Map,Query,Data",
-                    "copyrightText": "",
-                    "currentVersion": 10.41,
-                    "description": "",
-                    "documentInfo": {
-                        "AntialiasingMode": "None",
-                        "Author": "",
-                        "Category": "",
-                        "Comments": "Open Data under the INSPIRE European Directive",
-                        "Keywords": "INSPIRE",
-                        "Subject": "Open Data under the INSPIRE European Directive",
-                        "TextAntialiasingMode": "Force",
-                        "Title": ""
-                    },
-                    "exportTilesAllowed": false,
-                    "fullExtent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526657.0499999998,
-                        "xmin": 521203.7000000002,
-                        "ymax": 183002.60000418202,
-                        "ymin": 175426.7999971265
-                    },
-                    "initialExtent": {
-                        "spatialReference": {
-                            "latestWkid": 27700,
-                            "wkid": 27700
-                        },
-                        "xmax": 526043.3140144777,
-                        "xmin": 521570.5238188973,
-                        "ymax": 181439.20533401085,
-                        "ymin": 179790.84787062925
-                    },
-                    "layers": [
-                        {
-                            "defaultVisibility": true,
-                            "id": 0,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Polling Stations",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 1,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Tree Preservation Orders",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 2,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Environmental Permits",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 3,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Tree Preservation Orders - Groups",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 4,
-                            "maxScale": 0,
-                            "minScale": 10000,
-                            "name": "Article 4 Buildings",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 5,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Open Spaces",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 6,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Strategic Sites",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 7,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Town Centres",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 8,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Regeneration Areas",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 9,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Conservation Areas",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 10,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Controlled Parking Zones",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        },
-                        {
-                            "defaultVisibility": true,
-                            "id": 11,
-                            "maxScale": 0,
-                            "minScale": 0,
-                            "name": "Polling Districts",
-                            "parentLayerId": -1,
-                            "subLayerIds": null
-                        }
-                    ],
-                    "mapName": "Layers",
-                    "maxImageHeight": 4096,
-                    "maxImageWidth": 4096,
-                    "maxRecordCount": 1000,
-                    "maxScale": 0,
-                    "minScale": 0,
-                    "serviceDescription": "Open Data under the INSPIRE European Directive",
-                    "singleFusedMapCache": false,
-                    "spatialReference": {
-                        "latestWkid": 27700,
-                        "wkid": 27700
-                    },
-                    "supportedExtensions": "KmlServer, WFSServer, WMSServer",
-                    "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
-                    "supportedQueryFormats": "JSON, AMF, geoJSON",
-                    "supportsDynamicLayers": false,
-                    "tables": [],
-                    "units": "esriMeters"
-                },
-                "serverCapabilities": "Map,Query,Data",
                 "serviceSpatialReference": {
                     "latestWkid": 27700,
                     "wkid": 27700
                 },
-                "size": 68,
-                "source": "admin_lbhf",
-                "sourceProvenance": "item.owner",
-                "statistics": {
-                    "numeric": {
-                        "shape.starea()": {
-                            "meta": {
-                                "error": "Unable to complete operation.",
-                                "missingStats": [
-                                    "sum",
-                                    "avg",
-                                    "count",
-                                    "min",
-                                    "max",
-                                    "stddev",
-                                    "var"
-                                ],
-                                "pass": false
-                            },
-                            "statistics": {
-                                "duration": 445.5234900005162
-                            }
-                        },
-                        "shape.stlength()": {
-                            "meta": {
-                                "error": "Unable to complete operation.",
-                                "missingStats": [
-                                    "sum",
-                                    "avg",
-                                    "count",
-                                    "min",
-                                    "max",
-                                    "stddev",
-                                    "var"
-                                ],
-                                "pass": false
-                            },
-                            "statistics": {
-                                "duration": 445.5234900005162
-                            }
-                        }
-                    },
-                    "objectid": {
-                        "objectid": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "duration": 1127.1514510000125,
-                                "values": {
-                                    "avg": 33,
-                                    "count": 59,
-                                    "max": 68,
-                                    "min": 1,
-                                    "sum": 1963
-                                }
-                            }
-                        }
-                    },
-                    "string": {
-                        "polling_st": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 2223.545092999935,
-                                "uniqueCount": 58,
-                                "values": [
-                                    {
-                                        "count": 2,
-                                        "value": "Thomas\u2019 Academy, New King's Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wormholt Park Primary School, Bryony Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Wood Lane Community Centre, 78 White City Close"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "White City Community Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West London Free School, Cambridge Grove"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Village Hall, 58 Bulwer Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Twynholm Baptist Church, Fulham Cross"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Townmead Youth Centre, Townmead Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "The Wharf Rooms, Imperial Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Temporary Station, Fulham High Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TBAP Academy (Formerly Greswell Centre), Greswell Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St. Peter's C E Primary School, 47 St Peter's Grove"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Saviour\u2019s Church Hall, Cobbold Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Peters Church, St Peters Terrace"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Pauls CE Primary School, Worlidge Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Michael's Centre, Townmead Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys RC Primary School, Masbro Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Marys Church Hall, Edith Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Lukes Church, Uxbridge Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St John's School, Filmer Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Johns Church, Walham Green"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "St Andrews Church, Greyhound Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Springvale Tenants Hall, Blythe Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Queens Manor School, Lysia Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Parsons Green Club, Temporary clubhouse, Daisy Lane"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Old Oak Community Centre, Braybrook Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Miles Coverdale School, Coverdale Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Melcombe Primary School, Colwith Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Matthews Hall, Margravine Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Manor Court, 23 Bagleys Lane"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Macbeth Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Lena Gardens Primary School, Lena Gardens"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Lancaster Court Residents Hall, Darlan Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Kenmont Primary School, Valliere Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "John Betts House, Rylett Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Trinity RC Church, Brook Green"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Innocents Church Hall, Paddenswick Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Holy Cross Catholic Primary School"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greenside Primary School, Westville Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Primary School, Halford Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Library, 598 Fulham Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Cross School, Strode Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Fulham Broadway Methodist Church, 452 Fulham Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Edward Woods Community Centre, 60-70 Norland Court"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Corinthian Sailing Club, 60 Upper Mall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Community Hall, Len Freeman Place, Clem Attlee Estate"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Church of God, 1A Loftus Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Childerley Centre, Childerley Street"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Charecroft Estate Community Hall, Rockley Road"
-                                    }
-                                ]
-                            }
-                        },
-                        "polling_zo": {
-                            "meta": {
-                                "error": null,
-                                "missingStats": [],
-                                "pass": true
-                            },
-                            "statistics": {
-                                "count": 59,
-                                "duration": 2023.3104260005057,
-                                "uniqueCount": 59,
-                                "values": [
-                                    {
-                                        "count": 1,
-                                        "value": "WWC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "WWB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "WWA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "TWA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SED"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SEA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "SBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "RPA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PRA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "PGA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NEA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "MUA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "HBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FRA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBB"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "FBA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPF"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPD"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "CPA"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "ASC"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "ASB"
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                },
+                "slug": null,
+                "source": null,
                 "structuredLicense": {
                     "type": "none"
                 },
                 "supportedExtensions": "KmlServer, WFSServer, WMSServer",
-                "supportedQueryFormats": "JSON, AMF, geoJSON",
                 "supportsAdvancedQueries": true,
                 "tags": [
-                    "INSPIRE"
+                    "inspire"
                 ],
-                "thumbnail": "thumbnail/ago_downloaded.png",
-                "thumbnailUrl": "thumbnail/ago_downloaded.png",
-                "type": "Feature Layer",
-                "typeCategories": [
-                    "Dataset"
-                ],
-                "typeKeywords": [
-                    "ArcGIS Server",
-                    "Data",
-                    "Dynamic",
-                    "Map Service",
-                    "Multilayer",
-                    "Service"
-                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/c15c9a3aca054d4cb7c6b3f84779d64d/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "inspire",
+                "type": "Layer",
+                "updatedAt": "2019-05-17T10:37:50.000Z",
                 "url": "https://www.rbkc.gov.uk/arcgis/rest/services//LBHF/INSPIRE/MapServer/11",
                 "useStandardizedQueries": true,
-                "validExtent": true,
-                "xFrameOptions": [
-                    "SAMEORIGIN"
-                ]
+                "views": null
             },
             "id": "c15c9a3aca054d4cb7c6b3f84779d64d_11",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/c15c9a3aca054d4cb7c6b3f84779d64d_11?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
-                "rawEs": "http://opendata.arcgis.com/api/es/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_11",
-                "self": "http://opendata.arcgis.com/api/v3/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_11"
+                "self": "https://opendata.arcgis.com/api/v2/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_11"
             },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "6ecd0e3c9f47481bbccdd7e419ccf212",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": null
+                },
+                "site": {
+                    "meta": {
+                        "count": 0
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2019-05-17T10:37:48.000Z",
+                "currentVersion": "10.41",
+                "dataType": "Layer",
+                "description": "Open Data under the INSPIRE European Directive",
+                "displayField": "POLLING_ST",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -0.2566,
+                            51.4637
+                        ],
+                        [
+                            -0.1754,
+                            51.5329
+                        ]
                     ]
                 },
-                "matchedFields": [
-                    "name",
-                    "stemmedName"
-                ]
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-05-17T10:38:12.920Z"
+                    },
+                    {
+                        "alias": "POLLING_ST",
+                        "domain": null,
+                        "name": "POLLING_ST",
+                        "statistics": {
+                            "count": 2,
+                            "duration": 582.18940000236,
+                            "values": [
+                                {
+                                    "count": 58,
+                                    "value": "Polling Stations"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Polling Station"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:13.502Z"
+                    },
+                    {
+                        "alias": "POLLING_DI",
+                        "domain": null,
+                        "name": "POLLING_DI",
+                        "statistics": {
+                            "count": 59,
+                            "duration": 612.140891999006,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SED"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEA"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:13.533Z"
+                    },
+                    {
+                        "alias": "POLLING__1",
+                        "domain": null,
+                        "name": "POLLING__1",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 33927.8353629857,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Thomas\u2019 Academy, New King's Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wormholt Park Primary School, Bryony Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wood Lane Community Centre, 78 White City Close"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "White City Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West London Free School, Cambridge Grove"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Village Hall, 58 Bulwer Street"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Twynholm Baptist Church, Fulham Cross"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Townmead Youth Centre, Townmead Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Wharf Rooms, Imperial Road"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:46.848Z"
+                    },
+                    {
+                        "alias": "POSTCODE",
+                        "domain": null,
+                        "name": "POSTCODE",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 662.976325005293,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "SW6 4LY"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 9TE"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 9JJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 9ER"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 9BP"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 9AQ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 8HJ"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 7PX"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 7BL"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "W6 0LB"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:13.584Z"
+                    },
+                    {
+                        "alias": "WARD",
+                        "domain": null,
+                        "name": "WARD",
+                        "statistics": {
+                            "count": 16,
+                            "duration": 663.66859100759,
+                            "values": [
+                                {
+                                    "count": 5,
+                                    "value": "COLLEGE PARK AND OLD OAK"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "SHEPHERD'S BUSH GREEN"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "SANDS END"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "RAVENSCOURT PARK"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "PARSONS GREEN AND WALHAM"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "MUNSTER"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "HAMMERSMITH BROADWAY"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "FULHAM REACH"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "AVONMORE AND BROOK GREEN"
+                                },
+                                {
+                                    "count": 4,
+                                    "value": "ADDISON"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:13.585Z"
+                    },
+                    {
+                        "alias": "LOCATION",
+                        "domain": null,
+                        "name": "LOCATION",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 812.256663009524,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Thomas\u2019 Academy"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wormholt Park Primary School"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wood Lane Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "White City Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wharf Rooms"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West London Free School"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West Kensington Estate Tenants Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Village Hall"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Twynholm Baptist Church"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Townmead Youth Centre"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:38:13.733Z"
+                    },
+                    {
+                        "alias": "SHAPE",
+                        "domain": null,
+                        "name": "SHAPE",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2019-05-17T10:38:12.921Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPoint",
+                "harvestedAt": "2019-05-17T10:38:47.159Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "INSPIRE",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
+                "licenseInfo": "",
+                "maxRecordCount": 1000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "data": {
+                                "target": "_blank",
+                                "url": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d"
+                            },
+                            "key": "messages.no_license.dataset"
+                        },
+                        "log": "Dataset does not have a license specified.",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named SHAPE.",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": false,
+                    "published": null,
+                    "url": null
+                },
+                "metadataUrl": null,
+                "name": "Polling Stations",
+                "objectIdField": "OBJECTID",
+                "owner": "admin_lbhf",
+                "public": true,
+                "quality": 66,
+                "recordCount": 59,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": null,
+                "source": null,
+                "structuredLicense": {
+                    "type": "none"
+                },
+                "supportedExtensions": "KmlServer, WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "inspire"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/c15c9a3aca054d4cb7c6b3f84779d64d/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "inspire",
+                "type": "Layer",
+                "updatedAt": "2019-05-17T10:37:50.000Z",
+                "url": "https://www.rbkc.gov.uk/arcgis/rest/services//LBHF/INSPIRE/MapServer/0",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "c15c9a3aca054d4cb7c6b3f84779d64d_0",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_0"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "6ecd0e3c9f47481bbccdd7e419ccf212",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": null
+                },
+                "site": {
+                    "meta": {
+                        "count": 0
+                    }
+                }
             },
             "type": "dataset"
         }
     ],
+    "included": [
+        {
+            "attributes": {
+                "createdAt": "2019-04-05T15:06:39.059Z",
+                "description": null,
+                "tags": [
+                    "open data"
+                ],
+                "title": "LBHF Open Data",
+                "updatedAt": "2019-04-05T15:06:59.653Z"
+            },
+            "id": "6ecd0e3c9f47481bbccdd7e419ccf212",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/groups/6ecd0e3c9f47481bbccdd7e419ccf212"
+            },
+            "type": "group"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=data-lbhf.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt",
+        "last": "https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size]=10&filter[catalogs]=data-lbhf.opendata.arcgis.com&include=organizations,groups&q=polling&sort=-updatedAt"
+    },
     "meta": {
-        "next": "https://opendata.arcgis.com/api/v3/search?q=polling&sort=-modified&agg%5Bfields%5D=downloadable%2ChasApi%2Csource%2Ctags%2Ctype%2Caccess&catalog%5BgroupIds%5D=any%286ecd0e3c9f47481bbccdd7e419ccf212%29&page%5Bkey%5D=eyJodWIiOnsic3RhcnQiOjN9LCJhZ28iOnsic3RhcnQiOjN9fQ%3D%3D",
+        "apiRoot": "https://opendata.arcgis.com/api/v2",
         "queryParameters": {
-            "agg": {
-                "fields": "downloadable,hasApi,source,tags,type,access"
-            },
-            "catalog": {
-                "groupIds": "any(6ecd0e3c9f47481bbccdd7e419ccf212)"
-            },
             "filter": {
-                "endDate": "eventsBefore(1567746305604)",
-                "isCancelled": "eventsEq(false)",
-                "status": "not(private,draft,planned)"
+                "catalogs": "data-lbhf.opendata.arcgis.com"
+            },
+            "include": "organizations,groups",
+            "page": {
+                "number": 1,
+                "size": 10
             },
             "q": "polling",
-            "sort": "-modified"
+            "sort": "-updatedAt"
         },
+        "request": "https://opendata.arcgis.com/api/v2/datasets?filter[catalogs]=data-lbhf.opendata.arcgis.com&include=organizations%2Cgroups&page[number]=1&page[size]=10&q=polling&sort=-updatedAt",
+        "resourceRoot": "https://opendata.arcgis.com/api/v2/datasets",
         "stats": {
             "aggs": {
-                "access": [
+                "content": [
                     {
                         "docCount": 2,
-                        "key": "public"
+                        "key": "spatial dataset"
                     }
                 ],
-                "downloadable": [
-                    {
-                        "docCount": 2,
-                        "key": "true"
-                    }
-                ],
-                "hasApi": [
-                    {
-                        "docCount": 2,
-                        "key": "true"
-                    }
-                ],
-                "source": [
-                    {
-                        "docCount": 2,
-                        "key": "admin_lbhf"
-                    }
-                ],
+                "source": [],
                 "tags": [
                     {
                         "docCount": 2,
                         "key": "inspire"
-                    }
-                ],
-                "type": [
-                    {
-                        "docCount": 2,
-                        "key": "feature layer"
                     }
                 ]
             },
