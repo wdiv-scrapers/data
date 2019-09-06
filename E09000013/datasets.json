@@ -3049,7 +3049,7 @@
                 "groupIds": "any(6ecd0e3c9f47481bbccdd7e419ccf212)"
             },
             "filter": {
-                "endDate": "eventsBefore(1567724767940)",
+                "endDate": "eventsBefore(1567746305604)",
                 "isCancelled": "eventsEq(false)",
                 "status": "not(private,draft,planned)"
             },
