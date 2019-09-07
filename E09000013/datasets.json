@@ -20,6 +20,333 @@
                 "currentVersion": "10.41",
                 "dataType": "Layer",
                 "description": "Open Data under the INSPIRE European Directive",
+                "displayField": "POLLING_ZO",
+                "downloadCache": "automatic",
+                "expiration": "automatic",
+                "extent": {
+                    "coordinates": [
+                        [
+                            -0.2566,
+                            51.4637
+                        ],
+                        [
+                            -0.1754,
+                            51.5329
+                        ]
+                    ]
+                },
+                "fields": [
+                    {
+                        "alias": "OBJECTID",
+                        "domain": null,
+                        "name": "OBJECTID",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeOID",
+                        "updatedAt": "2019-05-17T10:43:43.946Z"
+                    },
+                    {
+                        "alias": "POLLING_ZO",
+                        "domain": null,
+                        "name": "POLLING_ZO",
+                        "statistics": {
+                            "count": 59,
+                            "duration": 444.532894998789,
+                            "values": [
+                                {
+                                    "count": 1,
+                                    "value": "WWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "WWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "TWA"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SED"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEC"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEB"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "SEA"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:43:44.391Z"
+                    },
+                    {
+                        "alias": "POLLING_ST",
+                        "domain": null,
+                        "name": "POLLING_ST",
+                        "statistics": {
+                            "count": 58,
+                            "duration": 485.72049100697,
+                            "values": [
+                                {
+                                    "count": 2,
+                                    "value": "Thomas\u2019 Academy, New King's Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wormholt Park Primary School, Bryony Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Wood Lane Community Centre, 78 White City Close"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "White City Community Centre"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West London Free School, Cambridge Grove"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Village Hall, 58 Bulwer Street"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Twynholm Baptist Church, Fulham Cross"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "Townmead Youth Centre, Townmead Road"
+                                },
+                                {
+                                    "count": 1,
+                                    "value": "The Wharf Rooms, Imperial Road"
+                                }
+                            ]
+                        },
+                        "type": "esriFieldTypeString",
+                        "updatedAt": "2019-05-17T10:43:44.432Z"
+                    },
+                    {
+                        "alias": "SHAPE",
+                        "domain": null,
+                        "name": "SHAPE",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeGeometry",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
+                    },
+                    {
+                        "alias": "SHAPE.STArea()",
+                        "domain": null,
+                        "name": "SHAPE.STArea()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
+                    },
+                    {
+                        "alias": "SHAPE.STLength()",
+                        "domain": null,
+                        "name": "SHAPE.STLength()",
+                        "statistics": {
+                            "duration": 0
+                        },
+                        "type": "esriFieldTypeDouble",
+                        "updatedAt": "2019-05-17T10:43:43.947Z"
+                    }
+                ],
+                "geometryType": "esriGeometryPolygon",
+                "harvestedAt": "2019-05-17T10:43:47.118Z",
+                "hasErrors": false,
+                "hasWarnings": true,
+                "itemName": "INSPIRE",
+                "itemType": "Feature Layer",
+                "landingPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
+                "licenseInfo": "",
+                "maxRecordCount": 1000,
+                "messages": [
+                    {
+                        "i18n": {
+                            "data": {
+                                "target": "_blank",
+                                "url": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d"
+                            },
+                            "key": "messages.no_license.dataset"
+                        },
+                        "log": "Dataset does not have a license specified.",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "MAPKEY"
+                            },
+                            "key": "messages.inspectors.display_field.not_present"
+                        },
+                        "log": "Specified display field MAPKEY was not present in the dataset. Using [object Object] as display field instead",
+                        "type": "warn"
+                    },
+                    {
+                        "i18n": {
+                            "key": "messages.inspectors.last_edited_date.not_enabled"
+                        },
+                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "OBJECTID"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named OBJECTID.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE"
+                            },
+                            "key": "messages.stats.not_generated.black_list_name"
+                        },
+                        "log": "Statistics are not generated for fields named SHAPE.",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE.STArea()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STArea()).",
+                        "type": "info"
+                    },
+                    {
+                        "i18n": {
+                            "data": {
+                                "field_name": "SHAPE.STLength()"
+                            },
+                            "key": "messages.stats.not_generated.period_in_name"
+                        },
+                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STLength()).",
+                        "type": "info"
+                    }
+                ],
+                "metadata": {
+                    "online_resources": [],
+                    "present": false,
+                    "published": null,
+                    "url": null
+                },
+                "metadataUrl": null,
+                "name": "Polling Districts",
+                "objectIdField": "OBJECTID",
+                "owner": "admin_lbhf",
+                "public": true,
+                "quality": 66,
+                "recordCount": 59,
+                "serviceSpatialReference": {
+                    "latestWkid": 27700,
+                    "wkid": 27700
+                },
+                "slug": null,
+                "source": null,
+                "structuredLicense": {
+                    "type": "none"
+                },
+                "supportedExtensions": "KmlServer, WFSServer, WMSServer",
+                "supportsAdvancedQueries": true,
+                "tags": [
+                    "inspire"
+                ],
+                "thumbnail": null,
+                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/c15c9a3aca054d4cb7c6b3f84779d64d/info/thumbnail/ago_downloaded.png",
+                "timeInfo": null,
+                "title": "inspire",
+                "type": "Layer",
+                "updatedAt": "2019-05-17T10:37:50.000Z",
+                "url": "https://www.rbkc.gov.uk/arcgis/rest/services//LBHF/INSPIRE/MapServer/11",
+                "useStandardizedQueries": true,
+                "views": null
+            },
+            "id": "c15c9a3aca054d4cb7c6b3f84779d64d_11",
+            "links": {
+                "self": "https://opendata.arcgis.com/api/v2/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_11"
+            },
+            "meta": {},
+            "relationships": {
+                "group": {
+                    "data": [
+                        {
+                            "id": "6ecd0e3c9f47481bbccdd7e419ccf212",
+                            "type": "group"
+                        }
+                    ],
+                    "meta": {
+                        "count": 1
+                    }
+                },
+                "organization": {
+                    "data": null
+                },
+                "site": {
+                    "meta": {
+                        "count": 0
+                    }
+                }
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "advancedQueryCapabilities": {
+                    "supportsDistinct": true,
+                    "supportsOrderBy": true,
+                    "supportsPagination": true,
+                    "supportsQueryWithDistance": true,
+                    "supportsReturningQueryExtent": true,
+                    "supportsStatistics": true,
+                    "supportsTrueCurve": true,
+                    "useStandardizedQueries": true
+                },
+                "catalogs": null,
+                "commentsEnabled": true,
+                "content": "spatial dataset",
+                "coverage": "local",
+                "createdAt": "2019-05-17T10:37:48.000Z",
+                "currentVersion": "10.41",
+                "dataType": "Layer",
+                "description": "Open Data under the INSPIRE European Directive",
                 "displayField": "POLLING_ST",
                 "downloadCache": "automatic",
                 "expiration": "automatic",
@@ -432,333 +759,6 @@
             "id": "c15c9a3aca054d4cb7c6b3f84779d64d_0",
             "links": {
                 "self": "https://opendata.arcgis.com/api/v2/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_0"
-            },
-            "meta": {},
-            "relationships": {
-                "group": {
-                    "data": [
-                        {
-                            "id": "6ecd0e3c9f47481bbccdd7e419ccf212",
-                            "type": "group"
-                        }
-                    ],
-                    "meta": {
-                        "count": 1
-                    }
-                },
-                "organization": {
-                    "data": null
-                },
-                "site": {
-                    "meta": {
-                        "count": 0
-                    }
-                }
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "advancedQueryCapabilities": {
-                    "supportsDistinct": true,
-                    "supportsOrderBy": true,
-                    "supportsPagination": true,
-                    "supportsQueryWithDistance": true,
-                    "supportsReturningQueryExtent": true,
-                    "supportsStatistics": true,
-                    "supportsTrueCurve": true,
-                    "useStandardizedQueries": true
-                },
-                "catalogs": null,
-                "commentsEnabled": true,
-                "content": "spatial dataset",
-                "coverage": "local",
-                "createdAt": "2019-05-17T10:37:48.000Z",
-                "currentVersion": "10.41",
-                "dataType": "Layer",
-                "description": "Open Data under the INSPIRE European Directive",
-                "displayField": "POLLING_ZO",
-                "downloadCache": "automatic",
-                "expiration": "automatic",
-                "extent": {
-                    "coordinates": [
-                        [
-                            -0.2566,
-                            51.4637
-                        ],
-                        [
-                            -0.1754,
-                            51.5329
-                        ]
-                    ]
-                },
-                "fields": [
-                    {
-                        "alias": "OBJECTID",
-                        "domain": null,
-                        "name": "OBJECTID",
-                        "statistics": {
-                            "duration": 0
-                        },
-                        "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-05-17T10:43:43.946Z"
-                    },
-                    {
-                        "alias": "POLLING_ZO",
-                        "domain": null,
-                        "name": "POLLING_ZO",
-                        "statistics": {
-                            "count": 59,
-                            "duration": 444.532894998789,
-                            "values": [
-                                {
-                                    "count": 1,
-                                    "value": "WWC"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "WWB"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "WWA"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "TWC"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "TWB"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "TWA"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "SED"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "SEC"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "SEB"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "SEA"
-                                }
-                            ]
-                        },
-                        "type": "esriFieldTypeString",
-                        "updatedAt": "2019-05-17T10:43:44.391Z"
-                    },
-                    {
-                        "alias": "POLLING_ST",
-                        "domain": null,
-                        "name": "POLLING_ST",
-                        "statistics": {
-                            "count": 58,
-                            "duration": 485.72049100697,
-                            "values": [
-                                {
-                                    "count": 2,
-                                    "value": "Thomas\u2019 Academy, New King's Road"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "Wormholt Park Primary School, Bryony Road"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "Wood Lane Community Centre, 78 White City Close"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "White City Community Centre"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "West London Free School, Cambridge Grove"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "West Kensington Estate Tenants Hall, 80 Lillie Road"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "Village Hall, 58 Bulwer Street"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "Twynholm Baptist Church, Fulham Cross"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "Townmead Youth Centre, Townmead Road"
-                                },
-                                {
-                                    "count": 1,
-                                    "value": "The Wharf Rooms, Imperial Road"
-                                }
-                            ]
-                        },
-                        "type": "esriFieldTypeString",
-                        "updatedAt": "2019-05-17T10:43:44.432Z"
-                    },
-                    {
-                        "alias": "SHAPE",
-                        "domain": null,
-                        "name": "SHAPE",
-                        "statistics": {
-                            "duration": 0
-                        },
-                        "type": "esriFieldTypeGeometry",
-                        "updatedAt": "2019-05-17T10:43:43.947Z"
-                    },
-                    {
-                        "alias": "SHAPE.STArea()",
-                        "domain": null,
-                        "name": "SHAPE.STArea()",
-                        "statistics": {
-                            "duration": 0
-                        },
-                        "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-05-17T10:43:43.947Z"
-                    },
-                    {
-                        "alias": "SHAPE.STLength()",
-                        "domain": null,
-                        "name": "SHAPE.STLength()",
-                        "statistics": {
-                            "duration": 0
-                        },
-                        "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-05-17T10:43:43.947Z"
-                    }
-                ],
-                "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2019-05-17T10:43:47.118Z",
-                "hasErrors": false,
-                "hasWarnings": true,
-                "itemName": "INSPIRE",
-                "itemType": "Feature Layer",
-                "landingPage": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d",
-                "licenseInfo": "",
-                "maxRecordCount": 1000,
-                "messages": [
-                    {
-                        "i18n": {
-                            "data": {
-                                "target": "_blank",
-                                "url": "https://www.arcgis.com/home/item.html?id=c15c9a3aca054d4cb7c6b3f84779d64d"
-                            },
-                            "key": "messages.no_license.dataset"
-                        },
-                        "log": "Dataset does not have a license specified.",
-                        "type": "warn"
-                    },
-                    {
-                        "i18n": {
-                            "data": {
-                                "field_name": "MAPKEY"
-                            },
-                            "key": "messages.inspectors.display_field.not_present"
-                        },
-                        "log": "Specified display field MAPKEY was not present in the dataset. Using [object Object] as display field instead",
-                        "type": "warn"
-                    },
-                    {
-                        "i18n": {
-                            "key": "messages.inspectors.last_edited_date.not_enabled"
-                        },
-                        "log": "In order to accurately show when your data is updated, editor tracking must be enabled. See here for documentation.",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
-                            "data": {
-                                "field_name": "OBJECTID"
-                            },
-                            "key": "messages.stats.not_generated.black_list_name"
-                        },
-                        "log": "Statistics are not generated for fields named OBJECTID.",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
-                            "data": {
-                                "field_name": "SHAPE"
-                            },
-                            "key": "messages.stats.not_generated.black_list_name"
-                        },
-                        "log": "Statistics are not generated for fields named SHAPE.",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
-                            "data": {
-                                "field_name": "SHAPE.STArea()"
-                            },
-                            "key": "messages.stats.not_generated.period_in_name"
-                        },
-                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STArea()).",
-                        "type": "info"
-                    },
-                    {
-                        "i18n": {
-                            "data": {
-                                "field_name": "SHAPE.STLength()"
-                            },
-                            "key": "messages.stats.not_generated.period_in_name"
-                        },
-                        "log": "Statistics are not generated for fields with . in the name. ( SHAPE.STLength()).",
-                        "type": "info"
-                    }
-                ],
-                "metadata": {
-                    "online_resources": [],
-                    "present": false,
-                    "published": null,
-                    "url": null
-                },
-                "metadataUrl": null,
-                "name": "Polling Districts",
-                "objectIdField": "OBJECTID",
-                "owner": "admin_lbhf",
-                "public": true,
-                "quality": 66,
-                "recordCount": 59,
-                "serviceSpatialReference": {
-                    "latestWkid": 27700,
-                    "wkid": 27700
-                },
-                "slug": null,
-                "source": null,
-                "structuredLicense": {
-                    "type": "none"
-                },
-                "supportedExtensions": "KmlServer, WFSServer, WMSServer",
-                "supportsAdvancedQueries": true,
-                "tags": [
-                    "inspire"
-                ],
-                "thumbnail": null,
-                "thumbnailUrl": "https://www.arcgis.com/sharing/rest/content/items/c15c9a3aca054d4cb7c6b3f84779d64d/info/thumbnail/ago_downloaded.png",
-                "timeInfo": null,
-                "title": "inspire",
-                "type": "Layer",
-                "updatedAt": "2019-05-17T10:37:50.000Z",
-                "url": "https://www.rbkc.gov.uk/arcgis/rest/services//LBHF/INSPIRE/MapServer/11",
-                "useStandardizedQueries": true,
-                "views": null
-            },
-            "id": "c15c9a3aca054d4cb7c6b3f84779d64d_11",
-            "links": {
-                "self": "https://opendata.arcgis.com/api/v2/datasets/c15c9a3aca054d4cb7c6b3f84779d64d_11"
             },
             "meta": {},
             "relationships": {
