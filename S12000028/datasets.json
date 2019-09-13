@@ -35,7 +35,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-09-12T08:42:13.367Z"
+                        "updatedAt": "2019-09-13T14:32:14.739Z"
                     },
                     {
                         "alias": "Name",
@@ -43,7 +43,7 @@
                         "name": "place",
                         "statistics": {
                             "count": 47,
-                            "duration": 292.197535008192,
+                            "duration": 242.233888998628,
                             "values": [
                                 {
                                     "count": 1,
@@ -88,7 +88,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:42:13.659Z"
+                        "updatedAt": "2019-09-13T14:32:14.981Z"
                     },
                     {
                         "alias": "Town",
@@ -96,7 +96,7 @@
                         "name": "town",
                         "statistics": {
                             "count": 27,
-                            "duration": 275.950222998857,
+                            "duration": 244.928833000362,
                             "values": [
                                 {
                                     "count": 16,
@@ -141,7 +141,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:42:13.646Z"
+                        "updatedAt": "2019-09-13T14:32:14.984Z"
                     },
                     {
                         "alias": "Postcode",
@@ -149,7 +149,7 @@
                         "name": "postcode",
                         "statistics": {
                             "count": 47,
-                            "duration": 259.682760000229,
+                            "duration": 228.532683998346,
                             "values": [
                                 {
                                     "count": 1,
@@ -194,7 +194,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:42:13.630Z"
+                        "updatedAt": "2019-09-13T14:32:14.968Z"
                     },
                     {
                         "alias": "shape",
@@ -204,7 +204,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeGeometry",
-                        "updatedAt": "2019-09-12T08:42:13.372Z"
+                        "updatedAt": "2019-09-13T14:32:14.740Z"
                     },
                     {
                         "alias": "UPRN",
@@ -212,7 +212,7 @@
                         "name": "uprn",
                         "statistics": {
                             "count": 47,
-                            "duration": 268.211238995194,
+                            "duration": 230.951411001384,
                             "values": [
                                 {
                                     "count": 1,
@@ -257,7 +257,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:42:13.641Z"
+                        "updatedAt": "2019-09-13T14:32:14.971Z"
                     },
                     {
                         "alias": "Address",
@@ -267,11 +267,11 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:42:13.373Z"
+                        "updatedAt": "2019-09-13T14:32:14.740Z"
                     }
                 ],
                 "geometryType": "esriGeometryPoint",
-                "harvestedAt": "2019-09-12T08:42:16.814Z",
+                "harvestedAt": "2019-09-13T14:32:18.477Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Polling Places 2019",
@@ -353,7 +353,7 @@
                 "timeInfo": null,
                 "title": "polling places 2019",
                 "type": "Layer",
-                "updatedAt": "2019-09-12T08:42:16.929Z",
+                "updatedAt": "2019-09-13T14:32:18.671Z",
                 "url": "http://gis.south-ayrshire.gov.uk/arcgis/rest/services/Inspire/OpenData/MapServer/29",
                 "useStandardizedQueries": true,
                 "views": null
@@ -424,7 +424,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-09-12T08:40:46.594Z"
+                        "updatedAt": "2019-09-13T14:31:21.933Z"
                     },
                     {
                         "alias": "ward no",
@@ -433,7 +433,7 @@
                         "statistics": {
                             "avg": 5.42253521126761,
                             "count": 71,
-                            "duration": 211.218151003122,
+                            "duration": 245.581679001451,
                             "max": 8,
                             "min": 1,
                             "stddev": 2.19520237811581,
@@ -441,7 +441,7 @@
                             "var": 4.81891348088531
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-09-12T08:40:46.805Z"
+                        "updatedAt": "2019-09-13T14:31:22.179Z"
                     },
                     {
                         "alias": "ward name",
@@ -449,7 +449,7 @@
                         "name": "ward_name",
                         "statistics": {
                             "count": 8,
-                            "duration": 221.936287999153,
+                            "duration": 230.84703399986,
                             "values": [
                                 {
                                     "count": 15,
@@ -486,7 +486,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.816Z"
+                        "updatedAt": "2019-09-13T14:31:22.164Z"
                     },
                     {
                         "alias": "ward code",
@@ -494,7 +494,7 @@
                         "name": "ward_code",
                         "statistics": {
                             "count": 8,
-                            "duration": 229.644394993782,
+                            "duration": 212.478448003531,
                             "values": [
                                 {
                                     "count": 15,
@@ -531,7 +531,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.824Z"
+                        "updatedAt": "2019-09-13T14:31:22.146Z"
                     },
                     {
                         "alias": "polling district",
@@ -539,7 +539,7 @@
                         "name": "polling",
                         "statistics": {
                             "count": 71,
-                            "duration": 309.727163001895,
+                            "duration": 229.447466000915,
                             "values": [
                                 {
                                     "count": 1,
@@ -584,7 +584,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.905Z"
+                        "updatedAt": "2019-09-13T14:31:22.164Z"
                     },
                     {
                         "alias": "polling district name",
@@ -592,7 +592,7 @@
                         "name": "poll_name",
                         "statistics": {
                             "count": 68,
-                            "duration": 397.187328010798,
+                            "duration": 266.255425006151,
                             "values": [
                                 {
                                     "count": 2,
@@ -637,7 +637,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.992Z"
+                        "updatedAt": "2019-09-13T14:31:22.201Z"
                     },
                     {
                         "alias": "place",
@@ -645,7 +645,7 @@
                         "name": "place",
                         "statistics": {
                             "count": 47,
-                            "duration": 246.275986000896,
+                            "duration": 243.312088996172,
                             "values": [
                                 {
                                     "count": 6,
@@ -690,7 +690,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.842Z"
+                        "updatedAt": "2019-09-13T14:31:22.178Z"
                     },
                     {
                         "alias": "community",
@@ -698,7 +698,7 @@
                         "name": "community",
                         "statistics": {
                             "count": 28,
-                            "duration": 256.108201995492,
+                            "duration": 255.312068000436,
                             "values": [
                                 {
                                     "count": 6,
@@ -743,7 +743,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.852Z"
+                        "updatedAt": "2019-09-13T14:31:22.190Z"
                     },
                     {
                         "alias": "postcode",
@@ -751,7 +751,7 @@
                         "name": "postcode",
                         "statistics": {
                             "count": 52,
-                            "duration": 263.117623999715,
+                            "duration": 254.556667000055,
                             "values": [
                                 {
                                     "count": 3,
@@ -796,7 +796,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.859Z"
+                        "updatedAt": "2019-09-13T14:31:22.190Z"
                     },
                     {
                         "alias": "place x",
@@ -805,7 +805,7 @@
                         "statistics": {
                             "avg": 231509.492957746,
                             "count": 71,
-                            "duration": 275.243211999536,
+                            "duration": 266.310763001442,
                             "max": 243001,
                             "min": 208379,
                             "stddev": 7490.29072842825,
@@ -813,7 +813,7 @@
                             "var": 56104455.1963783
                         },
                         "type": "esriFieldTypeInteger",
-                        "updatedAt": "2019-09-12T08:40:46.871Z"
+                        "updatedAt": "2019-09-13T14:31:22.202Z"
                     },
                     {
                         "alias": "place y",
@@ -822,7 +822,7 @@
                         "statistics": {
                             "avg": 615801.436619718,
                             "count": 71,
-                            "duration": 278.601158007979,
+                            "duration": 277.075396001339,
                             "max": 634307,
                             "min": 582311,
                             "stddev": 13068.62483391,
@@ -830,7 +830,7 @@
                             "var": 170788955.049497
                         },
                         "type": "esriFieldTypeInteger",
-                        "updatedAt": "2019-09-12T08:40:46.875Z"
+                        "updatedAt": "2019-09-13T14:31:22.213Z"
                     },
                     {
                         "alias": "shape",
@@ -840,7 +840,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeGeometry",
-                        "updatedAt": "2019-09-12T08:40:46.597Z"
+                        "updatedAt": "2019-09-13T14:31:21.936Z"
                     },
                     {
                         "alias": "st_area(shape)",
@@ -850,7 +850,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-09-12T08:40:46.597Z"
+                        "updatedAt": "2019-09-13T14:31:21.936Z"
                     },
                     {
                         "alias": "UPRN",
@@ -858,7 +858,7 @@
                         "name": "uprn",
                         "statistics": {
                             "count": 47,
-                            "duration": 322.06781899929,
+                            "duration": 277.368769995868,
                             "values": [
                                 {
                                     "count": 6,
@@ -903,7 +903,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.919Z"
+                        "updatedAt": "2019-09-13T14:31:22.213Z"
                     },
                     {
                         "alias": "Address",
@@ -913,11 +913,11 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-09-12T08:40:46.597Z"
+                        "updatedAt": "2019-09-13T14:31:21.936Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2019-09-12T08:40:49.312Z",
+                "harvestedAt": "2019-09-13T14:31:22.501Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Polling Districts 2019",
@@ -1009,7 +1009,7 @@
                 "timeInfo": null,
                 "title": "polling districts 2019",
                 "type": "Layer",
-                "updatedAt": "2019-09-12T08:40:49.374Z",
+                "updatedAt": "2019-09-13T14:31:22.556Z",
                 "url": "http://gis.south-ayrshire.gov.uk/arcgis/rest/services/Inspire/OpenData/MapServer/30",
                 "useStandardizedQueries": true,
                 "views": null
@@ -1078,7 +1078,7 @@
                     "inspire"
                 ],
                 "title": "Open data",
-                "updatedAt": "2019-09-12T08:26:02.867Z"
+                "updatedAt": "2019-09-13T14:16:08.961Z"
             },
             "id": "436655c931664e279f675390213d828e",
             "links": {
