@@ -1,8 +1,8 @@
 {
-    "author": "Assurance Director/Electoral Officer",
-    "author_email": "open.data@barnet.gov.uk",
+    "author": "",
+    "author_email": "",
     "barnet_delivery_unit": "Assurance",
-    "barnet_next_update": "2016-05-04",
+    "barnet_next_update": "2020-09-30",
     "barnet_retention": "4 years",
     "barnet_service": "Elections Team",
     "createdAt": "2014-08-12T08:45:39",
@@ -10,9 +10,9 @@
     "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
     "licence": "ogl-v3",
     "licence_notes": "",
-    "maintainer": "John Bailey",
-    "maintainer_email": "john.bailey@barnet.gov.uk",
-    "next_review_date": "2004-05-20",
+    "maintainer": "Assurance Director/Electoral Officer",
+    "maintainer_email": "open.data@barnet.gov.uk",
+    "next_review_date": "2020-09-30",
     "odi-certificate": "",
     "parent": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
     "readonly": {
@@ -135,18 +135,18 @@
     },
     "resources": {
         "8e22cea7-2ff2-4270-9acb-e16bade02cf8": {
-            "check_hash": "2993d6129ff4ef8c71fa6398f58c9a58",
+            "check_hash": "ddda5fb88bb5fcc83b2d1eebf4cbd03a",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 8303,
-            "check_timestamp": "2018-06-12T13:24:56.130Z",
+            "check_size": 8520,
+            "check_timestamp": "2019-09-30T08:37:39.551Z",
             "description": "",
             "format": "csv",
             "order": 0,
-            "temporal_coverage_from": "2018-05-03",
-            "temporal_coverage_to": "2018-05-03",
+            "temporal_coverage_from": "2019-09-30",
+            "temporal_coverage_to": "2019-09-30",
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/barnet/dataset/polling-stations-in-barnet/2018-06-12T13%3A24%3A54/Barnet2018PollingStationsList.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/barnet/dataset/polling-stations-in-barnet/2019-09-30T08%3A37%3A37/LBBPollingStationList-2019.csv"
         }
     },
     "shares": {
@@ -169,5 +169,5 @@
         "5e51a6e1-304c-403a-87f2-f100b99931c1"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2018-06-12T13:25:11.445Z"
+    "updatedAt": "2019-09-30T08:37:49.962Z"
 }
