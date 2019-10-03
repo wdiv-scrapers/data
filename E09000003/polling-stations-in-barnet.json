@@ -135,18 +135,18 @@
     },
     "resources": {
         "8e22cea7-2ff2-4270-9acb-e16bade02cf8": {
-            "check_hash": "ddda5fb88bb5fcc83b2d1eebf4cbd03a",
+            "check_hash": "3c1da01ec8628567b6e2787576f99eaa",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 8520,
-            "check_timestamp": "2019-09-30T08:37:39.551Z",
+            "check_size": 8507,
+            "check_timestamp": "2019-10-03T15:34:37.923Z",
             "description": "",
             "format": "csv",
             "order": 0,
             "temporal_coverage_from": "2019-09-30",
             "temporal_coverage_to": "2019-09-30",
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/barnet/dataset/polling-stations-in-barnet/2019-09-30T08%3A37%3A37/LBBPollingStationList-2019.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/barnet/dataset/polling-stations-in-barnet/2019-10-03T15%3A34%3A35/LBBPollingStationList-2019.csv"
         }
     },
     "shares": {
@@ -169,5 +169,5 @@
         "5e51a6e1-304c-403a-87f2-f100b99931c1"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2019-09-30T08:37:49.962Z"
+    "updatedAt": "2019-10-03T15:34:37.564Z"
 }
