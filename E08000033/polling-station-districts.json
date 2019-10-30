@@ -130,18 +130,18 @@
     },
     "resources": {
         "14937500-83dd-43ea-8b24-89766099ea7d": {
-            "check_hash": "fa1c1ec356db764d9644d53414fea2c8",
+            "check_hash": "43b4f0d7089feb035465a13cf67a5148",
             "check_http_status": 200,
-            "check_mimetype": "application/json",
-            "check_size": 6188284,
-            "check_timestamp": "2019-05-30T08:11:44.664Z",
+            "check_mimetype": "application/octet-stream",
+            "check_size": 6105524,
+            "check_timestamp": "2019-10-30T14:49:29.871Z",
             "description": "",
             "format": "json",
             "order": 4,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-05-30T08%3A11%3A33/Polling%20Districts%202019.json"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-10-30T14%3A49%3A25/Polling%20Districts"
         },
         "1db9502f-961f-48c5-a3ec-d9685b76c8dd": {
             "check_hash": "28bdc998c40c3374699bebb3877f562a",
@@ -170,18 +170,18 @@
             "url": "https://mapper.odileeds.org/?12/53.71347/-1.93634/dataworks-6453ecd3-3075-4414-8cef-8815daad44d7;dataworks-14937500-83dd-43ea-8b24-89766099ea7d"
         },
         "4114fd1d-e226-41f4-a3ea-2a1f052cd351": {
-            "check_hash": "2f3c41f74d02cf0aa1de67e3d2c0d11d",
+            "check_hash": "7bc7265d192f8468294dd1ca9dfcf34b",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 870641,
-            "check_timestamp": "2019-05-30T08:10:59.371Z",
+            "check_size": 909587,
+            "check_timestamp": "2019-10-30T14:49:01.901Z",
             "description": "",
             "format": "zip",
             "order": 2,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts - Shape Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-05-30T08%3A10%3A56/Polling%20Districts%202019%20Shp.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-10-30T14%3A49%3A00/Polling%20Districts%20Boundary%202019%20Shape%20Files.zip"
         },
         "4fa0969c-27ae-47a6-bbcd-ec3ae58e786c": {
             "check_hash": "78c279bc7c6260720d4285ad745a5076",
@@ -364,11 +364,11 @@
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A04%3A30/Skircoat.pdf"
         },
         "b033c876-eeda-4b60-bce9-a924ca28de75": {
-            "check_hash": "18a1e74485bd81c1871cf6b80dbd65a3",
+            "check_hash": "e52a342e88d2c5960ae05532b23b04ea",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 13427,
-            "check_timestamp": "2019-05-30T08:11:16.134Z",
+            "check_size": 12879,
+            "check_timestamp": "2019-10-30T14:49:15.751Z",
             "description": "",
             "format": "csv",
             "order": 3,
@@ -395,7 +395,7 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-05-30T08%3A11%3A14/POLLING_DISTRICTS_2019.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-10-30T14%3A49%3A14/Polling%20districts.csv"
         },
         "c0d13570-1b4d-4258-adaf-177405bf394d": {
             "check_hash": "a0e04050ab15654eb20f7a360da91772",
@@ -426,16 +426,16 @@
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T09%3A56%3A16/Elland.pdf"
         },
         "d96c03f5-95fa-4d30-96b3-66cf101fe814": {
-            "check_hash": "42255fde19dde5c84b157530c6f5140f",
+            "check_hash": "41573be846a5068baf9fd6e993554efe",
             "check_http_status": 200,
             "check_mimetype": "application/zip",
-            "check_size": 973286,
-            "check_timestamp": "2019-05-30T08:10:36.607Z",
+            "check_size": 921206,
+            "check_timestamp": "2019-10-30T14:48:48.342Z",
             "description": "",
             "format": "zip",
             "order": 1,
             "title": "Polling Station Districts - Tab Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-05-30T08%3A10%3A33/Polling%20Districts%202019%20Tab.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-10-30T14%3A48%3A46/Polling%20Districts%20Boundary%202019%20Tab%20Files.zip"
         },
         "db9f780b-3c9f-4054-b446-a8dd9a1518de": {
             "check_hash": "b040fb41b85293a971b03500db8531f1",
@@ -484,5 +484,5 @@
         "452ec79e-b507-4ba6-8f19-6c7d9c805e5a"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2019-05-30T08:11:44.256Z"
+    "updatedAt": "2019-10-30T14:49:30.518Z"
 }
