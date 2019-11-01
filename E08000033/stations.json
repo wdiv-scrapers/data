@@ -190,18 +190,18 @@
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-10-31T15%3A35%3A37/Polling%20Stations.csv"
         },
         "6453ecd3-3075-4414-8cef-8815daad44d7": {
-            "check_hash": "10316b358d21b821777e35ba44c8b97a",
+            "check_hash": "4f840fd6edb7faafad66cc428140e918",
             "check_http_status": 200,
             "check_mimetype": "application/json",
-            "check_size": 173453,
-            "check_timestamp": "2019-05-30T08:13:14.084Z",
+            "check_size": 217633,
+            "check_timestamp": "2019-11-01T09:00:41.288Z",
             "description": "",
             "format": "json",
             "order": 3,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-05-30T08%3A13%3A11/Polling%20Station%202019.json"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-11-01T09%3A00%3A39/Polling%20Stations.json"
         },
         "9114cd43-00dd-412e-8126-514fb0efca95": {
             "check_hash": "2baab18bfbe266e5148f5b7bd1882b7b",
@@ -235,5 +235,5 @@
         "a3cb827f-b76a-4663-a531-f628eb60a934"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2019-10-31T15:36:08.879Z"
+    "updatedAt": "2019-11-01T09:00:40.910Z"
 }
