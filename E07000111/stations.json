@@ -462,17 +462,17 @@
         "pk": 33
     },
     {
-        "Address": "Fordcombe Village Hall The Green Fordcombe Kent TN3 0RT",
+        "Address": "Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY",
         "AreaCode": "BL",
         "CustodianCode": 2245,
-        "Easting": 552679.0,
-        "Northing": 140211.0,
+        "Easting": 552619.4686,
+        "Northing": 140268.6793,
         "OBJECTID": 34,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
         "PollingDistrict": "Fordcombe",
-        "Postcode": "TN3 0RT",
+        "Postcode": "TN3 0RY",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.1811646496468386, 51.14081108753497], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe Village Hall The Green Fordcombe Kent TN3 0RT\", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552679, \"Northing\": 140211, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RT\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.18033872414156368, 51.14134522236728], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY\", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552619.4686, \"Northing\": 140268.6793, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RY\"}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
@@ -546,7 +546,7 @@
         "pk": 39
     },
     {
-        "Address": "Bat And Ball Railway Station Bat And Ball Road Sevenoaks KENT TN14 5AP",
+        "Address": "Bat And Ball Railway Station, Bat And Ball Road, Sevenoaks, Kent, TN14 5AP",
         "AreaCode": "BR",
         "CustodianCode": 2245,
         "Easting": 553089.0017,
@@ -556,7 +556,7 @@
         "PollingDistrict": "Bat And Ball",
         "Postcode": "TN14 5AP",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.19409913750255525, 51.289799986438986], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Bat And Ball Railway Station Bat And Ball Road Sevenoaks KENT TN14 5AP\", \"AreaCode\": \"BR\", \"CustodianCode\": 2245, \"Easting\": 553089.0017, \"Northing\": 156804.3773, \"OBJECTID\": 40, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bat And Ball\", \"Postcode\": \"TN14 5AP\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.19409913750255525, 51.289799986438986], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Bat And Ball Railway Station, Bat And Ball Road, Sevenoaks, Kent, TN14 5AP\", \"AreaCode\": \"BR\", \"CustodianCode\": 2245, \"Easting\": 553089.0017, \"Northing\": 156804.3773, \"OBJECTID\": 40, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bat And Ball\", \"Postcode\": \"TN14 5AP\"}, \"type\": \"Feature\"}",
         "pk": 40
     },
     {
@@ -770,17 +770,17 @@
         "pk": 55
     },
     {
-        "Address": "Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN",
+        "Address": "Downsview Community Primary School, Beech Avenue, Swanley, Kent, BR8 8AU",
         "AreaCode": "CK",
         "CustodianCode": 2245,
-        "Easting": 551848.27,
-        "Northing": 168418.3906,
+        "Easting": 552178.9998,
+        "Northing": 168531.1033,
         "OBJECTID": 56,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Christ Church",
-        "Postcode": "BR8 8AN",
+        "Postcode": "BR8 8AU",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.1812679567105341, 51.39448719340686], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN\", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 551848.27, \"Northing\": 168418.3906, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AN\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.18606653547288035, 51.395411371413864], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Downsview Community Primary School, Beech Avenue, Swanley, Kent, BR8 8AU\", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 552178.9998, \"Northing\": 168531.1033, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AU\"}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
