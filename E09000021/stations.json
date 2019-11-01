@@ -184,14 +184,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.28775232198238765, 51.409964643785095], \"type\": \"Point\"}, \"id\": 293, \"properties\": {\"ADDRESS\": \"Queen Mary`s Hall, Cambridge Gardens, Kingston upon Thames, KT1 3NJ\", \"CODE\": \"HA\", \"NAME\": \"Queen Mary`s Hall\", \"OBJECTID\": 293}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX",
-        "CODE": "HB",
-        "NAME": "Searchlight Y & C Centre",
-        "OBJECTID": 294,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2806854574221364, 51.40498389815292], \"type\": \"Point\"}, \"id\": 294, \"properties\": {\"ADDRESS\": \"Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX\", \"CODE\": \"HB\", \"NAME\": \"Searchlight Y & C Centre\", \"OBJECTID\": 294}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Kingsnympton Youth & Community Centre, Kingston Hill, Kingston upon Thames, KT2 7RE",
         "CODE": "U",
         "NAME": "Kingsnympton Youth & Community Centre",
@@ -398,5 +390,13 @@
         "OBJECTID": 322,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2925319182678563, 51.38985552762207], \"type\": \"Point\"}, \"id\": 322, \"properties\": {\"ADDRESS\": \"Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ\", \"CODE\": \"AA\", \"NAME\": \"Christ Church Church Hall\", \"OBJECTID\": 322}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB",
+        "CODE": "HB",
+        "NAME": "Kingsmeadow",
+        "OBJECTID": 323,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.28292694326274387, 51.40502288336597], \"type\": \"Point\"}, \"id\": 323, \"properties\": {\"ADDRESS\": \"Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB\", \"CODE\": \"HB\", \"NAME\": \"Kingsmeadow\", \"OBJECTID\": 323}, \"type\": \"Feature\"}"
     }
 ]
