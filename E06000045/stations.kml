@@ -1320,13 +1320,13 @@
             <Placemark id="POLLING_STATIONS.42">
                 <name>AF</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;ATC H.Q., Hall of Aviation, Albert Road South&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Central Hall, St Mary Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AF&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.3930543585799455</longitude>
-                    <latitude>50.89788519450966</latitude>
+                    <longitude>-1.397368445727622</longitude>
+                    <latitude>50.90175536320506</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -1350,7 +1350,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.39305435857995,50.89788519450966</coordinates>
+                    <coordinates>-1.3973684457276137,50.90175536320506</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.43">
@@ -2076,13 +2076,13 @@
             <Placemark id="POLLING_STATIONS.63">
                 <name>GD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Elim Christian Centre, Park Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Christ Church, Payne's Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: GD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Freemantle&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.424333034957229</longitude>
-                    <latitude>50.91302004434939</latitude>
+                    <longitude>-1.4278515682901514</longitude>
+                    <latitude>50.911541272044474</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2106,7 +2106,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4243330349572294,50.91302004434939</coordinates>
+                    <coordinates>-1.427851568290156,50.91154127204447</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.64">
