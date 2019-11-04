@@ -336,12 +336,12 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.3017867134027431, 51.42333361201977], \"type\": \"Point\"}, \"id\": 314, \"properties\": {\"ADDRESS\": \"Fern Hill Primary School Richmond Road, Kingston Upon Thames, KT2 5PE\", \"CODE\": \"VA\", \"NAME\": \"Fern Hill Primary School\", \"OBJECTID\": 314}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Tolworth Recreation Centre, Fullers Way, North Surbiton, KT6 7LQ",
+        "ADDRESS": "Tolworth Recreation Centre, Fullers Way North, Surbiton, KT6 7LQ",
         "CODE": "JB",
         "NAME": "Tolworth Recreation Centre",
         "OBJECTID": 316,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2962052398687045, 51.374368668694295], \"type\": \"Point\"}, \"id\": 316, \"properties\": {\"ADDRESS\": \"Tolworth Recreation Centre, Fullers Way, North Surbiton, KT6 7LQ\", \"CODE\": \"JB\", \"NAME\": \"Tolworth Recreation Centre\", \"OBJECTID\": 316}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2962052398687045, 51.374368668694295], \"type\": \"Point\"}, \"id\": 316, \"properties\": {\"ADDRESS\": \"Tolworth Recreation Centre, Fullers Way North, Surbiton, KT6 7LQ\", \"CODE\": \"JB\", \"NAME\": \"Tolworth Recreation Centre\", \"OBJECTID\": 316}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS",
@@ -368,35 +368,35 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.28575593328012316, 51.41772669223651], \"type\": \"Point\"}, \"id\": 319, \"properties\": {\"ADDRESS\": \"St. Paul's Church, Alexandra Road, Kingston Upon Thames, KT2 7SF\", \"CODE\": \"TC\", \"NAME\": \"St. Paul's Church\", \"OBJECTID\": 319}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Multicultural Day Centre (MILAAP), Acre Road, Kingston upon Thames, KT2 6EE",
-        "CODE": "TB",
-        "NAME": "Multicultural Day Centre (MILAAP)",
-        "OBJECTID": 320,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2948862198567868, 51.41714131016212], \"type\": \"Point\"}, \"id\": 320, \"properties\": {\"ADDRESS\": \"Multicultural Day Centre (MILAAP), Acre Road, Kingston upon Thames, KT2 6EE\", \"CODE\": \"TB\", \"NAME\": \"Multicultural Day Centre (MILAAP)\", \"OBJECTID\": 320}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Kingston College, Richmond Road, Kingston Upon Thames, KT2 5BP",
-        "CODE": "T",
-        "NAME": "Kingston College Annexe",
-        "OBJECTID": 321,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.301281786834998, 51.41484646663503], \"type\": \"Point\"}, \"id\": 321, \"properties\": {\"ADDRESS\": \"Kingston College, Richmond Road, Kingston Upon Thames, KT2 5BP\", \"CODE\": \"T\", \"NAME\": \"Kingston College Annexe\", \"OBJECTID\": 321}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ",
-        "CODE": "AA",
-        "NAME": "Christ Church Church Hall",
-        "OBJECTID": 322,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2925319182678563, 51.38985552762207], \"type\": \"Point\"}, \"id\": 322, \"properties\": {\"ADDRESS\": \"Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ\", \"CODE\": \"AA\", \"NAME\": \"Christ Church Church Hall\", \"OBJECTID\": 322}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB",
         "CODE": "HB",
         "NAME": "Kingsmeadow",
         "OBJECTID": 323,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.28292694326274387, 51.40502288336597], \"type\": \"Point\"}, \"id\": 323, \"properties\": {\"ADDRESS\": \"Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB\", \"CODE\": \"HB\", \"NAME\": \"Kingsmeadow\", \"OBJECTID\": 323}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Star Centre, 50 King Charles Crescent, Surbiton, KT5 8SX",
+        "CODE": "AA",
+        "NAME": "Star Centre",
+        "OBJECTID": 324,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2933890203054479, 51.388952375784804], \"type\": \"Point\"}, \"id\": 324, \"properties\": {\"ADDRESS\": \"Star Centre, 50 King Charles Crescent, Surbiton, KT5 8SX\", \"CODE\": \"AA\", \"NAME\": \"Star Centre\", \"OBJECTID\": 324}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF",
+        "CODE": "TB",
+        "NAME": "Cornerstone Church Kingston",
+        "OBJECTID": 325,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.29162151068831127, 51.41375135881671], \"type\": \"Point\"}, \"id\": 325, \"properties\": {\"ADDRESS\": \"Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF\", \"CODE\": \"TB\", \"NAME\": \"Cornerstone Church Kingston\", \"OBJECTID\": 325}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Swinnerton Hall, St Luke's Church, Gibbon Road, Kingston upon Thames, KT2 6AB",
+        "CODE": "T",
+        "NAME": "Swinnerton Hall",
+        "OBJECTID": 326,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2974786866187817, 51.41665668711083], \"type\": \"Point\"}, \"id\": 326, \"properties\": {\"ADDRESS\": \"Swinnerton Hall, St Luke's Church, Gibbon Road, Kingston upon Thames, KT2 6AB\", \"CODE\": \"T\", \"NAME\": \"Swinnerton Hall\", \"OBJECTID\": 326}, \"type\": \"Feature\"}"
     }
 ]
