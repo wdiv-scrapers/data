@@ -198,13 +198,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1712532129933164, 52.965481504559186], \"type\": \"Point\"}, \"id\": 151, \"properties\": {\"ADDRESS\": \"Boulevard United Reformed Church, Gregory Boulevard, Nottingham, NG7 5JA\", \"CONST\": \"HGAA\", \"NAME\": \"The Bridge Centre\", \"OBJECTID\": 151, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+        "ADDRESS": "Nottingham Contemporary, Weekday Cross, NG1 2GB",
         "CONST": "CASB",
-        "NAME": "St Mary's Church",
+        "NAME": "Nottingham Contemporary",
         "OBJECTID": 152,
         "WARD": "Castle",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1430979987314682, 52.951195565016945], \"type\": \"Point\"}, \"id\": 152, \"properties\": {\"ADDRESS\": \"St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN\", \"CONST\": \"CASB\", \"NAME\": \"St Mary's Church\", \"OBJECTID\": 152, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1458373857611077, 52.95116133611706], \"type\": \"Point\"}, \"id\": 152, \"properties\": {\"ADDRESS\": \"Nottingham Contemporary, Weekday Cross, NG1 2GB\", \"CONST\": \"CASB\", \"NAME\": \"Nottingham Contemporary\", \"OBJECTID\": 152, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Russell Youth Club, Lowdham Street, Nottingham, NG3 2DP",
@@ -495,13 +495,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.237836749404303, 52.95869897500894], \"type\": \"Point\"}, \"id\": 184, \"properties\": {\"ADDRESS\": \"Birchover Community Centre, 83 Birchover Road, Nottingham, NG8 4BW\", \"CONST\": \"BILF\", \"NAME\": \"Birchover Community Centre\", \"OBJECTID\": 184, \"WARD\": \"Bilborough\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE",
+        "ADDRESS": "Mount Zion Church, Churchfield Lane, NG7 5QS",
         "CONST": "HGAB",
-        "NAME": "Radford Care Group",
+        "NAME": "Mount Zion Church",
         "OBJECTID": 185,
         "WARD": "Hyson Green & Arboretum",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1786995309966597, 52.9622251666959], \"type\": \"Point\"}, \"id\": 185, \"properties\": {\"ADDRESS\": \"Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE\", \"CONST\": \"HGAB\", \"NAME\": \"Radford Care Group\", \"OBJECTID\": 185, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1807577976565244, 52.96438776935604], \"type\": \"Point\"}, \"id\": 185, \"properties\": {\"ADDRESS\": \"Mount Zion Church, Churchfield Lane, NG7 5QS\", \"CONST\": \"HGAB\", \"NAME\": \"Mount Zion Church\", \"OBJECTID\": 185, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Bestwood Park Community Centre, Beckhampton Road, Nottingham, NG5 5NE",
@@ -522,13 +522,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2029738980979532, 52.99666638063535], \"type\": \"Point\"}, \"id\": 187, \"properties\": {\"ADDRESS\": \"Crabtree Farm Community Centre, Steadfold Close, Nottingham, NG6 8AX\", \"CONST\": \"BULD\", \"NAME\": \"Crabtree Farm Community Centre\", \"OBJECTID\": 187, \"WARD\": \"Bulwell\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Newton and Arkwright Building (Main Entrance), Nottingham Trent University, Goldsmith Street, Nottingham, NG1 4BU",
+        "ADDRESS": "The Fellowship Room, St. Andrew`s Church, Goldsmith Street, NG1 5JT",
         "CONST": "HGAG",
-        "NAME": "Newton and Arkwright Building (Main Entrance)",
+        "NAME": "The Fellowship Room",
         "OBJECTID": 188,
         "WARD": "Hyson Green & Arboretum",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1525421507900702, 52.95690866577656], \"type\": \"Point\"}, \"id\": 188, \"properties\": {\"ADDRESS\": \"Newton and Arkwright Building (Main Entrance), Nottingham Trent University, Goldsmith Street, Nottingham, NG1 4BU\", \"CONST\": \"HGAG\", \"NAME\": \"Newton and Arkwright Building (Main Entrance)\", \"OBJECTID\": 188, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.15394138569886, 52.95690964764531], \"type\": \"Point\"}, \"id\": 188, \"properties\": {\"ADDRESS\": \"The Fellowship Room, St. Andrew`s Church, Goldsmith Street, NG1 5JT\", \"CONST\": \"HGAG\", \"NAME\": \"The Fellowship Room\", \"OBJECTID\": 188, \"WARD\": \"Hyson Green & Arboretum\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Kingswood Methodist Church, Lambourne Drive, Nottingham, NG8 1GR",
@@ -702,13 +702,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1679536701065358, 52.97834907130387], \"type\": \"Point\"}, \"id\": 207, \"properties\": {\"ADDRESS\": \"Stadium Leisure, Nottingham Road, Nottingham, NG5 1EG\", \"CONST\": \"BERA\", \"NAME\": \"Stadium Leisure\", \"OBJECTID\": 207, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St. Mary's Church Hall, Wollaton Hall Drive, Nottingham, NG8 1AF",
+        "ADDRESS": "St. Mary's Church, Wollaton Hall Drive, NG8 1AF",
         "CONST": "LWEC",
-        "NAME": "St. Mary's Church Hall",
+        "NAME": "St. Mary's Church",
         "OBJECTID": 208,
         "WARD": "Lenton & Wollaton East",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1871539895868066, 52.946816044581134], \"type\": \"Point\"}, \"id\": 208, \"properties\": {\"ADDRESS\": \"St. Mary's Church Hall, Wollaton Hall Drive, Nottingham, NG8 1AF\", \"CONST\": \"LWEC\", \"NAME\": \"St. Mary's Church Hall\", \"OBJECTID\": 208, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1866535458924807, 52.946908276135545], \"type\": \"Point\"}, \"id\": 208, \"properties\": {\"ADDRESS\": \"St. Mary's Church, Wollaton Hall Drive, NG8 1AF\", \"CONST\": \"LWEC\", \"NAME\": \"St. Mary's Church\", \"OBJECTID\": 208, \"WARD\": \"Lenton & Wollaton East\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Clifton Young People's Centre, Green Lane, Nottingham, NG11 9AY",
@@ -720,13 +720,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.176696844790771, 52.90221498491974], \"type\": \"Point\"}, \"id\": 209, \"properties\": {\"ADDRESS\": \"Clifton Young People's Centre, Green Lane, Nottingham, NG11 9AY\", \"CONST\": \"CLED\", \"NAME\": \"Clifton Young People's Centre\", \"OBJECTID\": 209, \"WARD\": \"Clifton East\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit at Starting Gate Car Park, Daleside Road East, NG2 4DX",
+        "ADDRESS": "Starting Gate Public House, Candle Meadow, NG2 4DX",
         "CONST": "DALC",
-        "NAME": "Portable Unit, Starting Gate Car Park",
+        "NAME": "Starting Gate Public House",
         "OBJECTID": 210,
         "WARD": "Dales",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.097226990462778, 52.954151256847965], \"type\": \"Point\"}, \"id\": 210, \"properties\": {\"ADDRESS\": \"Portable Unit at Starting Gate Car Park, Daleside Road East, NG2 4DX\", \"CONST\": \"DALC\", \"NAME\": \"Portable Unit, Starting Gate Car Park\", \"OBJECTID\": 210, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0972431748762324, 52.953876772353894], \"type\": \"Point\"}, \"id\": 210, \"properties\": {\"ADDRESS\": \"Starting Gate Public House, Candle Meadow, NG2 4DX\", \"CONST\": \"DALC\", \"NAME\": \"Starting Gate Public House\", \"OBJECTID\": 210, \"WARD\": \"Dales\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Whitegate Primary And Nursery School, Middlefell Way, Nottingham, NG11 9JQ",
@@ -756,13 +756,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1565408332005, 52.9755450278247], \"type\": \"Point\"}, \"id\": 213, \"properties\": {\"ADDRESS\": \"The Indian Community Centre Association, 99 Hucknall Road, Nottingham, NG5 1QZ\", \"CONST\": \"BERD\", \"NAME\": \"The Indian Community Centre Association\", \"OBJECTID\": 213, \"WARD\": \"Berridge\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN",
+        "ADDRESS": "Nottingham Contemporary, Weekday Cross, NG1 2GB",
         "CONST": "CASA",
-        "NAME": "St Mary's Church",
+        "NAME": "Nottingham Contemporary",
         "OBJECTID": 214,
         "WARD": "Castle",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1430979987314682, 52.951195565016945], \"type\": \"Point\"}, \"id\": 214, \"properties\": {\"ADDRESS\": \"St Mary's Church, 40 High Pavement, Nottingham, NG1 1HN\", \"CONST\": \"CASA\", \"NAME\": \"St Mary's Church\", \"OBJECTID\": 214, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1458373857611077, 52.95116133611706], \"type\": \"Point\"}, \"id\": 214, \"properties\": {\"ADDRESS\": \"Nottingham Contemporary, Weekday Cross, NG1 2GB\", \"CONST\": \"CASA\", \"NAME\": \"Nottingham Contemporary\", \"OBJECTID\": 214, \"WARD\": \"Castle\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Nursery, Haydn Primary School, Haydn Road, Nottingham, NG5 2JU",
@@ -1098,13 +1098,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2071014266384945, 52.98365046672092], \"type\": \"Point\"}, \"id\": 251, \"properties\": {\"ADDRESS\": \"Bells Lane Community Centre, 194 Amesbury Circus, Nottingham, NG8 6DD\", \"CONST\": \"ASPA\", \"NAME\": \"Bells Lane Community Centre\", \"OBJECTID\": 251, \"WARD\": \"Aspley\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE",
+        "ADDRESS": "John Carroll Leisure Centre, Denman Street, NG7 3PS",
         "CONST": "RADA",
-        "NAME": "Radford Care Group",
+        "NAME": "John Carroll Leisure Centre",
         "OBJECTID": 252,
         "WARD": "Radford",
         "council_id": "E06000018",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1786995309966597, 52.9622251666959], \"type\": \"Point\"}, \"id\": 252, \"properties\": {\"ADDRESS\": \"Radford Care Group, 25-31 Prospect Street, Nottingham, NG7 5QE\", \"CONST\": \"RADA\", \"NAME\": \"Radford Care Group\", \"OBJECTID\": 252, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.173813820941761, 52.95767874034556], \"type\": \"Point\"}, \"id\": 252, \"properties\": {\"ADDRESS\": \"John Carroll Leisure Centre, Denman Street, NG7 3PS\", \"CONST\": \"RADA\", \"NAME\": \"John Carroll Leisure Centre\", \"OBJECTID\": 252, \"WARD\": \"Radford\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Leen Valley Community Centre, 234 Arnold Road, Nottingham, NG5 5HB",
