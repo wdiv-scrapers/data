@@ -42,10 +42,10 @@
         "pk": "tblPollingStation.103"
     },
     {
-        "EnwGorsaf": "The Lounge, Hilton House, Mount Estate, Aberdaugleddau",
-        "StationName": "The Lounge, Hilton House, Mount Estate, Milford Haven",
+        "EnwGorsaf": "The Mount Community Centre",
+        "StationName": "The Mount Community Centre",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-5.02418006, 51.71719318], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.104\", \"properties\": {\"EnwGorsaf\": \"The Lounge, Hilton House, Mount Estate, Aberdaugleddau\", \"StationName\": \"The Lounge, Hilton House, Mount Estate, Milford Haven\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.02172576, 51.71876509], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.104\", \"properties\": {\"EnwGorsaf\": \"The Mount Community Centre\", \"StationName\": \"The Mount Community Centre\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.104"
     },
     {
@@ -182,10 +182,10 @@
         "pk": "tblPollingStation.20"
     },
     {
-        "EnwGorsaf": "Ystafell yr Ardd, Wolfscastle Country Hotel, Casblaidd",
-        "StationName": "Garden Room, Wolfscastle Country Hotel",
+        "EnwGorsaf": "Pen-y-Bont Chapel Vestry",
+        "StationName": "Pen-y-Bont Chapel Vestry",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.97077604, 51.90025444], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.21\", \"properties\": {\"EnwGorsaf\": \"Ystafell yr Ardd, Wolfscastle Country Hotel, Casblaidd\", \"StationName\": \"Garden Room, Wolfscastle Country Hotel\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.97155339, 51.89851197], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.21\", \"properties\": {\"EnwGorsaf\": \"Pen-y-Bont Chapel Vestry \", \"StationName\": \"Pen-y-Bont Chapel Vestry \"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.21"
     },
     {
@@ -238,10 +238,10 @@
         "pk": "tblPollingStation.28"
     },
     {
-        "EnwGorsaf": "Festri Capel Bedyddwyr Camros",
-        "StationName": "Camrose Baptist Chapel Vestry",
+        "EnwGorsaf": "Camrose Community Centre",
+        "StationName": "Camrose Community Centre",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-5.00781478, 51.84100959], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.29\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Bedyddwyr Camros\", \"StationName\": \"Camrose Baptist Chapel Vestry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.0272531, 51.82446693], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.29\", \"properties\": {\"EnwGorsaf\": \"Camrose Community Centre\", \"StationName\": \"Camrose Community Centre\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.29"
     },
     {
@@ -336,10 +336,10 @@
         "pk": "tblPollingStation.40"
     },
     {
-        "EnwGorsaf": "Canolfan Deulu, Trafalgar Road, Hwlffordd",
-        "StationName": "Family Centre, Trafalgar Road, Haverfordwest",
+        "EnwGorsaf": "The Hive, Goshawk Road, Hwlffordd",
+        "StationName": "The Hive, Goshawk Road, Haverfordwest",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.98914651, 51.801433], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.41\", \"properties\": {\"EnwGorsaf\": \"Canolfan Deulu, Trafalgar Road, Hwlffordd\", \"StationName\": \"Family Centre, Trafalgar Road, Haverfordwest\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.98527141, 51.80406822], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.41\", \"properties\": {\"EnwGorsaf\": \"The Hive, Goshawk Road, Hwlffordd\", \"StationName\": \"The Hive, Goshawk Road, Haverfordwest\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.41"
     },
     {
@@ -504,10 +504,10 @@
         "pk": "tblPollingStation.62"
     },
     {
-        "EnwGorsaf": "Neuadd Bentref Llandewi Velfrey",
-        "StationName": "Llandewi Velfrey Village Hall",
+        "EnwGorsaf": "Hank Marvin",
+        "StationName": "Hank Marvin",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.68821179, 51.82094841], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.63\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Llandewi Velfrey\", \"StationName\": \"Llandewi Velfrey Village Hall\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.68979554, 51.82007697], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.63\", \"properties\": {\"EnwGorsaf\": \"Hank Marvin\", \"StationName\": \"Hank Marvin\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.63"
     },
     {
