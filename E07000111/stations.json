@@ -406,17 +406,17 @@
         "pk": 29
     },
     {
-        "Address": "Kemsing Public Library Dippers Close Kemsing KENT TN15 6QD",
+        "Address": "Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA",
         "AreaCode": "BG",
         "CustodianCode": 2245,
-        "Easting": 554920.655,
-        "Northing": 158704.4017,
+        "Easting": 555593.0,
+        "Northing": 158682.0,
         "OBJECTID": 30,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Kemsing East",
-        "Postcode": "TN15 6QD",
+        "Postcode": "TN15 6NA",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.22116970341682826, 51.30637682317411], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Public Library Dippers Close Kemsing KENT TN15 6QD\", \"AreaCode\": \"BG\", \"CustodianCode\": 2245, \"Easting\": 554920.655, \"Northing\": 158704.4017, \"OBJECTID\": 30, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing East\", \"Postcode\": \"TN15 6QD\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2307977561780167, 51.305992315483756], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BG\", \"CustodianCode\": 2245, \"Easting\": 555593, \"Northing\": 158682, \"OBJECTID\": 30, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing East\", \"Postcode\": \"TN15 6NA\"}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -812,17 +812,17 @@
         "pk": 58
     },
     {
-        "Address": "The Alexandra Suite, Civic Centre, St Marys Road, Swanley, Kent, BR8 7BW",
+        "Address": "Swanley Youth And Community Centre, St Marys Road, Swanley, Kent, BR8 7BU",
         "AreaCode": "CM",
         "CustodianCode": 2245,
-        "Easting": 551059.7656,
-        "Northing": 168411.0366,
+        "Easting": 551038.0,
+        "Northing": 168381.0,
         "OBJECTID": 59,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "St. Mary's",
-        "Postcode": "BR8 7BW",
+        "Postcode": "BR8 7BU",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.1699396645250551, 51.39463140584348], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Alexandra Suite, Civic Centre, St Marys Road, Swanley, Kent, BR8 7BW\", \"AreaCode\": \"CM\", \"CustodianCode\": 2245, \"Easting\": 551059.7656, \"Northing\": 168411.0366, \"OBJECTID\": 59, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"St. Mary's\", \"Postcode\": \"BR8 7BW\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.16961427676213134, 51.39436732156931], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Swanley Youth And Community Centre, St Marys Road, Swanley, Kent, BR8 7BU\", \"AreaCode\": \"CM\", \"CustodianCode\": 2245, \"Easting\": 551038, \"Northing\": 168381, \"OBJECTID\": 59, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"St. Mary's\", \"Postcode\": \"BR8 7BU\"}, \"type\": \"Feature\"}",
         "pk": 59
     },
     {
@@ -910,17 +910,17 @@
         "pk": 65
     },
     {
-        "Address": "Kemsing Public Library Dippers Close Kemsing KENT TN15 6QD",
+        "Address": "Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA",
         "AreaCode": "BH",
         "CustodianCode": 2245,
-        "Easting": 554920.655,
-        "Northing": 158704.4017,
+        "Easting": 555593.0,
+        "Northing": 158682.0,
         "OBJECTID": 66,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Kemsing West",
-        "Postcode": "TN15 6QD",
+        "Postcode": "TN15 6NA",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.22116970341682826, 51.30637682317411], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Public Library Dippers Close Kemsing KENT TN15 6QD\", \"AreaCode\": \"BH\", \"CustodianCode\": 2245, \"Easting\": 554920.655, \"Northing\": 158704.4017, \"OBJECTID\": 66, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing West\", \"Postcode\": \"TN15 6QD\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.2307977561780167, 51.305992315483756], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BH\", \"CustodianCode\": 2245, \"Easting\": 555593, \"Northing\": 158682, \"OBJECTID\": 66, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing West\", \"Postcode\": \"TN15 6NA\"}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
