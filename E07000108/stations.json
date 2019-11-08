@@ -184,15 +184,15 @@
     {
         "EASTING": 631670.0,
         "GlobalID": "{25A6340B-5A99-44F2-A38D-F1B581362357}",
-        "LOCATION": "27-32 Maison Dieu Road, Dover",
-        "NAME_OF_PO": "Dover Baptist Church Hall",
+        "LOCATION": "St Alphege Road, Dover",
+        "NAME_OF_PO": "St Peter & St Paul\u2019s Church Hall",
         "NORTHING": 141937.0,
         "OBJECTID": 536,
         "POLLING_DI": "BR3",
-        "POSTCODE": "CT16 1RF",
+        "POSTCODE": "CT16 2PU",
         "TOWN_PARIS": "St Radigund's, Town",
         "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.3097661302730093, 51.12983460165698]], \"type\": \"MultiPoint\"}, \"id\": 536, \"properties\": {\"EASTING\": 631670, \"GlobalID\": \"{25A6340B-5A99-44F2-A38D-F1B581362357}\", \"LOCATION\": \"27-32 Maison Dieu Road, Dover\", \"NAME_OF_PO\": \"Dover Baptist Church Hall\", \"NORTHING\": 141937, \"OBJECTID\": 536, \"POLLING_DI\": \"BR3\", \"POSTCODE\": \"CT16 1RF\", \"TOWN_PARIS\": \"St Radigund's, Town\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.306211053321135, 51.13327916889142]], \"type\": \"MultiPoint\"}, \"id\": 536, \"properties\": {\"EASTING\": 631670, \"GlobalID\": \"{25A6340B-5A99-44F2-A38D-F1B581362357}\", \"LOCATION\": \"St Alphege Road, Dover\", \"NAME_OF_PO\": \"St Peter & St Paul\\u2019s Church Hall\", \"NORTHING\": 141937, \"OBJECTID\": 536, \"POLLING_DI\": \"BR3\", \"POSTCODE\": \"CT16 2PU\", \"TOWN_PARIS\": \"St Radigund's, Town\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 633576.0,
@@ -379,15 +379,15 @@
     {
         "EASTING": 629287.9,
         "GlobalID": "{112DA152-C4C8-41FF-B6C0-46820C04C5FF}",
-        "LOCATION": "Common Lane, River, Dover, Kent",
-        "NAME_OF_PO": "River Village Hall",
+        "LOCATION": "Lewisham Road, River, Dover",
+        "NAME_OF_PO": "River Methodist Church",
         "NORTHING": 143465.5,
         "OBJECTID": 551,
         "POLLING_DI": "PRV",
-        "POSTCODE": "CT17 0RA",
+        "POSTCODE": "CT17 0QQ",
         "TOWN_PARIS": "River",
         "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.2767523050814702, 51.144513824302216]], \"type\": \"MultiPoint\"}, \"id\": 551, \"properties\": {\"EASTING\": 629287.9, \"GlobalID\": \"{112DA152-C4C8-41FF-B6C0-46820C04C5FF}\", \"LOCATION\": \"Common Lane, River, Dover, Kent\", \"NAME_OF_PO\": \"River Village Hall\", \"NORTHING\": 143465.5, \"OBJECTID\": 551, \"POLLING_DI\": \"PRV\", \"POSTCODE\": \"CT17 0RA\", \"TOWN_PARIS\": \"River\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.275800802910595, 51.14381507190938]], \"type\": \"MultiPoint\"}, \"id\": 551, \"properties\": {\"EASTING\": 629287.9, \"GlobalID\": \"{112DA152-C4C8-41FF-B6C0-46820C04C5FF}\", \"LOCATION\": \" Lewisham Road, River, Dover\", \"NAME_OF_PO\": \"River Methodist Church\", \"NORTHING\": 143465.5, \"OBJECTID\": 551, \"POLLING_DI\": \"PRV\", \"POSTCODE\": \"CT17 0QQ\", \"TOWN_PARIS\": \"River\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 635756.0,
