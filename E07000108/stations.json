@@ -81,14 +81,14 @@
         "EASTING": 632558.8,
         "GlobalID": "{26BFB3DC-21BB-48C5-B9F6-600654CA3F6D}",
         "LOCATION": "Burgoyne Heights, Guston",
-        "NAME_OF_PO": "Burgoyne Heights Community Centre",
+        "NAME_OF_PO": "Guston Primary School",
         "NORTHING": 143055.4,
         "OBJECTID": 528,
         "POLLING_DI": "PGS",
-        "POSTCODE": "CT15 5LY",
+        "POSTCODE": "CT15 5LR",
         "TOWN_PARIS": "Guston",
         "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.32316747541295, 51.13951472898119]], \"type\": \"MultiPoint\"}, \"id\": 528, \"properties\": {\"EASTING\": 632558.8, \"GlobalID\": \"{26BFB3DC-21BB-48C5-B9F6-600654CA3F6D}\", \"LOCATION\": \"Burgoyne Heights, Guston\", \"NAME_OF_PO\": \"Burgoyne Heights Community Centre\", \"NORTHING\": 143055.4, \"OBJECTID\": 528, \"POLLING_DI\": \"PGS\", \"POSTCODE\": \"CT15 5LY\", \"TOWN_PARIS\": \"Guston\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.3196220032606762, 51.13992727450737]], \"type\": \"MultiPoint\"}, \"id\": 528, \"properties\": {\"EASTING\": 632558.8, \"GlobalID\": \"{26BFB3DC-21BB-48C5-B9F6-600654CA3F6D}\", \"LOCATION\": \"Burgoyne Heights, Guston\", \"NAME_OF_PO\": \"Guston Primary School\", \"NORTHING\": 143055.4, \"OBJECTID\": 528, \"POLLING_DI\": \"PGS\", \"POSTCODE\": \"CT15 5LR\", \"TOWN_PARIS\": \"Guston\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 625016.0,
@@ -387,7 +387,7 @@
         "POSTCODE": "CT17 0QQ",
         "TOWN_PARIS": "River",
         "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.275800802910595, 51.14381507190938]], \"type\": \"MultiPoint\"}, \"id\": 551, \"properties\": {\"EASTING\": 629287.9, \"GlobalID\": \"{112DA152-C4C8-41FF-B6C0-46820C04C5FF}\", \"LOCATION\": \" Lewisham Road, River, Dover\", \"NAME_OF_PO\": \"River Methodist Church\", \"NORTHING\": 143465.5, \"OBJECTID\": 551, \"POLLING_DI\": \"PRV\", \"POSTCODE\": \"CT17 0QQ\", \"TOWN_PARIS\": \"River\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.275800802910595, 51.14381507190938]], \"type\": \"MultiPoint\"}, \"id\": 551, \"properties\": {\"EASTING\": 629287.9, \"GlobalID\": \"{112DA152-C4C8-41FF-B6C0-46820C04C5FF}\", \"LOCATION\": \"Lewisham Road, River, Dover\", \"NAME_OF_PO\": \"River Methodist Church\", \"NORTHING\": 143465.5, \"OBJECTID\": 551, \"POLLING_DI\": \"PRV\", \"POSTCODE\": \"CT17 0QQ\", \"TOWN_PARIS\": \"River\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 635756.0,
