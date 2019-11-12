@@ -246,10 +246,10 @@
         "NORTHING": 171619.5072,
         "OBJECTID": 21,
         "POSTCODE": "SE27 9NP",
-        "VENUE": "Park Campus Academy",
+        "VENUE": "Kingswood Primary School Lower Site",
         "WARD": "Gipsy Hill",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.09802932080519512, 51.428140359048946], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ADDRESS_1\": \"Gipsy Road\", \"DISTRICT_C\": \"NNC\", \"EASTING\": 532323.61, \"NORTHING\": 171619.5072, \"OBJECTID\": 21, \"POSTCODE\": \"SE27 9NP\", \"VENUE\": \"Park Campus Academy\", \"WARD\": \"Gipsy Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.09802932080519512, 51.428140359048946], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ADDRESS_1\": \"Gipsy Road\", \"DISTRICT_C\": \"NNC\", \"EASTING\": 532323.61, \"NORTHING\": 171619.5072, \"OBJECTID\": 21, \"POSTCODE\": \"SE27 9NP\", \"VENUE\": \"Kingswood Primary School Lower Site\", \"WARD\": \"Gipsy Hill\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS_1": "13-17 Bridgetown Close",
@@ -336,16 +336,16 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.11323897435307793, 51.44275183525415], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"ADDRESS_1\": \"Abbots Park\", \"DISTRICT_C\": \"SOE\", \"EASTING\": 531224.4584, \"NORTHING\": 173216.9956, \"OBJECTID\": 28, \"POSTCODE\": \"SW2 3PW\", \"VENUE\": \"St Martins Community Centre\", \"WARD\": \"Tulse Hill\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS_1": "Trent Road",
+        "ADDRESS_1": "Hayter Road",
         "DISTRICT_C": "SQA",
-        "EASTING": 530703.0,
-        "NORTHING": 174678.0,
+        "EASTING": 530726.08,
+        "NORTHING": 174912.12,
         "OBJECTID": 29,
-        "POSTCODE": "SW2 5BL",
-        "VENUE": "Corpus Christie Primary School",
+        "POSTCODE": "SW2 5AP",
+        "VENUE": "Sudbourne Primary School",
         "WARD": "Brixton Hill",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.12019855150909368, 51.45600190373036], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"ADDRESS_1\": \"Trent Road \", \"DISTRICT_C\": \"SQA\", \"EASTING\": 530703, \"NORTHING\": 174678, \"OBJECTID\": 29, \"POSTCODE\": \"SW2 5BL\", \"VENUE\": \"Corpus Christie Primary School\", \"WARD\": \"Brixton Hill\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.1197800996804327, 51.45810054256081], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"ADDRESS_1\": \"Hayter Road\", \"DISTRICT_C\": \"SQA\", \"EASTING\": 530726.08, \"NORTHING\": 174912.12, \"OBJECTID\": 29, \"POSTCODE\": \"SW2 5AP\", \"VENUE\": \"Sudbourne Primary School\", \"WARD\": \"Brixton Hill\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS_1": "61 Lyham Road",
@@ -726,10 +726,10 @@
         "NORTHING": 179662.3823,
         "OBJECTID": 61,
         "POSTCODE": "SE1 7RH",
-        "VENUE": "Johanna Primary School",
+        "VENUE": "Oasis Academy Johanna",
         "WARD": "Bishop`s",
         "council_id": "E09000022",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.11145893984458301, 51.500683937530326], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"ADDRESS_1\": \"Johanna Street\", \"DISTRICT_C\": \"VAB\", \"EASTING\": 531182.0071, \"NORTHING\": 179662.3823, \"OBJECTID\": 61, \"POSTCODE\": \"SE1 7RH\", \"VENUE\": \"Johanna Primary School\", \"WARD\": \"Bishop`s\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.11145893984458301, 51.500683937530326], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"ADDRESS_1\": \"Johanna Street\", \"DISTRICT_C\": \"VAB\", \"EASTING\": 531182.0071, \"NORTHING\": 179662.3823, \"OBJECTID\": 61, \"POSTCODE\": \"SE1 7RH\", \"VENUE\": \"Oasis Academy Johanna\", \"WARD\": \"Bishop`s\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS_1": "1 Kennington Road",
