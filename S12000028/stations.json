@@ -451,13 +451,13 @@
         "uprn": "000141064236"
     },
     {
-        "address": "Girvan Primary School Wesley Road Girvan South Ayrshire KA26 9DD",
+        "address": "Girvan Academy 62 The Avenue Girvan South Ayrshire KA26 9DW",
         "council_id": "S12000028",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.85394544967586, 55.239020443398374], \"type\": \"Point\"}, \"properties\": {\"address\": \"Girvan Primary School Wesley Road Girvan South Ayrshire KA26 9DD \", \"objectid\": 81, \"place\": \"GIRVAN PRIMARY SCHOOL\", \"postcode\": \"KA26 9DD\", \"town\": \"GIRVAN\", \"uprn\": \"000141050816\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.845257695855275, 55.23953862891688], \"type\": \"Point\"}, \"properties\": {\"address\": \"Girvan Academy 62 The Avenue Girvan South Ayrshire KA26 9DW \", \"objectid\": 81, \"place\": \"GIRVAN ACADEMY\", \"postcode\": \"KA26 9DW\", \"town\": \"GIRVAN\", \"uprn\": \"000141050816\"}, \"type\": \"Feature\"}",
         "objectid": 81,
         "pk": 81,
-        "place": "GIRVAN PRIMARY SCHOOL",
-        "postcode": "KA26 9DD",
+        "place": "GIRVAN ACADEMY",
+        "postcode": "KA26 9DW",
         "town": "GIRVAN",
         "uprn": "000141050816"
     },
