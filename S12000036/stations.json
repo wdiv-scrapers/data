@@ -1,17 +1,17 @@
 [
     {
-        "Address_1": "Main Street, Dalmeny, EH30 9TT",
-        "LG_PP": "WW01C",
-        "Label": "Dalmeny Parish Church Hall WW01C",
+        "Address_1": "3 Adelphi Grove, Edinburgh, EH15 1AP",
+        "LG_PP": "EE17A",
+        "Label": "Portobello Community Centre (The Wash House) EE17A",
         "OBJECTID": 0,
-        "OBJECTID_1": 160,
+        "OBJECTID_1": 161,
         "POINT_X": 0,
         "POINT_Y": 0,
-        "Polling__1": "Dalmeny Parish Church Hall",
+        "Polling__1": "Portobello Community Centre (The Wash House)",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.3731500681401063, 55.982349548951646], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"Address_1\": \"Main Street, Dalmeny, EH30 9TT\", \"LG_PP\": \"WW01C\", \"Label\": \"Dalmeny Parish Church Hall WW01C\", \"OBJECTID\": 0, \"OBJECTID_1\": 160, \"POINT_X\": 0, \"POINT_Y\": 0, \"Polling__1\": \"Dalmeny Parish Church Hall\", \"local_\": \"Almond\", \"stations\": 0}, \"type\": \"Feature\"}",
-        "local_": "Almond",
-        "stations": 0
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1167120264050396, 55.953796095211565], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"Address_1\": \"3 Adelphi Grove, Edinburgh, EH15 1AP\", \"LG_PP\": \"EE17A\", \"Label\": \"Portobello Community Centre (The Wash House) EE17A\", \"OBJECTID\": 0, \"OBJECTID_1\": 161, \"POINT_X\": 0, \"POINT_Y\": 0, \"Polling__1\": \"Portobello Community Centre (The Wash House)\", \"local_\": \"Portobello Craigmillar\", \"stations\": 3}, \"type\": \"Feature\"}",
+        "local_": "Portobello Craigmillar",
+        "stations": 3
     },
     {
         "Address_1": "80 Lauriston Place, Edinburgh, EH3 9DE",
@@ -79,9 +79,9 @@
         "POINT_Y": 673104,
         "Polling__1": "Novotel Edinburgh Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.199790944624995, 55.945122443340914], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"Address_1\": \"80 Lauriston Place, Edinburgh, EH3 9DE\", \"LG_PP\": \"EC11L\", \"Label\": \"Novotel Edinburgh Centre (2) EC11L\\r\\n\", \"OBJECTID\": 5, \"OBJECTID_1\": 5, \"POINT_X\": 325164, \"POINT_Y\": 673104, \"Polling__1\": \"Novotel Edinburgh Centre\", \"local_\": \"City Centre\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.199790944624995, 55.945122443340914], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"Address_1\": \"80 Lauriston Place, Edinburgh, EH3 9DE\", \"LG_PP\": \"EC11L\", \"Label\": \"Novotel Edinburgh Centre (2) EC11L\\r\\n\", \"OBJECTID\": 5, \"OBJECTID_1\": 5, \"POINT_X\": 325164, \"POINT_Y\": 673104, \"Polling__1\": \"Novotel Edinburgh Centre\", \"local_\": \"City Centre\", \"stations\": 2}, \"type\": \"Feature\"}",
         "local_": "City Centre",
-        "stations": 0
+        "stations": 2
     },
     {
         "Address_1": "69 Dumbiedykes Road, Edinburgh, EH8 9UT",
@@ -135,9 +135,9 @@
         "POINT_Y": 673822.148814,
         "Polling__1": "Waverley Court, City of Edinburgh Council Headquarters",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.1838331056286666, 55.951729310857694], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"Address_1\": \"4 East Market Street, Edinburgh, EH8 8BG\", \"LG_PP\": \"EE11K\", \"Label\": \"Waverley Court, CEC HQ (1) EE11K\", \"OBJECTID\": 9, \"OBJECTID_1\": 9, \"POINT_X\": 326173.23488, \"POINT_Y\": 673822.148814, \"Polling__1\": \"Waverley Court, City of Edinburgh Council Headquarters\", \"local_\": \"City Centre\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1838331056286666, 55.951729310857694], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"Address_1\": \"4 East Market Street, Edinburgh, EH8 8BG\", \"LG_PP\": \"EE11K\", \"Label\": \"Waverley Court, CEC HQ (1) EE11K\", \"OBJECTID\": 9, \"OBJECTID_1\": 9, \"POINT_X\": 326173.23488, \"POINT_Y\": 673822.148814, \"Polling__1\": \"Waverley Court, City of Edinburgh Council Headquarters\", \"local_\": \"City Centre\", \"stations\": 1}, \"type\": \"Feature\"}",
         "local_": "City Centre",
-        "stations": 0
+        "stations": 1
     },
     {
         "Address_1": "232 Marionville Road, Edinburgh, EH7 6BE",
@@ -261,9 +261,9 @@
         "POINT_Y": 671700.007105,
         "Polling__1": "East Neighbourhood Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.135859127893494, 55.93311257798756], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"Address_1\": \"101 Niddrie Mains Road, Edinburgh, EH16 4DS\", \"LG_PP\": \"EE16L\", \"Label\": \"East Neighbourhood Centre, (3) EE16L\", \"OBJECTID\": 18, \"OBJECTID_1\": 18, \"POINT_X\": 329134.845206, \"POINT_Y\": 671700.007105, \"Polling__1\": \"East Neighbourhood Centre\", \"local_\": \"Liberton Gilmerton\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.135859127893494, 55.93311257798756], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"Address_1\": \"101 Niddrie Mains Road, Edinburgh, EH16 4DS\", \"LG_PP\": \"EE16L\", \"Label\": \"East Neighbourhood Centre, (3) EE16L\", \"OBJECTID\": 18, \"OBJECTID_1\": 18, \"POINT_X\": 329134.845206, \"POINT_Y\": 671700.007105, \"Polling__1\": \"East Neighbourhood Centre\", \"local_\": \"Liberton Gilmerton\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Liberton Gilmerton",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "147 Portobello High Street, Edinburgh, EH15 1AF",
@@ -443,9 +443,9 @@
         "POINT_Y": 674888.831494,
         "Polling__1": "Norton Park Conference Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.167053644371963, 55.96147347673116], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"Address_1\": \"53 Albion Road, Edinburgh, EH7 5QY\", \"LG_PP\": \"EN14K\", \"Label\": \"Norton Park Conference Centre (2) EN14K\", \"OBJECTID\": 31, \"OBJECTID_1\": 31, \"POINT_X\": 327239.324568, \"POINT_Y\": 674888.831494, \"Polling__1\": \"Norton Park Conference Centre\", \"local_\": \"Craigentinny Duddingston\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.167053644371963, 55.96147347673116], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"Address_1\": \"53 Albion Road, Edinburgh, EH7 5QY\", \"LG_PP\": \"EN14K\", \"Label\": \"Norton Park Conference Centre (2) EN14K\", \"OBJECTID\": 31, \"OBJECTID_1\": 31, \"POINT_X\": 327239.324568, \"POINT_Y\": 674888.831494, \"Polling__1\": \"Norton Park Conference Centre\", \"local_\": \"Craigentinny Duddingston\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Craigentinny Duddingston",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "Abbey Street, Edinburgh, EH7 5SJ",
@@ -457,9 +457,9 @@
         "POINT_Y": 674337.151956,
         "Polling__1": "Abbeyhill Primary School",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.1695318122860927, 55.956493076548774], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"Address_1\": \"Abbey Street, Edinburgh, EH7 5SJ\", \"LG_PP\": \"EN14L\", \"Label\": \"Abbeyhill Primary School (3) EN14L\", \"OBJECTID\": 32, \"OBJECTID_1\": 32, \"POINT_X\": 327075.237075, \"POINT_Y\": 674337.151956, \"Polling__1\": \"Abbeyhill Primary School\", \"local_\": \"Craigentinny Duddingston\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1695318122860927, 55.956493076548774], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"Address_1\": \"Abbey Street, Edinburgh, EH7 5SJ\", \"LG_PP\": \"EN14L\", \"Label\": \"Abbeyhill Primary School (3) EN14L\", \"OBJECTID\": 32, \"OBJECTID_1\": 32, \"POINT_X\": 327075.237075, \"POINT_Y\": 674337.151956, \"Polling__1\": \"Abbeyhill Primary School\", \"local_\": \"Craigentinny Duddingston\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Craigentinny Duddingston",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "34 Prestonfield Avenue, Edinburgh, EH16 5EU",
@@ -485,9 +485,9 @@
         "POINT_Y": 671700.007105,
         "Polling__1": "East Neighbourhood Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.135859127893494, 55.93311257798756], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"Address_1\": \"101 Niddrie Mains Road, Edinburgh, EH16 4DS\", \"LG_PP\": \"ES17M\", \"Label\": \"East Neighbourhood Centre, (3) ES17M\", \"OBJECTID\": 34, \"OBJECTID_1\": 34, \"POINT_X\": 329134.845206, \"POINT_Y\": 671700.007105, \"Polling__1\": \"East Neighbourhood Centre\", \"local_\": \"Portobello Craigmillar\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.135859127893494, 55.93311257798756], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"Address_1\": \"101 Niddrie Mains Road, Edinburgh, EH16 4DS\", \"LG_PP\": \"ES17M\", \"Label\": \"East Neighbourhood Centre, (3) ES17M\", \"OBJECTID\": 34, \"OBJECTID_1\": 34, \"POINT_X\": 329134.845206, \"POINT_Y\": 671700.007105, \"Polling__1\": \"East Neighbourhood Centre\", \"local_\": \"Portobello Craigmillar\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Portobello Craigmillar",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "Crewe Road South, Edinburgh, EH4 2LF",
@@ -611,9 +611,9 @@
         "POINT_Y": 674296.626106,
         "Polling__1": "Cafe Camino, St. Mary's Parish Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.187628942793381, 55.955956064116805], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"Address_1\": \"St Mary's Parish Ctr, 1 Little King St, Edinburgh EH1 3JD\", \"LG_PP\": \"NC11C\", \"Label\": \"Cafe Camino, St Mary's Parish Centre (3) NC11C\", \"OBJECTID\": 43, \"OBJECTID_1\": 43, \"POINT_X\": 325944.288775, \"POINT_Y\": 674296.626106, \"Polling__1\": \"Cafe Camino, St. Mary's Parish Centre\", \"local_\": \"City Centre\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.187628942793381, 55.955956064116805], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"Address_1\": \"St Mary's Parish Ctr, 1 Little King St, Edinburgh EH1 3JD\", \"LG_PP\": \"NC11C\", \"Label\": \"Cafe Camino, St Mary's Parish Centre (3) NC11C\", \"OBJECTID\": 43, \"OBJECTID_1\": 43, \"POINT_X\": 325944.288775, \"POINT_Y\": 674296.626106, \"Polling__1\": \"Cafe Camino, St. Mary's Parish Centre\", \"local_\": \"City Centre\", \"stations\": 2}, \"type\": \"Feature\"}",
         "local_": "City Centre",
-        "stations": 0
+        "stations": 2
     },
     {
         "Address_1": "26 Chester Street, Edinburgh, EH3 7EN",
@@ -877,9 +877,9 @@
         "POINT_Y": 677017.191845,
         "Polling__1": "Victoria Primary School",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.1925373707920577, 55.98035339749887], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"Address_1\": \"4-6 Newhaven Main Street, Edinburgh, EH6 4HY\", \"LG_PP\": \"NN13A\", \"Label\": \"Victoria Primary School (4) NN13A\", \"OBJECTID\": 62, \"OBJECTID_1\": 62, \"POINT_X\": 325684.656199, \"POINT_Y\": 677017.191845, \"Polling__1\": \"Victoria Primary School\", \"local_\": \"Leith\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1925373707920577, 55.98035339749887], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"Address_1\": \"4-6 Newhaven Main Street, Edinburgh, EH6 4HY\", \"LG_PP\": \"NN13A\", \"Label\": \"Victoria Primary School (4) NN13A\", \"OBJECTID\": 62, \"OBJECTID_1\": 62, \"POINT_X\": 325684.656199, \"POINT_Y\": 677017.191845, \"Polling__1\": \"Victoria Primary School\", \"local_\": \"Leith\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Leith",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "55 Madeira Street, Edinburgh, EH6 4AU",
@@ -1045,9 +1045,9 @@
         "POINT_Y": 669673.555462,
         "Polling__1": "Goodtrees Neighbourhood Centre",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.139768835960583, 55.914868126221364], \"type\": \"Point\"}, \"id\": 74, \"properties\": {\"Address_1\": \"5 Moredunvale Place, Edinburgh, EH17 7LB\", \"LG_PP\": \"SE17L\", \"Label\": \"Goodtrees Neighbourhood Centre (3) SE17L\", \"OBJECTID\": 74, \"OBJECTID_1\": 74, \"POINT_X\": 328857.076016, \"POINT_Y\": 669673.555462, \"Polling__1\": \"Goodtrees Neighbourhood Centre\", \"local_\": \"Portobello Craigmillar\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.139768835960583, 55.914868126221364], \"type\": \"Point\"}, \"id\": 74, \"properties\": {\"Address_1\": \"5 Moredunvale Place, Edinburgh, EH17 7LB\", \"LG_PP\": \"SE17L\", \"Label\": \"Goodtrees Neighbourhood Centre (3) SE17L\", \"OBJECTID\": 74, \"OBJECTID_1\": 74, \"POINT_X\": 328857.076016, \"POINT_Y\": 669673.555462, \"Polling__1\": \"Goodtrees Neighbourhood Centre\", \"local_\": \"Portobello Craigmillar\", \"stations\": 2}, \"type\": \"Feature\"}",
         "local_": "Portobello Craigmillar",
-        "stations": 0
+        "stations": 2
     },
     {
         "Address_1": "79 Buckstone Road East, Edinburgh, EH10 6UY",
@@ -1199,9 +1199,9 @@
         "POINT_Y": 670235.947661,
         "Polling__1": "Greenbank Church Hall",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2122675295441194, 55.91922931068428], \"type\": \"Point\"}, \"id\": 85, \"properties\": {\"Address_1\": \"2b Braidburn Terrace, Edinburgh, EH10 6ES\", \"LG_PP\": \"SS10J\", \"Label\": \"Greenbank Church Hall (2) SS10J\", \"OBJECTID\": 85, \"OBJECTID_1\": 85, \"POINT_X\": 324334.205074, \"POINT_Y\": 670235.947661, \"Polling__1\": \"Greenbank Church Hall\", \"local_\": \"Morningside\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2122675295441194, 55.91922931068428], \"type\": \"Point\"}, \"id\": 85, \"properties\": {\"Address_1\": \"2b Braidburn Terrace, Edinburgh, EH10 6ES\", \"LG_PP\": \"SS10J\", \"Label\": \"Greenbank Church Hall (2) SS10J\", \"OBJECTID\": 85, \"OBJECTID_1\": 85, \"POINT_X\": 324334.205074, \"POINT_Y\": 670235.947661, \"Polling__1\": \"Greenbank Church Hall\", \"local_\": \"Morningside\", \"stations\": 2}, \"type\": \"Feature\"}",
         "local_": "Morningside",
-        "stations": 0
+        "stations": 2
     },
     {
         "Address_1": "61-63 Grange Road, Edinburgh, EH9 1TY",
@@ -1311,9 +1311,9 @@
         "POINT_Y": 669477.196663,
         "Polling__1": "Liberton Kirk Halls",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.1606281761361776, 55.912908862421446], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"Address_1\": \"28-30 Kirkgate, Edinburgh, EH16 6RY\", \"LG_PP\": \"SS16E\", \"Label\": \"Liberton Kirk Halls (2) SS16E\", \"OBJECTID\": 93, \"OBJECTID_1\": 93, \"POINT_X\": 327549.627874, \"POINT_Y\": 669477.196663, \"Polling__1\": \"Liberton Kirk Halls\", \"local_\": \"Liberton Gilmerton\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1606281761361776, 55.912908862421446], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"Address_1\": \"28-30 Kirkgate, Edinburgh, EH16 6RY\", \"LG_PP\": \"SS16E\", \"Label\": \"Liberton Kirk Halls (2) SS16E\", \"OBJECTID\": 93, \"OBJECTID_1\": 93, \"POINT_X\": 327549.627874, \"POINT_Y\": 669477.196663, \"Polling__1\": \"Liberton Kirk Halls\", \"local_\": \"Liberton Gilmerton\", \"stations\": 2}, \"type\": \"Feature\"}",
         "local_": "Liberton Gilmerton",
-        "stations": 0
+        "stations": 2
     },
     {
         "Address_1": "338 Gorgie Road,\u00a0Edinburgh EH11 2QU",
@@ -1395,9 +1395,9 @@
         "POINT_Y": 672921.710612,
         "Polling__1": "Tollcross Primary School",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2061902819769137, 55.94342213143917], \"type\": \"Point\"}, \"id\": 99, \"properties\": {\"Address_1\": \"117 Fountainbridge, Edinburgh, EH3 9QG\", \"LG_PP\": \"SWC11F\", \"Label\": \"Tollcross Primary School (3) SWC11F\", \"OBJECTID\": 99, \"OBJECTID_1\": 99, \"POINT_X\": 324761.029387, \"POINT_Y\": 672921.710612, \"Polling__1\": \"Tollcross Primary School\", \"local_\": \"City Centre\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2061902819769137, 55.94342213143917], \"type\": \"Point\"}, \"id\": 99, \"properties\": {\"Address_1\": \"117 Fountainbridge, Edinburgh, EH3 9QG\", \"LG_PP\": \"SWC11F\", \"Label\": \"Tollcross Primary School (3) SWC11F\", \"OBJECTID\": 99, \"OBJECTID_1\": 99, \"POINT_X\": 324761.029387, \"POINT_Y\": 672921.710612, \"Polling__1\": \"Tollcross Primary School\", \"local_\": \"City Centre\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "City Centre",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "Student Union Building, Riccarton, Edinburgh, EH14 4AS",
@@ -1661,9 +1661,9 @@
         "POINT_Y": 669134.447571,
         "Polling__1": "St John's Colinton Mains Church",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2280091771051227, 55.9091754926133], \"type\": \"Point\"}, \"id\": 118, \"properties\": {\"Address_1\": \"223 Oxgangs Road North, Edinburgh, EH13 9ED\", \"LG_PP\": \"SWS08H\", \"Label\": \"St John's Colinton Mains Church (3) SWS08H\", \"OBJECTID\": 118, \"OBJECTID_1\": 118, \"POINT_X\": 323330.524581, \"POINT_Y\": 669134.447571, \"Polling__1\": \"St John's Colinton Mains Church\", \"local_\": \"Colinton Fairmilehead\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2280091771051227, 55.9091754926133], \"type\": \"Point\"}, \"id\": 118, \"properties\": {\"Address_1\": \"223 Oxgangs Road North, Edinburgh, EH13 9ED\", \"LG_PP\": \"SWS08H\", \"Label\": \"St John's Colinton Mains Church (3) SWS08H\", \"OBJECTID\": 118, \"OBJECTID_1\": 118, \"POINT_X\": 323330.524581, \"POINT_Y\": 669134.447571, \"Polling__1\": \"St John's Colinton Mains Church\", \"local_\": \"Colinton Fairmilehead\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Colinton Fairmilehead",
-        "stations": 0
+        "stations": 3
     },
     {
         "Address_1": "9 Hutchison Crossway, Edinburgh, EH14 1RP",
@@ -1801,9 +1801,9 @@
         "POINT_Y": 674338.250607,
         "Polling__1": "Holiday Inn Edin City West",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2429290296307998, 55.955784714428994], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"Address_1\": \"107 Queensferry Road, Edinburgh, EH4 3HL\", \"LG_PP\": \"WC06C\", \"Label\": \"Holiday Inn Edinburgh City West (1) WC06C\", \"OBJECTID\": 128, \"OBJECTID_1\": 128, \"POINT_X\": 322491.197152, \"POINT_Y\": 674338.250607, \"Polling__1\": \"Holiday Inn Edin City West\", \"local_\": \"Corstorphine Murrayfield\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2429290296307998, 55.955784714428994], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"Address_1\": \"107 Queensferry Road, Edinburgh, EH4 3HL\", \"LG_PP\": \"WC06C\", \"Label\": \"Holiday Inn Edinburgh City West (1) WC06C\", \"OBJECTID\": 128, \"OBJECTID_1\": 128, \"POINT_X\": 322491.197152, \"POINT_Y\": 674338.250607, \"Polling__1\": \"Holiday Inn Edin City West\", \"local_\": \"Corstorphine Murrayfield\", \"stations\": 1}, \"type\": \"Feature\"}",
         "local_": "Corstorphine Murrayfield",
-        "stations": 0
+        "stations": 1
     },
     {
         "Address_1": "2b Ormidale Terrace, Edinburgh, EH12 6EQ",
@@ -2221,8 +2221,8 @@
         "POINT_Y": 672405.218793,
         "Polling__1": "Gylemuir Primary School",
         "council_id": "S12000036",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2953450009806984, 55.93787488400815], \"type\": \"Point\"}, \"id\": 158, \"properties\": {\"Address_1\": \"10 Wester Broom Place, Edinburgh, EH12 7RT\", \"LG_PP\": \"WW06K\", \"Label\": \"Gylemuir Primary School (3) WW06K\", \"OBJECTID\": 158, \"OBJECTID_1\": 158, \"POINT_X\": 319181.185374, \"POINT_Y\": 672405.218793, \"Polling__1\": \"Gylemuir Primary School\", \"local_\": \"Corstorphine Murrayfield\", \"stations\": 0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2953450009806984, 55.93787488400815], \"type\": \"Point\"}, \"id\": 158, \"properties\": {\"Address_1\": \"10 Wester Broom Place, Edinburgh, EH12 7RT\", \"LG_PP\": \"WW06K\", \"Label\": \"Gylemuir Primary School (3) WW06K\", \"OBJECTID\": 158, \"OBJECTID_1\": 158, \"POINT_X\": 319181.185374, \"POINT_Y\": 672405.218793, \"Polling__1\": \"Gylemuir Primary School\", \"local_\": \"Corstorphine Murrayfield\", \"stations\": 3}, \"type\": \"Feature\"}",
         "local_": "Corstorphine Murrayfield",
-        "stations": 0
+        "stations": 3
     }
 ]
