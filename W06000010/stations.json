@@ -8,11 +8,11 @@
         "register": "A"
     },
     {
-        "address": "Abergwilli Curch Hall, Ismyrddin, Abergwili, Carmarthen",
+        "address": "Abergwilli Recreational Halll, Abergwili, Carmarthen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.26770480846796, 51.865223896141465], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 1, \"properties\": {\"address\": \"Abergwilli Curch Hall, Ismyrddin, Abergwili, Carmarthen                                                                                                                                                                                                   \", \"postcode\": null, \"register\": \"AA                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.272139354502533, 51.86559393641802], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 1, \"properties\": {\"address\": \"Abergwilli Recreational Halll, Abergwili, Carmarthen                                                                                                                                                                                                      \", \"postcode\": \"SA31 2JA \", \"register\": \"AA                       \"}, \"type\": \"Feature\"}",
         "pk": 1,
-        "postcode": null,
+        "postcode": "SA31 2JA",
         "register": "AA"
     },
     {
@@ -24,11 +24,11 @@
         "register": "AB"
     },
     {
-        "address": "Whitemill Inn, Whitemill, Carmarthen",
+        "address": "Abergwilli Recreational Halll, Abergwili, Carmarthen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.233927225242869, 51.87078427048492], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 3, \"properties\": {\"address\": \"Whitemill Inn, Whitemill, Carmarthen                                                                                                                                                                                                                      \", \"postcode\": \"SA32 7EN \", \"register\": \"AC                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.272141844833236, 51.86559227203038], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 3, \"properties\": {\"address\": \"Abergwilli Recreational Halll, Abergwili, Carmarthen                                                                                                                                                                                                      \", \"postcode\": \"SA31 2JA \", \"register\": \"AC                       \"}, \"type\": \"Feature\"}",
         "pk": 3,
-        "postcode": "SA32 7EN",
+        "postcode": "SA31 2JA",
         "register": "AC"
     },
     {
@@ -120,19 +120,19 @@
         "register": "AN"
     },
     {
-        "address": "Nebo Chapel Vestry, Efailwen, Clunderwen",
+        "address": "Caffi Beca, Clynderwen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.705451739075694, 51.89853199578083], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 15, \"properties\": {\"address\": \"Nebo Chapel Vestry, Efailwen, Clunderwen                                                                                                                                                                                                                  \", \"postcode\": null, \"register\": \"AO                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.711525284561773, 51.896631750554796], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 15, \"properties\": {\"address\": \"Caffi Beca, Clynderwen                                                                                                                                                                                                                                    \", \"postcode\": \"SA66 7UY \", \"register\": \"AO                       \"}, \"type\": \"Feature\"}",
         "pk": 15,
-        "postcode": null,
+        "postcode": "SA66 7UY",
         "register": "AO"
     },
     {
-        "address": "Nebo Chapel Vestry, Efailwen, Clunderwen",
+        "address": "Caffi Beca, Clynderwen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.705451739075694, 51.89853199578083], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 16, \"properties\": {\"address\": \"Nebo Chapel Vestry, Efailwen, Clunderwen                                                                                                                                                                                                                  \", \"postcode\": null, \"register\": \"AP                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.711525284561773, 51.896631750554796], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 16, \"properties\": {\"address\": \"Caffi Beca, Clynderwen                                                                                                                                                                                                                                    \", \"postcode\": \"SA66 7UY \", \"register\": \"AP                       \"}, \"type\": \"Feature\"}",
         "pk": 16,
-        "postcode": null,
+        "postcode": "SA66 7UY",
         "register": "AP"
     },
     {
@@ -368,27 +368,27 @@
         "register": "BP"
     },
     {
-        "address": "Abergolech Church Hall",
+        "address": "Brechfa Church Hall, Brechfa",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.061371285197199, 51.982886105330806], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 46, \"properties\": {\"address\": \"Abergolech Church Hall                                                                                                                                                                                                                                    \", \"postcode\": null, \"register\": \"BQ                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.1486315551629644, 51.95127638938661], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 46, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa                                                                                                                                                                                                                              \", \"postcode\": \"SA32 7RA \", \"register\": \"BQ                       \"}, \"type\": \"Feature\"}",
         "pk": 46,
-        "postcode": null,
+        "postcode": "SA32 7RA",
         "register": "BQ"
     },
     {
         "address": "Brechfa Church Hall, Brechfa",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.148630893772436, 51.95127701418768], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 47, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa                                                                                                                                                                                                                              \", \"postcode\": null, \"register\": \"BR                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.148630893772436, 51.95127701418768], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 47, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa                                                                                                                                                                                                                              \", \"postcode\": \"SA32 7RA \", \"register\": \"BR                       \"}, \"type\": \"Feature\"}",
         "pk": 47,
-        "postcode": null,
+        "postcode": "SA32 7RA",
         "register": "BR"
     },
     {
-        "address": "Gwernogle Chapel Vestry, Gwernogle",
+        "address": "Brechfa Church Hall, Brechfa",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.142425839498914, 51.98507015974997], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 48, \"properties\": {\"address\": \"Gwernogle Chapel Vestry, Gwernogle                                                                                                                                                                                                                        \", \"postcode\": null, \"register\": \"BS                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.148630679616802, 51.95127679196616], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 48, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa                                                                                                                                                                                                                              \", \"postcode\": \"SA32 7RA \", \"register\": \"BS                       \"}, \"type\": \"Feature\"}",
         "pk": 48,
-        "postcode": null,
+        "postcode": "SA32 7RA",
         "register": "BS"
     },
     {
@@ -672,9 +672,9 @@
         "register": "CT"
     },
     {
-        "address": "Barnacles Beach Caf\u00e9, Sea View, Pendine",
+        "address": "Barnacles Beach Cafe, Sea View, Pendine",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.557331021283134, 51.742179126697685], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 84, \"properties\": {\"address\": \"Barnacles Beach Caf\\u00e9, Sea View, Pendine                                                                                                                                                                                                                   \", \"postcode\": \"SA33 4NY \", \"register\": \"CW                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.557331021283134, 51.742179126697685], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 84, \"properties\": {\"address\": \"Barnacles Beach Cafe, Sea View, Pendine                                                                                                                                                                                                                   \", \"postcode\": \"SA33 4NY \", \"register\": \"CW                       \"}, \"type\": \"Feature\"}",
         "pk": 84,
         "postcode": "SA33 4NY",
         "register": "CW"
@@ -720,11 +720,11 @@
         "register": "DA"
     },
     {
-        "address": "Dafen Rural Park Hall, Maescanner Road, Llanelli",
+        "address": "Church Hall, Bryngwyn Road, Llanelli",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.131945858750282, 51.690594092459], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 90, \"properties\": {\"address\": \"Dafen Rural Park Hall, Maescanner Road, Llanelli                                                                                                                                                                                                          \", \"postcode\": \"SA14 8LP \", \"register\": \"DAF-A                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.131915614101983, 51.6890447468314], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 90, \"properties\": {\"address\": \"Church Hall, Bryngwyn Road, Llanelli                                                                                                                                                                                                                      \", \"postcode\": \"SA14 8LW \", \"register\": \"DAF-A                    \"}, \"type\": \"Feature\"}",
         "pk": 90,
-        "postcode": "SA14 8LP",
+        "postcode": "SA14 8LW",
         "register": "DAF-A"
     },
     {
@@ -1082,7 +1082,7 @@
     {
         "address": "Brechfa Church Hall, Brechfa, Caerfyrddin",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.149736618345076, 51.95005633393444], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 135, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa, Caerfyrddin                                                                                                                                                                                                                 \", \"postcode\": \"SA32 7RA \", \"register\": \"FE                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.148643273624294, 51.951280683145505], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 135, \"properties\": {\"address\": \"Brechfa Church Hall, Brechfa, Caerfyrddin                                                                                                                                                                                                                 \", \"postcode\": \"SA32 7RA \", \"register\": \"FE                       \"}, \"type\": \"Feature\"}",
         "pk": 135,
         "postcode": "SA32 7RA",
         "register": "FE"
@@ -1232,9 +1232,9 @@
         "register": "FT"
     },
     {
-        "address": "Ystradowen Day Club, New Road, Ystradowen",
+        "address": "Ystradowen Community Centre, New Road, Ystradowen",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.8132608045100853, 51.79579070476587], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 154, \"properties\": {\"address\": \"Ystradowen Day Club, New Road, Ystradowen                                                                                                                                                                                                                 \", \"postcode\": \"SA9 2YY  \", \"register\": \"FU                       \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.8132608045100853, 51.79579070476587], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 154, \"properties\": {\"address\": \"Ystradowen Community Centre, New Road, Ystradowen                                                                                                                                                                                                         \", \"postcode\": \"SA9 2YY  \", \"register\": \"FU                       \"}, \"type\": \"Feature\"}",
         "pk": 154,
         "postcode": "SA9 2YY",
         "register": "FU"
@@ -1440,19 +1440,19 @@
         "register": "PEM-B"
     },
     {
-        "address": "Portacabin in car park at Brycoch Stores",
+        "address": "Portacabin in car park at Bryncoch Stores",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.123435897476662, 51.685758852834496], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 180, \"properties\": {\"address\": \"Portacabin in car park at Brycoch Stores                                                                                                                                                                                                                  \", \"postcode\": \"SA14 8RE \", \"register\": \"PEM-C                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.123507734308162, 51.6856862807154], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 180, \"properties\": {\"address\": \"Portacabin in car park at Bryncoch Stores                                                                                                                                                                                                                 \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-C                    \"}, \"type\": \"Feature\"}",
         "pk": 180,
-        "postcode": "SA14 8RE",
+        "postcode": "SA14 9HH",
         "register": "PEM-C"
     },
     {
-        "address": "Portacabin in car park at Brycoch Stores",
+        "address": "Portacabin in car park at Llwynhendy Library",
         "council_id": "W06000010",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.123435897476662, 51.685758852834496], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 181, \"properties\": {\"address\": \"Portacabin in car park at Brycoch Stores                                                                                                                                                                                                                  \", \"postcode\": \"SA14 8RE \", \"register\": \"PEM-D                    \"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.121223919745282, 51.68189597758746], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 181, \"properties\": {\"address\": \"Portacabin in car park at Llwynhendy Library                                                                                                                                                                                                              \", \"postcode\": \"SA14 9HH \", \"register\": \"PEM-D                    \"}, \"type\": \"Feature\"}",
         "pk": 181,
-        "postcode": "SA14 8RE",
+        "postcode": "SA14 9HH",
         "register": "PEM-D"
     },
     {
