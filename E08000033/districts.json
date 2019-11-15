@@ -137,7 +137,7 @@
             "check_timestamp": "2019-11-12T12:45:53.081Z",
             "description": "",
             "format": "json",
-            "order": 4,
+            "order": 3,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts",
@@ -177,7 +177,7 @@
             "check_timestamp": "2019-11-12T12:44:41.754Z",
             "description": "",
             "format": "zip",
-            "order": 2,
+            "order": 1,
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Station Districts - Shape Files",
@@ -219,7 +219,7 @@
             "check_timestamp": "2019-03-05T16:01:27.814Z",
             "description": "<p>The information includes: ward, polling district letters, polling districts/place name, polling station, disabled access, parish, constituency and electorate information from 1st December 2018.</p>\n<p>\n<strong>NB - this document is only to be used in relation for the Polling Districts Review purposes.</strong>\n</p>",
             "format": "spreadsheet",
-            "order": 0,
+            "order": 4,
             "title": "Polling districts and polling stations scheme",
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-03-05T16%3A01%3A27/Polling%20districts%20and%20polling%20stations%20scheme.xlsx"
         },
@@ -371,7 +371,7 @@
             "check_timestamp": "2019-11-12T12:45:16.938Z",
             "description": "",
             "format": "csv",
-            "order": 3,
+            "order": 2,
             "tables": {
                 "9z768_gq4th": {
                     "artefactIndex": 0,
@@ -433,7 +433,7 @@
             "check_timestamp": "2019-11-12T12:44:28.440Z",
             "description": "",
             "format": "zip",
-            "order": 1,
+            "order": 0,
             "title": "Polling Station Districts - Tab Files",
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2019-11-12T12%3A44%3A25/Polling%20Districts%20Boundary%202019.Tab%20Files.zip"
         },
