@@ -716,16 +716,16 @@
     },
     {
         "DISTRICT": "LLLD",
-        "EASTING": 356485,
+        "EASTING": 358560,
         "ELECTOR_CO": 95,
-        "NORTHING": 466545,
-        "NOTES": "",
+        "NORTHING": 468297,
+        "NOTES": "Moved from Claughton Village Hall 2019",
         "OBJECTID": 56,
-        "POLLING_PL": "Village Hall Claughton Hornby Road Claughton LA2 9LB",
+        "POLLING_PL": "Hornby Institute Main Street Hornby LA2 8JR",
         "REFERENCE": 22,
-        "UPRN": 10009280409,
+        "UPRN": 10009273720,
         "council_id": "E07000121",
-        "geometry": "{\"geometry\": {\"coordinates\": [356485, 466545], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"DISTRICT\": \"LLLD\", \"EASTING\": 356485, \"ELECTOR_CO\": 95, \"NORTHING\": 466545, \"NOTES\": \" \", \"OBJECTID\": 56, \"POLLING_PL\": \"Village Hall Claughton Hornby Road Claughton LA2 9LB\", \"REFERENCE\": 22, \"UPRN\": 10009280409}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [356485, 466545], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"DISTRICT\": \"LLLD\", \"EASTING\": 358560, \"ELECTOR_CO\": 95, \"NORTHING\": 468297, \"NOTES\": \"Moved from Claughton Village Hall 2019\", \"OBJECTID\": 56, \"POLLING_PL\": \"Hornby Institute Main Street Hornby LA2 8JR\", \"REFERENCE\": 22, \"UPRN\": 10009273720}, \"type\": \"Feature\"}"
     },
     {
         "DISTRICT": "LLVA",
@@ -1228,11 +1228,11 @@
         "NORTHING": 468297,
         "NOTES": "",
         "OBJECTID": 95,
-        "POLLING_PL": "Hornby Institute Main Street Hornby",
+        "POLLING_PL": "Hornby Institute Main Street Hornby LA2 8JR",
         "REFERENCE": 99,
         "UPRN": 10009273720,
         "council_id": "E07000121",
-        "geometry": "{\"geometry\": {\"coordinates\": [358560, 468297], \"type\": \"Point\"}, \"id\": 95, \"properties\": {\"DISTRICT\": \"ULVH ULVI ULVJ\", \"EASTING\": 358560, \"ELECTOR_CO\": 949, \"NORTHING\": 468297, \"NOTES\": \" \", \"OBJECTID\": 95, \"POLLING_PL\": \"Hornby Institute Main Street Hornby\", \"REFERENCE\": 99, \"UPRN\": 10009273720}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [358560, 468297], \"type\": \"Point\"}, \"id\": 95, \"properties\": {\"DISTRICT\": \"ULVH ULVI ULVJ\", \"EASTING\": 358560, \"ELECTOR_CO\": 949, \"NORTHING\": 468297, \"NOTES\": \" \", \"OBJECTID\": 95, \"POLLING_PL\": \"Hornby Institute Main Street Hornby LA2 8JR\", \"REFERENCE\": 99, \"UPRN\": 10009273720}, \"type\": \"Feature\"}"
     },
     {
         "DISTRICT": "ULVK",
