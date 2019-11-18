@@ -440,16 +440,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [1.3049641742833675, 51.373264426028015], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"ADDRESS\": \"Church House Kent Gardens BIRCHINGTON Kent CT7 9RS\", \"DISTRICT\": \"BTC\", \"OBJECTID\": 48, \"POSTCODE\": \"CT7 9RS\", \"X\": 630116, \"Y\": 168985}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Salmestone Grange Nash Road Margate",
-        "DISTRICT": "MP1",
-        "OBJECTID": 49,
-        "POSTCODE": "CT9 4BX",
-        "X": 6352635,
-        "Y": 169566,
-        "council_id": "E07000114",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3796432095181728, 51.37635157129911], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"ADDRESS\": \"Salmestone Grange Nash Road Margate\", \"DISTRICT\": \"MP1\", \"OBJECTID\": 49, \"POSTCODE\": \"CT9 4BX\", \"X\": 6352635, \"Y\": 169566}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Comfort Inn Victoria Parade Ramsgate",
         "DISTRICT": "RF",
         "OBJECTID": 50,
@@ -508,5 +498,15 @@
         "Y": 169494,
         "council_id": "E07000114",
         "geometry": "{\"geometry\": {\"coordinates\": [1.4305811638072214, 51.3742295781808], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"ADDRESS\": \"St Andrews Church Reading Street BROADSTAIRS Kent CT10 3AZ\", \"DISTRICT\": \"BSB\", \"OBJECTID\": 64, \"POSTCODE\": \"CT10 3AZ\", \"X\": 638851, \"Y\": 169494}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Margate Football Club",
+        "DISTRICT": "MP1",
+        "OBJECTID": 72,
+        "POSTCODE": "CT9 5QZ",
+        "X": 634846,
+        "Y": 169941,
+        "council_id": "E07000114",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3738811994673685, 51.38046124867384], \"type\": \"Point\"}, \"id\": 72, \"properties\": {\"ADDRESS\": \"Margate Football Club\", \"DISTRICT\": \"MP1\", \"OBJECTID\": 72, \"POSTCODE\": \" CT9 5QZ\", \"X\": 634846, \"Y\": 169941}, \"type\": \"Feature\"}"
     }
 ]
