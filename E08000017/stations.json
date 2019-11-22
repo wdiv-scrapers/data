@@ -330,14 +330,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2566617639326092, 53.48619444906128], \"type\": \"Point\"}, \"id\": 952, \"properties\": {\"ADDRESS\": \"Community Centre, Harrogate Drive, DN124NA\", \"OBJECTID\": 952, \"POLLINGPLA\": \"Community Centre, Harrogate Drive, DN124NA\", \"POLLING_DI\": \"GI\", \"UPRN\": \"100051963369\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Community Centre, Hickleton Street, DN124UH",
+        "ADDRESS": "Community Centre, Reresby Walk DN12 4UQ",
         "OBJECTID": 953,
-        "POLLINGPLA": "Community Centre, Hickleton Street, DN124UH",
+        "POLLINGPLA": "Community Centre, Reresby Walk DN12 4UQ",
         "POLLING_DI": "GJ",
-        "UPRN": "010006621101",
+        "UPRN": "010006629438",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.250734554763271, 53.48986977137653], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Community Centre, Hickleton Street, DN124UH\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Community Centre, Hickleton Street, DN124UH\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"010006621101\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.251588305145631, 53.4906421040815], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Community Centre, Reresby Walk DN12 4UQ\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Community Centre, Reresby Walk DN12 4UQ\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"010006629438\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Sykehouse Village Hall, Broad Lane, DN149AS",
@@ -940,14 +940,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1892749682047952, 53.511805661019075], \"type\": \"Point\"}, \"id\": 1013, \"properties\": {\"ADDRESS\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"OBJECTID\": 1013, \"POLLINGPLA\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"POLLING_DI\": \"TN\", \"UPRN\": \"010006617584\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "The Levett School, Lower Site, Melton Road, DN5 7SB",
+        "ADDRESS": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
         "OBJECTID": 1014,
-        "POLLINGPLA": "The Levett School, Melton Road, DN5 7SB",
+        "POLLINGPLA": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
         "POLLING_DI": "TO",
-        "UPRN": "100051982102",
+        "UPRN": "100051982462",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1672043586437288, 53.52072355670535], \"type\": \"Point\"}, \"id\": 1014, \"properties\": {\"ADDRESS\": \"The Levett School, Lower Site, Melton Road, DN5 7SB\", \"OBJECTID\": 1014, \"POLLINGPLA\": \"The Levett School, Melton Road, DN5 7SB\", \"POLLING_DI\": \"TO\", \"UPRN\": \"100051982102\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607416231616703, 53.52288420963421], \"type\": \"Point\"}, \"id\": 1014, \"properties\": {\"ADDRESS\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"OBJECTID\": 1014, \"POLLINGPLA\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"POLLING_DI\": \"TO\", \"UPRN\": \"100051982462\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Cadeby Inn Public House, Main Street, DN5 7SW",
@@ -974,10 +974,10 @@
         "OBJECTID": 1017,
         "POLLINGPLA": "All Saints School, Hooton Pagnell, DN5 7BT",
         "POLLING_DI": "TC",
-        "UPRN": "010006604126",
+        "UPRN": "0100066041",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.269150498394131, 53.568124077348536], \"type\": \"Point\"}, \"id\": 1017, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1017, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TC\", \"UPRN\": \"010006604126\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.269150498394131, 53.568124077348536], \"type\": \"Point\"}, \"id\": 1017, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1017, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TC\", \"UPRN\": \"0100066041\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Royal British Legion, 51 Sprotbrough Road, DN5 8BN",
