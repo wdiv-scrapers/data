@@ -568,14 +568,14 @@
         "LOCATION_NAME": "Colston Primary School",
         "OBJECTID": 34,
         "PAO": "Colstons Primary School",
-        "POLLING_DISTRICT": "COTC",
+        "POLLING_DISTRICT": "COTD",
         "POSTCODE": "BS6 6AL",
         "SAON": "",
         "STREET": "Cotham Grove",
         "UPRN": 278143,
         "UPRN_2": "000000179663",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.598480504711258, 51.466417461778086], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ACCESS_DESRIPTION\": \"<Null>\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTC and COTD\", \"LOCALITY\": \"Cotham\", \"LOCATION_NAME\": \"Colston Primary School\", \"OBJECTID\": 34, \"PAO\": \"Colstons Primary School\", \"POLLING_DISTRICT\": \"COTC\", \"POSTCODE\": \"BS6 6AL\", \"SAON\": \" \", \"STREET\": \"Cotham Grove\", \"UPRN\": 278143, \"UPRN_2\": \"000000179663\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.598480504711258, 51.466417461778086], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ACCESS_DESRIPTION\": \"<Null>\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTC and COTD\", \"LOCALITY\": \"Cotham\", \"LOCATION_NAME\": \"Colston Primary School\", \"OBJECTID\": 34, \"PAO\": \"Colstons Primary School\", \"POLLING_DISTRICT\": \"COTD\", \"POSTCODE\": \"BS6 6AL\", \"SAON\": \" \", \"STREET\": \"Cotham Grove\", \"UPRN\": 278143, \"UPRN_2\": \"000000179663\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -976,14 +976,14 @@
         "LOCATION_NAME": "Whitchurch Library",
         "OBJECTID": 58,
         "PAO": "Whitchurch District Centre",
-        "POLLING_DISTRICT": "HWPE",
+        "POLLING_DISTRICT": "HWPC",
         "POSTCODE": "BS14 0SX",
         "SAON": "",
         "STREET": "Oatlands Avenue",
         "UPRN": 276047,
         "UPRN_2": "000000276047",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.571824955731567, 51.414011791153975], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HWPE & HWPC\", \"LOCALITY\": \"Hengrove\", \"LOCATION_NAME\": \"Whitchurch Library\", \"OBJECTID\": 58, \"PAO\": \"Whitchurch District Centre\", \"POLLING_DISTRICT\": \"HWPE\", \"POSTCODE\": \"BS14 0SX\", \"SAON\": \" \", \"STREET\": \"Oatlands Avenue\", \"UPRN\": 276047, \"UPRN_2\": \"000000276047\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.571824955731567, 51.414011791153975], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HWPE & HWPC\", \"LOCALITY\": \"Hengrove\", \"LOCATION_NAME\": \"Whitchurch Library\", \"OBJECTID\": 58, \"PAO\": \"Whitchurch District Centre\", \"POLLING_DISTRICT\": \"HWPC\", \"POSTCODE\": \"BS14 0SX\", \"SAON\": \" \", \"STREET\": \"Oatlands Avenue\", \"UPRN\": 276047, \"UPRN_2\": \"000000276047\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1316,14 +1316,14 @@
         "LOCATION_NAME": "The Create Centre",
         "OBJECTID": 78,
         "PAO": "B Bond",
-        "POLLING_DISTRICT": "HOHB",
+        "POLLING_DISTRICT": "HOHD",
         "POSTCODE": "BS1 6XN",
         "SAON": "The Create Centre",
         "STREET": "Smeaton Road",
         "UPRN": 113107,
         "UPRN_2": "000000113107",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.62228361834817, 51.447106928840746], \"type\": \"Point\"}, \"id\": 78, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HOHB and HOHD\", \"LOCALITY\": \"Hotwells\", \"LOCATION_NAME\": \"The Create Centre\", \"OBJECTID\": 78, \"PAO\": \"B Bond\", \"POLLING_DISTRICT\": \"HOHB\", \"POSTCODE\": \"BS1 6XN\", \"SAON\": \"The Create Centre\", \"STREET\": \"Smeaton Road\", \"UPRN\": 113107, \"UPRN_2\": \"000000113107\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.62228361834817, 51.447106928840746], \"type\": \"Point\"}, \"id\": 78, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HOHB and HOHD\", \"LOCALITY\": \"Hotwells\", \"LOCATION_NAME\": \"The Create Centre\", \"OBJECTID\": 78, \"PAO\": \"B Bond\", \"POLLING_DISTRICT\": \"HOHD\", \"POSTCODE\": \"BS1 6XN\", \"SAON\": \"The Create Centre\", \"STREET\": \"Smeaton Road\", \"UPRN\": 113107, \"UPRN_2\": \"000000113107\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1411,7 +1411,7 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5832419462705833, 51.49348166885394], \"type\": \"Point\"}, \"id\": 83, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Leisure Centre\", \"OBJECTID\": 83, \"PAO\": \"Horfield Leisure Centre\", \"POLLING_DISTRICT\": \"HORD\", \"POSTCODE\": \"BS7 0XW\", \"SAON\": \" \", \"STREET\": \"Dorian Road\", \"UPRN\": 20940, \"UPRN_2\": \"000000020940\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "",
+        "ACCESS_DESRIPTION": "Brynland Avenue Entrance",
         "DUAL": "Yes",
         "DUAL_STN": "Used by BIAD, BIAC and BIAF",
         "LOCALITY": "Bishopston",
@@ -1425,7 +1425,7 @@
         "UPRN": 47990,
         "UPRN_2": "000000245048",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5885237419183436, 51.47935185585783], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAD, BIAC and BIAF\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Horfield Baptist Church\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000245048\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5885237419183436, 51.47935185585783], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \"Brynland Avenue Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAD, BIAC and BIAF\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Horfield Baptist Church\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000245048\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1928,14 +1928,14 @@
         "LOCATION_NAME": "Headley Park Community Centre",
         "OBJECTID": 116,
         "PAO": "Headley Park Community Association",
-        "POLLING_DISTRICT": "BISE",
+        "POLLING_DISTRICT": "BISF",
         "POSTCODE": "BS13 7NW",
         "SAON": "",
         "STREET": "Headley Park Avenue",
         "UPRN": 197943,
         "UPRN_2": "000000197943",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6106319802250404, 51.417961249770904], \"type\": \"Point\"}, \"id\": 116, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BISE and BISF\", \"LOCALITY\": \"Bishopsworth\", \"LOCATION_NAME\": \"Headley Park Community Centre\", \"OBJECTID\": 116, \"PAO\": \"Headley Park Community Association\", \"POLLING_DISTRICT\": \"BISE\", \"POSTCODE\": \"BS13 7NW\", \"SAON\": \" \", \"STREET\": \"Headley Park Avenue\", \"UPRN\": 197943, \"UPRN_2\": \"000000197943\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6106319802250404, 51.417961249770904], \"type\": \"Point\"}, \"id\": 116, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BISE and BISF\", \"LOCALITY\": \"Bishopsworth\", \"LOCATION_NAME\": \"Headley Park Community Centre\", \"OBJECTID\": 116, \"PAO\": \"Headley Park Community Association\", \"POLLING_DISTRICT\": \"BISF\", \"POSTCODE\": \"BS13 7NW\", \"SAON\": \" \", \"STREET\": \"Headley Park Avenue\", \"UPRN\": 197943, \"UPRN_2\": \"000000197943\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2115,14 +2115,14 @@
         "LOCATION_NAME": "Chichester House",
         "OBJECTID": 127,
         "PAO": "Chichester House",
-        "POLLING_DISTRICT": "BREA",
+        "POLLING_DISTRICT": "BREB",
         "POSTCODE": "BS4 4BB",
         "SAON": "",
         "STREET": "Wootton Road",
         "UPRN": 328066,
         "UPRN_2": "000000328066",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5401232511527674, 51.45212002079422], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREA and BREB\", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"Chichester House\", \"OBJECTID\": 127, \"PAO\": \"Chichester House\", \"POLLING_DISTRICT\": \"BREA\", \"POSTCODE\": \"BS4 4BB\", \"SAON\": \" \", \"STREET\": \"Wootton Road\", \"UPRN\": 328066, \"UPRN_2\": \"000000328066\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5401232511527674, 51.45212002079422], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREA and BREB\", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"Chichester House\", \"OBJECTID\": 127, \"PAO\": \"Chichester House\", \"POLLING_DISTRICT\": \"BREB\", \"POSTCODE\": \"BS4 4BB\", \"SAON\": \" \", \"STREET\": \"Wootton Road\", \"UPRN\": 328066, \"UPRN_2\": \"000000328066\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2652,7 +2652,7 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5896186741096674, 51.50039649201352], \"type\": \"Point\"}, \"id\": 158, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Southmead\", \"LOCATION_NAME\": \"St. Teresa's R.C V.A Primary School\", \"OBJECTID\": 158, \"PAO\": \"St Teresas Catholic Primary School\", \"POLLING_DISTRICT\": \"HORA\", \"POSTCODE\": \"BS7 0UP\", \"SAON\": \" \", \"STREET\": \"Luckington Road\", \"UPRN\": 11126, \"UPRN_2\": \"000000011126\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "Bedminster Down - entrance in Donald Road",
+        "ACCESS_DESRIPTION": "Donald Road Entrance",
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Bedminster Down",
@@ -2666,7 +2666,7 @@
         "UPRN": 272984,
         "UPRN_2": "000000272984",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.620793406169387, 51.42097882019839], \"type\": \"Point\"}, \"id\": 159, \"properties\": {\"ACCESS_DESRIPTION\": \"Bedminster Down - entrance in Donald Road\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster Down\", \"LOCATION_NAME\": \"Bedminster Down Secondary School\", \"OBJECTID\": 159, \"PAO\": \"Bedminster Down Secondary School\", \"POLLING_DISTRICT\": \"BISA\", \"POSTCODE\": \"BS13 7DQ\", \"SAON\": \" \", \"STREET\": \"Donald Road\", \"UPRN\": 272984, \"UPRN_2\": \"000000272984\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.620793406169387, 51.42097882019839], \"type\": \"Point\"}, \"id\": 159, \"properties\": {\"ACCESS_DESRIPTION\": \"Donald Road Entrance\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster Down\", \"LOCATION_NAME\": \"Bedminster Down Secondary School\", \"OBJECTID\": 159, \"PAO\": \"Bedminster Down Secondary School\", \"POLLING_DISTRICT\": \"BISA\", \"POSTCODE\": \"BS13 7DQ\", \"SAON\": \" \", \"STREET\": \"Donald Road\", \"UPRN\": 272984, \"UPRN_2\": \"000000272984\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
