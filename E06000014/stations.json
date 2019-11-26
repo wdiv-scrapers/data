@@ -29,10 +29,10 @@
     {
         "OBJECTID_1": 5,
         "POLLINGDIS": "KD",
-        "POLLINGSTA": "Community Room, Energise, Cornlands Road, York YO24 3DX",
+        "POLLINGSTA": "Community Room, Energise, Cornlands Road, York, YO24 3DX",
         "WARD": "Westfield",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1283335574199769, 53.948121843314574], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 5, \"POLLINGDIS\": \"KD\", \"POLLINGSTA\": \"Community Room, Energise, Cornlands Road, York YO24 3DX\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1283335574199769, 53.948121843314574], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 5, \"POLLINGDIS\": \"KD\", \"POLLINGSTA\": \"Community Room, Energise, Cornlands Road, York, YO24 3DX\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -154,11 +154,11 @@
     },
     {
         "OBJECTID_1": 23,
-        "POLLINGDIS": "YCB",
-        "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York YO10 5EB",
+        "POLLINGDIS": "YCB / HG",
+        "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York, YO10 5EB",
         "WARD": "Fulford & Heslington",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.044437486011104, 53.943860217563106], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 23, \"POLLINGDIS\": \"YCB\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York YO10 5EB\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.044437486011104, 53.943860217563106], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 23, \"POLLINGDIS\": \"YCB / HG\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York, YO10 5EB\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -713,10 +713,10 @@
     {
         "OBJECTID_1": 336,
         "POLLINGDIS": "HF",
-        "POLLINGSTA": "Ron Cooke Hub, Deramore Lane, Heslington, York, YO10 5GE",
+        "POLLINGSTA": "Law And Management, Freboys Lane, Heslington, York, YO10 5GD",
         "WARD": "Heslington",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0299579068359144, 53.94721360112], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 336, \"POLLINGDIS\": \"HF\", \"POLLINGSTA\": \"Ron Cooke Hub, Deramore Lane, Heslington, York, YO10 5GE\", \"WARD\": \"Heslington\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.031673210092634, 53.94773050456], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 336, \"POLLINGDIS\": \"HF\", \"POLLINGSTA\": \"Law And Management, Freboys Lane, Heslington, York, YO10 5GD\", \"WARD\": \"Heslington\"}, \"type\": \"Feature\"}",
         "pk": 336
     },
     {
@@ -763,15 +763,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.046433274242008, 53.96826232075781], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1695, \"POLLINGDIS\": \"YHA/2\", \"POLLINGSTA\": \"Heworth Without Community Centre, Applecroft Road, York, YO31 0HG\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
         "pk": 1695
-    },
-    {
-        "OBJECTID_1": 1696,
-        "POLLINGDIS": "HG",
-        "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York. YO10 5EB",
-        "WARD": "Fulford & Heslington",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0444857768566267, 53.94384950936533], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1696, \"POLLINGDIS\": \"HG\", \"POLLINGSTA\": \"Heslington Village Meeting Room, Main Street, Heslington, York. YO10 5EB\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
-        "pk": 1696
     },
     {
         "OBJECTID_1": 1697,
