@@ -113,9 +113,9 @@
     },
     {
         "EnwGorsaf": "Neuadd CFI Trefwrdan",
-        "StationName": "Jordanston YFC Hall",
+        "StationName": "The Gate Inn",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.99410576, 51.96789126], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.127\", \"properties\": {\"EnwGorsaf\": \"Neuadd CFI Trefwrdan\", \"StationName\": \"Jordanston YFC Hall\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.99410576, 51.96789126], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.127\", \"properties\": {\"EnwGorsaf\": \"Neuadd CFI Trefwrdan\", \"StationName\": \"The Gate Inn\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.127"
     },
     {
@@ -124,6 +124,13 @@
         "council_id": "W06000009",
         "geometry": "{\"geometry\": {\"coordinates\": [-4.92622865, 51.97642122], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.13\", \"properties\": {\"EnwGorsaf\": \"Festri Capel Glandwr, Llanychaer\", \"StationName\": \"Glandwr Chapel Vestry, Llanychaer\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.13"
+    },
+    {
+        "EnwGorsaf": "Gorsaf Rhif 1, Neuadd Gymunedol Pennar, Doc Penfro",
+        "StationName": "No 1 Station, Pennar Community Hall, Pembroke Dock",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.94844041, 51.68554495], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.130\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 1, Neuadd Gymunedol Pennar, Doc Penfro\", \"StationName\": \"No 1 Station, Pennar Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.130"
     },
     {
         "EnwGorsaf": "Neuadd Goffa Treletert",
@@ -456,9 +463,9 @@
     },
     {
         "EnwGorsaf": "Canolfan Gymunedol Hubberston & Hakin, Aberdaugleddau",
-        "StationName": "Hubberston and Hakin  Community Centre, Milford Haven",
+        "StationName": "Hubberston and Hakin Community Centre, Milford Haven",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-5.05495224, 51.71579312], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.57\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Hubberston & Hakin, Aberdaugleddau\", \"StationName\": \"Hubberston and Hakin  Community Centre, Milford Haven\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.05495224, 51.71579312], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.57\", \"properties\": {\"EnwGorsaf\": \"Canolfan Gymunedol Hubberston & Hakin, Aberdaugleddau\", \"StationName\": \"Hubberston and Hakin Community Centre, Milford Haven\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.57"
     },
     {
@@ -504,10 +511,10 @@
         "pk": "tblPollingStation.62"
     },
     {
-        "EnwGorsaf": "Hank Marvin",
-        "StationName": "Hank Marvin",
+        "EnwGorsaf": "Ystafell yn Hank Marvin, Llanddewi Efelffre",
+        "StationName": "Room at Hank Marvin, Llandewi Velfrey",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.68979554, 51.82007697], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.63\", \"properties\": {\"EnwGorsaf\": \"Hank Marvin\", \"StationName\": \"Hank Marvin\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.68979554, 51.82007697], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.63\", \"properties\": {\"EnwGorsaf\": \"Ystafell yn Hank Marvin, Llanddewi Efelffre\", \"StationName\": \"Room at Hank Marvin, Llandewi Velfrey\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.63"
     },
     {
@@ -665,10 +672,10 @@
         "pk": "tblPollingStation.84"
     },
     {
-        "EnwGorsaf": "Neuadd Gymunedol St Patricks, Pennar, Doc Penfro",
-        "StationName": "St Patricks, Pennar Community Hall, Pembroke Dock",
+        "EnwGorsaf": "Gorsaf Rhif 2, Neuadd Gymunedol Pennar, Doc Penfro",
+        "StationName": "No 2 Station, Pennar Community Hall, Pembroke Dock",
         "council_id": "W06000009",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.9484115, 51.68550668], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.85\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol St Patricks, Pennar, Doc Penfro\", \"StationName\": \"St Patricks, Pennar Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.9484115, 51.68550668], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.85\", \"properties\": {\"EnwGorsaf\": \"Gorsaf Rhif 2, Neuadd Gymunedol Pennar, Doc Penfro\", \"StationName\": \"No 2 Station, Pennar Community Hall, Pembroke Dock\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.85"
     },
     {
