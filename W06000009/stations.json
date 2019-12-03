@@ -133,11 +133,109 @@
         "pk": "tblPollingStation.130"
     },
     {
+        "EnwGorsaf": "Neuadd Bentref Talog",
+        "StationName": "Talog Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.42738066, 51.90107387], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.131\", \"properties\": {\"EnwGorsaf\": \"Neuadd Bentref Talog\", \"StationName\": \"Talog Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.131"
+    },
+    {
+        "EnwGorsaf": "Neuadd Goffa Bronwydd",
+        "StationName": "Bronwydd Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.29836806, 51.89832511], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.132\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Bronwydd\", \"StationName\": \"Bronwydd Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.132"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No1 Station, Meeting Rooms, Carmarthen Library, St Peters St",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.30361887, 51.85828029], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.133\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No1 Station, Meeting Rooms, Carmarthen Library, St Peters St\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.133"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No2 Station, Meeting Rooms, Carmarthen Library, St Peters St",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.30350304, 51.85826947], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.134\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No2 Station, Meeting Rooms, Carmarthen Library, St Peters St\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.134"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No1 Station, Special Needs Unit, Myrddin CP School,Carmarthen",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.31327436, 51.86171177], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.135\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No1 Station, Special Needs Unit, Myrddin CP School,Carmarthen\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.135"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No2 Station, Special Needs Unit, Myrddin CP School,Carmarthen",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.31301605, 51.86169544], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.136\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No2 Station, Special Needs Unit, Myrddin CP School,Carmarthen\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.136"
+    },
+    {
+        "EnwGorsaf": "Caffi Efailwen Becca",
+        "StationName": "Caffi Efailwen Becca",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.71148974, 51.89663678], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.137\", \"properties\": {\"EnwGorsaf\": \"Caffi Efailwen Becca\", \"StationName\": \"Caffi Efailwen Becca\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.137"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Alma Community Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.4716129, 51.89648513], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.138\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Alma Community Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.138"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Trelecch Community Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.50034853, 51.94546675], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.139\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Trelecch Community Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.139"
+    },
+    {
         "EnwGorsaf": "Neuadd Goffa Treletert",
         "StationName": "Letterston Memorial Hall, Letterston",
         "council_id": "W06000009",
         "geometry": "{\"geometry\": {\"coordinates\": [-4.98770269, 51.92830618], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.14\", \"properties\": {\"EnwGorsaf\": \"Neuadd Goffa Treletert\", \"StationName\": \"Letterston Memorial Hall, Letterston\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.14"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "St Clears Boating Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.49389971, 51.80984273], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.140\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"St Clears Boating Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.140"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Bancyfelin Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.43472968, 51.83610902], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.141\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Bancyfelin Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.141"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "St. Clears Leisure Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.49187871, 51.8220459], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.142\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"St. Clears Leisure Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.142"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Barnacles Beach Cafe, Pendine",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.55673829, 51.74232911], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.143\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Barnacles Beach Cafe, Pendine\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.143"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Newchurch School Room",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.34964637, 51.8935784], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.144\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Newchurch School Room\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.144"
     },
     {
         "EnwGorsaf": "Neuadd Gymunedol Mathri",
