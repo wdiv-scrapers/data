@@ -433,17 +433,8 @@
     },
     {
         "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.72378204192541, 53.7802572708126, -2.72378132327318, 53.7802579894648], \"geometry\": {\"coordinates\": [-2.72378168259929, 53.7802576301387], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"Cadley Causeway, Fulwood, Preston, PR2 3RX\", \"polling_station_name\": \"The Padua Room, St Anthonys Church\", \"polling_station_ref\": \"CA5\", \"uprn\": \"10090425984\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [-2.71106671965416, 53.7716600011585, -2.71106600100194, 53.7716607198107], \"geometry\": {\"coordinates\": [-2.71106636032805, 53.7716603604846], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"(Opposite Eldon Street Primary School), Preston, PR1 7XP\", \"polling_station_name\": \"46 Henderson Street (Eldon Street entrance)\", \"polling_station_ref\": \"PL2\", \"uprn\": \"200002854227\"}, \"type\": \"Feature\"}",
         "pk": 48,
-        "polling_station_address": "Cadley Causeway, Fulwood, Preston, PR2 3RX",
-        "polling_station_name": "The Padua Room, St Anthonys Church",
-        "polling_station_ref": "CA5",
-        "uprn": "10090425984"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71158738452358, 53.7719794535159, -2.71158666587136, 53.7719801721681], \"geometry\": {\"coordinates\": [-2.71158702519747, 53.771979812842], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"(Opposite Eldon Street Primary School), Preston, PR1 7XP\", \"polling_station_name\": \"46 Henderson Street (Eldon Street entrance)\", \"polling_station_ref\": \"PL2\", \"uprn\": \"200002854227\"}, \"type\": \"Feature\"}",
-        "pk": 49,
         "polling_station_address": "(Opposite Eldon Street Primary School), Preston, PR1 7XP",
         "polling_station_name": "46 Henderson Street (Eldon Street entrance)",
         "polling_station_ref": "PL2",
@@ -451,12 +442,21 @@
     },
     {
         "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67535206067321, 53.7639208980004, -2.67535134202098, 53.7639216166526], \"geometry\": {\"coordinates\": [-2.67535170134709, 53.7639212573265], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"polling_station_address\": \"76 Skeffington Road, Preston, PR1 5UQ\", \"polling_station_name\": \"St Josephs Church\", \"polling_station_ref\": \"SM3\", \"uprn\": \"10007609132\"}, \"type\": \"Feature\"}",
-        "pk": 50,
+        "geometry": "{\"bbox\": [-2.67594709536513, 53.7635724321665, -2.6759463767129, 53.7635731508187], \"geometry\": {\"coordinates\": [-2.67594673603902, 53.7635727914926], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"76 Skeffington Road, Preston, PR1 5UQ\", \"polling_station_name\": \"St Josephs Church\", \"polling_station_ref\": \"SM3\", \"uprn\": \"10007609132\"}, \"type\": \"Feature\"}",
+        "pk": 49,
         "polling_station_address": "76 Skeffington Road, Preston, PR1 5UQ",
         "polling_station_name": "St Josephs Church",
         "polling_station_ref": "SM3",
         "uprn": "10007609132"
+    },
+    {
+        "council_id": "E07000123",
+        "geometry": "{\"bbox\": [-2.72406950004532, 53.7794988867183, -2.72406878139309, 53.7794996053706], \"geometry\": {\"coordinates\": [-2.7240691407192, 53.7794992460445], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"polling_station_address\": \"Cadley Causeway, Fulwood, Preston, PR2 3RX\", \"polling_station_name\": \"The Padua Room, St Anthonys Church\", \"polling_station_ref\": \"CA5\", \"uprn\": \"10090425984\"}, \"type\": \"Feature\"}",
+        "pk": 50,
+        "polling_station_address": "Cadley Causeway, Fulwood, Preston, PR2 3RX",
+        "polling_station_name": "The Padua Room, St Anthonys Church",
+        "polling_station_ref": "CA5",
+        "uprn": "10090425984"
     },
     {
         "council_id": "E07000123",
