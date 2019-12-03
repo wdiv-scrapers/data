@@ -238,11 +238,74 @@
         "pk": "tblPollingStation.144"
     },
     {
+        "EnwGorsaf": null,
+        "StationName": "Merthyr Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.39508769, 51.86181631], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.145\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Merthyr Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.145"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Carmarthen Town A.F.C. Clubhouse",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.30150706, 51.86005801], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.146\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Carmarthen Town A.F.C. Clubhouse\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.146"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No1 Station, Whitland Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.61196029, 51.81937422], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.147\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No1 Station, Whitland Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.147"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No2 Station, Whitland Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.61187586, 51.81937491], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.148\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No2 Station, Whitland Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.148"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Cynwyl Elfed Community Centre",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.36832384, 51.92348635], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.149\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Cynwyl Elfed Community Centre\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.149"
+    },
+    {
         "EnwGorsaf": "Neuadd Gymunedol Mathri",
         "StationName": "Mathry Community Hall, Mathry",
         "council_id": "W06000009",
         "geometry": "{\"geometry\": {\"coordinates\": [-5.08812748, 51.94631443], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.15\", \"properties\": {\"EnwGorsaf\": \"Neuadd Gymunedol Mathri\", \"StationName\": \"Mathry Community Hall, Mathry\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.15"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Eglwyscummin Community Centre, Red Roses",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.60359613, 51.77560625], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.150\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Eglwyscummin Community Centre, Red Roses\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.150"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Laugharne Millennium Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.46323264, 51.77387643], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.151\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Laugharne Millennium Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.151"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llanboidy Market Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.59151302, 51.87856532], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.152\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llanboidy Market Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.152"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llanddowror Community Meeting Room",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.53135889, 51.80176423], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.153\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llanddowror Community Meeting Room\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.153"
     },
     {
         "EnwGorsaf": "Festri Capel y Bedyddwyr Croesgoch",
