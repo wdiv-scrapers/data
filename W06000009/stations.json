@@ -364,6 +364,62 @@
         "pk": "tblPollingStation.160"
     },
     {
+        "EnwGorsaf": null,
+        "StationName": "Llanwinio Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.52967482, 51.90879482], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.161\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llanwinio Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.161"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Meidrim Youth Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.48591688, 51.85977021], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.162\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Meidrim Youth Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.162"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No 2 Station, St. Marys Catholic Church, Union Street, Carmarthen",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.31948406, 51.85770748], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.163\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No 2 Station, St. Marys Catholic Church, Union Street, Carmarthen\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.163"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No 1 Station, St. Marys Catholic Church, Union Street, Carmarthen",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.31943338, 51.85771205], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.164\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No 1 Station, St. Marys Catholic Church, Union Street, Carmarthen\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.164"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No 2 Station, Carmarthen Athletic Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.32889748, 51.84831882], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.165\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No 2 Station, Carmarthen Athletic Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.165"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "No 1 Station, Carmarthen Athletic Club",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.32885877, 51.84823869], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.166\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"No 1 Station, Carmarthen Athletic Club\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.166"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Parish Hall Christ Church, Lammas Street, Carmarthen",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.31414308, 51.85604187], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.167\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Parish Hall Christ Church, Lammas Street, Carmarthen\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.167"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Henllanfallteg Millennium Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.6788414, 51.84753558], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.168\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Henllanfallteg Millennium Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.168"
+    },
+    {
         "EnwGorsaf": "Neuadd y Pentre Trefin",
         "StationName": "Trefin Village Hall",
         "council_id": "W06000009",
