@@ -308,11 +308,60 @@
         "pk": "tblPollingStation.153"
     },
     {
+        "EnwGorsaf": null,
+        "StationName": "St. Barbara\u2019s Church Hall, Llanmiloe",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.53142825, 51.74939727], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.154\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"St. Barbara\\u2019s Church Hall, Llanmiloe\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.154"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llangain Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.34725507, 51.81682972], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.155\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llangain Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.155"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Bryn Chapel Hall, Llangynin",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.54194194, 51.8492155], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.156\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Bryn Chapel Hall, Llangynin\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.156"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llangynog Village Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.41140892, 51.81466992], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.157\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llangynog Village Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.157"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llanpumsaint Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.3037669, 51.93964854], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.158\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llanpumsaint Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.158"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llansteffan Memorial Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.39169085, 51.77133875], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.159\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llansteffan Memorial Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.159"
+    },
+    {
         "EnwGorsaf": "Festri Capel y Bedyddwyr Croesgoch",
         "StationName": "Croesgoch Baptist Chapel Vestry, Croesgoch",
         "council_id": "W06000009",
         "geometry": "{\"geometry\": {\"coordinates\": [-5.15875809, 51.92886791], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.16\", \"properties\": {\"EnwGorsaf\": \"Festri Capel y Bedyddwyr Croesgoch\", \"StationName\": \"Croesgoch Baptist Chapel Vestry, Croesgoch\"}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.16"
+    },
+    {
+        "EnwGorsaf": null,
+        "StationName": "Llanybri Community Hall",
+        "council_id": "W06000009",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.41411148, 51.78594081], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.160\", \"properties\": {\"EnwGorsaf\": null, \"StationName\": \"Llanybri Community Hall\"}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.160"
     },
     {
         "EnwGorsaf": "Neuadd y Pentre Trefin",
