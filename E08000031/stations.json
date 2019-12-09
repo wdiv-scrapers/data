@@ -1824,7 +1824,7 @@
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
         "DATE_UPDAT": 1574812800000,
-        "DIS_CODE": "FHA",
+        "DIS_CODE": "FHA, FBA",
         "ELECTION": "12th December 2019",
         "KEYVAL": "PS34",
         "OBJECTID": 101,
@@ -1837,7 +1837,7 @@
         "X": 396123.0862,
         "Y": 301807.467,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.0586919547757154, 52.614026477488444], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ADDRESS\": \"Ashmore Park Community Hub, 82 Griffiths Drive, Wednesfield, Wolverhampton, WV112LH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1574812800000, \"DIS_CODE\": \"FHA\", \"ELECTION\": \"12th December 2019\", \"KEYVAL\": \"PS34\", \"OBJECTID\": 101, \"OBJECTID_1\": 100, \"POSTCODE\": \"WV11 2LH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN5, WN2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 396123.0862, \"Y\": 301807.467}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.0586919547757154, 52.614026477488444], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ADDRESS\": \"Ashmore Park Community Hub, 82 Griffiths Drive, Wednesfield, Wolverhampton, WV112LH\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1574812800000, \"DIS_CODE\": \"FHA, FBA\", \"ELECTION\": \"12th December 2019\", \"KEYVAL\": \"PS34\", \"OBJECTID\": 101, \"OBJECTID_1\": 100, \"POSTCODE\": \"WV11 2LH\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"WN5, WN2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Wednesfield North\", \"X\": 396123.0862, \"Y\": 301807.467}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Alban`s CE Primary School, St Alban`s Close, Wednesfield, Wolverhampton, WV11\u00a02PF",
@@ -2140,7 +2140,7 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.091345452623782, 52.567924198807546], \"type\": \"Point\"}, \"id\": 117, \"properties\": {\"ADDRESS\": \"Bilston CE Primary School, Albany Crescent, WV14 0HU\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1574812800000, \"DIS_CODE\": \"LIA, LJA\", \"ELECTION\": \"12th December 2019\", \"KEYVAL\": null, \"OBJECTID\": 117, \"OBJECTID_1\": 116, \"POSTCODE\": \"WV10 0HU\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"ET5, ET6\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Ettingshall\", \"X\": 393905.6279, \"Y\": 296681.4827}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Temporary Polling Station, End of Martham Drive, Compton, WV6 8AL",
+        "ADDRESS": "Temporary Polling Station, Sainsbury's Car Park, 24 Bridgnorth Road, Wolverhampton, West Midlands, WV6 8AA",
         "Count_Cent": "Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\u00a09NW",
         "DATA_OWNER": "Martyn Sargeant",
         "DATE_UPDAT": 1553644800000,
@@ -2157,7 +2157,7 @@
         "X": 388274.2971,
         "Y": 298863.697,
         "council_id": "E08000031",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.1745051218329423, 52.587448376291746], \"type\": \"Point\"}, \"id\": 118, \"properties\": {\"ADDRESS\": \"Temporary Polling Station, End of Martham Drive, Compton, WV6 8AL\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1553644800000, \"DIS_CODE\": \"TCA\", \"ELECTION\": \"12th December 2019\", \"KEYVAL\": null, \"OBJECTID\": 118, \"OBJECTID_1\": 117, \"POSTCODE\": \"WV6 8AL\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TW2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Tettenhall Wightwick\", \"X\": 388274.2971, \"Y\": 298863.697}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.1745051218329423, 52.587448376291746], \"type\": \"Point\"}, \"id\": 118, \"properties\": {\"ADDRESS\": \"Temporary Polling Station, Sainsbury's Car Park, 24 Bridgnorth Road, Wolverhampton, West Midlands, WV6 8AA\", \"Count_Cent\": \"Aldersley Leisure Village, Aldersley Road, Wolverhampton, WV6\\u00a09NW\", \"DATA_OWNER\": \"Martyn Sargeant\", \"DATE_UPDAT\": 1553644800000, \"DIS_CODE\": \"TCA\", \"ELECTION\": \"12th December 2019\", \"KEYVAL\": null, \"OBJECTID\": 118, \"OBJECTID_1\": 117, \"POSTCODE\": \"WV6 8AL\", \"PURPOSE\": \"Designated Polling Station\", \"STA_CODE\": \"TW2\", \"UPDATED_BY\": \"David Scandrett\", \"WARD\": \"Tettenhall Wightwick\", \"X\": 388274.2971, \"Y\": 298863.697}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The King\u2019s School, Regis Road, WV6 8XF",
