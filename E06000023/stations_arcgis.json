@@ -888,17 +888,17 @@
         "DUAL": "Yes",
         "DUAL_STN": "Used by WEHH and WEHF",
         "LOCALITY": "Henleaze",
-        "LOCATION_NAME": "Church of the Holy Nativity",
+        "LOCATION_NAME": "St Peters",
         "OBJECTID": 53,
-        "PAO": "Church of the Holy Nativity",
+        "PAO": "St Peters",
         "POLLING_DISTRICT": "WEHH",
         "POSTCODE": "BS9 4LD",
         "SAON": "",
-        "STREET": "Wells Road",
+        "STREET": "The Drive",
         "UPRN": 289629,
         "UPRN_2": "000000289629",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.607491570658394, 51.48561684883408], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHH and WEHF\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Church of the Holy Nativity\", \"OBJECTID\": 53, \"PAO\": \"Church of the Holy Nativity\", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"Wells Road\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.607491570658394, 51.48561684883408], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHH and WEHF\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"St Peters\", \"OBJECTID\": 53, \"PAO\": \"St Peters\", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"The Drive\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
