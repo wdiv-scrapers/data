@@ -1,161 +1,55 @@
 {
-    "author": "",
-    "author_email": "",
-    "barnet_delivery_unit": "Assurance",
-    "barnet_next_update": "2020-09-30",
-    "barnet_retention": "4 years",
-    "barnet_service": "Elections Team",
-    "createdAt": "2014-08-12T08:45:39",
-    "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
-    "id": "e4b5dff4-a981-4c94-b828-7ef997cf4488",
-    "licence": "ogl-v3",
-    "licence_notes": "",
-    "maintainer": "Assurance Director/Electoral Officer",
-    "maintainer_email": "open.data@barnet.gov.uk",
-    "next_review_date": "2020-09-30",
-    "odi-certificate": "",
-    "parent": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
-    "readonly": {
-        "auth": {
-            "package_update": false
+    "archived": false,
+    "createdAt": "2014-08-12T08:45:39Z",
+    "custom": {
+        "contact": {
+            "email": "open.data@barnet.gov.uk",
+            "title": "Barnet Open Data Team"
         },
-        "licence": {
-            "is_okd_compliant": true,
-            "title": "UK Open Government Licence (OGL v3)",
-            "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-        },
-        "parent": {
-            "createdAt": "2015-03-19T09:57:59.597Z",
-            "description": "",
-            "harvestedByOrgs": [],
-            "id": "e6007061-c29e-4884-8b1e-114e0aa1b8ee",
-            "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/publisher/2018-05-25T16%3A16%3A12.41/london-borough-of-barnet.png",
-            "parent": {
-                "id": "0a3f68a9-9324-47e8-86d0-0cf8b905e2a4",
-                "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/publisher/2018-05-25T16%3A14%3A37.50/barnet.png",
-                "parent": null,
-                "site": "open.barnet.gov.uk",
-                "slug": "barnet",
-                "state": "active",
-                "title": "Open Barnet"
-            },
-            "slug": "london-borough-of-barnet",
-            "state": "active",
-            "title": "London Borough of Barnet",
-            "updatedAt": "2015-03-19T09:57:59.597Z"
-        },
-        "rootOrg": {
-            "createdAt": "2015-03-19T09:57:59.597Z",
-            "description": "",
-            "harvestedByOrgs": [],
-            "harvesters": {},
-            "id": "0a3f68a9-9324-47e8-86d0-0cf8b905e2a4",
-            "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/publisher/2018-05-25T16%3A14%3A37.50/barnet.png",
-            "parent": null,
-            "site": "open.barnet.gov.uk",
-            "slug": "barnet",
-            "state": "active",
-            "title": "Open Barnet",
-            "topics": {
-                "01df22ff-46dc-480e-ad1f-9745a9f17120": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A39%3A25.42/roads-transportation.png",
-                    "slug": "roads-transportation",
-                    "title": "Roads & Transportation"
-                },
-                "0268c024-5ccd-40a2-ad46-3b8e90aff2f2": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A36%3A59.87/barnet-information-dashboard.png",
-                    "slug": "barnet-information-dashboard",
-                    "title": "Barnet Information Dashboard"
-                },
-                "03b32699-655b-49e7-9cf6-acba5115034f": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A37%3A16.27/business-industry.png",
-                    "slug": "business-industry",
-                    "title": "Business & Industry"
-                },
-                "28e559de-f0f4-480d-bc9d-946e5113fdaa": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A38%3A37.80/environment-property-land.png",
-                    "slug": "environment-property-land",
-                    "title": "Environment, Property & Land"
-                },
-                "31def11e-b435-40dc-b1d1-72ef44855a00": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A39%3A12.27/health-social-care.png",
-                    "slug": "health-social-care",
-                    "title": "Health & Social Care"
-                },
-                "5e51a6e1-304c-403a-87f2-f100b99931c1": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A37%3A45.46/council-democracy.png",
-                    "slug": "council-democracy",
-                    "title": "Council & Democracy"
-                },
-                "9a6b00ff-1a93-41ec-8a42-eb566145335c": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A38%3A24.30/education-skills-learning.png",
-                    "slug": "education-skills-learning",
-                    "title": "Education, Skills & Learning"
-                },
-                "acebe6c9-f7c6-407f-8a34-0225b6461d78": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A37%3A31.34/community-information.png",
-                    "slug": "community-information",
-                    "title": "Community Information"
-                },
-                "b9df09cd-c862-4828-9f26-8746795f7d2c": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A38%3A58.50/finance-procurement.png",
-                    "slug": "finance-procurement",
-                    "title": "Finance & Procurement"
-                },
-                "e3f13a44-0882-4590-b09a-bc6deb0e0bff": {
-                    "description": "",
-                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A39%3A36.57/waste-recycling.png",
-                    "slug": "waste-recycling",
-                    "title": "Waste & Recycling"
-                }
-            },
-            "updatedAt": "2015-03-19T09:57:59.597Z"
-        },
-        "shares": {
-            "orgs": {},
-            "users": {}
-        },
-        "topics": {
-            "5e51a6e1-304c-403a-87f2-f100b99931c1": {
-                "description": "",
-                "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/barnet/img/topic/2018-11-01T18%3A37%3A45.46/council-democracy.png",
-                "slug": "council-democracy",
-                "title": "Council & Democracy"
-            }
-        }
+        "next_update": "2020-09-30",
+        "retention": "4 years",
+        "service": "Elections Team",
+        "unit": "Assurance"
     },
+    "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
+    "descriptionMarkdown": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
+    "descriptionText": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
+    "id": "2z3pv",
+    "licence": {
+        "title": "UK Open Government Licence (OGL v3)",
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    "masthead": "x59ng",
+    "nextUpdateDue": "2020-09-30",
+    "notifications": [],
     "resources": {
-        "8e22cea7-2ff2-4270-9acb-e16bade02cf8": {
-            "check_hash": "3c1da01ec8628567b6e2787576f99eaa",
-            "check_http_status": 200,
-            "check_mimetype": "text/csv",
-            "check_size": 8507,
-            "check_timestamp": "2019-10-03T15:34:37.923Z",
+        "w9n": {
             "description": "",
+            "descriptionMarkdown": "",
+            "descriptionText": "",
             "format": "csv",
             "order": 0,
-            "temporal_coverage_from": "2019-09-30",
-            "temporal_coverage_to": "2019-09-30",
+            "origin": {
+                "bucket": "datapress-files",
+                "key": "barnet/dataset/polling-stations-in-barnet/2019-10-03T15:34:35/LBBPollingStationList-2019.csv"
+            },
+            "qa": {
+                "hash": "3c1da01ec8628567b6e2787576f99eaa",
+                "httpStatus": 200,
+                "mimetype": "text/csv",
+                "size": 8507,
+                "timestamp": "2019-10-03T15:34:37Z"
+            },
+            "tables": {},
+            "timeFrame": {
+                "gte": "2019-09-30",
+                "lte": "2019-09-30"
+            },
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/barnet/dataset/polling-stations-in-barnet/2019-10-03T15%3A34%3A35/LBBPollingStationList-2019.csv"
+            "url": "https://open.barnet.gov.uk/download/2z3pv/w9n/LBBPollingStationList-2019.csv"
         }
     },
-    "shares": {
-        "orgs": {},
-        "users": {}
-    },
     "sharing": "public",
-    "slug": "polling-stations-in-barnet",
-    "state": "active",
     "tags": [
         "Wards",
         "Elections",
@@ -164,10 +58,16 @@
         "Councillors",
         "Address"
     ],
+    "team": "vrv65",
     "title": "Polling Stations in Barnet",
     "topics": [
-        "5e51a6e1-304c-403a-87f2-f100b99931c1"
+        "x4eom"
     ],
-    "update_frequency": "Annually",
-    "updatedAt": "2019-10-03T15:34:37.564Z"
+    "updateFrequency": "Annually",
+    "updatedAt": "2019-10-03T15:34:37Z",
+    "whitelist": {
+        "loggedIn": false,
+        "teams": [],
+        "users": []
+    }
 }
