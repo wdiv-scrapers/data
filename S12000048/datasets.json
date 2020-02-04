@@ -17,6 +17,7 @@
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
+                    "supportsPercentileStatistics": true,
                     "supportsQueryRelatedPagination": true,
                     "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
@@ -44,12 +45,12 @@
                 "extent": {
                     "coordinates": [
                         [
-                            -4.74059195015983,
-                            56.1133643132052
+                            -4.74059195010005,
+                            56.1133643132071
                         ],
                         [
-                            -3.02573426708683,
-                            56.9592886742699
+                            -3.02573426739835,
+                            56.9592886746179
                         ]
                     ]
                 },
@@ -62,7 +63,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-08-21T14:18:54.609Z"
+                        "updatedAt": "2020-02-04T14:52:45.904Z"
                     },
                     {
                         "alias": "NAME",
@@ -70,7 +71,7 @@
                         "name": "NAME",
                         "statistics": {
                             "count": 52,
-                            "duration": 178.223659999669,
+                            "duration": 320.637308001518,
                             "values": [
                                 {
                                     "count": 1,
@@ -115,7 +116,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T14:18:54.787Z"
+                        "updatedAt": "2020-02-04T14:52:46.224Z"
                     },
                     {
                         "alias": "CC_NUMBER",
@@ -123,7 +124,7 @@
                         "name": "CC_NUMBER",
                         "statistics": {
                             "count": 52,
-                            "duration": 136.514140000567,
+                            "duration": 342.851013898849,
                             "values": [
                                 {
                                     "count": 1,
@@ -168,24 +169,24 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T14:18:54.745Z"
+                        "updatedAt": "2020-02-04T14:52:46.247Z"
                     },
                     {
                         "alias": "AREA",
                         "domain": null,
                         "name": "AREA",
                         "statistics": {
-                            "avg": 0,
+                            "avg": 104225162.75,
                             "count": 52,
-                            "duration": 135.02911600098,
-                            "max": 0,
-                            "min": 0,
-                            "stddev": 0,
-                            "sum": 0,
-                            "var": 0
+                            "duration": 491.213428020477,
+                            "max": 672864451,
+                            "min": 1689091,
+                            "stddev": 148019344.54805,
+                            "sum": 5419708463,
+                            "var": 21909726360434400
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T14:18:54.744Z"
+                        "updatedAt": "2020-02-04T14:52:46.395Z"
                     },
                     {
                         "alias": "URL",
@@ -193,7 +194,7 @@
                         "name": "URL",
                         "statistics": {
                             "count": 21,
-                            "duration": 134.151983998716,
+                            "duration": 480.634727954865,
                             "values": [
                                 {
                                     "count": 32,
@@ -238,7 +239,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T14:18:54.744Z"
+                        "updatedAt": "2020-02-04T14:52:46.385Z"
                     },
                     {
                         "alias": "STATUS",
@@ -246,7 +247,7 @@
                         "name": "STATUS",
                         "statistics": {
                             "count": 2,
-                            "duration": 193.389034999534,
+                            "duration": 474.373404026031,
                             "values": [
                                 {
                                     "count": 45,
@@ -259,62 +260,45 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T14:18:54.803Z"
-                    },
-                    {
-                        "alias": "MI_PRINX",
-                        "domain": null,
-                        "name": "MI_PRINX",
-                        "statistics": {
-                            "avg": 26.5,
-                            "count": 52,
-                            "duration": 208.856828000396,
-                            "max": 52,
-                            "min": 1,
-                            "stddev": 15.1547572288924,
-                            "sum": 1378,
-                            "var": 229.666666666667
-                        },
-                        "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T14:18:54.819Z"
+                        "updatedAt": "2020-02-04T14:52:46.379Z"
                     },
                     {
                         "alias": "Shape__Area",
                         "domain": null,
                         "name": "Shape__Area",
                         "statistics": {
-                            "avg": 104225240.560864,
+                            "avg": 104225162.725687,
                             "count": 52,
-                            "duration": 218.660090999678,
-                            "max": 672864451.034653,
-                            "min": 1324018.78901672,
-                            "stddev": 150365191.998957,
-                            "sum": 5419712509.16492,
-                            "var": 22609690964883200
+                            "duration": 352.391639947891,
+                            "max": 672864451.523422,
+                            "min": 1689090.86447144,
+                            "stddev": 148018490.452516,
+                            "sum": 5419708461.73573,
+                            "var": 21909473515841500
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T14:18:54.829Z"
+                        "updatedAt": "2020-02-04T14:52:46.257Z"
                     },
                     {
                         "alias": "Shape__Length",
                         "domain": null,
                         "name": "Shape__Length",
                         "statistics": {
-                            "avg": 49963.8515972831,
+                            "avg": 49781.2699880273,
                             "count": 52,
-                            "duration": 213.635997001082,
-                            "max": 157373.541019817,
-                            "min": 5036.1825510268,
-                            "stddev": 36118.0558147304,
-                            "sum": 2598120.28305872,
-                            "var": 1304513955.83598
+                            "duration": 398.661243915558,
+                            "max": 157373.54070552,
+                            "min": 5611.76636434603,
+                            "stddev": 35423.3317840543,
+                            "sum": 2588626.03937742,
+                            "var": 1254812434.68319
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T14:18:54.824Z"
+                        "updatedAt": "2020-02-04T14:52:46.303Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2019-08-21T14:18:57.843Z",
+                "harvestedAt": "2020-02-04T14:52:48.235Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Community Councils",
@@ -373,7 +357,7 @@
                 "timeInfo": null,
                 "title": "community councils",
                 "type": "Layer",
-                "updatedAt": "2019-08-21T14:18:57.881Z",
+                "updatedAt": "2020-02-04T14:52:27.486Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
@@ -426,6 +410,7 @@
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
+                    "supportsPercentileStatistics": true,
                     "supportsQueryRelatedPagination": true,
                     "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
@@ -470,7 +455,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-08-21T11:37:30.185Z"
+                        "updatedAt": "2020-02-04T14:50:47.084Z"
                     },
                     {
                         "alias": "MI_PRINX",
@@ -479,7 +464,7 @@
                         "statistics": {
                             "avg": 44,
                             "count": 87,
-                            "duration": 261.347691999748,
+                            "duration": 110.89384996891,
                             "max": 87,
                             "min": 1,
                             "stddev": 25.2586618806302,
@@ -487,7 +472,7 @@
                             "var": 638
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.447Z"
+                        "updatedAt": "2020-02-04T14:50:47.195Z"
                     },
                     {
                         "alias": "UPRN",
@@ -496,7 +481,7 @@
                         "statistics": {
                             "avg": 124062719.655172,
                             "count": 87,
-                            "duration": 184.51697999984,
+                            "duration": 102.074612021446,
                             "max": 124101826,
                             "min": 124002031,
                             "stddev": 22661.8048009687,
@@ -504,7 +489,7 @@
                             "var": 513557396.837209
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.370Z"
+                        "updatedAt": "2020-02-04T14:50:47.187Z"
                     },
                     {
                         "alias": "NAME",
@@ -512,7 +497,7 @@
                         "name": "NAME",
                         "statistics": {
                             "count": 87,
-                            "duration": 234.926299000159,
+                            "duration": 118.615450024605,
                             "values": [
                                 {
                                     "count": 1,
@@ -557,7 +542,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.421Z"
+                        "updatedAt": "2020-02-04T14:50:47.204Z"
                     },
                     {
                         "alias": "SETTLEMENT",
@@ -565,7 +550,7 @@
                         "name": "SETTLEMENT",
                         "statistics": {
                             "count": 68,
-                            "duration": 216.342284999788,
+                            "duration": 212.277094006538,
                             "values": [
                                 {
                                     "count": 17,
@@ -610,7 +595,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.403Z"
+                        "updatedAt": "2020-02-04T14:50:47.297Z"
                     },
                     {
                         "alias": "EASTING",
@@ -619,7 +604,7 @@
                         "statistics": {
                             "avg": 305545.966185299,
                             "count": 87,
-                            "duration": 184.426202000119,
+                            "duration": 190.628659963608,
                             "max": 334705,
                             "min": 266278,
                             "stddev": 14804.3542119085,
@@ -627,7 +612,7 @@
                             "var": 219168903.631654
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.371Z"
+                        "updatedAt": "2020-02-04T14:50:47.276Z"
                     },
                     {
                         "alias": "NORTHING",
@@ -636,7 +621,7 @@
                         "statistics": {
                             "avg": 729729.985942333,
                             "count": 87,
-                            "duration": 211.805875000544,
+                            "duration": 171.526939988136,
                             "max": 765340.52,
                             "min": 695430,
                             "stddev": 15960.9838894077,
@@ -644,7 +629,7 @@
                             "var": 254753006.717932
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.399Z"
+                        "updatedAt": "2020-02-04T14:50:47.257Z"
                     },
                     {
                         "alias": "CODE",
@@ -652,7 +637,7 @@
                         "name": "CODE",
                         "statistics": {
                             "count": 87,
-                            "duration": 258.818749000318,
+                            "duration": 131.543685913086,
                             "values": [
                                 {
                                     "count": 1,
@@ -697,7 +682,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.446Z"
+                        "updatedAt": "2020-02-04T14:50:47.217Z"
                     },
                     {
                         "alias": "ADDRESS",
@@ -705,7 +690,7 @@
                         "name": "ADDRESS",
                         "statistics": {
                             "count": 87,
-                            "duration": 222.164078000002,
+                            "duration": 130.456292033195,
                             "values": [
                                 {
                                     "count": 1,
@@ -750,11 +735,11 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.409Z"
+                        "updatedAt": "2020-02-04T14:50:47.216Z"
                     }
                 ],
                 "geometryType": "esriGeometryPoint",
-                "harvestedAt": "2019-08-21T11:37:31.729Z",
+                "harvestedAt": "2020-02-04T14:50:47.587Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Polling places",
@@ -813,7 +798,7 @@
                 "timeInfo": null,
                 "title": "polling places",
                 "type": "Layer",
-                "updatedAt": "2019-08-21T11:37:31.771Z",
+                "updatedAt": "2020-02-04T14:50:20.771Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
@@ -866,6 +851,7 @@
                     "supportsOutFieldSQLExpression": true,
                     "supportsPagination": true,
                     "supportsPaginationOnAggregatedQueries": true,
+                    "supportsPercentileStatistics": true,
                     "supportsQueryRelatedPagination": true,
                     "supportsQueryWithCacheHint": true,
                     "supportsQueryWithDatumTransformation": true,
@@ -911,7 +897,7 @@
                             "duration": 0
                         },
                         "type": "esriFieldTypeOID",
-                        "updatedAt": "2019-08-21T11:37:30.195Z"
+                        "updatedAt": "2020-02-04T14:48:23.693Z"
                     },
                     {
                         "alias": "MI_PRINX",
@@ -920,7 +906,7 @@
                         "statistics": {
                             "avg": 54,
                             "count": 107,
-                            "duration": 266.59345000051,
+                            "duration": 114.465005993843,
                             "max": 107,
                             "min": 1,
                             "stddev": 31.0322412983658,
@@ -928,15 +914,15 @@
                             "var": 963
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.461Z"
+                        "updatedAt": "2020-02-04T14:48:23.807Z"
                     },
                     {
                         "alias": "NAME",
                         "domain": null,
                         "name": "NAME",
                         "statistics": {
-                            "count": 105,
-                            "duration": 249.090339999646,
+                            "count": 104,
+                            "duration": 177.287551999092,
                             "values": [
                                 {
                                     "count": 2,
@@ -947,8 +933,8 @@
                                     "value": "South Letham"
                                 },
                                 {
-                                    "count": 1,
-                                    "value": "Whinniemuir"
+                                    "count": 2,
+                                    "value": "Oakbank"
                                 },
                                 {
                                     "count": 1,
@@ -981,7 +967,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.444Z"
+                        "updatedAt": "2020-02-04T14:48:23.871Z"
                     },
                     {
                         "alias": "CODE",
@@ -989,7 +975,7 @@
                         "name": "CODE",
                         "statistics": {
                             "count": 107,
-                            "duration": 247.030045000836,
+                            "duration": 129.005737900734,
                             "values": [
                                 {
                                     "count": 1,
@@ -1034,7 +1020,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.443Z"
+                        "updatedAt": "2020-02-04T14:48:23.822Z"
                     },
                     {
                         "alias": "POLL_NAME",
@@ -1042,7 +1028,7 @@
                         "name": "POLL_NAME",
                         "statistics": {
                             "count": 88,
-                            "duration": 249.148207999766,
+                            "duration": 246.779933929443,
                             "values": [
                                 {
                                     "count": 4,
@@ -1066,11 +1052,11 @@
                                 },
                                 {
                                     "count": 2,
-                                    "value": "Ruthvenfield Primary School"
+                                    "value": "Scout Hall, Perth Academy"
                                 },
                                 {
                                     "count": 2,
-                                    "value": "Robert Douglas Memorial Institute"
+                                    "value": "Ruthvenfield Primary School"
                                 },
                                 {
                                     "count": 2,
@@ -1087,7 +1073,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.445Z"
+                        "updatedAt": "2020-02-04T14:48:23.940Z"
                     },
                     {
                         "alias": "POLL_TOWN",
@@ -1095,10 +1081,10 @@
                         "name": "POLL_TOWN",
                         "statistics": {
                             "count": 69,
-                            "duration": 360.341684999876,
+                            "duration": 364.036392092705,
                             "values": [
                                 {
-                                    "count": 21,
+                                    "count": 22,
                                     "value": "Perth"
                                 },
                                 {
@@ -1112,10 +1098,6 @@
                                 {
                                     "count": 4,
                                     "value": "Auchterarder"
-                                },
-                                {
-                                    "count": 2,
-                                    "value": "Scone"
                                 },
                                 {
                                     "count": 2,
@@ -1136,28 +1118,32 @@
                                 {
                                     "count": 2,
                                     "value": "Bridge of Earn"
+                                },
+                                {
+                                    "count": 2,
+                                    "value": "Braco"
                                 }
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.556Z"
+                        "updatedAt": "2020-02-04T14:48:24.058Z"
                     },
                     {
                         "alias": "UPRN",
                         "domain": null,
                         "name": "UPRN",
                         "statistics": {
-                            "avg": 122901937.327103,
+                            "avg": 122901940.906542,
                             "count": 107,
-                            "duration": 330.421800000593,
+                            "duration": 233.491008043289,
                             "max": 124101826,
                             "min": 0,
-                            "stddev": 11993490.7593651,
-                            "sum": 13150507294,
-                            "var": 143843820594975
+                            "stddev": 11993491.1148369,
+                            "sum": 13150507677,
+                            "var": 143843829121671
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.527Z"
+                        "updatedAt": "2020-02-04T14:48:23.927Z"
                     },
                     {
                         "alias": "ADDRESS",
@@ -1165,7 +1151,7 @@
                         "name": "ADDRESS",
                         "statistics": {
                             "count": 88,
-                            "duration": 217.60937900003,
+                            "duration": 293.736395955086,
                             "values": [
                                 {
                                     "count": 4,
@@ -1189,11 +1175,11 @@
                                 },
                                 {
                                     "count": 2,
-                                    "value": "RUTHVENFIELD PRIMARY SCHOOL, RUTHVENFIELD, PERTH, PH1 3JP"
+                                    "value": "SCOUT HALL, PERTH ACADEMY, MURRAY PLACE, PERTH"
                                 },
                                 {
                                     "count": 2,
-                                    "value": "ROBERT DOUGLAS MEMORIAL INSTITUTE, ABBEY ROAD, SCONE"
+                                    "value": "RUTHVENFIELD PRIMARY SCHOOL, RUTHVENFIELD, PERTH, PH1 3JP"
                                 },
                                 {
                                     "count": 2,
@@ -1210,7 +1196,7 @@
                             ]
                         },
                         "type": "esriFieldTypeString",
-                        "updatedAt": "2019-08-21T11:37:30.414Z"
+                        "updatedAt": "2020-02-04T14:48:23.988Z"
                     },
                     {
                         "alias": "Shape__Area",
@@ -1219,36 +1205,36 @@
                         "statistics": {
                             "avg": 50643953.7347004,
                             "count": 107,
-                            "duration": 294.876857999712,
+                            "duration": 189.274807929993,
                             "max": 667415615.009277,
                             "min": 166026.940933228,
-                            "stddev": 98744905.4677122,
+                            "stddev": 98744931.2540523,
                             "sum": 5418903049.61295,
-                            "var": 9750556355827410
+                            "var": 9750561448367510
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.492Z"
+                        "updatedAt": "2020-02-04T14:48:23.883Z"
                     },
                     {
                         "alias": "Shape__Length",
                         "domain": null,
                         "name": "Shape__Length",
                         "statistics": {
-                            "avg": 32322.3054162739,
+                            "avg": 32306.7726069759,
                             "count": 107,
-                            "duration": 356.294155000709,
+                            "duration": 254.281237959862,
                             "max": 151945.959004751,
                             "min": 2069.38463354129,
-                            "stddev": 27542.5794765747,
-                            "sum": 3458486.6795413,
-                            "var": 758593684.223432
+                            "stddev": 27558.8261553751,
+                            "sum": 3456824.66894643,
+                            "var": 759488899.062188
                         },
                         "type": "esriFieldTypeDouble",
-                        "updatedAt": "2019-08-21T11:37:30.553Z"
+                        "updatedAt": "2020-02-04T14:48:23.948Z"
                     }
                 ],
                 "geometryType": "esriGeometryPolygon",
-                "harvestedAt": "2019-08-21T11:37:31.877Z",
+                "harvestedAt": "2020-02-04T14:48:29.156Z",
                 "hasErrors": false,
                 "hasWarnings": false,
                 "itemName": "Polling districts",
@@ -1307,7 +1293,7 @@
                 "timeInfo": null,
                 "title": "polling districts",
                 "type": "Layer",
-                "updatedAt": "2019-08-21T11:27:32.741Z",
+                "updatedAt": "2020-02-04T14:48:03.102Z",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0",
                 "useStandardizedQueries": true,
                 "views": null
