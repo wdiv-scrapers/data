@@ -144,15 +144,6 @@
         "pk": 21
     },
     {
-        "OBJECTID_1": 22,
-        "POLLINGDIS": "YHB",
-        "POLLINGSTA": "York Auction Centre, Murton, York, YO19 5GF",
-        "WARD": "Osbaldwick & Derwent",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.008546563951439, 53.96010912651055], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 22, \"POLLINGDIS\": \"YHB\", \"POLLINGSTA\": \"York Auction Centre, Murton, York, YO19 5GF\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
-        "pk": 22
-    },
-    {
         "OBJECTID_1": 23,
         "POLLINGDIS": "YCB / HG",
         "POLLINGSTA": "Heslington Village Meeting Room, Main Street, Heslington, York, YO10 5EB",
@@ -295,15 +286,6 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0857157365332903, 53.97988431667137], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 40, \"POLLINGDIS\": \"BA\", \"POLLINGSTA\": \"Burton Green Primary School, Burton Green, York, YO30 6JE\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
         "pk": 40
-    },
-    {
-        "OBJECTID_1": 41,
-        "POLLINGDIS": "DB",
-        "POLLINGSTA": "Fishergate Room, York Barbican, Paragon Street, York, YO10 4NT",
-        "WARD": "Fishergate",
-        "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0742807414634308, 53.953411219141884], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 41, \"POLLINGDIS\": \"DB\", \"POLLINGSTA\": \"Fishergate Room, York Barbican, Paragon Street, York, YO10 4NT\", \"WARD\": \"Fishergate\"}, \"type\": \"Feature\"}",
-        "pk": 41
     },
     {
         "OBJECTID_1": 42,
@@ -799,5 +781,23 @@
         "council_id": "E06000014",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0413147190334224, 53.95259036823479], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1700, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"Archbishop Holgates School, A Church of England Academy, Hull Road, York. YO10 5ZA \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
         "pk": 1700
+    },
+    {
+        "OBJECTID_1": 1701,
+        "POLLINGDIS": "DB",
+        "POLLINGSTA": "Christian Science Church, Kilburn Road, York, YO10 4DE",
+        "WARD": "Fishergate",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0735344583579713, 53.947324899624434], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1701, \"POLLINGDIS\": \"DB\", \"POLLINGSTA\": \"Christian Science Church, Kilburn Road, York, YO10 4DE\\r\\n\", \"WARD\": \"Fishergate\"}, \"type\": \"Feature\"}",
+        "pk": 1701
+    },
+    {
+        "OBJECTID_1": 1702,
+        "POLLINGDIS": "YHB",
+        "POLLINGSTA": "St James Church, Murton Way, Murton, YO19 5UJ",
+        "WARD": "Osbaldwick & Derwent",
+        "council_id": "E06000014",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.012527188097166, 53.9654136937939], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1702, \"POLLINGDIS\": \"YHB\", \"POLLINGSTA\": \"St James Church, Murton Way, Murton, YO19 5UJ\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
+        "pk": 1702
     }
 ]
