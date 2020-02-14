@@ -23,31 +23,21 @@
         "ADDRESS": "St Marys Church, Church Hall, St Marys Road, DN1 2NR",
         "OBJECTID": 922,
         "POLLINGPLA": "St Marys Church, Church Hall, St Marys Road, DN1 2NR",
-        "POLLING_DI": "CI",
+        "POLLING_DI": "CH",
         "UPRN": "010006617591",
         "WARD": "Town Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1243772369874256, 53.52934407919413], \"type\": \"Point\"}, \"id\": 922, \"properties\": {\"ADDRESS\": \"St Marys Church, Church Hall, St Marys Road, DN1 2NR\", \"OBJECTID\": 922, \"POLLINGPLA\": \"St Marys Church, Church Hall, St Marys Road, DN1 2NR\", \"POLLING_DI\": \"CI\", \"UPRN\": \"010006617591\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Town Field Pavilion, Thorne Road, DN1 2JR",
-        "OBJECTID": 923,
-        "POLLINGPLA": "Town Field Pavilion, Thorne Road, DN1 2JR",
-        "POLLING_DI": "CH",
-        "UPRN": "010006711970",
-        "WARD": "Town Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1207767148806456, 53.52658595477417], \"type\": \"Point\"}, \"id\": 923, \"properties\": {\"ADDRESS\": \"Town Field Pavilion, Thorne Road, DN1 2JR\", \"OBJECTID\": 923, \"POLLINGPLA\": \"Town Field Pavilion, Thorne Road, DN1 2JR\", \"POLLING_DI\": \"CH\", \"UPRN\": \"010006711970\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1243772369874256, 53.52934407919413], \"type\": \"Point\"}, \"id\": 922, \"properties\": {\"ADDRESS\": \"St Marys Church, Church Hall, St Marys Road, DN1 2NR\", \"OBJECTID\": 922, \"POLLINGPLA\": \"St Marys Church, Church Hall, St Marys Road, DN1 2NR\", \"POLLING_DI\": \"CH\", \"UPRN\": \"010006617591\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Andrew's Methodist Church Hall, Morley Road, DN1 2TN",
         "OBJECTID": 924,
         "POLLINGPLA": "St Andrew's Methodist Church Hall, Morley Road, DN1 2TN",
-        "POLLING_DI": "CJ",
+        "POLLING_DI": "CI",
         "UPRN": "010006617626",
         "WARD": "Town Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1212197637536114, 53.53149552382133], \"type\": \"Point\"}, \"id\": 924, \"properties\": {\"ADDRESS\": \"St Andrew's Methodist Church Hall, Morley Road, DN1 2TN\", \"OBJECTID\": 924, \"POLLINGPLA\": \"St Andrew's Methodist Church Hall, Morley Road, DN1 2TN\", \"POLLING_DI\": \"CJ\", \"UPRN\": \"010006617626\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1212197637536114, 53.53149552382133], \"type\": \"Point\"}, \"id\": 924, \"properties\": {\"ADDRESS\": \"St Andrew's Methodist Church Hall, Morley Road, DN1 2TN\", \"OBJECTID\": 924, \"POLLINGPLA\": \"St Andrew's Methodist Church Hall, Morley Road, DN1 2TN\", \"POLLING_DI\": \"CI\", \"UPRN\": \"010006617626\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Quaker Meeting House, Oxford Place Off St James Street, DN1 3RH",
@@ -213,11 +203,11 @@
         "ADDRESS": "Portable Unit, Windmill Avenue, DN123AJ",
         "OBJECTID": 941,
         "POLLINGPLA": "Portable Unit, Windmill Avenue, DN123AJ",
-        "POLLING_DI": "GL",
+        "POLLING_DI": "GK",
         "UPRN": "010006607665",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2191120877017039, 53.48289845923014], \"type\": \"Point\"}, \"id\": 941, \"properties\": {\"ADDRESS\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"OBJECTID\": 941, \"POLLINGPLA\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"POLLING_DI\": \"GL\", \"UPRN\": \"010006607665\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2191120877017039, 53.48289845923014], \"type\": \"Point\"}, \"id\": 941, \"properties\": {\"ADDRESS\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"OBJECTID\": 941, \"POLLINGPLA\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"POLLING_DI\": \"GK\", \"UPRN\": \"010006607665\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Portable Unit, Windmill Avenue, DN123AJ",
@@ -233,11 +223,11 @@
         "ADDRESS": "Portable Unit, Windmill Avenue, DN123AJ",
         "OBJECTID": 943,
         "POLLINGPLA": "Portable Unit, Windmill Avenue, DN123AJ",
-        "POLLING_DI": "GM",
+        "POLLING_DI": "GL",
         "UPRN": "010006607665",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2191120877017039, 53.48289845923014], \"type\": \"Point\"}, \"id\": 943, \"properties\": {\"ADDRESS\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"OBJECTID\": 943, \"POLLINGPLA\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"POLLING_DI\": \"GM\", \"UPRN\": \"010006607665\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2191120877017039, 53.48289845923014], \"type\": \"Point\"}, \"id\": 943, \"properties\": {\"ADDRESS\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"OBJECTID\": 943, \"POLLINGPLA\": \"Portable Unit, Windmill Avenue, DN123AJ\", \"POLLING_DI\": \"GL\", \"UPRN\": \"010006607665\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Castle Academy, Station Road, DN123DB",
@@ -260,44 +250,34 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2324245863182022, 53.482221129440425], \"type\": \"Point\"}, \"id\": 945, \"properties\": {\"ADDRESS\": \"Elm Green Lane Community Centre, Elm Green Lane, DN123JL\", \"OBJECTID\": 945, \"POLLINGPLA\": \"Elm Green Lane Community Centre, Elm Green Lane, DN123JL\", \"POLLING_DI\": \"GA\", \"UPRN\": \"010006589247\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Elm Green Lane Community Centre, Elm Green Lane, DN123JL",
-        "OBJECTID": 946,
-        "POLLINGPLA": "Elm Green Lane Community Centre, Elm Green Lane, DN123JL",
-        "POLLING_DI": "GE",
-        "UPRN": "010006589247",
-        "WARD": "Conisbrough Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2324245863182022, 53.482221129440425], \"type\": \"Point\"}, \"id\": 946, \"properties\": {\"ADDRESS\": \"Elm Green Lane Community Centre, Elm Green Lane, DN123JL\", \"OBJECTID\": 946, \"POLLINGPLA\": \"Elm Green Lane Community Centre, Elm Green Lane, DN123JL\", \"POLLING_DI\": \"GE\", \"UPRN\": \"010006589247\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Rowena Academy, Gardens Lane, DN123JY",
         "OBJECTID": 947,
         "POLLINGPLA": "Rowena Academy, Gardens Lane, DN123JY",
-        "POLLING_DI": "GG",
+        "POLLING_DI": "GF",
         "UPRN": "010006578734",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2396533758949229, 53.484154940821156], \"type\": \"Point\"}, \"id\": 947, \"properties\": {\"ADDRESS\": \"Rowena Academy, Gardens Lane, DN123JY\", \"OBJECTID\": 947, \"POLLINGPLA\": \"Rowena Academy, Gardens Lane, DN123JY\", \"POLLING_DI\": \"GG\", \"UPRN\": \"010006578734\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2396533758949229, 53.484154940821156], \"type\": \"Point\"}, \"id\": 947, \"properties\": {\"ADDRESS\": \"Rowena Academy, Gardens Lane, DN123JY\", \"OBJECTID\": 947, \"POLLINGPLA\": \"Rowena Academy, Gardens Lane, DN123JY\", \"POLLING_DI\": \"GF\", \"UPRN\": \"010006578734\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR",
         "OBJECTID": 948,
         "POLLINGPLA": "Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR",
-        "POLLING_DI": "GF",
+        "POLLING_DI": "GE",
         "UPRN": "100051963310",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2473595802405553, 53.477030750800346], \"type\": \"Point\"}, \"id\": 948, \"properties\": {\"ADDRESS\": \"Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR\", \"OBJECTID\": 948, \"POLLINGPLA\": \"Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR\", \"POLLING_DI\": \"GF\", \"UPRN\": \"100051963310\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2473595802405553, 53.477030750800346], \"type\": \"Point\"}, \"id\": 948, \"properties\": {\"ADDRESS\": \"Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR\", \"OBJECTID\": 948, \"POLLINGPLA\": \"Conisbrough Ivanhoe Primary Academy, Nursery Building, Old Road, DN123LR\", \"POLLING_DI\": \"GE\", \"UPRN\": \"100051963310\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Morley Place Junior School, Old Road, DN123LZ",
         "OBJECTID": 949,
         "POLLINGPLA": "Morley Place Junior School, Old Road, DN123LZ",
-        "POLLING_DI": "GH",
+        "POLLING_DI": "GG",
         "UPRN": "100051963303",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2392296648049772, 53.48172530677274], \"type\": \"Point\"}, \"id\": 949, \"properties\": {\"ADDRESS\": \"Morley Place Junior School, Old Road, DN123LZ\", \"OBJECTID\": 949, \"POLLINGPLA\": \"Morley Place Junior School, Old Road, DN123LZ\", \"POLLING_DI\": \"GH\", \"UPRN\": \"100051963303\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2392296648049772, 53.48172530677274], \"type\": \"Point\"}, \"id\": 949, \"properties\": {\"ADDRESS\": \"Morley Place Junior School, Old Road, DN123LZ\", \"OBJECTID\": 949, \"POLLINGPLA\": \"Morley Place Junior School, Old Road, DN123LZ\", \"POLLING_DI\": \"GG\", \"UPRN\": \"100051963303\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Sister De Sales Parish Centre, St Albans Catholic Church, Wadworth Street, DN124AQ",
@@ -313,31 +293,31 @@
         "ADDRESS": "Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD",
         "OBJECTID": 951,
         "POLLINGPLA": "Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD",
-        "POLLING_DI": "GK",
+        "POLLING_DI": "GJ",
         "UPRN": "100050717135",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.281229856973136, 53.485122224401756], \"type\": \"Point\"}, \"id\": 951, \"properties\": {\"ADDRESS\": \"Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD\", \"OBJECTID\": 951, \"POLLINGPLA\": \"Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD\", \"POLLING_DI\": \"GK\", \"UPRN\": \"100050717135\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.281229856973136, 53.485122224401756], \"type\": \"Point\"}, \"id\": 951, \"properties\": {\"ADDRESS\": \"Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD\", \"OBJECTID\": 951, \"POLLINGPLA\": \"Portable Unit, Manor Farm Public House Car Park, Denaby Lane, DN124LD\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"100050717135\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Community Centre, Harrogate Drive, DN124NA",
         "OBJECTID": 952,
         "POLLINGPLA": "Community Centre, Harrogate Drive, DN124NA",
-        "POLLING_DI": "GI",
+        "POLLING_DI": "GH",
         "UPRN": "100051963369",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2566617639326092, 53.48619444906128], \"type\": \"Point\"}, \"id\": 952, \"properties\": {\"ADDRESS\": \"Community Centre, Harrogate Drive, DN124NA\", \"OBJECTID\": 952, \"POLLINGPLA\": \"Community Centre, Harrogate Drive, DN124NA\", \"POLLING_DI\": \"GI\", \"UPRN\": \"100051963369\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2566617639326092, 53.48619444906128], \"type\": \"Point\"}, \"id\": 952, \"properties\": {\"ADDRESS\": \"Community Centre, Harrogate Drive, DN124NA\", \"OBJECTID\": 952, \"POLLINGPLA\": \"Community Centre, Harrogate Drive, DN124NA\", \"POLLING_DI\": \"GH\", \"UPRN\": \"100051963369\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Community Centre, Reresby Walk DN12 4UQ",
         "OBJECTID": 953,
         "POLLINGPLA": "Community Centre, Reresby Walk DN12 4UQ",
-        "POLLING_DI": "GJ",
+        "POLLING_DI": "GI",
         "UPRN": "010006629438",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.251588305145631, 53.4906421040815], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Community Centre, Reresby Walk DN12 4UQ\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Community Centre, Reresby Walk DN12 4UQ\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"010006629438\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.251588305145631, 53.4906421040815], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Community Centre, Reresby Walk DN12 4UQ\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Community Centre, Reresby Walk DN12 4UQ\", \"POLLING_DI\": \"GI\", \"UPRN\": \"010006629438\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Sykehouse Village Hall, Broad Lane, DN149AS",
@@ -520,14 +500,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0660998399982275, 53.552417001864455], \"type\": \"Point\"}, \"id\": 971, \"properties\": {\"ADDRESS\": \"Edenthorpe Community Centre, Cedric Road, DN3 2HZ\", \"OBJECTID\": 971, \"POLLINGPLA\": \"Edenthorpe Community Centre, Cedric Road, DN3 2HZ\", \"POLLING_DI\": \"UC\", \"UPRN\": \"100051973233\", \"WARD\": \"Edenthorpe and Kirk Sandall Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, The Church of the Good Shepherd, Church Balk, DN3 2PP",
+        "ADDRESS": "Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT",
         "OBJECTID": 972,
-        "POLLINGPLA": "Portable Unit, The Church of the Good Shepherd, Church Balk, DN3 2PP",
+        "POLLINGPLA": "Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT",
         "POLLING_DI": "UB",
         "UPRN": "100051973234",
         "WARD": "Edenthorpe and Kirk Sandall Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.071383486262602, 53.55630264501867], \"type\": \"Point\"}, \"id\": 972, \"properties\": {\"ADDRESS\": \"Portable Unit, The Church of the Good Shepherd, Church Balk, DN3 2PP\", \"OBJECTID\": 972, \"POLLINGPLA\": \"Portable Unit, The Church of the Good Shepherd, Church Balk, DN3 2PP\", \"POLLING_DI\": \"UB\", \"UPRN\": \"100051973234\", \"WARD\": \"Edenthorpe and Kirk Sandall Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.071383486262602, 53.55630264501867], \"type\": \"Point\"}, \"id\": 972, \"properties\": {\"ADDRESS\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"OBJECTID\": 972, \"POLLINGPLA\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"POLLING_DI\": \"UB\", \"UPRN\": \"100051973234\", \"WARD\": \"Edenthorpe and Kirk Sandall Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Armthorpe Community Centre, Welfare Park, Church Street, DN3 3AG",
@@ -753,11 +733,11 @@
         "ADDRESS": "Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA",
         "OBJECTID": 995,
         "POLLINGPLA": "Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA",
-        "POLLING_DI": "BD",
+        "POLLING_DI": "BC",
         "UPRN": "010006572995",
         "WARD": "Balby South Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1484831075119866, 53.50114395135154], \"type\": \"Point\"}, \"id\": 995, \"properties\": {\"ADDRESS\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"OBJECTID\": 995, \"POLLINGPLA\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"POLLING_DI\": \"BD\", \"UPRN\": \"010006572995\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1484831075119866, 53.50114395135154], \"type\": \"Point\"}, \"id\": 995, \"properties\": {\"ADDRESS\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"OBJECTID\": 995, \"POLLINGPLA\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"POLLING_DI\": \"BC\", \"UPRN\": \"010006572995\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Carr Lodge Primary Academy, Grady Drive, Balby, Doncaster, DN4 8GA",
@@ -770,24 +750,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.137397717046683, 53.49380702305233], \"type\": \"Point\"}, \"id\": 996, \"properties\": {\"ADDRESS\": \"Carr Lodge Primary Academy, Grady Drive, Balby, Doncaster, DN4 8GA\", \"OBJECTID\": 996, \"POLLINGPLA\": \"Carr Lodge Primary Academy, Grady Drive, Balby, Doncaster, DN4 8GA\", \"POLLING_DI\": \"IA\", \"UPRN\": \"010006709541\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Mallard Primary School, Cedar Road, DN4 9HU",
+        "ADDRESS": "St Peters Church Hall, Warmsworth, Balby, Doncaster, DN4 0TW",
         "OBJECTID": 997,
-        "POLLINGPLA": "Mallard Primary School, Cedar Road, DN4 9HU",
+        "POLLINGPLA": "St Peters Church Hall, Warmsworth, Balby, Doncaster, DN4 0TW",
         "POLLING_DI": "BA",
-        "UPRN": "100052206991",
+        "UPRN": "010006626208",
         "WARD": "Balby South Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1636575613116977, 53.4986226333542], \"type\": \"Point\"}, \"id\": 997, \"properties\": {\"ADDRESS\": \"Mallard Primary School, Cedar Road, DN4 9HU\", \"OBJECTID\": 997, \"POLLINGPLA\": \"Mallard Primary School, Cedar Road, DN4 9HU\", \"POLLING_DI\": \"BA\", \"UPRN\": \"100052206991\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Mallard Primary School, Cedar Road, DN4 9HU",
-        "OBJECTID": 998,
-        "POLLINGPLA": "Mallard Primary School, Cedar Road, DN4 9HU",
-        "POLLING_DI": "BB",
-        "UPRN": "100052206991",
-        "WARD": "Balby South Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1636575613116977, 53.4986226333542], \"type\": \"Point\"}, \"id\": 998, \"properties\": {\"ADDRESS\": \"Mallard Primary School, Cedar Road, DN4 9HU\", \"OBJECTID\": 998, \"POLLINGPLA\": \"Mallard Primary School, Cedar Road, DN4 9HU\", \"POLLING_DI\": \"BB\", \"UPRN\": \"100052206991\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1675553843197475, 53.50000068499527], \"type\": \"Point\"}, \"id\": 997, \"properties\": {\"ADDRESS\": \"St Peters Church Hall, Warmsworth, Balby, Doncaster, DN4 0TW\", \"OBJECTID\": 997, \"POLLINGPLA\": \"St Peters Church Hall, Warmsworth, Balby, Doncaster, DN4 0TW\", \"POLLING_DI\": \"BA\", \"UPRN\": \"010006626208\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Warmsworth Community Centre, Low Road West, DN4 9LE",
@@ -813,11 +783,11 @@
         "ADDRESS": "Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD",
         "OBJECTID": 1001,
         "POLLINGPLA": "Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD",
-        "POLLING_DI": "BC",
+        "POLLING_DI": "BB",
         "UPRN": "100051981057",
         "WARD": "Balby South Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607628414733453, 53.497874267169784], \"type\": \"Point\"}, \"id\": 1001, \"properties\": {\"ADDRESS\": \"Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD\", \"OBJECTID\": 1001, \"POLLINGPLA\": \"Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD\", \"POLLING_DI\": \"BC\", \"UPRN\": \"100051981057\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607628414733453, 53.497874267169784], \"type\": \"Point\"}, \"id\": 1001, \"properties\": {\"ADDRESS\": \"Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD\", \"OBJECTID\": 1001, \"POLLINGPLA\": \"Westbourne Gardens Communal Hall, Westbourne Gardens, Off Springwell Lane, DN4 9SD\", \"POLLING_DI\": \"BB\", \"UPRN\": \"100051981057\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Bentley Methodist Church Hall, Chapel Street, DN5 0DE",
@@ -873,31 +843,31 @@
         "ADDRESS": "St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU",
         "OBJECTID": 1007,
         "POLLINGPLA": "St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU",
-        "POLLING_DI": "TJ",
+        "POLLING_DI": "TI",
         "UPRN": "010006617577",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2251017546945886, 53.542164150272114], \"type\": \"Point\"}, \"id\": 1007, \"properties\": {\"ADDRESS\": \"St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU\", \"OBJECTID\": 1007, \"POLLINGPLA\": \"St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU\", \"POLLING_DI\": \"TJ\", \"UPRN\": \"010006617577\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2251017546945886, 53.542164150272114], \"type\": \"Point\"}, \"id\": 1007, \"properties\": {\"ADDRESS\": \"St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU\", \"OBJECTID\": 1007, \"POLLINGPLA\": \"St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU\", \"POLLING_DI\": \"TI\", \"UPRN\": \"010006617577\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Hickleton Village Social Club, Castle Hill Lane, DN5 7BG",
         "OBJECTID": 1008,
         "POLLINGPLA": "Hickleton Village Social Club, Castle Hill Lane, DN5 7BG",
-        "POLLING_DI": "TG",
+        "POLLING_DI": "TF",
         "UPRN": "100050710351",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2749916523619815, 53.54236258003885], \"type\": \"Point\"}, \"id\": 1008, \"properties\": {\"ADDRESS\": \"Hickleton Village Social Club, Castle Hill Lane, DN5 7BG\", \"OBJECTID\": 1008, \"POLLINGPLA\": \"Hickleton Village Social Club, Castle Hill Lane, DN5 7BG\", \"POLLING_DI\": \"TG\", \"UPRN\": \"100050710351\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2749916523619815, 53.54236258003885], \"type\": \"Point\"}, \"id\": 1008, \"properties\": {\"ADDRESS\": \"Hickleton Village Social Club, Castle Hill Lane, DN5 7BG\", \"OBJECTID\": 1008, \"POLLINGPLA\": \"Hickleton Village Social Club, Castle Hill Lane, DN5 7BG\", \"POLLING_DI\": \"TF\", \"UPRN\": \"100050710351\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "All Saints School, Hooton Pagnell, DN5 7BT",
         "OBJECTID": 1009,
         "POLLINGPLA": "All Saints School, Hooton Pagnell, DN5 7BT",
-        "POLLING_DI": "TI",
+        "POLLING_DI": "TH",
         "UPRN": "010006604126",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2692533704743176, 53.56815802331318], \"type\": \"Point\"}, \"id\": 1009, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1009, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TI\", \"UPRN\": \"010006604126\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2692533704743176, 53.56815802331318], \"type\": \"Point\"}, \"id\": 1009, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1009, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TH\", \"UPRN\": \"010006604126\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Clayton Village Hall, Churchfield Road, DN5 7DH",
@@ -923,61 +893,61 @@
         "ADDRESS": "St Marys Church Stable Block, Main Street, DN5 7RH",
         "OBJECTID": 1012,
         "POLLINGPLA": "St Marys Church Stable Block, Main Street, DN5 7RH",
-        "POLLING_DI": "TM",
+        "POLLING_DI": "TL",
         "UPRN": "010006617584",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1892749682047952, 53.511805661019075], \"type\": \"Point\"}, \"id\": 1012, \"properties\": {\"ADDRESS\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"OBJECTID\": 1012, \"POLLINGPLA\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"POLLING_DI\": \"TM\", \"UPRN\": \"010006617584\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1892749682047952, 53.511805661019075], \"type\": \"Point\"}, \"id\": 1012, \"properties\": {\"ADDRESS\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"OBJECTID\": 1012, \"POLLINGPLA\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"POLLING_DI\": \"TL\", \"UPRN\": \"010006617584\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Marys Church Stable Block, Main Street, DN5 7RH",
         "OBJECTID": 1013,
         "POLLINGPLA": "St Marys Church Stable Block, Main Street, DN5 7RH",
-        "POLLING_DI": "TN",
+        "POLLING_DI": "TM",
         "UPRN": "010006617584",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1892749682047952, 53.511805661019075], \"type\": \"Point\"}, \"id\": 1013, \"properties\": {\"ADDRESS\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"OBJECTID\": 1013, \"POLLINGPLA\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"POLLING_DI\": \"TN\", \"UPRN\": \"010006617584\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1892749682047952, 53.511805661019075], \"type\": \"Point\"}, \"id\": 1013, \"properties\": {\"ADDRESS\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"OBJECTID\": 1013, \"POLLINGPLA\": \"St Marys Church Stable Block, Main Street, DN5 7RH\", \"POLLING_DI\": \"TM\", \"UPRN\": \"010006617584\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
         "OBJECTID": 1014,
         "POLLINGPLA": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
-        "POLLING_DI": "TO",
+        "POLLING_DI": "TN",
         "UPRN": "100051982462",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607416231616703, 53.52288420963421], \"type\": \"Point\"}, \"id\": 1014, \"properties\": {\"ADDRESS\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"OBJECTID\": 1014, \"POLLINGPLA\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"POLLING_DI\": \"TO\", \"UPRN\": \"100051982462\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607416231616703, 53.52288420963421], \"type\": \"Point\"}, \"id\": 1014, \"properties\": {\"ADDRESS\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"OBJECTID\": 1014, \"POLLINGPLA\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"POLLING_DI\": \"TN\", \"UPRN\": \"100051982462\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Cadeby Inn Public House, Main Street, DN5 7SW",
         "OBJECTID": 1015,
         "POLLINGPLA": "The Cadeby Inn Public House, Main Street, DN5 7SW",
-        "POLLING_DI": "TL",
+        "POLLING_DI": "TK",
         "UPRN": "100050747635",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2236579549466606, 53.49853287311906], \"type\": \"Point\"}, \"id\": 1015, \"properties\": {\"ADDRESS\": \"The Cadeby Inn Public House, Main Street, DN5 7SW\", \"OBJECTID\": 1015, \"POLLINGPLA\": \"The Cadeby Inn Public House, Main Street, DN5 7SW\", \"POLLING_DI\": \"TL\", \"UPRN\": \"100050747635\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2236579549466606, 53.49853287311906], \"type\": \"Point\"}, \"id\": 1015, \"properties\": {\"ADDRESS\": \"The Cadeby Inn Public House, Main Street, DN5 7SW\", \"OBJECTID\": 1015, \"POLLINGPLA\": \"The Cadeby Inn Public House, Main Street, DN5 7SW\", \"POLLING_DI\": \"TK\", \"UPRN\": \"100050747635\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St James' Church, High Melton, Doncaster, DN5 7SZ",
         "OBJECTID": 1016,
         "POLLINGPLA": "St James' Church, High Melton, Doncaster, DN5 7SZ",
-        "POLLING_DI": "TH",
+        "POLLING_DI": "TG",
         "UPRN": "010006626842",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2337275523275728, 53.51050370906586], \"type\": \"Point\"}, \"id\": 1016, \"properties\": {\"ADDRESS\": \"St James' Church, High Melton, Doncaster, DN5 7SZ\", \"OBJECTID\": 1016, \"POLLINGPLA\": \"St James' Church, High Melton, Doncaster, DN5 7SZ\", \"POLLING_DI\": \"TH\", \"UPRN\": \"010006626842\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2337275523275728, 53.51050370906586], \"type\": \"Point\"}, \"id\": 1016, \"properties\": {\"ADDRESS\": \"St James' Church, High Melton, Doncaster, DN5 7SZ\", \"OBJECTID\": 1016, \"POLLINGPLA\": \"St James' Church, High Melton, Doncaster, DN5 7SZ\", \"POLLING_DI\": \"TG\", \"UPRN\": \"010006626842\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "All Saints School, Hooton Pagnell, DN5 7BT",
         "OBJECTID": 1017,
         "POLLINGPLA": "All Saints School, Hooton Pagnell, DN5 7BT",
         "POLLING_DI": "TC",
-        "UPRN": "0100066041",
+        "UPRN": "010006604126",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.269150498394131, 53.568124077348536], \"type\": \"Point\"}, \"id\": 1017, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1017, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TC\", \"UPRN\": \"0100066041\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.269150498394131, 53.568124077348536], \"type\": \"Point\"}, \"id\": 1017, \"properties\": {\"ADDRESS\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"OBJECTID\": 1017, \"POLLINGPLA\": \"All Saints School, Hooton Pagnell, DN5 7BT\", \"POLLING_DI\": \"TC\", \"UPRN\": \"010006604126\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Royal British Legion, 51 Sprotbrough Road, DN5 8BN",
@@ -1003,11 +973,11 @@
         "ADDRESS": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
         "OBJECTID": 1020,
         "POLLINGPLA": "Goldsmith Community Centre, Sprotbrough Road, DN5 8BP",
-        "POLLING_DI": "TK",
+        "POLLING_DI": "TJ",
         "UPRN": "100051982462",
         "WARD": "Sprotbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607209685281976, 53.522898433056945], \"type\": \"Point\"}, \"id\": 1020, \"properties\": {\"ADDRESS\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"OBJECTID\": 1020, \"POLLINGPLA\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"POLLING_DI\": \"TK\", \"UPRN\": \"100051982462\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1607209685281976, 53.522898433056945], \"type\": \"Point\"}, \"id\": 1020, \"properties\": {\"ADDRESS\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"OBJECTID\": 1020, \"POLLINGPLA\": \"Goldsmith Community Centre, Sprotbrough Road, DN5 8BP\", \"POLLING_DI\": \"TJ\", \"UPRN\": \"100051982462\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Scawsby Community Centre, Barnsley Road, DN5 8QQ",
@@ -1231,16 +1201,6 @@
     },
     {
         "ADDRESS": "Church of St Michael & All Angels, Straight Lane, DN6 8LX",
-        "OBJECTID": 1043,
-        "POLLINGPLA": "Church of St Michael & All Angels, Straight Lane, DN6 8LX",
-        "POLLING_DI": "TF",
-        "UPRN": "100050780024",
-        "WARD": "Sprotbrough Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2281929496552269, 53.6023981671474], \"type\": \"Point\"}, \"id\": 1043, \"properties\": {\"ADDRESS\": \"Church of St Michael & All Angels, Straight Lane, DN6 8LX\", \"OBJECTID\": 1043, \"POLLINGPLA\": \"Church of St Michael & All Angels, Straight Lane, DN6 8LX\", \"POLLING_DI\": \"TF\", \"UPRN\": \"100050780024\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Church of St Michael & All Angels, Straight Lane, DN6 8LX",
         "OBJECTID": 1044,
         "POLLINGPLA": "Church of St Michael & All Angels, Straight Lane, DN6 8LX",
         "POLLING_DI": "TE",
@@ -1340,16 +1300,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.024803434115168, 53.56350314585027], \"type\": \"Point\"}, \"id\": 1053, \"properties\": {\"ADDRESS\": \"Dunsville Community Centre, High Street, DN7 4DH\", \"OBJECTID\": 1053, \"POLLINGPLA\": \"Dunsville Community Centre, High Street, DN7 4DH\", \"POLLING_DI\": \"LA\", \"UPRN\": \"100051984172\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL",
-        "OBJECTID": 1054,
-        "POLLINGPLA": "Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL",
-        "POLLING_DI": "LD",
-        "UPRN": "010006630971",
-        "WARD": "Hatfield Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0155614907694168, 53.57467163000262], \"type\": \"Point\"}, \"id\": 1054, \"properties\": {\"ADDRESS\": \"Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL\", \"OBJECTID\": 1054, \"POLLINGPLA\": \"Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL\", \"POLLING_DI\": \"LD\", \"UPRN\": \"010006630971\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Dunsville Primary School, Broadway, DN7 4HX",
         "OBJECTID": 1055,
         "POLLINGPLA": "Dunsville Primary School, Broadway, DN7 4HX",
@@ -1423,41 +1373,31 @@
         "ADDRESS": "Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD",
         "OBJECTID": 1062,
         "POLLINGPLA": "Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD",
-        "POLLING_DI": "LH",
+        "POLLING_DI": "LF",
         "UPRN": "100051984641",
         "WARD": "Hatfield Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9736371205721492, 53.543503688291025], \"type\": \"Point\"}, \"id\": 1062, \"properties\": {\"ADDRESS\": \"Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD\", \"OBJECTID\": 1062, \"POLLINGPLA\": \"Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD\", \"POLLING_DI\": \"LH\", \"UPRN\": \"100051984641\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9736371205721492, 53.543503688291025], \"type\": \"Point\"}, \"id\": 1062, \"properties\": {\"ADDRESS\": \"Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD\", \"OBJECTID\": 1062, \"POLLINGPLA\": \"Estate Office, Entrance via rear door, 36 Wellington Road, DN7 6DD\", \"POLLING_DI\": \"LF\", \"UPRN\": \"100051984641\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Methodist Church Hall, Main Street, DN7 6NE",
         "OBJECTID": 1063,
         "POLLINGPLA": "Methodist Church Hall, Main Street, DN7 6NE",
-        "POLLING_DI": "LF",
+        "POLLING_DI": "LE",
         "UPRN": "010006617618",
         "WARD": "Hatfield Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9805395238991838, 53.56959706318043], \"type\": \"Point\"}, \"id\": 1063, \"properties\": {\"ADDRESS\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"OBJECTID\": 1063, \"POLLINGPLA\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"POLLING_DI\": \"LF\", \"UPRN\": \"010006617618\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Methodist Church Hall, Main Street, DN7 6NE",
-        "OBJECTID": 1064,
-        "POLLINGPLA": "Methodist Church Hall, Main Street, DN7 6NE",
-        "POLLING_DI": "LG",
-        "UPRN": "010006617618",
-        "WARD": "Hatfield Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9805395238991838, 53.56959706318043], \"type\": \"Point\"}, \"id\": 1064, \"properties\": {\"ADDRESS\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"OBJECTID\": 1064, \"POLLINGPLA\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"POLLING_DI\": \"LG\", \"UPRN\": \"010006617618\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9805395238991838, 53.56959706318043], \"type\": \"Point\"}, \"id\": 1063, \"properties\": {\"ADDRESS\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"OBJECTID\": 1063, \"POLLINGPLA\": \"Methodist Church Hall, Main Street, DN7 6NE\", \"POLLING_DI\": \"LE\", \"UPRN\": \"010006617618\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL",
         "OBJECTID": 1065,
         "POLLINGPLA": "Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL",
-        "POLLING_DI": "LE",
+        "POLLING_DI": "LD",
         "UPRN": "100051984893",
         "WARD": "Hatfield Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0008038952088487, 53.57962928634564], \"type\": \"Point\"}, \"id\": 1065, \"properties\": {\"ADDRESS\": \"Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL\", \"OBJECTID\": 1065, \"POLLINGPLA\": \"Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL\", \"POLLING_DI\": \"LE\", \"UPRN\": \"100051984893\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0008038952088487, 53.57962928634564], \"type\": \"Point\"}, \"id\": 1065, \"properties\": {\"ADDRESS\": \"Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL\", \"OBJECTID\": 1065, \"POLLINGPLA\": \"Hatfield Town Council Offices, Cuckoo Lane, DN7 6TL\", \"POLLING_DI\": \"LD\", \"UPRN\": \"100051984893\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "King Edward Primary School, King Edward Road, DN8 4BY",
@@ -1478,16 +1418,6 @@
         "WARD": "Thorne and Moorends Ward",
         "council_id": "E08000017",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9480515110186563, 53.63304102170522], \"type\": \"Point\"}, \"id\": 1067, \"properties\": {\"ADDRESS\": \"Community Centre, Northgate, Moorends, Doncaster, DN8 4LX\", \"OBJECTID\": 1067, \"POLLINGPLA\": \"Community Centre, Northgate, Moorends, Doncaster, DN8 4LX\", \"POLLING_DI\": \"QG\", \"UPRN\": \"100052207685\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Community Centre, Northgate, Moorends, Doncaster, DN8 4LX",
-        "OBJECTID": 1068,
-        "POLLINGPLA": "Community Centre, Northgate, Moorends, Doncaster, DN8 4LX",
-        "POLLING_DI": "QH",
-        "UPRN": "100052207685",
-        "WARD": "Thorne and Moorends Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9480438615394164, 53.63304187853138], \"type\": \"Point\"}, \"id\": 1068, \"properties\": {\"ADDRESS\": \"Community Centre, Northgate, Moorends, Doncaster, DN8 4LX\", \"OBJECTID\": 1068, \"POLLINGPLA\": \"Community Centre, Northgate, Moorends, Doncaster, DN8 4LX\", \"POLLING_DI\": \"QH\", \"UPRN\": \"100052207685\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Thorne & Moorends Town Council Offices, Band Room, Browns Lane, DN8 5AF",
@@ -1700,16 +1630,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2016722499605674, 53.44506713002203], \"type\": \"Point\"}, \"id\": 1089, \"properties\": {\"ADDRESS\": \"The Masters House, High Street, S66 7AW\", \"OBJECTID\": 1089, \"POLLINGPLA\": \"The Masters House, High Street, S66 7AW\", \"POLLING_DI\": \"IB\", \"UPRN\": \"200002742819\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "The Masters House, High Street, S66 7AW",
-        "OBJECTID": 1090,
-        "POLLINGPLA": "The Masters House, High Street, S66 7AW",
-        "POLLING_DI": "IH",
-        "UPRN": "200002742819",
-        "WARD": "Tickhill and Wadworth Ward",
-        "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2016722499605674, 53.44506713002203], \"type\": \"Point\"}, \"id\": 1090, \"properties\": {\"ADDRESS\": \"The Masters House, High Street, S66 7AW\", \"OBJECTID\": 1090, \"POLLINGPLA\": \"The Masters House, High Street, S66 7AW\", \"POLLING_DI\": \"IH\", \"UPRN\": \"200002742819\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Stainton Village Hall, School Lane, S66 7QX",
         "OBJECTID": 1091,
         "POLLINGPLA": "Stainton Village Hall, School Lane, S66 7QX",
@@ -1723,10 +1643,10 @@
         "ADDRESS": "Clifton Church and Community Centre, Church Lane, S66 7RA",
         "OBJECTID": 1092,
         "POLLINGPLA": "Clifton Church and Community Centre, Church Lane, S66 7RA",
-        "POLLING_DI": "GN",
+        "POLLING_DI": "GM",
         "UPRN": "010006622818",
         "WARD": "Conisbrough Ward",
         "council_id": "E08000017",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2188288987968563, 53.46188154782495], \"type\": \"Point\"}, \"id\": 1092, \"properties\": {\"ADDRESS\": \"Clifton Church and Community Centre, Church Lane, S66 7RA\", \"OBJECTID\": 1092, \"POLLINGPLA\": \"Clifton Church and Community Centre, Church Lane, S66 7RA\", \"POLLING_DI\": \"GN\", \"UPRN\": \"010006622818\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2188288987968563, 53.46188154782495], \"type\": \"Point\"}, \"id\": 1092, \"properties\": {\"ADDRESS\": \"Clifton Church and Community Centre, Church Lane, S66 7RA\", \"OBJECTID\": 1092, \"POLLINGPLA\": \"Clifton Church and Community Centre, Church Lane, S66 7RA\", \"POLLING_DI\": \"GM\", \"UPRN\": \"010006622818\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     }
 ]
