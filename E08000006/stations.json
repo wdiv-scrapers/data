@@ -1818,5 +1818,18 @@
         "polling_district": "B9",
         "station_location": "St James' Church Parish Hall, Great Cheetham Street East, Salford, M7 4UH",
         "ward": "Broughton"
+    },
+    {
+        "council_id": "E08000006",
+        "easting": 376501,
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.35566039, 53.49290908], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 140, \"properties\": {\"easting\": 376501, \"id\": 141, \"latitude_wgs_84\": 53.49290905382651, \"longitude_wgs_84\": -2.355660387990278, \"northing\": 399637, \"polling_district\": \"E9\", \"station_location\": \"Unitarian Church Hall, Monton Green, Eccles, M30 9LL\", \"ward\": \"Eccles\"}, \"type\": \"Feature\"}",
+        "id": 141,
+        "latitude_wgs_84": 53.49290905382651,
+        "longitude_wgs_84": -2.355660387990278,
+        "northing": 399637,
+        "pk": 140,
+        "polling_district": "E9",
+        "station_location": "Unitarian Church Hall, Monton Green, Eccles, M30 9LL",
+        "ward": "Eccles"
     }
 ]
