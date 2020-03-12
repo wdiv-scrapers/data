@@ -825,7 +825,7 @@
         "pk": 55
     },
     {
-        "Address": "Downsview Community Primary School, Beech Avenue, Swanley, Kent, BR8 8AU",
+        "Address": "Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN",
         "AreaCode": "CK",
         "CustodianCode": 2245,
         "Easting": 552178.9998,
@@ -833,10 +833,10 @@
         "OBJECTID": 56,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Christ Church",
-        "Postcode": "BR8 8AU",
-        "UPRN": "100062276972",
+        "Postcode": "BR8 8AN",
+        "UPRN": "010013772935",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.1876775437609652, 51.39488328069175], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Downsview Community Primary School, Beech Avenue, Swanley, Kent, BR8 8AU\", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 552178.9998, \"Northing\": 168531.1033, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AU\", \"UPRN\": \"100062276972\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.18282122855011557, 51.39390205073293], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN \", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 552178.9998, \"Northing\": 168531.1033, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AN\", \"UPRN\": \"010013772935\"}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
