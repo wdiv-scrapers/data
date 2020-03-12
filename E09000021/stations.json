@@ -73,21 +73,21 @@
     },
     {
         "ADDRESS": "United Reformed Church, 11 Eden Street, Kingston upon Thames, KT1 1HZ",
-        "CODE": "E",
+        "CODE": "E / EA",
         "GoogleFriendlyAddress": null,
         "NAME": "United Reformed Church",
         "OBJECTID": 732,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.3048006293445093, 51.409149806440396], \"type\": \"Point\"}, \"id\": 732, \"properties\": {\"ADDRESS\": \"United Reformed Church, 11 Eden Street, Kingston upon Thames, KT1 1HZ\", \"CODE\": \"E\", \"GoogleFriendlyAddress\": null, \"NAME\": \"United Reformed Church\", \"OBJECTID\": 732}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3048006293445093, 51.409149806440396], \"type\": \"Point\"}, \"id\": 732, \"properties\": {\"ADDRESS\": \"United Reformed Church, 11 Eden Street, Kingston upon Thames, KT1 1HZ\", \"CODE\": \"E / EA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"United Reformed Church\", \"OBJECTID\": 732}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Glenmore House, 6 The Crescent, Surbiton, KT6 4BN",
-        "CODE": "LA / EB",
+        "CODE": "LA",
         "GoogleFriendlyAddress": null,
         "NAME": "Glenmore House",
         "OBJECTID": 733,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.3051518973757958, 51.39513218381543], \"type\": \"Point\"}, \"id\": 733, \"properties\": {\"ADDRESS\": \"Glenmore House, 6 The Crescent, Surbiton, KT6 4BN\", \"CODE\": \"LA / EB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Glenmore House\", \"OBJECTID\": 733}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3051518973757958, 51.39513218381543], \"type\": \"Point\"}, \"id\": 733, \"properties\": {\"ADDRESS\": \"Glenmore House, 6 The Crescent, Surbiton, KT6 4BN\", \"CODE\": \"LA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Glenmore House\", \"OBJECTID\": 733}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Devon Way Centre, Devon Way, Chessington, KT9 2RJ",
@@ -388,12 +388,12 @@
     },
     {
         "ADDRESS": "St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS",
-        "CODE": "LB / EA",
+        "CODE": "LB",
         "GoogleFriendlyAddress": null,
         "NAME": "St Mark's Church",
         "OBJECTID": 767,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.3005082620447646, 51.39520648736305], \"type\": \"Point\"}, \"id\": 767, \"properties\": {\"ADDRESS\": \"St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS\", \"CODE\": \"LB / EA  \", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Mark's Church\", \"OBJECTID\": 767}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3005082620447646, 51.39520648736305], \"type\": \"Point\"}, \"id\": 767, \"properties\": {\"ADDRESS\": \"St Mark's Church, St Mark's Hill, Surbiton, KT6 4LS\", \"CODE\": \"LB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Mark's Church\", \"OBJECTID\": 767}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "YMCA Hawker Centre, Lower Ham Road, Kingston upon Thames, KT2 5BH",
@@ -448,5 +448,14 @@
         "OBJECTID": 773,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2974786866187817, 51.41665668711083], \"type\": \"Point\"}, \"id\": 773, \"properties\": {\"ADDRESS\": \"Swinnerton Hall, St Luke's Church, Gibbon Road, Kingston upon Thames, KT2 6AB\", \"CODE\": \"T\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Swinnerton Hall\", \"OBJECTID\": 773}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Raphael's Catholic Church Hall, Portsmouth Road, Kingston upon Thames, KT1 2NA",
+        "CODE": "EB",
+        "GoogleFriendlyAddress": null,
+        "NAME": "St Raphael's Catholic Church Hall",
+        "OBJECTID": 774,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.307474453065327, 51.401948039551485], \"type\": \"Point\"}, \"id\": 774, \"properties\": {\"ADDRESS\": \"St Raphael's Catholic Church Hall, Portsmouth Road, Kingston upon Thames, KT1 2NA\", \"CODE\": \"EB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Raphael's Catholic Church Hall\", \"OBJECTID\": 774}, \"type\": \"Feature\"}"
     }
 ]
