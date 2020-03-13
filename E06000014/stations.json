@@ -776,10 +776,10 @@
     {
         "OBJECTID_1": 1700,
         "POLLINGDIS": "HD",
-        "POLLINGSTA": "Archbishop Holgates School, A Church of England Academy, Hull Road, York. YO10 5ZA",
+        "POLLINGSTA": "The Black Bull Hotel, Hull Road, York, YO10 3LF",
         "WARD": "Hull Road",
         "council_id": "E06000014",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0413147190334224, 53.95259036823479], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1700, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"Archbishop Holgates School, A Church of England Academy, Hull Road, York. YO10 5ZA \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.043220579412543, 53.95281958737696], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1700, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"The Black Bull Hotel, Hull Road, York, YO10 3LF\\r\\n\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
         "pk": 1700
     },
     {
