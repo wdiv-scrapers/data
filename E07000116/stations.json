@@ -8,7 +8,7 @@
         "Polling_le": "O",
         "Ward": "Benenden and Cranbrook",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5822517647195881, 51.06604879123402], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Street Benenden Cranbrook Kent TN17 4DE\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 1, \"Polling_Di\": \"Benenden\", \"Polling_le\": \"O\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.582251764719588, 51.06604879123402], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Street Benenden Cranbrook Kent TN17 4DE\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 1, \"Polling_Di\": \"Benenden\", \"Polling_le\": \"O\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -20,7 +20,7 @@
         "Polling_le": "Q",
         "Ward": "Benenden and Cranbrook",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5727979410767576, 51.05667574402388], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pavilion Iden Green Recreation Ground Coldharbour Road Benenden Cranbrook Kent TN17 4HB\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 2, \"Polling_Di\": \"Benenden South\", \"Polling_le\": \"Q\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.572797941076758, 51.05667574402388], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pavilion Iden Green Recreation Ground Coldharbour Road Benenden Cranbrook Kent TN17 4HB\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 2, \"Polling_Di\": \"Benenden South\", \"Polling_le\": \"Q\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
         "pk": 2
     },
     {
@@ -32,7 +32,7 @@
         "Polling_le": "R",
         "Ward": "Benenden and Cranbrook",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5362750769339794, 51.09685346491478], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Vestry Hall Stone Street Cranbrook Kent TN17 3HA\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 3, \"Polling_Di\": \"Cranbrook\", \"Polling_le\": \"R\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.536275076933979, 51.09685346491478], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Vestry Hall Stone Street Cranbrook Kent TN17 3HA\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 3, \"Polling_Di\": \"Cranbrook\", \"Polling_le\": \"R\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
         "pk": 3
     },
     {
@@ -44,7 +44,7 @@
         "Polling_le": "S",
         "Ward": "Frittenden and Sissinghurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5631975717759536, 51.109019539020466], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sissinghurst Parish Hall The Street Sissinghurst Cranbrook Kent TN17 2JG\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 4, \"Polling_Di\": \"Sissinghurst\", \"Polling_le\": \"S\", \"Ward\": \"Frittenden and Sissinghurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.563197571775954, 51.109019539020466], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sissinghurst Parish Hall The Street Sissinghurst Cranbrook Kent TN17 2JG\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 4, \"Polling_Di\": \"Sissinghurst\", \"Polling_le\": \"S\", \"Ward\": \"Frittenden and Sissinghurst\"}, \"type\": \"Feature\"}",
         "pk": 4
     },
     {
@@ -56,7 +56,7 @@
         "Polling_le": "T",
         "Ward": "Frittenden and Sissinghurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5901254074617766, 51.13802171113791], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Frittenden Memorial Hall Cranbrook Road Frittenden Cranbrook Kent TN17 2DD\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 5, \"Polling_Di\": \"Frittenden\", \"Polling_le\": \"T\", \"Ward\": \"Frittenden and Sissinghurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.590125407461777, 51.13802171113791], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Frittenden Memorial Hall Cranbrook Road Frittenden Cranbrook Kent TN17 2DD\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 5, \"Polling_Di\": \"Frittenden\", \"Polling_le\": \"T\", \"Ward\": \"Frittenden and Sissinghurst\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -68,7 +68,7 @@
         "Polling_le": "YY",
         "Ward": "Hawkhurst and Sandhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5652634869733186, 51.025742714414385], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Back Road Sandhurst Cranbrook Kent TN18 5JS\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 6, \"Polling_Di\": \"Sandhurst\", \"Polling_le\": \"YY\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.565263486973319, 51.025742714414385], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Back Road Sandhurst Cranbrook Kent TN18 5JS\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 6, \"Polling_Di\": \"Sandhurst\", \"Polling_le\": \"YY\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
         "pk": 6
     },
     {
@@ -80,7 +80,7 @@
         "Polling_le": "Y",
         "Ward": "Hawkhurst and Sandhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5051953939792799, 51.03943853492118], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sports Pavillion King George V Playing Fields The Moor Hawkhurst Cranbrook Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 7, \"Polling_Di\": \"Hawkhurst Moor\", \"Polling_le\": \"Y\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.50519539397928, 51.03943853492118], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sports Pavillion King George V Playing Fields The Moor Hawkhurst Cranbrook Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 7, \"Polling_Di\": \"Hawkhurst Moor\", \"Polling_le\": \"Y\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
         "pk": 7
     },
     {
@@ -92,7 +92,7 @@
         "Polling_le": "V",
         "Ward": "Goudhurst and Lamberhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.45872996020975604, 51.11222683204377], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Goudhurst Village Hall Balcombes Hill Goudhurst Cranbrook Kent TN17 1AT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 8, \"Polling_Di\": \"Goudhurst\", \"Polling_le\": \"V\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.458729960209756, 51.11222683204377], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Goudhurst Village Hall Balcombes Hill Goudhurst Cranbrook Kent TN17 1AT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 8, \"Polling_Di\": \"Goudhurst\", \"Polling_le\": \"V\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
         "pk": 8
     },
     {
@@ -104,7 +104,7 @@
         "Polling_le": "U",
         "Ward": "Goudhurst and Lamberhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.45872996020975604, 51.11222683204377], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Goudhurst Village Hall Balcombes Hill Goudhurst Cranbrook Kent TN17 1AT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 9, \"Polling_Di\": \"Curtisden Green\", \"Polling_le\": \"U\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.458729960209756, 51.11222683204377], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Goudhurst Village Hall Balcombes Hill Goudhurst Cranbrook Kent TN17 1AT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 9, \"Polling_Di\": \"Curtisden Green\", \"Polling_le\": \"U\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
         "pk": 9
     },
     {
@@ -128,7 +128,7 @@
         "Polling_le": "W",
         "Ward": "Goudhurst and Lamberhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4254685021972557, 51.089920341007804], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kilndown Village Hall Church Road Kilndown Cranbrook Kent TN17 2RZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 11, \"Polling_Di\": \"Kilndown\", \"Polling_le\": \"W\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.425468502197256, 51.089920341007804], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kilndown Village Hall Church Road Kilndown Cranbrook Kent TN17 2RZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 11, \"Polling_Di\": \"Kilndown\", \"Polling_le\": \"W\", \"Ward\": \"Goudhurst and Lamberhurst\"}, \"type\": \"Feature\"}",
         "pk": 11
     },
     {
@@ -140,7 +140,7 @@
         "Polling_le": "K",
         "Ward": "Brenchley and Horsmonden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.4310547116977562, 51.14023609268286], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Back Lane Horsmonden Tonbridge Kent TN12 8NJ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 12, \"Polling_Di\": \"Horsmonden\", \"Polling_le\": \"K\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.431054711697756, 51.14023609268286], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Back Lane Horsmonden Tonbridge Kent TN12 8NJ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 12, \"Polling_Di\": \"Horsmonden\", \"Polling_le\": \"K\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
         "pk": 12
     },
     {
@@ -152,7 +152,7 @@
         "Polling_le": "G",
         "Ward": "Brenchley and Horsmonden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3942687895243097, 51.151553718200944], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Brenchley Memorial Hall Brenchley Road Brenchley Tonbridge Kent TN12 7NX\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 13, \"Polling_Di\": \"Brenchley\", \"Polling_le\": \"G\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.39426878952431, 51.151553718200944], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Brenchley Memorial Hall Brenchley Road Brenchley Tonbridge Kent TN12 7NX\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 13, \"Polling_Di\": \"Brenchley\", \"Polling_le\": \"G\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
         "pk": 13
     },
     {
@@ -164,7 +164,7 @@
         "Polling_le": "H",
         "Ward": "Brenchley and Horsmonden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.36843985944636903, 51.14985683146591], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Matfield Village Hall The Green Matfield Tonbridge Kent TN12 7JX\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 14, \"Polling_Di\": \"Matfield\", \"Polling_le\": \"H\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.368439859446369, 51.14985683146591], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Matfield Village Hall The Green Matfield Tonbridge Kent TN12 7JX\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 14, \"Polling_Di\": \"Matfield\", \"Polling_le\": \"H\", \"Ward\": \"Brenchley and Horsmonden\"}, \"type\": \"Feature\"}",
         "pk": 14
     },
     {
@@ -188,7 +188,7 @@
         "Polling_le": "B",
         "Ward": "Southborough and High Brooms",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.25451246655530485, 51.15642049694232], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Crundwell Road Southborough Royal Tunbridge Wells Kent TN4 0LL\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 16, \"Polling_Di\": \"Southborough West\", \"Polling_le\": \"B\", \"Ward\": \"Southborough and High Brooms\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.254512466555305, 51.15642049694232], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Crundwell Road Southborough Royal Tunbridge Wells Kent TN4 0LL\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 16, \"Polling_Di\": \"Southborough West\", \"Polling_le\": \"B\", \"Ward\": \"Southborough and High Brooms\"}, \"type\": \"Feature\"}",
         "pk": 16
     },
     {
@@ -200,7 +200,7 @@
         "Polling_le": "J",
         "Ward": "Capel",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3184062532135721, 51.18512174484905], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Arnold Cooke Hall, All Saints Church, Five Oak Green Road, Tudeley, Tonbridge, Kent TN11 0NZ.\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 17, \"Polling_Di\": \"Tudeley\", \"Polling_le\": \"J\", \"Ward\": \"Capel\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.318406253213572, 51.18512174484905], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Arnold Cooke Hall, All Saints Church, Five Oak Green Road, Tudeley, Tonbridge, Kent TN11 0NZ.\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 17, \"Polling_Di\": \"Tudeley\", \"Polling_le\": \"J\", \"Ward\": \"Capel\"}, \"type\": \"Feature\"}",
         "pk": 17
     },
     {
@@ -224,7 +224,7 @@
         "Polling_le": "NA",
         "Ward": "Pembury",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3280549991845241, 51.14750352091937], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pembury Free Church Romford Road Pembury Royal Tunbridge Wells Kent TN2 4HT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 19, \"Polling_Di\": \"Pembury Lower Green\", \"Polling_le\": \"NA\", \"Ward\": \"Pembury\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.328054999184524, 51.14750352091937], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pembury Free Church Romford Road Pembury Royal Tunbridge Wells Kent TN2 4HT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 19, \"Polling_Di\": \"Pembury Lower Green\", \"Polling_le\": \"NA\", \"Ward\": \"Pembury\"}, \"type\": \"Feature\"}",
         "pk": 19
     },
     {
@@ -236,7 +236,7 @@
         "Polling_le": "D",
         "Ward": "Speldhurst and Bidborough",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.23494419131740218, 51.16973493802249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Bidborough Ridge Bidborough Royal Tunbridge Wells Kent TN3 0XD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 20, \"Polling_Di\": \"Bidborough\", \"Polling_le\": \"D\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.234944191317402, 51.16973493802249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Bidborough Ridge Bidborough Royal Tunbridge Wells Kent TN3 0XD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 20, \"Polling_Di\": \"Bidborough\", \"Polling_le\": \"D\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
         "pk": 20
     },
     {
@@ -248,7 +248,7 @@
         "Polling_le": "E",
         "Ward": "Speldhurst and Bidborough",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.20530764760013923, 51.13533503263342], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Langton Green Village Hall Speldhurst Road Langton Green Royal Tunbridge Wells Kent TN3 0JJ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 21, \"Polling_Di\": \"Langton\", \"Polling_le\": \"E\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.205307647600139, 51.13533503263342], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Langton Green Village Hall Speldhurst Road Langton Green Royal Tunbridge Wells Kent TN3 0JJ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 21, \"Polling_Di\": \"Langton\", \"Polling_le\": \"E\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
         "pk": 21
     },
     {
@@ -260,7 +260,7 @@
         "Polling_le": "F",
         "Ward": "Speldhurst and Bidborough",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.21661315710247012, 51.15321214379597], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall St Marys Lane Speldhurst Royal Tunbridge Wells Kent TN3 0PR\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 22, \"Polling_Di\": \"Speldhurst\", \"Polling_le\": \"F\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.21661315710247, 51.15321214379597], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall St Marys Lane Speldhurst Royal Tunbridge Wells Kent TN3 0PR\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 22, \"Polling_Di\": \"Speldhurst\", \"Polling_le\": \"F\", \"Ward\": \"Speldhurst and Bidborough\"}, \"type\": \"Feature\"}",
         "pk": 22
     },
     {
@@ -284,7 +284,7 @@
         "Polling_le": "AA",
         "Ward": "St James",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2698234272649334, 51.138668605195285], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Barnabas Church Hall Stanley Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 24, \"Polling_Di\": \"Camden\", \"Polling_le\": \"AA\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.269823427264933, 51.138668605195285], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Barnabas Church Hall Stanley Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 24, \"Polling_Di\": \"Camden\", \"Polling_le\": \"AA\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
         "pk": 24
     },
     {
@@ -296,7 +296,7 @@
         "Polling_le": "BB",
         "Ward": "St James",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2726913175351101, 51.1425563875969], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bowling Pavilion Grosvenor Recreation Ground Auckland Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 25, \"Polling_Di\": \"St James\", \"Polling_le\": \"BB\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.27269131753511, 51.1425563875969], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bowling Pavilion Grosvenor Recreation Ground Auckland Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 25, \"Polling_Di\": \"St James\", \"Polling_le\": \"BB\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
@@ -320,7 +320,7 @@
         "Polling_le": "EE",
         "Ward": "Sherwood",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2880434732909123, 51.14558363306337], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"TN2 Lakeside Royal Tunbridge Wells Kent TN2 3LZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 27, \"Polling_Di\": \"Sherwood North\", \"Polling_le\": \"EE\", \"Ward\": \"Sherwood\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.288043473290912, 51.14558363306337], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"TN2 Lakeside Royal Tunbridge Wells Kent TN2 3LZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 27, \"Polling_Di\": \"Sherwood North\", \"Polling_le\": \"EE\", \"Ward\": \"Sherwood\"}, \"type\": \"Feature\"}",
         "pk": 27
     },
     {
@@ -332,7 +332,7 @@
         "Polling_le": "GG",
         "Ward": "Park",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2734944056180077, 51.13570522671738], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St James Church Hall St James Road Royal Tunbridge Wells Kent TN1 2HD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 28, \"Polling_Di\": \"Town Hall\", \"Polling_le\": \"GG\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.273494405618008, 51.13570522671738], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St James Church Hall St James Road Royal Tunbridge Wells Kent TN1 2HD\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 28, \"Polling_Di\": \"Town Hall\", \"Polling_le\": \"GG\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": 28
     },
     {
@@ -344,7 +344,7 @@
         "Polling_le": "HH",
         "Ward": "Park",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2737515313644379, 51.131565259092056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 29, \"Polling_Di\": \"St Peters\", \"Polling_le\": \"HH\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.273751531364438, 51.131565259092056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 29, \"Polling_Di\": \"St Peters\", \"Polling_le\": \"HH\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": 29
     },
     {
@@ -356,7 +356,7 @@
         "Polling_le": "II",
         "Ward": "Park",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.28102612844687175, 51.12632426519127], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Hawkenbury United Reformed Church 23 Forest Road Royal Tunbridge Wells Kent TN2 5AL\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 30, \"Polling_Di\": \"Hawkenbury\", \"Polling_le\": \"II\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.281026128446872, 51.12632426519127], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Hawkenbury United Reformed Church 23 Forest Road Royal Tunbridge Wells Kent TN2 5AL\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 30, \"Polling_Di\": \"Hawkenbury\", \"Polling_le\": \"II\", \"Ward\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -368,7 +368,7 @@
         "Polling_le": "JJ",
         "Ward": "Pantiles and St Marks",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.26205159428725855, 51.1173867109834], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Mark's Hall Bayham Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 31, \"Polling_Di\": \"St Marks\", \"Polling_le\": \"JJ\", \"Ward\": \"Pantiles and St Marks\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.262051594287259, 51.1173867109834], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Mark's Hall Bayham Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 31, \"Polling_Di\": \"St Marks\", \"Polling_le\": \"JJ\", \"Ward\": \"Pantiles and St Marks\"}, \"type\": \"Feature\"}",
         "pk": 31
     },
     {
@@ -380,7 +380,7 @@
         "Polling_le": "KK",
         "Ward": "Pantiles and St Marks",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2701961552932724, 51.126975700924774], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Claremont County Primary School Banner Farm Road Royal Tunbridge Wells Kent TN2 5EB\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 32, \"Polling_Di\": \"Banner Farm\", \"Polling_le\": \"KK\", \"Ward\": \"Pantiles and St Marks\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.270196155293272, 51.126975700924774], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Claremont County Primary School Banner Farm Road Royal Tunbridge Wells Kent TN2 5EB\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 32, \"Polling_Di\": \"Banner Farm\", \"Polling_le\": \"KK\", \"Ward\": \"Pantiles and St Marks\"}, \"type\": \"Feature\"}",
         "pk": 32
     },
     {
@@ -392,7 +392,7 @@
         "Polling_le": "MM",
         "Ward": "Broadwater",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.24909785888318287, 51.121321695952226], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Number One Community Centre Showfields Road Royal Tunbridge Wells Kent TN2 5PR\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 33, \"Polling_Di\": \"Showfields\", \"Polling_le\": \"MM\", \"Ward\": \"Broadwater\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.249097858883183, 51.121321695952226], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Number One Community Centre Showfields Road Royal Tunbridge Wells Kent TN2 5PR\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 33, \"Polling_Di\": \"Showfields\", \"Polling_le\": \"MM\", \"Ward\": \"Broadwater\"}, \"type\": \"Feature\"}",
         "pk": 33
     },
     {
@@ -404,7 +404,7 @@
         "Polling_le": "NN",
         "Ward": "Broadwater",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.24165140672796384, 51.12041241334621], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marks C Of E Primary School Ramslye Road Royal Tunbridge Wells Kent TN4 8LN\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 34, \"Polling_Di\": \"Ramslye\", \"Polling_le\": \"NN\", \"Ward\": \"Broadwater\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.241651406727964, 51.12041241334621], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marks C Of E Primary School Ramslye Road Royal Tunbridge Wells Kent TN4 8LN\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells South\", \"OBJECTID\": 34, \"Polling_Di\": \"Ramslye\", \"Polling_le\": \"NN\", \"Ward\": \"Broadwater\"}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
@@ -416,7 +416,7 @@
         "Polling_le": "QQ",
         "Ward": "Culverden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2430667503033881, 51.139901186153416], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bishops Down County Primary School Rydal Drive Royal Tunbridge Wells Kent TN4 9SU\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 35, \"Polling_Di\": \"Bishops Down\", \"Polling_le\": \"QQ\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.243066750303388, 51.139901186153416], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bishops Down County Primary School Rydal Drive Royal Tunbridge Wells Kent TN4 9SU\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 35, \"Polling_Di\": \"Bishops Down\", \"Polling_le\": \"QQ\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -428,7 +428,7 @@
         "Polling_le": "RR",
         "Ward": "St Johns",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.25775910243442496, 51.14357540326122], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Bowling Pavilion Beltring Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 36, \"Polling_Di\": \"St Johns West\", \"Polling_le\": \"RR\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.257759102434425, 51.14357540326122], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Bowling Pavilion Beltring Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 36, \"Polling_Di\": \"St Johns West\", \"Polling_le\": \"RR\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
         "pk": 36
     },
     {
@@ -440,7 +440,7 @@
         "Polling_le": "SS",
         "Ward": "St Johns",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2612740359287738, 51.140023906651045], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall St Johns Road Royal Tunbridge Wells Kent TN4 9LG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 37, \"Polling_Di\": \"St Johns East\", \"Polling_le\": \"SS\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.261274035928774, 51.140023906651045], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall St Johns Road Royal Tunbridge Wells Kent TN4 9LG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 37, \"Polling_Di\": \"St Johns East\", \"Polling_le\": \"SS\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
         "pk": 37
     },
     {
@@ -452,7 +452,7 @@
         "Polling_le": "TT",
         "Ward": "St Johns",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.26860651057248236, 51.14470569334244], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Lukes Church Hall St Lukes Road Royal Tunbridge Wells Kent TN4 9JH\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 38, \"Polling_Di\": \"St Lukes\", \"Polling_le\": \"TT\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.268606510572482, 51.14470569334244], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Lukes Church Hall St Lukes Road Royal Tunbridge Wells Kent TN4 9JH\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 38, \"Polling_Di\": \"St Lukes\", \"Polling_le\": \"TT\", \"Ward\": \"St Johns\"}, \"type\": \"Feature\"}",
         "pk": 38
     },
     {
@@ -464,7 +464,7 @@
         "Polling_le": "FF",
         "Ward": "Sherwood",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2880434732909123, 51.14558363306337], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"TN2 Lakeside Royal Tunbridge Wells Kent TN2 3LZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 39, \"Polling_Di\": \"Sherwood South\", \"Polling_le\": \"FF\", \"Ward\": \"Sherwood\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.288043473290912, 51.14558363306337], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"TN2 Lakeside Royal Tunbridge Wells Kent TN2 3LZ\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 39, \"Polling_Di\": \"Sherwood South\", \"Polling_le\": \"FF\", \"Ward\": \"Sherwood\"}, \"type\": \"Feature\"}",
         "pk": 39
     },
     {
@@ -476,7 +476,7 @@
         "Polling_le": "WW",
         "Ward": "Culverden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2612740359287738, 51.140023906651045], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall St Johns Road Royal Tunbridge Wells Kent TN4 9LG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 40, \"Polling_Di\": \"Grosvenor\", \"Polling_le\": \"WW\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.261274035928774, 51.140023906651045], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall St Johns Road Royal Tunbridge Wells Kent TN4 9LG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 40, \"Polling_Di\": \"Grosvenor\", \"Polling_le\": \"WW\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
         "pk": 40
     },
     {
@@ -488,7 +488,7 @@
         "Polling_le": "P",
         "Ward": "Benenden and Cranbrook",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5822517647195881, 51.06604879123402], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Street Benenden Cranbrook Kent TN17 4DE\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 41, \"Polling_Di\": \"Benenden East\", \"Polling_le\": \"P\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.582251764719588, 51.06604879123402], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Street Benenden Cranbrook Kent TN17 4DE\", \"Constituen\": \"Maidstone and the Weald\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 41, \"Polling_Di\": \"Benenden East\", \"Polling_le\": \"P\", \"Ward\": \"Benenden and Cranbrook\"}, \"type\": \"Feature\"}",
         "pk": 41
     },
     {
@@ -500,7 +500,7 @@
         "Polling_le": "X",
         "Ward": "Hawkhurst and Sandhurst",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.5085517268757387, 51.04725612638634], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Royal British Legion High Street Hawkhurst Cranbrook Kent TN18 4AG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 42, \"Polling_Di\": \"Hawkhurst\", \"Polling_le\": \"X\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.508551726875739, 51.04725612638634], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Royal British Legion High Street Hawkhurst Cranbrook Kent TN18 4AG\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Cranbrook\", \"OBJECTID\": 42, \"Polling_Di\": \"Hawkhurst\", \"Polling_le\": \"X\", \"Ward\": \"Hawkhurst and Sandhurst\"}, \"type\": \"Feature\"}",
         "pk": 42
     },
     {
@@ -512,7 +512,7 @@
         "Polling_le": "VV",
         "Ward": "Culverden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2737515313644379, 51.131565259092056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 43, \"Polling_Di\": \"Holy Trinity\", \"Polling_le\": \"VV\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.273751531364438, 51.131565259092056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 43, \"Polling_Di\": \"Holy Trinity\", \"Polling_le\": \"VV\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
         "pk": 43
     },
     {
@@ -524,7 +524,7 @@
         "Polling_le": "UU",
         "Ward": "Culverden",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.25944028434501293, 51.138229459944355], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Headway, 3 Culverden Park, Tunbridge Wells, Kent, TN4 9QT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 44, \"Polling_Di\": \"Culverden\", \"Polling_le\": \"UU\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.259440284345013, 51.138229459944355], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Headway, 3 Culverden Park, Tunbridge Wells, Kent, TN4 9QT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 44, \"Polling_Di\": \"Culverden\", \"Polling_le\": \"UU\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
         "pk": 44
     },
     {
@@ -548,7 +548,7 @@
         "Polling_le": "M",
         "Ward": "Paddock Wood West",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.3852420453071938, 51.17646957965401], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Andrews Church Hall Maidstone Road Paddock Wood Tonbridge Kent TN12 6DY\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 46, \"Polling_Di\": \"Paddock Wood West\", \"Polling_le\": \"M\", \"Ward\": \"Paddock Wood West\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.385242045307194, 51.17646957965401], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Andrews Church Hall Maidstone Road Paddock Wood Tonbridge Kent TN12 6DY\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 46, \"Polling_Di\": \"Paddock Wood West\", \"Polling_le\": \"M\", \"Ward\": \"Paddock Wood West\"}, \"type\": \"Feature\"}",
         "pk": 46
     },
     {
@@ -560,7 +560,7 @@
         "Polling_le": "MA",
         "Ward": "Paddock Wood East",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.38577276791892834, 51.17923007456622], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Day Centre Dowding House Commercial Road Paddock Wood Tonbridge Kent TN12 6DP\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 47, \"Polling_Di\": \"Paddock Wood East\", \"Polling_le\": \"MA\", \"Ward\": \"Paddock Wood East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.385772767918928, 51.17923007456622], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Day Centre Dowding House Commercial Road Paddock Wood Tonbridge Kent TN12 6DP\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells Rural\", \"OBJECTID\": 47, \"Polling_Di\": \"Paddock Wood East\", \"Polling_le\": \"MA\", \"Ward\": \"Paddock Wood East\"}, \"type\": \"Feature\"}",
         "pk": 47
     },
     {
@@ -572,7 +572,7 @@
         "Polling_le": "C",
         "Ward": "Southborough North",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.25782103651017735, 51.16217281892182], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Thomas Church Hall Pennington Road Southborough Tunbridge Wells TN4 0SH\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 48, \"Polling_Di\": \"Southborough North\", \"Polling_le\": \"C\", \"Ward\": \"Southborough North\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.257821036510177, 51.16217281892182], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Thomas Church Hall Pennington Road Southborough Tunbridge Wells TN4 0SH\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells North\", \"OBJECTID\": 48, \"Polling_Di\": \"Southborough North\", \"Polling_le\": \"C\", \"Ward\": \"Southborough North\"}, \"type\": \"Feature\"}",
         "pk": 48
     },
     {
@@ -584,7 +584,7 @@
         "Polling_le": "PP",
         "Ward": "Rusthall",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2328827573183009, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 49, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.232882757318301, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 49, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
         "pk": 49
     },
     {
@@ -596,7 +596,7 @@
         "Polling_le": "OO",
         "Ward": "Rusthall",
         "council_id": "E07000116",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.2328827573183009, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 50, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.232882757318301, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 50, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
         "pk": 50
     }
 ]
