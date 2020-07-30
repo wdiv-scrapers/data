@@ -136,23 +136,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5988116265727066, 51.42134941590997], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"ACCESS_DESRIPTION\": \"Novers Lane Access\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Knowle\", \"LOCATION_NAME\": \"Greenfield E-Act Academy\", \"OBJECTID\": 8, \"PAO\": \"Greenfield Primary School\", \"POLLING_DISTRICT\": \"FWDF\", \"POSTCODE\": \"BS4 1QW\", \"SAON\": \" \", \"STREET\": \"Novers Lane\", \"UPRN\": 239367, \"UPRN_2\": \"000000239367\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "Brislington",
-        "LOCATION_NAME": "Bristol South of Performing Arts, White Hart Lodge",
-        "OBJECTID": 9,
-        "PAO": "Bristol South of Performing Arts (Formely White Hart Pub)",
-        "POLLING_DISTRICT": "BRWE",
-        "POSTCODE": "BS4 5BD",
-        "SAON": "",
-        "STREET": "Brislington Hill",
-        "UPRN": 137471,
-        "UPRN_2": "000000137471",
-        "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5478271650613338, 51.433296578168076], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"Bristol South of Performing Arts, White Hart Lodge\", \"OBJECTID\": 9, \"PAO\": \"Bristol South of Performing Arts (Formely White Hart Pub)\", \"POLLING_DISTRICT\": \"BRWE\", \"POSTCODE\": \"BS4 5BD\", \"SAON\": \" \", \"STREET\": \"Brislington Hill\", \"UPRN\": 137471, \"UPRN_2\": \"000000137471\"}, \"type\": \"Feature\"}"
-    },
-    {
         "ACCESS_DESRIPTION": "Rossell Road Entrance",
         "DUAL": "No",
         "DUAL_STN": "",
@@ -204,7 +187,7 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.6292850789828077, 51.47682909997803], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by STBE and STBF\", \"LOCALITY\": \"Stoke Bishop\", \"LOCATION_NAME\": \"Trinity College\", \"OBJECTID\": 12, \"PAO\": \"Trinity College\", \"POLLING_DISTRICT\": \"STBE\", \"POSTCODE\": \"BS9 1JP\", \"SAON\": \" \", \"STREET\": \"Stoke Hill\", \"UPRN\": 51366, \"UPRN_2\": \"000000051600\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": null,
+        "ACCESS_DESRIPTION": "Sandringham Road Entrance",
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Brislington",
@@ -218,7 +201,7 @@
         "UPRN": 302938,
         "UPRN_2": "000000302938",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5522661422055917, 51.44004508528717], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"St Cuthberts\", \"OBJECTID\": 13, \"PAO\": \"St Cuthberts\", \"POLLING_DISTRICT\": \"BRWB\", \"POSTCODE\": \"BS4 4HQ\", \"SAON\": \" \", \"STREET\": \"Sandy Park Road\", \"UPRN\": 302938, \"UPRN_2\": \"000000302938\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5522661422055917, 51.44004508528717], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"ACCESS_DESRIPTION\": \"Sandringham Road Entrance\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"St Cuthberts\", \"OBJECTID\": 13, \"PAO\": \"St Cuthberts\", \"POLLING_DISTRICT\": \"BRWB\", \"POSTCODE\": \"BS4 4HQ\", \"SAON\": \" \", \"STREET\": \"Sandy Park Road\", \"UPRN\": 302938, \"UPRN_2\": \"000000302938\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
@@ -273,12 +256,12 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by BREC and BREA",
         "LOCALITY": "St Annes",
-        "LOCATION_NAME": "St Anne's Park Children's Centre",
+        "LOCATION_NAME": "Kingfisher School",
         "OBJECTID": 17,
-        "PAO": "St Anne's Park Children's Centre",
+        "PAO": "Kingfisher School",
         "POLLING_DISTRICT": "BREC",
         "POSTCODE": "BS4 4BJ",
         "SAON": "",
@@ -286,7 +269,7 @@
         "UPRN": 111149,
         "UPRN_2": "000000111149",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5427113581335767, 51.44960075325671], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"St Anne's Park Children's Centre\", \"OBJECTID\": 17, \"PAO\": \"St Anne's Park Children's Centre\", \"POLLING_DISTRICT\": \"BREC\", \"POSTCODE\": \"BS4 4BJ\", \"SAON\": \" \", \"STREET\": \"Lichfield Road\", \"UPRN\": 111149, \"UPRN_2\": \"000000111149\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.542986832857353, 51.449705831163776], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREC and BREA\", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"Kingfisher School\", \"OBJECTID\": 17, \"PAO\": \"Kingfisher School\", \"POLLING_DISTRICT\": \"BREC\", \"POSTCODE\": \"BS4 4BJ\", \"SAON\": \" \", \"STREET\": \"Lichfield Road\", \"UPRN\": 111149, \"UPRN_2\": \"000000111149\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -342,19 +325,19 @@
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by BRWC1 and BRWC2",
+        "DUAL_STN": "Used by BRWC, BRWE1 and BRWE2",
         "LOCALITY": "Brislington",
         "LOCATION_NAME": "St. Christopher's Parish Hall",
         "OBJECTID": 21,
         "PAO": "St Christopher Church",
-        "POLLING_DISTRICT": "BRWC1",
+        "POLLING_DISTRICT": "BRWC",
         "POSTCODE": "BS4 3HJ",
         "SAON": "",
         "STREET": "Hampstead Road",
         "UPRN": 278730,
         "UPRN_2": "000000278730",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5601656550671867, 51.43763532792629], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BRWC1 and BRWC2 \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"St. Christopher's Parish Hall\", \"OBJECTID\": 21, \"PAO\": \"St Christopher Church\", \"POLLING_DISTRICT\": \"BRWC1\", \"POSTCODE\": \"BS4 3HJ\", \"SAON\": \" \", \"STREET\": \"Hampstead Road\", \"UPRN\": 278730, \"UPRN_2\": \"000000278730\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5601656550671867, 51.43763532792629], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BRWC, BRWE1 and BRWE2\", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"St. Christopher's Parish Hall\", \"OBJECTID\": 21, \"PAO\": \"St Christopher Church\", \"POLLING_DISTRICT\": \"BRWC\", \"POSTCODE\": \"BS4 3HJ\", \"SAON\": \" \", \"STREET\": \"Hampstead Road\", \"UPRN\": 278730, \"UPRN_2\": \"000000278730\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -565,9 +548,9 @@
         "DUAL": "Yes",
         "DUAL_STN": "Used by COTC and COTD",
         "LOCALITY": "Cotham",
-        "LOCATION_NAME": "Colston Primary School",
+        "LOCATION_NAME": "Cotham Gardens Primary School",
         "OBJECTID": 34,
-        "PAO": "Colstons Primary School",
+        "PAO": "Cotham Gardens Primary School",
         "POLLING_DISTRICT": "COTD",
         "POSTCODE": "BS6 6AL",
         "SAON": "",
@@ -575,7 +558,7 @@
         "UPRN": 278143,
         "UPRN_2": "000000179663",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.598480504711258, 51.466417461778086], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ACCESS_DESRIPTION\": \"<Null>\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTC and COTD\", \"LOCALITY\": \"Cotham\", \"LOCATION_NAME\": \"Colston Primary School\", \"OBJECTID\": 34, \"PAO\": \"Colstons Primary School\", \"POLLING_DISTRICT\": \"COTD\", \"POSTCODE\": \"BS6 6AL\", \"SAON\": \" \", \"STREET\": \"Cotham Grove\", \"UPRN\": 278143, \"UPRN_2\": \"000000179663\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.598480504711258, 51.466417461778086], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"ACCESS_DESRIPTION\": \"<Null>\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTC and COTD\", \"LOCALITY\": \"Cotham\", \"LOCATION_NAME\": \"Cotham Gardens Primary School\", \"OBJECTID\": 34, \"PAO\": \"Cotham Gardens Primary School\", \"POLLING_DISTRICT\": \"COTD\", \"POSTCODE\": \"BS6 6AL\", \"SAON\": \" \", \"STREET\": \"Cotham Grove\", \"UPRN\": 278143, \"UPRN_2\": \"000000179663\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -647,20 +630,20 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by CENG and CENH",
         "LOCALITY": "Redcliff",
-        "LOCATION_NAME": "Redcliff Anglican Methodist Centre",
+        "LOCATION_NAME": "Faithspace Community Centre",
         "OBJECTID": 39,
         "PAO": "Redcliffe Methodist Church",
-        "POLLING_DISTRICT": "CENF",
+        "POLLING_DISTRICT": "CENG",
         "POSTCODE": "BS1 6PB",
         "SAON": "",
         "STREET": "Prewett Street",
         "UPRN": 112482,
         "UPRN_2": "000000112482",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.58866334831709, 51.44746732924592], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Redcliff\", \"LOCATION_NAME\": \"Redcliff Anglican Methodist Centre\", \"OBJECTID\": 39, \"PAO\": \"Redcliffe Methodist Church\", \"POLLING_DISTRICT\": \"CENF\", \"POSTCODE\": \"BS1 6PB\", \"SAON\": \" \", \"STREET\": \"Prewett Street\", \"UPRN\": 112482, \"UPRN_2\": \"000000112482\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.58866334831709, 51.44746732924592], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by CENG and CENH\", \"LOCALITY\": \"Redcliff\", \"LOCATION_NAME\": \"Faithspace Community Centre\", \"OBJECTID\": 39, \"PAO\": \"Redcliffe Methodist Church\", \"POLLING_DISTRICT\": \"CENG\", \"POSTCODE\": \"BS1 6PB\", \"SAON\": \" \", \"STREET\": \"Prewett Street\", \"UPRN\": 112482, \"UPRN_2\": \"000000112482\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -869,7 +852,7 @@
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by CEND and CENB",
+        "DUAL_STN": "Used by CEND and CENC",
         "LOCALITY": "City Centre",
         "LOCATION_NAME": "The Register Office",
         "OBJECTID": 52,
@@ -881,7 +864,7 @@
         "UPRN": 272877,
         "UPRN_2": "000000272877",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.593379323996829, 51.454951701609566], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by CEND and CENB\", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"The Register Office\", \"OBJECTID\": 52, \"PAO\": \"Register Office\", \"POLLING_DISTRICT\": \"CEND\", \"POSTCODE\": \"BS1 1JG\", \"SAON\": \" \", \"STREET\": \"Corn Street\", \"UPRN\": 272877, \"UPRN_2\": \"000000272877\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.593379323996829, 51.454951701609566], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by CEND and CENC\", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"The Register Office\", \"OBJECTID\": 52, \"PAO\": \"Register Office\", \"POLLING_DISTRICT\": \"CEND\", \"POSTCODE\": \"BS1 1JG\", \"SAON\": \" \", \"STREET\": \"Corn Street\", \"UPRN\": 272877, \"UPRN_2\": \"000000272877\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -916,23 +899,6 @@
         "UPRN_2": "000000199356",
         "council_id": "E06000023",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.60241506775602, 51.45147058439956], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"Central Library\", \"OBJECTID\": 54, \"PAO\": \"Central Library\", \"POLLING_DISTRICT\": \"HOHC\", \"POSTCODE\": \"BS1 5TL\", \"SAON\": \" \", \"STREET\": \"Deanery Road\", \"UPRN\": 199356, \"UPRN_2\": \"000000199356\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "City Centre",
-        "LOCATION_NAME": "St James Priory",
-        "OBJECTID": 55,
-        "PAO": "St James Priory",
-        "POLLING_DISTRICT": "CENC",
-        "POSTCODE": "BS1 3NZ",
-        "SAON": "",
-        "STREET": "Whitson Street",
-        "UPRN": 216328,
-        "UPRN_2": "000000216328",
-        "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.592432873117342, 51.45888417569219], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"St James Priory\", \"OBJECTID\": 55, \"PAO\": \"St James Priory\", \"POLLING_DISTRICT\": \"CENC\", \"POSTCODE\": \"BS1 3NZ\", \"SAON\": \" \", \"STREET\": \"Whitson Street\", \"UPRN\": 216328, \"UPRN_2\": \"000000216328\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1413,7 +1379,7 @@
     {
         "ACCESS_DESRIPTION": "Brynland Avenue Entrance",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by BIAD, BIAC and BIAF",
+        "DUAL_STN": "Used by BIAD and BIAC",
         "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Horfield Baptist Church",
         "OBJECTID": 84,
@@ -1423,9 +1389,9 @@
         "SAON": "",
         "STREET": "Gloucester Road",
         "UPRN": 47990,
-        "UPRN_2": "000000245048",
+        "UPRN_2": "000000047990",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5885237419183436, 51.47935185585783], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \"Brynland Avenue Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAD, BIAC and BIAF\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Brynland Avenue Entrance\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000245048\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5885237419183436, 51.47935185585783], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"ACCESS_DESRIPTION\": \"Brynland Avenue Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAD and BIAC\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Horfield Baptist Church\", \"OBJECTID\": 84, \"PAO\": \"Brynland Avenue Entrance\", \"POLLING_DISTRICT\": \"BIAD\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000047990\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1571,14 +1537,14 @@
         "LOCATION_NAME": "YHA Bristol Youth Hostel",
         "OBJECTID": 94,
         "PAO": "Bristol Youth Hostel",
-        "POLLING_DISTRICT": "CENE",
+        "POLLING_DISTRICT": "CENF",
         "POSTCODE": "BS1 4QA",
         "SAON": "14",
         "STREET": "Narrow Quay",
         "UPRN": 111130,
         "UPRN_2": "000000111130",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5971770850809257, 51.44975066647836], \"type\": \"Point\"}, \"id\": 94, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"YHA Bristol Youth Hostel\", \"OBJECTID\": 94, \"PAO\": \"Bristol Youth Hostel\", \"POLLING_DISTRICT\": \"CENE\", \"POSTCODE\": \"BS1 4QA\", \"SAON\": \"14\", \"STREET\": \"Narrow Quay\", \"UPRN\": 111130, \"UPRN_2\": \"000000111130\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5971770850809257, 51.44975066647836], \"type\": \"Point\"}, \"id\": 94, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"YHA Bristol Youth Hostel\", \"OBJECTID\": 94, \"PAO\": \"Bristol Youth Hostel\", \"POLLING_DISTRICT\": \"CENF\", \"POSTCODE\": \"BS1 4QA\", \"SAON\": \"14\", \"STREET\": \"Narrow Quay\", \"UPRN\": 111130, \"UPRN_2\": \"000000111130\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1684,8 +1650,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by ESTE and ESTC",
+        "DUAL": "No",
+        "DUAL_STN": null,
         "LOCALITY": "Easton",
         "LOCATION_NAME": "Whitehall Primary School",
         "OBJECTID": 101,
@@ -1697,7 +1663,7 @@
         "UPRN": 181149,
         "UPRN_2": "000000181149",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5552166578769215, 51.46496678132231], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ESTE and ESTC\", \"LOCALITY\": \"Easton\", \"LOCATION_NAME\": \"Whitehall Primary School\", \"OBJECTID\": 101, \"PAO\": \"Whitehall Primary School\", \"POLLING_DISTRICT\": \"ESTE\", \"POSTCODE\": \"BS5 9AT\", \"SAON\": \" \", \"STREET\": \"Johnsons Road\", \"UPRN\": 181149, \"UPRN_2\": \"000000181149\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5552166578769215, 51.46496678132231], \"type\": \"Point\"}, \"id\": 101, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Easton\", \"LOCATION_NAME\": \"Whitehall Primary School\", \"OBJECTID\": 101, \"PAO\": \"Whitehall Primary School\", \"POLLING_DISTRICT\": \"ESTE\", \"POSTCODE\": \"BS5 9AT\", \"SAON\": \" \", \"STREET\": \"Johnsons Road\", \"UPRN\": 181149, \"UPRN_2\": \"000000181149\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2108,9 +2074,9 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.6007394098835923, 51.5031775454898], \"type\": \"Point\"}, \"id\": 126, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Southmead\", \"LOCATION_NAME\": \"Southmead Community Centre\", \"OBJECTID\": 126, \"PAO\": \"Southmead Community Centre\", \"POLLING_DISTRICT\": \"SMDE\", \"POSTCODE\": \"BS10 6BQ\", \"SAON\": \"248\", \"STREET\": \"Greystoke Avenue\", \"UPRN\": 7859, \"UPRN_2\": \"000000007859\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by BREA and BREB",
+        "ACCESS_DESRIPTION": "Garden Entrance",
+        "DUAL": "No",
+        "DUAL_STN": null,
         "LOCALITY": "St Annes",
         "LOCATION_NAME": "Chichester House",
         "OBJECTID": 127,
@@ -2122,7 +2088,7 @@
         "UPRN": 328066,
         "UPRN_2": "000000328066",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5401232511527674, 51.45212002079422], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BREA and BREB\", \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"Chichester House\", \"OBJECTID\": 127, \"PAO\": \"Chichester House\", \"POLLING_DISTRICT\": \"BREB\", \"POSTCODE\": \"BS4 4BB\", \"SAON\": \" \", \"STREET\": \"Wootton Road\", \"UPRN\": 328066, \"UPRN_2\": \"000000328066\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5401232511527674, 51.45212002079422], \"type\": \"Point\"}, \"id\": 127, \"properties\": {\"ACCESS_DESRIPTION\": \"Garden Entrance\", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"Chichester House\", \"OBJECTID\": 127, \"PAO\": \"Chichester House\", \"POLLING_DISTRICT\": \"BREB\", \"POSTCODE\": \"BS4 4BB\", \"SAON\": \" \", \"STREET\": \"Wootton Road\", \"UPRN\": 328066, \"UPRN_2\": \"000000328066\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2131,15 +2097,15 @@
         "LOCALITY": "Redland",
         "LOCATION_NAME": "Friends Meeting House",
         "OBJECTID": 128,
-        "PAO": "Friends Meeting House",
+        "PAO": "126 Hampton Road",
         "POLLING_DISTRICT": "COTA",
         "POSTCODE": "BS6 6JE",
         "SAON": "",
         "STREET": "Hampton Road",
         "UPRN": 67302,
-        "UPRN_2": "000000067302 - need to check address",
+        "UPRN_2": "000000067302",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.608474826725696, 51.468787016678704], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTA and COTB\", \"LOCALITY\": \"Redland\", \"LOCATION_NAME\": \"Friends Meeting House\", \"OBJECTID\": 128, \"PAO\": \"Friends Meeting House\", \"POLLING_DISTRICT\": \"COTA\", \"POSTCODE\": \"BS6 6JE\", \"SAON\": \" \", \"STREET\": \"Hampton Road\", \"UPRN\": 67302, \"UPRN_2\": \"000000067302 - need to check address\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.608474826725696, 51.468787016678704], \"type\": \"Point\"}, \"id\": 128, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by COTA and COTB\", \"LOCALITY\": \"Redland\", \"LOCATION_NAME\": \"Friends Meeting House\", \"OBJECTID\": 128, \"PAO\": \"126 Hampton Road\", \"POLLING_DISTRICT\": \"COTA\", \"POSTCODE\": \"BS6 6JE\", \"SAON\": \" \", \"STREET\": \"Hampton Road\", \"UPRN\": 67302, \"UPRN_2\": \"000000067302\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2450,7 +2416,7 @@
     {
         "ACCESS_DESRIPTION": "Gate 2, Brunel Field Site",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by BIAG and BIAE",
+        "DUAL_STN": "Used by BIAG, BIAE and BIAH",
         "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Ashley Down Primary School, Brunel Field Site",
         "OBJECTID": 147,
@@ -2462,7 +2428,7 @@
         "UPRN": 342038,
         "UPRN_2": "000000342038",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.58311201515744, 51.47822004473711], \"type\": \"Point\"}, \"id\": 147, \"properties\": {\"ACCESS_DESRIPTION\": \"Gate 2, Brunel Field Site\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAG and BIAE\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Ashley Down Primary School, Brunel Field Site\", \"OBJECTID\": 147, \"PAO\": \"Gate 2, Brunel Field Site\", \"POLLING_DISTRICT\": \"BIAG\", \"POSTCODE\": \"BS7 9JT\", \"SAON\": \" \", \"STREET\": \"Arthur Milton Street\", \"UPRN\": 342038, \"UPRN_2\": \"000000342038\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.58311201515744, 51.47822004473711], \"type\": \"Point\"}, \"id\": 147, \"properties\": {\"ACCESS_DESRIPTION\": \"Gate 2, Brunel Field Site\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAG, BIAE and BIAH\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Ashley Down Primary School, Brunel Field Site\", \"OBJECTID\": 147, \"PAO\": \"Gate 2, Brunel Field Site\", \"POLLING_DISTRICT\": \"BIAG\", \"POSTCODE\": \"BS7 9JT\", \"SAON\": \" \", \"STREET\": \"Arthur Milton Street\", \"UPRN\": 342038, \"UPRN_2\": \"000000342038\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Church Hall",
@@ -2727,14 +2693,14 @@
         "LOCATION_NAME": "Hungerford Community Centre",
         "OBJECTID": 163,
         "PAO": "Hungerford Community Centre",
-        "POLLING_DISTRICT": "BRWF",
+        "POLLING_DISTRICT": "BRWG",
         "POSTCODE": "BS4 5EX",
         "SAON": "",
         "STREET": "Hungerford Road",
         "UPRN": 145463,
         "UPRN_2": "000000145463",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5434307647169736, 51.42651920008566], \"type\": \"Point\"}, \"id\": 163, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"Hungerford Community Centre\", \"OBJECTID\": 163, \"PAO\": \"Hungerford Community Centre\", \"POLLING_DISTRICT\": \"BRWF\", \"POSTCODE\": \"BS4 5EX\", \"SAON\": \" \", \"STREET\": \"Hungerford Road\", \"UPRN\": 145463, \"UPRN_2\": \"000000145463\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5434307647169736, 51.42651920008566], \"type\": \"Point\"}, \"id\": 163, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"Hungerford Community Centre\", \"OBJECTID\": 163, \"PAO\": \"Hungerford Community Centre\", \"POLLING_DISTRICT\": \"BRWG\", \"POSTCODE\": \"BS4 5EX\", \"SAON\": \" \", \"STREET\": \"Hungerford Road\", \"UPRN\": 145463, \"UPRN_2\": \"000000145463\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2850,10 +2816,10 @@
         "POSTCODE": "BS7 8ST",
         "SAON": "",
         "STREET": "Church Road",
-        "UPRN": 184119,
-        "UPRN_2": "000000184119",
+        "UPRN": 280591,
+        "UPRN_2": "000000280591",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5892803550665597, 51.487218393927165], \"type\": \"Point\"}, \"id\": 170, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Parish Hall\", \"OBJECTID\": 170, \"PAO\": \"Horfield Parish Hall\", \"POLLING_DISTRICT\": \"BIAA\", \"POSTCODE\": \"BS7 8ST\", \"SAON\": \" \", \"STREET\": \"Church Road\", \"UPRN\": 184119, \"UPRN_2\": \"000000184119\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5892803550665597, 51.487218393927165], \"type\": \"Point\"}, \"id\": 170, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Parish Hall\", \"OBJECTID\": 170, \"PAO\": \"Horfield Parish Hall\", \"POLLING_DISTRICT\": \"BIAA\", \"POSTCODE\": \"BS7 8ST\", \"SAON\": \" \", \"STREET\": \"Church Road\", \"UPRN\": 280591, \"UPRN_2\": \"000000280591\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
@@ -2922,5 +2888,90 @@
         "UPRN_2": "000000159907",
         "council_id": "E06000023",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.547218071816279, 51.412668931613275], \"type\": \"Point\"}, \"id\": 174, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Stockwood Library\", \"OBJECTID\": 174, \"PAO\": \"Stockwood Library\", \"POLLING_DISTRICT\": \"STWE\", \"POSTCODE\": \"BS14 8DQ\", \"SAON\": \" \", \"STREET\": \"Stockwood Road\", \"UPRN\": 159907, \"UPRN_2\": \"000000159907\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Bishopston",
+        "LOCATION_NAME": "Kelvin Players Theatre Company",
+        "OBJECTID": 178,
+        "PAO": "Kelvin Players Theatre Company",
+        "POLLING_DISTRICT": "BIAF",
+        "POSTCODE": "BS7 8NY",
+        "SAON": null,
+        "STREET": "Gloucester Road",
+        "UPRN": 50412,
+        "UPRN_2": "000000050412",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5894543770107714, 51.47812381540342], \"type\": \"Point\"}, \"id\": 178, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Kelvin Players Theatre Company\", \"OBJECTID\": 178, \"PAO\": \"Kelvin Players Theatre Company\", \"POLLING_DISTRICT\": \"BIAF\", \"POSTCODE\": \"BS7 8NY\", \"SAON\": null, \"STREET\": \"Gloucester Road\", \"UPRN\": 50412, \"UPRN_2\": \"000000050412\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Brislington",
+        "LOCATION_NAME": "Bristol School of Performing Arts",
+        "OBJECTID": 179,
+        "PAO": "Bristol Dance Studio",
+        "POLLING_DISTRICT": "BRWF",
+        "POSTCODE": "BS4 5BD",
+        "SAON": "White Hart Lodge",
+        "STREET": "Brislington Hill",
+        "UPRN": 137471,
+        "UPRN_2": "000000137471",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5478270763149795, 51.43328919270473], \"type\": \"Point\"}, \"id\": 179, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Brislington\", \"LOCATION_NAME\": \"Bristol School of Performing Arts\", \"OBJECTID\": 179, \"PAO\": \"Bristol Dance Studio\", \"POLLING_DISTRICT\": \"BRWF\", \"POSTCODE\": \"BS4 5BD\", \"SAON\": \"White Hart Lodge\", \"STREET\": \"Brislington Hill\", \"UPRN\": 137471, \"UPRN_2\": \"000000137471\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "City Centre",
+        "LOCATION_NAME": "King Centre",
+        "OBJECTID": 181,
+        "PAO": "16-18 Kings Centre",
+        "POLLING_DISTRICT": "CENB",
+        "POSTCODE": "BS2 8AZ",
+        "SAON": null,
+        "STREET": "King Square",
+        "UPRN": 240758,
+        "UPRN_2": "000000240758",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.59229476494394, 51.46197253871681], \"type\": \"Point\"}, \"id\": 181, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"King Centre\", \"OBJECTID\": 181, \"PAO\": \"16-18 Kings Centre\", \"POLLING_DISTRICT\": \"CENB\", \"POSTCODE\": \"BS2 8AZ\", \"SAON\": null, \"STREET\": \"King Square\", \"UPRN\": 240758, \"UPRN_2\": \"000000240758\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "City Centre",
+        "LOCATION_NAME": "Broadmead Baptist Church",
+        "OBJECTID": 182,
+        "PAO": "Whippington Court",
+        "POLLING_DISTRICT": "CENE",
+        "POSTCODE": "BS1 3HY",
+        "SAON": null,
+        "STREET": "Union Street",
+        "UPRN": 347923,
+        "UPRN_2": "000000347923",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5913615575701328, 51.457560083670444], \"type\": \"Point\"}, \"id\": 182, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"Broadmead Baptist Church\", \"OBJECTID\": 182, \"PAO\": \"Whippington Court\", \"POLLING_DISTRICT\": \"CENE\", \"POSTCODE\": \"BS1 3HY\", \"SAON\": null, \"STREET\": \"Union Street\", \"UPRN\": 347923, \"UPRN_2\": \"000000347923\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Easton",
+        "LOCATION_NAME": "St Annes With St Thomas Church",
+        "OBJECTID": 183,
+        "PAO": "St Annes Church",
+        "POLLING_DISTRICT": "ESTC",
+        "POSTCODE": "BS5 6JN",
+        "SAON": null,
+        "STREET": "St Leonards Road",
+        "UPRN": 302495,
+        "UPRN_2": "000000302495",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.557037541475199, 51.46856033808609], \"type\": \"Point\"}, \"id\": 183, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Easton\", \"LOCATION_NAME\": \"St Annes With St Thomas Church\", \"OBJECTID\": 183, \"PAO\": \"St Annes Church\", \"POLLING_DISTRICT\": \"ESTC\", \"POSTCODE\": \"BS5 6JN\", \"SAON\": null, \"STREET\": \"St Leonards Road\", \"UPRN\": 302495, \"UPRN_2\": \"000000302495\"}, \"type\": \"Feature\"}"
     }
 ]
