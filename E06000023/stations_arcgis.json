@@ -1389,9 +1389,9 @@
         "SAON": "",
         "STREET": "Raynes Road",
         "UPRN": 278840,
-        "UPRN_2": "000000124231",
+        "UPRN_2": "000000278840",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.618833530237174, 51.438423620393834], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDA and BEDC\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"Bristol St Aldhelms Scout Hut\", \"OBJECTID\": 82, \"PAO\": \"229      Bristol St Aldhelms Scout Hut\", \"POLLING_DISTRICT\": \"BEDA\", \"POSTCODE\": \"BS3 2DL\", \"SAON\": \" \", \"STREET\": \"Raynes Road\", \"UPRN\": 278840, \"UPRN_2\": \"000000124231\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.618833530237174, 51.438423620393834], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDA and BEDC\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"Bristol St Aldhelms Scout Hut\", \"OBJECTID\": 82, \"PAO\": \"229      Bristol St Aldhelms Scout Hut\", \"POLLING_DISTRICT\": \"BEDA\", \"POSTCODE\": \"BS3 2DL\", \"SAON\": \" \", \"STREET\": \"Raynes Road\", \"UPRN\": 278840, \"UPRN_2\": \"000000278840\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1593,9 +1593,9 @@
         "SAON": "",
         "STREET": "6 Ashley Road Bristol BS6 5NL",
         "UPRN": 79937,
-        "UPRN_2": "000000079242",
+        "UPRN_2": "000000079937",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5887094378203224, 51.464274159836975], \"type\": \"Point\"}, \"id\": 95, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ASHH and ASHD\", \"LOCALITY\": \"St Pauls\", \"LOCATION_NAME\": \"The Salvation Army, Bristol Citadel\", \"OBJECTID\": 95, \"PAO\": \"The Salvation Army, Bristol Citadel\", \"POLLING_DISTRICT\": \"ASHH\", \"POSTCODE\": \"BS6 5NL\", \"SAON\": \" \", \"STREET\": \"6 Ashley Road Bristol BS6 5NL \", \"UPRN\": 79937, \"UPRN_2\": \"000000079242\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5887094378203224, 51.464274159836975], \"type\": \"Point\"}, \"id\": 95, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ASHH and ASHD\", \"LOCALITY\": \"St Pauls\", \"LOCATION_NAME\": \"The Salvation Army, Bristol Citadel\", \"OBJECTID\": 95, \"PAO\": \"The Salvation Army, Bristol Citadel\", \"POLLING_DISTRICT\": \"ASHH\", \"POSTCODE\": \"BS6 5NL\", \"SAON\": \" \", \"STREET\": \"6 Ashley Road Bristol BS6 5NL \", \"UPRN\": 79937, \"UPRN_2\": \"000000079937\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1706,15 +1706,15 @@
         "LOCALITY": "Lawrence Weston",
         "LOCATION_NAME": "The Rock Community Centre",
         "OBJECTID": 102,
-        "PAO": "St Peters Church",
+        "PAO": "St Peters Hall",
         "POLLING_DISTRICT": "AVLD",
         "POSTCODE": "BS11 0QE",
         "SAON": "",
         "STREET": "Ridingleaze",
         "UPRN": 8607,
-        "UPRN_2": "000000008607",
+        "UPRN_2": "000000369576",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.658112641865523, 51.502657497032445], \"type\": \"Point\"}, \"id\": 102, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Lawrence Weston\", \"LOCATION_NAME\": \"The Rock Community Centre\", \"OBJECTID\": 102, \"PAO\": \"St Peters Church\", \"POLLING_DISTRICT\": \"AVLD\", \"POSTCODE\": \"BS11 0QE\", \"SAON\": \" \", \"STREET\": \"Ridingleaze\", \"UPRN\": 8607, \"UPRN_2\": \"000000008607\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6576596610323415, 51.50275752819857], \"type\": \"Point\"}, \"id\": 102, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Lawrence Weston\", \"LOCATION_NAME\": \"The Rock Community Centre\", \"OBJECTID\": 102, \"PAO\": \"St Peters Hall\", \"POLLING_DISTRICT\": \"AVLD\", \"POSTCODE\": \"BS11 0QE\", \"SAON\": \" \", \"STREET\": \"Ridingleaze\", \"UPRN\": 8607, \"UPRN_2\": \"000000369576\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1853,13 +1853,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.538897615127812, 51.478826929380794], \"type\": \"Point\"}, \"id\": 110, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used for ESVE and ESVD\", \"LOCALITY\": \"Fishponds\", \"LOCATION_NAME\": \"All Saints Church\", \"OBJECTID\": 110, \"PAO\": \"All Saints Church\", \"POLLING_DISTRICT\": \"ESVE\", \"POSTCODE\": \"BS16 2BW\", \"SAON\": \" \", \"STREET\": \"Grove Road\", \"UPRN\": 302580, \"UPRN_2\": \"000000302580\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "Nursery Entrance South Street",
+        "ACCESS_DESRIPTION": "British Road Entrance",
         "DUAL": "Yes",
         "DUAL_STN": "Used by BEDD and BEDF",
         "LOCALITY": "Bedminster",
         "LOCATION_NAME": "Compass Point South Street Primary School",
         "OBJECTID": 111,
-        "PAO": "Nursery Entrance",
+        "PAO": "British Road Entrance",
         "POLLING_DISTRICT": "BEDD",
         "POSTCODE": "BS3 3AU",
         "SAON": "",
@@ -1867,7 +1867,7 @@
         "UPRN": 126428,
         "UPRN_2": "000000126428",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.605749431588485, 51.438011000900325], \"type\": \"Point\"}, \"id\": 111, \"properties\": {\"ACCESS_DESRIPTION\": \"Nursery Entrance South Street\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDD and BEDF\", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Compass Point South Street Primary School\", \"OBJECTID\": 111, \"PAO\": \"Nursery Entrance \", \"POLLING_DISTRICT\": \"BEDD\", \"POSTCODE\": \"BS3 3AU\", \"SAON\": \" \", \"STREET\": \"South Street\", \"UPRN\": 126428, \"UPRN_2\": \"000000126428\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6055737081012467, 51.437586538067066], \"type\": \"Point\"}, \"id\": 111, \"properties\": {\"ACCESS_DESRIPTION\": \"British Road Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDD and BEDF\", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Compass Point South Street Primary School\", \"OBJECTID\": 111, \"PAO\": \"British Road Entrance\", \"POLLING_DISTRICT\": \"BEDD\", \"POSTCODE\": \"BS3 3AU\", \"SAON\": \" \", \"STREET\": \"South Street\", \"UPRN\": 126428, \"UPRN_2\": \"000000126428\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2231,9 +2231,9 @@
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Bishopston",
-        "LOCATION_NAME": "Sefton Park Primary School",
+        "LOCATION_NAME": "Sefton Park Infants and Juniors School",
         "OBJECTID": 134,
-        "PAO": "Sefton Park Primary School",
+        "PAO": "Sefton Park Infants and Juniors School",
         "POLLING_DISTRICT": "ASHB",
         "POSTCODE": "BS7 9BJ",
         "SAON": "",
@@ -2241,7 +2241,7 @@
         "UPRN": 199338,
         "UPRN_2": "000000199338",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5820458562584334, 51.475008417771406], \"type\": \"Point\"}, \"id\": 134, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Sefton Park Primary School\", \"OBJECTID\": 134, \"PAO\": \"Sefton Park Primary School\", \"POLLING_DISTRICT\": \"ASHB\", \"POSTCODE\": \"BS7 9BJ\", \"SAON\": \" \", \"STREET\": \"Ashley Down Road\", \"UPRN\": 199338, \"UPRN_2\": \"000000199338\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5820458562584334, 51.475008417771406], \"type\": \"Point\"}, \"id\": 134, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Sefton Park Infants and Juniors School\", \"OBJECTID\": 134, \"PAO\": \"Sefton Park Infants and Juniors School\", \"POLLING_DISTRICT\": \"ASHB\", \"POSTCODE\": \"BS7 9BJ\", \"SAON\": \" \", \"STREET\": \"Ashley Down Road\", \"UPRN\": 199338, \"UPRN_2\": \"000000199338\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2500,8 +2500,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by ASHK and ASHL",
         "LOCALITY": "St Pauls",
         "LOCATION_NAME": "St Pauls Community Sports Academy",
         "OBJECTID": 150,
@@ -2513,7 +2513,7 @@
         "UPRN": 295524,
         "UPRN_2": "000000295524",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5804912944411336, 51.46236277058685], \"type\": \"Point\"}, \"id\": 150, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St Pauls\", \"LOCATION_NAME\": \"St Pauls Community Sports Academy\", \"OBJECTID\": 150, \"PAO\": \"St Pauls Community Sports Academy\", \"POLLING_DISTRICT\": \"ASHK\", \"POSTCODE\": \"BS2 9NH\", \"SAON\": \" \", \"STREET\": \"Newfoundland Road\", \"UPRN\": 295524, \"UPRN_2\": \"000000295524\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5804912944411336, 51.46236277058685], \"type\": \"Point\"}, \"id\": 150, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ASHK and ASHL\", \"LOCALITY\": \"St Pauls\", \"LOCATION_NAME\": \"St Pauls Community Sports Academy\", \"OBJECTID\": 150, \"PAO\": \"St Pauls Community Sports Academy\", \"POLLING_DISTRICT\": \"ASHK\", \"POSTCODE\": \"BS2 9NH\", \"SAON\": \" \", \"STREET\": \"Newfoundland Road\", \"UPRN\": 295524, \"UPRN_2\": \"000000295524\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
