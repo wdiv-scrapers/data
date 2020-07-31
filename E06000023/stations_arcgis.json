@@ -18,8 +18,8 @@
     },
     {
         "ACCESS_DESRIPTION": "Access St. Francis Road",
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by SVLA and SVLB",
+        "DUAL": "No",
+        "DUAL_STN": null,
         "LOCALITY": "Ashton",
         "LOCATION_NAME": "St Francis Centre",
         "OBJECTID": 2,
@@ -31,7 +31,7 @@
         "UPRN": 278652,
         "UPRN_2": "000000278652",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.614798506296406, 51.44231550479961], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ACCESS_DESRIPTION\": \"Access St. Francis Road\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by SVLA and SVLB\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"St Francis Centre\", \"OBJECTID\": 2, \"PAO\": \"Access St. Francis Road\", \"POLLING_DISTRICT\": \"SVLA\", \"POSTCODE\": \"BS3 1JP\", \"SAON\": \" \", \"STREET\": null, \"UPRN\": 278652, \"UPRN_2\": \"000000278652\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.614798506296406, 51.44231550479961], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"ACCESS_DESRIPTION\": \"Access St. Francis Road\", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"St Francis Centre\", \"OBJECTID\": 2, \"PAO\": \"Access St. Francis Road\", \"POLLING_DISTRICT\": \"SVLA\", \"POSTCODE\": \"BS3 1JP\", \"SAON\": \" \", \"STREET\": null, \"UPRN\": 278652, \"UPRN_2\": \"000000278652\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -410,19 +410,19 @@
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by WEHK and WEHJ",
+        "DUAL_STN": "Used by WEHF and WEHJ",
         "LOCALITY": "Henleaze",
         "LOCATION_NAME": "Henleaze Library",
         "OBJECTID": 26,
         "PAO": "Henleaze Library",
-        "POLLING_DISTRICT": "WEHK",
+        "POLLING_DISTRICT": "WEHF",
         "POSTCODE": "BS9 4HP",
         "SAON": "",
         "STREET": "Northumbria Drive",
         "UPRN": 260189,
         "UPRN_2": "000000260189",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6117886083672244, 51.48082521802536], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHK and WEHJ\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Henleaze Library\", \"OBJECTID\": 26, \"PAO\": \"Henleaze Library\", \"POLLING_DISTRICT\": \"WEHK\", \"POSTCODE\": \"BS9 4HP\", \"SAON\": \" \", \"STREET\": \"Northumbria Drive\", \"UPRN\": 260189, \"UPRN_2\": \"000000260189\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6117886083672244, 51.48082521802536], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHF and WEHJ\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Henleaze Library\", \"OBJECTID\": 26, \"PAO\": \"Henleaze Library\", \"POLLING_DISTRICT\": \"WEHF\", \"POSTCODE\": \"BS9 4HP\", \"SAON\": \" \", \"STREET\": \"Northumbria Drive\", \"UPRN\": 260189, \"UPRN_2\": \"000000260189\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -480,17 +480,17 @@
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Bedminster",
-        "LOCATION_NAME": "Windmill Hill City Farm",
+        "LOCATION_NAME": "The Green House",
         "OBJECTID": 30,
-        "PAO": "Windmill Hill City Farm",
+        "PAO": "The Green House",
         "POLLING_DISTRICT": "SVLF",
-        "POSTCODE": "BS3 4EA",
+        "POSTCODE": "BS3 4NA",
         "SAON": "",
-        "STREET": "Philip Street",
-        "UPRN": 260690,
-        "UPRN_2": "000000260690",
+        "STREET": "Hereford Street",
+        "UPRN": 273463,
+        "UPRN_2": "000000273463",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.592783847469892, 51.4422669288244], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Windmill Hill City Farm\", \"OBJECTID\": 30, \"PAO\": \"Windmill Hill City Farm\", \"POLLING_DISTRICT\": \"SVLF\", \"POSTCODE\": \"BS3 4EA\", \"SAON\": \" \", \"STREET\": \"Philip Street\", \"UPRN\": 260690, \"UPRN_2\": \"000000260690\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5957951276043607, 51.440187747550674], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"The Green House\", \"OBJECTID\": 30, \"PAO\": \"The Green House\", \"POLLING_DISTRICT\": \"SVLF\", \"POSTCODE\": \"BS3 4NA\", \"SAON\": \" \", \"STREET\": \"Hereford Street\", \"UPRN\": 273463, \"UPRN_2\": \"000000273463\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -869,7 +869,7 @@
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by WEHH and WEHF",
+        "DUAL_STN": "Used by WEHH and WEHG",
         "LOCALITY": "Henleaze",
         "LOCATION_NAME": "St Peters",
         "OBJECTID": 53,
@@ -881,7 +881,7 @@
         "UPRN": 289629,
         "UPRN_2": "000000289629",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.607491570658394, 51.48561684883408], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHH and WEHF\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"St Peters\", \"OBJECTID\": 53, \"PAO\": \"St Peters\", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"The Drive\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.607491570658394, 51.48561684883408], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WEHH and WEHG\", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"St Peters\", \"OBJECTID\": 53, \"PAO\": \"St Peters\", \"POLLING_DISTRICT\": \"WEHH\", \"POSTCODE\": \"BS9 4LD\", \"SAON\": \" \", \"STREET\": \"The Drive\", \"UPRN\": 289629, \"UPRN_2\": \"000000289629\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1192,7 +1192,7 @@
     {
         "ACCESS_DESRIPTION": "",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by REDC amd REDG",
+        "DUAL_STN": "Used by REDC and REDG",
         "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Bishopston Library",
         "OBJECTID": 73,
@@ -1204,7 +1204,7 @@
         "UPRN": 354865,
         "UPRN_2": "000000354865",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5916727948790754, 51.47503139634711], \"type\": \"Point\"}, \"id\": 73, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by REDC amd REDG\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Bishopston Library\", \"OBJECTID\": 73, \"PAO\": \"100A     Bishopston Library\", \"POLLING_DISTRICT\": \"REDC\", \"POSTCODE\": \"BS7 8BN\", \"SAON\": \" \", \"STREET\": \"100a Gloucester Road\", \"UPRN\": 354865, \"UPRN_2\": \"000000354865\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5916727948790754, 51.47503139634711], \"type\": \"Point\"}, \"id\": 73, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by REDC and REDG\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Bishopston Library\", \"OBJECTID\": 73, \"PAO\": \"100A     Bishopston Library\", \"POLLING_DISTRICT\": \"REDC\", \"POSTCODE\": \"BS7 8BN\", \"SAON\": \" \", \"STREET\": \"100a Gloucester Road\", \"UPRN\": 354865, \"UPRN_2\": \"000000354865\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1515,7 +1515,7 @@
     {
         "ACCESS_DESRIPTION": null,
         "DUAL": "Yes",
-        "DUAL_STN": "Used by HWPG and HWPk",
+        "DUAL_STN": "Used by HWPG and HWPK",
         "LOCALITY": "Whitchurch",
         "LOCATION_NAME": "Wansdyke Primary School",
         "OBJECTID": 93,
@@ -1527,7 +1527,7 @@
         "UPRN": 165930,
         "UPRN_2": "000000165930",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.580245411764619, 51.406724812731255], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HWPG and HWPk\", \"LOCALITY\": \"Whitchurch\", \"LOCATION_NAME\": \"Wansdyke Primary School\", \"OBJECTID\": 93, \"PAO\": \"Wansdyke Primary School\", \"POLLING_DISTRICT\": \"HWPG\", \"POSTCODE\": \"BS14 0DU\", \"SAON\": \" \", \"STREET\": \"School Close\", \"UPRN\": 165930, \"UPRN_2\": \"000000165930\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.580245411764619, 51.406724812731255], \"type\": \"Point\"}, \"id\": 93, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HWPG and HWPK\", \"LOCALITY\": \"Whitchurch\", \"LOCATION_NAME\": \"Wansdyke Primary School\", \"OBJECTID\": 93, \"PAO\": \"Wansdyke Primary School\", \"POLLING_DISTRICT\": \"HWPG\", \"POSTCODE\": \"BS14 0DU\", \"SAON\": \" \", \"STREET\": \"School Close\", \"UPRN\": 165930, \"UPRN_2\": \"000000165930\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1783,23 +1783,6 @@
         "UPRN_2": "000000280154",
         "council_id": "E06000023",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5239901754515834, 51.466551541314324], \"type\": \"Point\"}, \"id\": 108, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Speedwell Methodist Church\", \"OBJECTID\": 108, \"PAO\": \"Speedwell Methodist Church\", \"POLLING_DISTRICT\": \"SGCB\", \"POSTCODE\": \"BS15 1ES\", \"SAON\": \" \", \"STREET\": \"Speedwell Road\", \"UPRN\": 280154, \"UPRN_2\": \"000000280154\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "Henleaze",
-        "LOCATION_NAME": "Portacabin on Tesco Carpark",
-        "OBJECTID": 109,
-        "PAO": "Portacabin on Tesco Carpark",
-        "POLLING_DISTRICT": "WEHG",
-        "POSTCODE": "BS6 7XW",
-        "SAON": "",
-        "STREET": "Lime Trees Road",
-        "UPRN": null,
-        "UPRN_2": null,
-        "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5965732278125353, 51.48655395895829], \"type\": \"Point\"}, \"id\": 109, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Henleaze\", \"LOCATION_NAME\": \"Portacabin on Tesco Carpark\", \"OBJECTID\": 109, \"PAO\": \"Portacabin on Tesco Carpark\", \"POLLING_DISTRICT\": \"WEHG\", \"POSTCODE\": \"BS6 7XW\", \"SAON\": \" \", \"STREET\": \"Lime Trees Road\", \"UPRN\": null, \"UPRN_2\": null}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -2990,5 +2973,56 @@
         "UPRN_2": "000000355634",
         "council_id": "E06000023",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.6068974559648654, 51.44858490665767], \"type\": \"Point\"}, \"id\": 497, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"City Centre\", \"LOCATION_NAME\": \"Great Eastern Hall\", \"OBJECTID\": 497, \"PAO\": \"SS Great Britain Trust\", \"POLLING_DISTRICT\": \"HOHD\", \"POSTCODE\": \"BS1 6UP\", \"SAON\": null, \"STREET\": \"Brunel Square\", \"UPRN\": 355634, \"UPRN_2\": \"000000355634\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by STWA1 and STWA2",
+        "LOCALITY": "Hengrove",
+        "LOCATION_NAME": "South Bristol Sports Centre",
+        "OBJECTID": 498,
+        "PAO": "South Bristol Sports Centre",
+        "POLLING_DISTRICT": "STWA1",
+        "POSTCODE": "BS14 9EA",
+        "SAON": null,
+        "STREET": "West Town Lane",
+        "UPRN": 303531,
+        "UPRN_2": "000000303531",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.55974773616322, 51.426179760735174], \"type\": \"Point\"}, \"id\": 498, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by STWA1 and STWA2\", \"LOCALITY\": \"Hengrove\", \"LOCATION_NAME\": \"South Bristol Sports Centre\", \"OBJECTID\": 498, \"PAO\": \"South Bristol Sports Centre\", \"POLLING_DISTRICT\": \"STWA1\", \"POSTCODE\": \"BS14 9EA\", \"SAON\": null, \"STREET\": \"West Town Lane\", \"UPRN\": 303531, \"UPRN_2\": \"000000303531\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Bedminster",
+        "LOCATION_NAME": "The Tobacco Factory",
+        "OBJECTID": 499,
+        "PAO": "The Tobacco Factory",
+        "POLLING_DISTRICT": "SVLB",
+        "POSTCODE": "BS3 1TF",
+        "SAON": null,
+        "STREET": "Raleigh Road",
+        "UPRN": 244114,
+        "UPRN_2": "000000244114",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.613317488019762, 51.44242944281368], \"type\": \"Point\"}, \"id\": 499, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"The Tobacco Factory\", \"OBJECTID\": 499, \"PAO\": \"The Tobacco Factory\", \"POLLING_DISTRICT\": \"SVLB\", \"POSTCODE\": \"BS3 1TF\", \"SAON\": null, \"STREET\": \"Raleigh Road\", \"UPRN\": 244114, \"UPRN_2\": \"000000244114\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Southville",
+        "LOCATION_NAME": "Elephant House",
+        "OBJECTID": 500,
+        "PAO": "Elephant House",
+        "POLLING_DISTRICT": "SVLG",
+        "POSTCODE": "BS3 1BG",
+        "SAON": null,
+        "STREET": "Dean Street",
+        "UPRN": 120724,
+        "UPRN_2": "000000120724",
+        "council_id": "E06000023",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.601069952706782, 51.44158994911847], \"type\": \"Point\"}, \"id\": 500, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Southville\", \"LOCATION_NAME\": \"Elephant House\", \"OBJECTID\": 500, \"PAO\": \"Elephant House\", \"POLLING_DISTRICT\": \"SVLG\", \"POSTCODE\": \"BS3 1BG\", \"SAON\": null, \"STREET\": \"Dean Street\", \"UPRN\": 120724, \"UPRN_2\": \"000000120724\"}, \"type\": \"Feature\"}"
     }
 ]
