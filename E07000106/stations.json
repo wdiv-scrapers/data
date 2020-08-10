@@ -742,5 +742,13 @@
         "Ward": "Wincheap",
         "council_id": "E07000106",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.0585528394237282, 51.270257521827105]], \"type\": \"MultiPoint\"}, \"id\": 92, \"properties\": {\"GlobalID\": \"{D31B3A1B-ADA2-4F67-B1B9-ECEF011FEC7B}\", \"OBJECTID\": 92, \"Polling_di\": \"CWI2\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{CDE103A3-B8BE-4E4C-B4A2-9940DC6124C2}",
+        "OBJECTID": 93,
+        "Polling_di": "CB8",
+        "Ward": "Barton",
+        "council_id": "E07000106",
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0953152488761784, 51.27812331839345]], \"type\": \"MultiPoint\"}, \"id\": 93, \"properties\": {\"GlobalID\": \"{CDE103A3-B8BE-4E4C-B4A2-9940DC6124C2}\", \"OBJECTID\": 93, \"Polling_di\": \"CB8\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
     }
 ]
