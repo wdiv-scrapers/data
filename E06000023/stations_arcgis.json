@@ -788,7 +788,7 @@
         "LOCALITY": "St Annes",
         "LOCATION_NAME": "St Annes Infants School Community Room",
         "OBJECTID": 48,
-        "PAO": "=Langton Court Road entrance",
+        "PAO": null,
         "POLLING_DISTRICT": "BRWA",
         "POSTCODE": "BS4 4EJ",
         "SAON": "",
@@ -796,7 +796,7 @@
         "UPRN": 112477,
         "UPRN_2": "000000112477",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.550299259984701, 51.44724743004325], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"ACCESS_DESRIPTION\": \"Use Langton Court Road\", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"St Annes Infants School Community Room\", \"OBJECTID\": 48, \"PAO\": \"=Langton Court Road entrance\", \"POLLING_DISTRICT\": \"BRWA\", \"POSTCODE\": \"BS4 4EJ\", \"SAON\": \" \", \"STREET\": \"Bloomfield Road\", \"UPRN\": 112477, \"UPRN_2\": \"000000112477\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.550299259984701, 51.44724743004325], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"ACCESS_DESRIPTION\": \"Use Langton Court Road\", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St Annes\", \"LOCATION_NAME\": \"St Annes Infants School Community Room\", \"OBJECTID\": 48, \"PAO\": null, \"POLLING_DISTRICT\": \"BRWA\", \"POSTCODE\": \"BS4 4EJ\", \"SAON\": \" \", \"STREET\": \"Bloomfield Road\", \"UPRN\": 112477, \"UPRN_2\": \"000000112477\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1160,9 +1160,9 @@
         "DUAL": "No",
         "DUAL_STN": "",
         "LOCALITY": "Oldbury Court",
-        "LOCATION_NAME": "Little Hayes Nursery School",
+        "LOCATION_NAME": "Oldbury Court Children's Centre",
         "OBJECTID": 71,
-        "PAO": "Frome Vale Primary Academy",
+        "PAO": "Oldbury Court Children's Centre",
         "POLLING_DISTRICT": "FRVE",
         "POSTCODE": "BS16 2QS",
         "SAON": "",
@@ -1170,7 +1170,7 @@
         "UPRN": 273240,
         "UPRN_2": "000000273240",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.516535569372601, 51.491348331142795], \"type\": \"Point\"}, \"id\": 71, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Oldbury Court\", \"LOCATION_NAME\": \"Little Hayes Nursery School\", \"OBJECTID\": 71, \"PAO\": \"Frome Vale Primary Academy\", \"POLLING_DISTRICT\": \"FRVE\", \"POSTCODE\": \"BS16 2QS\", \"SAON\": \" \", \"STREET\": \"Frenchay Road\", \"UPRN\": 273240, \"UPRN_2\": \"000000273240\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.516535569372601, 51.491348331142795], \"type\": \"Point\"}, \"id\": 71, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Oldbury Court\", \"LOCATION_NAME\": \"Oldbury Court Children's Centre\", \"OBJECTID\": 71, \"PAO\": \"Oldbury Court Children's Centre\", \"POLLING_DISTRICT\": \"FRVE\", \"POSTCODE\": \"BS16 2QS\", \"SAON\": \" \", \"STREET\": \"Frenchay Road\", \"UPRN\": 273240, \"UPRN_2\": \"000000273240\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Brangwyn Grove",
@@ -1411,21 +1411,21 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.5532432914254266, 51.457211220946284], \"type\": \"Point\"}, \"id\": 86, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Shore Gallery\", \"OBJECTID\": 86, \"PAO\": \"St Patricks RC Church\", \"POLLING_DISTRICT\": \"SGWC\", \"POSTCODE\": \"BS5 9PF\", \"SAON\": \" \", \"STREET\": \"Dillon Court\", \"UPRN\": 346191, \"UPRN_2\": \"000000346191\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "Pile Marsh Entrance",
+        "ACCESS_DESRIPTION": null,
         "DUAL": "No",
         "DUAL_STN": null,
         "LOCALITY": "St George",
         "LOCATION_NAME": "St Michaels Church Hall",
         "OBJECTID": 87,
-        "PAO": "Pile Marsh Entrance",
+        "PAO": "St Michaels Church Hall",
         "POLLING_DISTRICT": "SGCG",
         "POSTCODE": "BS15 1BQ",
         "SAON": "",
         "STREET": "Two Mile Hill Road",
-        "UPRN": 275145,
-        "UPRN_2": "000000275145",
+        "UPRN": 243397,
+        "UPRN_2": "000000243397",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.521148874762059, 51.461901158972196], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"ACCESS_DESRIPTION\": \"Pile Marsh Entrance\", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"St Michaels Church Hall\", \"OBJECTID\": 87, \"PAO\": \"Pile Marsh Entrance\", \"POLLING_DISTRICT\": \"SGCG\", \"POSTCODE\": \"BS15 1BQ\", \"SAON\": \" \", \"STREET\": \"Two Mile Hill Road\", \"UPRN\": 275145, \"UPRN_2\": \"000000275145\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5213821904931737, 51.46144464792606], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"St Michaels Church Hall\", \"OBJECTID\": 87, \"PAO\": \"St Michaels Church Hall\", \"POLLING_DISTRICT\": \"SGCG\", \"POSTCODE\": \"BS15 1BQ\", \"SAON\": \" \", \"STREET\": \"Two Mile Hill Road\", \"UPRN\": 243397, \"UPRN_2\": \"000000243397\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
