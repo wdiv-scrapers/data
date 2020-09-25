@@ -1,8 +1,8 @@
 [
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": null,
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by BIAB and BIAH",
         "LOCALITY": "Horfield",
         "LOCATION_NAME": "Ashley Down Primary School, Downend Road Site",
         "OBJECTID": 1,
@@ -14,7 +14,7 @@
         "UPRN": 347785,
         "UPRN_2": "000000347784",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.584073627975458, 51.48360600354585], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Ashley Down Primary School, Downend Road Site\", \"OBJECTID\": 1, \"PAO\": \"Ashley Down Junior School\", \"POLLING_DISTRICT\": \"BIAB\", \"POSTCODE\": \"BS7 9PE\", \"SAON\": \" \", \"STREET\": \"Downend Road\", \"UPRN\": 347785, \"UPRN_2\": \"000000347784\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.584073627975458, 51.48360600354585], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAB and BIAH\", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Ashley Down Primary School, Downend Road Site\", \"OBJECTID\": 1, \"PAO\": \"Ashley Down Junior School\", \"POLLING_DISTRICT\": \"BIAB\", \"POSTCODE\": \"BS7 9PE\", \"SAON\": \" \", \"STREET\": \"Downend Road\", \"UPRN\": 347785, \"UPRN_2\": \"000000347784\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Access St. Francis Road",
@@ -1244,23 +1244,6 @@
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": "",
-        "LOCALITY": "St George",
-        "LOCATION_NAME": "Portacabin 1 (SGTC), Dundridge Playing Field Car Park",
-        "OBJECTID": 76,
-        "PAO": "Dundridge Playing Field Car Park",
-        "POLLING_DISTRICT": "SGTC",
-        "POSTCODE": "BS5 8SW",
-        "SAON": "",
-        "STREET": "Dundridge Lane",
-        "UPRN": null,
-        "UPRN_2": "",
-        "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5285397902790248, 51.45037455233378], \"type\": \"Point\"}, \"id\": 76, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Portacabin 1 (SGTC), Dundridge Playing Field Car Park\", \"OBJECTID\": 76, \"PAO\": \"Dundridge Playing Field Car Park\", \"POLLING_DISTRICT\": \"SGTC\", \"POSTCODE\": \"BS5 8SW\", \"SAON\": \" \", \"STREET\": \"Dundridge Lane\", \"UPRN\": null, \"UPRN_2\": \" \"}, \"type\": \"Feature\"}"
-    },
-    {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
         "LOCALITY": "Easton",
         "LOCATION_NAME": "The Church of God of Prophecy Hall",
         "OBJECTID": 77,
@@ -1446,8 +1429,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by SGTA and SGTC",
         "LOCALITY": "St George",
         "LOCATION_NAME": "Portacabin 2 (SGTA), Dundridge Playing Field Car Park",
         "OBJECTID": 89,
@@ -1459,7 +1442,7 @@
         "UPRN": null,
         "UPRN_2": null,
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5285164199009365, 51.45046044891499], \"type\": \"Point\"}, \"id\": 89, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Portacabin 2 (SGTA), Dundridge Playing Field Car Park\", \"OBJECTID\": 89, \"PAO\": \"Dundridge Playing Field Car Park\", \"POLLING_DISTRICT\": \"SGTA\", \"POSTCODE\": \"BS5 8SW\", \"SAON\": \" \", \"STREET\": \"Dundridge Lane\", \"UPRN\": null, \"UPRN_2\": null}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5285164199009365, 51.45046044891499], \"type\": \"Point\"}, \"id\": 89, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by SGTA and SGTC\", \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Portacabin 2 (SGTA), Dundridge Playing Field Car Park\", \"OBJECTID\": 89, \"PAO\": \"Dundridge Playing Field Car Park\", \"POLLING_DISTRICT\": \"SGTA\", \"POSTCODE\": \"BS5 8SW\", \"SAON\": \" \", \"STREET\": \"Dundridge Lane\", \"UPRN\": null, \"UPRN_2\": null}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1939,8 +1922,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by STWB, STWA1 and STWA2",
+        "DUAL": "No",
+        "DUAL_STN": null,
         "LOCALITY": "Stockwood",
         "LOCATION_NAME": "Sturminster Community Association Hall",
         "OBJECTID": 120,
@@ -1952,7 +1935,7 @@
         "UPRN": 152726,
         "UPRN_2": "000000152726",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5538873240315043, 51.419393787390675], \"type\": \"Point\"}, \"id\": 120, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by STWB, STWA1 and STWA2\", \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Sturminster Community Association Hall\", \"OBJECTID\": 120, \"PAO\": \"Sturminster Community Association Hall\", \"POLLING_DISTRICT\": \"STWB\", \"POSTCODE\": \"BS14 8AU\", \"SAON\": \" \", \"STREET\": \"Sturminster Road\", \"UPRN\": 152726, \"UPRN_2\": \"000000152726\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5538873240315043, 51.419393787390675], \"type\": \"Point\"}, \"id\": 120, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Stockwood\", \"LOCATION_NAME\": \"Sturminster Community Association Hall\", \"OBJECTID\": 120, \"PAO\": \"Sturminster Community Association Hall\", \"POLLING_DISTRICT\": \"STWB\", \"POSTCODE\": \"BS14 8AU\", \"SAON\": \" \", \"STREET\": \"Sturminster Road\", \"UPRN\": 152726, \"UPRN_2\": \"000000152726\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Bishop Road access",
@@ -2399,7 +2382,7 @@
     {
         "ACCESS_DESRIPTION": "Gate 2, Brunel Field Site",
         "DUAL": "Yes",
-        "DUAL_STN": "Used by BIAG, BIAE and BIAH",
+        "DUAL_STN": "Used by BIAG and BIAE",
         "LOCALITY": "Bishopston",
         "LOCATION_NAME": "Ashley Down Primary School, Brunel Field Site",
         "OBJECTID": 147,
@@ -2411,7 +2394,7 @@
         "UPRN": 342038,
         "UPRN_2": "000000342038",
         "council_id": "E06000023",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.58311201515744, 51.47822004473711], \"type\": \"Point\"}, \"id\": 147, \"properties\": {\"ACCESS_DESRIPTION\": \"Gate 2, Brunel Field Site\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAG, BIAE and BIAH\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Ashley Down Primary School, Brunel Field Site\", \"OBJECTID\": 147, \"PAO\": \"Gate 2, Brunel Field Site\", \"POLLING_DISTRICT\": \"BIAG\", \"POSTCODE\": \"BS7 9JT\", \"SAON\": \" \", \"STREET\": \"Arthur Milton Street\", \"UPRN\": 342038, \"UPRN_2\": \"000000342038\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.58311201515744, 51.47822004473711], \"type\": \"Point\"}, \"id\": 147, \"properties\": {\"ACCESS_DESRIPTION\": \"Gate 2, Brunel Field Site\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BIAG and BIAE\", \"LOCALITY\": \"Bishopston\", \"LOCATION_NAME\": \"Ashley Down Primary School, Brunel Field Site\", \"OBJECTID\": 147, \"PAO\": \"Gate 2, Brunel Field Site\", \"POLLING_DISTRICT\": \"BIAG\", \"POSTCODE\": \"BS7 9JT\", \"SAON\": \" \", \"STREET\": \"Arthur Milton Street\", \"UPRN\": 342038, \"UPRN_2\": \"000000342038\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "Church Hall",
