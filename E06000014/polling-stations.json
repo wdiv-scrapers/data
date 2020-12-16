@@ -1,5 +1,5 @@
 {
-    "help": "https://data.yorkopendata.org/api/3/action/help_show?name=package_show",
+    "help": "https://ckan.york.production.datopian.com/api/3/action/help_show?name=package_show",
     "result": {
         "author": "City of York Council - Business Intelligence Hub",
         "author_email": "business.intelligence@york.gov.uk",
@@ -15,7 +15,7 @@
                 "description": "Transparency",
                 "display_name": "Transparency",
                 "id": "7429ee4b-c1e8-4044-8aae-0b7e2c44473f",
-                "image_display_url": "https://data.yorkopendata.org/uploads/group/20150306-120313.6689099.png",
+                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/20150306-120313.6689099.png",
                 "name": "transparency",
                 "title": "Transparency"
             }
@@ -71,9 +71,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.csv",
-                "url_type": "",
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": ""
             },
             {
                 "cache_last_updated": null,
@@ -95,9 +93,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.kml",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": null
             },
             {
                 "cache_last_updated": null,
@@ -119,9 +115,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.geojson",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": null
             }
         ],
         "revision_id": "8c48d58d-43d4-4818-94ea-4ee348c448c0",
