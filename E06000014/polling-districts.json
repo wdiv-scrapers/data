@@ -1,5 +1,5 @@
 {
-    "help": "https://data.yorkopendata.org/api/3/action/help_show?name=package_show",
+    "help": "https://ckan.york.production.datopian.com/api/3/action/help_show?name=package_show",
     "result": {
         "author": "City of York Council - Business Intelligence Hub",
         "author_email": "business.intelligence@york.gov.uk",
@@ -15,7 +15,7 @@
                 "description": "Demographics",
                 "display_name": "Demographics",
                 "id": "d86c867f-170e-4163-8966-170455f0c0c7",
-                "image_display_url": "https://data.yorkopendata.org/uploads/group/20150306-120134.12858614.png",
+                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/20150306-120134.12858614.png",
                 "name": "demographics",
                 "title": "Demographics"
             },
@@ -23,7 +23,7 @@
                 "description": "Environment",
                 "display_name": "Environment",
                 "id": "f3aeac94-242f-42f6-b521-ee91757f0327",
-                "image_display_url": "https://data.yorkopendata.org/uploads/group/20150306-120218.16609510.png",
+                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/20150306-120218.16609510.png",
                 "name": "environment",
                 "title": "Environment"
             },
@@ -31,7 +31,7 @@
                 "description": "York City Environment Observatory",
                 "display_name": "The YCEO",
                 "id": "2c93b7ed-63a4-41f9-a169-9a79792cfde2",
-                "image_display_url": "https://data.yorkopendata.org/uploads/group/2016-11-01-134034.995091onlylogo.png",
+                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/2016-11-01-134034.995091onlylogo.png",
                 "name": "york-city-environment-observatory",
                 "title": "The YCEO"
             },
@@ -39,7 +39,7 @@
                 "description": "Urban Assets",
                 "display_name": "Urban Assets",
                 "id": "3dbf77b8-e15c-49f5-8352-f9d62b122557",
-                "image_display_url": "https://data.yorkopendata.org/uploads/group/2016-10-31-124845.855695Urban-Assets.png",
+                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/2016-10-31-124845.855695Urban-Assets.png",
                 "name": "yceo-urban-assets",
                 "title": "Urban Assets"
             }
@@ -95,9 +95,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/8a0d9b3a0ecf449387535dcb4d3298b1_3.csv",
-                "url_type": "",
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": ""
             },
             {
                 "cache_last_updated": null,
@@ -119,9 +117,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/8a0d9b3a0ecf449387535dcb4d3298b1_3.kml",
-                "url_type": "",
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": ""
             },
             {
                 "cache_last_updated": null,
@@ -143,9 +139,7 @@
                 "size": null,
                 "state": "active",
                 "url": "http://data.cyc.opendata.arcgis.com/datasets/8a0d9b3a0ecf449387535dcb4d3298b1_3.geojson",
-                "url_type": null,
-                "webstore_last_updated": null,
-                "webstore_url": null
+                "url_type": null
             }
         ],
         "revision_id": "5a6f8790-25a9-4dcd-9019-f16b4e23b63b",
