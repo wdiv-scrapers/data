@@ -180,24 +180,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2930503393394534, 51.419721815491094], \"type\": \"Point\"}, \"id\": 744, \"properties\": {\"ADDRESS\": \"St Agatha`s Church Hall, Kings Road, Kingston upon Thames, KT2 5JR\", \"CODE\": \"TA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Agatha`s Church Hall\", \"OBJECTID\": 744}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Community Hall, Piper Road, Kingston upon Thames, KT1 3EX",
-        "CODE": "H",
-        "GoogleFriendlyAddress": null,
-        "NAME": "Community Hall",
-        "OBJECTID": 745,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.289320228704591, 51.40722470249416], \"type\": \"Point\"}, \"id\": 745, \"properties\": {\"ADDRESS\": \"Community Hall, Piper Road, Kingston upon Thames, KT1 3EX\", \"CODE\": \"H\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Community Hall\", \"OBJECTID\": 745}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Queen Mary`s Hall, Cambridge Gardens, Kingston upon Thames, KT1 3NJ",
-        "CODE": "HA",
-        "GoogleFriendlyAddress": null,
-        "NAME": "Queen Mary`s Hall",
-        "OBJECTID": 746,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.28775232198238765, 51.409964643785095], \"type\": \"Point\"}, \"id\": 746, \"properties\": {\"ADDRESS\": \"Queen Mary`s Hall, Cambridge Gardens, Kingston upon Thames, KT1 3NJ\", \"CODE\": \"HA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Queen Mary`s Hall\", \"OBJECTID\": 746}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Kingsnympton Youth & Community Centre, Kingston Hill, Kingston upon Thames, KT2 7RE",
         "CODE": "U",
         "GoogleFriendlyAddress": null,
@@ -216,13 +198,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2587456761237299, 51.434064417429475], \"type\": \"Point\"}, \"id\": 748, \"properties\": {\"ADDRESS\": \"St John`s Church Hall (Robin Hood Lane), Robin Hood Lane, London, SW15 3PY\", \"CODE\": \"UA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John`s Church Hall (Robin Hood Lane)\", \"OBJECTID\": 748}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Shiraz Mirza Community Hall, 76A Coombe Road, Kingston upon Thames, KT2 7AZ",
+        "ADDRESS": "Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
         "CODE": "UC",
         "GoogleFriendlyAddress": null,
-        "NAME": "Shiraz Mirza Community Hall",
+        "NAME": "Coombe Hill Junior School",
         "OBJECTID": 749,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.28304126265725926, 51.41238456164258], \"type\": \"Point\"}, \"id\": 749, \"properties\": {\"ADDRESS\": \"Shiraz Mirza Community Hall, 76A Coombe Road, Kingston upon Thames, KT2 7AZ\", \"CODE\": \"UC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Shiraz Mirza Community Hall\", \"OBJECTID\": 749}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.26672931752901324, 51.414874231102466], \"type\": \"Point\"}, \"id\": 749, \"properties\": {\"ADDRESS\": \"Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"UC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Junior School\", \"OBJECTID\": 749}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Corpus Christi Catholic Primary School, Chestnut Grove, New Malden, KT3 3JU",
@@ -279,13 +261,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2365311874781491, 51.38535096875573], \"type\": \"Point\"}, \"id\": 755, \"properties\": {\"ADDRESS\": \"Maple Lodge, 11 Sherbrooke Way, Worcester Park, KT4 8FT\", \"CODE\": \"GB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Oak Hall, Maple Lodge, The Hamptons\", \"OBJECTID\": 755}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Malden Manor Children's Centre, Lawrence Avenue, New Malden, KT3 5NB",
+        "ADDRESS": "Old Malden Children's Centre, Lawrence Avenue, New Malden, KT3 5NB",
         "CODE": "G",
         "GoogleFriendlyAddress": null,
-        "NAME": "Malden Manor Children's Centre",
+        "NAME": "Old Malden Children's Centre",
         "OBJECTID": 756,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2618224956797059, 51.386669386732414], \"type\": \"Point\"}, \"id\": 756, \"properties\": {\"ADDRESS\": \"Malden Manor Children's Centre, Lawrence Avenue, New Malden, KT3 5NB\", \"CODE\": \"G\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Malden Manor Children's Centre\", \"OBJECTID\": 756}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2618224956797059, 51.386669386732414], \"type\": \"Point\"}, \"id\": 756, \"properties\": {\"ADDRESS\": \"Old Malden Children's Centre, Lawrence Avenue, New Malden, KT3 5NB\", \"CODE\": \"G\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Old Malden Children's Centre\", \"OBJECTID\": 756}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St John`s Church Hall (Malden Road), 411 Malden Road, Worcester Park, KT4 7NY",
@@ -342,13 +324,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.30060792856839474, 51.37746358697404], \"type\": \"Point\"}, \"id\": 762, \"properties\": {\"ADDRESS\": \"1st Hook Scout HQ, Verona Drive / Kent Way, Surbiton, KT6 5AJ\", \"CODE\": \"J\", \"GoogleFriendlyAddress\": null, \"NAME\": \"1st Hook Scout HQ\", \"OBJECTID\": 762}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Caravan A / B at Coombe Girls' School, Darley Drive Entrance, New Malden, KT3 3TU",
-        "CODE": "SA / UB",
-        "GoogleFriendlyAddress": "21 Darley Dr, New Malden KT3 3AS",
-        "NAME": "Caravans A and B at Coombe Girls' School",
+        "ADDRESS": "Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
+        "CODE": "SA",
+        "GoogleFriendlyAddress": "",
+        "NAME": "Coombe Hill Infant School",
         "OBJECTID": 763,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2641665464737835, 51.41081446930733], \"type\": \"Point\"}, \"id\": 763, \"properties\": {\"ADDRESS\": \"Caravan A / B at Coombe Girls' School, Darley Drive Entrance, New Malden, KT3 3TU\", \"CODE\": \"SA / UB\", \"GoogleFriendlyAddress\": \"21 Darley Dr, New Malden KT3 3AS\", \"NAME\": \"Caravans A and B at Coombe Girls' School\", \"OBJECTID\": 763}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 763, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"SA\", \"GoogleFriendlyAddress\": \"\", \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 763}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Andrew's Church Maple Road, Surbiton, KT6 4AB",
@@ -358,15 +340,6 @@
         "OBJECTID": 764,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.30889330805898874, 51.393284085927455], \"type\": \"Point\"}, \"id\": 764, \"properties\": {\"ADDRESS\": \"St Andrew's Church Maple Road, Surbiton, KT6 4AB\", \"CODE\": \"L\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Andrew's Church\", \"OBJECTID\": 764}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Fern Hill Primary School Richmond Road, Kingston Upon Thames, KT2 5PE",
-        "CODE": "VA",
-        "GoogleFriendlyAddress": null,
-        "NAME": "Fern Hill Primary School",
-        "OBJECTID": 765,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.3017867134027431, 51.42333361201977], \"type\": \"Point\"}, \"id\": 765, \"properties\": {\"ADDRESS\": \"Fern Hill Primary School Richmond Road, Kingston Upon Thames, KT2 5PE\", \"CODE\": \"VA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Fern Hill Primary School\", \"OBJECTID\": 765}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Tolworth Recreation Centre, Fullers Way North, Surbiton, KT6 7LQ",
@@ -466,5 +439,41 @@
         "OBJECTID": 1176,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.3007424455054248, 51.40305359431356], \"type\": \"Point\"}, \"id\": 1176, \"properties\": {\"ADDRESS\": \"St John the Evangilist, Grove Lane, Kingston upon Thames, KT1 2SU\", \"CODE\": \"EA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John the Evangilist\", \"OBJECTID\": 1176}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Peter's Church, London Road, Kingston Upon Thames, KT2 6QL",
+        "CODE": "HA",
+        "GoogleFriendlyAddress": null,
+        "NAME": "St Peter's Church",
+        "OBJECTID": 1177,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2911520109571411, 51.41085752965641], \"type\": \"Point\"}, \"id\": 1177, \"properties\": {\"ADDRESS\": \"St Peter's Church, London Road, Kingston Upon Thames, KT2 6QL\", \"CODE\": \"HA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Peter's Church\", \"OBJECTID\": 1177}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "St Peter's Parish Room, Washington Road, Kingston upon Thames, KT1 3JB",
+        "CODE": "H",
+        "GoogleFriendlyAddress": null,
+        "NAME": "St Peter's Parish Room",
+        "OBJECTID": 1178,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2898265306409335, 51.40779971566117], \"type\": \"Point\"}, \"id\": 1178, \"properties\": {\"ADDRESS\": \"St Peter's Parish Room, Washington Road, Kingston upon Thames, KT1 3JB\", \"CODE\": \"H\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Peter's Parish Room\", \"OBJECTID\": 1178}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Leander Kingston Sea Scouts Group, Boat House, 92 Lower Ham Road, Kingston upon Thames, KT2 5BB",
+        "CODE": "VA",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Leander Kingston Sea Scouts Group",
+        "OBJECTID": 1179,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.3055628222517585, 51.42263924422847], \"type\": \"Point\"}, \"id\": 1179, \"properties\": {\"ADDRESS\": \"Leander Kingston Sea Scouts Group, Boat House, 92 Lower Ham Road, Kingston upon Thames, KT2 5BB\", \"CODE\": \"VA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Leander Kingston Sea Scouts Group\", \"OBJECTID\": 1179}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Malden Wanderers, Club House, 20 Cambridge Avenue, New Malden, KT3 4LE",
+        "CODE": "UB",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Malden Wanderers, Club House",
+        "OBJECTID": 1180,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.25513824911831817, 51.40846661503056], \"type\": \"Point\"}, \"id\": 1180, \"properties\": {\"ADDRESS\": \"Malden Wanderers, Club House, 20 Cambridge Avenue, New Malden, KT3 4LE\", \"CODE\": \"UB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Malden Wanderers, Club House\", \"OBJECTID\": 1180}, \"type\": \"Feature\"}"
     }
 ]
