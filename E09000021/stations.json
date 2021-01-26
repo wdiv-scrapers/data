@@ -326,11 +326,11 @@
     {
         "ADDRESS": "Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
         "CODE": "SA",
-        "GoogleFriendlyAddress": "",
+        "GoogleFriendlyAddress": "<Null>",
         "NAME": "Coombe Hill Infant School",
         "OBJECTID": 763,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 763, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"SA\", \"GoogleFriendlyAddress\": \"\", \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 763}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 763, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"SA\", \"GoogleFriendlyAddress\": \"<Null>\", \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 763}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Andrew's Church Maple Road, Surbiton, KT6 4AB",
@@ -450,13 +450,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2911520109571411, 51.41085752965641], \"type\": \"Point\"}, \"id\": 1177, \"properties\": {\"ADDRESS\": \"St Peter's Church, London Road, Kingston Upon Thames, KT2 6QL\", \"CODE\": \"HA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Peter's Church\", \"OBJECTID\": 1177}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Peter's Parish Room, Washington Road, Kingston upon Thames, KT1 3JB",
+        "ADDRESS": "Archway, Washington Road, Kingston upon Thames, KT1 3JB",
         "CODE": "H",
         "GoogleFriendlyAddress": null,
-        "NAME": "St Peter's Parish Room",
+        "NAME": "Archway",
         "OBJECTID": 1178,
         "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2898265306409335, 51.40779971566117], \"type\": \"Point\"}, \"id\": 1178, \"properties\": {\"ADDRESS\": \"St Peter's Parish Room, Washington Road, Kingston upon Thames, KT1 3JB\", \"CODE\": \"H\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St Peter's Parish Room\", \"OBJECTID\": 1178}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2898265306409335, 51.40779971566117], \"type\": \"Point\"}, \"id\": 1178, \"properties\": {\"ADDRESS\": \"Archway, Washington Road, Kingston upon Thames, KT1 3JB\", \"CODE\": \"H\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Archway\", \"OBJECTID\": 1178}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Leander Kingston Sea Scouts Group, Boat House, 92 Lower Ham Road, Kingston upon Thames, KT2 5BB",
