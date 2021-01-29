@@ -387,15 +387,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.28292694326274387, 51.40502288336597], \"type\": \"Point\"}, \"id\": 770, \"properties\": {\"ADDRESS\": \"Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB\", \"CODE\": \"HB\", \"GoogleFriendlyAddress\": \"Kingsmeadow Function & Conference Centre, Jack Goodchild Way, Kingston upon Thames KT1 3PB\", \"NAME\": \"Kingsmeadow\", \"OBJECTID\": 770}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Star Centre, 50 King Charles Crescent, Surbiton, KT5 8SX",
-        "CODE": "AA",
-        "GoogleFriendlyAddress": null,
-        "NAME": "Star Centre",
-        "OBJECTID": 771,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2933890203054479, 51.388952375784804], \"type\": \"Point\"}, \"id\": 771, \"properties\": {\"ADDRESS\": \"Star Centre, 50 King Charles Crescent, Surbiton, KT5 8SX\", \"CODE\": \"AA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Star Centre\", \"OBJECTID\": 771}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF",
         "CODE": "TB",
         "GoogleFriendlyAddress": null,
@@ -475,5 +466,14 @@
         "OBJECTID": 1180,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.25513824911831817, 51.40846661503056], \"type\": \"Point\"}, \"id\": 1180, \"properties\": {\"ADDRESS\": \"Malden Wanderers, Club House, 20 Cambridge Avenue, New Malden, KT3 4LE\", \"CODE\": \"UB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Malden Wanderers, Club House\", \"OBJECTID\": 1180}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ",
+        "CODE": "AA",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Christ Church Church Hall",
+        "OBJECTID": 1577,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2925319182678563, 51.38985552762207], \"type\": \"Point\"}, \"id\": 1577, \"properties\": {\"ADDRESS\": \"Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ\", \"CODE\": \"AA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Christ Church Church Hall\", \"OBJECTID\": 1577}, \"type\": \"Feature\"}"
     }
 ]
