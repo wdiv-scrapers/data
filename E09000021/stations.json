@@ -198,15 +198,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2587456761237299, 51.434064417429475], \"type\": \"Point\"}, \"id\": 748, \"properties\": {\"ADDRESS\": \"St John`s Church Hall (Robin Hood Lane), Robin Hood Lane, London, SW15 3PY\", \"CODE\": \"UA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John`s Church Hall (Robin Hood Lane)\", \"OBJECTID\": 748}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
-        "CODE": "UC",
-        "GoogleFriendlyAddress": null,
-        "NAME": "Coombe Hill Junior School",
-        "OBJECTID": 749,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.26672931752901324, 51.414874231102466], \"type\": \"Point\"}, \"id\": 749, \"properties\": {\"ADDRESS\": \"Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"UC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Junior School\", \"OBJECTID\": 749}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Corpus Christi Catholic Primary School, Chestnut Grove, New Malden, KT3 3JU",
         "CODE": "SB",
         "GoogleFriendlyAddress": null,
@@ -322,15 +313,6 @@
         "OBJECTID": 762,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.30060792856839474, 51.37746358697404], \"type\": \"Point\"}, \"id\": 762, \"properties\": {\"ADDRESS\": \"1st Hook Scout HQ, Verona Drive / Kent Way, Surbiton, KT6 5AJ\", \"CODE\": \"J\", \"GoogleFriendlyAddress\": null, \"NAME\": \"1st Hook Scout HQ\", \"OBJECTID\": 762}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
-        "CODE": "SA",
-        "GoogleFriendlyAddress": "<Null>",
-        "NAME": "Coombe Hill Infant School",
-        "OBJECTID": 763,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 763, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"SA\", \"GoogleFriendlyAddress\": \"<Null>\", \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 763}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Andrew's Church Maple Road, Surbiton, KT6 4AB",
@@ -475,5 +457,23 @@
         "OBJECTID": 1577,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2925319182678563, 51.38985552762207], \"type\": \"Point\"}, \"id\": 1577, \"properties\": {\"ADDRESS\": \"Christ Church Church Hall, 8 Christ Church Road, Surbiton, KT5 8JJ\", \"CODE\": \"AA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Christ Church Church Hall\", \"OBJECTID\": 1577}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
+        "CODE": "SA",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Coombe Hill Junior School",
+        "OBJECTID": 1978,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.266116442830828, 51.414699022282704], \"type\": \"Point\"}, \"id\": 1978, \"properties\": {\"ADDRESS\": \"Coombe Hill Junior School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"SA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Junior School\", \"OBJECTID\": 1978}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD",
+        "CODE": "UC",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Coombe Hill Infant School",
+        "OBJECTID": 1979,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 1979, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"UC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 1979}, \"type\": \"Feature\"}"
     }
 ]
