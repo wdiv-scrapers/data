@@ -360,15 +360,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.28575593328012316, 51.41772669223651], \"type\": \"Point\"}, \"id\": 769, \"properties\": {\"ADDRESS\": \"St. Paul's Church, Alexandra Road, Kingston Upon Thames, KT2 7SF\", \"CODE\": \"TC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St. Paul's Church\", \"OBJECTID\": 769}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB",
-        "CODE": "HB",
-        "GoogleFriendlyAddress": "Kingsmeadow Function & Conference Centre, Jack Goodchild Way, Kingston upon Thames KT1 3PB",
-        "NAME": "Kingsmeadow",
-        "OBJECTID": 770,
-        "council_id": "E09000021",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.28292694326274387, 51.40502288336597], \"type\": \"Point\"}, \"id\": 770, \"properties\": {\"ADDRESS\": \"Kingsmeadow, 422A Kingston Road, Kingston upon Thames, KT1 3PB\", \"CODE\": \"HB\", \"GoogleFriendlyAddress\": \"Kingsmeadow Function & Conference Centre, Jack Goodchild Way, Kingston upon Thames KT1 3PB\", \"NAME\": \"Kingsmeadow\", \"OBJECTID\": 770}, \"type\": \"Feature\"}"
-    },
-    {
         "ADDRESS": "Cornerstone Church Kingston, 234A Canbury Park Road, Kingston upon Thames KT2 6LF",
         "CODE": "TB",
         "GoogleFriendlyAddress": null,
@@ -475,5 +466,14 @@
         "OBJECTID": 1979,
         "council_id": "E09000021",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.26699588858889434, 51.41487255498194], \"type\": \"Point\"}, \"id\": 1979, \"properties\": {\"ADDRESS\": \"Coombe Hill Infant School, Coombe Lane West, Kingston upon Thames, KT2 7DD\", \"CODE\": \"UC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Infant School\", \"OBJECTID\": 1979}, \"type\": \"Feature\"}"
+    },
+    {
+        "ADDRESS": "Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX",
+        "CODE": "HB",
+        "GoogleFriendlyAddress": null,
+        "NAME": "Searchlight Y & C Centre",
+        "OBJECTID": 1980,
+        "council_id": "E09000021",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2806854574221364, 51.40498389815292], \"type\": \"Point\"}, \"id\": 1980, \"properties\": {\"ADDRESS\": \"Searchlight Y & C Centre, Kingston Road, New Malden, KT3 3RX\", \"CODE\": \"HB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Searchlight Y & C Centre\", \"OBJECTID\": 1980}, \"type\": \"Feature\"}"
     }
 ]
