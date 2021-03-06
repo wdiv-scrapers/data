@@ -6747,7 +6747,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1614967796746)",
+                "endDate": "eventsBefore(1614989405351)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "gis_moray",
                 "status": "not(private,draft,planned)"
@@ -6761,7 +6761,7 @@
             "count": 7,
             "totalCount": 7
         },
-        "took": 2170,
+        "took": 159,
         "total": 7
     }
 }
