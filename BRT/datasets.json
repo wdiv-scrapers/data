@@ -9770,7 +9770,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1615291398045)",
+                "endDate": "eventsBefore(1615312987720)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "Broxtowe_GIS",
                 "status": "not(private,draft,planned)"
@@ -9784,7 +9784,7 @@
             "count": 10,
             "totalCount": 12
         },
-        "took": 1606,
+        "took": 1720,
         "total": 12
     }
 }
