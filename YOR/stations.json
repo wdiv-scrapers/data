@@ -495,15 +495,6 @@
         "pk": 76
     },
     {
-        "OBJECTID_1": 77,
-        "POLLINGDIS": "YFB",
-        "POLLINGSTA": "Heworth Without Community Centre, Applecroft Road, York, YO31 0HG",
-        "WARD": "Heworth Without",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.046439970162141, 53.96826416251098], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 77, \"POLLINGDIS\": \"YFB\", \"POLLINGSTA\": \"Heworth Without Community Centre, Applecroft Road, York, YO31 0HG\", \"WARD\": \"Heworth Without\"}, \"type\": \"Feature\"}",
-        "pk": 77
-    },
-    {
         "OBJECTID_1": 78,
         "POLLINGDIS": "BD / YKE / YKF",
         "POLLINGSTA": "The Church Room, St. Philip & St. James Church, Clifton, York, YO30 6BH",
@@ -790,5 +781,14 @@
         "council_id": "YOR",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.964076070981318, 53.89646103857439], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2113, \"POLLINGDIS\": \"YMC\", \"POLLINGSTA\": \"Wenlock Arms, 73 Main Street, Wheldrake, York, YO19 6AA\", \"WARD\": \"Wheldrake\"}, \"type\": \"Feature\"}",
         "pk": 2113
+    },
+    {
+        "OBJECTID_1": 2501,
+        "POLLINGDIS": "YFB",
+        "POLLINGSTA": "The Walnut Tree, Heworth, York, YO31 1AN",
+        "WARD": "Heworth",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.055418476280555, 53.96708488633663], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2501, \"POLLINGDIS\": \"YFB\", \"POLLINGSTA\": \"The Walnut Tree, Heworth, York, YO31 1AN\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
+        "pk": 2501
     }
 ]
