@@ -53,6 +53,15 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Districts",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -171,6 +180,15 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Places",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -286,6 +304,15 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Places",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -1391,6 +1418,15 @@
                 "name": "Polling Districts (Moray)",
                 "objectIdField": "OBJECTID",
                 "openData": true,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -4434,6 +4470,15 @@
                 "name": "Polling Places (Moray)",
                 "objectIdField": "OBJECTID",
                 "openData": true,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -6550,6 +6595,15 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Moray Polling Districts V2",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -6663,6 +6717,15 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Districts",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "wkid": 27700
+                    },
+                    "xmax": 375218.9613413748,
+                    "xmin": 271122.86079518916,
+                    "ymax": 879540.5301676726,
+                    "ymin": 774487.6775276749
+                },
                 "orgId": "ziethFnsF0nRRmsd",
                 "orgName": "Moray Council",
                 "organization": "Moray Council",
@@ -6747,7 +6810,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1615982974387)",
+                "endDate": "eventsBefore(1616004575782)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "gis_moray",
                 "status": "not(private,draft,planned)"
@@ -6761,7 +6824,7 @@
             "count": 7,
             "totalCount": 7
         },
-        "took": 146,
+        "took": 3357,
         "total": 7
     }
 }
