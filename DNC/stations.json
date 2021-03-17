@@ -400,24 +400,24 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0941084650663606, 53.536837408959286], \"type\": \"Point\"}, \"id\": 961, \"properties\": {\"ADDRESS\": \"Ennerdale Communal Hall, 1 Fernhurst Road, DN2 5QL\", \"OBJECTID\": 961, \"POLLINGPLA\": \"Ennerdale Communal Hall, 1 Fernhurst Road, DN2 5QL\", \"POLLING_DI\": \"DH\", \"UPRN\": \"010006622827\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Deaf Trust, Leger Way, DN2 6AY",
+        "ADDRESS": "Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA",
         "OBJECTID": 962,
-        "POLLINGPLA": "Deaf Trust, Leger Way, DN2 6AY",
+        "POLLINGPLA": "Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA",
         "POLLING_DI": "CG",
-        "UPRN": "010006622070",
+        "UPRN": "100051971974",
         "WARD": "Town Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1084032570892075, 53.52033247496585], \"type\": \"Point\"}, \"id\": 962, \"properties\": {\"ADDRESS\": \"Deaf Trust, Leger Way, DN2 6AY\", \"OBJECTID\": 962, \"POLLINGPLA\": \"Deaf Trust, Leger Way, DN2 6AY\", \"POLLING_DI\": \"CG\", \"UPRN\": \"010006622070\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1189707099098098, 53.52011553846498], \"type\": \"Point\"}, \"id\": 962, \"properties\": {\"ADDRESS\": \"Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA\", \"OBJECTID\": 962, \"POLLINGPLA\": \"Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA\", \"POLLING_DI\": \"CG\", \"UPRN\": \"100051971974\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Intake Primary School, Nursery Unit, Fairfax Road, DN2 6EW",
+        "ADDRESS": "Harvest Fields Ministries, Evelyn Avenue, DN2 6LW",
         "OBJECTID": 963,
-        "POLLINGPLA": "Intake Primary School, Nursery Unit, Fairfax Road, DN2 6EW",
+        "POLLINGPLA": "Harvest Fields Ministries, Evelyn Avenue, DN2 6LW",
         "POLLING_DI": "DB",
-        "UPRN": "100051971976",
+        "UPRN": "010006617573",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.102112532173799, 53.52756039068986], \"type\": \"Point\"}, \"id\": 963, \"properties\": {\"ADDRESS\": \"Intake Primary School, Nursery Unit, Fairfax Road, DN2 6EW\", \"OBJECTID\": 963, \"POLLINGPLA\": \"Intake Primary School, Nursery Unit, Fairfax Road, DN2 6EW\", \"POLLING_DI\": \"DB\", \"UPRN\": \"100051971976\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0994224458748079, 53.52816592282027], \"type\": \"Point\"}, \"id\": 963, \"properties\": {\"ADDRESS\": \"Harvest Fields Ministries, Evelyn Avenue, DN2 6LW\", \"OBJECTID\": 963, \"POLLINGPLA\": \"Harvest Fields Ministries, Evelyn Avenue, DN2 6LW\", \"POLLING_DI\": \"DB\", \"UPRN\": \"010006617573\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Plover Primary School, Coniston Road, DN2 6JL",
@@ -590,14 +590,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1512051025714118, 53.50770334681156], \"type\": \"Point\"}, \"id\": 980, \"properties\": {\"ADDRESS\": \"St Johns Scout Headquarters, Greenfield Lane, DN4 0PT\", \"OBJECTID\": 980, \"POLLINGPLA\": \"St Johns Scout Headquarters, Greenfield Lane, DN4 0PT\", \"POLLING_DI\": \"AE\", \"UPRN\": \"010006617544\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Balby Waverley Primary School, Douglas Road, DN4 0UB",
+        "ADDRESS": "Waverley Community Centre, Church Lane, Balby, DN4 0UQ",
         "OBJECTID": 981,
-        "POLLINGPLA": "Balby Waverley Primary School, Douglas Road, DN4 0UB",
+        "POLLINGPLA": "Waverley Community Centre, Church Lane, Balby, DN4 0UQ",
         "POLLING_DI": "AB",
-        "UPRN": "010006572267",
+        "UPRN": "100051979654",
         "WARD": "Hexthorpe and Balby North Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1686659913655022, 53.50229797574892], \"type\": \"Point\"}, \"id\": 981, \"properties\": {\"ADDRESS\": \"Balby Waverley Primary School, Douglas Road, DN4 0UB\", \"OBJECTID\": 981, \"POLLINGPLA\": \"Balby Waverley Primary School, Douglas Road, DN4 0UB\", \"POLLING_DI\": \"AB\", \"UPRN\": \"010006572267\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.170670992335474, 53.50418586280704], \"type\": \"Point\"}, \"id\": 981, \"properties\": {\"ADDRESS\": \"Waverley Community Centre, Church Lane, Balby, DN4 0UQ\", \"OBJECTID\": 981, \"POLLINGPLA\": \"Waverley Community Centre, Church Lane, Balby, DN4 0UQ\", \"POLLING_DI\": \"AB\", \"UPRN\": \"100051979654\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Community House, 31 Clark Avenue, DN4 5BX",
@@ -1510,14 +1510,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0217929566116406, 53.48976184865114], \"type\": \"Point\"}, \"id\": 1077, \"properties\": {\"ADDRESS\": \"Hayfield Lane Primary School, Hayfield Lane, DN9 3NB\", \"OBJECTID\": 1077, \"POLLINGPLA\": \"Hayfield Lane Primary School, Hayfield Lane, DN9 3NB\", \"POLLING_DI\": \"KF\", \"UPRN\": \"010006570783\", \"WARD\": \"Finningley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Mary Woollett, Danum Road, DN4 5HF",
+        "ADDRESS": "Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA",
         "OBJECTID": 1078,
-        "POLLINGPLA": "Mary Woollett, Danum Road, DN4 5HF",
+        "POLLINGPLA": "Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA",
         "POLLING_DI": "CD",
-        "UPRN": "200002732430",
+        "UPRN": "100051971974",
         "WARD": "Town Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1150154499385483, 53.5179849489033], \"type\": \"Point\"}, \"id\": 1078, \"properties\": {\"ADDRESS\": \"Mary Woollett, Danum Road, DN4 5HF\", \"OBJECTID\": 1078, \"POLLINGPLA\": \"Mary Woollett, Danum Road, DN4 5HF\", \"POLLING_DI\": \"CD\", \"UPRN\": \"200002732430\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1189714146727776, 53.52011617376364], \"type\": \"Point\"}, \"id\": 1078, \"properties\": {\"ADDRESS\": \"Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA\", \"OBJECTID\": 1078, \"POLLINGPLA\": \"Doncaster Town Fields Sports Club, Bennetthorpe, DN2 6AA\", \"POLLING_DI\": \"CD\", \"UPRN\": \"100051971974\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Park Primary School, Foundation Stage Unit, Monmouth Road, VDN00522",
