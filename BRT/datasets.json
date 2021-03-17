@@ -417,6 +417,17 @@
                 "name": "Polling Locations",
                 "objectIdField": "OBJECTID",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -911,6 +922,17 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Districts",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -1511,6 +1533,17 @@
                 "name": "Polling Districts",
                 "objectIdField": "OBJECTID",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -1744,11 +1777,11 @@
                 ],
                 "commentsEnabled": true,
                 "composeStatus": {
-                    "lastRetriedAt": 1613777349274,
+                    "lastRetriedAt": 1615989849960,
                     "pass": true,
                     "retries": 0
                 },
-                "composedAt": 1613777349273,
+                "composedAt": 1615989849959,
                 "content": "Feature Service",
                 "contentSecurityPolicy": null,
                 "created": 1518446730000,
@@ -2096,7 +2129,7 @@
                 "hasApi": true,
                 "hubType": "Feature Layer",
                 "id": "a3da8ff112a647fe857a45c9996488fd_3",
-                "itemModified": 1553773166000,
+                "itemModified": 1615989847000,
                 "layer": {
                     "advancedQueryCapabilities": {
                         "supportsCountDistinct": true,
@@ -2912,14 +2945,6 @@
                 "maxRecordCount": 10000,
                 "metadata": {
                     "metadata": {
-                        "Binary": {
-                            "Thumbnail": {
-                                "Data": {
-                                    "#value": "/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigCpd362dzZwtb3MpupTEGhiLrH8pbc5H3V4xn1Iq3RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBU1LUrXSbFry8d0gVlUlI2c5Zgo4UE9SKt1U1KO/ltVXTrmG3n81CzzRGQbAw3gAEclcgGqEEF5Yw2GmWOqR3c1s6tePft5k7wHdz8uMMSMAkY4PXFAG1RWTpl86XH9kajqFtcawkZuHWCIxjyi7BTgk+gHXqPetagAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACs25s5otWt7yws7DfMwjvp5AVlMKqxUKQOSGI4JxgmtKigCppupWWr2a3thOk9u5ZRIvQlWKkfgQasu6RrudlUEhcscck4A/EkCnAAdBis/W9MTVtKmtTFbPLxJAbmLzESVeUYrxnDAGgCUyX/9rpGLeA6cYCzTeafMEu4YXZjG3GTnPXtVuqGmJqyfaBqk1nKNy+Q1tGyfLsXduBJ53bsY7YqDfq+maJukX+2dQWTpEq2+9Wk9CcDap9edvvQBrUVWsNRs9Vs1u7C6iubZiyrLEwZSVJU4I9CCKs0AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGTLNOfFdrbrNeJbizkkeMWwMDtuULmXGQ45+UdQc9udaoJr21t7m3t5rmKOe4JEMbuA0hAydo6nA54qegCoLBV1Z9R+0XO5oBD5JlPlABidwTpu5xn0FW6KKAMeLWU+1LawaTqIX7Y9qz/Z9iIQm8yckZjPTcM5JrYoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAI3ghllilkijeSIkxuyglCRg4Pbg4qSiigCOeCO5t5YJQTHKhRgGKkgjB5HI+opllZw6fY29nbqywW8axRhmLEKowBk8ngd6nooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCpf3N1bJAbWxe7LzpHIqyKnloT8z/N1AHOByat0VnadJLHDem71OC88u4kO6NAnkJ1EbYJ5UEcnBPpQBo0VQi1rTZ9DXWkvI/7NaD7R9pJwvl4zuOegxVuCaK5gjngkWSGVQ6OhyGUjIIPcEUASUU1HSRA6MrIwyGU5Bp1ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVm3Wk/6Hcx6VKml3FxMs0lxBAhLNkbiQRglgMZPrU+ozWMdr5WoXEcMNyRbjfL5e9n4Cqcg7j2xzUOiaJZ+H9P+w2Jn8gOWUTzvKVz2BYkgDsOlADodJtbQ372ybZL5/Mm8xmkQtsCD5ScAYUDAx0qXToruPTLeLUZYZ7tYws0kMexGbHJCknApdRvotM064vp1laK3jMjrDGZHIAzwo5JqdX8yJXUHDDIDAqfxB5FAGauhW1taafZ6c8mm2llMJEgs9qI4GfkYYOVJbJHr3qyb9V1ZNO+z3O5oDN5wiPlABgNpfpu5zj0FVlXXJvDrLJJY22tNCwDxq0sCSc4ODgkdP8A69UopLnXr/TL7T9Vgk0eBXd5bOX/AI+JwShRlwQYx8xxuzuA9KAOhoqppsN5b6dBFqF2t5dquJJ1iEQc+u0E4q3QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBHNBDcBBNFHIEcOodQdrA5BGehB71JRVS/v109IGa3uZvOnSEC3iMhUscbmx0Udz2oAt1mwrZ6Pcuk2oyebqN0zxJdXG4lyv3IgegAUnaOnNTnUrNdWXSzcKL5oTcLDzkxhgpb8yBVHUNRhme8g062t9R1jTQkq2sjiMozghTvIIUld3I7ccZoAvR2Cx6rPqAuLlmmiSIwtKTEu0sdyp0DHdye+BVZNNOkWWpPpMZlurh5LlIridthlI6AnOxSQOAMDJ4rUGcc9aKAKGn2At5bi9k8xbu8Eb3Ef2h5I0ZVC4QHgDjsBnqav0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABgZzjmjAznHNFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k=",
-                                    "@_EsriPropertyType": "PictureX"
-                                }
-                            }
-                        },
                         "Esri": {
                             "ArcGISFormat": 1,
                             "ArcGISProfile": "INSPIRE",
@@ -2934,22 +2959,10 @@
                                     "projcsn": "British_National_Grid",
                                     "type": "Projected"
                                 },
-                                "copyHistory": {
-                                    "copy": {
-                                        "@_date": "20150319",
-                                        "@_dest": "\\\\broxtowe.gov.uk\\FILE\\GIS\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations",
-                                        "@_source": "W:\\Background_Data\\WORKING_FOLDERS\\Ready_to_Copy\\Polling_Stations",
-                                        "@_time": "09343700"
-                                    }
-                                },
                                 "itemProps": {
                                     "imsContentType": {
                                         "#value": 2,
                                         "@_export": "False"
-                                    },
-                                    "itemLocation": {
-                                        "linkage": "Server=server196; Service=sde:sqlserver:server196\\gisdata; Database=Maps; User=GIDO; Version=sde.DEFAULT",
-                                        "protocol": "ArcSDE Connection"
                                     },
                                     "itemName": "Polling_Stations",
                                     "nativeExtBox": {
@@ -2959,398 +2972,10 @@
                                         "southBL": 334437.5821,
                                         "westBL": 446393.093
                                     }
-                                },
-                                "lineage": {
-                                    "Process": [
-                                        {
-                                            "#value": "CalculateField W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\Layers_New\\Pol_Stat.shp Updated Now() VB # W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\Layers_New\\Pol_Stat.shp",
-                                            "@_Date": "20110216",
-                                            "@_Time": "114118",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\Layers_New\\Polling_Stations.shp Updated Now() VB # W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\Layers_New\\Polling_Stations.shp",
-                                            "@_Date": "20110222",
-                                            "@_Time": "090028",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "AddXY W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\ELECTIONS\\Polling_Stations.shp W:\\Background_Data\\WORKING_FOLDERS\\Users\\JC\\ELECTIONS\\Polling_Stations.shp",
-                                            "@_Date": "20110225",
-                                            "@_Time": "101025",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddXY"
-                                        },
-                                        {
-                                            "#value": "AddField Polling_Stations All_Sta TEXT # # 50 # NON_NULLABLE NON_REQUIRED # Polling_Stations",
-                                            "@_Date": "20110225",
-                                            "@_Time": "111018",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations All_Sta \"[POLL_DIST] & \", \"\" VB # Polling_Stations",
-                                            "@_Date": "20110225",
-                                            "@_Time": "111708",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations All_Sta \"[POLL_DIST] &\", \"& [OTHER_STA]\" VB # Polling_Stations",
-                                            "@_Date": "20110225",
-                                            "@_Time": "111810",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "AddField Polling_Stations Pri_Rec TEXT # # # # NON_NULLABLE NON_REQUIRED # Polling_Stations",
-                                            "@_Date": "20110225",
-                                            "@_Time": "112303",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField Polling_Stations X DOUBLE # # # # NON_NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20120828",
-                                            "@_Time": "095129",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField Polling_Stations Y DOUBLE # # # # NON_NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20120828",
-                                            "@_Time": "095129",
-                                            "@_ToolSource": "C:\\Program Files\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField Polling_Stations BoxNumbers TEXT # # # # NON_NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20130322",
-                                            "@_Time": "090858",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations NS 'North' PYTHON_9.3 #",
-                                            "@_Date": "20140507",
-                                            "@_Time": "094856",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations NS 'South' PYTHON_9.3 #",
-                                            "@_Date": "20140507",
-                                            "@_Time": "094930",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations All_Sta \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "085750",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations BoxNumbers \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "085801",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations POLL_DIST \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "085843",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations WARD_ID \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "085851",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations WARD \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "085859",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField NEW_PollingStations Pri_Rec \"\" VB #",
-                                            "@_Date": "20150107",
-                                            "@_Time": "090029",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations MapRank [POLL_DIST] VB #",
-                                            "@_Date": "20150325",
-                                            "@_Time": "080858",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations MapRank !POLL_DIST![-1:] PYTHON_9.3 #",
-                                            "@_Date": "20150325",
-                                            "@_Time": "081124",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations WARD_ID !POLL_DIST![:3] PYTHON_9.3 #",
-                                            "@_Date": "20150325",
-                                            "@_Time": "081413",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations WARD_ID !POLL_DIST![:4] PYTHON_9.3 #",
-                                            "@_Date": "20150325",
-                                            "@_Time": "081431",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations WARD_ID !POLL_DIST![:3] PYTHON_9.3 #",
-                                            "@_Date": "20150325",
-                                            "@_Time": "081514",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations WARD_ID !POLL_DIST![:3] PYTHON_9.3 #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072036",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations WARD_ID !POLL_DIST![:3] PYTHON_9.3 #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072102",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 1 PYTHON_9.3 #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072251",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 2 VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072306",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 6 VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072322",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 4 VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072340",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 5 VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072400",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea 3 VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072416",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations Ins [InspArea] VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072528",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations InspArea !Ins! PYTHON_9.3 #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072604",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations X \"Int ( [X] )\" VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "072957",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations Y \"Int ( [Y] )\" VB #",
-                                            "@_Date": "20150326",
-                                            "@_Time": "073008",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField Polling_Stations All_Sta [POLL_DIST] VB #",
-                                            "@_Date": "20150327",
-                                            "@_Time": "085310",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "FeatureClassToFeatureClass W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp \"Database Connections\\Dataowner_DirectConnect.sde\" Polling_Stations # \"ID \"ID\" true true false 19 Double 5 18 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,ID,-1,-1;X \"X\" true true false 19 Double 5 18 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,X,-1,-1;Y \"Y\" true true false 19 Double 5 18 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,Y,-1,-1;UPRN \"UPRN\" true true false 12 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,UPRN,-1,-1;ADDRESS \"ADDRESS\" true true false 240 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,ADDRESS,-1,-1;POSTCODE \"POSTCODE\" true true false 8 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,POSTCODE,-1,-1;TEMP_STA \"TEMP_STA\" true true false 20 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,TEMP_STA,-1,-1;POLL_DIST \"POLL_DIST\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,POLL_DIST,-1,-1;WARD \"WARD\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,WARD,-1,-1;PARISH \"PARISH\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,PARISH,-1,-1;COUNTWARD \"COUNTWARD\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,COUNTWARD,-1,-1;CONSTIT_MP \"CONSTIT_MP\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,CONSTIT_MP,-1,-1;EU_REGION \"EU_REGION\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,EU_REGION,-1,-1;DUAL_STA \"DUAL_STA\" true true false 3 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,DUAL_STA,-1,-1;OTHER_STA \"OTHER_STA\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,OTHER_STA,-1,-1;ALT_STA \"ALT_STA\" true true false 100 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,ALT_STA,-1,-1;LABEL \"LABEL\" true true false 100 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,LABEL,-1,-1;Current_ \"Current_\" true true false 5 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,Current,-1,-1;Updated \"Updated\" true true false 8 Date 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,Updated,-1,-1;Initials \"Initials\" true true false 5 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,Initials,-1,-1;All_Sta \"All_Sta\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,All_Sta,-1,-1;Pri_Rec \"Pri_Rec\" true true false 254 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,Pri_Rec,-1,-1;BoxNumbers \"BoxNumbers\" true true false 254 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,BoxNumbers,-1,-1;NS \"NS\" true true false 50 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,NS,-1,-1;MapRank \"MapRank\" true true false 2 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,MapRank,-1,-1;WARD_ID \"WARD_ID\" true true false 4 Text 0 0 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,WARD_ID,-1,-1;InspArea \"InspArea\" true true false 4 Short 0 4 ,First,#,W:\\MAPS\\LAYERS\\Neighbourhood\\Polling_Stations.shp,InspArea,-1,-1\" #",
-                                            "@_Date": "20160406",
-                                            "@_Time": "083151",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Conversion Tools.tbx\\FeatureClassToFeatureClass"
-                                        },
-                                        {
-                                            "#value": "ChangePrivileges 'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.NeighbourhoodPlans';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Open_Spaces';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.PG';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.PG_BUFF';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.PG_Equip';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Playground_Equipment';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Playground_Fences';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Playgrounds';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.POI_BBC';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Polling_Districts';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Polling_Stations';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.PostOffices';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.PSPO';'Database Connections\\Dataowner_DirectConnect.sde\\DATAOWNER.Public_Buildings' LP2017 REVOKE REVOKE",
-                                            "@_Date": "20161207",
-                                            "@_Time": "082421",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.1\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\ChangePrivileges"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Greasley and Brinsley\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073224",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Greasley and Brinsley\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073343",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Nuthall and Kimberley\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073432",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Stapleford and Broxtowe Central\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073507",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Bramcote and Beeston North\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073547",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Toton Chilwell and Attenborough\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073621",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations (DO)\" COUNTWARD \"Beeston Central and Rylands\" VB #",
-                                            "@_Date": "20170215",
-                                            "@_Time": "073722",
-                                            "@_ToolSource": "c:\\program files\\arcgis\\desktop10.3\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "FeatureClassToFeatureClass \"Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations\" \"Database Connections\\GIDO.sde\" Polling_Stations # \"X \"X\" true true false 8 Double 5 18 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,X,-1,-1;Y \"Y\" true true false 8 Double 5 18 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,Y,-1,-1;UPRN \"UPRN\" true true false 12 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,UPRN,-1,-1;ADDRESS \"ADDRESS\" true true false 240 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,ADDRESS,-1,-1;POSTCODE \"POSTCODE\" true true false 8 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,POSTCODE,-1,-1;TEMP_STA \"TEMP_STA\" true true false 20 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,TEMP_STA,-1,-1;POLL_DIST \"POLL_DIST\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,POLL_DIST,-1,-1;WARD \"WARD\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,WARD,-1,-1;PARISH \"PARISH\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,PARISH,-1,-1;COUNTWARD \"COUNTWARD\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,COUNTWARD,-1,-1;CONSTIT_MP \"CONSTIT_MP\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,CONSTIT_MP,-1,-1;EU_REGION \"EU_REGION\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,EU_REGION,-1,-1;DUAL_STA \"DUAL_STA\" true true false 3 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,DUAL_STA,-1,-1;OTHER_STA \"OTHER_STA\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,OTHER_STA,-1,-1;ALT_STA \"ALT_STA\" true true false 100 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,ALT_STA,-1,-1;LABEL \"LABEL\" true true false 100 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,LABEL,-1,-1;CURR \"CURRENT_\" true true false 5 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,CURRENT_,-1,-1;UPDATED \"UPDATED\" true true false 8 Date 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,UPDATED,-1,-1;CREATED_BY \"INITIALS\" true true false 5 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,INITIALS,-1,-1;ALL_STA \"ALL_STA\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,ALL_STA,-1,-1;PRI_REC \"PRI_REC\" true true false 254 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,PRI_REC,-1,-1;BOXNUMBERS \"BOXNUMBERS\" true true false 254 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,BOXNUMBERS,-1,-1;NS \"NS\" true true false 50 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,NS,-1,-1;MAPRANK \"MAPRANK\" true true false 2 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,MAPRANK,-1,-1;WARD_ID \"WARD_ID\" true true false 4 Text 0 0 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,WARD_ID,-1,-1;INSPAREA \"INSPAREA\" true true false 2 Short 0 4 ,First,#,Database Connections\\Dataowner@GISDATA.sde\\DATAOWNER.Polling_Stations,INSPAREA,-1,-1\" #",
-                                            "@_Date": "20171103",
-                                            "@_Time": "131827",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Conversion Tools.tbx\\FeatureClassToFeatureClass"
-                                        },
-                                        {
-                                            "#value": "AddField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Origin TEXT # # 255 Originator NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "101430",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Licence TEXT # # 255 Licence NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "101432",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" LicenceURL TEXT # # 255 \"Licence URL\" NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "101433",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" CaptScale SHORT # # # \"Capture Scale\" NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "101435",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AddField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" UpdatedBy TEXT # # 100 \"Last Updated By\" NULLABLE NON_REQUIRED #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "101436",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AddField"
-                                        },
-                                        {
-                                            "#value": "AssignDomainToField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Origin Originators #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "111329",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AssignDomainToField"
-                                        },
-                                        {
-                                            "#value": "AssignDefaultToField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Origin BBC # false",
-                                            "@_Date": "20171107",
-                                            "@_Time": "111330",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AssignDefaultToField"
-                                        },
-                                        {
-                                            "#value": "AssignDomainToField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Licence LicenceType #",
-                                            "@_Date": "20171107",
-                                            "@_Time": "111331",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AssignDomainToField"
-                                        },
-                                        {
-                                            "#value": "AssignDefaultToField \"Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations\" Licence PSMA # false",
-                                            "@_Date": "20171107",
-                                            "@_Time": "111332",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\AssignDefaultToField"
-                                        },
-                                        {
-                                            "#value": "ChangePrivileges 'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_PROPERTIES';'Database Connections\\GIDO.sde\\Maps.GIDO.CCTV_TConly';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_Fences';'Database Connections\\GIDO.sde\\Maps.GIDO.PG';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_Equip';'Database Connections\\GIDO.sde\\Maps.GIDO.OWN_Public_Buildings';'Database Connections\\GIDO.sde\\Maps.GIDO.Environment_Signage';'Database Connections\\GIDO.sde\\Maps.GIDO.EMP_SITES';'Database Connections\\GIDO.sde\\Maps.GIDO.Environment_Gates';'Database Connections\\GIDO.sde\\Maps.GIDO.Watercourses';'Database Connections\\GIDO.sde\\Maps.GIDO.WM_BinStores_Bins';'Database Connections\\GIDO.sde\\Maps.GIDO.Open_Spaces';'Database Connections\\GIDO.sde\\Maps.GIDO.WM_BinStores';'Database Connections\\GIDO.sde\\Maps.GIDO.HE_LB';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_StSweep';'Database Connections\\GIDO.sde\\Maps.GIDO.DA_Ln';'Database Connections\\GIDO.sde\\Maps.GIDO.CCTV';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_BinService';'Database Connections\\GIDO.sde\\Maps.GIDO.Lighting_Columns';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_OffRdSw';'Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Districts';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_LeafRoutes';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_GarageSites';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_SwAreas';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GML';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GM';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GMB';'Database Connections\\GIDO.sde\\Maps.GIDO.NeighbourhoodPlans';'Database Connections\\GIDO.sde\\Maps.GIDO.DEFIB';'Database Connections\\GIDO.sde\\Maps.GIDO.DEFIB_BUFF_500';'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_S';'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_G';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_ALLOC';'Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations';'Database Connections\\GIDO.sde\\Maps.GIDO.DA_Pnts';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_WeedContRoutes';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_ProblemAreas';'Database Connections\\GIDO.sde\\Maps.GIDO.PSPO';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_BUFF';'Database Connections\\GIDO.sde\\Maps.GIDO.POI_BBC' MEDI GRANT GRANT",
-                                            "@_Date": "20171107",
-                                            "@_Time": "115132",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\ChangePrivileges"
-                                        },
-                                        {
-                                            "#value": "ChangePrivileges 'Database Connections\\OSDO.sde\\Maps.OSDO.MM_Broxtowe_1km_Buffer';'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_PROPERTIES';'Database Connections\\GIDO.sde\\Maps.GIDO.Community_Centres';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_Burial_Plots';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BP_FinalSect';'Database Connections\\GIDO.sde\\Maps.GIDO.CCTV_TConly';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_IntermentAreas';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BurialSection';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_CemetCremChur';'Database Connections\\GIDO.sde\\Maps.GIDO.LNR';'Database Connections\\GIDO.sde\\Maps.GIDO.DPPO';'Database Connections\\GIDO.sde\\Maps.GIDO.ONS_LSOA_2001';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_Fences';'Database Connections\\GIDO.sde\\Maps.GIDO.Adopted_Roads';'Database Connections\\GIDO.sde\\Maps.GIDO.Car_Parks_Poly';'Database Connections\\GIDO.sde\\Maps.GIDO.PG';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_Equip';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_SMRP';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CART_Major';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CART_Minor';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_GB';'Database Connections\\GIDO.sde\\Maps.GIDO.Housing_Car_Parks';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BC_MarkSlabs';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BP_MainSect';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BP_SubSect';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BP_ColSect';'Database Connections\\GIDO.sde\\Maps.GIDO.Leisure_Centres';'Database Connections\\GIDO.sde\\Maps.GIDO.Libraries';'Database Connections\\GIDO.sde\\Maps.GIDO.OWN_Public_Buildings';'Database Connections\\GIDO.sde\\Maps.GIDO.Environment_Signage';'Database Connections\\GIDO.sde\\Maps.GIDO.EMP_SITES';'Database Connections\\GIDO.sde\\Maps.GIDO.Environment_Gates';'Database Connections\\GIDO.sde\\Maps.GIDO.Watercourses';'Database Connections\\GIDO.sde\\Maps.GIDO.WM_BinStores_Bins';'Database Connections\\GIDO.sde\\Maps.GIDO.Open_Spaces';'Database Connections\\GIDO.sde\\Maps.GIDO.WM_BinStores';'Database Connections\\GIDO.sde\\Maps.GIDO.Address_Towns';'Database Connections\\GIDO.sde\\Maps.GIDO.Schools';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_HSE';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CAA';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CRA';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CSA';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_M1B';'Database Connections\\GIDO.sde\\Maps.GIDO.HE_SAM';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_LWS';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_CAA_91';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_FZ_3';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_RIGS';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_AreaBenFDefences';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_ASGWF';'Database Connections\\GIDO.sde\\Maps.GIDO.LIB';'Database Connections\\GIDO.sde\\Maps.GIDO.HE_LB';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_FloodDefences';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_FZ_2';'Database Connections\\GIDO.sde\\Maps.GIDO.ELAA';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_StSweep';'Database Connections\\GIDO.sde\\Maps.GIDO.StTrade_Consent_Ord';'Database Connections\\GIDO.sde\\Maps.GIDO.DA_Ln';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_ELi';'Database Connections\\GIDO.sde\\Maps.GIDO.CCTV';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_AnW';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_BinService';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_HLF';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_HLF_Buff';'Database Connections\\GIDO.sde\\Maps.GIDO.Classified_Roads';'Database Connections\\GIDO.sde\\Maps.GIDO.TR_NET_200mBuffer';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_LF';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_LF_Buff';'Database Connections\\GIDO.sde\\Maps.GIDO.Lighting_Columns';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_RPDR';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_SWFM_30';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_TWM';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_OffRdSw';'Database Connections\\GIDO.sde\\Maps.GIDO.TR_NET_50mBuffer';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_ASC';'Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Districts';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_MLA';'Database Connections\\LP2004.sde\\Maps.LP2004.LDT_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.GI_CORRIDORS_100M_BUFFER';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_RiverCentreLines';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_SWFM_100';'Database Connections\\GIDO.sde\\Maps.GIDO.NP_BeatArea';'Database Connections\\GIDO.sde\\Maps.GIDO.HE_PG';'Database Connections\\LP2004.sde\\Maps.LP2004.COMSITE_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_SWFM_1000';'Database Connections\\LP2004.sde\\Maps.LP2004.GB_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.EXALLOT_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_LeafRoutes';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_TEAM_AREAS';'Database Connections\\LP2004.sde\\Maps.LP2004.MAJDEV_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.MCR_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_GarageSites';'Database Connections\\GIDO.sde\\Maps.GIDO.BROWNFIELD_REGISTER';'Database Connections\\LP2004.sde\\Maps.LP2004.NET_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.PROPHOU_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_SwAreas';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_Paths';'Database Connections\\LP2004.sde\\Maps.LP2004.PROPOS_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.PROPPF_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.Wards_2015';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_Roses';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_Benches';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_FSA';'Database Connections\\LP2004.sde\\Maps.LP2004.PROPEMP_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.PROMAREA_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GML';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GM';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_BC_POI';'Database Connections\\GIDO.sde\\Maps.GIDO.Bereavement_WallPlaques';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_HFM';'Database Connections\\LP2004.sde\\Maps.LP2004.PROPSHOP_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.PSF_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.GM_HI_GMB';'Database Connections\\GIDO.sde\\Maps.GIDO.NeighbourhoodPlans';'Database Connections\\GIDO.sde\\Maps.GIDO.DEFIB';'Database Connections\\GIDO.sde\\Maps.GIDO.DEFIB_BUFF_500';'Database Connections\\LP2004.sde\\Maps.LP2004.PROTOS_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.RSL_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.ONS_LSOA_2011';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_WSG_DETAILED';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_WSG';'Database Connections\\LP2004.sde\\Maps.LP2004.TOWNCENT_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.RAILSTA_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_NRO';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_DRN';'Database Connections\\LP2004.sde\\Maps.LP2004.PR_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_S';'Database Connections\\GIDO.sde\\Maps.GIDO.AQMA';'Database Connections\\GIDO.sde\\Maps.GIDO.NE_ALC';'Database Connections\\GIDO.sde\\Maps.GIDO.NE_CROW';'Database Connections\\LP2004.sde\\Maps.LP2004.CEMEXT_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.TPO_G';'Database Connections\\LP2004.sde\\Maps.LP2004.DERLAND_1250';'Database Connections\\LP2004.sde\\Maps.LP2004.EXOS_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.Parliamentary_Constituency';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_ALLOC';'Database Connections\\LP2004.sde\\Maps.LP2004.GREENWAY_1250';'Database Connections\\GIDO.sde\\Maps.GIDO.Retirement_Living';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_MGP';'Database Connections\\GIDO.sde\\Maps.GIDO.EA_GWFM';'Database Connections\\GIDO.sde\\Maps.GIDO.GI_CORRIDORS';'Database Connections\\GIDO.sde\\Maps.GIDO.NE_NCA';'Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Stations';'Database Connections\\GIDO.sde\\Maps.GIDO.Polling_Station_Insp';'Database Connections\\GIDO.sde\\Maps.GIDO.NE_SSSI';'Database Connections\\GIDO.sde\\Maps.GIDO.Street_Lights';'Database Connections\\GIDO.sde\\Maps.GIDO.Highway_Fence';'Database Connections\\GIDO.sde\\Maps.GIDO.Housing_FP';'Database Connections\\GIDO.sde\\Maps.GIDO.OS_CP';'Database Connections\\GIDO.sde\\Maps.GIDO.DA_Pnts';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_WeedContRoutes';'Database Connections\\GIDO.sde\\Maps.GIDO.SS_ProblemAreas';'Database Connections\\GIDO.sde\\Maps.GIDO.TR_NET';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_PUBLIC';'Database Connections\\GIDO.sde\\Maps.GIDO.Smoke_Zones';'Database Connections\\GIDO.sde\\Maps.GIDO.NCC_PROW';'Database Connections\\GIDO.sde\\Maps.GIDO.DC_INTERNAL';'Database Connections\\GIDO.sde\\Maps.GIDO.PSPO';'Database Connections\\GIDO.sde\\Maps.GIDO.EVT';'Database Connections\\GIDO.sde\\Maps.GIDO.OSM_Points';'Database Connections\\GIDO.sde\\Maps.GIDO.ConservationAreas_OutOfArea';'Database Connections\\GIDO.sde\\Maps.GIDO.HS2_SAFEGUARDING';'Database Connections\\GIDO.sde\\Maps.GIDO.PG_BUFF';'Database Connections\\GIDO.sde\\Maps.GIDO.HS2_ROUTE';'Database Connections\\GIDO.sde\\Maps.GIDO.EnvH_GeoEnv_Oct16';'Database Connections\\GIDO.sde\\Maps.GIDO.HS2_STATION_BBC';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbanSpread_1917';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbanSpread_1939';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbanSpread_1955';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbanSpread_1983';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbSprCity_1836_9';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbSprCity_1902_3';'Database Connections\\GIDO.sde\\Maps.GIDO.UrbSprCity_1921';'Database Connections\\GIDO.sde\\Maps.GIDO.POI_BBC';'Database Connections\\MEXT.sde\\Maps.MEXT.Polling_Information';'Database Connections\\MEXT.sde\\Maps.MEXT.Polling_Locations' MUSE GRANT AS_IS",
-                                            "@_Date": "20171107",
-                                            "@_Time": "115524",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\ChangePrivileges"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" DUAL_STA \"Y\" VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101053",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" PRI_REC \"Y\" VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101119",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" CURR \"Y\" VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101154",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" CURR \"N\" VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101216",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" PRI_REC Null VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101415",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" TEMP_STA \"Y\" VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101510",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        },
-                                        {
-                                            "#value": "CalculateField \"Polling Stations\" TEMP_STA Null VB #",
-                                            "@_Date": "20180126",
-                                            "@_Time": "101529",
-                                            "@_ToolSource": "c:\\program files (x86)\\arcgis\\desktop10.5\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField"
-                                        }
-                                    ]
                                 }
                             },
-                            "ModDate": "2019-03-28",
-                            "ModTime": "11:39:22.98",
+                            "ModDate": "2021-03-17",
+                            "ModTime": "14:04:05.04",
                             "PublishStatus": "editor:esri.dijit.metadata.editor",
                             "SyncDate": "2018-02-12",
                             "SyncOnce": "FALSE",
@@ -3390,7 +3015,7 @@
                                 },
                                 "date": {
                                     "createDate": "2011-02-25T00:00:00",
-                                    "reviseDate": "2019-03-28"
+                                    "reviseDate": "2021-03-17"
                                 },
                                 "presForm": {
                                     "PresFormCd": {
@@ -3853,16 +3478,27 @@
                         }
                     }
                 },
-                "modified": 1553731200000,
+                "modified": 1615939200000,
                 "modifiedProvenance": "metadata.metadata.dataIdInfo.idCitation.date.reviseDate",
                 "name": "Polling Stations",
                 "objectIdField": "OBJECTID",
                 "openData": true,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
                 "owner": "Broxtowe_GIS",
-                "recordCount": 66,
+                "recordCount": 71,
                 "region": "GB",
                 "searchDescription": "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into polling districts, to designate polling places for those polling districtsThis layer shows Broxtowe's current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place.",
                 "sector": "Local and State Government",
@@ -4043,10 +3679,10 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 570.2866239999421,
+                                "duration": 502.84951799998817,
                                 "values": {
-                                    "count": 66,
-                                    "max": 1582243200000,
+                                    "count": 71,
+                                    "max": 1614211200000,
                                     "min": 1420588800000
                                 }
                             }
@@ -4109,55 +3745,39 @@
                         },
                         "x": {
                             "meta": {
-                                "error": "Unable to complete operation.",
-                                "missingStats": [
-                                    "sum",
-                                    "avg",
-                                    "count",
-                                    "min",
-                                    "max",
-                                    "stddev",
-                                    "var"
-                                ],
-                                "pass": false
+                                "error": null,
+                                "missingStats": [],
+                                "pass": true
                             },
                             "statistics": {
-                                "duration": 493.22088799998164,
+                                "duration": 734.564257000573,
                                 "values": {
-                                    "avg": 450107.042925,
-                                    "count": 66,
+                                    "avg": 450038.95288,
+                                    "count": 71,
                                     "max": 454020.636,
                                     "min": 446393.093,
-                                    "stddev": 2098.8539187030833,
-                                    "sum": 29707064.8331,
-                                    "var": 4405187.772055289
+                                    "stddev": 2078.1185470428813,
+                                    "sum": 31952765.6545,
+                                    "var": 4318576.695563616
                                 }
                             }
                         },
                         "y": {
                             "meta": {
-                                "error": "Unable to complete operation.",
-                                "missingStats": [
-                                    "sum",
-                                    "avg",
-                                    "count",
-                                    "min",
-                                    "max",
-                                    "stddev",
-                                    "var"
-                                ],
-                                "pass": false
+                                "error": null,
+                                "missingStats": [],
+                                "pass": true
                             },
                             "statistics": {
-                                "duration": 493.22088799998164,
+                                "duration": 734.564257000573,
                                 "values": {
-                                    "avg": 340445.692453,
-                                    "count": 66,
+                                    "avg": 340587.173883,
+                                    "count": 71,
                                     "max": 349472.878,
                                     "min": 334413,
-                                    "stddev": 4520.263802361395,
-                                    "sum": 22469415.7019,
-                                    "var": 20432784.842938703
+                                    "stddev": 4499.772058751406,
+                                    "sum": 24181689.3457,
+                                    "var": 20247948.580719866
                                 }
                             }
                         }
@@ -4170,13 +3790,13 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 2433.928112000227,
+                                "duration": 2251.9199630000076,
                                 "values": {
-                                    "avg": 42.515151,
-                                    "count": 66,
-                                    "max": 83,
-                                    "min": 1,
-                                    "sum": 2806
+                                    "avg": 519,
+                                    "count": 71,
+                                    "max": 554,
+                                    "min": 484,
+                                    "sum": 36849
                                 }
                             }
                         }
@@ -4189,17 +3809,13 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 1137.6629880000837,
-                                "uniqueCount": 54,
+                                "count": 71,
+                                "duration": 751.8218259999994,
+                                "uniqueCount": 57,
                                 "values": [
                                     {
                                         "count": 3,
                                         "value": "Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ"
-                                    },
-                                    {
-                                        "count": 3,
-                                        "value": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE"
                                     },
                                     {
                                         "count": 2,
@@ -4207,7 +3823,7 @@
                                     },
                                     {
                                         "count": 2,
-                                        "value": "St Marys Church Church Street Eastwood Nottinghamshire"
+                                        "value": "Smithurst Road Giltbrook Nottinghamshire"
                                     },
                                     {
                                         "count": 2,
@@ -4215,7 +3831,19 @@
                                     },
                                     {
                                         "count": 2,
+                                        "value": "Sainsbury's Greens Lane Kimberley Nottinghamshire NG16 2LY "
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "Plumptre Hall Church Street Eastwood Nottinghamshire"
+                                    },
+                                    {
+                                        "count": 2,
                                         "value": "Greenwood Community Centre Chester Green Toton Nottinghamshire"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire"
                                     },
                                     {
                                         "count": 2,
@@ -4227,7 +3855,11 @@
                                     },
                                     {
                                         "count": 2,
-                                        "value": "Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX"
+                                        "value": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "Chilwell Masonic Hall 145 High Road Chilwell Nottinghamshire NG9 4AT"
                                     },
                                     {
                                         "count": 2,
@@ -4272,10 +3904,6 @@
                                     {
                                         "count": 1,
                                         "value": "St Johns Church Hall Midland Avenue Stapleford Nottinghamshire"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Smithurst Road Giltbrook Nottinghamshire"
                                     },
                                     {
                                         "count": 1,
@@ -4327,11 +3955,7 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "Lombardy Lodge Portland Road Toton Nottinghamshire NG9 6EE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Kimberley Primary School 47 Swingate Kimberley Nottinghamshire NG16 2PG"
+                                        "value": "Kettlebrook Lodge Eastwood Road Kimberley Nottinghamshire NG16 2HX "
                                     },
                                     {
                                         "count": 1,
@@ -4340,18 +3964,6 @@
                                     {
                                         "count": 1,
                                         "value": "Gutersloh Court Central Avenue Stapleford Nottinghamshire"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Grove Court Central Avenue Chilwell Nottinghamshire"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greenwood Court Cator Lane Chilwell Nottinghamshire"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire"
                                     },
                                     {
                                         "count": 1,
@@ -4371,6 +3983,10 @@
                                     },
                                     {
                                         "count": 1,
+                                        "value": "Coronation Hall Portland Road Toton Nottinghamshire NG9 6EW "
+                                    },
+                                    {
+                                        "count": 1,
                                         "value": "Co-op Bramcote Lane Chilwell Nottinghamshire NG9 5EL"
                                     },
                                     {
@@ -4380,6 +3996,10 @@
                                     {
                                         "count": 1,
                                         "value": "Community Centre Horsendale County Primary School Assarts Road Nuthall Nottinghamshire NG16 1AP"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX"
                                     },
                                     {
                                         "count": 1,
@@ -4403,12 +4023,12 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 821.1921959999017,
+                                "count": 71,
+                                "duration": 842.0576819999842,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
-                                        "count": 66,
+                                        "count": 71,
                                         "value": "Y"
                                     }
                                 ]
@@ -4421,14 +4041,10 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 585.1702640000731,
-                                "uniqueCount": 54,
+                                "count": 71,
+                                "duration": 1225.142893000011,
+                                "uniqueCount": 60,
                                 "values": [
-                                    {
-                                        "count": 3,
-                                        "value": "Our Lady of the Assumption Church Hall"
-                                    },
                                     {
                                         "count": 3,
                                         "value": "Kimberley Parish Hall"
@@ -4443,15 +4059,15 @@
                                     },
                                     {
                                         "count": 2,
+                                        "value": "Plumptre Hall"
+                                    },
+                                    {
+                                        "count": 2,
                                         "value": "Pastures Community Church"
                                     },
                                     {
                                         "count": 2,
-                                        "value": "Parish Rooms, St Marys Church"
-                                    },
-                                    {
-                                        "count": 2,
-                                        "value": "Holy Trinity Church Hall"
+                                        "value": "Our Lady of the Assumption Church Hall"
                                     },
                                     {
                                         "count": 2,
@@ -4460,6 +4076,10 @@
                                     {
                                         "count": 2,
                                         "value": "Greasley Parish Hall"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "Chilwell Masonic Hall"
                                     },
                                     {
                                         "count": 2,
@@ -4472,6 +4092,30 @@
                                     {
                                         "count": 1,
                                         "value": "Westbourne Court"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 2 Smithurst Road Temporary Station"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 2 Sainsbury's Car Park"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 2 Recreation Ground Temporary Station Smithurst Road / Cowper Road"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 1 Smithurst Road Temporary Station"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 1 Sainsbury's Car Park"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Unit 1 Recreation Ground Temporary Station Smithurst Road / Cowper Road"
                                     },
                                     {
                                         "count": 1,
@@ -4507,10 +4151,6 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "Smithurst Road Temporary Station"
-                                    },
-                                    {
-                                        "count": 1,
                                         "value": "School Bungalow, Eskdale Primary School"
                                     },
                                     {
@@ -4519,11 +4159,7 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "Recreation Ground Temporary Station Smithurst Road / Cowper Road"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Pavilion Hetley Pearson Recreation Ground"
+                                        "value": "Pit Lane Car Park Temporary Station"
                                     },
                                     {
                                         "count": 1,
@@ -4551,11 +4187,7 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "Lombardy Lodge"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Kimberley Primary School, Swingate"
+                                        "value": "Kettlebrook Lodge"
                                     },
                                     {
                                         "count": 1,
@@ -4567,15 +4199,15 @@
                                     },
                                     {
                                         "count": 1,
+                                        "value": "Holy Trinity Church Hall"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Hetley Pearson Recreation Ground Pavilion"
+                                    },
+                                    {
+                                        "count": 1,
                                         "value": "Gutersloh Court"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Grove Court"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Greenwood Court"
                                     },
                                     {
                                         "count": 1,
@@ -4587,11 +4219,15 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "Creo Fitness Gym"
+                                        "value": "Creo"
                                     },
                                     {
                                         "count": 1,
                                         "value": "Cossall Community Hall - Old School Room"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "Coronation Hall"
                                     },
                                     {
                                         "count": 1,
@@ -4608,22 +4244,6 @@
                                     {
                                         "count": 1,
                                         "value": "Carnegie Centre"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Brinsley Parish Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Bramcote Memorial Hall"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Bowls Pavilion, Central Avenue Recreation Ground"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "Boat and Horses"
                                     }
                                 ]
                             }
@@ -4635,12 +4255,12 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 891.0611079996452,
+                                "count": 71,
+                                "duration": 1069.25701999999,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
-                                        "count": 66,
+                                        "count": 71,
                                         "value": "OGL"
                                     }
                                 ]
@@ -4653,12 +4273,12 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 1150.2051319996826,
+                                "count": 71,
+                                "duration": 913.5838489999878,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
-                                        "count": 66,
+                                        "count": 71,
                                         "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
                                     }
                                 ]
@@ -4671,12 +4291,12 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 753.0313439997844,
+                                "count": 71,
+                                "duration": 527.2709460000042,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
-                                        "count": 66,
+                                        "count": 71,
                                         "value": "BBC"
                                     }
                                 ]
@@ -4689,10 +4309,22 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 655.7575240000151,
-                                "uniqueCount": 66,
+                                "count": 71,
+                                "duration": 1151.6996069999877,
+                                "uniqueCount": 68,
                                 "values": [
+                                    {
+                                        "count": 2,
+                                        "value": "KIM1"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "GRE3"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "GRE2"
+                                    },
                                     {
                                         "count": 1,
                                         "value": "WNW2"
@@ -4771,10 +4403,6 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "KIM5"
-                                    },
-                                    {
-                                        "count": 1,
                                         "value": "KIM4"
                                     },
                                     {
@@ -4787,7 +4415,7 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "KIM1"
+                                        "value": "KIM 5"
                                     },
                                     {
                                         "count": 1,
@@ -4796,14 +4424,6 @@
                                     {
                                         "count": 1,
                                         "value": "GRE4"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "GRE3"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "GRE2"
                                     },
                                     {
                                         "count": 1,
@@ -4843,11 +4463,11 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "CHW2 (part 2)"
+                                        "value": "CHW2 (West)"
                                     },
                                     {
                                         "count": 1,
-                                        "value": "CHW2 (part 1)"
+                                        "value": "CHW2 (East)"
                                     },
                                     {
                                         "count": 1,
@@ -4903,14 +4523,10 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "count": 66,
-                                "duration": 518.0638280003332,
-                                "uniqueCount": 54,
+                                "count": 71,
+                                "duration": 990.9616270000115,
+                                "uniqueCount": 56,
                                 "values": [
-                                    {
-                                        "count": 3,
-                                        "value": "NG9 1AE"
-                                    },
                                     {
                                         "count": 3,
                                         "value": "NG16 2NJ"
@@ -4933,6 +4549,14 @@
                                     },
                                     {
                                         "count": 2,
+                                        "value": "NG9 4AT"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "NG9 1AE"
+                                    },
+                                    {
+                                        "count": 2,
                                         "value": "NG16 3QN"
                                     },
                                     {
@@ -4942,6 +4566,18 @@
                                     {
                                         "count": 2,
                                         "value": "NG16 3AQ"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "NG16 2UP"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "NG16 2UD"
+                                    },
+                                    {
+                                        "count": 2,
+                                        "value": "NG16 2LY"
                                     },
                                     {
                                         "count": 2,
@@ -4969,7 +4605,7 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "NG9 6EE"
+                                        "value": "NG9 6EW"
                                     },
                                     {
                                         "count": 1,
@@ -4989,11 +4625,11 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "NG9 4EH"
+                                        "value": "NG9 3RN"
                                     },
                                     {
                                         "count": 1,
-                                        "value": "NG9 3RN"
+                                        "value": "NG9 3QF"
                                     },
                                     {
                                         "count": 1,
@@ -5006,6 +4642,10 @@
                                     {
                                         "count": 1,
                                         "value": "NG9 3HD"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "value": "NG9 3GA"
                                     },
                                     {
                                         "count": 1,
@@ -5053,6 +4693,10 @@
                                     },
                                     {
                                         "count": 1,
+                                        "value": "NG9 1EH"
+                                    },
+                                    {
+                                        "count": 1,
                                         "value": "NG8 6PE"
                                     },
                                     {
@@ -5073,14 +4717,6 @@
                                     },
                                     {
                                         "count": 1,
-                                        "value": "NG16 2UP"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NG16 2UD"
-                                    },
-                                    {
-                                        "count": 1,
                                         "value": "NG16 2RZ"
                                     },
                                     {
@@ -5090,22 +4726,6 @@
                                     {
                                         "count": 1,
                                         "value": "NG16 2QQ"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NG16 2PG"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NG16 2DL"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NG16 1QE"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "NG16 1HS"
                                     }
                                 ]
                             }
@@ -5113,7 +4733,6 @@
                     }
                 },
                 "structuredLicense": {
-                    "text": "<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open\nGovernment Licence</a>",
                     "type": "custom",
                     "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
                 },
@@ -5757,6 +5376,17 @@
                 "name": "Polling Stations",
                 "objectIdField": "OBJECTID",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -6530,6 +6160,17 @@
                 "name": "Polling Information",
                 "objectIdField": "OBJECTID",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -6977,11 +6618,11 @@
                 ],
                 "commentsEnabled": true,
                 "composeStatus": {
-                    "lastRetriedAt": 1592522692479,
+                    "lastRetriedAt": 1615988277842,
                     "pass": true,
                     "retries": 0
                 },
-                "composedAt": 1592522692453,
+                "composedAt": 1615988277841,
                 "content": "Web Mapping Application",
                 "contentSecurityPolicy": [
                     "upgrade-insecure-requests"
@@ -7012,16 +6653,27 @@
                 "hasApi": false,
                 "hubType": "Web Mapping Application",
                 "id": "b767b65ab0c4493e9bd05c0094c8e743",
-                "itemModified": 1579692185000,
+                "itemModified": 1615988274000,
                 "layer": null,
                 "layers": null,
                 "license": "custom",
                 "licenseInfo": "<span style='line-height: 115%; font-family: &quot;Arial&quot;,sans-serif; font-size: 12pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;'><font color='#000000'><p>This data is subject to the terms and conditions of the Public Sector Mapping Agreement (PSMA) from Ordnance Survey</p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>I. You are granted a non-exclusive, royalty free revocable licence solely to view the licensed data for non-commercial purposes for the period during which the\u00a0licensee identified by the visible acknowledgement on this web page makes it available;</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>II. You are not permitted to copy, sub-license, distribute, sell or otherwise make available the Licensed Data to third parties in any form; and</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>III. Third party rights to enforce the terms of this licence shall be reserved to OS.</font></span></p></font></span>",
                 "metadata": null,
-                "modified": 1579692185000,
+                "modified": 1615988274000,
                 "modifiedProvenance": "item.modified",
                 "name": "My Polling Station",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -7031,7 +6683,7 @@
                 "searchDescription": "This application allows you to discover which is the designated polling station for your address on election day.It is updated around the same time as poll cards are sent out for an election.",
                 "sector": "Local and State Government",
                 "server": null,
-                "size": 325485,
+                "size": 325441,
                 "slug": "broxtowe::my-polling-station",
                 "snippet": "Discover which polling station you should attend on election day",
                 "source": "Broxtowe Borough Council",
@@ -7146,6 +6798,17 @@
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Districts",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -8530,6 +8193,17 @@
                 "name": "Polling Districts",
                 "objectIdField": "OBJECTID",
                 "openData": true,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -9588,6 +9262,17 @@
                 "modifiedProvenance": "item.modified",
                 "name": "PollingInformation",
                 "openData": false,
+                "orgExtent": {
+                    "spatialReference": {
+                        "latestWkid": 27700,
+                        "wkid": 27700
+                    },
+                    "type": "extent",
+                    "xmax": 481542.82701846375,
+                    "xmin": 425553.6245356465,
+                    "ymax": 367188.6104875666,
+                    "ymin": 317649.8563991878
+                },
                 "orgId": "vQdM6keryJ7Iv4oS",
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
@@ -9770,7 +9455,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1615982560106)",
+                "endDate": "eventsBefore(1616004159100)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "Broxtowe_GIS",
                 "status": "not(private,draft,planned)"
@@ -9784,7 +9469,7 @@
             "count": 10,
             "totalCount": 12
         },
-        "took": 397,
+        "took": 227,
         "total": 12
     }
 }
