@@ -129,20 +129,6 @@
         }
     },
     "resources": {
-        "35a16224-e435-440b-ab29-7146ef8b2060": {
-            "check_hash": "cc958bcd9c0f3a7b35cebce65b2e18dc",
-            "check_http_status": 200,
-            "check_mimetype": "application/zip",
-            "check_size": 19954,
-            "check_timestamp": "2019-12-12T10:27:09.733Z",
-            "description": "",
-            "format": "zip",
-            "order": 1,
-            "temporal_coverage_from": null,
-            "temporal_coverage_to": null,
-            "title": "Polling Tab Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-12-12T10%3A27%3A07/TAB_Polling%20stations%202019-12-12%2010-09-36.zip"
-        },
         "493f928c-e216-4fa1-a887-6fccb8863b8f": {
             "check_hash": "15b7-58381b379f650",
             "check_http_status": 200,
@@ -151,16 +137,16 @@
             "check_timestamp": "2019-03-15T14:05:44.990Z",
             "description": "<p>\n<span style=\"color: rgb(51, 51, 51);\">Visualisation of open geographic datasets published on Open Street Map,&nbsp;</span>&nbsp;<a href=\"http://datamillnorth.org/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Data Mill North</a>&nbsp;<span style=\"color: rgb(51, 51, 51);\">&nbsp;and&nbsp;</span>&nbsp;<a href=\"https://dataworks.calderdale.gov.uk/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Calderdale Dataworks</a>.</p>",
             "format": "html",
-            "order": 4,
+            "order": 2,
             "title": "ODI Leeds Data Mapper - Polling Stations and Districts",
             "url": "https://mapper.odileeds.org/?12/53.71347/-1.93634/dataworks-6453ecd3-3075-4414-8cef-8815daad44d7;dataworks-14937500-83dd-43ea-8b24-89766099ea7d"
         },
         "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
-            "check_hash": "75e1dd6c6e14e1ebc7caca46ea2b3851",
+            "check_hash": "754b63a305eaa5b595daba810bcd7e3a",
             "check_http_status": 200,
             "check_mimetype": "text/csv",
-            "check_size": 12381,
-            "check_timestamp": "2019-12-12T10:26:56.020Z",
+            "check_size": 14816,
+            "check_timestamp": "2021-03-17T12:47:48.596Z",
             "description": "Names and addresses of all polling stations in Calderdale. ",
             "format": "csv",
             "order": 0,
@@ -187,35 +173,18 @@
             "temporal_coverage_from": null,
             "temporal_coverage_to": null,
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-12-12T10%3A26%3A53/Polling%20Station.csv"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2021-03-17T12%3A47%3A46/Polling%20stations.csv"
         },
-        "6453ecd3-3075-4414-8cef-8815daad44d7": {
-            "check_hash": "049a04c392fed571e28b93f040c31cc2",
+        "f9b00312-f330-4d18-a944-7cfd36c8d0eb": {
+            "check_hash": "bef4c261328ad14e4889e838c2bec924",
             "check_http_status": 200,
-            "check_mimetype": "application/octet-stream",
-            "check_size": 173639,
-            "check_timestamp": "2019-12-12T10:27:41.207Z",
-            "description": "",
-            "format": "json",
-            "order": 3,
-            "temporal_coverage_from": null,
-            "temporal_coverage_to": null,
+            "check_mimetype": "application/geo+json",
+            "check_size": 37633,
+            "check_timestamp": "2021-03-17T12:48:24.426Z",
+            "format": "geojson",
+            "order": 1,
             "title": "Polling Stations",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-12-12T10%3A27%3A39/Polling_stations_json"
-        },
-        "9114cd43-00dd-412e-8126-514fb0efca95": {
-            "check_hash": "4fded64cf2558c0afdc1f8faf9f57a18",
-            "check_http_status": 200,
-            "check_mimetype": "application/zip",
-            "check_size": 28042,
-            "check_timestamp": "2019-12-12T10:27:27.977Z",
-            "description": "",
-            "format": "zip",
-            "order": 2,
-            "temporal_coverage_from": null,
-            "temporal_coverage_to": null,
-            "title": "Polling Stations Shape Files",
-            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2019-12-12T10%3A27%3A25/Shape_Polling%20stations%202019-12-12%2010-08-37.zip"
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2021-03-17T12%3A48%3A20/Polling%20stations.geojson"
         }
     },
     "shares": {
@@ -236,5 +205,5 @@
         "a3cb827f-b76a-4663-a531-f628eb60a934"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2019-12-12T10:27:40.514Z"
+    "updatedAt": "2021-03-17T12:49:00.163Z"
 }
