@@ -5,7 +5,7 @@
         "LABEL": "Dora Philips Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 1,
+        "OBJECTID": 484,
         "Origin": "BBC",
         "POLL_DIST": "ESM1",
         "POSTCODE": "NG16 3DD",
@@ -13,8 +13,8 @@
         "X": 446814.187,
         "Y": 347004.376,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.303597961124068, 53.018317805138835], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Dora Phillips Hall Wood Street Eastwood Nottinghamshire NG16 3DD\", \"CURR\": \"Y\", \"LABEL\": \"Dora Philips Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 1, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM1\", \"POSTCODE\": \"NG16 3DD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446814.187, \"Y\": 347004.376}, \"type\": \"Feature\"}",
-        "pk": 1
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.303597961124068, 53.018317805138835], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Dora Phillips Hall Wood Street Eastwood Nottinghamshire NG16 3DD\", \"CURR\": \"Y\", \"LABEL\": \"Dora Philips Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 484, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM1\", \"POSTCODE\": \"NG16 3DD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446814.187, \"Y\": 347004.376}, \"type\": \"Feature\"}",
+        "pk": 484
     },
     {
         "ADDRESS": "Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ",
@@ -22,50 +22,50 @@
         "LABEL": "Brinsley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 2,
+        "OBJECTID": 485,
         "Origin": "BBC",
         "POLL_DIST": "BRY1",
         "POSTCODE": "NG16 5BZ",
         "UPDATED": "2015-01-12T00:00:00Z",
-        "X": 446393.093,
-        "Y": 349472.878,
+        "X": 446390.695,
+        "Y": 349466.925,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.309520485502541, 53.040542572001534], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ\", \"CURR\": \"Y\", \"LABEL\": \"Brinsley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 2, \"Origin\": \"BBC\", \"POLL_DIST\": \"BRY1\", \"POSTCODE\": \"NG16 5BZ\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446393.093, \"Y\": 349472.878}, \"type\": \"Feature\"}",
-        "pk": 2
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.309557101844452, 53.04048927121972], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ\", \"CURR\": \"Y\", \"LABEL\": \"Brinsley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 485, \"Origin\": \"BBC\", \"POLL_DIST\": \"BRY1\", \"POSTCODE\": \"NG16 5BZ\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446390.695, \"Y\": 349466.925}, \"type\": \"Feature\"}",
+        "pk": 485
     },
     {
-        "ADDRESS": "St Marys Church Church Street Eastwood Nottinghamshire",
+        "ADDRESS": "Plumptre Hall Church Street Eastwood Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Parish Rooms, St Marys Church",
+        "LABEL": "Plumptre Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 4,
+        "OBJECTID": 486,
         "Origin": "BBC",
         "POLL_DIST": "ESM2",
         "POSTCODE": "NG16 3BP",
         "UPDATED": "2015-01-12T00:00:00Z",
-        "X": 446533.053,
-        "Y": 346817.152,
+        "X": 446577.842,
+        "Y": 346801.325,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Parish Rooms, St Marys Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 4, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM2\", \"POSTCODE\": \"NG16 3BP\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446533.053, \"Y\": 346817.152}, \"type\": \"Feature\"}",
-        "pk": 4
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.30714995752363, 53.01651328535225], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Plumptre Hall Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Plumptre Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 486, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM2\", \"POSTCODE\": \"NG16 3BP\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446577.842, \"Y\": 346801.325}, \"type\": \"Feature\"}",
+        "pk": 486
     },
     {
-        "ADDRESS": "St Marys Church Church Street Eastwood Nottinghamshire",
+        "ADDRESS": "Plumptre Hall Church Street Eastwood Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Parish Rooms, St Marys Church",
+        "LABEL": "Plumptre Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 5,
+        "OBJECTID": 487,
         "Origin": "BBC",
         "POLL_DIST": "ESM3",
         "POSTCODE": "NG16 3BP",
         "UPDATED": "2015-01-12T00:00:00Z",
-        "X": 446533.053,
-        "Y": 346817.152,
+        "X": 446577.842,
+        "Y": 346801.325,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Parish Rooms, St Marys Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 5, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM3\", \"POSTCODE\": \"NG16 3BP\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446533.053, \"Y\": 346817.152}, \"type\": \"Feature\"}",
-        "pk": 5
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.30714995752363, 53.01651328535225], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Plumptre Hall Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Plumptre Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 487, \"Origin\": \"BBC\", \"POLL_DIST\": \"ESM3\", \"POSTCODE\": \"NG16 3BP\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446577.842, \"Y\": 346801.325}, \"type\": \"Feature\"}",
+        "pk": 487
     },
     {
         "ADDRESS": "St Johns Church Hall Midland Avenue Stapleford Nottinghamshire",
@@ -73,7 +73,7 @@
         "LABEL": "St Johns Church Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 6,
+        "OBJECTID": 488,
         "Origin": "BBC",
         "POLL_DIST": "SSW2",
         "POSTCODE": "NG9 7BT",
@@ -81,8 +81,25 @@
         "X": 448485.3062,
         "Y": 336341.4354,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.280279892489063, 52.92232585244771], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall Midland Avenue Stapleford Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Johns Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 6, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSW2\", \"POSTCODE\": \"NG9 7BT\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448485.3062, \"Y\": 336341.4354}, \"type\": \"Feature\"}",
-        "pk": 6
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.280279892489063, 52.92232585244771], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Church Hall Midland Avenue Stapleford Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Johns Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 488, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSW2\", \"POSTCODE\": \"NG9 7BT\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448485.3062, \"Y\": 336341.4354}, \"type\": \"Feature\"}",
+        "pk": 488
+    },
+    {
+        "ADDRESS": "Chilwell Masonic Hall 145 High Road Chilwell Nottinghamshire NG9 4AT",
+        "CURR": "Y",
+        "LABEL": "Chilwell Masonic Hall",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 489,
+        "Origin": "BBC",
+        "POLL_DIST": "ACE3",
+        "POSTCODE": "NG9 4AT",
+        "UPDATED": "2015-01-07T00:00:00Z",
+        "X": 452114.832,
+        "Y": 336070.515,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.226344022315718, 52.9195519999669], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Chilwell Masonic Hall 145 High Road Chilwell Nottinghamshire NG9 4AT\", \"CURR\": \"Y\", \"LABEL\": \"Chilwell Masonic Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 489, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE3\", \"POSTCODE\": \"NG9 4AT\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 452114.832, \"Y\": 336070.515}, \"type\": \"Feature\"}",
+        "pk": 489
     },
     {
         "ADDRESS": "Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire",
@@ -90,7 +107,7 @@
         "LABEL": "Greasley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 9,
+        "OBJECTID": 490,
         "Origin": "BBC",
         "POLL_DIST": "GRE5",
         "POSTCODE": "NG16 3QN",
@@ -98,8 +115,8 @@
         "X": 447823.529,
         "Y": 346846.059,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.288576852166347, 53.01680560854898], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greasley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 9, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE5\", \"POSTCODE\": \"NG16 3QN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447823.529, \"Y\": 346846.059}, \"type\": \"Feature\"}",
-        "pk": 9
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.288576852166347, 53.01680560854898], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greasley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 490, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE5\", \"POSTCODE\": \"NG16 3QN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447823.529, \"Y\": 346846.059}, \"type\": \"Feature\"}",
+        "pk": 490
     },
     {
         "ADDRESS": "Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ",
@@ -107,7 +124,7 @@
         "LABEL": "Kimberley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 10,
+        "OBJECTID": 491,
         "Origin": "BBC",
         "POLL_DIST": "KIM4",
         "POSTCODE": "NG16 2NJ",
@@ -115,8 +132,8 @@
         "X": 449993.535,
         "Y": 344804.388,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 10, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM4\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
-        "pk": 10
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 491, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM4\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
+        "pk": 491
     },
     {
         "ADDRESS": "Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ",
@@ -124,7 +141,7 @@
         "LABEL": "Kimberley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 11,
+        "OBJECTID": 492,
         "Origin": "BBC",
         "POLL_DIST": "KIM3",
         "POSTCODE": "NG16 2NJ",
@@ -132,8 +149,8 @@
         "X": 449993.535,
         "Y": 344804.388,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 11, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM3\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
-        "pk": 11
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 492, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM3\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
+        "pk": 492
     },
     {
         "ADDRESS": "Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ",
@@ -141,7 +158,7 @@
         "LABEL": "Kimberley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 12,
+        "OBJECTID": 493,
         "Origin": "BBC",
         "POLL_DIST": "KIM2",
         "POSTCODE": "NG16 2NJ",
@@ -149,8 +166,8 @@
         "X": 449993.535,
         "Y": 344804.388,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 12, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM2\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
-        "pk": 12
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.256548658753686, 52.99825649965941], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Newdigate Street Kimberley Nottinghamshire NG16 2NJ\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 493, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM2\", \"POSTCODE\": \"NG16 2NJ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449993.535, \"Y\": 344804.388}, \"type\": \"Feature\"}",
+        "pk": 493
     },
     {
         "ADDRESS": "The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ",
@@ -158,7 +175,7 @@
         "LABEL": "Pastures Community Church",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 13,
+        "OBJECTID": 494,
         "Origin": "BBC",
         "POLL_DIST": "SNO2",
         "POSTCODE": "NG9 8HZ",
@@ -166,8 +183,8 @@
         "X": 448942.693,
         "Y": 338279.192,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.273186454786517, 52.93970220544068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ\", \"CURR\": \"Y\", \"LABEL\": \"Pastures Community Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 13, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO2\", \"POSTCODE\": \"NG9 8HZ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448942.693, \"Y\": 338279.192}, \"type\": \"Feature\"}",
-        "pk": 13
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.273186454786517, 52.93970220544068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ\", \"CURR\": \"Y\", \"LABEL\": \"Pastures Community Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 494, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO2\", \"POSTCODE\": \"NG9 8HZ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448942.693, \"Y\": 338279.192}, \"type\": \"Feature\"}",
+        "pk": 494
     },
     {
         "ADDRESS": "Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD",
@@ -175,7 +192,7 @@
         "LABEL": "Stapleford Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 14,
+        "OBJECTID": 495,
         "Origin": "BBC",
         "POLL_DIST": "SSE2",
         "POSTCODE": "NG9 7HD",
@@ -183,8 +200,8 @@
         "X": 448935.013,
         "Y": 337131.23,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.273473019938241, 52.92938434029465], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD\", \"CURR\": \"Y\", \"LABEL\": \"Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 14, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE2\", \"POSTCODE\": \"NG9 7HD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448935.013, \"Y\": 337131.23}, \"type\": \"Feature\"}",
-        "pk": 14
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.273473019938241, 52.92938434029465], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD\", \"CURR\": \"Y\", \"LABEL\": \"Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 495, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE2\", \"POSTCODE\": \"NG9 7HD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448935.013, \"Y\": 337131.23}, \"type\": \"Feature\"}",
+        "pk": 495
     },
     {
         "ADDRESS": "Greenwood Community Centre Chester Green Toton Nottinghamshire",
@@ -192,7 +209,7 @@
         "LABEL": "Greenwood Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 15,
+        "OBJECTID": 496,
         "Origin": "BBC",
         "POLL_DIST": "TCM3",
         "POSTCODE": "NG9 6LN",
@@ -200,8 +217,8 @@
         "X": 449472.586,
         "Y": 334562.414,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.265866706459745, 52.9062453188188], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greenwood Community Centre Chester Green Toton Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greenwood Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 15, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM3\", \"POSTCODE\": \"NG9 6LN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449472.586, \"Y\": 334562.414}, \"type\": \"Feature\"}",
-        "pk": 15
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.265866706459745, 52.9062453188188], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greenwood Community Centre Chester Green Toton Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greenwood Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 496, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM3\", \"POSTCODE\": \"NG9 6LN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449472.586, \"Y\": 334562.414}, \"type\": \"Feature\"}",
+        "pk": 496
     },
     {
         "ADDRESS": "Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ",
@@ -209,7 +226,7 @@
         "LABEL": "Cadet Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 16,
+        "OBJECTID": 497,
         "Origin": "BBC",
         "POLL_DIST": "EHA1",
         "POSTCODE": "NG16 3AQ",
@@ -217,8 +234,8 @@
         "X": 446594.226,
         "Y": 347385.222,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.306821707379652, 53.02176020639406], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ\", \"CURR\": \"Y\", \"LABEL\": \"Cadet Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 16, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHA1\", \"POSTCODE\": \"NG16 3AQ\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 446594.226, \"Y\": 347385.222}, \"type\": \"Feature\"}",
-        "pk": 16
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.306821707379652, 53.02176020639406], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ\", \"CURR\": \"Y\", \"LABEL\": \"Cadet Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 497, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHA1\", \"POSTCODE\": \"NG16 3AQ\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 446594.226, \"Y\": 347385.222}, \"type\": \"Feature\"}",
+        "pk": 497
     },
     {
         "ADDRESS": "Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ",
@@ -226,7 +243,7 @@
         "LABEL": "Cadet Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 17,
+        "OBJECTID": 498,
         "Origin": "BBC",
         "POLL_DIST": "EHA2",
         "POSTCODE": "NG16 3AQ",
@@ -234,8 +251,8 @@
         "X": 446594.226,
         "Y": 347385.222,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.306821707379652, 53.02176020639406], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ\", \"CURR\": \"Y\", \"LABEL\": \"Cadet Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 17, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHA2\", \"POSTCODE\": \"NG16 3AQ\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 446594.226, \"Y\": 347385.222}, \"type\": \"Feature\"}",
-        "pk": 17
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.306821707379652, 53.02176020639406], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cadet Centre Greenhills Road Eastwood Nottinghamshire NG16 3AQ\", \"CURR\": \"Y\", \"LABEL\": \"Cadet Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 498, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHA2\", \"POSTCODE\": \"NG16 3AQ\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 446594.226, \"Y\": 347385.222}, \"type\": \"Feature\"}",
+        "pk": 498
     },
     {
         "ADDRESS": "Salcey Drive Trowell Nottinghamshire",
@@ -243,16 +260,16 @@
         "LABEL": "Trowell Park Temporary Station Salcey Drive",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 18,
+        "OBJECTID": 499,
         "Origin": "BBC",
-        "POLL_DIST": "ACT5",
+        "POLL_DIST": "ACT5 (West)",
         "POSTCODE": "NG9 3RN",
         "UPDATED": "2016-03-07T00:00:00Z",
         "X": 448803.4244,
         "Y": 338791.1041,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.275181925475796, 52.94431621585265], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salcey Drive Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Park Temporary Station Salcey Drive\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 18, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5\", \"POSTCODE\": \"NG9 3RN\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 448803.4244, \"Y\": 338791.1041}, \"type\": \"Feature\"}",
-        "pk": 18
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.275181925475796, 52.94431621585265], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salcey Drive Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Park Temporary Station Salcey Drive\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 499, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5 (West)\", \"POSTCODE\": \"NG9 3RN\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 448803.4244, \"Y\": 338791.1041}, \"type\": \"Feature\"}",
+        "pk": 499
     },
     {
         "ADDRESS": "Co-op Bramcote Lane Chilwell Nottinghamshire NG9 5EL",
@@ -260,16 +277,16 @@
         "LABEL": "Co-op Car Park",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 19,
+        "OBJECTID": 500,
         "Origin": "BBC",
-        "POLL_DIST": "CHW2 (part 2)",
+        "POLL_DIST": "CHW2 (East)",
         "POSTCODE": "NG9 5EL",
         "UPDATED": "2016-04-28T00:00:00Z",
         "X": 451384.5686,
         "Y": 336192.292,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.237184741843053, 52.9207167044426], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Co-op Bramcote Lane Chilwell Nottinghamshire NG9 5EL\", \"CURR\": \"Y\", \"LABEL\": \"Co-op Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 19, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW2 (part 2)\", \"POSTCODE\": \"NG9 5EL\", \"UPDATED\": \"2016-04-28T00:00:00Z\", \"X\": 451384.5686, \"Y\": 336192.292}, \"type\": \"Feature\"}",
-        "pk": 19
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.237184741843053, 52.9207167044426], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Co-op Bramcote Lane Chilwell Nottinghamshire NG9 5EL\", \"CURR\": \"Y\", \"LABEL\": \"Co-op Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 500, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW2 (East)\", \"POSTCODE\": \"NG9 5EL\", \"UPDATED\": \"2016-04-28T00:00:00Z\", \"X\": 451384.5686, \"Y\": 336192.292}, \"type\": \"Feature\"}",
+        "pk": 500
     },
     {
         "ADDRESS": "Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN",
@@ -277,24 +294,41 @@
         "LABEL": "School Bungalow, Eskdale Primary School",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 20,
+        "OBJECTID": 501,
         "Origin": "BBC",
-        "POLL_DIST": "CHW2 (part 1)",
+        "POLL_DIST": "CHW2 (West)",
         "POSTCODE": "NG9 5FN",
         "UPDATED": "2019-03-08T00:00:00Z",
         "X": 450732.541,
         "Y": 336052.359,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.246903268730068, 52.91952066456869], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN\", \"CURR\": \"Y\", \"LABEL\": \"School Bungalow, Eskdale Primary School\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 20, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW2 (part 1)\", \"POSTCODE\": \"NG9 5FN\", \"UPDATED\": \"2019-03-08T00:00:00Z\", \"X\": 450732.541, \"Y\": 336052.359}, \"type\": \"Feature\"}",
-        "pk": 20
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.246903268730068, 52.91952066456869], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN\", \"CURR\": \"Y\", \"LABEL\": \"School Bungalow, Eskdale Primary School\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 501, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW2 (West)\", \"POSTCODE\": \"NG9 5FN\", \"UPDATED\": \"2019-03-08T00:00:00Z\", \"X\": 450732.541, \"Y\": 336052.359}, \"type\": \"Feature\"}",
+        "pk": 501
+    },
+    {
+        "ADDRESS": "Bramcote Hills Sport & Community College Moor Lane Bramcote Nottinghamshire NG9 3GA",
+        "CURR": "Y",
+        "LABEL": "Bramcote Hills College Car Park",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 502,
+        "Origin": "BBC",
+        "POLL_DIST": "BCT2 (West)",
+        "POSTCODE": "NG9 3GA",
+        "UPDATED": "2016-04-28T00:00:00Z",
+        "X": 450742.7393,
+        "Y": 338512.4922,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.246368414977208, 52.941632751522185], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bramcote Hills Sport & Community College Moor Lane Bramcote Nottinghamshire NG9 3GA\", \"CURR\": \"Y\", \"LABEL\": \"Bramcote Hills College Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 502, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2 (West)\", \"POSTCODE\": \"NG9 3GA\", \"UPDATED\": \"2016-04-28T00:00:00Z\", \"X\": 450742.7393, \"Y\": 338512.4922}, \"type\": \"Feature\"}",
+        "pk": 502
     },
     {
         "ADDRESS": "Smithurst Road Giltbrook Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Smithurst Road Temporary Station",
+        "LABEL": "Unit 1 Smithurst Road Temporary Station",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 24,
+        "OBJECTID": 503,
         "Origin": "BBC",
         "POLL_DIST": "GRE3",
         "POSTCODE": "NG16 2UD",
@@ -302,8 +336,8 @@
         "X": 447846.0629,
         "Y": 345377.552,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.288457629462999, 53.003604084993384], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Smithurst Road Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 24, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE3\", \"POSTCODE\": \"NG16 2UD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447846.0629, \"Y\": 345377.552}, \"type\": \"Feature\"}",
-        "pk": 24
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.288457629462999, 53.003604084993384], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Unit 1 Smithurst Road Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 503, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE3\", \"POSTCODE\": \"NG16 2UD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447846.0629, \"Y\": 345377.552}, \"type\": \"Feature\"}",
+        "pk": 503
     },
     {
         "ADDRESS": "Chilwell Community Centre Inham Road Chilwell Nottinghamshire NG9 4HX",
@@ -311,16 +345,16 @@
         "LABEL": "Chilwell Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 25,
+        "OBJECTID": 504,
         "Origin": "BBC",
         "POLL_DIST": "CHW1",
         "POSTCODE": "NG9 4HX",
         "UPDATED": "2017-01-09T00:00:00Z",
-        "X": 450694.0,
-        "Y": 336480.0,
+        "X": 450694.262,
+        "Y": 336479.993,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.247405977030921, 52.92336807278268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Chilwell Community Centre Inham Road Chilwell Nottinghamshire NG9 4HX\", \"CURR\": \"Y\", \"LABEL\": \"Chilwell Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 25, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW1\", \"POSTCODE\": \"NG9 4HX\", \"UPDATED\": \"2017-01-09T00:00:00Z\", \"X\": 450694.0, \"Y\": 336480.0}, \"type\": \"Feature\"}",
-        "pk": 25
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.247405977030921, 52.92336807278268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Chilwell Community Centre Inham Road Chilwell Nottinghamshire NG9 4HX\", \"CURR\": \"Y\", \"LABEL\": \"Chilwell Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 504, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW1\", \"POSTCODE\": \"NG9 4HX\", \"UPDATED\": \"2017-01-09T00:00:00Z\", \"X\": 450694.262, \"Y\": 336479.993}, \"type\": \"Feature\"}",
+        "pk": 504
     },
     {
         "ADDRESS": "Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD",
@@ -328,7 +362,7 @@
         "LABEL": "Stapleford Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 27,
+        "OBJECTID": 505,
         "Origin": "BBC",
         "POLL_DIST": "SSE1",
         "POSTCODE": "NG9 7HD",
@@ -336,8 +370,8 @@
         "X": 448935.013,
         "Y": 337131.23,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.273473019938241, 52.92938434029465], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD\", \"CURR\": \"Y\", \"LABEL\": \"Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 27, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE1\", \"POSTCODE\": \"NG9 7HD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448935.013, \"Y\": 337131.23}, \"type\": \"Feature\"}",
-        "pk": 27
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.273473019938241, 52.92938434029465], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Cliffe Hill Avenue Stapleford Nottinghamshire NG9 7HD\", \"CURR\": \"Y\", \"LABEL\": \"Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 505, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE1\", \"POSTCODE\": \"NG9 7HD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448935.013, \"Y\": 337131.23}, \"type\": \"Feature\"}",
+        "pk": 505
     },
     {
         "ADDRESS": "Lucy And Vincent Brown Village Hall 128 Attenborough Lane Chilwell Nottinghamshire NG9 5HZ",
@@ -345,7 +379,7 @@
         "LABEL": "Lucy and Vincent Brown Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 28,
+        "OBJECTID": 506,
         "Origin": "BBC",
         "POLL_DIST": "ACE1",
         "POSTCODE": "NG9 5HZ",
@@ -353,8 +387,8 @@
         "X": 451565.724,
         "Y": 334703.763,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.234726300060172, 52.90731977272365], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Lucy And Vincent Brown Village Hall 128 Attenborough Lane Chilwell Nottinghamshire NG9 5HZ\", \"CURR\": \"Y\", \"LABEL\": \"Lucy and Vincent Brown Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 28, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE1\", \"POSTCODE\": \"NG9 5HZ\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 451565.724, \"Y\": 334703.763}, \"type\": \"Feature\"}",
-        "pk": 28
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.234726300060172, 52.90731977272365], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Lucy And Vincent Brown Village Hall 128 Attenborough Lane Chilwell Nottinghamshire NG9 5HZ\", \"CURR\": \"Y\", \"LABEL\": \"Lucy and Vincent Brown Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 506, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE1\", \"POSTCODE\": \"NG9 5HZ\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 451565.724, \"Y\": 334703.763}, \"type\": \"Feature\"}",
+        "pk": 506
     },
     {
         "ADDRESS": "Humber Lodge Humber Road Beeston Nottinghamshire",
@@ -362,7 +396,7 @@
         "LABEL": "Humber Lodge",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 29,
+        "OBJECTID": 507,
         "Origin": "BBC",
         "POLL_DIST": "BEC2",
         "POSTCODE": "NG9 2DP",
@@ -370,8 +404,8 @@
         "X": 453376.672,
         "Y": 337055.397,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.207417539430749, 52.928281298776845], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Humber Lodge Humber Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Humber Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 29, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC2\", \"POSTCODE\": \"NG9 2DP\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 453376.672, \"Y\": 337055.397}, \"type\": \"Feature\"}",
-        "pk": 29
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.207417539430749, 52.928281298776845], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Humber Lodge Humber Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Humber Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 507, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC2\", \"POSTCODE\": \"NG9 2DP\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 453376.672, \"Y\": 337055.397}, \"type\": \"Feature\"}",
+        "pk": 507
     },
     {
         "ADDRESS": "Templar Lodge Beacon Road Beeston Nottinghamshire",
@@ -379,7 +413,7 @@
         "LABEL": "Templar Lodge",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 30,
+        "OBJECTID": 508,
         "Origin": "BBC",
         "POLL_DIST": "BEC3",
         "POSTCODE": "NG9 2JZ",
@@ -387,8 +421,8 @@
         "X": 453778.102,
         "Y": 336902.536,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.201471971473741, 52.92686736142262], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Templar Lodge Beacon Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Templar Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 30, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC3\", \"POSTCODE\": \"NG9 2JZ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 453778.102, \"Y\": 336902.536}, \"type\": \"Feature\"}",
-        "pk": 30
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.201471971473741, 52.92686736142262], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Templar Lodge Beacon Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Templar Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 508, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC3\", \"POSTCODE\": \"NG9 2JZ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 453778.102, \"Y\": 336902.536}, \"type\": \"Feature\"}",
+        "pk": 508
     },
     {
         "ADDRESS": "Pavilion Beeston Fields Recreation Ground Central Avenue Beeston Nottinghamshire",
@@ -396,7 +430,7 @@
         "LABEL": "Bowls Pavilion, Central Avenue Recreation Ground",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 32,
+        "OBJECTID": 509,
         "Origin": "BBC",
         "POLL_DIST": "BEN3",
         "POSTCODE": "NG9 2QU",
@@ -404,8 +438,8 @@
         "X": 452393.928,
         "Y": 338027.746,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.221878260010877, 52.937117815517716], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pavilion Beeston Fields Recreation Ground Central Avenue Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Bowls Pavilion, Central Avenue Recreation Ground\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 32, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN3\", \"POSTCODE\": \"NG9 2QU\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 452393.928, \"Y\": 338027.746}, \"type\": \"Feature\"}",
-        "pk": 32
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.221878260010877, 52.937117815517716], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pavilion Beeston Fields Recreation Ground Central Avenue Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Bowls Pavilion, Central Avenue Recreation Ground\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 509, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN3\", \"POSTCODE\": \"NG9 2QU\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 452393.928, \"Y\": 338027.746}, \"type\": \"Feature\"}",
+        "pk": 509
     },
     {
         "ADDRESS": "Carwood Road Beeston Nottinghamshire",
@@ -413,7 +447,7 @@
         "LABEL": "Carwood Road Temporary Station",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 34,
+        "OBJECTID": 510,
         "Origin": "BBC",
         "POLL_DIST": "BEN1",
         "POSTCODE": "NG9 3BW",
@@ -421,8 +455,8 @@
         "X": 451769.9254,
         "Y": 338244.7154,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.231127377016242, 52.93912827034132], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Carwood Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Carwood Road Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 34, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN1\", \"POSTCODE\": \"NG9 3BW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451769.9254, \"Y\": 338244.7154}, \"type\": \"Feature\"}",
-        "pk": 34
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.231127377016242, 52.93912827034132], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Carwood Road Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Carwood Road Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 510, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN1\", \"POSTCODE\": \"NG9 3BW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451769.9254, \"Y\": 338244.7154}, \"type\": \"Feature\"}",
+        "pk": 510
     },
     {
         "ADDRESS": "Beeston Youth And Community Centre West End Beeston Nottinghamshire NG9 1GL",
@@ -430,7 +464,7 @@
         "LABEL": "Beeston Youth and Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 35,
+        "OBJECTID": 511,
         "Origin": "BBC",
         "POLL_DIST": "BEW1",
         "POSTCODE": "NG9 1GL",
@@ -438,8 +472,8 @@
         "X": 452810.763,
         "Y": 336390.999,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.215942793162597, 52.92236496047666], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Youth And Community Centre West End Beeston Nottinghamshire NG9 1GL\", \"CURR\": \"Y\", \"LABEL\": \"Beeston Youth and Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 35, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW1\", \"POSTCODE\": \"NG9 1GL\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452810.763, \"Y\": 336390.999}, \"type\": \"Feature\"}",
-        "pk": 35
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.215942793162597, 52.92236496047666], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Youth And Community Centre West End Beeston Nottinghamshire NG9 1GL\", \"CURR\": \"Y\", \"LABEL\": \"Beeston Youth and Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 511, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW1\", \"POSTCODE\": \"NG9 1GL\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452810.763, \"Y\": 336390.999}, \"type\": \"Feature\"}",
+        "pk": 511
     },
     {
         "ADDRESS": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE",
@@ -447,7 +481,7 @@
         "LABEL": "Our Lady of the Assumption Church Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 36,
+        "OBJECTID": 512,
         "Origin": "BBC",
         "POLL_DIST": "BEW2",
         "POSTCODE": "NG9 1AE",
@@ -455,8 +489,8 @@
         "X": 452630.675,
         "Y": 336886.151,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.218541017328295, 52.926833317815536], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE\", \"CURR\": \"Y\", \"LABEL\": \"Our Lady of the Assumption Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 36, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW2\", \"POSTCODE\": \"NG9 1AE\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452630.675, \"Y\": 336886.151}, \"type\": \"Feature\"}",
-        "pk": 36
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.218541017328295, 52.926833317815536], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE\", \"CURR\": \"Y\", \"LABEL\": \"Our Lady of the Assumption Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 512, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW2\", \"POSTCODE\": \"NG9 1AE\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452630.675, \"Y\": 336886.151}, \"type\": \"Feature\"}",
+        "pk": 512
     },
     {
         "ADDRESS": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE",
@@ -464,7 +498,7 @@
         "LABEL": "Our Lady of the Assumption Church Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 37,
+        "OBJECTID": 513,
         "Origin": "BBC",
         "POLL_DIST": "BEW3",
         "POSTCODE": "NG9 1AE",
@@ -472,25 +506,8 @@
         "X": 452630.675,
         "Y": 336886.151,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.218541017328295, 52.926833317815536], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE\", \"CURR\": \"Y\", \"LABEL\": \"Our Lady of the Assumption Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 37, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW3\", \"POSTCODE\": \"NG9 1AE\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452630.675, \"Y\": 336886.151}, \"type\": \"Feature\"}",
-        "pk": 37
-    },
-    {
-        "ADDRESS": "Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE",
-        "CURR": "Y",
-        "LABEL": "Our Lady of the Assumption Church Hall",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 38,
-        "Origin": "BBC",
-        "POLL_DIST": "BEW4",
-        "POSTCODE": "NG9 1AE",
-        "UPDATED": "2015-01-12T00:00:00Z",
-        "X": 452630.675,
-        "Y": 336886.151,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.218541017328295, 52.926833317815536], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE\", \"CURR\": \"Y\", \"LABEL\": \"Our Lady of the Assumption Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 38, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW4\", \"POSTCODE\": \"NG9 1AE\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452630.675, \"Y\": 336886.151}, \"type\": \"Feature\"}",
-        "pk": 38
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.218541017328295, 52.926833317815536], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Foster Avenue Beeston Nottinghamshire NG9 1AE\", \"CURR\": \"Y\", \"LABEL\": \"Our Lady of the Assumption Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 513, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW3\", \"POSTCODE\": \"NG9 1AE\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 452630.675, \"Y\": 336886.151}, \"type\": \"Feature\"}",
+        "pk": 513
     },
     {
         "ADDRESS": "Rylands Community Centre Leyton Crescent Beeston Nottinghamshire NG9 1PS",
@@ -498,7 +515,7 @@
         "LABEL": "Rylands Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 39,
+        "OBJECTID": 514,
         "Origin": "BBC",
         "POLL_DIST": "BER1",
         "POSTCODE": "NG9 1PS",
@@ -506,16 +523,16 @@
         "X": 454020.636,
         "Y": 336119.196,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.197994508059893, 52.9198019413031], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Rylands Community Centre Leyton Crescent Beeston Nottinghamshire NG9 1PS\", \"CURR\": \"Y\", \"LABEL\": \"Rylands Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 39, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER1\", \"POSTCODE\": \"NG9 1PS\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 454020.636, \"Y\": 336119.196}, \"type\": \"Feature\"}",
-        "pk": 39
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.197994508059893, 52.9198019413031], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Rylands Community Centre Leyton Crescent Beeston Nottinghamshire NG9 1PS\", \"CURR\": \"Y\", \"LABEL\": \"Rylands Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 514, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER1\", \"POSTCODE\": \"NG9 1PS\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 454020.636, \"Y\": 336119.196}, \"type\": \"Feature\"}",
+        "pk": 514
     },
     {
         "ADDRESS": "Pavilion Hetley Pearson Recreation Ground Cartwright Way Beeston Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Pavilion Hetley Pearson Recreation Ground",
+        "LABEL": "Hetley Pearson Recreation Ground Pavilion",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 41,
+        "OBJECTID": 515,
         "Origin": "BBC",
         "POLL_DIST": "BER3",
         "POSTCODE": "NG9 1RL",
@@ -523,8 +540,8 @@
         "X": 452932.005,
         "Y": 336131.933,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.214181730107144, 52.920024434599746], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pavilion Hetley Pearson Recreation Ground Cartwright Way Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Pavilion Hetley Pearson Recreation Ground\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 41, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER3\", \"POSTCODE\": \"NG9 1RL\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 452932.005, \"Y\": 336131.933}, \"type\": \"Feature\"}",
-        "pk": 41
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.214181730107144, 52.920024434599746], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pavilion Hetley Pearson Recreation Ground Cartwright Way Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Hetley Pearson Recreation Ground Pavilion\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 515, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER3\", \"POSTCODE\": \"NG9 1RL\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 452932.005, \"Y\": 336131.933}, \"type\": \"Feature\"}",
+        "pk": 515
     },
     {
         "ADDRESS": "Memorial Hall Church Street Bramcote Nottinghamshire",
@@ -532,7 +549,7 @@
         "LABEL": "Bramcote Memorial Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 42,
+        "OBJECTID": 516,
         "Origin": "BBC",
         "POLL_DIST": "BCT1",
         "POSTCODE": "NG9 3HD",
@@ -540,8 +557,8 @@
         "X": 450729.64,
         "Y": 337873.485,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.246662761641288, 52.935890255969575], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Memorial Hall Church Street Bramcote Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Bramcote Memorial Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 42, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT1\", \"POSTCODE\": \"NG9 3HD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 450729.64, \"Y\": 337873.485}, \"type\": \"Feature\"}",
-        "pk": 42
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.246662761641288, 52.935890255969575], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Memorial Hall Church Street Bramcote Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Bramcote Memorial Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 516, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT1\", \"POSTCODE\": \"NG9 3HD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 450729.64, \"Y\": 337873.485}, \"type\": \"Feature\"}",
+        "pk": 516
     },
     {
         "ADDRESS": "Westbourne Court Trenton Close Bramcote Nottinghamshire",
@@ -549,7 +566,7 @@
         "LABEL": "Westbourne Court",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 43,
+        "OBJECTID": 517,
         "Origin": "BBC",
         "POLL_DIST": "BCT3",
         "POSTCODE": "NG9 3JX",
@@ -557,25 +574,8 @@
         "X": 449986.936,
         "Y": 338172.721,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.257666161316577, 52.93864930693979], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Westbourne Court Trenton Close Bramcote Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Westbourne Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 43, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT3\", \"POSTCODE\": \"NG9 3JX\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 449986.936, \"Y\": 338172.721}, \"type\": \"Feature\"}",
-        "pk": 43
-    },
-    {
-        "ADDRESS": "Grove Court Central Avenue Chilwell Nottinghamshire",
-        "CURR": "Y",
-        "LABEL": "Grove Court",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 44,
-        "Origin": "BBC",
-        "POLL_DIST": "ACE4",
-        "POSTCODE": "NG9 4EH",
-        "UPDATED": "2015-01-07T00:00:00Z",
-        "X": 451779.055,
-        "Y": 336809.026,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.231220051430462, 52.92622251986864], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Grove Court Central Avenue Chilwell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Grove Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 44, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE4\", \"POSTCODE\": \"NG9 4EH\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451779.055, \"Y\": 336809.026}, \"type\": \"Feature\"}",
-        "pk": 44
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.257666161316577, 52.93864930693979], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Westbourne Court Trenton Close Bramcote Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Westbourne Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 517, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT3\", \"POSTCODE\": \"NG9 3JX\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 449986.936, \"Y\": 338172.721}, \"type\": \"Feature\"}",
+        "pk": 517
     },
     {
         "ADDRESS": "Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW",
@@ -583,7 +583,7 @@
         "LABEL": "Scout Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 45,
+        "OBJECTID": 518,
         "Origin": "BBC",
         "POLL_DIST": "CHW3",
         "POSTCODE": "NG9 5JW",
@@ -591,8 +591,8 @@
         "X": 451380.222,
         "Y": 335356.142,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.237381265707177, 52.91320137400043], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW\", \"CURR\": \"Y\", \"LABEL\": \"Scout Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 45, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW3\", \"POSTCODE\": \"NG9 5JW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451380.222, \"Y\": 335356.142}, \"type\": \"Feature\"}",
-        "pk": 45
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.237381265707177, 52.91320137400043], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW\", \"CURR\": \"Y\", \"LABEL\": \"Scout Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 518, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW3\", \"POSTCODE\": \"NG9 5JW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451380.222, \"Y\": 335356.142}, \"type\": \"Feature\"}",
+        "pk": 518
     },
     {
         "ADDRESS": "Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW",
@@ -600,7 +600,7 @@
         "LABEL": "Scout Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 46,
+        "OBJECTID": 519,
         "Origin": "BBC",
         "POLL_DIST": "ACE2",
         "POSTCODE": "NG9 5JW",
@@ -608,8 +608,8 @@
         "X": 451380.222,
         "Y": 335356.142,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.237381265707177, 52.91320137400043], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW\", \"CURR\": \"Y\", \"LABEL\": \"Scout Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 46, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE2\", \"POSTCODE\": \"NG9 5JW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451380.222, \"Y\": 335356.142}, \"type\": \"Feature\"}",
-        "pk": 46
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.237381265707177, 52.91320137400043], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Attenborough Lane Chilwell Nottinghamshire NG9 5JW\", \"CURR\": \"Y\", \"LABEL\": \"Scout Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 519, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE2\", \"POSTCODE\": \"NG9 5JW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 451380.222, \"Y\": 335356.142}, \"type\": \"Feature\"}",
+        "pk": 519
     },
     {
         "ADDRESS": "The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ",
@@ -617,7 +617,7 @@
         "LABEL": "Pastures Community Church",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 47,
+        "OBJECTID": 520,
         "Origin": "BBC",
         "POLL_DIST": "SNO1",
         "POSTCODE": "NG9 8HZ",
@@ -625,8 +625,8 @@
         "X": 448942.693,
         "Y": 338279.192,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.273186454786517, 52.93970220544068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ\", \"CURR\": \"Y\", \"LABEL\": \"Pastures Community Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 47, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO1\", \"POSTCODE\": \"NG9 8HZ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448942.693, \"Y\": 338279.192}, \"type\": \"Feature\"}",
-        "pk": 47
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.273186454786517, 52.93970220544068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Pasture Community Church 166 Pasture Road Stapleford Nottinghamshire NG9 8GQ\", \"CURR\": \"Y\", \"LABEL\": \"Pastures Community Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 520, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO1\", \"POSTCODE\": \"NG9 8HZ\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448942.693, \"Y\": 338279.192}, \"type\": \"Feature\"}",
+        "pk": 520
     },
     {
         "ADDRESS": "Community Centre Washington Drive Stapleford Nottinghamshire NG9 8PY",
@@ -634,7 +634,7 @@
         "LABEL": "New Stapleford Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 48,
+        "OBJECTID": 521,
         "Origin": "BBC",
         "POLL_DIST": "SNO3",
         "POSTCODE": "NG9 8PY",
@@ -642,8 +642,8 @@
         "X": 449732.6205,
         "Y": 338391.3292,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.261416525459738, 52.94063780978831], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Washington Drive Stapleford Nottinghamshire NG9 8PY\", \"CURR\": \"Y\", \"LABEL\": \"New Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 48, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO3\", \"POSTCODE\": \"NG9 8PY\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449732.6205, \"Y\": 338391.3292}, \"type\": \"Feature\"}",
-        "pk": 48
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.261416525459738, 52.94063780978831], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Washington Drive Stapleford Nottinghamshire NG9 8PY\", \"CURR\": \"Y\", \"LABEL\": \"New Stapleford Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 521, \"Origin\": \"BBC\", \"POLL_DIST\": \"SNO3\", \"POSTCODE\": \"NG9 8PY\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449732.6205, \"Y\": 338391.3292}, \"type\": \"Feature\"}",
+        "pk": 521
     },
     {
         "ADDRESS": "Gutersloh Court Central Avenue Stapleford Nottinghamshire",
@@ -651,7 +651,7 @@
         "LABEL": "Gutersloh Court",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 49,
+        "OBJECTID": 522,
         "Origin": "BBC",
         "POLL_DIST": "SSE3",
         "POSTCODE": "NG9 8QD",
@@ -659,8 +659,8 @@
         "X": 449563.106,
         "Y": 337949.225,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.264005874023231, 52.93667954590522], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Gutersloh Court Central Avenue Stapleford Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Gutersloh Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 49, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE3\", \"POSTCODE\": \"NG9 8QD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449563.106, \"Y\": 337949.225}, \"type\": \"Feature\"}",
-        "pk": 49
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.264005874023231, 52.93667954590522], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Gutersloh Court Central Avenue Stapleford Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Gutersloh Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 522, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSE3\", \"POSTCODE\": \"NG9 8QD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449563.106, \"Y\": 337949.225}, \"type\": \"Feature\"}",
+        "pk": 522
     },
     {
         "ADDRESS": "Carnegie Civic And Community Centre 14 Warren Avenue Stapleford Nottinghamshire NG9 8EY",
@@ -668,7 +668,7 @@
         "LABEL": "Carnegie Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 50,
+        "OBJECTID": 523,
         "Origin": "BBC",
         "POLL_DIST": "SSW1",
         "POSTCODE": "NG9 8EY",
@@ -676,25 +676,8 @@
         "X": 448700.376,
         "Y": 337163.437,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.276958420658263, 52.92969509929364], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Carnegie Civic And Community Centre 14 Warren Avenue Stapleford Nottinghamshire NG9 8EY\", \"CURR\": \"Y\", \"LABEL\": \"Carnegie Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 50, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSW1\", \"POSTCODE\": \"NG9 8EY\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448700.376, \"Y\": 337163.437}, \"type\": \"Feature\"}",
-        "pk": 50
-    },
-    {
-        "ADDRESS": "Lombardy Lodge Portland Road Toton Nottinghamshire NG9 6EE",
-        "CURR": "Y",
-        "LABEL": "Lombardy Lodge",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 51,
-        "Origin": "BBC",
-        "POLL_DIST": "TCM1",
-        "POSTCODE": "NG9 6EE",
-        "UPDATED": "2015-01-14T00:00:00Z",
-        "X": 450211.7311,
-        "Y": 334447.7948,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.254895705897823, 52.90514676744529], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Lombardy Lodge Portland Road Toton Nottinghamshire NG9 6EE\", \"CURR\": \"Y\", \"LABEL\": \"Lombardy Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 51, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM1\", \"POSTCODE\": \"NG9 6EE\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450211.7311, \"Y\": 334447.7948}, \"type\": \"Feature\"}",
-        "pk": 51
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.276958420658263, 52.92969509929364], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Carnegie Civic And Community Centre 14 Warren Avenue Stapleford Nottinghamshire NG9 8EY\", \"CURR\": \"Y\", \"LABEL\": \"Carnegie Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 523, \"Origin\": \"BBC\", \"POLL_DIST\": \"SSW1\", \"POSTCODE\": \"NG9 8EY\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448700.376, \"Y\": 337163.437}, \"type\": \"Feature\"}",
+        "pk": 523
     },
     {
         "ADDRESS": "Greenwood Community Centre Chester Green Toton Nottinghamshire",
@@ -702,7 +685,7 @@
         "LABEL": "Greenwood Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 52,
+        "OBJECTID": 524,
         "Origin": "BBC",
         "POLL_DIST": "TCM2",
         "POSTCODE": "NG9 6LN",
@@ -710,8 +693,8 @@
         "X": 449472.586,
         "Y": 334562.414,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.265866706459745, 52.9062453188188], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greenwood Community Centre Chester Green Toton Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greenwood Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 52, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM2\", \"POSTCODE\": \"NG9 6LN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449472.586, \"Y\": 334562.414}, \"type\": \"Feature\"}",
-        "pk": 52
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.265866706459745, 52.9062453188188], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greenwood Community Centre Chester Green Toton Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greenwood Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 524, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM2\", \"POSTCODE\": \"NG9 6LN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 449472.586, \"Y\": 334562.414}, \"type\": \"Feature\"}",
+        "pk": 524
     },
     {
         "ADDRESS": "Village Hall The Lane Awsworth Nottinghamshire NG16 2QQ",
@@ -719,7 +702,7 @@
         "LABEL": "Awsworth Village Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 54,
+        "OBJECTID": 525,
         "Origin": "BBC",
         "POLL_DIST": "ACT1",
         "POSTCODE": "NG16 2QQ",
@@ -727,8 +710,8 @@
         "X": 448255.279,
         "Y": 343912.397,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.282578031275851, 52.99039825544304], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Lane Awsworth Nottinghamshire NG16 2QQ\", \"CURR\": \"Y\", \"LABEL\": \"Awsworth Village Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 54, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT1\", \"POSTCODE\": \"NG16 2QQ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448255.279, \"Y\": 343912.397}, \"type\": \"Feature\"}",
-        "pk": 54
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.282578031275851, 52.99039825544304], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall The Lane Awsworth Nottinghamshire NG16 2QQ\", \"CURR\": \"Y\", \"LABEL\": \"Awsworth Village Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 525, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT1\", \"POSTCODE\": \"NG16 2QQ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448255.279, \"Y\": 343912.397}, \"type\": \"Feature\"}",
+        "pk": 525
     },
     {
         "ADDRESS": "Trinity Farm Awsworth Lane Cossall Nottinghamshire NG16 2RZ",
@@ -736,7 +719,7 @@
         "LABEL": "Trinity Farm",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 55,
+        "OBJECTID": 526,
         "Origin": "BBC",
         "POLL_DIST": "ACT2",
         "POSTCODE": "NG16 2RZ",
@@ -744,8 +727,8 @@
         "X": 448202.82,
         "Y": 343523.774,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.28341707934296, 52.98691000695983], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Trinity Farm Awsworth Lane Cossall Nottinghamshire NG16 2RZ\", \"CURR\": \"Y\", \"LABEL\": \"Trinity Farm\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 55, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT2\", \"POSTCODE\": \"NG16 2RZ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448202.82, \"Y\": 343523.774}, \"type\": \"Feature\"}",
-        "pk": 55
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.28341707934296, 52.98691000695983], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Trinity Farm Awsworth Lane Cossall Nottinghamshire NG16 2RZ\", \"CURR\": \"Y\", \"LABEL\": \"Trinity Farm\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 526, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT2\", \"POSTCODE\": \"NG16 2RZ\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448202.82, \"Y\": 343523.774}, \"type\": \"Feature\"}",
+        "pk": 526
     },
     {
         "ADDRESS": "Parish Hall Church Lane Cossall Nottinghamshire NG16 2RW",
@@ -753,7 +736,7 @@
         "LABEL": "Cossall Community Hall - Old School Room",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 56,
+        "OBJECTID": 527,
         "Origin": "BBC",
         "POLL_DIST": "ACT3",
         "POSTCODE": "NG16 2RW",
@@ -761,25 +744,8 @@
         "X": 448343.528,
         "Y": 342311.995,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.281501719212293, 52.97600557988546], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Church Lane Cossall Nottinghamshire NG16 2RW\", \"CURR\": \"Y\", \"LABEL\": \"Cossall Community Hall - Old School Room\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 56, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT3\", \"POSTCODE\": \"NG16 2RW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448343.528, \"Y\": 342311.995}, \"type\": \"Feature\"}",
-        "pk": 56
-    },
-    {
-        "ADDRESS": "Kimberley Primary School 47 Swingate Kimberley Nottinghamshire NG16 2PG",
-        "CURR": "Y",
-        "LABEL": "Kimberley Primary School, Swingate",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 57,
-        "Origin": "BBC",
-        "POLL_DIST": "KIM1",
-        "POSTCODE": "NG16 2PG",
-        "UPDATED": "2015-01-14T00:00:00Z",
-        "X": 450162.28,
-        "Y": 344032.333,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.254153994384984, 52.991301544469344], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kimberley Primary School 47 Swingate Kimberley Nottinghamshire NG16 2PG\", \"CURR\": \"Y\", \"LABEL\": \"Kimberley Primary School, Swingate\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 57, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM1\", \"POSTCODE\": \"NG16 2PG\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450162.28, \"Y\": 344032.333}, \"type\": \"Feature\"}",
-        "pk": 57
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.281501719212293, 52.97600557988546], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Church Lane Cossall Nottinghamshire NG16 2RW\", \"CURR\": \"Y\", \"LABEL\": \"Cossall Community Hall - Old School Room\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 527, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT3\", \"POSTCODE\": \"NG16 2RW\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448343.528, \"Y\": 342311.995}, \"type\": \"Feature\"}",
+        "pk": 527
     },
     {
         "ADDRESS": "Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX",
@@ -787,7 +753,7 @@
         "LABEL": "Holy Trinity Church Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 59,
+        "OBJECTID": 528,
         "Origin": "BBC",
         "POLL_DIST": "KIM6",
         "POSTCODE": "NG16 2HX",
@@ -795,16 +761,16 @@
         "X": 449685.365,
         "Y": 344836.056,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.261134983998164, 52.99856972227249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 59, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM6\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 449685.365, \"Y\": 344836.056}, \"type\": \"Feature\"}",
-        "pk": 59
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.261134983998164, 52.99856972227249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 528, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM6\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 449685.365, \"Y\": 344836.056}, \"type\": \"Feature\"}",
+        "pk": 528
     },
     {
         "ADDRESS": "Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Recreation Ground Temporary Station Smithurst Road / Cowper Road",
+        "LABEL": "Unit 1 Recreation Ground Temporary Station Smithurst Road / Cowper Road",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 60,
+        "OBJECTID": 529,
         "Origin": "BBC",
         "POLL_DIST": "GRE2",
         "POSTCODE": "NG16 2UP",
@@ -812,8 +778,8 @@
         "X": 447372.546,
         "Y": 345752.461,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.295458317549248, 53.00701599938068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Recreation Ground Temporary Station Smithurst Road / Cowper Road\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 60, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE2\", \"POSTCODE\": \"NG16 2UP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447372.546, \"Y\": 345752.461}, \"type\": \"Feature\"}",
-        "pk": 60
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.295458317549248, 53.00701599938068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Unit 1 Recreation Ground Temporary Station Smithurst Road / Cowper Road\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 529, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE2\", \"POSTCODE\": \"NG16 2UP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447372.546, \"Y\": 345752.461}, \"type\": \"Feature\"}",
+        "pk": 529
     },
     {
         "ADDRESS": "Newthorpe Baptist Church Main Street Newthorpe Nottinghamshire NG16 2DL",
@@ -821,7 +787,7 @@
         "LABEL": "Newthorpe Baptist Church",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 61,
+        "OBJECTID": 530,
         "Origin": "BBC",
         "POLL_DIST": "GRE4",
         "POSTCODE": "NG16 2DL",
@@ -829,8 +795,8 @@
         "X": 448193.11,
         "Y": 346361.727,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.283140400587453, 53.01241910530597], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Newthorpe Baptist Church Main Street Newthorpe Nottinghamshire NG16 2DL\", \"CURR\": \"Y\", \"LABEL\": \"Newthorpe Baptist Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 61, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE4\", \"POSTCODE\": \"NG16 2DL\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448193.11, \"Y\": 346361.727}, \"type\": \"Feature\"}",
-        "pk": 61
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.283140400587453, 53.01241910530597], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Newthorpe Baptist Church Main Street Newthorpe Nottinghamshire NG16 2DL\", \"CURR\": \"Y\", \"LABEL\": \"Newthorpe Baptist Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 530, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE4\", \"POSTCODE\": \"NG16 2DL\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 448193.11, \"Y\": 346361.727}, \"type\": \"Feature\"}",
+        "pk": 530
     },
     {
         "ADDRESS": "Community Centre Horsendale County Primary School Assarts Road Nuthall Nottinghamshire NG16 1AP",
@@ -838,7 +804,7 @@
         "LABEL": "Horsendale Community Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 62,
+        "OBJECTID": 531,
         "Origin": "BBC",
         "POLL_DIST": "NES1",
         "POSTCODE": "NG16 1AP",
@@ -846,8 +812,8 @@
         "X": 452367.182,
         "Y": 343536.128,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.221389668308339, 52.986631514507906], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Horsendale County Primary School Assarts Road Nuthall Nottinghamshire NG16 1AP\", \"CURR\": \"Y\", \"LABEL\": \"Horsendale Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 62, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES1\", \"POSTCODE\": \"NG16 1AP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 452367.182, \"Y\": 343536.128}, \"type\": \"Feature\"}",
-        "pk": 62
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.221389668308339, 52.986631514507906], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Community Centre Horsendale County Primary School Assarts Road Nuthall Nottinghamshire NG16 1AP\", \"CURR\": \"Y\", \"LABEL\": \"Horsendale Community Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 531, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES1\", \"POSTCODE\": \"NG16 1AP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 452367.182, \"Y\": 343536.128}, \"type\": \"Feature\"}",
+        "pk": 531
     },
     {
         "ADDRESS": "Temple Centre Nottingham Road Nuthall Nottinghamshire NG16 1DP",
@@ -855,7 +821,7 @@
         "LABEL": "Nuthall Temple Centre",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 64,
+        "OBJECTID": 532,
         "Origin": "BBC",
         "POLL_DIST": "NES4",
         "POSTCODE": "NG16 1DP",
@@ -863,8 +829,8 @@
         "X": 451838.662,
         "Y": 344352.968,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.229131167379544, 52.99402452203065], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Temple Centre Nottingham Road Nuthall Nottinghamshire NG16 1DP\", \"CURR\": \"Y\", \"LABEL\": \"Nuthall Temple Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 64, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES4\", \"POSTCODE\": \"NG16 1DP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 451838.662, \"Y\": 344352.968}, \"type\": \"Feature\"}",
-        "pk": 64
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.229131167379544, 52.99402452203065], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Temple Centre Nottingham Road Nuthall Nottinghamshire NG16 1DP\", \"CURR\": \"Y\", \"LABEL\": \"Nuthall Temple Centre\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 532, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES4\", \"POSTCODE\": \"NG16 1DP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 451838.662, \"Y\": 344352.968}, \"type\": \"Feature\"}",
+        "pk": 532
     },
     {
         "ADDRESS": "Strelley Hall Main Street Strelley Nottinghamshire NG8 6PE",
@@ -872,7 +838,7 @@
         "LABEL": "Strelley Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 65,
+        "OBJECTID": 533,
         "Origin": "BBC",
         "POLL_DIST": "NES3",
         "POSTCODE": "NG8 6PE",
@@ -880,8 +846,8 @@
         "X": 450701.91,
         "Y": 342126.47,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.246413321767941, 52.974120752528115], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Strelley Hall Main Street Strelley Nottinghamshire NG8 6PE\", \"CURR\": \"Y\", \"LABEL\": \"Strelley Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 65, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES3\", \"POSTCODE\": \"NG8 6PE\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450701.91, \"Y\": 342126.47}, \"type\": \"Feature\"}",
-        "pk": 65
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.246413321767941, 52.974120752528115], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Strelley Hall Main Street Strelley Nottinghamshire NG8 6PE\", \"CURR\": \"Y\", \"LABEL\": \"Strelley Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 533, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES3\", \"POSTCODE\": \"NG8 6PE\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450701.91, \"Y\": 342126.47}, \"type\": \"Feature\"}",
+        "pk": 533
     },
     {
         "ADDRESS": "Scout Hall Back Lane Nuthall Nottinghamshire",
@@ -889,7 +855,7 @@
         "LABEL": "St Patricks Church Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 66,
+        "OBJECTID": 534,
         "Origin": "BBC",
         "POLL_DIST": "WNW2",
         "POSTCODE": "NG16 1BT",
@@ -897,8 +863,8 @@
         "X": 451534.673,
         "Y": 344629.806,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.233615761875763, 52.99654194158741], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Back Lane Nuthall Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Patricks Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 66, \"Origin\": \"BBC\", \"POLL_DIST\": \"WNW2\", \"POSTCODE\": \"NG16 1BT\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 451534.673, \"Y\": 344629.806}, \"type\": \"Feature\"}",
-        "pk": 66
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.233615761875763, 52.99654194158741], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Scout Hall Back Lane Nuthall Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Patricks Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 534, \"Origin\": \"BBC\", \"POLL_DIST\": \"WNW2\", \"POSTCODE\": \"NG16 1BT\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 451534.673, \"Y\": 344629.806}, \"type\": \"Feature\"}",
+        "pk": 534
     },
     {
         "ADDRESS": "Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS",
@@ -906,7 +872,7 @@
         "LABEL": "Womens Institute",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 67,
+        "OBJECTID": 535,
         "Origin": "BBC",
         "POLL_DIST": "WNW1",
         "POSTCODE": "NG16 1HS",
@@ -914,8 +880,8 @@
         "X": 450217.701,
         "Y": 345696.83,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.253070772409584, 53.006256915051324], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS\", \"CURR\": \"Y\", \"LABEL\": \"Womens Institute\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 67, \"Origin\": \"BBC\", \"POLL_DIST\": \"WNW1\", \"POSTCODE\": \"NG16 1HS\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450217.701, \"Y\": 345696.83}, \"type\": \"Feature\"}",
-        "pk": 67
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.253070772409584, 53.006256915051324], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Victoria Institute Main Road Watnall Nottinghamshire NG16 1HS\", \"CURR\": \"Y\", \"LABEL\": \"Womens Institute\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 535, \"Origin\": \"BBC\", \"POLL_DIST\": \"WNW1\", \"POSTCODE\": \"NG16 1HS\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 450217.701, \"Y\": 345696.83}, \"type\": \"Feature\"}",
+        "pk": 535
     },
     {
         "ADDRESS": "Village Hall Stapleford Road Trowell Nottinghamshire",
@@ -923,7 +889,7 @@
         "LABEL": "Trowell Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 68,
+        "OBJECTID": 536,
         "Origin": "BBC",
         "POLL_DIST": "ACT4",
         "POSTCODE": "NG9 3QA",
@@ -931,8 +897,8 @@
         "X": 448456.3,
         "Y": 339675.407,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.280215649826625, 52.95229621615263], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Stapleford Road Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 68, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT4\", \"POSTCODE\": \"NG9 3QA\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448456.3, \"Y\": 339675.407}, \"type\": \"Feature\"}",
-        "pk": 68
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.280215649826625, 52.95229621615263], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Village Hall Stapleford Road Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 536, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT4\", \"POSTCODE\": \"NG9 3QA\", \"UPDATED\": \"2015-01-07T00:00:00Z\", \"X\": 448456.3, \"Y\": 339675.407}, \"type\": \"Feature\"}",
+        "pk": 536
     },
     {
         "ADDRESS": "Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire",
@@ -940,7 +906,7 @@
         "LABEL": "Greasley Parish Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 70,
+        "OBJECTID": 537,
         "Origin": "BBC",
         "POLL_DIST": "GRE1",
         "POSTCODE": "NG16 3QN",
@@ -948,8 +914,8 @@
         "X": 447823.529,
         "Y": 346846.059,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.288576852166347, 53.01680560854898], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greasley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 70, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE1\", \"POSTCODE\": \"NG16 3QN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447823.529, \"Y\": 346846.059}, \"type\": \"Feature\"}",
-        "pk": 70
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.288576852166347, 53.01680560854898], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Parish Hall Greasley Sports And Community Centre Dovecote Road Newthorpe Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greasley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 537, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE1\", \"POSTCODE\": \"NG16 3QN\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447823.529, \"Y\": 346846.059}, \"type\": \"Feature\"}",
+        "pk": 537
     },
     {
         "ADDRESS": "7 Linwood Crescent Eastwood Nottinghamshire NG16 3HD",
@@ -957,7 +923,7 @@
         "LABEL": "Glebe House",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 73,
+        "OBJECTID": 538,
         "Origin": "BBC",
         "POLL_DIST": "EHT2",
         "POSTCODE": "NG16 3HD",
@@ -965,8 +931,8 @@
         "X": 447154.539,
         "Y": 346231.207,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2986373301686, 53.01133839465216], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"7 Linwood Crescent Eastwood Nottinghamshire NG16 3HD\", \"CURR\": \"Y\", \"LABEL\": \"Glebe House\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 73, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHT2\", \"POSTCODE\": \"NG16 3HD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 447154.539, \"Y\": 346231.207}, \"type\": \"Feature\"}",
-        "pk": 73
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2986373301686, 53.01133839465216], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"7 Linwood Crescent Eastwood Nottinghamshire NG16 3HD\", \"CURR\": \"Y\", \"LABEL\": \"Glebe House\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 538, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHT2\", \"POSTCODE\": \"NG16 3HD\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 447154.539, \"Y\": 346231.207}, \"type\": \"Feature\"}",
+        "pk": 538
     },
     {
         "ADDRESS": "Eastwood Elder Citizens Community Centre 15 Edward Road Eastwood Nottinghamshire NG16 3EU",
@@ -974,7 +940,7 @@
         "LABEL": "Age Concern",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 74,
+        "OBJECTID": 539,
         "Origin": "BBC",
         "POLL_DIST": "EHT1",
         "POSTCODE": "NG16 3EU",
@@ -982,8 +948,8 @@
         "X": 447440.896,
         "Y": 346774.348,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.294290391604932, 53.016195070765804], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Eastwood Elder Citizens Community Centre 15 Edward Road Eastwood Nottinghamshire NG16 3EU\", \"CURR\": \"Y\", \"LABEL\": \"Age Concern\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 74, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHT1\", \"POSTCODE\": \"NG16 3EU\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 447440.896, \"Y\": 346774.348}, \"type\": \"Feature\"}",
-        "pk": 74
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.294290391604932, 53.016195070765804], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Eastwood Elder Citizens Community Centre 15 Edward Road Eastwood Nottinghamshire NG16 3EU\", \"CURR\": \"Y\", \"LABEL\": \"Age Concern\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 539, \"Origin\": \"BBC\", \"POLL_DIST\": \"EHT1\", \"POSTCODE\": \"NG16 3EU\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 447440.896, \"Y\": 346774.348}, \"type\": \"Feature\"}",
+        "pk": 539
     },
     {
         "ADDRESS": "Boat And Horses Inn Trent Road Beeston Nottinghamshire NG9 1LP",
@@ -991,16 +957,16 @@
         "LABEL": "Boat and Horses",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 75,
+        "OBJECTID": 540,
         "Origin": "BBC",
         "POLL_DIST": "BER2",
         "POSTCODE": "NG9 1LP",
         "UPDATED": "2018-08-29T00:00:00Z",
-        "X": 453667.0,
-        "Y": 335585.0,
+        "X": 453667.14,
+        "Y": 335584.914,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.203339398253869, 52.91503485498687], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Boat And Horses Inn Trent Road Beeston Nottinghamshire NG9 1LP\", \"CURR\": \"Y\", \"LABEL\": \"Boat and Horses\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 75, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER2\", \"POSTCODE\": \"NG9 1LP\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 453667.0, \"Y\": 335585.0}, \"type\": \"Feature\"}",
-        "pk": 75
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.203339398253869, 52.91503485498687], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Boat And Horses Inn Trent Road Beeston Nottinghamshire NG9 1LP\", \"CURR\": \"Y\", \"LABEL\": \"Boat and Horses\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 540, \"Origin\": \"BBC\", \"POLL_DIST\": \"BER2\", \"POSTCODE\": \"NG9 1LP\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 453667.14, \"Y\": 335584.914}, \"type\": \"Feature\"}",
+        "pk": 540
     },
     {
         "ADDRESS": "Oasis Christian Centre Willoughby Street Beeston Nottinghamshire NG9 2LT",
@@ -1008,16 +974,16 @@
         "LABEL": "Oasis Christian Centre Union Street Entrance",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 76,
+        "OBJECTID": 541,
         "Origin": "BBC",
         "POLL_DIST": "BEC1",
         "POSTCODE": "NG9 2LT",
         "UPDATED": "2019-02-12T00:00:00Z",
-        "X": 453015.0,
-        "Y": 336980.0,
+        "X": 453014.51,
+        "Y": 336980.395,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.212816615369003, 52.927642852469525], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Oasis Christian Centre Willoughby Street Beeston Nottinghamshire NG9 2LT\", \"CURR\": \"Y\", \"LABEL\": \"Oasis Christian Centre Union Street Entrance\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 76, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC1\", \"POSTCODE\": \"NG9 2LT\", \"UPDATED\": \"2019-02-12T00:00:00Z\", \"X\": 453015.0, \"Y\": 336980.0}, \"type\": \"Feature\"}",
-        "pk": 76
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.212816615369003, 52.927642852469525], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Oasis Christian Centre Willoughby Street Beeston Nottinghamshire NG9 2LT\", \"CURR\": \"Y\", \"LABEL\": \"Oasis Christian Centre Union Street Entrance\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 541, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEC1\", \"POSTCODE\": \"NG9 2LT\", \"UPDATED\": \"2019-02-12T00:00:00Z\", \"X\": 453014.51, \"Y\": 336980.395}, \"type\": \"Feature\"}",
+        "pk": 541
     },
     {
         "ADDRESS": "Beeston Evangelical Free Church Salthouse Lane Beeston Nottinghamshire",
@@ -1025,33 +991,33 @@
         "LABEL": "Beeston Free Church",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 77,
+        "OBJECTID": 542,
         "Origin": "BBC",
         "POLL_DIST": "BEN2",
         "POSTCODE": "NG9 2FU",
         "UPDATED": "2019-02-12T00:00:00Z",
-        "X": 453392.0,
-        "Y": 337526.0,
+        "X": 453392.204,
+        "Y": 337526.058,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.207109092159321, 52.93251045169359], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Evangelical Free Church Salthouse Lane Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Beeston Free Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 77, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN2\", \"POSTCODE\": \"NG9 2FU \", \"UPDATED\": \"2019-02-12T00:00:00Z\", \"X\": 453392.0, \"Y\": 337526.0}, \"type\": \"Feature\"}",
-        "pk": 77
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.207109092159321, 52.93251045169359], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Evangelical Free Church Salthouse Lane Beeston Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Beeston Free Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 542, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEN2\", \"POSTCODE\": \"NG9 2FU \", \"UPDATED\": \"2019-02-12T00:00:00Z\", \"X\": 453392.204, \"Y\": 337526.058}, \"type\": \"Feature\"}",
+        "pk": 542
     },
     {
         "ADDRESS": "Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW",
         "CURR": "Y",
-        "LABEL": "Creo Fitness Gym",
+        "LABEL": "Creo",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 78,
+        "OBJECTID": 543,
         "Origin": "BBC",
-        "POLL_DIST": "BCT2",
+        "POLL_DIST": "BCT2 (East)",
         "POSTCODE": "NG9 3FW",
         "UPDATED": "2019-02-25T00:00:00Z",
-        "X": 451044.0,
-        "Y": 338453.0,
+        "X": 451049.454,
+        "Y": 338448.665,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.241814770171907, 52.94103011080159], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW\", \"CURR\": \"Y\", \"LABEL\": \"Creo Fitness Gym\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 78, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2\", \"POSTCODE\": \"NG9 3FW\", \"UPDATED\": \"2019-02-25T00:00:00Z\", \"X\": 451044.0, \"Y\": 338453.0}, \"type\": \"Feature\"}",
-        "pk": 78
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.241814770171907, 52.94103011080159], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW\", \"CURR\": \"Y\", \"LABEL\": \"Creo\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 543, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2 (East)\", \"POSTCODE\": \"NG9 3FW\", \"UPDATED\": \"2019-02-25T00:00:00Z\", \"X\": 451049.454, \"Y\": 338448.665}, \"type\": \"Feature\"}",
+        "pk": 543
     },
     {
         "ADDRESS": "Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE",
@@ -1059,16 +1025,16 @@
         "LABEL": "Oldmoor Lodge Function Room",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 79,
+        "OBJECTID": 544,
         "Origin": "BBC",
         "POLL_DIST": "NES2",
         "POSTCODE": "NG16 1QE",
         "UPDATED": "2018-08-29T00:00:00Z",
-        "X": 451769.0,
-        "Y": 343489.0,
+        "X": 451769.315,
+        "Y": 343489.225,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.230302283975106, 52.986267803236004], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE\", \"CURR\": \"Y\", \"LABEL\": \"Oldmoor Lodge Function Room\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 79, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1QE\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 451769.0, \"Y\": 343489.0}, \"type\": \"Feature\"}",
-        "pk": 79
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.230302283975106, 52.986267803236004], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE\", \"CURR\": \"Y\", \"LABEL\": \"Oldmoor Lodge Function Room\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 544, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1QE\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 451769.315, \"Y\": 343489.225}, \"type\": \"Feature\"}",
+        "pk": 544
     },
     {
         "ADDRESS": "The Corn Mill Swiney Way Chilwell Nottinghamshire NG9 6GX",
@@ -1076,49 +1042,168 @@
         "LABEL": "The Corn Mill (Play Area Entrance)",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 81,
+        "OBJECTID": 545,
         "Origin": "BBC",
         "POLL_DIST": "TCM4",
         "POSTCODE": "NG9 6GX",
         "UPDATED": "2020-02-21T00:00:00Z",
-        "X": 450984.0,
-        "Y": 334413.0,
+        "X": 450983.94,
+        "Y": 334413.165,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.243421204604434, 52.90476305466435], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Corn Mill Swiney Way Chilwell Nottinghamshire NG9 6GX\", \"CURR\": \"Y\", \"LABEL\": \"The Corn Mill (Play Area Entrance)\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 81, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM4\", \"POSTCODE\": \"NG9 6GX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 450984.0, \"Y\": 334413.0}, \"type\": \"Feature\"}",
-        "pk": 81
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.243421204604434, 52.90476305466435], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Corn Mill Swiney Way Chilwell Nottinghamshire NG9 6GX\", \"CURR\": \"Y\", \"LABEL\": \"The Corn Mill (Play Area Entrance)\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 545, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM4\", \"POSTCODE\": \"NG9 6GX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 450983.94, \"Y\": 334413.165}, \"type\": \"Feature\"}",
+        "pk": 545
     },
     {
-        "ADDRESS": "Greenwood Court Cator Lane Chilwell Nottinghamshire",
+        "ADDRESS": "Chilwell Masonic Hall 145 High Road Chilwell Nottinghamshire NG9 4AT",
         "CURR": "Y",
-        "LABEL": "Greenwood Court",
+        "LABEL": "Chilwell Masonic Hall",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 82,
+        "OBJECTID": 546,
         "Origin": "BBC",
-        "POLL_DIST": "ACE3",
-        "POSTCODE": "NG9 4BW",
-        "UPDATED": "2020-02-21T00:00:00Z",
-        "X": 451842.0,
-        "Y": 336458.0,
+        "POLL_DIST": "ACE4",
+        "POSTCODE": "NG9 4AT",
+        "UPDATED": "2021-02-19T00:00:00Z",
+        "X": 452114.832,
+        "Y": 336070.515,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.23033615534214, 52.923058024883126], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greenwood Court Cator Lane Chilwell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Greenwood Court\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 82, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE3\", \"POSTCODE\": \" NG9 4BW\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 451842.0, \"Y\": 336458.0}, \"type\": \"Feature\"}",
-        "pk": 82
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.226344022315718, 52.9195519999669], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Chilwell Masonic Hall 145 High Road Chilwell Nottinghamshire NG9 4AT\", \"CURR\": \"Y\", \"LABEL\": \"Chilwell Masonic Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 546, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACE4\", \"POSTCODE\": \"NG9 4AT\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 452114.832, \"Y\": 336070.515}, \"type\": \"Feature\"}",
+        "pk": 546
     },
     {
-        "ADDRESS": "Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX",
+        "ADDRESS": "Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire",
         "CURR": "Y",
-        "LABEL": "Holy Trinity Church Hall",
+        "LABEL": "Unit 2 Recreation Ground Temporary Station Smithurst Road / Cowper Road",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 83,
+        "OBJECTID": 547,
         "Origin": "BBC",
-        "POLL_DIST": "KIM5",
+        "POLL_DIST": "GRE2",
+        "POSTCODE": "NG16 2UP",
+        "UPDATED": "2015-01-14T00:00:00Z",
+        "X": 447372.546,
+        "Y": 345752.461,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.295458317549248, 53.00701599938068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Greasley Parish Council Playground Smithurst Road Open Space Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Unit 2 Recreation Ground Temporary Station Smithurst Road / Cowper Road\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 547, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE2\", \"POSTCODE\": \"NG16 2UP\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447372.546, \"Y\": 345752.461}, \"type\": \"Feature\"}",
+        "pk": 547
+    },
+    {
+        "ADDRESS": "Smithurst Road Giltbrook Nottinghamshire",
+        "CURR": "Y",
+        "LABEL": "Unit 2 Smithurst Road Temporary Station",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 548,
+        "Origin": "BBC",
+        "POLL_DIST": "GRE3",
+        "POSTCODE": "NG16 2UD",
+        "UPDATED": "2015-01-14T00:00:00Z",
+        "X": 447846.0629,
+        "Y": 345377.552,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.288457629462999, 53.003604084993384], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Smithurst Road Giltbrook Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Unit 2 Smithurst Road Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 548, \"Origin\": \"BBC\", \"POLL_DIST\": \"GRE3\", \"POSTCODE\": \"NG16 2UD\", \"UPDATED\": \"2015-01-14T00:00:00Z\", \"X\": 447846.0629, \"Y\": 345377.552}, \"type\": \"Feature\"}",
+        "pk": 548
+    },
+    {
+        "ADDRESS": "Kettlebrook Lodge Eastwood Road Kimberley Nottinghamshire NG16 2HX",
+        "CURR": "Y",
+        "LABEL": "Kettlebrook Lodge",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 549,
+        "Origin": "BBC",
+        "POLL_DIST": "KIM 5",
         "POSTCODE": "NG16 2HX",
-        "UPDATED": "2020-02-21T00:00:00Z",
-        "X": 449685.365,
-        "Y": 344836.056,
+        "UPDATED": "2021-02-19T00:00:00Z",
+        "X": 449555.176,
+        "Y": 344797.727,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.261134983998164, 52.99856972227249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 83, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM5\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 449685.365, \"Y\": 344836.056}, \"type\": \"Feature\"}",
-        "pk": 83
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.263080430084066, 52.998237246385884], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kettlebrook Lodge Eastwood Road Kimberley Nottinghamshire NG16 2HX \", \"CURR\": \"Y\", \"LABEL\": \"Kettlebrook Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 549, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM 5\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 449555.176, \"Y\": 344797.727}, \"type\": \"Feature\"}",
+        "pk": 549
+    },
+    {
+        "ADDRESS": "Coronation Hall Portland Road Toton Nottinghamshire NG9 6EW",
+        "CURR": "Y",
+        "LABEL": "Coronation Hall",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 550,
+        "Origin": "BBC",
+        "POLL_DIST": "TCM1",
+        "POSTCODE": "NG9 6EW",
+        "UPDATED": "2021-02-19T00:00:00Z",
+        "X": 450263.516,
+        "Y": 334455.214,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.254124710196618, 52.90520863243786], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Coronation Hall Portland Road Toton Nottinghamshire NG9 6EW \", \"CURR\": \"Y\", \"LABEL\": \"Coronation Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 550, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM1\", \"POSTCODE\": \"NG9 6EW\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 450263.516, \"Y\": 334455.214}, \"type\": \"Feature\"}",
+        "pk": 550
+    },
+    {
+        "ADDRESS": "Car Park Pit Lane Trowell Nottinghamshire",
+        "CURR": "Y",
+        "LABEL": "Pit Lane Car Park Temporary Station",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 551,
+        "Origin": "BBC",
+        "POLL_DIST": "ACT5 (East)",
+        "POSTCODE": "NG9 3QF",
+        "UPDATED": "2021-02-19T00:00:00Z",
+        "X": 449180.0358,
+        "Y": 339106.943,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.269530335545911, 52.947120890134435], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Car Park Pit Lane Trowell Nottinghamshire  \", \"CURR\": \"Y\", \"LABEL\": \"Pit Lane Car Park Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 551, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5 (East)\", \"POSTCODE\": \"NG9 3QF\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 449180.0358, \"Y\": 339106.943}, \"type\": \"Feature\"}",
+        "pk": 551
+    },
+    {
+        "ADDRESS": "Beeston Methodist Church Chilwell Road Beeston Nottinghamshire NG9 1EH",
+        "CURR": "Y",
+        "LABEL": "Beeston Methodist Church",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 552,
+        "Origin": "BBC",
+        "POLL_DIST": "BEW4",
+        "POSTCODE": "NG9 1EH",
+        "UPDATED": "2021-02-19T00:00:00Z",
+        "X": 452683.416,
+        "Y": 336580.952,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.21780601165598, 52.92408482668372], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beeston Methodist Church Chilwell Road Beeston Nottinghamshire NG9 1EH \", \"CURR\": \"Y\", \"LABEL\": \"Beeston Methodist Church\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 552, \"Origin\": \"BBC\", \"POLL_DIST\": \"BEW4\", \"POSTCODE\": \"NG9 1EH\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 452683.416, \"Y\": 336580.952}, \"type\": \"Feature\"}",
+        "pk": 552
+    },
+    {
+        "ADDRESS": "Sainsbury's Greens Lane Kimberley Nottinghamshire NG16 2LY",
+        "CURR": "Y",
+        "LABEL": "Unit 1 Sainsbury's Car Park",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 553,
+        "Origin": "BBC",
+        "POLL_DIST": "KIM1",
+        "POSTCODE": "NG16 2LY",
+        "UPDATED": "2021-02-25T00:00:00Z",
+        "X": 450112.6343,
+        "Y": 344478.1041,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.254824684146975, 52.99531276447786], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sainsbury's Greens Lane Kimberley Nottinghamshire NG16 2LY \", \"CURR\": \"Y\", \"LABEL\": \"Unit 1 Sainsbury's Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 553, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM1\", \"POSTCODE\": \"NG16 2LY\", \"UPDATED\": \"2021-02-25T00:00:00Z\", \"X\": 450112.6343, \"Y\": 344478.1041}, \"type\": \"Feature\"}",
+        "pk": 553
+    },
+    {
+        "ADDRESS": "Sainsbury's Greens Lane Kimberley Nottinghamshire NG16 2LY",
+        "CURR": "Y",
+        "LABEL": "Unit 2 Sainsbury's Car Park",
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "OBJECTID": 554,
+        "Origin": "BBC",
+        "POLL_DIST": "KIM1",
+        "POSTCODE": "NG16 2LY",
+        "UPDATED": "2021-02-25T00:00:00Z",
+        "X": 450112.6343,
+        "Y": 344478.1041,
+        "council_id": "BRT",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.254824684146975, 52.99531276447786], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sainsbury's Greens Lane Kimberley Nottinghamshire NG16 2LY \", \"CURR\": \"Y\", \"LABEL\": \"Unit 2 Sainsbury's Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 554, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM1\", \"POSTCODE\": \"NG16 2LY\", \"UPDATED\": \"2021-02-25T00:00:00Z\", \"X\": 450112.6343, \"Y\": 344478.1041}, \"type\": \"Feature\"}",
+        "pk": 554
     }
 ]
