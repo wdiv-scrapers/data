@@ -350,14 +350,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1042631281004283, 53.54014553565031], \"type\": \"Point\"}, \"id\": 956, \"properties\": {\"ADDRESS\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"OBJECTID\": 956, \"POLLINGPLA\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"POLLING_DI\": \"DG\", \"UPRN\": \"100050756669\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Junction of Jefferson Avenue & Chalmers Drive, DN2 4RX",
+        "ADDRESS": "The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY",
         "OBJECTID": 957,
-        "POLLINGPLA": "Portable Unit, Junction of Jefferson Avenue & Chalmers Drive, DN2 4RX",
+        "POLLINGPLA": "The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY",
         "POLLING_DI": "DI",
-        "UPRN": "100050745431",
+        "UPRN": "100050756669",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.084362436793369, 53.54759844806306], \"type\": \"Point\"}, \"id\": 957, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Jefferson Avenue & Chalmers Drive, DN2 4RX\", \"OBJECTID\": 957, \"POLLINGPLA\": \"Portable Unit, Junction of Jefferson Avenue & Chalmers Drive, DN2 4RX\", \"POLLING_DI\": \"DI\", \"UPRN\": \"100050745431\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1042591024294588, 53.540149596247225], \"type\": \"Point\"}, \"id\": 957, \"properties\": {\"ADDRESS\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"OBJECTID\": 957, \"POLLINGPLA\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"POLLING_DI\": \"DI\", \"UPRN\": \"100050756669\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Healthy Living Centre, Intake Primary School, Sandringham Road, DN2 5JA",
@@ -370,14 +370,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1049386692088385, 53.52791607850892], \"type\": \"Point\"}, \"id\": 958, \"properties\": {\"ADDRESS\": \"Healthy Living Centre, Intake Primary School, Sandringham Road, DN2 5JA\", \"OBJECTID\": 958, \"POLLINGPLA\": \"Healthy Living Centre, Intake Primary School, Sandringham Road, DN2 5JA\", \"POLLING_DI\": \"DE\", \"UPRN\": \"010006615067\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Sandringham Primary School, Sandringham Road, DN2 5LS",
+        "ADDRESS": "Intake Community Library, Montrose Avenue, DN2 6PL",
         "OBJECTID": 959,
-        "POLLINGPLA": "Sandringham Primary School, Sandringham Road, DN2 5LS",
+        "POLLINGPLA": "Intake Community Library, Montrose Avenue, DN2 6PL",
         "POLLING_DI": "DD",
-        "UPRN": "010006574716",
+        "UPRN": "100052207635",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0957160408593374, 53.5339415554163], \"type\": \"Point\"}, \"id\": 959, \"properties\": {\"ADDRESS\": \"Sandringham Primary School, Sandringham Road, DN2 5LS\", \"OBJECTID\": 959, \"POLLINGPLA\": \"Sandringham Primary School, Sandringham Road, DN2 5LS\", \"POLLING_DI\": \"DD\", \"UPRN\": \"010006574716\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0945230631658125, 53.53002115882255], \"type\": \"Point\"}, \"id\": 959, \"properties\": {\"ADDRESS\": \"Intake Community Library, Montrose Avenue, DN2 6PL\", \"OBJECTID\": 959, \"POLLINGPLA\": \"Intake Community Library, Montrose Avenue, DN2 6PL\", \"POLLING_DI\": \"DD\", \"UPRN\": \"100052207635\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Wheatley Hills Tennis Club, Greenhouse Road, DN2 5NQ",
@@ -420,14 +420,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0994224458748079, 53.52816592282027], \"type\": \"Point\"}, \"id\": 963, \"properties\": {\"ADDRESS\": \"Harvest Fields Ministries, Evelyn Avenue, DN2 6LW\", \"OBJECTID\": 963, \"POLLINGPLA\": \"Harvest Fields Ministries, Evelyn Avenue, DN2 6LW\", \"POLLING_DI\": \"DB\", \"UPRN\": \"010006617573\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Plover Primary School, Coniston Road, DN2 6JL",
+        "ADDRESS": "Intake Community Library, Montrose Avenue, DN2 6PL",
         "OBJECTID": 964,
-        "POLLINGPLA": "Plover Primary School, Coniston Road, DN2 6JL",
+        "POLLINGPLA": "Intake Community Library, Montrose Avenue, DN2 6PL",
         "POLLING_DI": "DC",
-        "UPRN": "100052207118",
+        "UPRN": "100052207635",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0920655115398008, 53.52897666655404], \"type\": \"Point\"}, \"id\": 964, \"properties\": {\"ADDRESS\": \"Plover Primary School, Coniston Road, DN2 6JL\", \"OBJECTID\": 964, \"POLLINGPLA\": \"Plover Primary School, Coniston Road, DN2 6JL\", \"POLLING_DI\": \"DC\", \"UPRN\": \"100052207118\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0945197080753708, 53.530018677713315], \"type\": \"Point\"}, \"id\": 964, \"properties\": {\"ADDRESS\": \"Intake Community Library, Montrose Avenue, DN2 6PL\", \"OBJECTID\": 964, \"POLLINGPLA\": \"Intake Community Library, Montrose Avenue, DN2 6PL\", \"POLLING_DI\": \"DC\", \"UPRN\": \"100052207635\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Barnby Dun Village Hall, Top Road, DN3 1DA",
@@ -630,14 +630,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0973335958454664, 53.51084256264346], \"type\": \"Point\"}, \"id\": 984, \"properties\": {\"ADDRESS\": \"Hallcross Academy Lower School, St Michaels Road, DN4 5LU\", \"OBJECTID\": 984, \"POLLINGPLA\": \"Hallcross Academy Lower School, St Michaels Road, DN4 5LU\", \"POLLING_DI\": \"EA\", \"UPRN\": \"100052207970\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Junction of Langsett Court & Lakeside Boulevard, DN4 5PL",
+        "ADDRESS": "National College For Advanced Transport & Infrastructure, Carolina Way, DN4 5PN",
         "OBJECTID": 985,
-        "POLLINGPLA": "Portable Unit, Junction of Langsett Court & Lakeside Boulevard, DN4 5PL",
+        "POLLINGPLA": "National College For Advanced Transport & Infrastructure, Carolina Way, DN4 5PN",
         "POLLING_DI": "EG",
-        "UPRN": "200002732401",
+        "UPRN": "010006716792",
         "WARD": "Bessacarr Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.101407381996619, 53.509161008700424], \"type\": \"Point\"}, \"id\": 985, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Langsett Court & Lakeside Boulevard, DN4 5PL\", \"OBJECTID\": 985, \"POLLINGPLA\": \"Portable Unit, Junction of Langsett Court & Lakeside Boulevard, DN4 5PL\", \"POLLING_DI\": \"EG\", \"UPRN\": \"200002732401\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.107592591624305, 53.50424655694312], \"type\": \"Point\"}, \"id\": 985, \"properties\": {\"ADDRESS\": \"National College For Advanced Transport & Infrastructure, Carolina Way, DN4 5PN\", \"OBJECTID\": 985, \"POLLINGPLA\": \"National College For Advanced Transport & Infrastructure, Carolina Way, DN4 5PN\", \"POLLING_DI\": \"EG\", \"UPRN\": \"010006716792\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Ewood Drive Communal Hall, Ewood Drive, DN4 6AU",
@@ -720,14 +720,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0877770013188255, 53.50034674718635], \"type\": \"Point\"}, \"id\": 993, \"properties\": {\"ADDRESS\": \"St Francis Of Assisi Church, Nostell Place, Bessacarr, Doncaster, DN4 7JA\", \"OBJECTID\": 993, \"POLLINGPLA\": \"St Francis Of Assisi Church, Nostell Place, Bessacarr, Doncaster, DN4 7JA\", \"POLLING_DI\": \"EF\", \"UPRN\": \"010006617551\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Junction of Carr Hill & St Catherines Avenue, DN4 8BL",
+        "ADDRESS": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
         "OBJECTID": 994,
-        "POLLINGPLA": "Portable Unit, Junction of Carr Hill & St Catherines Avenue, DN4 8BL",
+        "POLLINGPLA": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
         "POLLING_DI": "AD",
-        "UPRN": "100050705867",
+        "UPRN": "010006581498",
         "WARD": "Hexthorpe and Balby North Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1429334860758258, 53.50856711133738], \"type\": \"Point\"}, \"id\": 994, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Carr Hill & St Catherines Avenue, DN4 8BL\", \"OBJECTID\": 994, \"POLLINGPLA\": \"Portable Unit, Junction of Carr Hill & St Catherines Avenue, DN4 8BL\", \"POLLING_DI\": \"AD\", \"UPRN\": \"100050705867\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.148684256822682, 53.51242001807822], \"type\": \"Point\"}, \"id\": 994, \"properties\": {\"ADDRESS\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"OBJECTID\": 994, \"POLLINGPLA\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"POLLING_DI\": \"AD\", \"UPRN\": \"010006581498\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA",
