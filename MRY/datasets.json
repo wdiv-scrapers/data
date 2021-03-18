@@ -10,11 +10,11 @@
                 ],
                 "commentsEnabled": true,
                 "composeStatus": {
-                    "lastRetriedAt": 1606819040752,
+                    "lastRetriedAt": 1616085002179,
                     "pass": true,
                     "retries": 0
                 },
-                "composedAt": 1606819040719,
+                "composedAt": 1616085002178,
                 "content": "Web Mapping Application",
                 "contentSecurityPolicy": [
                     "upgrade-insecure-requests"
@@ -23,7 +23,7 @@
                 "culture": "en-gb",
                 "description": null,
                 "downloadable": false,
-                "enrichCoverage": "regional",
+                "enrichCoverage": "unknown",
                 "enrichQuality": 51,
                 "errors": [],
                 "extent": {
@@ -43,13 +43,13 @@
                 "hasApi": false,
                 "hubType": "Web Mapping Application",
                 "id": "64641c12eac44cbdb1d83cc8ca85a27d",
-                "itemModified": 1606819040000,
+                "itemModified": 1606819041000,
                 "layer": null,
                 "layers": null,
                 "license": "none",
                 "licenseInfo": null,
                 "metadata": null,
-                "modified": 1606819040000,
+                "modified": 1606819041000,
                 "modifiedProvenance": "item.modified",
                 "name": "Polling Districts",
                 "openData": false,
@@ -112,133 +112,6 @@
                 "highlights": {
                     "name": [
                         "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "tags",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "access": "public",
-                "additionalResources": [],
-                "categories": [],
-                "collection": [
-                    "App"
-                ],
-                "commentsEnabled": true,
-                "composeStatus": {
-                    "lastRetriedAt": 1616052103606,
-                    "pass": true,
-                    "retries": 0
-                },
-                "composedAt": 1616052103606,
-                "content": "Web Mapping Application",
-                "contentSecurityPolicy": [
-                    "upgrade-insecure-requests"
-                ],
-                "created": 1492074679000,
-                "culture": "en-gb",
-                "description": null,
-                "downloadable": false,
-                "enrichCoverage": "unknown",
-                "enrichQuality": 51,
-                "errors": [],
-                "extent": {
-                    "coordinates": [
-                        [
-                            -4.1144,
-                            56.8439
-                        ],
-                        [
-                            -2.4186,
-                            57.8048
-                        ]
-                    ],
-                    "type": "envelope"
-                },
-                "groupIds": [],
-                "hasApi": false,
-                "hubType": "Web Mapping Application",
-                "id": "324869b9c90e4b7caf03cc8d29fa2137",
-                "itemModified": 1606818822000,
-                "layer": null,
-                "layers": null,
-                "license": "none",
-                "licenseInfo": null,
-                "metadata": null,
-                "modified": 1606818822000,
-                "modifiedProvenance": "item.modified",
-                "name": "Polling Places",
-                "openData": false,
-                "orgExtent": {
-                    "spatialReference": {
-                        "wkid": 27700
-                    },
-                    "xmax": 375218.9613413748,
-                    "xmin": 271122.86079518916,
-                    "ymax": 879540.5301676726,
-                    "ymin": 774487.6775276749
-                },
-                "orgId": "ziethFnsF0nRRmsd",
-                "orgName": "Moray Council",
-                "organization": "Moray Council",
-                "owner": "gis_moray",
-                "region": "GB",
-                "searchDescription": null,
-                "sector": "Local and State Government",
-                "server": null,
-                "size": 5836,
-                "slug": "moray::polling-places-1",
-                "snippet": "Polling Places",
-                "source": "Moray Council",
-                "sourceProvenance": "org.name",
-                "structuredLicense": {
-                    "type": "none"
-                },
-                "tags": [
-                    "Polling"
-                ],
-                "thumbnail": "thumbnail/ago_downloaded.png",
-                "thumbnailUrl": "thumbnail/ago_downloaded.png",
-                "type": "Web Mapping Application",
-                "typeCategories": [
-                    "App"
-                ],
-                "typeKeywords": [
-                    "JavaScript",
-                    "Map",
-                    "Mapping Site",
-                    "Online Map",
-                    "Ready To Use",
-                    "WAB2D",
-                    "Web AppBuilder",
-                    "Web Map"
-                ],
-                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137",
-                "validExtent": true,
-                "xFrameOptions": null
-            },
-            "id": "324869b9c90e4b7caf03cc8d29fa2137",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places"
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
@@ -6792,7 +6665,6 @@
         "datasetsMatching": {
             "both": [
                 "64641c12eac44cbdb1d83cc8ca85a27d",
-                "324869b9c90e4b7caf03cc8d29fa2137",
                 "c01617ed122947a491960a672f7d9c90",
                 "6f23ab6d3a5f432c9923fedae61651f1"
             ],
@@ -6810,7 +6682,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1616069374218)",
+                "endDate": "eventsBefore(1616090975489)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "gis_moray",
                 "status": "not(private,draft,planned)"
@@ -6821,10 +6693,10 @@
         "resourceRoot": "https://opendata.arcgis.com/api/v3/datasets",
         "stats": {
             "aggs": {},
-            "count": 7,
-            "totalCount": 7
+            "count": 6,
+            "totalCount": 6
         },
-        "took": 137,
-        "total": 7
+        "took": 254,
+        "total": 6
     }
 }
