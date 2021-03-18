@@ -879,11 +879,11 @@
                 ],
                 "commentsEnabled": true,
                 "composeStatus": {
-                    "lastRetriedAt": 1592540713055,
+                    "lastRetriedAt": 1616016265629,
                     "pass": true,
-                    "retries": 0
+                    "retries": 2
                 },
-                "composedAt": 1592540713022,
+                "composedAt": 1616016265627,
                 "content": "Web Mapping Application",
                 "contentSecurityPolicy": [
                     "upgrade-insecure-requests"
@@ -892,7 +892,7 @@
                 "culture": "en-gb",
                 "description": "Application to view Broxtowe's polling districts. Built for the election canvasses collecting back forms.",
                 "downloadable": false,
-                "enrichCoverage": "local",
+                "enrichCoverage": "unknown",
                 "enrichQuality": 71,
                 "errors": [],
                 "extent": {
@@ -3679,7 +3679,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 502.84951799998817,
+                                "duration": 511.63193499995396,
                                 "values": {
                                     "count": 71,
                                     "max": 1614211200000,
@@ -3750,15 +3750,15 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 734.564257000573,
+                                "duration": 513.0671220000368,
                                 "values": {
-                                    "avg": 450038.95288,
+                                    "avg": 450041.481078,
                                     "count": 71,
                                     "max": 454020.636,
-                                    "min": 446393.093,
-                                    "stddev": 2078.1185470428813,
-                                    "sum": 31952765.6545,
-                                    "var": 4318576.695563616
+                                    "min": 446390.695,
+                                    "stddev": 2076.8812017608707,
+                                    "sum": 31952945.1566,
+                                    "var": 4313435.526227678
                                 }
                             }
                         },
@@ -3769,15 +3769,15 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 734.564257000573,
+                                "duration": 513.0671220000368,
                                 "values": {
-                                    "avg": 340587.173883,
+                                    "avg": 340585.714485,
                                     "count": 71,
-                                    "max": 349472.878,
-                                    "min": 334413,
-                                    "stddev": 4499.772058751406,
-                                    "sum": 24181689.3457,
-                                    "var": 20247948.580719866
+                                    "max": 349466.925,
+                                    "min": 334413.165,
+                                    "stddev": 4495.8926893079115,
+                                    "sum": 24181585.7285,
+                                    "var": 20213051.073772322
                                 }
                             }
                         }
@@ -3790,7 +3790,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 2251.9199630000076,
+                                "duration": 1777.2825119998306,
                                 "values": {
                                     "avg": 519,
                                     "count": 71,
@@ -3810,7 +3810,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 751.8218259999994,
+                                "duration": 737.8956229999894,
                                 "uniqueCount": 57,
                                 "values": [
                                     {
@@ -4024,7 +4024,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 842.0576819999842,
+                                "duration": 1037.9659830000019,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4042,7 +4042,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1225.142893000011,
+                                "duration": 1317.8752270000987,
                                 "uniqueCount": 60,
                                 "values": [
                                     {
@@ -4256,7 +4256,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1069.25701999999,
+                                "duration": 540.6762459999882,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4274,7 +4274,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 913.5838489999878,
+                                "duration": 1242.2841330000665,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4292,7 +4292,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 527.2709460000042,
+                                "duration": 911.2438090000069,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4310,7 +4310,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1151.6996069999877,
+                                "duration": 617.7747239999007,
                                 "uniqueCount": 68,
                                 "values": [
                                     {
@@ -4524,7 +4524,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 990.9616270000115,
+                                "duration": 1168.989583000075,
                                 "uniqueCount": 56,
                                 "values": [
                                     {
@@ -9455,7 +9455,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1616004159100)",
+                "endDate": "eventsBefore(1616025758764)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "Broxtowe_GIS",
                 "status": "not(private,draft,planned)"
@@ -9469,7 +9469,7 @@
             "count": 10,
             "totalCount": 12
         },
-        "took": 227,
+        "took": 7415,
         "total": 12
     }
 }
