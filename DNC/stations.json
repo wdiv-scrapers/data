@@ -1317,7 +1317,7 @@
         "UPRN": "010006577236",
         "WARD": "Stainforth and Barnby Dun Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0322224899343526, 53.59688575653706], \"type\": \"Point\"}, \"id\": 1056, \"properties\": {\"ADDRESS\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"OBJECTID\": 1056, \"POLLINGPLA\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"POLLING_DI\": \"RB\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0321891447139655, 53.5968141396093], \"type\": \"Point\"}, \"id\": 1056, \"properties\": {\"ADDRESS\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"OBJECTID\": 1056, \"POLLINGPLA\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"POLLING_DI\": \"RB\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Holy Family Junior & Infant School, Kirton Lane, DN7 5BL",
@@ -1330,14 +1330,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.019334503068997, 53.60046205212009], \"type\": \"Point\"}, \"id\": 1057, \"properties\": {\"ADDRESS\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"OBJECTID\": 1057, \"POLLINGPLA\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"POLLING_DI\": \"RA\", \"UPRN\": \"010006577227\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Stainforth Youth Centre, Church Road, DN7 5AA",
+        "ADDRESS": "Stanley Road Communal Hall, Stanley Road, DN7 5QQ",
         "OBJECTID": 1058,
-        "POLLINGPLA": "Stainforth Youth Centre, Church Road, DN7 5AA",
+        "POLLINGPLA": "Stanley Road Communal Hall, Stanley Road, DN7 5QQ",
         "POLLING_DI": "RC",
-        "UPRN": "010006577236",
+        "UPRN": "010006630978",
         "WARD": "Stainforth and Barnby Dun Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0322219359043847, 53.59686754827065], \"type\": \"Point\"}, \"id\": 1058, \"properties\": {\"ADDRESS\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"OBJECTID\": 1058, \"POLLINGPLA\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"POLLING_DI\": \"RC\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.027452338531247, 53.59238750523752], \"type\": \"Point\"}, \"id\": 1058, \"properties\": {\"ADDRESS\": \"Stanley Road Communal Hall, Stanley Road, DN7 5QQ\", \"OBJECTID\": 1058, \"POLLINGPLA\": \"Stanley Road Communal Hall, Stanley Road, DN7 5QQ\", \"POLLING_DI\": \"RC\", \"UPRN\": \"010006630978\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Fishlake Village Hall, Pinfold Lane, Fishlake, DN7 5JS",
@@ -1460,14 +1460,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9487767945149742, 53.607596174151915], \"type\": \"Point\"}, \"id\": 1072, \"properties\": {\"ADDRESS\": \"Thorne Brook Primary School, Wike Gate Road, DN8 5PQ\", \"OBJECTID\": 1072, \"POLLINGPLA\": \"Thorne Brook Primary School, Wike Gate Road, DN8 5PQ\", \"POLLING_DI\": \"QB\", \"UPRN\": \"010006577618\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Hatfield Road, Adjacent to the swing bridge, DN8 5QZ",
+        "ADDRESS": "Thorne Old People`s Welfare Centre, Church Street, DN8 5BE",
         "OBJECTID": 1073,
-        "POLLINGPLA": "Portable Unit, Hatfield Road, Adjacent to the swing bridge, DN8 5QZ",
+        "POLLINGPLA": "Thorne Old People`s Welfare Centre, Church Street, DN8 5BE",
         "POLLING_DI": "QF",
-        "UPRN": "100051985738",
+        "UPRN": "100051985718",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9650781911059078, 53.60787305604736], \"type\": \"Point\"}, \"id\": 1073, \"properties\": {\"ADDRESS\": \"Portable Unit, Hatfield Road, Adjacent to the swing bridge, DN8 5QZ\", \"OBJECTID\": 1073, \"POLLINGPLA\": \"Portable Unit, Hatfield Road, Adjacent to the swing bridge, DN8 5QZ\", \"POLLING_DI\": \"QF\", \"UPRN\": \"100051985738\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9596581514114657, 53.611185362484115], \"type\": \"Point\"}, \"id\": 1073, \"properties\": {\"ADDRESS\": \"Thorne Old People`s Welfare Centre, Church Street, DN8 5BE\", \"OBJECTID\": 1073, \"POLLINGPLA\": \"Thorne Old People`s Welfare Centre, Church Street, DN8 5BE\", \"POLLING_DI\": \"QF\", \"UPRN\": \"100051985718\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Blaxton Village Hall, Back Lane, DN9 3AF",
@@ -1530,14 +1530,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1105949380678792, 53.53527313068051], \"type\": \"Point\"}, \"id\": 1079, \"properties\": {\"ADDRESS\": \"Park Primary School, Foundation Stage Unit, Monmouth Road, VDN00522\", \"OBJECTID\": 1079, \"POLLINGPLA\": \"Park Primary School, Foundation Stage Unit, Monmouth Road, VDN00522\", \"POLLING_DI\": \"DF\", \"UPRN\": \"100051970952\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Johns Junior & Infant School, Sedgefield Way, S64 0BE",
+        "ADDRESS": "Blessed English Martyrs R C Church, 62 Cemetery Road, S64 9PN",
         "OBJECTID": 1080,
-        "POLLINGPLA": "St Johns Junior & Infant School, Sedgefield Way, S64 0BE",
+        "POLLINGPLA": "Blessed English Martyrs R C Church, 62 Cemetery Road, S64 9PN",
         "POLLING_DI": "SE",
-        "UPRN": "010006571673",
+        "UPRN": "100052106375",
         "WARD": "Mexborough Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.283141149798584, 53.500477275353276], \"type\": \"Point\"}, \"id\": 1080, \"properties\": {\"ADDRESS\": \"St Johns Junior & Infant School, Sedgefield Way, S64 0BE\", \"OBJECTID\": 1080, \"POLLINGPLA\": \"St Johns Junior & Infant School, Sedgefield Way, S64 0BE\", \"POLLING_DI\": \"SE\", \"UPRN\": \"010006571673\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2905096608544777, 53.498633373186436], \"type\": \"Point\"}, \"id\": 1080, \"properties\": {\"ADDRESS\": \"Blessed English Martyrs R C Church, 62 Cemetery Road, S64 9PN\", \"OBJECTID\": 1080, \"POLLINGPLA\": \"Blessed English Martyrs R C Church, 62 Cemetery Road, S64 9PN\", \"POLLING_DI\": \"SE\", \"UPRN\": \"100052106375\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Hall Gate Centre, Hall Gate, S64 0DQ",
