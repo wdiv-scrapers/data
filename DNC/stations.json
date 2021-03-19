@@ -1020,14 +1020,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1650729293372821, 53.54348552710941], \"type\": \"Point\"}, \"id\": 1024, \"properties\": {\"ADDRESS\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"OBJECTID\": 1024, \"POLLINGPLA\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"POLLING_DI\": \"MA\", \"UPRN\": \"100052206589\", \"WARD\": \"Roman Ridge Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW",
+        "ADDRESS": "Scawthorpe Community Centre, Amersall Road,\u00a0 DN5 9PQ",
         "OBJECTID": 1025,
-        "POLLINGPLA": "Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW",
+        "POLLINGPLA": "Scawthorpe Community Centre, Amersall Road,\u00a0 DN5 9PQ",
         "POLLING_DI": "NB",
-        "UPRN": "010006572754",
+        "UPRN": "100052206589",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.164433946032859, 53.539643296153905], \"type\": \"Point\"}, \"id\": 1025, \"properties\": {\"ADDRESS\": \"Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW\", \"OBJECTID\": 1025, \"POLLINGPLA\": \"Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW\", \"POLLING_DI\": \"NB\", \"UPRN\": \"010006572754\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1650698223085614, 53.54348574631935], \"type\": \"Point\"}, \"id\": 1025, \"properties\": {\"ADDRESS\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"OBJECTID\": 1025, \"POLLINGPLA\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"POLLING_DI\": \"NB\", \"UPRN\": \"100052206589\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
@@ -1050,14 +1050,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1525738824957266, 53.54352977506627], \"type\": \"Point\"}, \"id\": 1027, \"properties\": {\"ADDRESS\": \"Kirkstone Close Communal Hall, Kirkstone Close, DN5 9QZ\", \"OBJECTID\": 1027, \"POLLINGPLA\": \"Kirkstone Close Communal Hall, Kirkstone Close, DN5 9QZ\", \"POLLING_DI\": \"NI\", \"UPRN\": \"100051982813\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF",
+        "ADDRESS": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
         "OBJECTID": 1028,
-        "POLLINGPLA": "Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF",
+        "POLLINGPLA": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
         "POLLING_DI": "NA",
-        "UPRN": "100051982853",
+        "UPRN": "010006619221",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1503272102784747, 53.53576870091526], \"type\": \"Point\"}, \"id\": 1028, \"properties\": {\"ADDRESS\": \"Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF\", \"OBJECTID\": 1028, \"POLLINGPLA\": \"Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF\", \"POLLING_DI\": \"NA\", \"UPRN\": \"100051982853\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.153253490390434, 53.5381676997416], \"type\": \"Point\"}, \"id\": 1028, \"properties\": {\"ADDRESS\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"OBJECTID\": 1028, \"POLLINGPLA\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"POLLING_DI\": \"NA\", \"UPRN\": \"010006619221\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Askern Town Council Offices, Alexander House, High Street, DN6 0AB",
@@ -1150,14 +1150,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.182524842083113, 53.56322852629954], \"type\": \"Point\"}, \"id\": 1037, \"properties\": {\"ADDRESS\": \"St Joseph & St Teresas Church Hall, Welfare Road, DN6 7QN\", \"OBJECTID\": 1037, \"POLLINGPLA\": \"St Joseph & St Teresas Church Hall, Welfare Road, DN6 7QN\", \"POLLING_DI\": \"OI\", \"UPRN\": \"010006572190\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Nursery Unit, Woodlands Primary School, The Crescent, DN6 7RG",
+        "ADDRESS": "St Joseph & St Teresa`s Church Hall, Welfare Road, DN6 7QG",
         "OBJECTID": 1038,
-        "POLLINGPLA": "Nursery Unit, Woodlands Primary School, The Crescent, DN6 7RG",
+        "POLLINGPLA": "St Joseph & St Teresa`s Church Hall, Welfare Road, DN6 7QG",
         "POLLING_DI": "OH",
-        "UPRN": "010006572081",
+        "UPRN": "010006617611",
         "WARD": "Adwick le Street and Carcroft Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1963673402512651, 53.56255826776142], \"type\": \"Point\"}, \"id\": 1038, \"properties\": {\"ADDRESS\": \"Nursery Unit, Woodlands Primary School, The Crescent, DN6 7RG\", \"OBJECTID\": 1038, \"POLLINGPLA\": \"Nursery Unit, Woodlands Primary School, The Crescent, DN6 7RG\", \"POLLING_DI\": \"OH\", \"UPRN\": \"010006572081\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1830010977972194, 53.56356411557274], \"type\": \"Point\"}, \"id\": 1038, \"properties\": {\"ADDRESS\": \"St Joseph & St Teresa`s Church Hall, Welfare Road, DN6 7QG\", \"OBJECTID\": 1038, \"POLLINGPLA\": \"St Joseph & St Teresa`s Church Hall, Welfare Road, DN6 7QG\", \"POLLING_DI\": \"OH\", \"UPRN\": \"010006617611\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Circuit House, The Circuit, DN6 7TE",
@@ -1210,14 +1210,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2281929496552269, 53.6023981671474], \"type\": \"Point\"}, \"id\": 1044, \"properties\": {\"ADDRESS\": \"Church of St Michael & All Angels, Straight Lane, DN6 8LX\", \"OBJECTID\": 1044, \"POLLINGPLA\": \"Church of St Michael & All Angels, Straight Lane, DN6 8LX\", \"POLLING_DI\": \"TE\", \"UPRN\": \"100050780024\", \"WARD\": \"Sprotbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Portable Unit, Bellerby Road, DN6 8RD",
+        "ADDRESS": "The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT",
         "OBJECTID": 1045,
-        "POLLINGPLA": "Portable Unit, Bellerby Road, DN6 8RD",
+        "POLLINGPLA": "The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT",
         "POLLING_DI": "PJ",
-        "UPRN": "100050698688",
+        "UPRN": "100052207854",
         "WARD": "Norton and Askern Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2050055365166956, 53.59223321949022], \"type\": \"Point\"}, \"id\": 1045, \"properties\": {\"ADDRESS\": \"Portable Unit, Bellerby Road, DN6 8RD\", \"OBJECTID\": 1045, \"POLLINGPLA\": \"Portable Unit, Bellerby Road, DN6 8RD\", \"POLLING_DI\": \"PJ\", \"UPRN\": \"100050698688\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.196873802163567, 53.60024406242286], \"type\": \"Point\"}, \"id\": 1045, \"properties\": {\"ADDRESS\": \"The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT\", \"OBJECTID\": 1045, \"POLLINGPLA\": \"The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT\", \"POLLING_DI\": \"PJ\", \"UPRN\": \"100052207854\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Campsall Village Hall, Bone Lane, DN6 9AW",
@@ -1430,14 +1430,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9657221716744994, 53.61306508493179], \"type\": \"Point\"}, \"id\": 1069, \"properties\": {\"ADDRESS\": \"Thorne & Moorends Town Council Offices, Band Room, Browns Lane, DN8 5AF\", \"OBJECTID\": 1069, \"POLLINGPLA\": \"Thorne & Moorends Town Council Offices, Band Room, Browns Lane, DN8 5AF\", \"POLLING_DI\": \"QE\", \"UPRN\": \"100051985221\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Green Top Primary School, Middlebrook Lane, DN8 5LB",
+        "ADDRESS": "St Nicholas Church Hall, Stonegate, DN8 5NP",
         "OBJECTID": 1070,
-        "POLLINGPLA": "Green Top Primary School, Middlebrook Lane, DN8 5LB",
+        "POLLINGPLA": "St Nicholas Church Hall, Stonegate, DN8 5NP",
         "POLLING_DI": "QA",
-        "UPRN": "010006577617",
+        "UPRN": "010006621738",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9583091948334816, 53.60839860440261], \"type\": \"Point\"}, \"id\": 1070, \"properties\": {\"ADDRESS\": \"Green Top Primary School, Middlebrook Lane, DN8 5LB\", \"OBJECTID\": 1070, \"POLLINGPLA\": \"Green Top Primary School, Middlebrook Lane, DN8 5LB\", \"POLLING_DI\": \"QA\", \"UPRN\": \"010006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9593856999379052, 53.61097054159565], \"type\": \"Point\"}, \"id\": 1070, \"properties\": {\"ADDRESS\": \"St Nicholas Church Hall, Stonegate, DN8 5NP\", \"OBJECTID\": 1070, \"POLLINGPLA\": \"St Nicholas Church Hall, Stonegate, DN8 5NP\", \"POLLING_DI\": \"QA\", \"UPRN\": \"010006621738\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Nicholas Church Hall, Stonegate, DN8 5NP",
