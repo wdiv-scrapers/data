@@ -1548,7 +1548,7 @@
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
                 "owner": "Broxtowe_GIS",
-                "recordCount": 66,
+                "recordCount": 68,
                 "region": "GB",
                 "searchDescription": "This layer combines information on polling districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced",
                 "sector": "Local and State Government",
@@ -5391,7 +5391,7 @@
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
                 "owner": "Broxtowe_GIS",
-                "recordCount": 66,
+                "recordCount": 68,
                 "region": "GB",
                 "searchDescription": "This layer combines information on polling districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced",
                 "sector": "Local and State Government",
@@ -9455,7 +9455,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1616241762613)",
+                "endDate": "eventsBefore(1616263357578)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "Broxtowe_GIS",
                 "status": "not(private,draft,planned)"
@@ -9469,7 +9469,7 @@
             "count": 10,
             "totalCount": 12
         },
-        "took": 336,
+        "took": 257,
         "total": 12
     }
 }
