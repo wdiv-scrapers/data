@@ -130,16 +130,16 @@
     },
     "resources": {
         "493f928c-e216-4fa1-a887-6fccb8863b8f": {
-            "check_hash": "15b7-58381b379f650",
+            "check_hash": "17d4-5b7df871d7d00",
             "check_http_status": 200,
             "check_mimetype": "text/html",
-            "check_size": 5559,
-            "check_timestamp": "2019-03-15T14:05:44.990Z",
+            "check_size": 6100,
+            "check_timestamp": "2021-03-22T14:45:03.446Z",
             "description": "<p>\n<span style=\"color: rgb(51, 51, 51);\">Visualisation of open geographic datasets published on Open Street Map,&nbsp;</span>&nbsp;<a href=\"http://datamillnorth.org/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Data Mill North</a>&nbsp;<span style=\"color: rgb(51, 51, 51);\">&nbsp;and&nbsp;</span>&nbsp;<a href=\"https://dataworks.calderdale.gov.uk/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Calderdale Dataworks</a>.</p>",
             "format": "html",
             "order": 2,
             "title": "ODI Leeds Data Mapper - Polling Stations and Districts",
-            "url": "https://mapper.odileeds.org/?12/53.71347/-1.93634/dataworks-6453ecd3-3075-4414-8cef-8815daad44d7;dataworks-14937500-83dd-43ea-8b24-89766099ea7d"
+            "url": "https://mapper.odileeds.org/?11/53.73267/-1.92123/dataworks-f9b00312-f330-4d18-a944-7cfd36c8d0eb"
         },
         "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
             "check_hash": "754b63a305eaa5b595daba810bcd7e3a",
@@ -205,5 +205,5 @@
         "a3cb827f-b76a-4663-a531-f628eb60a934"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2021-03-17T12:49:00.163Z"
+    "updatedAt": "2021-03-22T14:45:02.647Z"
 }
