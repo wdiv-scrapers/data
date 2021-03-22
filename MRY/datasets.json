@@ -6552,11 +6552,11 @@
                 ],
                 "commentsEnabled": true,
                 "composeStatus": {
-                    "lastRetriedAt": 1606818924627,
+                    "lastRetriedAt": 1616414569187,
                     "pass": true,
                     "retries": 0
                 },
-                "composedAt": 1606818924610,
+                "composedAt": 1616414569140,
                 "content": "Web Mapping Application",
                 "contentSecurityPolicy": [
                     "upgrade-insecure-requests"
@@ -6565,7 +6565,7 @@
                 "culture": "en-gb",
                 "description": null,
                 "downloadable": false,
-                "enrichCoverage": "regional",
+                "enrichCoverage": "unknown",
                 "enrichQuality": 56,
                 "errors": [],
                 "extent": {
@@ -6810,7 +6810,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1616393381488)",
+                "endDate": "eventsBefore(1616414985353)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "gis_moray",
                 "status": "not(private,draft,planned)"
@@ -6824,7 +6824,7 @@
             "count": 7,
             "totalCount": 7
         },
-        "took": 364,
+        "took": 3260,
         "total": 7
     }
 }
