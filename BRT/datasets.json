@@ -1528,7 +1528,7 @@
                 "licenseInfo": "<p>This data is subject to the terms and conditions of the Public Sector Mapping Agreement (PSMA) from Ordnance Survey</p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>I. You are granted a non-exclusive, royalty free revocable licence solely to view the licensed data for non-commercial purposes for the period during which the\u00a0licensee identified by the visible acknowledgement on this web page makes it available;</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>II. You are not permitted to copy, sub-license, distribute, sell or otherwise make available the Licensed Data to third parties in any form; and</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>III. Third party rights to enforce the terms of this licence shall be reserved to OS</font></span></p>",
                 "maxRecordCount": 100,
                 "metadata": null,
-                "modified": 1615958877345,
+                "modified": 1616431211422,
                 "modifiedProvenance": "attributes.hash",
                 "name": "Polling Districts",
                 "objectIdField": "OBJECTID",
@@ -3679,7 +3679,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 511.63193499995396,
+                                "duration": 493.6925320000155,
                                 "values": {
                                     "count": 71,
                                     "max": 1614211200000,
@@ -3750,7 +3750,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 513.0671220000368,
+                                "duration": 516.1392760000017,
                                 "values": {
                                     "avg": 450041.481078,
                                     "count": 71,
@@ -3769,7 +3769,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 513.0671220000368,
+                                "duration": 516.1392760000017,
                                 "values": {
                                     "avg": 340585.714485,
                                     "count": 71,
@@ -3790,7 +3790,7 @@
                                 "pass": true
                             },
                             "statistics": {
-                                "duration": 1777.2825119998306,
+                                "duration": 2198.5801000000065,
                                 "values": {
                                     "avg": 519,
                                     "count": 71,
@@ -3810,7 +3810,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 737.8956229999894,
+                                "duration": 592.7285039999988,
                                 "uniqueCount": 57,
                                 "values": [
                                     {
@@ -4024,7 +4024,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1037.9659830000019,
+                                "duration": 1116.9106399999873,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4042,7 +4042,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1317.8752270000987,
+                                "duration": 741.8259039999975,
                                 "uniqueCount": 60,
                                 "values": [
                                     {
@@ -4256,7 +4256,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 540.6762459999882,
+                                "duration": 662.6876559999946,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4274,7 +4274,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1242.2841330000665,
+                                "duration": 898.1294999999809,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4292,7 +4292,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 911.2438090000069,
+                                "duration": 967.392932000017,
                                 "uniqueCount": 1,
                                 "values": [
                                     {
@@ -4310,7 +4310,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 617.7747239999007,
+                                "duration": 1050.9092879999953,
                                 "uniqueCount": 68,
                                 "values": [
                                     {
@@ -4403,6 +4403,10 @@
                                     },
                                     {
                                         "count": 1,
+                                        "value": "KIM5"
+                                    },
+                                    {
+                                        "count": 1,
                                         "value": "KIM4"
                                     },
                                     {
@@ -4412,10 +4416,6 @@
                                     {
                                         "count": 1,
                                         "value": "KIM2"
-                                    },
-                                    {
-                                        "count": 1,
-                                        "value": "KIM 5"
                                     },
                                     {
                                         "count": 1,
@@ -4524,7 +4524,7 @@
                             },
                             "statistics": {
                                 "count": 71,
-                                "duration": 1168.989583000075,
+                                "duration": 818.2105239999946,
                                 "uniqueCount": 56,
                                 "values": [
                                     {
@@ -5371,7 +5371,7 @@
                 "licenseInfo": "<p>This data is subject to the terms and conditions of the Public Sector Mapping Agreement (PSMA) from Ordnance Survey</p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>I. You are granted a non-exclusive, royalty free revocable licence solely to view the licensed data for non-commercial purposes for the period during which the\u00a0licensee identified by the visible acknowledgement on this web page makes it available;</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>II. You are not permitted to copy, sub-license, distribute, sell or otherwise make available the Licensed Data to third parties in any form; and</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>III. Third party rights to enforce the terms of this licence shall be reserved to OS</font></span></p>",
                 "maxRecordCount": 100,
                 "metadata": null,
-                "modified": 1615919639264,
+                "modified": 1616415843735,
                 "modifiedProvenance": "attributes.hash",
                 "name": "Polling Stations",
                 "objectIdField": "OBJECTID",
@@ -5391,7 +5391,7 @@
                 "orgName": "Broxtowe Borough Council",
                 "organization": "Broxtowe Borough Council",
                 "owner": "Broxtowe_GIS",
-                "recordCount": 68,
+                "recordCount": 71,
                 "region": "GB",
                 "searchDescription": "This layer combines information on polling districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced",
                 "sector": "Local and State Government",
@@ -6155,7 +6155,7 @@
                 "licenseInfo": "<p>This data is subject to the terms and conditions of the Public Sector Mapping Agreement (PSMA) from Ordnance Survey</p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>I. You are granted a non-exclusive, royalty free revocable licence solely to view the licensed data for non-commercial purposes for the period during which the\u00a0licensee identified by the visible acknowledgement on this web page makes it available;</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>II. You are not permitted to copy, sub-license, distribute, sell or otherwise make available the Licensed Data to third parties in any form; and</font></span></p><p><font color='#000000' size='3'></font><span style='color: rgb(70, 70, 70); font-family: &quot;Arial&quot;,sans-serif;'><font size='3'>III. Third party rights to enforce the terms of this licence shall be reserved to OS.</font></span></p>",
                 "maxRecordCount": 55000,
                 "metadata": null,
-                "modified": 1615938080682,
+                "modified": 1616429685142,
                 "modifiedProvenance": "attributes.hash",
                 "name": "Polling Information",
                 "objectIdField": "OBJECTID",
@@ -9455,7 +9455,7 @@
         },
         "queryParameters": {
             "filter": {
-                "endDate": "eventsBefore(1616414565120)",
+                "endDate": "eventsBefore(1616436162908)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "Broxtowe_GIS",
                 "status": "not(private,draft,planned)"
@@ -9469,7 +9469,7 @@
             "count": 10,
             "totalCount": 12
         },
-        "took": 7172,
+        "took": 181,
         "total": 12
     }
 }
