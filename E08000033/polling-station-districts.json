@@ -144,16 +144,16 @@
             "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-station-districts/2017-05-26T10%3A00%3A08/Luddendenfoot.pdf"
         },
         "23dcb2c0-6110-4b46-b3a0-4180aa76d39e": {
-            "check_hash": "15b7-58381b379f650",
+            "check_hash": "17d4-5b7df871d7d00",
             "check_http_status": 200,
             "check_mimetype": "text/html",
-            "check_size": 5559,
-            "check_timestamp": "2019-03-15T14:07:43.930Z",
+            "check_size": 6100,
+            "check_timestamp": "2021-03-22T14:45:38.763Z",
             "description": "<p>\n<span style=\"color: rgb(51, 51, 51);\">Visualisation of open geographic datasets published on Open Street Map,&nbsp;</span>&nbsp;<a href=\"http://datamillnorth.org/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Data Mill North</a>&nbsp;<span style=\"color: rgb(51, 51, 51);\">&nbsp;and&nbsp;</span>&nbsp;<a href=\"https://dataworks.calderdale.gov.uk/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Calderdale Dataworks</a>.</p>",
             "format": "html",
             "order": 3,
             "title": "ODI Leeds Data Mapper - Polling Stations and Districts",
-            "url": "https://mapper.odileeds.org/?12/53.71347/-1.93634/dataworks-6453ecd3-3075-4414-8cef-8815daad44d7;dataworks-14937500-83dd-43ea-8b24-89766099ea7d"
+            "url": "https://mapper.odileeds.org/?11/53.73267/-1.92123/dataworks-2482d9f3-7eae-4ea6-980c-718e9723e64a"
         },
         "2482d9f3-7eae-4ea6-980c-718e9723e64a": {
             "check_hash": "6bff064def649f62cdebb346851c9ba8",
@@ -456,5 +456,5 @@
         "452ec79e-b507-4ba6-8f19-6c7d9c805e5a"
     ],
     "update_frequency": "Annually",
-    "updatedAt": "2021-03-17T12:51:36.139Z"
+    "updatedAt": "2021-03-22T14:45:38.150Z"
 }
