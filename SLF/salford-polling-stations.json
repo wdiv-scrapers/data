@@ -17,8 +17,6 @@
         "id": "caebd85e-1fd9-4905-ba8f-c392dd69f90b",
         "information_class": "Lists and registers",
         "isopen": true,
-        "la_function": "http://id.esd.org.uk/function/42",
-        "la_service": "http://id.esd.org.uk/service/1679",
         "license_id": "uk-ogl",
         "license_title": "UK Open Government Licence (OGL)",
         "license_url": "http://reference.data.gov.uk/id/open-government-licence",
@@ -26,9 +24,9 @@
         "maintainer_email": "",
         "mandate": "",
         "metadata_created": "2015-06-04T13:13:37.343477",
-        "metadata_modified": "2019-11-06T17:02:52.622277",
+        "metadata_modified": "2021-03-22T22:17:17.530033",
         "name": "salford-polling-stations",
-        "notes": "Locations of polling stations within Salford used in elections.",
+        "notes": "Locations of polling stations within Salford used in elections.  **Updated for May 2021 elections.**",
         "num_resources": 4,
         "num_tags": 1,
         "organization": {
@@ -151,8 +149,8 @@
                 "webstore_url": null
             }
         ],
-        "revision_id": "f47b4a87-d1d3-4d09-a84d-529418d1b441",
-        "revision_timestamp": "2015-06-04T13:17:35.668323",
+        "revision_id": "3576508d-702e-4997-abb3-d3b01d676e3f",
+        "revision_timestamp": "2021-03-22T22:17:17.529307",
         "state": "active",
         "tags": [
             {
