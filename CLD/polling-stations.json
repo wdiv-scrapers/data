@@ -1,0 +1,209 @@
+{
+    "author": "Calderdale Council",
+    "author_email": "",
+    "createdAt": "2016-02-01T05:48:05",
+    "description": "<p>Polling stations information including address, polling district letters and ward.&nbsp;</p>\n<p>For maps and mapping information on polling districts, see <a href=\"/dataset/polling-station-districts\" target=\"_blank\">Polling districts</a>.</p>\n<p>You can find information on polling stations, candidates, elections and MPs at <a href=\"https://democracyclub.org.uk/\" target=\"_blank\">Democracy Club</a>.</p>\n<p>\n<strong>Note - the polling stations location are updated to reflect the upcoming election.</strong>\n</p>",
+    "id": "bad732e2-39e4-4752-b82a-938db8fa4bdf",
+    "licence": "ogl-v2",
+    "licence_notes": "",
+    "maintainer": "Calderdale Council",
+    "maintainer_email": "",
+    "odi-certificate": "",
+    "parent": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
+    "readonly": {
+        "auth": {
+            "package_update": false
+        },
+        "licence": {
+            "is_okd_compliant": true,
+            "title": "UK Open Government Licence (OGL v2)",
+            "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        "parent": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "id": "c13bd7f3-e8ea-4362-9481-6f9f108a4e74",
+            "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/publisher/2018-05-25T15%3A51%3A23.35/calderdale-council.png",
+            "parent": {
+                "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+                "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png",
+                "parent": null,
+                "site": "dataworks.calderdale.gov.uk",
+                "slug": "calderdale",
+                "state": "active",
+                "title": "Calderdale Data Works"
+            },
+            "slug": "calderdale-council",
+            "state": "active",
+            "title": "Calderdale Council",
+            "updatedAt": "2015-09-16T00:26:07.674Z"
+        },
+        "rootOrg": {
+            "createdAt": "2015-09-16T00:26:07.674Z",
+            "description": "",
+            "harvestedByOrgs": [],
+            "harvesters": {},
+            "id": "3b0a55e9-0e2c-4f86-8920-3b97e102948f",
+            "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/publisher/2018-05-25T15%3A51%3A48.66/calderdale.png",
+            "parent": null,
+            "site": "dataworks.calderdale.gov.uk",
+            "slug": "calderdale",
+            "state": "active",
+            "title": "Calderdale Data Works",
+            "topics": {
+                "135d7dcb-aa78-4fca-9a91-597fa8aeae53": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A34%3A30.42/health.png",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                "1a37b621-4da1-48c6-af62-81adea604b35": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A34%3A45.07/land-and-property.png",
+                    "slug": "land-and-property",
+                    "title": "Land and Property"
+                },
+                "23658e50-3f58-4884-921c-ac1accfacf2b": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A33%3A58.37/education.png",
+                    "slug": "education",
+                    "title": "Education"
+                },
+                "3d339a29-234e-4463-b9cb-5787cf648c74": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A35%3A37.49/spending-and-procurement.png",
+                    "slug": "spending-and-procurement",
+                    "title": "Spending and Procurement"
+                },
+                "3f48e604-3140-4098-b2be-e495488f2fcb": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A35%3A13.66/population.png",
+                    "slug": "population",
+                    "title": "Population"
+                },
+                "452ec79e-b507-4ba6-8f19-6c7d9c805e5a": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A35%3A26.21/society.png",
+                    "slug": "society",
+                    "title": "Society"
+                },
+                "56075f7e-298e-4cc8-9f1e-4b6772267a70": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A35%3A49.32/transparency.png",
+                    "slug": "transparency",
+                    "title": "Transparency"
+                },
+                "8d2c54ca-1b47-4ddf-8cee-b0b5937c7c47": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A36%3A02.55/transport.png",
+                    "slug": "transport",
+                    "title": "Transport"
+                },
+                "a3cb827f-b76a-4663-a531-f628eb60a934": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A34%3A59.99/organisation-and-salaries.png",
+                    "slug": "organisation-and-salaries",
+                    "title": "Organisation and Salaries"
+                },
+                "e51b19c8-9609-483f-9e0d-d379dd776fc3": {
+                    "description": "",
+                    "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A34%3A15.78/environment.png",
+                    "slug": "environment",
+                    "title": "Environment"
+                }
+            },
+            "updatedAt": "2015-09-16T00:26:07.674Z"
+        },
+        "shares": {
+            "orgs": {},
+            "users": {}
+        },
+        "topics": {
+            "a3cb827f-b76a-4663-a531-f628eb60a934": {
+                "description": "",
+                "img": "https://airdrive-images.s3-eu-west-1.amazonaws.com/calderdale/img/topic/2018-11-01T18%3A34%3A59.99/organisation-and-salaries.png",
+                "slug": "organisation-and-salaries",
+                "title": "Organisation and Salaries"
+            }
+        }
+    },
+    "resources": {
+        "493f928c-e216-4fa1-a887-6fccb8863b8f": {
+            "check_hash": "17d4-5b7df871d7d00",
+            "check_http_status": 200,
+            "check_mimetype": "text/html",
+            "check_size": 6100,
+            "check_timestamp": "2021-03-22T14:45:03.446Z",
+            "description": "<p>\n<span style=\"color: rgb(51, 51, 51);\">Visualisation of open geographic datasets published on Open Street Map,&nbsp;</span>&nbsp;<a href=\"http://datamillnorth.org/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Data Mill North</a>&nbsp;<span style=\"color: rgb(51, 51, 51);\">&nbsp;and&nbsp;</span>&nbsp;<a href=\"https://dataworks.calderdale.gov.uk/\" target=\"_blank\" style=\"color: rgb(114, 46, 165);\">Calderdale Dataworks</a>.</p>",
+            "format": "html",
+            "order": 2,
+            "title": "ODI Leeds Data Mapper - Polling Stations and Districts",
+            "url": "https://mapper.odileeds.org/?11/53.73267/-1.92123/dataworks-f9b00312-f330-4d18-a944-7cfd36c8d0eb"
+        },
+        "56a4ffc3-c6fa-48d2-8ad8-3b912fa7dd4a": {
+            "check_hash": "754b63a305eaa5b595daba810bcd7e3a",
+            "check_http_status": 200,
+            "check_mimetype": "text/csv",
+            "check_size": 14816,
+            "check_timestamp": "2021-03-17T12:47:48.596Z",
+            "description": "Names and addresses of all polling stations in Calderdale. ",
+            "format": "csv",
+            "order": 0,
+            "tables": {
+                "1nw8v_d16gk": {
+                    "artefactIndex": 0,
+                    "job": "bf95b3d5-cbe4-4230-bab3-79b8f1077914",
+                    "setsquare": {
+                        "columnPercent": 20,
+                        "keepColumns": [],
+                        "numHeaderRows": 1,
+                        "preserveHeader": false,
+                        "rowPercent": 10,
+                        "titles": {},
+                        "transposeFirst": false,
+                        "trimBottom": 0,
+                        "trimTop": 0,
+                        "types": {},
+                        "version": 1
+                    },
+                    "title": "Polling Stations"
+                }
+            },
+            "temporal_coverage_from": null,
+            "temporal_coverage_to": null,
+            "title": "Polling Stations",
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2021-03-17T12%3A47%3A46/Polling%20stations.csv"
+        },
+        "f9b00312-f330-4d18-a944-7cfd36c8d0eb": {
+            "check_hash": "bef4c261328ad14e4889e838c2bec924",
+            "check_http_status": 200,
+            "check_mimetype": "application/geo+json",
+            "check_size": 37633,
+            "check_timestamp": "2021-03-17T12:48:24.426Z",
+            "format": "geojson",
+            "order": 1,
+            "title": "Polling Stations",
+            "url": "https://airdrive-secure.s3-eu-west-1.amazonaws.com/calderdale/dataset/polling-stations/2021-03-17T12%3A48%3A20/Polling%20stations.geojson"
+        }
+    },
+    "shares": {
+        "orgs": {},
+        "users": {}
+    },
+    "sharing": "public",
+    "slug": "polling-stations",
+    "state": "active",
+    "tags": [
+        "polling",
+        "polling stations",
+        "elections",
+        "GIS"
+    ],
+    "title": "Polling Stations",
+    "topics": [
+        "a3cb827f-b76a-4663-a531-f628eb60a934"
+    ],
+    "update_frequency": "Annually",
+    "updatedAt": "2021-03-22T14:45:02.647Z"
+}
