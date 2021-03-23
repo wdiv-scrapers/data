@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling Districts",
+                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingDistricts/MapServer/0"
+            },
+            "id": "82d23d4644634038ba18a2121e0e3129_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/82d23d4644634038ba18a2121e0e3129?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=82d23d4644634038ba18a2121e0e3129",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/82d23d4644634038ba18a2121e0e3129_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/82d23d4644634038ba18a2121e0e3129_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
+                    ],
+                    "searchDescription": [
+                        "showing boundaries\n  of all <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts in borough"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "searchDescription"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling Stations",
+                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingStations/MapServer/0"
+            },
+            "id": "ae36e573b7a94632b1b2e585c30eda3d_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/ae36e573b7a94632b1b2e585c30eda3d?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=ae36e573b7a94632b1b2e585c30eda3d",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/ae36e573b7a94632b1b2e585c30eda3d_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/ae36e573b7a94632b1b2e585c30eda3d_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
+                    ],
+                    "searchDescription": [
+                        "showing all <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> stations in borough from most recent election"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "searchDescription"
+                ]
+            },
+            "type": "dataset"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=opendata%40lambeth.gov.uk&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10",
+        "last": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=opendata%40lambeth.gov.uk&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10"
+    }
+}
