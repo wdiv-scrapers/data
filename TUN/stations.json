@@ -288,18 +288,6 @@
         "pk": 24
     },
     {
-        "ADDRESS": "Bowling Pavilion Grosvenor Recreation Ground Auckland Road Royal Tunbridge Wells Kent",
-        "Constituen": "Tunbridge Wells",
-        "County_Div": "Tunbridge Wells East",
-        "OBJECTID": 25,
-        "Polling_Di": "St James",
-        "Polling_le": "BB",
-        "Ward": "St James",
-        "council_id": "TUN",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.27269131753511, 51.1425563875969], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bowling Pavilion Grosvenor Recreation Ground Auckland Road Royal Tunbridge Wells Kent\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 25, \"Polling_Di\": \"St James\", \"Polling_le\": \"BB\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
-        "pk": 25
-    },
-    {
         "ADDRESS": "St Philips Day Centre Birken Road Royal Tunbridge Wells Kent",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells East",
@@ -576,27 +564,39 @@
         "pk": 48
     },
     {
-        "ADDRESS": "The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE",
+        "ADDRESS": "St Pauls Church Centre 23 Rusthall Road Rusthall Tunbridge Wells Kent TN4 8RE",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells West",
-        "OBJECTID": 49,
+        "OBJECTID": 51,
         "Polling_Di": "Rusthall East",
         "Polling_le": "PP",
         "Ward": "Rusthall",
         "council_id": "TUN",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.232882757318301, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 49, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
-        "pk": 49
+        "geometry": "{\"geometry\": {\"coordinates\": [0.231334101136174, 51.135254655456336], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Pauls Church Centre 23 Rusthall Road Rusthall Tunbridge Wells Kent TN4 8RE \", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 51, \"Polling_Di\": \"Rusthall East\", \"Polling_le\": \"PP\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "pk": 51
     },
     {
-        "ADDRESS": "The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE",
+        "ADDRESS": "St Pauls Church Centre 23 Rusthall Road Rusthall Tunbridge Wells Kent TN4 8RE",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells West",
-        "OBJECTID": 50,
+        "OBJECTID": 52,
         "Polling_Di": "Rusthall West",
         "Polling_le": "OO",
         "Ward": "Rusthall",
         "council_id": "TUN",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.232882757318301, 51.13564429859268], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Rackliff Centre 26 Lower Green Road Royal Tunbridge Wells Kent TN4 8TE\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 50, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
-        "pk": 50
+        "geometry": "{\"geometry\": {\"coordinates\": [0.231334101136174, 51.135254655456336], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Pauls Church Centre 23 Rusthall Road Rusthall Tunbridge Wells Kent TN4 8RE \", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 52, \"Polling_Di\": \"Rusthall West\", \"Polling_le\": \"OO\", \"Ward\": \"Rusthall\"}, \"type\": \"Feature\"}",
+        "pk": 52
+    },
+    {
+        "ADDRESS": "The Hub Grosvenor And Hilbert Park Rochdale Road Royal Tunbridge Wells Kent TN1 2JB",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells East",
+        "OBJECTID": 53,
+        "Polling_Di": "St James",
+        "Polling_le": "BB",
+        "Ward": "St James",
+        "council_id": "TUN",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.272677702346659, 51.142594127954844], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Hub Grosvenor And Hilbert Park Rochdale Road Royal Tunbridge Wells Kent TN1 2JB\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 53, \"Polling_Di\": \"St James\", \"Polling_le\": \"BB\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
+        "pk": 53
     }
 ]
