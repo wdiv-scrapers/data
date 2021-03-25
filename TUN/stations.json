@@ -492,18 +492,6 @@
         "pk": 42
     },
     {
-        "ADDRESS": "Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT",
-        "Constituen": "Tunbridge Wells",
-        "County_Div": "Tunbridge Wells West",
-        "OBJECTID": 43,
-        "Polling_Di": "Holy Trinity",
-        "Polling_le": "VV",
-        "Ward": "Culverden",
-        "council_id": "TUN",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.273751531364438, 51.131565259092056], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salvation Army Hall Bayhall Road Royal Tunbridge Wells Kent TN2 4UT\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 43, \"Polling_Di\": \"Holy Trinity\", \"Polling_le\": \"VV\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
-        "pk": 43
-    },
-    {
         "ADDRESS": "Headway, 3 Culverden Park, Tunbridge Wells, Kent, TN4 9QT",
         "Constituen": "Tunbridge Wells",
         "County_Div": "Tunbridge Wells West",
@@ -598,5 +586,29 @@
         "council_id": "TUN",
         "geometry": "{\"geometry\": {\"coordinates\": [0.272677702346659, 51.142594127954844], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Hub Grosvenor And Hilbert Park Rochdale Road Royal Tunbridge Wells Kent TN1 2JB\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 53, \"Polling_Di\": \"St James\", \"Polling_le\": \"BB\", \"Ward\": \"St James\"}, \"type\": \"Feature\"}",
         "pk": 53
+    },
+    {
+        "ADDRESS": "Trinity Theatre And Arts Centre Church Road Royal Tunbridge Wells Kent TN1 1JP",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells West",
+        "OBJECTID": 54,
+        "Polling_Di": "Holy Trinity",
+        "Polling_le": "VV",
+        "Ward": "Culverden",
+        "council_id": "TUN",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.262031287303791, 51.132745868670206], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Trinity Theatre And Arts Centre Church Road Royal Tunbridge Wells Kent TN1 1JP\", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells West\", \"OBJECTID\": 54, \"Polling_Di\": \"Holy Trinity\", \"Polling_le\": \"VV\", \"Ward\": \"Culverden\"}, \"type\": \"Feature\"}",
+        "pk": 54
+    },
+    {
+        "ADDRESS": "Skinners Kent Primary School The Avenue Royal Tunbridge Wells Kent TN2 3GS",
+        "Constituen": "Tunbridge Wells",
+        "County_Div": "Tunbridge Wells East",
+        "OBJECTID": 55,
+        "Polling_Di": "Knights Wood",
+        "Polling_le": "CC",
+        "Ward": "Sherwood",
+        "council_id": "TUN",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.29281375614961, 51.154221092097586], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Skinners Kent Primary School The Avenue Royal Tunbridge Wells Kent TN2 3GS \", \"Constituen\": \"Tunbridge Wells\", \"County_Div\": \"Tunbridge Wells East\", \"OBJECTID\": 55, \"Polling_Di\": \"Knights Wood\", \"Polling_le\": \"CC\", \"Ward\": \"Sherwood\"}, \"type\": \"Feature\"}",
+        "pk": 55
     }
 ]
