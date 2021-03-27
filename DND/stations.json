@@ -787,14 +787,14 @@
         "EASTING": 341352,
         "ID": "EBC",
         "LATITUDE": 56.464322331749,
-        "LONGITUDE": -2.95338990197319,
+        "LONGITUDE": -2.95338990197318,
         "NAME": "Dundee Sea Cadets",
         "NORTHING": 730650,
         "OBJECTID": 57,
         "POLLING_DISTRICT": "EBC",
         "UPRN": "009059051346",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95334748, 56.46430357], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 56, \"properties\": {\"EASTING\": 341352, \"ID\": \"EBC\", \"LATITUDE\": 56.464322331749, \"LONGITUDE\": -2.95338990197319, \"NAME\": \"Dundee Sea Cadets\", \"NORTHING\": 730650, \"OBJECTID\": 57, \"POLLING_DISTRICT\": \"EBC\", \"UPRN\": \"009059051346\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.95334748, 56.46430357], \"type\": \"Point\"}, \"geometry_name\": \"SHAPE\", \"id\": 56, \"properties\": {\"EASTING\": 341352, \"ID\": \"EBC\", \"LATITUDE\": 56.464322331749, \"LONGITUDE\": -2.95338990197318, \"NAME\": \"Dundee Sea Cadets\", \"NORTHING\": 730650, \"OBJECTID\": 57, \"POLLING_DISTRICT\": \"EBC\", \"UPRN\": \"009059051346\"}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
