@@ -52,19 +52,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [[1.201918662148109, 51.22437030675862]], \"type\": \"MultiPoint\"}, \"id\": 525, \"properties\": {\"EASTING\": 623668, \"GlobalID\": \"{DDF9223B-EB0E-46A7-934A-54E30A78CC7E}\", \"LOCATION\": \"Dorman Avenue South, Aylesham\", \"NAME_OF_PO\": \"Aylesham Baptist Church\", \"NORTHING\": 152113, \"OBJECTID\": 525, \"POLLING_DI\": \"PAY\", \"POSTCODE\": \"CT3\\u00a03AE\", \"TOWN_PARIS\": \"Aylesham\"}, \"type\": \"Feature\"}"
     },
     {
-        "EASTING": 637746.0,
-        "GlobalID": "{4A6802DA-1416-4887-9CF1-2615C91E878A}",
-        "LOCATION": "Stanley Road, Deal",
-        "NAME_OF_PO": "Community Church Deal",
-        "NORTHING": 152399.0,
-        "OBJECTID": 526,
-        "POLLING_DI": "AN3",
-        "POSTCODE": "CT14 7BT",
-        "TOWN_PARIS": "North Deal, Victoria",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.4033562461178972, 51.22125666785636]], \"type\": \"MultiPoint\"}, \"id\": 526, \"properties\": {\"EASTING\": 637746, \"GlobalID\": \"{4A6802DA-1416-4887-9CF1-2615C91E878A}\", \"LOCATION\": \"Stanley Road, Deal\", \"NAME_OF_PO\": \"Community Church Deal\", \"NORTHING\": 152399, \"OBJECTID\": 526, \"POLLING_DI\": \"AN3\", \"POSTCODE\": \"CT14 7BT\", \"TOWN_PARIS\": \"North Deal, Victoria\"}, \"type\": \"Feature\"}"
-    },
-    {
         "EASTING": 630781.0,
         "GlobalID": "{6DDED185-A4F9-4261-963D-253B841BF639}",
         "LOCATION": "Roosevelt Road, Dover",
@@ -76,19 +63,6 @@
         "TOWN_PARIS": "Buckland, North",
         "council_id": "E07000108",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.2980096856993901, 51.143192040943276]], \"type\": \"MultiPoint\"}, \"id\": 527, \"properties\": {\"EASTING\": 630781, \"GlobalID\": \"{6DDED185-A4F9-4261-963D-253B841BF639}\", \"LOCATION\": \"Roosevelt Road, Dover\", \"NAME_OF_PO\": \"Buckland Community Centre\", \"NORTHING\": 143385, \"OBJECTID\": 527, \"POLLING_DI\": \"BC1\", \"POSTCODE\": \"CT16 2RA\", \"TOWN_PARIS\": \"Buckland, North\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 632558.8,
-        "GlobalID": "{26BFB3DC-21BB-48C5-B9F6-600654CA3F6D}",
-        "LOCATION": "Burgoyne Heights, Guston",
-        "NAME_OF_PO": "Guston Primary School",
-        "NORTHING": 143055.4,
-        "OBJECTID": 528,
-        "POLLING_DI": "PGS",
-        "POSTCODE": "CT15 5LR",
-        "TOWN_PARIS": "Guston",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.3196220032606762, 51.13992727450737]], \"type\": \"MultiPoint\"}, \"id\": 528, \"properties\": {\"EASTING\": 632558.8, \"GlobalID\": \"{26BFB3DC-21BB-48C5-B9F6-600654CA3F6D}\", \"LOCATION\": \"Burgoyne Heights, Guston\", \"NAME_OF_PO\": \"Guston Primary School\", \"NORTHING\": 143055.4, \"OBJECTID\": 528, \"POLLING_DI\": \"PGS\", \"POSTCODE\": \"CT15 5LR\", \"TOWN_PARIS\": \"Guston\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 625016.0,
@@ -180,19 +154,6 @@
         "TOWN_PARIS": "Denton",
         "council_id": "E07000108",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.1677510203828756, 51.18073073278715]], \"type\": \"MultiPoint\"}, \"id\": 535, \"properties\": {\"EASTING\": 621492, \"GlobalID\": \"{1E7CB773-2309-43CE-A306-D3091FAB693B}\", \"LOCATION\": \"The Street, Denton\", \"NAME_OF_PO\": \"Denton Village Hall\", \"NORTHING\": 147158, \"OBJECTID\": 535, \"POLLING_DI\": \"PDD\", \"POSTCODE\": \"CT4\\u00a06QZ\", \"TOWN_PARIS\": \"Denton\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 631670.0,
-        "GlobalID": "{25A6340B-5A99-44F2-A38D-F1B581362357}",
-        "LOCATION": "St Alphege Road, Dover",
-        "NAME_OF_PO": "St Peter & St Paul\u2019s Church Hall",
-        "NORTHING": 141937.0,
-        "OBJECTID": 536,
-        "POLLING_DI": "BR3",
-        "POSTCODE": "CT16 2PU",
-        "TOWN_PARIS": "St Radigund's, Town",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.3058516631130044, 51.1334797372621]], \"type\": \"MultiPoint\"}, \"id\": 536, \"properties\": {\"EASTING\": 631670, \"GlobalID\": \"{25A6340B-5A99-44F2-A38D-F1B581362357}\", \"LOCATION\": \"St Alphege Road, Dover\", \"NAME_OF_PO\": \"St Peter & St Paul\\u2019s Church Hall\", \"NORTHING\": 141937, \"OBJECTID\": 536, \"POLLING_DI\": \"BR3\", \"POSTCODE\": \"CT16 2PU\", \"TOWN_PARIS\": \"St Radigund's, Town\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 633576.0,
@@ -403,19 +364,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [[1.3749250982532288, 51.2222693303727]], \"type\": \"MultiPoint\"}, \"id\": 552, \"properties\": {\"EASTING\": 635756, \"GlobalID\": \"{75DAC600-BDAD-425F-9B02-327A09D1885B}\", \"LOCATION\": \"The Street, Sholden, Deal\", \"NAME_OF_PO\": \"Scout H.Q.\", \"NORTHING\": 152420, \"OBJECTID\": 552, \"POLLING_DI\": \"PSHE\", \"POSTCODE\": \"CT14 0AL\", \"TOWN_PARIS\": \"Eastry Rural, Sholden Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "EASTING": 630755.0,
-        "GlobalID": "{7D13FAC4-3404-44C4-8D55-72C6A10ED0C3}",
-        "LOCATION": "Heathfield Avenue, Dover",
-        "NAME_OF_PO": "Shatterlocks C P Infants School",
-        "NORTHING": 142874.8,
-        "OBJECTID": 553,
-        "POLLING_DI": "BC2",
-        "POSTCODE": "CT16 2PB",
-        "TOWN_PARIS": "Buckland, South",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.2973121490416402, 51.138622414857785]], \"type\": \"MultiPoint\"}, \"id\": 553, \"properties\": {\"EASTING\": 630755, \"GlobalID\": \"{7D13FAC4-3404-44C4-8D55-72C6A10ED0C3}\", \"LOCATION\": \"Heathfield Avenue, Dover\", \"NAME_OF_PO\": \"Shatterlocks C P Infants School\", \"NORTHING\": 142874.8, \"OBJECTID\": 553, \"POLLING_DI\": \"BC2\", \"POSTCODE\": \"CT16 2PB\", \"TOWN_PARIS\": \"Buckland, South\"}, \"type\": \"Feature\"}"
-    },
-    {
         "EASTING": 625771.2,
         "GlobalID": "{E6F1324B-F45C-49A5-BD81-E394240F0018}",
         "LOCATION": "Coxhill, Shepherdswell",
@@ -427,19 +375,6 @@
         "TOWN_PARIS": "Shepherdswell & Coldred",
         "council_id": "E07000108",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.2293385496827534, 51.185685141511996]], \"type\": \"MultiPoint\"}, \"id\": 554, \"properties\": {\"EASTING\": 625771.2, \"GlobalID\": \"{E6F1324B-F45C-49A5-BD81-E394240F0018}\", \"LOCATION\": \"Coxhill, Shepherdswell\", \"NAME_OF_PO\": \"Shepherdswell Village Hall\", \"NORTHING\": 147896, \"OBJECTID\": 554, \"POLLING_DI\": \"PSL1&PSL2\", \"POSTCODE\": \"CT15 7NN\", \"TOWN_PARIS\": \"Shepherdswell & Coldred\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 631613.0,
-        "GlobalID": "{F800E936-0BF2-4990-A93F-88DE987E611C}",
-        "LOCATION": "North Military Road, Dover",
-        "NAME_OF_PO": "St John Ambulance Brigade Hall",
-        "NORTHING": 141420.0,
-        "OBJECTID": 555,
-        "POLLING_DI": "BT4",
-        "POSTCODE": "CT17 9BQ",
-        "TOWN_PARIS": "Town and Castle, Redoubt",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.30862100463166, 51.125216398048565]], \"type\": \"MultiPoint\"}, \"id\": 555, \"properties\": {\"EASTING\": 631613, \"GlobalID\": \"{F800E936-0BF2-4990-A93F-88DE987E611C}\", \"LOCATION\": \"North Military Road, Dover\", \"NAME_OF_PO\": \"St John Ambulance Brigade Hall\", \"NORTHING\": 141420, \"OBJECTID\": 555, \"POLLING_DI\": \"BT4\", \"POSTCODE\": \"CT17 9BQ\", \"TOWN_PARIS\": \"Town and Castle, Redoubt\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 635851.0,
@@ -492,19 +427,6 @@
         "TOWN_PARIS": "Walmer, St Saviour's",
         "council_id": "E07000108",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.4023063855105906, 51.21362338358149]], \"type\": \"MultiPoint\"}, \"id\": 559, \"properties\": {\"EASTING\": 637712, \"GlobalID\": \"{2E457A45-E24B-434E-9A6B-8C3E3D0DA30E}\", \"LOCATION\": \"The Strand, Walmer, Deal\", \"NAME_OF_PO\": \"St Saviour`s Church\", \"NORTHING\": 151547, \"OBJECTID\": 559, \"POLLING_DI\": \"AW3\", \"POSTCODE\": \"CT14 7DY\", \"TOWN_PARIS\": \"Walmer, St Saviour's\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 627464.0,
-        "GlobalID": "{A7E986C0-6578-4810-88D0-9A3E44B8FD5E}",
-        "LOCATION": "Mill Road, Staple, Canterbury",
-        "NAME_OF_PO": "Staple Village Hall",
-        "NORTHING": 156455.0,
-        "OBJECTID": 560,
-        "POLLING_DI": "TSP",
-        "POSTCODE": "CT3\u00a01LB",
-        "TOWN_PARIS": "Staple",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.2589451331719959, 51.26185220295769]], \"type\": \"MultiPoint\"}, \"id\": 560, \"properties\": {\"EASTING\": 627464, \"GlobalID\": \"{A7E986C0-6578-4810-88D0-9A3E44B8FD5E}\", \"LOCATION\": \"Mill Road, Staple, Canterbury\", \"NAME_OF_PO\": \"Staple Village Hall\", \"NORTHING\": 156455, \"OBJECTID\": 560, \"POLLING_DI\": \"TSP\", \"POSTCODE\": \"CT3\\u00a01LB\", \"TOWN_PARIS\": \"Staple\"}, \"type\": \"Feature\"}"
     },
     {
         "EASTING": 631768.5,
@@ -650,19 +572,6 @@
         "geometry": "{\"geometry\": {\"coordinates\": [[1.3953481790287008, 51.20644958725948]], \"type\": \"MultiPoint\"}, \"id\": 571, \"properties\": {\"EASTING\": 637263, \"GlobalID\": \"{D8F12085-FE48-47DD-B1C5-CAC8F5BE8038}\", \"LOCATION\": \"Dover Road, Walmer, Deal\", \"NAME_OF_PO\": \"Walmer Parish Hall\", \"NORTHING\": 150727, \"OBJECTID\": 571, \"POLLING_DI\": \"AW2\", \"POSTCODE\": \"CT14 7JH\", \"TOWN_PARIS\": \"Walmer, Wellington\"}, \"type\": \"Feature\"}"
     },
     {
-        "EASTING": 636229.0,
-        "GlobalID": "{7D0E2BE9-16CA-4D61-8027-FBB2FBD57677}",
-        "LOCATION": "Birdwood Avenue, Deal",
-        "NAME_OF_PO": "Warden House School",
-        "NORTHING": 152116.0,
-        "OBJECTID": 572,
-        "POLLING_DI": "AMD3",
-        "POSTCODE": "CT14 9SF",
-        "TOWN_PARIS": "Middle Deal, Upper",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.3814862548782463, 51.21934532912705]], \"type\": \"MultiPoint\"}, \"id\": 572, \"properties\": {\"EASTING\": 636229, \"GlobalID\": \"{7D0E2BE9-16CA-4D61-8027-FBB2FBD57677}\", \"LOCATION\": \"Birdwood Avenue, Deal\", \"NAME_OF_PO\": \"Warden House School\", \"NORTHING\": 152116, \"OBJECTID\": 572, \"POLLING_DI\": \"AMD3\", \"POSTCODE\": \"CT14 9SF\", \"TOWN_PARIS\": \"Middle Deal, Upper\"}, \"type\": \"Feature\"}"
-    },
-    {
         "EASTING": 626516.0,
         "GlobalID": "{0CC5FEB9-57C2-459E-8DA1-940D6192770D}",
         "LOCATION": "The Street, West Hougham, Dover",
@@ -755,19 +664,6 @@
     },
     {
         "EASTING": 0.0,
-        "GlobalID": "{ECA949AB-280E-41A3-BAD3-8592F92CC7E0}",
-        "LOCATION": "Birdwood Avenue, Deal",
-        "NAME_OF_PO": "Warden House School",
-        "NORTHING": 0.0,
-        "OBJECTID": 580,
-        "POLLING_DI": "PSHM",
-        "POSTCODE": "CT14 9SF",
-        "TOWN_PARIS": "Middle Deal, Hyton",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.381525756034351, 51.21921704872982]], \"type\": \"MultiPoint\"}, \"id\": 580, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{ECA949AB-280E-41A3-BAD3-8592F92CC7E0}\", \"LOCATION\": \"Birdwood Avenue, Deal\", \"NAME_OF_PO\": \"Warden House School\", \"NORTHING\": 0, \"OBJECTID\": 580, \"POLLING_DI\": \"PSHM\", \"POSTCODE\": \"CT14 9SF\", \"TOWN_PARIS\": \"Middle Deal, Hyton\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 0.0,
         "GlobalID": "{38840D2E-FD45-4781-A6D4-E9F0388915CB}",
         "LOCATION": "Marine Road, Walmer",
         "NAME_OF_PO": "Walmer Sea Scout Hall",
@@ -807,19 +703,6 @@
     },
     {
         "EASTING": 0.0,
-        "GlobalID": "{06BF764B-66C0-4DC8-8C2B-E9F96F71BE95}",
-        "LOCATION": "London Road, Dover",
-        "NAME_OF_PO": "Dover Working Mens Club, Jasper House",
-        "NORTHING": 0.0,
-        "OBJECTID": 584,
-        "POLLING_DI": "BR2",
-        "POSTCODE": "CT17 0SZ",
-        "TOWN_PARIS": "St Radigund's, East",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.300474284900365, 51.13364046071441]], \"type\": \"MultiPoint\"}, \"id\": 584, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{06BF764B-66C0-4DC8-8C2B-E9F96F71BE95}\", \"LOCATION\": \"London Road, Dover\", \"NAME_OF_PO\": \"Dover Working Mens Club, Jasper House\", \"NORTHING\": 0, \"OBJECTID\": 584, \"POLLING_DI\": \"BR2\", \"POSTCODE\": \"CT17 0SZ\", \"TOWN_PARIS\": \"St Radigund's, East\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 0.0,
         "GlobalID": "{A63DB03F-D622-42A3-A1A1-71217150F865}",
         "LOCATION": "Noah's Ark Road, Dover",
         "NAME_OF_PO": "The Ark",
@@ -833,19 +716,6 @@
     },
     {
         "EASTING": 0.0,
-        "GlobalID": "{342B08B7-3359-429C-ADDD-608147503724}",
-        "LOCATION": "Melbourne Avenue, Dover",
-        "NAME_OF_PO": "Christ Church Academy",
-        "NORTHING": 0.0,
-        "OBJECTID": 586,
-        "POLLING_DI": "PWH2",
-        "POSTCODE": "CT16 2EG",
-        "TOWN_PARIS": "Whitfield, South",
-        "council_id": "E07000108",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.29987230501925, 51.14998388302226]], \"type\": \"MultiPoint\"}, \"id\": 586, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{342B08B7-3359-429C-ADDD-608147503724}\", \"LOCATION\": \"Melbourne Avenue, Dover\", \"NAME_OF_PO\": \"Christ Church Academy\", \"NORTHING\": 0, \"OBJECTID\": 586, \"POLLING_DI\": \"PWH2\", \"POSTCODE\": \"CT16 2EG\", \"TOWN_PARIS\": \"Whitfield, South\"}, \"type\": \"Feature\"}"
-    },
-    {
-        "EASTING": 0.0,
         "GlobalID": "{3322EBA4-E156-4FD9-8516-F09729788F33}",
         "LOCATION": "Melbourne Avenue, Dover",
         "NAME_OF_PO": "Christ Church Academy",
@@ -856,5 +726,135 @@
         "TOWN_PARIS": "Whitfield, Rokesley",
         "council_id": "E07000108",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.2999603971328026, 51.14994569710851]], \"type\": \"MultiPoint\"}, \"id\": 587, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{3322EBA4-E156-4FD9-8516-F09729788F33}\", \"LOCATION\": \"Melbourne Avenue, Dover\", \"NAME_OF_PO\": \"Christ Church Academy\", \"NORTHING\": 0, \"OBJECTID\": 587, \"POLLING_DI\": \"BC1W\", \"POSTCODE\": \"CT16 2EG\", \"TOWN_PARIS\": \"Whitfield, Rokesley\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{41B2C10A-A180-4C2C-9464-658DE6D1C119}",
+        "LOCATION": "London Road, Deal",
+        "NAME_OF_PO": "Scout Hall",
+        "NORTHING": 0.0,
+        "OBJECTID": 590,
+        "POLLING_DI": "AMD3",
+        "POSTCODE": "CT14 9PR",
+        "TOWN_PARIS": "Middle Deal, Upper",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 590, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{41B2C10A-A180-4C2C-9464-658DE6D1C119}\", \"LOCATION\": \"London Road, Deal\", \"NAME_OF_PO\": \"Scout Hall\", \"NORTHING\": 0, \"OBJECTID\": 590, \"POLLING_DI\": \"AMD3\", \"POSTCODE\": \"CT14 9PR\", \"TOWN_PARIS\": \"Middle Deal, Upper\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{910160B9-1E72-4B9A-B26B-6DD34F447A6E}",
+        "LOCATION": "Broad Street, Deal",
+        "NAME_OF_PO": "Deal Library",
+        "NORTHING": 0.0,
+        "OBJECTID": 591,
+        "POLLING_DI": "AN3",
+        "POSTCODE": "CT14 6ER",
+        "TOWN_PARIS": "North Deal, Victoria",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 591, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{910160B9-1E72-4B9A-B26B-6DD34F447A6E}\", \"LOCATION\": \"Broad Street, Deal\", \"NAME_OF_PO\": \"Deal Library\", \"NORTHING\": 0, \"OBJECTID\": 591, \"POLLING_DI\": \"AN3\", \"POSTCODE\": \"CT14 6ER\", \"TOWN_PARIS\": \"North Deal, Victoria \"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{E894B553-14C0-4084-97CE-40B354801E78}",
+        "LOCATION": "Crabble Road, River",
+        "NAME_OF_PO": "Phoenix Railway Club",
+        "NORTHING": 0.0,
+        "OBJECTID": 592,
+        "POLLING_DI": "BC2",
+        "POSTCODE": "CT17 0QD",
+        "TOWN_PARIS": "Buckland, South",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 592, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{E894B553-14C0-4084-97CE-40B354801E78}\", \"LOCATION\": \"Crabble Road, River\", \"NAME_OF_PO\": \"Phoenix Railway Club\", \"NORTHING\": 0, \"OBJECTID\": 592, \"POLLING_DI\": \"BC2\", \"POSTCODE\": \"CT17 0QD\", \"TOWN_PARIS\": \"Buckland, South\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{F7902B7B-15CD-4ACF-B465-4F0DCF808078}",
+        "LOCATION": "London Road, Dover",
+        "NAME_OF_PO": "Army Reserve Centre Hall",
+        "NORTHING": 0.0,
+        "OBJECTID": 593,
+        "POLLING_DI": "BR2",
+        "POSTCODE": "CT17 0SZ",
+        "TOWN_PARIS": "St Radigund's, East",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 593, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{F7902B7B-15CD-4ACF-B465-4F0DCF808078}\", \"LOCATION\": \"London Road, Dover\", \"NAME_OF_PO\": \"Army Reserve Centre Hall\", \"NORTHING\": 0, \"OBJECTID\": 593, \"POLLING_DI\": \"BR2\", \"POSTCODE\": \"CT17 0SZ\", \"TOWN_PARIS\": \"St Radigund's, East\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{BBF98611-6FE7-4466-857E-E1790F86963E}",
+        "LOCATION": "Maison Dieu Road, Dover",
+        "NAME_OF_PO": "Dover Baptist Church",
+        "NORTHING": 0.0,
+        "OBJECTID": 594,
+        "POLLING_DI": "BR3",
+        "POSTCODE": "CT16 1RF",
+        "TOWN_PARIS": "St Radigund's, Town",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 594, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{BBF98611-6FE7-4466-857E-E1790F86963E}\", \"LOCATION\": \"Maison Dieu Road, Dover\", \"NAME_OF_PO\": \"Dover Baptist Church\", \"NORTHING\": 0, \"OBJECTID\": 594, \"POLLING_DI\": \"BR3\", \"POSTCODE\": \"CT16 1RF\", \"TOWN_PARIS\": \"St Radigund's, Town\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{E0F2C259-7645-46A1-830D-17A8D966E484}",
+        "LOCATION": "Adrian Street, Dover",
+        "NAME_OF_PO": "Unitarian Church",
+        "NORTHING": 0.0,
+        "OBJECTID": 595,
+        "POLLING_DI": "BT4",
+        "POSTCODE": "CT17 9AT",
+        "TOWN_PARIS": "Town and Castle, Redoubt",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 595, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{E0F2C259-7645-46A1-830D-17A8D966E484}\", \"LOCATION\": \"Adrian Street, Dover\", \"NAME_OF_PO\": \"Unitarian Church\", \"NORTHING\": 0, \"OBJECTID\": 595, \"POLLING_DI\": \"BT4\", \"POSTCODE\": \"CT17 9AT\", \"TOWN_PARIS\": \"Town and Castle, Redoubt\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{4A6D8A61-5EB5-4157-9E49-9D094F043E41}",
+        "LOCATION": "Burgoyne Heights, Guston",
+        "NAME_OF_PO": "Community Centre",
+        "NORTHING": 0.0,
+        "OBJECTID": 596,
+        "POLLING_DI": "PGS",
+        "POSTCODE": "CT15 5LY",
+        "TOWN_PARIS": "Guston",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 596, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{4A6D8A61-5EB5-4157-9E49-9D094F043E41}\", \"LOCATION\": \"Burgoyne Heights, Guston\", \"NAME_OF_PO\": \"Community Centre\", \"NORTHING\": 0, \"OBJECTID\": 596, \"POLLING_DI\": \"PGS\", \"POSTCODE\": \"CT15 5LY\", \"TOWN_PARIS\": \"Guston \"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{E8235F3B-7C14-47AC-9519-8A2741692E85}",
+        "LOCATION": "London Road, Deal",
+        "NAME_OF_PO": "Scout Hall",
+        "NORTHING": 0.0,
+        "OBJECTID": 597,
+        "POLLING_DI": "PSHN",
+        "POSTCODE": "CT14 9PR",
+        "TOWN_PARIS": "Middle Deal, Hyton",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 597, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{E8235F3B-7C14-47AC-9519-8A2741692E85}\", \"LOCATION\": \"London Road, Deal\", \"NAME_OF_PO\": \"Scout Hall\", \"NORTHING\": 0, \"OBJECTID\": 597, \"POLLING_DI\": \"PSHN\", \"POSTCODE\": \"CT14 9PR\", \"TOWN_PARIS\": \"Middle Deal, Hyton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{0069AE66-ED0F-48B5-9403-3F8BC7961B46}",
+        "LOCATION": "Gordon Road, Whitfield",
+        "NAME_OF_PO": "The Rock Rose",
+        "NORTHING": 0.0,
+        "OBJECTID": 598,
+        "POLLING_DI": "PWH2",
+        "POSTCODE": "CT16 2ES",
+        "TOWN_PARIS": "Whitfield, South",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 598, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{0069AE66-ED0F-48B5-9403-3F8BC7961B46}\", \"LOCATION\": \"Gordon Road, Whitfield\", \"NAME_OF_PO\": \"The Rock Rose\", \"NORTHING\": 0, \"OBJECTID\": 598, \"POLLING_DI\": \"PWH2\", \"POSTCODE\": \"CT16 2ES\", \"TOWN_PARIS\": \"Whitfield, South\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "EASTING": 0.0,
+        "GlobalID": "{C56BE7B5-EEF0-46EA-B413-E468BE5666AF}",
+        "LOCATION": "Barnsole Road, Staple",
+        "NAME_OF_PO": "Black Pig",
+        "NORTHING": 0.0,
+        "OBJECTID": 599,
+        "POLLING_DI": "TSP",
+        "POSTCODE": "CT3 1LE",
+        "TOWN_PARIS": "Staple",
+        "council_id": "E07000108",
+        "geometry": "{\"geometry\": {\"coordinates\": [], \"type\": \"MultiPoint\"}, \"id\": 599, \"properties\": {\"EASTING\": 0, \"GlobalID\": \"{C56BE7B5-EEF0-46EA-B413-E468BE5666AF}\", \"LOCATION\": \"Barnsole Road, Staple\", \"NAME_OF_PO\": \"Black Pig\", \"NORTHING\": 0, \"OBJECTID\": 599, \"POLLING_DI\": \"TSP\", \"POSTCODE\": \"CT3 1LE\", \"TOWN_PARIS\": \"Staple\"}, \"type\": \"Feature\"}"
     }
 ]
