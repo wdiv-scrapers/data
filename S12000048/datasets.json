@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling districts",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0"
+            },
+            "id": "6dac129ea3cb492b961186e316e09690_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/6dac129ea3cb492b961186e316e09690?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/6dac129ea3cb492b961186e316e09690_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/6dac129ea3cb492b961186e316e09690_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> districts"
+                    ],
+                    "searchDescription": [
+                        "Parliamentary <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2017 electoral ward boundaries."
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "tags",
+                    "searchDescription",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling places",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0"
+            },
+            "id": "909e45688aa646199cad8e8616ddef7a_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/909e45688aa646199cad8e8616ddef7a?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=909e45688aa646199cad8e8616ddef7a",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/909e45688aa646199cad8e8616ddef7a_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/909e45688aa646199cad8e8616ddef7a_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> places"
+                    ],
+                    "searchDescription": [
+                        "Location of <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> places to be used for elections in PKC.\u00a0A polling place is a building or area in which a polling station is located. There can be more than one polling station in a polling place. Polling Places can change over time due to the availability of the buildings."
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "tags",
+                    "searchDescription",
+                    "stemmedTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Community Councils",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0"
+            },
+            "id": "0d911f5dd4e14c03b0b434ed6076fe00_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/0d911f5dd4e14c03b0b434ed6076fe00?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=0d911f5dd4e14c03b0b434ed6076fe00",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0"
+            },
+            "meta": {
+                "highlights": {
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=gis_pkc&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10",
+        "last": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=gis_pkc&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10"
+    },
+    "meta": {
+        "apiRoot": "https://opendata.arcgis.com/api/v3/",
+        "datasetsMatching": {
+            "both": [
+                "6dac129ea3cb492b961186e316e09690_0",
+                "0d911f5dd4e14c03b0b434ed6076fe00_0"
+            ],
+            "onlyNonSemanticFields": [
+                "909e45688aa646199cad8e8616ddef7a_0"
+            ],
+            "onlySemanticFields": []
+        },
+        "page": {
+            "nextStart": -1,
+            "size": 10,
+            "start": 1
+        },
+        "queryParameters": {
+            "fields": {
+                "datasets": "name,url"
+            },
+            "filter": {
+                "endDate": "eventsBefore(1617836983243)",
+                "isCancelled": "eventsEq(false)",
+                "owner": "gis_pkc",
+                "status": "not(private,draft,planned)"
+            },
+            "q": "polling"
+        },
+        "request": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter[owner]=gis_pkc&fields[datasets]=name,url",
+        "resourceRoot": "https://opendata.arcgis.com/api/v3/datasets",
+        "stats": {
+            "aggs": {},
+            "count": 3,
+            "totalCount": 3
+        },
+        "took": 113,
+        "total": 3
+    }
+}
