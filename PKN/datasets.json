@@ -127,7 +127,7 @@
                 "datasets": "name,url"
             },
             "filter": {
-                "endDate": "eventsBefore(1617901779694)",
+                "endDate": "eventsBefore(1617923401885)",
                 "isCancelled": "eventsEq(false)",
                 "owner": "gis_pkc",
                 "status": "not(private,draft,planned)"
@@ -141,7 +141,7 @@
             "count": 3,
             "totalCount": 3
         },
-        "took": 208,
+        "took": 376,
         "total": 3
     }
 }
