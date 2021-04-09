@@ -4,6 +4,7 @@
         "AreaCode": "AA",
         "CustodianCode": 2245,
         "Easting": 559988.6936,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 164407.5665,
         "OBJECTID": 1,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -11,7 +12,7 @@
         "Postcode": "TN15 7HB",
         "UPRN": "050002017893",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.296375180196964, 51.356216556746475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Village Hall, The Street, Ash, Kent, TN15 7HB\", \"AreaCode\": \"AA\", \"CustodianCode\": 2245, \"Easting\": 559988.6936, \"Northing\": 164407.5665, \"OBJECTID\": 1, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Ash\", \"Postcode\": \"TN15 7HB\", \"UPRN\": \"050002017893\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.296375180196964, 51.356216556746475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Village Hall, The Street, Ash, Kent, TN15 7HB\", \"AreaCode\": \"AA\", \"CustodianCode\": 2245, \"Easting\": 559988.6936, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 164407.5665, \"OBJECTID\": 1, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Ash\", \"Postcode\": \"TN15 7HB\", \"UPRN\": \"050002017893\"}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -19,6 +20,7 @@
         "AreaCode": "AB",
         "CustodianCode": 2245,
         "Easting": 562512.7772,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 162914.552,
         "OBJECTID": 2,
         "ParliamentaryConstituency": "Dartford Parliamentary Constituency",
@@ -26,7 +28,7 @@
         "Postcode": "TN15 7LE",
         "UPRN": "010035183118",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.331912671359911, 51.34208711272784], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Hodsoll Street And Ridley Village Hall, Greenfields, Hodsoll Street, Kent, TN15 7LE\", \"AreaCode\": \"AB\", \"CustodianCode\": 2245, \"Easting\": 562512.7772, \"Northing\": 162914.552, \"OBJECTID\": 2, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hodsoll Street And Ridley\", \"Postcode\": \"TN15 7LE\", \"UPRN\": \"010035183118\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.331912671359911, 51.34208711272784], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Hodsoll Street And Ridley Village Hall, Greenfields, Hodsoll Street, Kent, TN15 7LE\", \"AreaCode\": \"AB\", \"CustodianCode\": 2245, \"Easting\": 562512.7772, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 162914.552, \"OBJECTID\": 2, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hodsoll Street And Ridley\", \"Postcode\": \"TN15 7LE\", \"UPRN\": \"010035183118\"}, \"type\": \"Feature\"}",
         "pk": 2
     },
     {
@@ -34,6 +36,7 @@
         "AreaCode": "AC",
         "CustodianCode": 2245,
         "Easting": 560583.1946,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 165640.0317,
         "OBJECTID": 3,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -41,7 +44,7 @@
         "Postcode": "DA3 8JY",
         "UPRN": "010035185498",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.305462226621322, 51.36712201038569], \"type\": \"Point\"}, \"properties\": {\"Address\": \"New Ash Green Youth Centre, Ash Road, Ash, Kent, DA3 8JY\", \"AreaCode\": \"AC\", \"CustodianCode\": 2245, \"Easting\": 560583.1946, \"Northing\": 165640.0317, \"OBJECTID\": 3, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"New Ash Green North West\", \"Postcode\": \"DA3 8JY\", \"UPRN\": \"010035185498\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.305462226621322, 51.36712201038569], \"type\": \"Point\"}, \"properties\": {\"Address\": \"New Ash Green Youth Centre, Ash Road, Ash, Kent, DA3 8JY\", \"AreaCode\": \"AC\", \"CustodianCode\": 2245, \"Easting\": 560583.1946, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 165640.0317, \"OBJECTID\": 3, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"New Ash Green North West\", \"Postcode\": \"DA3 8JY\", \"UPRN\": \"010035185498\"}, \"type\": \"Feature\"}",
         "pk": 3
     },
     {
@@ -49,6 +52,7 @@
         "AreaCode": "AH",
         "CustodianCode": 2245,
         "Easting": 550032.7188,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 155965.6135,
         "OBJECTID": 4,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -56,7 +60,7 @@
         "Postcode": "TN13 2RU",
         "UPRN": "050002018274",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.149950485387241, 51.2830759783835], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Chevening Church Hall, Homedean Road, Chipstead, Kent, TN13 2RU\", \"AreaCode\": \"AH\", \"CustodianCode\": 2245, \"Easting\": 550032.7188, \"Northing\": 155965.6135, \"OBJECTID\": 4, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Chevening\", \"Postcode\": \"TN13 2RU\", \"UPRN\": \"050002018274\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.149950485387241, 51.2830759783835], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Chevening Church Hall, Homedean Road, Chipstead, Kent, TN13 2RU\", \"AreaCode\": \"AH\", \"CustodianCode\": 2245, \"Easting\": 550032.7188, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 155965.6135, \"OBJECTID\": 4, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Chevening\", \"Postcode\": \"TN13 2RU\", \"UPRN\": \"050002018274\"}, \"type\": \"Feature\"}",
         "pk": 4
     },
     {
@@ -64,6 +68,7 @@
         "AreaCode": "AD",
         "CustodianCode": 2245,
         "Easting": 560556.675,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 165453.0563,
         "OBJECTID": 5,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -71,7 +76,7 @@
         "Postcode": "DA3 8HH",
         "UPRN": "010035182896",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.304997197519724, 51.36544963116337], \"type\": \"Point\"}, \"properties\": {\"Address\": \"New Ash Green Village Hall, Centre Road, New Ash Green, Kent, DA3 8HH\", \"AreaCode\": \"AD\", \"CustodianCode\": 2245, \"Easting\": 560556.675, \"Northing\": 165453.0563, \"OBJECTID\": 5, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"New Ash Green South East\", \"Postcode\": \"DA3 8HH\", \"UPRN\": \"010035182896\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.304997197519724, 51.36544963116337], \"type\": \"Point\"}, \"properties\": {\"Address\": \"New Ash Green Village Hall, Centre Road, New Ash Green, Kent, DA3 8HH\", \"AreaCode\": \"AD\", \"CustodianCode\": 2245, \"Easting\": 560556.675, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 165453.0563, \"OBJECTID\": 5, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"New Ash Green South East\", \"Postcode\": \"DA3 8HH\", \"UPRN\": \"010035182896\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -79,6 +84,7 @@
         "AreaCode": "AF",
         "CustodianCode": 2245,
         "Easting": 547014.8537,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 155096.3824,
         "OBJECTID": 6,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -86,7 +92,7 @@
         "Postcode": "TN16 1JA",
         "UPRN": "100062551317",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.106351436451977, 51.27605136000622], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Brasted Village Hall, High Street, Brasted, Kent, TN16 1JA\", \"AreaCode\": \"AF\", \"CustodianCode\": 2245, \"Easting\": 547014.8537, \"Northing\": 155096.3824, \"OBJECTID\": 6, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Brasted\", \"Postcode\": \"TN16 1JA\", \"UPRN\": \"100062551317\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.106351436451977, 51.27605136000622], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Brasted Village Hall, High Street, Brasted, Kent, TN16 1JA\", \"AreaCode\": \"AF\", \"CustodianCode\": 2245, \"Easting\": 547014.8537, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 155096.3824, \"OBJECTID\": 6, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Brasted\", \"Postcode\": \"TN16 1JA\", \"UPRN\": \"100062551317\"}, \"type\": \"Feature\"}",
         "pk": 6
     },
     {
@@ -94,6 +100,7 @@
         "AreaCode": "AG",
         "CustodianCode": 2245,
         "Easting": 546948.9576,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 151288.2341,
         "OBJECTID": 7,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -101,7 +108,7 @@
         "Postcode": "TN16 1PY",
         "UPRN": "100062551364",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.103843791543945, 51.24184881268237], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Toys Hill Village Hall, Puddledock Lane, Westerham, Kent, TN16 1PY\", \"AreaCode\": \"AG\", \"CustodianCode\": 2245, \"Easting\": 546948.9576, \"Northing\": 151288.2341, \"OBJECTID\": 7, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Toys Hill\", \"Postcode\": \"TN16 1PY\", \"UPRN\": \"100062551364\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.103843791543945, 51.24184881268237], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Toys Hill Village Hall, Puddledock Lane, Westerham, Kent, TN16 1PY\", \"AreaCode\": \"AG\", \"CustodianCode\": 2245, \"Easting\": 546948.9576, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 151288.2341, \"OBJECTID\": 7, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Toys Hill\", \"Postcode\": \"TN16 1PY\", \"UPRN\": \"100062551364\"}, \"type\": \"Feature\"}",
         "pk": 7
     },
     {
@@ -109,6 +116,7 @@
         "AreaCode": "AI",
         "CustodianCode": 2245,
         "Easting": 548825.7351,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146798.734,
         "OBJECTID": 8,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -116,7 +124,7 @@
         "Postcode": "TN8 7NU",
         "UPRN": "100062621444",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.128848403803208, 51.20102106613935], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Wheatsheaf, Hever Road, Bough Beech, Kent, TN8 7NU\", \"AreaCode\": \"AI\", \"CustodianCode\": 2245, \"Easting\": 548825.7351, \"Northing\": 146798.734, \"OBJECTID\": 8, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Bough Beech\", \"Postcode\": \"TN8 7NU\", \"UPRN\": \"100062621444\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.128848403803208, 51.20102106613935], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Wheatsheaf, Hever Road, Bough Beech, Kent, TN8 7NU\", \"AreaCode\": \"AI\", \"CustodianCode\": 2245, \"Easting\": 548825.7351, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146798.734, \"OBJECTID\": 8, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Bough Beech\", \"Postcode\": \"TN8 7NU\", \"UPRN\": \"100062621444\"}, \"type\": \"Feature\"}",
         "pk": 8
     },
     {
@@ -124,6 +132,7 @@
         "AreaCode": "AJ",
         "CustodianCode": 2245,
         "Easting": 551812.3626,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146617.1225,
         "OBJECTID": 9,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -131,7 +140,7 @@
         "Postcode": "TN11 8JN",
         "UPRN": "010013772729",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.171488061233823, 51.198604081285325], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Chiddingstone Causeway Village Hall, Tonbridge Road, Chiddingstone Causeway, Kent, TN11 8JN\", \"AreaCode\": \"AJ\", \"CustodianCode\": 2245, \"Easting\": 551812.3626, \"Northing\": 146617.1225, \"OBJECTID\": 9, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Causeway\", \"Postcode\": \"TN11 8JN\", \"UPRN\": \"010013772729\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.171488061233823, 51.198604081285325], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Chiddingstone Causeway Village Hall, Tonbridge Road, Chiddingstone Causeway, Kent, TN11 8JN\", \"AreaCode\": \"AJ\", \"CustodianCode\": 2245, \"Easting\": 551812.3626, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146617.1225, \"OBJECTID\": 9, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Causeway\", \"Postcode\": \"TN11 8JN\", \"UPRN\": \"010013772729\"}, \"type\": \"Feature\"}",
         "pk": 9
     },
     {
@@ -139,6 +148,7 @@
         "AreaCode": "AK",
         "CustodianCode": 2245,
         "Easting": 549732.7418,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 143126.8128,
         "OBJECTID": 10,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -146,22 +156,23 @@
         "Postcode": "TN8 7BS",
         "UPRN": "010035184974",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.14029183644652, 51.167789226246164], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Rock Inn, Hoath Corner, Chiddingstone Hoath, Kent, TN8 7BS\", \"AreaCode\": \"AK\", \"CustodianCode\": 2245, \"Easting\": 549732.7418, \"Northing\": 143126.8128, \"OBJECTID\": 10, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Hoath\", \"Postcode\": \"TN8 7BS\", \"UPRN\": \"010035184974\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.14029183644652, 51.167789226246164], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Rock Inn, Hoath Corner, Chiddingstone Hoath, Kent, TN8 7BS\", \"AreaCode\": \"AK\", \"CustodianCode\": 2245, \"Easting\": 549732.7418, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 143126.8128, \"OBJECTID\": 10, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Hoath\", \"Postcode\": \"TN8 7BS\", \"UPRN\": \"010035184974\"}, \"type\": \"Feature\"}",
         "pk": 10
     },
     {
-        "Address": "Chiddingstone C Of E Primary School, The Village, Chiddingstone, Kent, TN8 7AH",
+        "Address": "St Marys Church, The Village, Chiddingstone, Kent, TN8 7AH",
         "AreaCode": "AL",
         "CustodianCode": 2245,
-        "Easting": 550141.7558,
-        "Northing": 145155.6206,
+        "Easting": 550083.0,
+        "ElectoralDivision": "Sevenoaks Rural South",
+        "Northing": 145194.0,
         "OBJECTID": 11,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
         "PollingDistrict": "Chiddingstone Village",
         "Postcode": "TN8 7AH",
-        "UPRN": "010035181506",
+        "UPRN": "010013771133",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.146984509173242, 51.18591247987103], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Chiddingstone C Of E Primary School, The Village, Chiddingstone, Kent, TN8 7AH\", \"AreaCode\": \"AL\", \"CustodianCode\": 2245, \"Easting\": 550141.7558, \"Northing\": 145155.6206, \"OBJECTID\": 11, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Village\", \"Postcode\": \"TN8 7AH\", \"UPRN\": \"010035181506\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.14616044110216, 51.18627276299627], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St Marys Church, The Village, Chiddingstone, Kent, TN8 7AH\", \"AreaCode\": \"AL\", \"CustodianCode\": 2245, \"Easting\": 550083.0, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 145194.0, \"OBJECTID\": 11, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Chiddingstone Village\", \"Postcode\": \"TN8 7AH\", \"UPRN\": \"010013771133\"}, \"type\": \"Feature\"}",
         "pk": 11
     },
     {
@@ -169,6 +180,7 @@
         "AreaCode": "AM",
         "CustodianCode": 2245,
         "Easting": 546395.4361,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 140444.1812,
         "OBJECTID": 12,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -176,7 +188,7 @@
         "Postcode": "TN8 7HU",
         "UPRN": "100062621445",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.091502421793036, 51.14454588391079], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Cowden Memorial Hall, Chantlers Mead, Cowden, Kent, TN8 7HU\", \"AreaCode\": \"AM\", \"CustodianCode\": 2245, \"Easting\": 546395.4361, \"Northing\": 140444.1812, \"OBJECTID\": 12, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Cowden\", \"Postcode\": \"TN8 7HU\", \"UPRN\": \"100062621445\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.091502421793036, 51.14454588391079], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Cowden Memorial Hall, Chantlers Mead, Cowden, Kent, TN8 7HU\", \"AreaCode\": \"AM\", \"CustodianCode\": 2245, \"Easting\": 546395.4361, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 140444.1812, \"OBJECTID\": 12, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Cowden\", \"Postcode\": \"TN8 7HU\", \"UPRN\": \"100062621445\"}, \"type\": \"Feature\"}",
         "pk": 12
     },
     {
@@ -184,6 +196,7 @@
         "AreaCode": "AN",
         "CustodianCode": 2245,
         "Easting": 550438.2292,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 167227.6448,
         "OBJECTID": 13,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -191,7 +204,7 @@
         "Postcode": "BR8 8LT",
         "UPRN": "050002016796",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.160511674659431, 51.38416370478849], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Crockenhill Village Hall, Stones Cross Road, Crockenhill, Kent, BR8 8LT\", \"AreaCode\": \"AN\", \"CustodianCode\": 2245, \"Easting\": 550438.2292, \"Northing\": 167227.6448, \"OBJECTID\": 13, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Crockenhill\", \"Postcode\": \"BR8 8LT\", \"UPRN\": \"050002016796\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.160511674659431, 51.38416370478849], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Crockenhill Village Hall, Stones Cross Road, Crockenhill, Kent, BR8 8LT\", \"AreaCode\": \"AN\", \"CustodianCode\": 2245, \"Easting\": 550438.2292, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 167227.6448, \"OBJECTID\": 13, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Crockenhill\", \"Postcode\": \"BR8 8LT\", \"UPRN\": \"050002016796\"}, \"type\": \"Feature\"}",
         "pk": 13
     },
     {
@@ -199,6 +212,7 @@
         "AreaCode": "AO",
         "CustodianCode": 2245,
         "Easting": 550989.0718,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 157637.6275,
         "OBJECTID": 14,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -206,7 +220,7 @@
         "Postcode": "TN13 2TE",
         "UPRN": "050002017624",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.164359767679155, 51.29784741907751], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Dunton Green Village Hall, London Road, Dunton Green, Kent, TN13 2TE\", \"AreaCode\": \"AO\", \"CustodianCode\": 2245, \"Easting\": 550989.0718, \"Northing\": 157637.6275, \"OBJECTID\": 14, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Dunton Green\", \"Postcode\": \"TN13 2TE\", \"UPRN\": \"050002017624\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.164359767679155, 51.29784741907751], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Dunton Green Village Hall, London Road, Dunton Green, Kent, TN13 2TE\", \"AreaCode\": \"AO\", \"CustodianCode\": 2245, \"Easting\": 550989.0718, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 157637.6275, \"OBJECTID\": 14, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Dunton Green\", \"Postcode\": \"TN13 2TE\", \"UPRN\": \"050002017624\"}, \"type\": \"Feature\"}",
         "pk": 14
     },
     {
@@ -214,6 +228,7 @@
         "AreaCode": "AP",
         "CustodianCode": 2245,
         "Easting": 543999.5001,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 147962.425,
         "OBJECTID": 15,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -221,7 +236,7 @@
         "Postcode": "TN8 6JS",
         "UPRN": "010013776023",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.060283696196534, 51.212713958424644], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Paulinus Church Centre, Hillcrest Road, Edenbridge, Kent, TN8 6JS\", \"AreaCode\": \"AP\", \"CustodianCode\": 2245, \"Easting\": 543999.5001, \"Northing\": 147962.425, \"OBJECTID\": 15, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Marlpit Hill\", \"Postcode\": \"TN8 6JS\", \"UPRN\": \"010013776023\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.060283696196534, 51.212713958424644], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Paulinus Church Centre, Hillcrest Road, Edenbridge, Kent, TN8 6JS\", \"AreaCode\": \"AP\", \"CustodianCode\": 2245, \"Easting\": 543999.5001, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 147962.425, \"OBJECTID\": 15, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Marlpit Hill\", \"Postcode\": \"TN8 6JS\", \"UPRN\": \"010013776023\"}, \"type\": \"Feature\"}",
         "pk": 15
     },
     {
@@ -229,6 +244,7 @@
         "AreaCode": "AQ",
         "CustodianCode": 2245,
         "Easting": 543884.7318,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 144358.505,
         "OBJECTID": 16,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -236,7 +252,7 @@
         "Postcode": "TN8 5QR",
         "UPRN": "010035183418",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.057198880021261, 51.18035709972233], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St John's United Reformed Church, Marsh Green Road, Marsh Green, Edenbridge, Kent, TN8 5QR\", \"AreaCode\": \"AQ\", \"CustodianCode\": 2245, \"Easting\": 543884.7318, \"Northing\": 144358.505, \"OBJECTID\": 16, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Marsh Green\", \"Postcode\": \"TN8 5QR\", \"UPRN\": \"010035183418\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.057198880021261, 51.18035709972233], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St John's United Reformed Church, Marsh Green Road, Marsh Green, Edenbridge, Kent, TN8 5QR\", \"AreaCode\": \"AQ\", \"CustodianCode\": 2245, \"Easting\": 543884.7318, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 144358.505, \"OBJECTID\": 16, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Marsh Green\", \"Postcode\": \"TN8 5QR\", \"UPRN\": \"010035183418\"}, \"type\": \"Feature\"}",
         "pk": 16
     },
     {
@@ -244,6 +260,7 @@
         "AreaCode": "AR",
         "CustodianCode": 2245,
         "Easting": 544010.89,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 145837.1221,
         "OBJECTID": 17,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -251,7 +268,7 @@
         "Postcode": "TN8 5HZ",
         "UPRN": "050002017573",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.059594683418832, 51.193612620841186], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Edenbridge Rugby Football Club, The Pavilion, Recreation Ground, Coomb Field, Edenbridge, Kent, TN8 5HZ\", \"AreaCode\": \"AR\", \"CustodianCode\": 2245, \"Easting\": 544010.89, \"Northing\": 145837.1221, \"OBJECTID\": 17, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Pound Green\", \"Postcode\": \"TN8 5HZ\", \"UPRN\": \"050002017573\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.059594683418832, 51.193612620841186], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Edenbridge Rugby Football Club, The Pavilion, Recreation Ground, Coomb Field, Edenbridge, Kent, TN8 5HZ\", \"AreaCode\": \"AR\", \"CustodianCode\": 2245, \"Easting\": 544010.89, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 145837.1221, \"OBJECTID\": 17, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Pound Green\", \"Postcode\": \"TN8 5HZ\", \"UPRN\": \"050002017573\"}, \"type\": \"Feature\"}",
         "pk": 17
     },
     {
@@ -259,6 +276,7 @@
         "AreaCode": "AS",
         "CustodianCode": 2245,
         "Easting": 544248.3838,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146904.786,
         "OBJECTID": 18,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -266,7 +284,7 @@
         "Postcode": "TN8 6BY",
         "UPRN": "010013772382",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.063419642673708, 51.20314705744774], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Eden Centre, Four Elms Road, Edenbridge Kent, TN8 6BY\", \"AreaCode\": \"AS\", \"CustodianCode\": 2245, \"Easting\": 544248.3838, \"Northing\": 146904.786, \"OBJECTID\": 18, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Spitals Cross\", \"Postcode\": \"TN8 6BY\", \"UPRN\": \"010013772382\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.063419642673708, 51.20314705744774], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Eden Centre, Four Elms Road, Edenbridge Kent, TN8 6BY\", \"AreaCode\": \"AS\", \"CustodianCode\": 2245, \"Easting\": 544248.3838, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146904.786, \"OBJECTID\": 18, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Spitals Cross\", \"Postcode\": \"TN8 6BY\", \"UPRN\": \"010013772382\"}, \"type\": \"Feature\"}",
         "pk": 18
     },
     {
@@ -274,6 +292,7 @@
         "AreaCode": "AT",
         "CustodianCode": 2245,
         "Easting": 544264.7637,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146483.4932,
         "OBJECTID": 19,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -281,7 +300,7 @@
         "Postcode": "TN8 5HP",
         "UPRN": "050002018864",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.063484777067256, 51.19935709837005], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Scout Hut, Station Road, Edenbridge, Kent, TN8 5HP\", \"AreaCode\": \"AT\", \"CustodianCode\": 2245, \"Easting\": 544264.7637, \"Northing\": 146483.4932, \"OBJECTID\": 19, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Stangrove And South End\", \"Postcode\": \"TN8 5HP\", \"UPRN\": \"050002018864\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.063484777067256, 51.19935709837005], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Scout Hut, Station Road, Edenbridge, Kent, TN8 5HP\", \"AreaCode\": \"AT\", \"CustodianCode\": 2245, \"Easting\": 544264.7637, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146483.4932, \"OBJECTID\": 19, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Stangrove And South End\", \"Postcode\": \"TN8 5HP\", \"UPRN\": \"050002018864\"}, \"type\": \"Feature\"}",
         "pk": 19
     },
     {
@@ -289,6 +308,7 @@
         "AreaCode": "AU",
         "CustodianCode": 2245,
         "Easting": 544320.7041,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146518.6777,
         "OBJECTID": 20,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -296,7 +316,7 @@
         "Postcode": "TN8 5LX",
         "UPRN": "100062592890",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.064299011938251, 51.19965916170352], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Edenbridge Town Village Hall, Station Road, Edenbridge, Kent, TN8 5LX\", \"AreaCode\": \"AU\", \"CustodianCode\": 2245, \"Easting\": 544320.7041, \"Northing\": 146518.6777, \"OBJECTID\": 20, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Town\", \"Postcode\": \"TN8 5LX\", \"UPRN\": \"100062592890\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.064299011938251, 51.19965916170352], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Edenbridge Town Village Hall, Station Road, Edenbridge, Kent, TN8 5LX\", \"AreaCode\": \"AU\", \"CustodianCode\": 2245, \"Easting\": 544320.7041, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146518.6777, \"OBJECTID\": 20, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Town\", \"Postcode\": \"TN8 5LX\", \"UPRN\": \"100062592890\"}, \"type\": \"Feature\"}",
         "pk": 20
     },
     {
@@ -304,6 +324,7 @@
         "AreaCode": "AW",
         "CustodianCode": 2245,
         "Easting": 554706.4774,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 166989.2438,
         "OBJECTID": 21,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -311,7 +332,7 @@
         "Postcode": "DA4 0DH",
         "UPRN": "100062621586",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.221697054945818, 51.380874312836674], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Farningham Village Hall, High Street, Farningham, Kent, DA4 0DH\", \"AreaCode\": \"AW\", \"CustodianCode\": 2245, \"Easting\": 554706.4774, \"Northing\": 166989.2438, \"OBJECTID\": 21, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Farningham\", \"Postcode\": \"DA4 0DH\", \"UPRN\": \"100062621586\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.221697054945818, 51.380874312836674], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Farningham Village Hall, High Street, Farningham, Kent, DA4 0DH\", \"AreaCode\": \"AW\", \"CustodianCode\": 2245, \"Easting\": 554706.4774, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 166989.2438, \"OBJECTID\": 21, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Farningham\", \"Postcode\": \"DA4 0DH\", \"UPRN\": \"100062621586\"}, \"type\": \"Feature\"}",
         "pk": 21
     },
     {
@@ -319,6 +340,7 @@
         "AreaCode": "AX",
         "CustodianCode": 2245,
         "Easting": 558647.9809,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 166519.1017,
         "OBJECTID": 22,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -326,7 +348,7 @@
         "Postcode": "DA3 8NA",
         "UPRN": "100062314594",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.278077996747569, 51.37556351177731], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fawkham Village Hall, Valley Road, Fawkham, Kent, DA3 8NA\", \"AreaCode\": \"AX\", \"CustodianCode\": 2245, \"Easting\": 558647.9809, \"Northing\": 166519.1017, \"OBJECTID\": 22, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Fawkham\", \"Postcode\": \"DA3 8NA\", \"UPRN\": \"100062314594\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.278077996747569, 51.37556351177731], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fawkham Village Hall, Valley Road, Fawkham, Kent, DA3 8NA\", \"AreaCode\": \"AX\", \"CustodianCode\": 2245, \"Easting\": 558647.9809, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 166519.1017, \"OBJECTID\": 22, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Fawkham\", \"Postcode\": \"DA3 8NA\", \"UPRN\": \"100062314594\"}, \"type\": \"Feature\"}",
         "pk": 22
     },
     {
@@ -334,6 +356,7 @@
         "AreaCode": "AY",
         "CustodianCode": 2245,
         "Easting": 548818.6131,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 161405.5447,
         "OBJECTID": 23,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -341,7 +364,7 @@
         "Postcode": "TN14 7DH",
         "UPRN": "050002019997",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.134821669281647, 51.33227638125257], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Halstead Parish Council, The Centenary Pavilion, Station Road, Halstead, Kent, YN14 7DH\", \"AreaCode\": \"AY\", \"CustodianCode\": 2245, \"Easting\": 548818.6131, \"Northing\": 161405.5447, \"OBJECTID\": 23, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Halstead\", \"Postcode\": \"TN14 7DH\", \"UPRN\": \"050002019997\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.134821669281647, 51.33227638125257], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Halstead Parish Council, The Centenary Pavilion, Station Road, Halstead, Kent, YN14 7DH\", \"AreaCode\": \"AY\", \"CustodianCode\": 2245, \"Easting\": 548818.6131, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 161405.5447, \"OBJECTID\": 23, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Halstead\", \"Postcode\": \"TN14 7DH\", \"UPRN\": \"050002019997\"}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -349,6 +372,7 @@
         "AreaCode": "AZ",
         "CustodianCode": 2245,
         "Easting": 560525.945,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 168237.665,
         "OBJECTID": 24,
         "ParliamentaryConstituency": "Dartford Parliamentary Constituency",
@@ -356,7 +380,7 @@
         "Postcode": "DA3 7EH",
         "UPRN": "050002018956",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.305813742318353, 51.390476401931], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Scout Hut, Larkwell Lane, Hartley, Longfield, Kent, DA3 7EH\", \"AreaCode\": \"AZ\", \"CustodianCode\": 2245, \"Easting\": 560525.945, \"Northing\": 168237.665, \"OBJECTID\": 24, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hartley North\", \"Postcode\": \"DA3 7EH\", \"UPRN\": \"050002018956\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.305813742318353, 51.390476401931], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Scout Hut, Larkwell Lane, Hartley, Longfield, Kent, DA3 7EH\", \"AreaCode\": \"AZ\", \"CustodianCode\": 2245, \"Easting\": 560525.945, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 168237.665, \"OBJECTID\": 24, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hartley North\", \"Postcode\": \"DA3 7EH\", \"UPRN\": \"050002018956\"}, \"type\": \"Feature\"}",
         "pk": 24
     },
     {
@@ -364,6 +388,7 @@
         "AreaCode": "BA",
         "CustodianCode": 2245,
         "Easting": 560595.294,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 167349.2672,
         "OBJECTID": 25,
         "ParliamentaryConstituency": "Dartford Parliamentary Constituency",
@@ -371,7 +396,7 @@
         "Postcode": "DA3 8EL",
         "UPRN": "050002017676",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.306407991624702, 51.38247508428289], \"type\": \"Point\"}, \"properties\": {\"Address\": \"All Saints Church Hall, Ash Road, Hartley, Kent, DA3 8EL\", \"AreaCode\": \"BA\", \"CustodianCode\": 2245, \"Easting\": 560595.294, \"Northing\": 167349.2672, \"OBJECTID\": 25, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hartley South\", \"Postcode\": \"DA3 8EL\", \"UPRN\": \"050002017676\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.306407991624702, 51.38247508428289], \"type\": \"Point\"}, \"properties\": {\"Address\": \"All Saints Church Hall, Ash Road, Hartley, Kent, DA3 8EL\", \"AreaCode\": \"BA\", \"CustodianCode\": 2245, \"Easting\": 560595.294, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 167349.2672, \"OBJECTID\": 25, \"ParliamentaryConstituency\": \"Dartford Parliamentary Constituency\", \"PollingDistrict\": \"Hartley South\", \"Postcode\": \"DA3 8EL\", \"UPRN\": \"050002017676\"}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
@@ -379,6 +404,7 @@
         "AreaCode": "BB",
         "CustodianCode": 2245,
         "Easting": 546810.3536,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 148521.0879,
         "OBJECTID": 26,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -386,7 +412,7 @@
         "Postcode": "TN8 6NS",
         "UPRN": "050002019460",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.100726596914147, 51.2170190739488], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Four Elms Village Hall, Ide Hill Road, Four Elms, Kent, TN8 6NS\", \"AreaCode\": \"BB\", \"CustodianCode\": 2245, \"Easting\": 546810.3536, \"Northing\": 148521.0879, \"OBJECTID\": 26, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Four Elms\", \"Postcode\": \"TN8 6NS\", \"UPRN\": \"050002019460\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.100726596914147, 51.2170190739488], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Four Elms Village Hall, Ide Hill Road, Four Elms, Kent, TN8 6NS\", \"AreaCode\": \"BB\", \"CustodianCode\": 2245, \"Easting\": 546810.3536, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 148521.0879, \"OBJECTID\": 26, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Four Elms\", \"Postcode\": \"TN8 6NS\", \"UPRN\": \"050002019460\"}, \"type\": \"Feature\"}",
         "pk": 26
     },
     {
@@ -394,6 +420,7 @@
         "AreaCode": "BC",
         "CustodianCode": 2245,
         "Easting": 547466.4341,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 144854.2224,
         "OBJECTID": 27,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -401,7 +428,7 @@
         "Postcode": "TN8 7NH",
         "UPRN": "050002017105",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.10860835565083, 51.18389993592993], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Hever Village Hall, Hever Road, Hever, Kent, TN8 7NH\", \"AreaCode\": \"BC\", \"CustodianCode\": 2245, \"Easting\": 547466.4341, \"Northing\": 144854.2224, \"OBJECTID\": 27, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Hever\", \"Postcode\": \"TN8 7NH\", \"UPRN\": \"050002017105\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.10860835565083, 51.18389993592993], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Hever Village Hall, Hever Road, Hever, Kent, TN8 7NH\", \"AreaCode\": \"BC\", \"CustodianCode\": 2245, \"Easting\": 547466.4341, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 144854.2224, \"OBJECTID\": 27, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Hever\", \"Postcode\": \"TN8 7NH\", \"UPRN\": \"050002017105\"}, \"type\": \"Feature\"}",
         "pk": 27
     },
     {
@@ -409,6 +436,7 @@
         "AreaCode": "BE",
         "CustodianCode": 2245,
         "Easting": 555949.3073,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 168198.6174,
         "OBJECTID": 28,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -416,7 +444,7 @@
         "Postcode": "DA4 9BY",
         "UPRN": "100062317200",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.240072342378115, 51.39140084982819], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fighting Cocks Public House, The Street, Horton Kirby, Kent, DA4 9BY\", \"AreaCode\": \"BE\", \"CustodianCode\": 2245, \"Easting\": 555949.3073, \"Northing\": 168198.6174, \"OBJECTID\": 28, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Horton Kirby\", \"Postcode\": \"DA4 9BY\", \"UPRN\": \"100062317200\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.240072342378115, 51.39140084982819], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fighting Cocks Public House, The Street, Horton Kirby, Kent, DA4 9BY\", \"AreaCode\": \"BE\", \"CustodianCode\": 2245, \"Easting\": 555949.3073, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 168198.6174, \"OBJECTID\": 28, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Horton Kirby\", \"Postcode\": \"DA4 9BY\", \"UPRN\": \"100062317200\"}, \"type\": \"Feature\"}",
         "pk": 28
     },
     {
@@ -424,6 +452,7 @@
         "AreaCode": "BF",
         "CustodianCode": 2245,
         "Easting": 556368.7368,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 169134.0453,
         "OBJECTID": 29,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -431,7 +460,7 @@
         "Postcode": "DA4 9AZ",
         "UPRN": "010013776022",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.246507720392798, 51.399690396721475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Horton Kirby & South Darenth Jubilee Hall, Horton Road, South Darenth, Kent, DA4 9AZ\", \"AreaCode\": \"BF\", \"CustodianCode\": 2245, \"Easting\": 556368.7368, \"Northing\": 169134.0453, \"OBJECTID\": 29, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"South Darenth\", \"Postcode\": \"DA4 9AZ\", \"UPRN\": \"010013776022\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.246507720392798, 51.399690396721475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Horton Kirby & South Darenth Jubilee Hall, Horton Road, South Darenth, Kent, DA4 9AZ\", \"AreaCode\": \"BF\", \"CustodianCode\": 2245, \"Easting\": 556368.7368, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 169134.0453, \"OBJECTID\": 29, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"South Darenth\", \"Postcode\": \"DA4 9AZ\", \"UPRN\": \"010013776022\"}, \"type\": \"Feature\"}",
         "pk": 29
     },
     {
@@ -439,6 +468,7 @@
         "AreaCode": "BG",
         "CustodianCode": 2245,
         "Easting": 555593.0,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 158682.0,
         "OBJECTID": 30,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -446,7 +476,7 @@
         "Postcode": "TN15 6NA",
         "UPRN": "050002019511",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.230797578515135, 51.3059923049847], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BG\", \"CustodianCode\": 2245, \"Easting\": 555593.0, \"Northing\": 158682.0, \"OBJECTID\": 30, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing East\", \"Postcode\": \"TN15 6NA\", \"UPRN\": \"050002019511\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.230797578515135, 51.3059923049847], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BG\", \"CustodianCode\": 2245, \"Easting\": 555593.0, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 158682.0, \"OBJECTID\": 30, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing East\", \"Postcode\": \"TN15 6NA\", \"UPRN\": \"050002019511\"}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -454,6 +484,7 @@
         "AreaCode": "BI",
         "CustodianCode": 2245,
         "Easting": 547929.9824,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 159461.6567,
         "OBJECTID": 31,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -461,7 +492,7 @@
         "Postcode": "TN14 7LG",
         "UPRN": "100062549388",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.121270049367567, 51.315040688117975], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Knockholt Village Centre, Main Road, Knockholt, Kent, TN14 7LG\", \"AreaCode\": \"BI\", \"CustodianCode\": 2245, \"Easting\": 547929.9824, \"Northing\": 159461.6567, \"OBJECTID\": 31, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Knockholt\", \"Postcode\": \"TN14 7LG\", \"UPRN\": \"100062549388\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.121270049367567, 51.315040688117975], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Knockholt Village Centre, Main Road, Knockholt, Kent, TN14 7LG\", \"AreaCode\": \"BI\", \"CustodianCode\": 2245, \"Easting\": 547929.9824, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 159461.6567, \"OBJECTID\": 31, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Knockholt\", \"Postcode\": \"TN14 7LG\", \"UPRN\": \"100062549388\"}, \"type\": \"Feature\"}",
         "pk": 31
     },
     {
@@ -469,6 +500,7 @@
         "AreaCode": "BJ",
         "CustodianCode": 2245,
         "Easting": 554681.9607,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 146375.6595,
         "OBJECTID": 32,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -476,7 +508,7 @@
         "Postcode": "TN11 8RL",
         "UPRN": "100062621700",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.212423754887929, 51.195665427423805], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Leigh Village Hall, High Street, Leigh, Kent, TN11 8RL\", \"AreaCode\": \"BJ\", \"CustodianCode\": 2245, \"Easting\": 554681.9607, \"Northing\": 146375.6595, \"OBJECTID\": 32, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Leigh\", \"Postcode\": \"TN11 8RL\", \"UPRN\": \"100062621700\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.212423754887929, 51.195665427423805], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Leigh Village Hall, High Street, Leigh, Kent, TN11 8RL\", \"AreaCode\": \"BJ\", \"CustodianCode\": 2245, \"Easting\": 554681.9607, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 146375.6595, \"OBJECTID\": 32, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Leigh\", \"Postcode\": \"TN11 8RL\", \"UPRN\": \"100062621700\"}, \"type\": \"Feature\"}",
         "pk": 32
     },
     {
@@ -484,6 +516,7 @@
         "AreaCode": "BK",
         "CustodianCode": 2245,
         "Easting": 552660.0937,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 159408.707,
         "OBJECTID": 33,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -491,7 +524,7 @@
         "Postcode": "TN14 5PQ",
         "UPRN": "100062548591",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.189066156371952, 51.31331551627997], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Otford Memorial Hall, High Street, Otford, Kent, TN14 5PQ\", \"AreaCode\": \"BK\", \"CustodianCode\": 2245, \"Easting\": 552660.0937, \"Northing\": 159408.707, \"OBJECTID\": 33, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Otford\", \"Postcode\": \"TN14 5PQ\", \"UPRN\": \"100062548591\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.189066156371952, 51.31331551627997], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Otford Memorial Hall, High Street, Otford, Kent, TN14 5PQ\", \"AreaCode\": \"BK\", \"CustodianCode\": 2245, \"Easting\": 552660.0937, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 159408.707, \"OBJECTID\": 33, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Otford\", \"Postcode\": \"TN14 5PQ\", \"UPRN\": \"100062548591\"}, \"type\": \"Feature\"}",
         "pk": 33
     },
     {
@@ -499,6 +532,7 @@
         "AreaCode": "BL",
         "CustodianCode": 2245,
         "Easting": 552619.4686,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 140268.6793,
         "OBJECTID": 34,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -506,7 +540,7 @@
         "Postcode": "TN3 0RY",
         "UPRN": "010035185120",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.180338548705448, 51.1413452032741], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY\", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552619.4686, \"Northing\": 140268.6793, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RY\", \"UPRN\": \"010035185120\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.180338548705448, 51.1413452032741], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY\", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552619.4686, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 140268.6793, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RY\", \"UPRN\": \"010035185120\"}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
@@ -514,6 +548,7 @@
         "AreaCode": "BM",
         "CustodianCode": 2245,
         "Easting": 552632.0647,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 143762.8319,
         "OBJECTID": 35,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
@@ -521,7 +556,7 @@
         "Postcode": "TN11 8BP",
         "UPRN": "050002018260",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.181999329583769, 51.17273857161399], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Penshurst Village Hall, High Street, Penshurst, Kent, TN11 8BP\", \"AreaCode\": \"BM\", \"CustodianCode\": 2245, \"Easting\": 552632.0647, \"Northing\": 143762.8319, \"OBJECTID\": 35, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Penshurst\", \"Postcode\": \"TN11 8BP\", \"UPRN\": \"050002018260\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.181999329583769, 51.17273857161399], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Penshurst Village Hall, High Street, Penshurst, Kent, TN11 8BP\", \"AreaCode\": \"BM\", \"CustodianCode\": 2245, \"Easting\": 552632.0647, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 143762.8319, \"OBJECTID\": 35, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Penshurst\", \"Postcode\": \"TN11 8BP\", \"UPRN\": \"050002018260\"}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -529,6 +564,7 @@
         "AreaCode": "BN",
         "CustodianCode": 2245,
         "Easting": 551462.7675,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 156078.226,
         "OBJECTID": 36,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -536,7 +572,7 @@
         "Postcode": "TN13 2EL",
         "UPRN": "100062621768",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.170487848386582, 51.28370979730328], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Riverhead Village Hall, Amherst Hill, Riverhead, Kent, TN13 2EL\", \"AreaCode\": \"BN\", \"CustodianCode\": 2245, \"Easting\": 551462.7675, \"Northing\": 156078.226, \"OBJECTID\": 36, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Riverhead\", \"Postcode\": \"TN13 2EL\", \"UPRN\": \"100062621768\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.170487848386582, 51.28370979730328], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Riverhead Village Hall, Amherst Hill, Riverhead, Kent, TN13 2EL\", \"AreaCode\": \"BN\", \"CustodianCode\": 2245, \"Easting\": 551462.7675, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 156078.226, \"OBJECTID\": 36, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Riverhead\", \"Postcode\": \"TN13 2EL\", \"UPRN\": \"100062621768\"}, \"type\": \"Feature\"}",
         "pk": 36
     },
     {
@@ -544,6 +580,7 @@
         "AreaCode": "BO",
         "CustodianCode": 2245,
         "Easting": 557371.9482,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 154873.6978,
         "OBJECTID": 37,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -551,7 +588,7 @@
         "Postcode": "TN15 0LL",
         "UPRN": "010035182087",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.254620688167946, 51.27128654056028], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Lawrence Village Hall, Church Road, Stone Street, Kent, TN15 0LL\", \"AreaCode\": \"BO\", \"CustodianCode\": 2245, \"Easting\": 557371.9482, \"Northing\": 154873.6978, \"OBJECTID\": 37, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Seal St. Lawrence\", \"Postcode\": \"TN15 0LL\", \"UPRN\": \"010035182087\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.254620688167946, 51.27128654056028], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Lawrence Village Hall, Church Road, Stone Street, Kent, TN15 0LL\", \"AreaCode\": \"BO\", \"CustodianCode\": 2245, \"Easting\": 557371.9482, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 154873.6978, \"OBJECTID\": 37, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Seal St. Lawrence\", \"Postcode\": \"TN15 0LL\", \"UPRN\": \"010035182087\"}, \"type\": \"Feature\"}",
         "pk": 37
     },
     {
@@ -559,6 +596,7 @@
         "AreaCode": "BP",
         "CustodianCode": 2245,
         "Easting": 554932.1989,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 156745.6857,
         "OBJECTID": 38,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -566,7 +604,7 @@
         "Postcode": "TN15 0AL",
         "UPRN": "100062549646",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.220485491811018, 51.28877448655517], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Seal Village Hall, 17 High Street, Seal, Kent, TN15 0AL\", \"AreaCode\": \"BP\", \"CustodianCode\": 2245, \"Easting\": 554932.1989, \"Northing\": 156745.6857, \"OBJECTID\": 38, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Seal\", \"Postcode\": \"TN15 0AL\", \"UPRN\": \"100062549646\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.220485491811018, 51.28877448655517], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Seal Village Hall, 17 High Street, Seal, Kent, TN15 0AL\", \"AreaCode\": \"BP\", \"CustodianCode\": 2245, \"Easting\": 554932.1989, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 156745.6857, \"OBJECTID\": 38, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Seal\", \"Postcode\": \"TN15 0AL\", \"UPRN\": \"100062549646\"}, \"type\": \"Feature\"}",
         "pk": 38
     },
     {
@@ -574,6 +612,7 @@
         "AreaCode": "BQ",
         "CustodianCode": 2245,
         "Easting": 555646.41,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 151997.5483,
         "OBJECTID": 39,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -581,7 +620,7 @@
         "Postcode": "TN15 0SB",
         "UPRN": "010013770526",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.228654465413687, 51.2459175756074], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Underriver Village Hall, Carters Hill, Underriver, Kent, TN15 0SB\", \"AreaCode\": \"BQ\", \"CustodianCode\": 2245, \"Easting\": 555646.41, \"Northing\": 151997.5483, \"OBJECTID\": 39, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Underriver\", \"Postcode\": \"TN15 0SB\", \"UPRN\": \"010013770526\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.228654465413687, 51.2459175756074], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Underriver Village Hall, Carters Hill, Underriver, Kent, TN15 0SB\", \"AreaCode\": \"BQ\", \"CustodianCode\": 2245, \"Easting\": 555646.41, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 151997.5483, \"OBJECTID\": 39, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Underriver\", \"Postcode\": \"TN15 0SB\", \"UPRN\": \"010013770526\"}, \"type\": \"Feature\"}",
         "pk": 39
     },
     {
@@ -589,6 +628,7 @@
         "AreaCode": "BR",
         "CustodianCode": 2245,
         "Easting": 553089.0017,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156804.3773,
         "OBJECTID": 40,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -596,7 +636,7 @@
         "Postcode": "TN14 5AP",
         "UPRN": "100062548549",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.194098973856546, 51.28979996551909], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Bat And Ball Railway Station, Bat And Ball Road, Sevenoaks, Kent, TN14 5AP\", \"AreaCode\": \"BR\", \"CustodianCode\": 2245, \"Easting\": 553089.0017, \"Northing\": 156804.3773, \"OBJECTID\": 40, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bat And Ball\", \"Postcode\": \"TN14 5AP\", \"UPRN\": \"100062548549\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.194098973856546, 51.28979996551909], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Bat And Ball Railway Station, Bat And Ball Road, Sevenoaks, Kent, TN14 5AP\", \"AreaCode\": \"BR\", \"CustodianCode\": 2245, \"Easting\": 553089.0017, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156804.3773, \"OBJECTID\": 40, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bat And Ball\", \"Postcode\": \"TN14 5AP\", \"UPRN\": \"100062548549\"}, \"type\": \"Feature\"}",
         "pk": 40
     },
     {
@@ -604,6 +644,7 @@
         "AreaCode": "BT",
         "CustodianCode": 2245,
         "Easting": 553606.9603,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156804.8472,
         "OBJECTID": 41,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -611,7 +652,7 @@
         "Postcode": "TN14 5BU",
         "UPRN": "010035184844",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.201521215270674, 51.289664796466965], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Football Club Pavilion, Greatness Playing Fields, Mill Lane, Sevenoaks, Kent, TN14 5BU\", \"AreaCode\": \"BT\", \"CustodianCode\": 2245, \"Easting\": 553606.9603, \"Northing\": 156804.8472, \"OBJECTID\": 41, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Greatness\", \"Postcode\": \"TN14 5BU\", \"UPRN\": \"010035184844\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.201521215270674, 51.289664796466965], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Football Club Pavilion, Greatness Playing Fields, Mill Lane, Sevenoaks, Kent, TN14 5BU\", \"AreaCode\": \"BT\", \"CustodianCode\": 2245, \"Easting\": 553606.9603, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156804.8472, \"OBJECTID\": 41, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Greatness\", \"Postcode\": \"TN14 5BU\", \"UPRN\": \"010035184844\"}, \"type\": \"Feature\"}",
         "pk": 41
     },
     {
@@ -619,6 +660,7 @@
         "AreaCode": "BU",
         "CustodianCode": 2245,
         "Easting": 552990.0738,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 154594.427,
         "OBJECTID": 42,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -626,7 +668,7 @@
         "Postcode": "TN13 1ZZ",
         "UPRN": "050002019652",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.191735716123895, 51.26996979154661], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Stag Community Arts Centre, London Road, Sevenoaks, Kent, TN13 1ZZ\", \"AreaCode\": \"BU\", \"CustodianCode\": 2245, \"Easting\": 552990.0738, \"Northing\": 154594.427, \"OBJECTID\": 42, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"High Street\", \"Postcode\": \"TN13 1ZZ\", \"UPRN\": \"050002019652\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.191735716123895, 51.26996979154661], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Stag Community Arts Centre, London Road, Sevenoaks, Kent, TN13 1ZZ\", \"AreaCode\": \"BU\", \"CustodianCode\": 2245, \"Easting\": 552990.0738, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 154594.427, \"OBJECTID\": 42, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"High Street\", \"Postcode\": \"TN13 1ZZ\", \"UPRN\": \"050002019652\"}, \"type\": \"Feature\"}",
         "pk": 42
     },
     {
@@ -634,6 +676,7 @@
         "AreaCode": "BW",
         "CustodianCode": 2245,
         "Easting": 553197.4236,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156099.9589,
         "OBJECTID": 43,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -641,7 +684,7 @@
         "Postcode": "TN13 3NU",
         "UPRN": "010035183482",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"BW\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"Northing\": 156099.9589, \"OBJECTID\": 43, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Holly Bush\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"BW\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156099.9589, \"OBJECTID\": 43, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Holly Bush\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
         "pk": 43
     },
     {
@@ -649,6 +692,7 @@
         "AreaCode": "BX",
         "CustodianCode": 2245,
         "Easting": 552037.5441,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 155453.4567,
         "OBJECTID": 44,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -656,7 +700,7 @@
         "Postcode": "TN13 2JG",
         "UPRN": "100062547580",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.178457392973076, 51.27794306315649], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church United Reformed Church Littlecourt Road Sevenoaks KENT TN13 2JG\", \"AreaCode\": \"BX\", \"CustodianCode\": 2245, \"Easting\": 552037.5441, \"Northing\": 155453.4567, \"OBJECTID\": 44, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kippington North\", \"Postcode\": \"TN13 2JG\", \"UPRN\": \"100062547580\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.178457392973076, 51.27794306315649], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church United Reformed Church Littlecourt Road Sevenoaks KENT TN13 2JG\", \"AreaCode\": \"BX\", \"CustodianCode\": 2245, \"Easting\": 552037.5441, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 155453.4567, \"OBJECTID\": 44, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kippington North\", \"Postcode\": \"TN13 2JG\", \"UPRN\": \"100062547580\"}, \"type\": \"Feature\"}",
         "pk": 44
     },
     {
@@ -664,6 +708,7 @@
         "AreaCode": "BY",
         "CustodianCode": 2245,
         "Easting": 552147.4036,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 154633.6263,
         "OBJECTID": 45,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -671,7 +716,7 @@
         "Postcode": "TN13 2LL",
         "UPRN": "010013773694",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.179682447910836, 51.27054726634351], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Kippington Centre, Kippington Road, Sevenoaks, Kent, TN13 2LL\", \"AreaCode\": \"BY\", \"CustodianCode\": 2245, \"Easting\": 552147.4036, \"Northing\": 154633.6263, \"OBJECTID\": 45, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kippington South\", \"Postcode\": \"TN13 2LL\", \"UPRN\": \"010013773694\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.179682447910836, 51.27054726634351], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Kippington Centre, Kippington Road, Sevenoaks, Kent, TN13 2LL\", \"AreaCode\": \"BY\", \"CustodianCode\": 2245, \"Easting\": 552147.4036, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 154633.6263, \"OBJECTID\": 45, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kippington South\", \"Postcode\": \"TN13 2LL\", \"UPRN\": \"010013773694\"}, \"type\": \"Feature\"}",
         "pk": 45
     },
     {
@@ -679,6 +724,7 @@
         "AreaCode": "BZ",
         "CustodianCode": 2245,
         "Easting": 552754.9,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156442.5286,
         "OBJECTID": 46,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -686,22 +732,23 @@
         "Postcode": "TN13 3QG",
         "UPRN": "100062548177",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.189156778838873, 51.28663839488705], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Council Offices, Bradbourne Vale Road, Sevenoaks, Kent, TN13 3QG\", \"AreaCode\": \"BZ\", \"CustodianCode\": 2245, \"Easting\": 552754.9, \"Northing\": 156442.5286, \"OBJECTID\": 46, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Lower St. John's\", \"Postcode\": \"TN13 3QG\", \"UPRN\": \"100062548177\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.189156778838873, 51.28663839488705], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Council Offices, Bradbourne Vale Road, Sevenoaks, Kent, TN13 3QG\", \"AreaCode\": \"BZ\", \"CustodianCode\": 2245, \"Easting\": 552754.9, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156442.5286, \"OBJECTID\": 46, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Lower St. John's\", \"Postcode\": \"TN13 3QG\", \"UPRN\": \"100062548177\"}, \"type\": \"Feature\"}",
         "pk": 46
     },
     {
-        "Address": "Solefield School, Solefields Road, Sevenoaks, Kent, TN13 1PH",
+        "Address": "Stag Community Arts Centre, London Road, Sevenoaks, Kent, TN13 1ZZ",
         "AreaCode": "CA",
         "CustodianCode": 2245,
         "Easting": 553150.0436,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 153654.3759,
         "OBJECTID": 47,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Sevenoaks Common",
-        "Postcode": "TN13 1PH",
-        "UPRN": "100062547232",
+        "Postcode": "TN13 1ZZ",
+        "UPRN": "050002019652",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.193624730211989, 51.261480166603604], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Solefield School, Solefields Road, Sevenoaks, Kent, TN13 1PH\", \"AreaCode\": \"CA\", \"CustodianCode\": 2245, \"Easting\": 553150.0436, \"Northing\": 153654.3759, \"OBJECTID\": 47, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sevenoaks Common\", \"Postcode\": \"TN13 1PH\", \"UPRN\": \"100062547232\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.191735716123895, 51.26996979154661], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Stag Community Arts Centre, London Road, Sevenoaks, Kent, TN13 1ZZ\", \"AreaCode\": \"CA\", \"CustodianCode\": 2245, \"Easting\": 553150.0436, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 153654.3759, \"OBJECTID\": 47, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sevenoaks Common\", \"Postcode\": \"TN13 1ZZ\", \"UPRN\": \"050002019652\"}, \"type\": \"Feature\"}",
         "pk": 47
     },
     {
@@ -709,6 +756,7 @@
         "AreaCode": "CB",
         "CustodianCode": 2245,
         "Easting": 552573.0557,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 155076.3666,
         "OBJECTID": 48,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -716,7 +764,7 @@
         "Postcode": "TN13 1XT",
         "UPRN": "050002017941",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.185968212097749, 51.274411796322475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Luke's Church Hall, St. Lukes Church, Eardley Road, Sevenoaks, Kent, TN13 1XT\", \"AreaCode\": \"CB\", \"CustodianCode\": 2245, \"Easting\": 552573.0557, \"Northing\": 155076.3666, \"OBJECTID\": 48, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Tubs Hill\", \"Postcode\": \"TN13 1XT\", \"UPRN\": \"050002017941\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.185968212097749, 51.274411796322475], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St. Luke's Church Hall, St. Lukes Church, Eardley Road, Sevenoaks, Kent, TN13 1XT\", \"AreaCode\": \"CB\", \"CustodianCode\": 2245, \"Easting\": 552573.0557, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 155076.3666, \"OBJECTID\": 48, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Tubs Hill\", \"Postcode\": \"TN13 1XT\", \"UPRN\": \"050002017941\"}, \"type\": \"Feature\"}",
         "pk": 48
     },
     {
@@ -724,6 +772,7 @@
         "AreaCode": "CC",
         "CustodianCode": 2245,
         "Easting": 553123.4836,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 155961.8314,
         "OBJECTID": 49,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -731,7 +780,7 @@
         "Postcode": "TN13 3LW",
         "UPRN": "200001853658",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.194232073170194, 51.282220369382905], \"type\": \"Point\"}, \"properties\": {\"Address\": \"United Reformed Church, St Johns Road, Sevenoaks, Kent, TN13 3LW\", \"AreaCode\": \"CC\", \"CustodianCode\": 2245, \"Easting\": 553123.4836, \"Northing\": 155961.8314, \"OBJECTID\": 49, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Upper St. John's\", \"Postcode\": \"TN13 3LW\", \"UPRN\": \"200001853658\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.194232073170194, 51.282220369382905], \"type\": \"Point\"}, \"properties\": {\"Address\": \"United Reformed Church, St Johns Road, Sevenoaks, Kent, TN13 3LW\", \"AreaCode\": \"CC\", \"CustodianCode\": 2245, \"Easting\": 553123.4836, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 155961.8314, \"OBJECTID\": 49, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Upper St. John's\", \"Postcode\": \"TN13 3LW\", \"UPRN\": \"200001853658\"}, \"type\": \"Feature\"}",
         "pk": 49
     },
     {
@@ -739,6 +788,7 @@
         "AreaCode": "CE",
         "CustodianCode": 2245,
         "Easting": 552790.0061,
+        "ElectoralDivision": "Sevenoaks Rural South",
         "Northing": 150828.8769,
         "OBJECTID": 50,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -746,7 +796,7 @@
         "Postcode": "TN14 6PT",
         "UPRN": "050002018024",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.187263396957044, 51.236188241348096], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Weald Memorial Hall, Long Barn Road, Sevenoaks Weald, Kent, TN14 6PT\", \"AreaCode\": \"CE\", \"CustodianCode\": 2245, \"Easting\": 552790.0061, \"Northing\": 150828.8769, \"OBJECTID\": 50, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sevenoaks Weald\", \"Postcode\": \"TN14 6PT\", \"UPRN\": \"050002018024\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.187263396957044, 51.236188241348096], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Weald Memorial Hall, Long Barn Road, Sevenoaks Weald, Kent, TN14 6PT\", \"AreaCode\": \"CE\", \"CustodianCode\": 2245, \"Easting\": 552790.0061, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 150828.8769, \"OBJECTID\": 50, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sevenoaks Weald\", \"Postcode\": \"TN14 6PT\", \"UPRN\": \"050002018024\"}, \"type\": \"Feature\"}",
         "pk": 50
     },
     {
@@ -754,6 +804,7 @@
         "AreaCode": "AE",
         "CustodianCode": 2245,
         "Easting": 549654.4542,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 161846.2525,
         "OBJECTID": 51,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -761,7 +812,7 @@
         "Postcode": "TN14 7AH",
         "UPRN": "010013769953",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.146995479619671, 51.33601691088744], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Badgers Mount Memorial Hall, Orpington-By-Pass Road, Badgers Mount, Kent, TN14 7AH\", \"AreaCode\": \"AE\", \"CustodianCode\": 2245, \"Easting\": 549654.4542, \"Northing\": 161846.2525, \"OBJECTID\": 51, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Badgers Mount\", \"Postcode\": \"TN14 7AH\", \"UPRN\": \"010013769953\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.146995479619671, 51.33601691088744], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Badgers Mount Memorial Hall, Orpington-By-Pass Road, Badgers Mount, Kent, TN14 7AH\", \"AreaCode\": \"AE\", \"CustodianCode\": 2245, \"Easting\": 549654.4542, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 161846.2525, \"OBJECTID\": 51, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Badgers Mount\", \"Postcode\": \"TN14 7AH\", \"UPRN\": \"010013769953\"}, \"type\": \"Feature\"}",
         "pk": 51
     },
     {
@@ -769,6 +820,7 @@
         "AreaCode": "CG",
         "CustodianCode": 2245,
         "Easting": 551776.8428,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 161742.9512,
         "OBJECTID": 52,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -776,7 +828,7 @@
         "Postcode": "TN14 7TB",
         "UPRN": "050002000016",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.177396071472882, 51.334525665680374], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Shoreham Village Hall, 25 High Street, Shoreham, Kent, TN14 7TB\", \"AreaCode\": \"CG\", \"CustodianCode\": 2245, \"Easting\": 551776.8428, \"Northing\": 161742.9512, \"OBJECTID\": 52, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Shoreham\", \"Postcode\": \"TN14 7TB\", \"UPRN\": \"050002000016\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.177396071472882, 51.334525665680374], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Shoreham Village Hall, 25 High Street, Shoreham, Kent, TN14 7TB\", \"AreaCode\": \"CG\", \"CustodianCode\": 2245, \"Easting\": 551776.8428, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 161742.9512, \"OBJECTID\": 52, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Shoreham\", \"Postcode\": \"TN14 7TB\", \"UPRN\": \"050002000016\"}, \"type\": \"Feature\"}",
         "pk": 52
     },
     {
@@ -784,6 +836,7 @@
         "AreaCode": "CH",
         "CustodianCode": 2245,
         "Easting": 549880.7459,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 164182.331,
         "OBJECTID": 53,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -791,7 +844,7 @@
         "Postcode": "BR6 7PR",
         "UPRN": "010013776030",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.151224124693585, 51.3569480331865], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Well Hill Mission Church, Well Hill, Orpington, Kent, BR6 7PR\", \"AreaCode\": \"CH\", \"CustodianCode\": 2245, \"Easting\": 549880.7459, \"Northing\": 164182.331, \"OBJECTID\": 53, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Well Hill\", \"Postcode\": \"BR6 7PR\", \"UPRN\": \"010013776030\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.151224124693585, 51.3569480331865], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Well Hill Mission Church, Well Hill, Orpington, Kent, BR6 7PR\", \"AreaCode\": \"CH\", \"CustodianCode\": 2245, \"Easting\": 549880.7459, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 164182.331, \"OBJECTID\": 53, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Well Hill\", \"Postcode\": \"BR6 7PR\", \"UPRN\": \"010013776030\"}, \"type\": \"Feature\"}",
         "pk": 53
     },
     {
@@ -799,6 +852,7 @@
         "AreaCode": "CI",
         "CustodianCode": 2245,
         "Easting": 548848.7285,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 151728.3712,
         "OBJECTID": 54,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -806,7 +860,7 @@
         "Postcode": "TN14 6JG",
         "UPRN": "010035182530",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.131222933904589, 51.2453117056152], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Ide Hill Village Hall, Ide Hill, Kent, TN14 6JG (Wheatsheaf Room)\", \"AreaCode\": \"CI\", \"CustodianCode\": 2245, \"Easting\": 548848.7285, \"Northing\": 151728.3712, \"OBJECTID\": 54, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Ide Hill\", \"Postcode\": \"TN14 6JG\", \"UPRN\": \"010035182530\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.131222933904589, 51.2453117056152], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Ide Hill Village Hall, Ide Hill, Kent, TN14 6JG (Wheatsheaf Room)\", \"AreaCode\": \"CI\", \"CustodianCode\": 2245, \"Easting\": 548848.7285, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 151728.3712, \"OBJECTID\": 54, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Ide Hill\", \"Postcode\": \"TN14 6JG\", \"UPRN\": \"010035182530\"}, \"type\": \"Feature\"}",
         "pk": 54
     },
     {
@@ -814,6 +868,7 @@
         "AreaCode": "CJ",
         "CustodianCode": 2245,
         "Easting": 548050.3297,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 155317.7727,
         "OBJECTID": 55,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -821,22 +876,23 @@
         "Postcode": "TN14 6EJ",
         "UPRN": "100062622046",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.121277656243936, 51.27777285210096], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sundridge Village Hall, Main Road, Sundridge, Kent, TN14 6EJ\", \"AreaCode\": \"CJ\", \"CustodianCode\": 2245, \"Easting\": 548050.3297, \"Northing\": 155317.7727, \"OBJECTID\": 55, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sundridge\", \"Postcode\": \"TN14 6EJ\", \"UPRN\": \"100062622046\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.121277656243936, 51.27777285210096], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sundridge Village Hall, Main Road, Sundridge, Kent, TN14 6EJ\", \"AreaCode\": \"CJ\", \"CustodianCode\": 2245, \"Easting\": 548050.3297, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 155317.7727, \"OBJECTID\": 55, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Sundridge\", \"Postcode\": \"TN14 6EJ\", \"UPRN\": \"100062622046\"}, \"type\": \"Feature\"}",
         "pk": 55
     },
     {
         "Address": "Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN",
         "AreaCode": "CK",
         "CustodianCode": 2245,
-        "Easting": 552178.9998,
-        "Northing": 168531.1033,
+        "Easting": 551844.471,
+        "ElectoralDivision": "Swanley",
+        "Northing": 168411.934,
         "OBJECTID": 56,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Christ Church",
         "Postcode": "BR8 8AN",
         "UPRN": "010013772935",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.18121046054055, 51.39443018116301], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN \", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 552178.9998, \"Northing\": 168531.1033, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AN\", \"UPRN\": \"010013772935\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.18121046054055, 51.39443018116301], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN \", \"AreaCode\": \"CK\", \"CustodianCode\": 2245, \"Easting\": 551844.471, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168411.934, \"OBJECTID\": 56, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Christ Church\", \"Postcode\": \"BR8 8AN\", \"UPRN\": \"010013772935\"}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
@@ -844,6 +900,7 @@
         "AreaCode": "BD",
         "CustodianCode": 2245,
         "Easting": 551791.5384,
+        "ElectoralDivision": "Swanley",
         "Northing": 170225.624,
         "OBJECTID": 57,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -851,7 +908,7 @@
         "Postcode": "BR8 7RH",
         "UPRN": "100062276698",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.181225655176881, 51.41074075379575], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St .Peter's Church, College Road, Hextable, Kent, BR8 7RH\", \"AreaCode\": \"BD\", \"CustodianCode\": 2245, \"Easting\": 551791.5384, \"Northing\": 170225.624, \"OBJECTID\": 57, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Hextable\", \"Postcode\": \"BR8 7RH\", \"UPRN\": \"100062276698\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.181225655176881, 51.41074075379575], \"type\": \"Point\"}, \"properties\": {\"Address\": \"St .Peter's Church, College Road, Hextable, Kent, BR8 7RH\", \"AreaCode\": \"BD\", \"CustodianCode\": 2245, \"Easting\": 551791.5384, \"ElectoralDivision\": \"Swanley\", \"Northing\": 170225.624, \"OBJECTID\": 57, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Hextable\", \"Postcode\": \"BR8 7RH\", \"UPRN\": \"100062276698\"}, \"type\": \"Feature\"}",
         "pk": 57
     },
     {
@@ -859,6 +916,7 @@
         "AreaCode": "CL",
         "CustodianCode": 2245,
         "Easting": 551518.712,
+        "ElectoralDivision": "Swanley",
         "Northing": 168096.4076,
         "OBJECTID": 58,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -866,7 +924,7 @@
         "Postcode": "BR8 8NR",
         "UPRN": "050002001954",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.176397094968096, 51.39168217397254], \"type\": \"Point\"}, \"properties\": {\"Address\": \"High Firs County Primary School, Court Crescent, Swanley, Kent, BR8 8NR\", \"AreaCode\": \"CL\", \"CustodianCode\": 2245, \"Easting\": 551518.712, \"Northing\": 168096.4076, \"OBJECTID\": 58, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"High Firs\", \"Postcode\": \"BR8 8NR\", \"UPRN\": \"050002001954\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.176397094968096, 51.39168217397254], \"type\": \"Point\"}, \"properties\": {\"Address\": \"High Firs County Primary School, Court Crescent, Swanley, Kent, BR8 8NR\", \"AreaCode\": \"CL\", \"CustodianCode\": 2245, \"Easting\": 551518.712, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168096.4076, \"OBJECTID\": 58, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"High Firs\", \"Postcode\": \"BR8 8NR\", \"UPRN\": \"050002001954\"}, \"type\": \"Feature\"}",
         "pk": 58
     },
     {
@@ -874,6 +932,7 @@
         "AreaCode": "CM",
         "CustodianCode": 2245,
         "Easting": 551038.0,
+        "ElectoralDivision": "Swanley",
         "Northing": 168381.0,
         "OBJECTID": 59,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -881,7 +940,7 @@
         "Postcode": "BR8 7BU",
         "UPRN": "050002001647",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.169614094204136, 51.39436729547589], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Swanley Youth And Community Centre, St Marys Road, Swanley, Kent, BR8 7BU\", \"AreaCode\": \"CM\", \"CustodianCode\": 2245, \"Easting\": 551038.0, \"Northing\": 168381.0, \"OBJECTID\": 59, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"St. Mary's\", \"Postcode\": \"BR8 7BU\", \"UPRN\": \"050002001647\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.169614094204136, 51.39436729547589], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Swanley Youth And Community Centre, St Marys Road, Swanley, Kent, BR8 7BU\", \"AreaCode\": \"CM\", \"CustodianCode\": 2245, \"Easting\": 551038.0, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168381.0, \"OBJECTID\": 59, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"St. Mary's\", \"Postcode\": \"BR8 7BU\", \"UPRN\": \"050002001647\"}, \"type\": \"Feature\"}",
         "pk": 59
     },
     {
@@ -889,6 +948,7 @@
         "AreaCode": "CN",
         "CustodianCode": 2245,
         "Easting": 551586.5863,
+        "ElectoralDivision": "Swanley",
         "Northing": 168591.1387,
         "OBJECTID": 60,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -896,7 +956,7 @@
         "Postcode": "BR8 7JQ",
         "UPRN": "100062622159",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.177582985606672, 51.396109242245046], \"type\": \"Point\"}, \"properties\": {\"Address\": \"ACF Centre, Swanley Lane, Swanley, Kent, BR8 7JQ\", \"AreaCode\": \"CN\", \"CustodianCode\": 2245, \"Easting\": 551586.5863, \"Northing\": 168591.1387, \"OBJECTID\": 60, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Lane\", \"Postcode\": \"BR8 7JQ\", \"UPRN\": \"100062622159\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.177582985606672, 51.396109242245046], \"type\": \"Point\"}, \"properties\": {\"Address\": \"ACF Centre, Swanley Lane, Swanley, Kent, BR8 7JQ\", \"AreaCode\": \"CN\", \"CustodianCode\": 2245, \"Easting\": 551586.5863, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168591.1387, \"OBJECTID\": 60, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Lane\", \"Postcode\": \"BR8 7JQ\", \"UPRN\": \"100062622159\"}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
@@ -904,6 +964,7 @@
         "AreaCode": "CO",
         "CustodianCode": 2245,
         "Easting": 553191.6563,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 169528.2138,
         "OBJECTID": 61,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -911,7 +972,7 @@
         "Postcode": "BR8 7NN",
         "UPRN": "100061028648",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.201041537577012, 51.40409837026381], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Lamb Inn, Swanley Village Road, Swanley, Kent, BR8 7NN\", \"AreaCode\": \"CO\", \"CustodianCode\": 2245, \"Easting\": 553191.6563, \"Northing\": 169528.2138, \"OBJECTID\": 61, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Village\", \"Postcode\": \"BR8 7NN\", \"UPRN\": \"100061028648\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.201041537577012, 51.40409837026381], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Lamb Inn, Swanley Village Road, Swanley, Kent, BR8 7NN\", \"AreaCode\": \"CO\", \"CustodianCode\": 2245, \"Easting\": 553191.6563, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 169528.2138, \"OBJECTID\": 61, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Village\", \"Postcode\": \"BR8 7NN\", \"UPRN\": \"100061028648\"}, \"type\": \"Feature\"}",
         "pk": 61
     },
     {
@@ -919,6 +980,7 @@
         "AreaCode": "CP",
         "CustodianCode": 2245,
         "Easting": 550981.8638,
+        "ElectoralDivision": "Swanley",
         "Northing": 169156.2745,
         "OBJECTID": 62,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -926,7 +988,7 @@
         "Postcode": "BR8 7BF",
         "UPRN": "010035185372",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.169137367160518, 51.40134792486372], \"type\": \"Point\"}, \"properties\": {\"Address\": \"White Oak Indoor Bowls Centre (Captain`s Room), Garrolds Close, Swanley, Kent, BR8 7BF\", \"AreaCode\": \"CP\", \"CustodianCode\": 2245, \"Easting\": 550981.8638, \"Northing\": 169156.2745, \"OBJECTID\": 62, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"White Oak\", \"Postcode\": \"BR8 7BF\", \"UPRN\": \"010035185372\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.169137367160518, 51.40134792486372], \"type\": \"Point\"}, \"properties\": {\"Address\": \"White Oak Indoor Bowls Centre (Captain`s Room), Garrolds Close, Swanley, Kent, BR8 7BF\", \"AreaCode\": \"CP\", \"CustodianCode\": 2245, \"Easting\": 550981.8638, \"ElectoralDivision\": \"Swanley\", \"Northing\": 169156.2745, \"OBJECTID\": 62, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"White Oak\", \"Postcode\": \"BR8 7BF\", \"UPRN\": \"010035185372\"}, \"type\": \"Feature\"}",
         "pk": 62
     },
     {
@@ -934,6 +996,7 @@
         "AreaCode": "CQ",
         "CustodianCode": 2245,
         "Easting": 544289.859,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 150714.7071,
         "OBJECTID": 63,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -941,7 +1004,7 @@
         "Postcode": "TN8 6RP",
         "UPRN": "050002018410",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.065545084475059, 51.23737316450876], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Crockham Hill Village Hall, Main Road, Crockham Hill, Kent, TN8 6RP\", \"AreaCode\": \"CQ\", \"CustodianCode\": 2245, \"Easting\": 544289.859, \"Northing\": 150714.7071, \"OBJECTID\": 63, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Crockham Hill\", \"Postcode\": \"TN8 6RP\", \"UPRN\": \"050002018410\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.065545084475059, 51.23737316450876], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Crockham Hill Village Hall, Main Road, Crockham Hill, Kent, TN8 6RP\", \"AreaCode\": \"CQ\", \"CustodianCode\": 2245, \"Easting\": 544289.859, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 150714.7071, \"OBJECTID\": 63, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Crockham Hill\", \"Postcode\": \"TN8 6RP\", \"UPRN\": \"050002018410\"}, \"type\": \"Feature\"}",
         "pk": 63
     },
     {
@@ -949,6 +1012,7 @@
         "AreaCode": "CR",
         "CustodianCode": 2245,
         "Easting": 544756.5088,
+        "ElectoralDivision": "Sevenoaks West",
         "Northing": 154215.2784,
         "OBJECTID": 64,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -956,7 +1020,7 @@
         "Postcode": "TN16 1BJ",
         "UPRN": "050002019867",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.073640224972365, 51.268711415844095], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Village Hall, Quebec Avenue, Westerham, Kent, TN16 1BJ\", \"AreaCode\": \"CR\", \"CustodianCode\": 2245, \"Easting\": 544756.5088, \"Northing\": 154215.2784, \"OBJECTID\": 64, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Westerham\", \"Postcode\": \"TN16 1BJ\", \"UPRN\": \"050002019867\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.073640224972365, 51.268711415844095], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Village Hall, Quebec Avenue, Westerham, Kent, TN16 1BJ\", \"AreaCode\": \"CR\", \"CustodianCode\": 2245, \"Easting\": 544756.5088, \"ElectoralDivision\": \"Sevenoaks West\", \"Northing\": 154215.2784, \"OBJECTID\": 64, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Westerham\", \"Postcode\": \"TN16 1BJ\", \"UPRN\": \"050002019867\"}, \"type\": \"Feature\"}",
         "pk": 64
     },
     {
@@ -964,6 +1028,7 @@
         "AreaCode": "BS",
         "CustodianCode": 2245,
         "Easting": 552754.9062,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156442.5298,
         "OBJECTID": 65,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -971,7 +1036,7 @@
         "Postcode": "TN13 3QG",
         "UPRN": "100062548177",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.189156868188606, 51.286638404007114], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Council Offices, Bradbourne Vale Road, Sevenoaks, Kent, TN13 3QG\", \"AreaCode\": \"BS\", \"CustodianCode\": 2245, \"Easting\": 552754.9062, \"Northing\": 156442.5298, \"OBJECTID\": 65, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bradbourne\", \"Postcode\": \"TN13 3QG\", \"UPRN\": \"100062548177\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.189156868188606, 51.286638404007114], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Sevenoaks Town Council Offices, Bradbourne Vale Road, Sevenoaks, Kent, TN13 3QG\", \"AreaCode\": \"BS\", \"CustodianCode\": 2245, \"Easting\": 552754.9062, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156442.5298, \"OBJECTID\": 65, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Bradbourne\", \"Postcode\": \"TN13 3QG\", \"UPRN\": \"100062548177\"}, \"type\": \"Feature\"}",
         "pk": 65
     },
     {
@@ -979,6 +1044,7 @@
         "AreaCode": "BH",
         "CustodianCode": 2245,
         "Easting": 555593.0,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 158682.0,
         "OBJECTID": 66,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -986,7 +1052,7 @@
         "Postcode": "TN15 6NA",
         "UPRN": "050002019511",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.230797578515135, 51.3059923049847], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BH\", \"CustodianCode\": 2245, \"Easting\": 555593.0, \"Northing\": 158682.0, \"OBJECTID\": 66, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing West\", \"Postcode\": \"TN15 6NA\", \"UPRN\": \"050002019511\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.230797578515135, 51.3059923049847], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Kemsing Parish Council, St Ediths Hall, High Street, Kemsing, Kent, TN15 6NA\", \"AreaCode\": \"BH\", \"CustodianCode\": 2245, \"Easting\": 555593.0, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 158682.0, \"OBJECTID\": 66, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Kemsing West\", \"Postcode\": \"TN15 6NA\", \"UPRN\": \"050002019511\"}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
@@ -994,6 +1060,7 @@
         "AreaCode": "AV",
         "CustodianCode": 2245,
         "Easting": 554148.3607,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 165728.4905,
         "OBJECTID": 67,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1001,7 +1068,7 @@
         "Postcode": "DA4 0AA",
         "UPRN": "100062621576",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.213136964910784, 51.369698064119426], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Eynsford Village Hall, High Street, Eynsford, Kent, DA4 0AA\", \"AreaCode\": \"AV\", \"CustodianCode\": 2245, \"Easting\": 554148.3607, \"Northing\": 165728.4905, \"OBJECTID\": 67, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Eynsford\", \"Postcode\": \"DA4 0AA\", \"UPRN\": \"100062621576\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.213136964910784, 51.369698064119426], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Eynsford Village Hall, High Street, Eynsford, Kent, DA4 0AA\", \"AreaCode\": \"AV\", \"CustodianCode\": 2245, \"Easting\": 554148.3607, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 165728.4905, \"OBJECTID\": 67, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Eynsford\", \"Postcode\": \"DA4 0AA\", \"UPRN\": \"100062621576\"}, \"type\": \"Feature\"}",
         "pk": 67
     },
     {
@@ -1009,6 +1076,7 @@
         "AreaCode": "CS",
         "CustodianCode": 2245,
         "Easting": 556398.4301,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 160649.9523,
         "OBJECTID": 68,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1016,7 +1084,7 @@
         "Postcode": "TN15 6AA",
         "UPRN": "100062550232",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.24320536943817, 51.323453605866284], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, Tinkerpot Lane, West Kingsdown, Kent, TN15 6AA\", \"AreaCode\": \"CS\", \"CustodianCode\": 2245, \"Easting\": 556398.4301, \"Northing\": 160649.9523, \"OBJECTID\": 68, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"East Hill\", \"Postcode\": \"TN15 6AA\", \"UPRN\": \"100062550232\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.24320536943817, 51.323453605866284], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, Tinkerpot Lane, West Kingsdown, Kent, TN15 6AA\", \"AreaCode\": \"CS\", \"CustodianCode\": 2245, \"Easting\": 556398.4301, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 160649.9523, \"OBJECTID\": 68, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"East Hill\", \"Postcode\": \"TN15 6AA\", \"UPRN\": \"100062550232\"}, \"type\": \"Feature\"}",
         "pk": 68
     },
     {
@@ -1024,6 +1092,7 @@
         "AreaCode": "CT",
         "CustodianCode": 2245,
         "Easting": 556398.4301,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 160649.9523,
         "OBJECTID": 69,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1031,7 +1100,7 @@
         "Postcode": "TN15 6AA",
         "UPRN": "100062550232",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.24320536943817, 51.323453605866284], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, Tinkerpot Lane, West Kingsdown, Kent, TN15 6AA\", \"AreaCode\": \"CT\", \"CustodianCode\": 2245, \"Easting\": 556398.4301, \"Northing\": 160649.9523, \"OBJECTID\": 69, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Knatts Valley\", \"Postcode\": \"TN15 6AA\", \"UPRN\": \"100062550232\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.24320536943817, 51.323453605866284], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, Tinkerpot Lane, West Kingsdown, Kent, TN15 6AA\", \"AreaCode\": \"CT\", \"CustodianCode\": 2245, \"Easting\": 556398.4301, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 160649.9523, \"OBJECTID\": 69, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Knatts Valley\", \"Postcode\": \"TN15 6AA\", \"UPRN\": \"100062550232\"}, \"type\": \"Feature\"}",
         "pk": 69
     },
     {
@@ -1039,6 +1108,7 @@
         "AreaCode": "CF",
         "CustodianCode": 2245,
         "Easting": 551776.8418,
+        "ElectoralDivision": "Sevenoaks North & Darent Valley",
         "Northing": 161742.9479,
         "OBJECTID": 70,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1046,7 +1116,7 @@
         "Postcode": "TN14 7TB",
         "UPRN": "050002000016",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.177396055724279, 51.334525636296], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Shoreham Village Hall, 25 High Street, Shoreham, Kent, TN14 7TB\", \"AreaCode\": \"CF\", \"CustodianCode\": 2245, \"Easting\": 551776.8418, \"Northing\": 161742.9479, \"OBJECTID\": 70, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Romney Street\", \"Postcode\": \"TN14 7TB\", \"UPRN\": \"050002000016\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.177396055724279, 51.334525636296], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Shoreham Village Hall, 25 High Street, Shoreham, Kent, TN14 7TB\", \"AreaCode\": \"CF\", \"CustodianCode\": 2245, \"Easting\": 551776.8418, \"ElectoralDivision\": \"Sevenoaks North & Darent Valley\", \"Northing\": 161742.9479, \"OBJECTID\": 70, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Romney Street\", \"Postcode\": \"TN14 7TB\", \"UPRN\": \"050002000016\"}, \"type\": \"Feature\"}",
         "pk": 70
     },
     {
@@ -1054,6 +1124,7 @@
         "AreaCode": "CD",
         "CustodianCode": 2245,
         "Easting": 553197.4236,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156099.9589,
         "OBJECTID": 71,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1061,7 +1132,7 @@
         "Postcode": "TN13 3NU",
         "UPRN": "010035183482",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"CD\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"Northing\": 156099.9589, \"OBJECTID\": 71, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Wildernesse\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"CD\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156099.9589, \"OBJECTID\": 71, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Wildernesse\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
         "pk": 71
     },
     {
@@ -1069,6 +1140,7 @@
         "AreaCode": "BV",
         "CustodianCode": 2245,
         "Easting": 553197.4236,
+        "ElectoralDivision": "Sevenoaks Town",
         "Northing": 156099.9589,
         "OBJECTID": 72,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1076,7 +1148,7 @@
         "Postcode": "TN13 3NU",
         "UPRN": "010035183482",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"BV\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"Northing\": 156099.9589, \"OBJECTID\": 72, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Hillingdon\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.195350617474945, 51.283441589096384], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Church Hall, St. John The Baptist Church, Quakers Hall Lane, Sevenoaks, Kent, TN13 3NU\", \"AreaCode\": \"BV\", \"CustodianCode\": 2245, \"Easting\": 553197.4236, \"ElectoralDivision\": \"Sevenoaks Town\", \"Northing\": 156099.9589, \"OBJECTID\": 72, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Hillingdon\", \"Postcode\": \"TN13 3NU\", \"UPRN\": \"010035183482\"}, \"type\": \"Feature\"}",
         "pk": 72
     },
     {
@@ -1084,6 +1156,7 @@
         "AreaCode": "CU",
         "CustodianCode": 2245,
         "Easting": 557967.6284,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 162340.9126,
         "OBJECTID": 73,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1091,7 +1164,7 @@
         "Postcode": "TN15 6JN",
         "UPRN": "010094317689",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.266456380409167, 51.3382132349289], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Old School, School Lane, West Kingsdown, Kent, TN15 6JN\", \"AreaCode\": \"CU\", \"CustodianCode\": 2245, \"Easting\": 557967.6284, \"Northing\": 162340.9126, \"OBJECTID\": 73, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"West Kingsdown East\", \"Postcode\": \"TN15 6JN\", \"UPRN\": \"010094317689\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.266456380409167, 51.3382132349289], \"type\": \"Point\"}, \"properties\": {\"Address\": \"The Old School, School Lane, West Kingsdown, Kent, TN15 6JN\", \"AreaCode\": \"CU\", \"CustodianCode\": 2245, \"Easting\": 557967.6284, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 162340.9126, \"OBJECTID\": 73, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"West Kingsdown East\", \"Postcode\": \"TN15 6JN\", \"UPRN\": \"010094317689\"}, \"type\": \"Feature\"}",
         "pk": 73
     },
     {
@@ -1099,6 +1172,7 @@
         "AreaCode": "CV",
         "CustodianCode": 2245,
         "Easting": 557481.1867,
+        "ElectoralDivision": "Sevenoaks Rural North East",
         "Northing": 162882.5443,
         "OBJECTID": 74,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
@@ -1106,7 +1180,7 @@
         "Postcode": "TN15 6BZ",
         "UPRN": "010035185608",
         "council_id": "E07000111",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.259718125993689, 51.343214485236935], \"type\": \"Point\"}, \"properties\": {\"Address\": \"West Kingsdown Village Hall, London Road, West Kingsdown, Kent, TN15 6BZ\", \"AreaCode\": \"CV\", \"CustodianCode\": 2245, \"Easting\": 557481.1867, \"Northing\": 162882.5443, \"OBJECTID\": 74, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"West Kingsdown - Hever\", \"Postcode\": \"TN15 6BZ\", \"UPRN\": \"010035185608\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.259718125993689, 51.343214485236935], \"type\": \"Point\"}, \"properties\": {\"Address\": \"West Kingsdown Village Hall, London Road, West Kingsdown, Kent, TN15 6BZ\", \"AreaCode\": \"CV\", \"CustodianCode\": 2245, \"Easting\": 557481.1867, \"ElectoralDivision\": \"Sevenoaks Rural North East\", \"Northing\": 162882.5443, \"OBJECTID\": 74, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"West Kingsdown - Hever\", \"Postcode\": \"TN15 6BZ\", \"UPRN\": \"010035185608\"}, \"type\": \"Feature\"}",
         "pk": 74
     }
 ]
