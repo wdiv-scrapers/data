@@ -104,44 +104,5 @@
     "links": {
         "first": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=gis_pkc&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10",
         "last": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter%5Bowner%5D=gis_pkc&fields%5Bdatasets%5D=name%2Curl&page%5Bnumber%5D=1&page%5Bsize%5D=10"
-    },
-    "meta": {
-        "apiRoot": "https://opendata.arcgis.com/api/v3/",
-        "datasetsMatching": {
-            "both": [
-                "6dac129ea3cb492b961186e316e09690_0",
-                "0d911f5dd4e14c03b0b434ed6076fe00_0"
-            ],
-            "onlyNonSemanticFields": [
-                "909e45688aa646199cad8e8616ddef7a_0"
-            ],
-            "onlySemanticFields": []
-        },
-        "page": {
-            "nextStart": -1,
-            "size": 10,
-            "start": 1
-        },
-        "queryParameters": {
-            "fields": {
-                "datasets": "name,url"
-            },
-            "filter": {
-                "endDate": "eventsBefore(1617945002145)",
-                "isCancelled": "eventsEq(false)",
-                "owner": "gis_pkc",
-                "status": "not(private,draft,planned)"
-            },
-            "q": "polling"
-        },
-        "request": "https://opendata.arcgis.com/api/v3/datasets?q=polling&filter[owner]=gis_pkc&fields[datasets]=name,url",
-        "resourceRoot": "https://opendata.arcgis.com/api/v3/datasets",
-        "stats": {
-            "aggs": {},
-            "count": 3,
-            "totalCount": 3
-        },
-        "took": 1177,
-        "total": 3
     }
 }
