@@ -4,11 +4,11 @@
         "OBJECTID": 1,
         "POLLING_DI": "PGD",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Manor Court, 23 Bagleys Lane",
+        "POLLING__1": "The Wharf Rooms, Imperial Road",
         "POSTCODE": "SW6 2BN",
         "WARD": "PARSONS GREEN AND WALHAM",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.18840892956172, 51.47542325846065], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Manor Court\", \"OBJECTID\": 1, \"POLLING_DI\": \"PGD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Manor Court, 23 Bagleys Lane\", \"POSTCODE\": \"SW6 2BN\", \"WARD\": \"PARSONS GREEN AND WALHAM\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.183942440638579, 51.47455285952295], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Manor Court\", \"OBJECTID\": 1, \"POLLING_DI\": \"PGD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"The Wharf Rooms, Imperial Road\", \"POSTCODE\": \"SW6 2BN\", \"WARD\": \"PARSONS GREEN AND WALHAM\"}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -60,15 +60,15 @@
         "pk": 5
     },
     {
-        "LOCATION": "All Saints Primary School",
+        "LOCATION": "TBAP Academy",
         "OBJECTID": 6,
         "POLLING_DI": "PRB",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "All Saints Primary School, Bishops Avenue",
-        "POSTCODE": "SW6 6ED",
+        "POLLING__1": "TBAP Academy (Formerly Greswell Centre), Greswell Street",
+        "POSTCODE": "SW6 6PX",
         "WARD": "PALACE RIVERSIDE",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.213609875031796, 51.472858601275504], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"All Saints Primary School\", \"OBJECTID\": 6, \"POLLING_DI\": \"PRB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"All Saints Primary School, Bishops Avenue\", \"POSTCODE\": \"SW6 6ED\", \"WARD\": \"PALACE RIVERSIDE\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.218990997648462, 51.47593561601758], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"TBAP Academy\", \"OBJECTID\": 6, \"POLLING_DI\": \"PRB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"TBAP Academy (Formerly Greswell Centre), Greswell Street\", \"POSTCODE\": \"SW6 6PX\", \"WARD\": \"PALACE RIVERSIDE\"}, \"type\": \"Feature\"}",
         "pk": 6
     },
     {
@@ -124,11 +124,11 @@
         "OBJECTID": 11,
         "POLLING_DI": "ABC",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "St Marys Church Hall, Edith Road",
-        "POSTCODE": "W14 9BA",
+        "POLLING__1": "St Marys Church Hall, 147 Hammersmith Road",
+        "POSTCODE": "W14 0QL",
         "WARD": "AVONMORE AND BROOK GREEN",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.214327892503296, 51.49350474049789], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Marys Church Hall\", \"OBJECTID\": 11, \"POLLING_DI\": \"ABC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Marys Church Hall, Edith Road\", \"POSTCODE\": \"W14 9BA\", \"WARD\": \"AVONMORE AND BROOK GREEN\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.214327892503296, 51.49350474049789], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Marys Church Hall\", \"OBJECTID\": 11, \"POLLING_DI\": \"ABC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Marys Church Hall, 147 Hammersmith Road\", \"POSTCODE\": \"W14 0QL\", \"WARD\": \"AVONMORE AND BROOK GREEN\"}, \"type\": \"Feature\"}",
         "pk": 11
     },
     {
@@ -156,15 +156,15 @@
         "pk": 13
     },
     {
-        "LOCATION": "Townmead Youth Centre",
+        "LOCATION": "St Matthew's Church",
         "OBJECTID": 14,
         "POLLING_DI": "SEB",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Townmead Youth Centre, Townmead Road",
+        "POLLING__1": "St Matthew's Church, Wandsworth Bridge Road",
         "POSTCODE": "SW6 2TX",
         "WARD": "SANDS END",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.190396150414385, 51.46889671937713], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Townmead Youth Centre\", \"OBJECTID\": 14, \"POLLING_DI\": \"SEB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Townmead Youth Centre, Townmead Road\", \"POSTCODE\": \"SW6 2TX\", \"WARD\": \"SANDS END\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.190396150414385, 51.46889671937713], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Matthew's Church\", \"OBJECTID\": 14, \"POLLING_DI\": \"SEB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Matthew's Church, Wandsworth Bridge Road\", \"POSTCODE\": \"SW6 2TX\", \"WARD\": \"SANDS END\"}, \"type\": \"Feature\"}",
         "pk": 14
     },
     {
@@ -180,15 +180,15 @@
         "pk": 15
     },
     {
-        "LOCATION": "Opposite 12-20 Cedarne Road",
+        "LOCATION": "Fulham Broadway Methodist Church",
         "OBJECTID": 16,
         "POLLING_DI": "PGC",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Temporary Polling Station, Opposite 12-20 Cedarne Road",
-        "POSTCODE": "SW6 2DF",
+        "POLLING__1": "Fulham Broadway Methodist Church, 452 Fulham Road",
+        "POSTCODE": "SW6 1BY",
         "WARD": "PARSONS GREEN AND WALHAM",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.193893470999499, 51.47965185168215], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Opposite 12-20 Cedarne Road\", \"OBJECTID\": 16, \"POLLING_DI\": \"PGC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Temporary Polling Station, Opposite 12-20 Cedarne Road\", \"POSTCODE\": \"SW6 2DF\", \"WARD\": \"PARSONS GREEN AND WALHAM\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.193889199120614, 51.48036240612683], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Fulham Broadway Methodist Church\", \"OBJECTID\": 16, \"POLLING_DI\": \"PGC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Fulham Broadway Methodist Church, 452 Fulham Road\", \"POSTCODE\": \"SW6 1BY\", \"WARD\": \"PARSONS GREEN AND WALHAM\"}, \"type\": \"Feature\"}",
         "pk": 16
     },
     {
@@ -288,15 +288,15 @@
         "pk": 24
     },
     {
-        "LOCATION": "Wood Lane Community Centre",
+        "LOCATION": "Kathy Dolan Centre",
         "OBJECTID": 25,
         "POLLING_DI": "CPF",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Wood Lane Community Centre, 78 White City Close",
+        "POLLING__1": "Kathy Dolan Centre, 78 White City Close",
         "POSTCODE": "W12 7DZ",
         "WARD": "COLLEGE PARK AND OLD OAK",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.226981465541822, 51.51097162580478], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Wood Lane Community Centre\", \"OBJECTID\": 25, \"POLLING_DI\": \"CPF\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Wood Lane Community Centre, 78 White City Close\", \"POSTCODE\": \"W12 7DZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.226981465541822, 51.51097162580478], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Kathy Dolan Centre\", \"OBJECTID\": 25, \"POLLING_DI\": \"CPF\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Kathy Dolan Centre, 78 White City Close\", \"POSTCODE\": \"W12 7DZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
@@ -344,19 +344,19 @@
         "POSTCODE": "W12 0BZ",
         "WARD": "COLLEGE PARK AND OLD OAK",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.225273182740423, 51.516861034720215], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Brickfields Hall, Off Shinfield Street\", \"OBJECTID\": 29, \"POLLING_DI\": \"CPD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Brickfields Hall, Off Shinfield Street\", \"POSTCODE\": \"W12 0BZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.217996370116903, 51.518434984717], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Brickfields Hall, Off Shinfield Street\", \"OBJECTID\": 29, \"POLLING_DI\": \"CPD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Brickfields Hall, Off Shinfield Street\", \"POSTCODE\": \"W12 0BZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
         "pk": 29
     },
     {
-        "LOCATION": "Bentworth Primary School",
+        "LOCATION": "Brickfields Hall, Off Shinfield Street",
         "OBJECTID": 30,
         "POLLING_DI": "CPE",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Bentworth Primary School, Bentworth Road",
-        "POSTCODE": "W12 7AJ",
+        "POLLING__1": "Brickfields Hall, Off Shinfield Street",
+        "POSTCODE": "W12 0BZ",
         "WARD": "COLLEGE PARK AND OLD OAK",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.23256512996623, 51.51529533308559], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Bentworth Primary School\", \"OBJECTID\": 30, \"POLLING_DI\": \"CPE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Bentworth Primary School, Bentworth Road\", \"POSTCODE\": \"W12 7AJ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.225288806834758, 51.51686974209498], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Brickfields Hall, Off Shinfield Street\", \"OBJECTID\": 30, \"POLLING_DI\": \"CPE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Brickfields Hall, Off Shinfield Street\", \"POSTCODE\": \"W12 0BZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -384,15 +384,15 @@
         "pk": 32
     },
     {
-        "LOCATION": "Corner of Sulgrave Road/Poplar Grove",
+        "LOCATION": "Lena Gardens Primary School",
         "OBJECTID": 33,
         "POLLING_DI": "ADA",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Temporary Polling Station, Corner of Sulgrave Road/Poplar Grove",
-        "POSTCODE": "W6 7RD",
+        "POLLING__1": "Lena Gardens Primary School, Lena Gardens",
+        "POSTCODE": "W6 7PZ",
         "WARD": "ADDISON",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.224750908529967, 51.5013118024386], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Corner of Sulgrave Road/Poplar Grove\", \"OBJECTID\": 33, \"POLLING_DI\": \"ADA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Temporary Polling Station, Corner of Sulgrave Road/Poplar Grove\", \"POSTCODE\": \"W6 7RD\", \"WARD\": \"ADDISON\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.224836268280506, 51.49892899261031], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Lena Gardens Primary School\", \"OBJECTID\": 33, \"POLLING_DI\": \"ADA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Lena Gardens Primary School, Lena Gardens\", \"POSTCODE\": \"W6 7PZ\", \"WARD\": \"ADDISON\"}, \"type\": \"Feature\"}",
         "pk": 33
     },
     {
@@ -432,15 +432,15 @@
         "pk": 36
     },
     {
-        "LOCATION": "North Verbena Gardens",
+        "LOCATION": "Linden House",
         "OBJECTID": 37,
         "POLLING_DI": "RPE",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Temporary Polling Station, North Verbena Gardens",
+        "POLLING__1": "Linden House, 60 Upper Mall",
         "POSTCODE": "W6 9AH",
         "WARD": "RAVENSCOURT PARK",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.242857854627012, 51.49123784790186], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"North Verbena Gardens\", \"OBJECTID\": 37, \"POLLING_DI\": \"RPE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Temporary Polling Station, North Verbena Gardens\", \"POSTCODE\": \"W6 9AH\", \"WARD\": \"RAVENSCOURT PARK\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.238717708371292, 51.4905580040506], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Linden House\", \"OBJECTID\": 37, \"POLLING_DI\": \"RPE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Linden House, 60 Upper Mall\", \"POSTCODE\": \"W6 9AH\", \"WARD\": \"RAVENSCOURT PARK\"}, \"type\": \"Feature\"}",
         "pk": 37
     },
     {
@@ -600,15 +600,15 @@
         "pk": 51
     },
     {
-        "LOCATION": "Fulham High Street",
+        "LOCATION": "All Saints Parish Hall",
         "OBJECTID": 52,
         "POLLING_DI": "PRC",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Temporary Station, Fulham High Street",
-        "POSTCODE": "SW6 3JD",
+        "POLLING__1": "All Saints Parish Hall, 70A Fulham High Street",
+        "POSTCODE": "SW6 3LG",
         "WARD": "PALACE RIVERSIDE",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.21076109434507, 51.468013078133886], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Fulham High Street\", \"OBJECTID\": 52, \"POLLING_DI\": \"PRC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Temporary Station, Fulham High Street\", \"POSTCODE\": \"SW6 3JD\", \"WARD\": \"PALACE RIVERSIDE\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.211282683078665, 51.47017936490538], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"All Saints Parish Hall\", \"OBJECTID\": 52, \"POLLING_DI\": \"PRC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"All Saints Parish Hall, 70A Fulham High Street\", \"POSTCODE\": \"SW6 3LG\", \"WARD\": \"PALACE RIVERSIDE\"}, \"type\": \"Feature\"}",
         "pk": 52
     },
     {
@@ -644,7 +644,7 @@
         "POSTCODE": "",
         "WARD": "SANDS END",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.1839425618791, 51.474535788917336], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Wharf Rooms\", \"OBJECTID\": 55, \"POLLING_DI\": \"SED\", \"POLLING_ST\": \"Polling Station\", \"POLLING__1\": \"The Wharf Rooms, Imperial Road\", \"POSTCODE\": \" \", \"WARD\": \"SANDS END\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.179476251893174, 51.473665217977114], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Wharf Rooms\", \"OBJECTID\": 55, \"POLLING_DI\": \"SED\", \"POLLING_ST\": \"Polling Station\", \"POLLING__1\": \"The Wharf Rooms, Imperial Road\", \"POSTCODE\": \" \", \"WARD\": \"SANDS END\"}, \"type\": \"Feature\"}",
         "pk": 55
     },
     {
@@ -696,15 +696,15 @@
         "pk": 59
     },
     {
-        "LOCATION": "John Betts House, Rylett Road",
+        "LOCATION": "Askew Road Church, Bassein Park Road",
         "OBJECTID": 61,
         "POLLING_DI": "RPA",
         "POLLING_ST": "Polling Stations",
-        "POLLING__1": "John Betts House, Rylett Road",
-        "POSTCODE": "W12 9NJ",
+        "POLLING__1": "Askew Road Church, Bassein Park Road Entrance",
+        "POSTCODE": "W12 9RN",
         "WARD": "RAVENSCOURT PARK",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.243756526786066, 51.49924858769814], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"John Betts House, Rylett Road\", \"OBJECTID\": 61, \"POLLING_DI\": \"RPA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"John Betts House, Rylett Road\", \"POSTCODE\": \"W12 9NJ\", \"WARD\": \"RAVENSCOURT PARK\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.242867510528364, 51.50212482984637], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Askew Road Church, Bassein Park Road\", \"OBJECTID\": 61, \"POLLING_DI\": \"RPA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Askew Road Church, Bassein Park Road Entrance\", \"POSTCODE\": \"W12 9RN\", \"WARD\": \"RAVENSCOURT PARK\"}, \"type\": \"Feature\"}",
         "pk": 61
     }
 ]
