@@ -470,14 +470,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.069306087060842, 53.53905783826], \"type\": \"Point\"}, \"id\": 968, \"properties\": {\"ADDRESS\": \"Charles Court Extra Care Home, Charles Crescent, DN3 2AQ\", \"OBJECTID\": 968, \"POLLINGPLA\": \"Charles Court Extra Care Home, Charles Crescent, DN3 2AQ\", \"POLLING_DI\": \"FF\", \"UPRN\": \"010006618113\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Armthorpe Academy, Mere Lane, DN3 2DA",
+        "ADDRESS": "Our Lady of Sorrows Catholic Voluntary Academy, Mere Lane, DN3 2DB",
         "OBJECTID": 969,
-        "POLLINGPLA": "Armthorpe Academy, Mere Lane, DN3 2DA",
+        "POLLINGPLA": "Our Lady of Sorrows Catholic Voluntary Academy, Mere Lane, DN3 2DB",
         "POLLING_DI": "FA",
-        "UPRN": "100051973231",
+        "UPRN": "010006576359",
         "WARD": "Armthorpe Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0610390022791494, 53.53964940424166], \"type\": \"Point\"}, \"id\": 969, \"properties\": {\"ADDRESS\": \"Armthorpe Academy, Mere Lane, DN3 2DA\", \"OBJECTID\": 969, \"POLLINGPLA\": \"Armthorpe Academy, Mere Lane, DN3 2DA\", \"POLLING_DI\": \"FA\", \"UPRN\": \"100051973231\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0632976352392205, 53.53889655468986], \"type\": \"Point\"}, \"id\": 969, \"properties\": {\"ADDRESS\": \"Our Lady of Sorrows Catholic Voluntary Academy, Mere Lane, DN3 2DB\", \"OBJECTID\": 969, \"POLLINGPLA\": \"Our Lady of Sorrows Catholic Voluntary Academy, Mere Lane, DN3 2DB\", \"POLLING_DI\": \"FA\", \"UPRN\": \"010006576359\", \"WARD\": \"Armthorpe Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Maple Grove Communal Hall, Maple Grove, DN3 2EQ",
@@ -830,14 +830,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1415370841960262, 53.552613559679465], \"type\": \"Point\"}, \"id\": 1005, \"properties\": {\"ADDRESS\": \"New Village Primary School, Asquith Road, Bentley, DN5 0NU\", \"OBJECTID\": 1005, \"POLLINGPLA\": \"New Village Primary School, Asquith Road, Bentley, DN5 0NU\", \"POLLING_DI\": \"ND\", \"UPRN\": \"100052206647\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Arksey Primary School, Ings Way, DN5 0TE",
+        "ADDRESS": "Arksey Communal Hall, Marsh Lane, DN5 0SH",
         "OBJECTID": 1006,
-        "POLLINGPLA": "Arksey Primary School, Ings Way, DN5 0TE",
+        "POLLINGPLA": "Arksey Communal Hall, Marsh Lane, DN5 0SH",
         "POLLING_DI": "NC",
-        "UPRN": "010006573863",
+        "UPRN": "010006573872",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.126345363450845, 53.55246922072353], \"type\": \"Point\"}, \"id\": 1006, \"properties\": {\"ADDRESS\": \"Arksey Primary School, Ings Way, DN5 0TE\", \"OBJECTID\": 1006, \"POLLINGPLA\": \"Arksey Primary School, Ings Way, DN5 0TE\", \"POLLING_DI\": \"NC\", \"UPRN\": \"010006573863\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1272070336103877, 53.55803796300042], \"type\": \"Point\"}, \"id\": 1006, \"properties\": {\"ADDRESS\": \"Arksey Communal Hall, Marsh Lane, DN5 0SH\", \"OBJECTID\": 1006, \"POLLINGPLA\": \"Arksey Communal Hall, Marsh Lane, DN5 0SH\", \"POLLING_DI\": \"NC\", \"UPRN\": \"010006573872\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Helen's Church, Church Lane, Marr, Doncaster, DN5 7AU",
