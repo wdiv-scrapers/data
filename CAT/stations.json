@@ -701,7 +701,7 @@
         "Polling_di": "HB4",
         "Ward": "Beltinge",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.1436871910752249, 51.367181552448876]], \"type\": \"MultiPoint\"}, \"id\": 87, \"properties\": {\"GlobalID\": \"{2A2C49B0-4BBA-4CB6-BED1-AC2512283158}\", \"OBJECTID\": 87, \"Polling_di\": \"HB4\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.141674409683351, 51.367683344489585]], \"type\": \"MultiPoint\"}, \"id\": 87, \"properties\": {\"GlobalID\": \"{2A2C49B0-4BBA-4CB6-BED1-AC2512283158}\", \"OBJECTID\": 87, \"Polling_di\": \"HB4\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{80A3E4DF-5FF2-445F-99E8-C683AAF7FAC6}",
@@ -709,7 +709,7 @@
         "Polling_di": "HB2",
         "Ward": "Beltinge",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.1436871910752249, 51.367181552448876]], \"type\": \"MultiPoint\"}, \"id\": 88, \"properties\": {\"GlobalID\": \"{80A3E4DF-5FF2-445F-99E8-C683AAF7FAC6}\", \"OBJECTID\": 88, \"Polling_di\": \"HB2\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1416856086293181, 51.367683044007556]], \"type\": \"MultiPoint\"}, \"id\": 88, \"properties\": {\"GlobalID\": \"{80A3E4DF-5FF2-445F-99E8-C683AAF7FAC6}\", \"OBJECTID\": 88, \"Polling_di\": \"HB2\", \"Ward\": \"Beltinge\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{3CC62F02-36D8-49E4-A818-CFB4BA66A887}",
@@ -741,7 +741,7 @@
         "Polling_di": "CWI2",
         "Ward": "Wincheap",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0585528394237282, 51.270257521827105]], \"type\": \"MultiPoint\"}, \"id\": 92, \"properties\": {\"GlobalID\": \"{D31B3A1B-ADA2-4F67-B1B9-ECEF011FEC7B}\", \"OBJECTID\": 92, \"Polling_di\": \"CWI2\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.064600446568089, 51.258577087982935]], \"type\": \"MultiPoint\"}, \"id\": 92, \"properties\": {\"GlobalID\": \"{D31B3A1B-ADA2-4F67-B1B9-ECEF011FEC7B}\", \"OBJECTID\": 92, \"Polling_di\": \"CWI2\", \"Ward\": \"Wincheap\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{CDE103A3-B8BE-4E4C-B4A2-9940DC6124C2}",
@@ -750,5 +750,13 @@
         "Ward": "Barton",
         "council_id": "CAT",
         "geometry": "{\"geometry\": {\"coordinates\": [[1.0953152488761784, 51.27812331839345]], \"type\": \"MultiPoint\"}, \"id\": 93, \"properties\": {\"GlobalID\": \"{CDE103A3-B8BE-4E4C-B4A2-9940DC6124C2}\", \"OBJECTID\": 93, \"Polling_di\": \"CB8\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+    },
+    {
+        "GlobalID": "{3930B4A2-1C3A-4E4B-8BC4-447C8D3FBE34}",
+        "OBJECTID": 94,
+        "Polling_di": "HH6",
+        "Ward": "Heron",
+        "council_id": "CAT",
+        "geometry": "{\"geometry\": null, \"id\": 94, \"properties\": {\"GlobalID\": \"{3930B4A2-1C3A-4E4B-8BC4-447C8D3FBE34}\", \"OBJECTID\": 94, \"Polling_di\": \"HH6\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
     }
 ]
