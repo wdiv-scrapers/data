@@ -45,7 +45,7 @@
         "Polling_di": "RBF2",
         "Ward": "Blean Forest",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0697764364525166, 51.29728915469477]], \"type\": \"MultiPoint\"}, \"id\": 5, \"properties\": {\"GlobalID\": \"{42DE3525-871B-43C2-A849-FD56D633EA76}\", \"OBJECTID\": 5, \"Polling_di\": \"RBF2\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0729203333790112, 51.29897808478518]], \"type\": \"MultiPoint\"}, \"id\": 5, \"properties\": {\"GlobalID\": \"{42DE3525-871B-43C2-A849-FD56D633EA76}\", \"OBJECTID\": 5, \"Polling_di\": \"RBF2\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{544E0337-16EB-43EA-B458-3F3DD1D1C407}",
@@ -53,7 +53,7 @@
         "Polling_di": "RBF3",
         "Ward": "Blean Forest",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0697764364525166, 51.29728915469477]], \"type\": \"MultiPoint\"}, \"id\": 6, \"properties\": {\"GlobalID\": \"{544E0337-16EB-43EA-B458-3F3DD1D1C407}\", \"OBJECTID\": 6, \"Polling_di\": \"RBF3\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0729203333790112, 51.29897808478518]], \"type\": \"MultiPoint\"}, \"id\": 6, \"properties\": {\"GlobalID\": \"{544E0337-16EB-43EA-B458-3F3DD1D1C407}\", \"OBJECTID\": 6, \"Polling_di\": \"RBF3\", \"Ward\": \"Blean Forest\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{94E5E82B-C39A-4AEB-A245-7D2E7A31AA44}",
@@ -213,7 +213,7 @@
         "Polling_di": "RSA6",
         "Ward": "Little Stour & Adisham",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.1392898409058014, 51.26032005634722]], \"type\": \"MultiPoint\"}, \"id\": 26, \"properties\": {\"GlobalID\": \"{D7809DEC-9497-4789-B820-C045304EA405}\", \"OBJECTID\": 26, \"Polling_di\": \"RSA6\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.138993676895444, 51.25452581699843]], \"type\": \"MultiPoint\"}, \"id\": 26, \"properties\": {\"GlobalID\": \"{D7809DEC-9497-4789-B820-C045304EA405}\", \"OBJECTID\": 26, \"Polling_di\": \"RSA6\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{AC3325A7-FB96-4474-B3E3-AAC144A67FD3}",
@@ -221,7 +221,7 @@
         "Polling_di": "RSA5",
         "Ward": "Little Stour & Adisham",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.1392898409058014, 51.26032005634722]], \"type\": \"MultiPoint\"}, \"id\": 27, \"properties\": {\"GlobalID\": \"{AC3325A7-FB96-4474-B3E3-AAC144A67FD3}\", \"OBJECTID\": 27, \"Polling_di\": \"RSA5\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.138993676895444, 51.25452581699843]], \"type\": \"MultiPoint\"}, \"id\": 27, \"properties\": {\"GlobalID\": \"{AC3325A7-FB96-4474-B3E3-AAC144A67FD3}\", \"OBJECTID\": 27, \"Polling_di\": \"RSA5\", \"Ward\": \"Little Stour & Adisham\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{18A2956C-9823-4F85-8B68-F07D4A77C78C}",
@@ -413,7 +413,7 @@
         "Polling_di": "HH5",
         "Ward": "Heron",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.1316175875425418, 51.35873384866427]], \"type\": \"MultiPoint\"}, \"id\": 51, \"properties\": {\"GlobalID\": \"{B38D102C-4F30-4C37-AA8A-985189658597}\", \"OBJECTID\": 51, \"Polling_di\": \"HH5\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.1206720002382167, 51.35724019244644]], \"type\": \"MultiPoint\"}, \"id\": 51, \"properties\": {\"GlobalID\": \"{B38D102C-4F30-4C37-AA8A-985189658597}\", \"OBJECTID\": 51, \"Polling_di\": \"HH5\", \"Ward\": \"Heron\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{85B5382A-5613-4E88-8889-FA0C185E70FE}",
@@ -549,7 +549,7 @@
         "Polling_di": "WG2",
         "Ward": "Gorrell",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0280421852033428, 51.35437578890049]], \"type\": \"MultiPoint\"}, \"id\": 68, \"properties\": {\"GlobalID\": \"{F078F8A3-6C7C-4A39-9D60-0F3B03317517}\", \"OBJECTID\": 68, \"Polling_di\": \"WG2\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0286694564283587, 51.35350767183594]], \"type\": \"MultiPoint\"}, \"id\": 68, \"properties\": {\"GlobalID\": \"{F078F8A3-6C7C-4A39-9D60-0F3B03317517}\", \"OBJECTID\": 68, \"Polling_di\": \"WG2\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{F735F814-C28A-4D6B-A6FB-202C28A4C7FF}",
@@ -685,7 +685,7 @@
         "Polling_di": "WG5",
         "Ward": "Gorrell",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0280421852033428, 51.35437578890049]], \"type\": \"MultiPoint\"}, \"id\": 85, \"properties\": {\"GlobalID\": \"{8B703089-4165-45BE-B43D-79FDD8C0ABD5}\", \"OBJECTID\": 85, \"Polling_di\": \"WG5\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.0286694564283587, 51.35350767183594]], \"type\": \"MultiPoint\"}, \"id\": 85, \"properties\": {\"GlobalID\": \"{8B703089-4165-45BE-B43D-79FDD8C0ABD5}\", \"OBJECTID\": 85, \"Polling_di\": \"WG5\", \"Ward\": \"Gorrell\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{9B95CFDD-64B7-4563-989D-B5B3DA8D530D}",
