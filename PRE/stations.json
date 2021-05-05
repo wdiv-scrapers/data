@@ -1,16 +1,16 @@
 [
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.76112116294143, 53.7714062883013, -2.7611204442892, 53.7714070069536], \"geometry\": {\"coordinates\": [-2.76112080361532, 53.7714066476274], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"polling_station_address\": \"Ainsdale Drive, Preston, PR2 1TU\", \"polling_station_name\": \"St Peter And St Pauls Church\", \"polling_station_ref\": \"LL2\", \"uprn\": \"10007607186\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356082.531863837, 441156.773075041, 356082.611863837, 441156.853075041], \"geometry\": {\"coordinates\": [356082.571863837, 441156.813075041], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"polling_station_address\": \"Church Lane, Whitechapel, Preston, PR3 2EP\", \"polling_station_name\": \"St James Church, The Beacon Room\", \"polling_station_ref\": \"RN1\", \"uprn\": \"0\"}, \"type\": \"Feature\"}",
         "pk": 0,
-        "polling_station_address": "Ainsdale Drive, Preston, PR2 1TU",
-        "polling_station_name": "St Peter And St Pauls Church",
-        "polling_station_ref": "LL2",
-        "uprn": "10007607186"
+        "polling_station_address": "Church Lane, Whitechapel, Preston, PR3 2EP",
+        "polling_station_name": "St James Church, The Beacon Room",
+        "polling_station_ref": "RN1",
+        "uprn": "0"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70915272590142, 53.757757472101, -2.70915200724919, 53.7577581907533], \"geometry\": {\"coordinates\": [-2.7091523665753, 53.7577578314271], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"polling_station_address\": \"Fishergate, Preston, PR1 8XB\", \"polling_station_name\": \"County Hall (Fishergate Hill entrance)\", \"polling_station_ref\": \"CC5\", \"uprn\": \"10007610149\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353342.949325628, 429275.965454698, 353343.029325628, 429276.045454698], \"geometry\": {\"coordinates\": [353342.989325628, 429276.005454698], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"polling_station_address\": \"Fishergate, Preston, PR1 8XB\", \"polling_station_name\": \"County Hall (Fishergate Hill entrance)\", \"polling_station_ref\": \"CC5\", \"uprn\": \"10007610149\"}, \"type\": \"Feature\"}",
         "pk": 1,
         "polling_station_address": "Fishergate, Preston, PR1 8XB",
         "polling_station_name": "County Hall (Fishergate Hill entrance)",
@@ -18,8 +18,8 @@
         "uprn": "10007610149"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67815144224147, 53.7616897863382, -2.67815072358924, 53.7616905049904], \"geometry\": {\"coordinates\": [-2.67815108291536, 53.7616901456643], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"polling_station_address\": \"48 Fishwick Parade, Preston, PR1 4XQ\", \"polling_station_name\": \"Sahara in Preston\", \"polling_station_ref\": \"FF2\", \"uprn\": \"100012746806\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355391.042720636, 429693.496573602, 355391.122720636, 429693.576573602], \"geometry\": {\"coordinates\": [355391.082720636, 429693.536573602], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"polling_station_address\": \"48 Fishwick Parade, Preston, PR1 4XQ\", \"polling_station_name\": \"Sahara in Preston\", \"polling_station_ref\": \"FF2\", \"uprn\": \"100012746806\"}, \"type\": \"Feature\"}",
         "pk": 2,
         "polling_station_address": "48 Fishwick Parade, Preston, PR1 4XQ",
         "polling_station_name": "Sahara in Preston",
@@ -27,8 +27,8 @@
         "uprn": "100012746806"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70378959509865, 53.7771765625775, -2.70378887644642, 53.7771772812298], \"geometry\": {\"coordinates\": [-2.70378923577254, 53.7771769219037], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"polling_station_address\": \"Victoria Road, Fulwood, Preston, PR2 8NE\", \"polling_station_name\": \"Christ Church - Church Hall\", \"polling_station_ref\": \"GA3\", \"uprn\": \"10013866885\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353717.949303433, 431432.965429523, 353718.029303433, 431433.045429523], \"geometry\": {\"coordinates\": [353717.989303433, 431433.005429523], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"polling_station_address\": \"Victoria Road, Fulwood, Preston, PR2 8NE\", \"polling_station_name\": \"Christ Church - Church Hall\", \"polling_station_ref\": \"GA3\", \"uprn\": \"10013866885\"}, \"type\": \"Feature\"}",
         "pk": 3,
         "polling_station_address": "Victoria Road, Fulwood, Preston, PR2 8NE",
         "polling_station_name": "Christ Church - Church Hall",
@@ -36,8 +36,8 @@
         "uprn": "10013866885"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.69466280811939, 53.7694101242684, -2.69466208946716, 53.7694108429206], \"geometry\": {\"coordinates\": [-2.69466244879327, 53.7694104835945], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"polling_station_address\": \"189 St Georges Road, Preston, PR1 6NQ\", \"polling_station_name\": \"Preston Quaker Meeting House\", \"polling_station_ref\": \"DE3\", \"uprn\": \"100012747285\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354310.949297573, 430562.965445177, 354311.029297573, 430563.045445177], \"geometry\": {\"coordinates\": [354310.989297573, 430563.005445177], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"polling_station_address\": \"189 St Georges Road, Preston, PR1 6NQ\", \"polling_station_name\": \"Preston Quaker Meeting House\", \"polling_station_ref\": \"DE3\", \"uprn\": \"100012747285\"}, \"type\": \"Feature\"}",
         "pk": 4,
         "polling_station_address": "189 St Georges Road, Preston, PR1 6NQ",
         "polling_station_name": "Preston Quaker Meeting House",
@@ -45,8 +45,8 @@
         "uprn": "100012747285"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.66413061409391, 53.7650939502217, -2.66412989544168, 53.765094668874], \"geometry\": {\"coordinates\": [-2.66413025476779, 53.7650943095478], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"polling_station_address\": \"Fishwick Parade, Preston, PR1 4RG\", \"polling_station_name\": \"Fishwick Primary School (side entrance)\", \"polling_station_ref\": \"FF1\", \"uprn\": \"10007603216\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356318.893126387, 430063.498160112, 356318.973126387, 430063.578160112], \"geometry\": {\"coordinates\": [356318.933126387, 430063.538160112], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"polling_station_address\": \"Fishwick Parade, Preston, PR1 4RG\", \"polling_station_name\": \"Fishwick Primary School (side entrance)\", \"polling_station_ref\": \"FF1\", \"uprn\": \"10007603216\"}, \"type\": \"Feature\"}",
         "pk": 5,
         "polling_station_address": "Fishwick Parade, Preston, PR1 4RG",
         "polling_station_name": "Fishwick Primary School (side entrance)",
@@ -54,8 +54,8 @@
         "uprn": "10007603216"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.65392904371422, 53.7669363875376, -2.65392832506199, 53.7669371061899], \"geometry\": {\"coordinates\": [-2.6539286843881, 53.7669367468637], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"polling_station_address\": \"18-24 Thirlmere Road, Farringdon Park, Preston, PR1 5TR\", \"polling_station_name\": \"Farringdon Park Community Centre\", \"polling_station_ref\": \"RI6\", \"uprn\": \"10013865694\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356993.254903092, 430262.240980532, 356993.334903092, 430262.320980532], \"geometry\": {\"coordinates\": [356993.294903092, 430262.280980532], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"polling_station_address\": \"18-24 Thirlmere Road, Farringdon Park, Preston, PR1 5TR\", \"polling_station_name\": \"Farringdon Park Community Centre\", \"polling_station_ref\": \"RI6\", \"uprn\": \"10013865694\"}, \"type\": \"Feature\"}",
         "pk": 6,
         "polling_station_address": "18-24 Thirlmere Road, Farringdon Park, Preston, PR1 5TR",
         "polling_station_name": "Farringdon Park Community Centre",
@@ -63,8 +63,8 @@
         "uprn": "10013865694"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.76028668477808, 53.7665951756669, -2.76028596612586, 53.7665958943191], \"geometry\": {\"coordinates\": [-2.76028632545197, 53.766595534993], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"polling_station_address\": \"Greavestown Lane, Lea, Preston, PR2 1PD\", \"polling_station_name\": \"Lea Community Primary School\", \"polling_station_ref\": \"LL4\", \"uprn\": \"100012749002\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [349982.218566035, 430294.105903762, 349982.298566034, 430294.185903762], \"geometry\": {\"coordinates\": [349982.258566034, 430294.145903762], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"polling_station_address\": \"Greavestown Lane, Lea, Preston, PR2 1PD\", \"polling_station_name\": \"Lea Community Primary School\", \"polling_station_ref\": \"LL4\", \"uprn\": \"100012749002\"}, \"type\": \"Feature\"}",
         "pk": 7,
         "polling_station_address": "Greavestown Lane, Lea, Preston, PR2 1PD",
         "polling_station_name": "Lea Community Primary School",
@@ -72,480 +72,552 @@
         "uprn": "100012749002"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.79517953119893, 53.7732071494756, -2.7951788125467, 53.7732078681279], \"geometry\": {\"coordinates\": [-2.79517917187282, 53.7732075088018], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"polling_station_address\": \"Darkinson Lane, Lea Town, Preston, PR4 0RJ\", \"polling_station_name\": \"St Marys Catholic Primary School\", \"polling_station_ref\": \"IC4\", \"uprn\": \"100012753365\"}, \"type\": \"Feature\"}",
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355562.389382515, 430535.43627552, 355562.469382515, 430535.51627552], \"geometry\": {\"coordinates\": [355562.429382515, 430535.47627552], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"polling_station_address\": \"Ribbleton Avenue, Preston, PR1 5RU\", \"polling_station_name\": \"Ribbleton Avenue Methodist Church and Community Centre\", \"polling_station_ref\": \"SM1\", \"uprn\": \"10007610568\"}, \"type\": \"Feature\"}",
         "pk": 8,
-        "polling_station_address": "Darkinson Lane, Lea Town, Preston, PR4 0RJ",
-        "polling_station_name": "St Marys Catholic Primary School",
-        "polling_station_ref": "IC4",
-        "uprn": "100012753365"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67567400569874, 53.7692712631376, -2.67567328704652, 53.7692719817899], \"geometry\": {\"coordinates\": [-2.67567364637263, 53.7692716224638], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"polling_station_address\": \"Ribbleton Avenue, Preston, PR1 5RU\", \"polling_station_name\": \"Ribbleton Avenue Methodist Church and Community Centre\", \"polling_station_ref\": \"SM1\", \"uprn\": \"10007610568\"}, \"type\": \"Feature\"}",
-        "pk": 9,
         "polling_station_address": "Ribbleton Avenue, Preston, PR1 5RU",
         "polling_station_name": "Ribbleton Avenue Methodist Church and Community Centre",
         "polling_station_ref": "SM1",
         "uprn": "10007610568"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.75504320476048, 53.7652098347739, -2.75504248610825, 53.7652105534261], \"geometry\": {\"coordinates\": [-2.75504284543436, 53.7652101941], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"polling_station_address\": \"Elswick Road, Ashton, Preston, PR2 1NT\", \"polling_station_name\": \"St Bernards Catholic Club\", \"polling_station_ref\": \"LL3\", \"uprn\": \"10007603748\"}, \"type\": \"Feature\"}",
-        "pk": 10,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [350326.208911457, 430136.288462387, 350326.288911456, 430136.368462387], \"geometry\": {\"coordinates\": [350326.248911457, 430136.328462387], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"polling_station_address\": \"Elswick Road, Ashton, Preston, PR2 1NT\", \"polling_station_name\": \"St Bernards Catholic Club\", \"polling_station_ref\": \"LL3\", \"uprn\": \"10007603748\"}, \"type\": \"Feature\"}",
+        "pk": 9,
         "polling_station_address": "Elswick Road, Ashton, Preston, PR2 1NT",
         "polling_station_name": "St Bernards Catholic Club",
         "polling_station_ref": "LL3",
         "uprn": "10007603748"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.76172271127143, 53.8039237097931, -2.7617219926192, 53.8039244284454], \"geometry\": {\"coordinates\": [-2.76172235194531, 53.8039240691192], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"polling_station_address\": \"Woodplumpton Road, Woodplumpton, Preston, PR4 0NE\", \"polling_station_name\": \"St Annes Church, Parish Room\", \"polling_station_ref\": \"RN4\", \"uprn\": \"10007614742\"}, \"type\": \"Feature\"}",
-        "pk": 11,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [349932.112304215, 434448.194010726, 349932.192304215, 434448.274010726], \"geometry\": {\"coordinates\": [349932.152304215, 434448.234010726], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"polling_station_address\": \"Woodplumpton Road, Woodplumpton, Preston, PR4 0NE\", \"polling_station_name\": \"St Annes Church, Parish Room\", \"polling_station_ref\": \"RN4\", \"uprn\": \"10007614742\"}, \"type\": \"Feature\"}",
+        "pk": 10,
         "polling_station_address": "Woodplumpton Road, Woodplumpton, Preston, PR4 0NE",
         "polling_station_name": "St Annes Church, Parish Room",
         "polling_station_ref": "RN4",
         "uprn": "10007614742"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.68757430495445, 53.7715083883607, -2.68757358630223, 53.7715091070129], \"geometry\": {\"coordinates\": [-2.68757394562834, 53.7715087476868], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"polling_station_address\": \"Lowthorpe Road, Preston, PR1 6SB\", \"polling_station_name\": \"The Players Lounge, Preston North End FC\", \"polling_station_ref\": \"DE2\", \"uprn\": \"10007607834\"}, \"type\": \"Feature\"}",
-        "pk": 12,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354780.42550117, 430791.864770291, 354780.50550117, 430791.944770291], \"geometry\": {\"coordinates\": [354780.46550117, 430791.904770291], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"polling_station_address\": \"Lowthorpe Road, Preston, PR1 6SB\", \"polling_station_name\": \"The Players Lounge, Preston North End FC\", \"polling_station_ref\": \"DE2\", \"uprn\": \"10007607834\"}, \"type\": \"Feature\"}",
+        "pk": 11,
         "polling_station_address": "Lowthorpe Road, Preston, PR1 6SB",
         "polling_station_name": "The Players Lounge, Preston North End FC",
         "polling_station_ref": "DE2",
         "uprn": "10007607834"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70425087757868, 53.7956624447545, -2.70425015892646, 53.7956631634068], \"geometry\": {\"coordinates\": [-2.70425051825257, 53.7956628040807], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"polling_station_address\": \"Meadowfield, Fulwood, Preston, PR2 9RE\", \"polling_station_name\": \"St Peters CE Primary School\", \"polling_station_ref\": \"SG1\", \"uprn\": \"10007608498\"}, \"type\": \"Feature\"}",
-        "pk": 13,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353707.949289613, 433489.9654027, 353708.029289613, 433490.0454027], \"geometry\": {\"coordinates\": [353707.989289613, 433490.0054027], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"polling_station_address\": \"Meadowfield, Fulwood, Preston, PR2 9RE\", \"polling_station_name\": \"St Peters CE Primary School\", \"polling_station_ref\": \"SG1\", \"uprn\": \"10007608498\"}, \"type\": \"Feature\"}",
+        "pk": 12,
         "polling_station_address": "Meadowfield, Fulwood, Preston, PR2 9RE",
         "polling_station_name": "St Peters CE Primary School",
         "polling_station_ref": "SG1",
         "uprn": "10007608498"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70144830905777, 53.7904461744169, -2.70144759040555, 53.7904468930692], \"geometry\": {\"coordinates\": [-2.70144794973166, 53.7904465337431], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"polling_station_address\": \"Sharoe Green Lane, Fulwood, Preston, PR2 9HH\", \"polling_station_name\": \"St Clares Parish Hall\", \"polling_station_ref\": \"SG2\", \"uprn\": \"10090425707\"}, \"type\": \"Feature\"}",
-        "pk": 14,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353886.822772006, 432907.785582774, 353886.902772006, 432907.865582774], \"geometry\": {\"coordinates\": [353886.862772006, 432907.825582774], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"polling_station_address\": \"Sharoe Green Lane, Fulwood, Preston, PR2 9HH\", \"polling_station_name\": \"St Clares Parish Hall\", \"polling_station_ref\": \"SG2\", \"uprn\": \"10090425707\"}, \"type\": \"Feature\"}",
+        "pk": 13,
         "polling_station_address": "Sharoe Green Lane, Fulwood, Preston, PR2 9HH",
         "polling_station_name": "St Clares Parish Hall",
         "polling_station_ref": "SG2",
         "uprn": "10090425707"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.7091116146158, 53.7779318075271, -2.70911089596357, 53.7779325261793], \"geometry\": {\"coordinates\": [-2.70911125528968, 53.7779321668532], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"polling_station_address\": \"Highgate Avenue, Fulwood, Preston, PR2 8EA\", \"polling_station_name\": \"Fulwood Methodist Church - Rear entrance, Sycamore Room\", \"polling_station_ref\": \"SG3\", \"uprn\": \"100012750483\"}, \"type\": \"Feature\"}",
-        "pk": 15,
-        "polling_station_address": "Highgate Avenue, Fulwood, Preston, PR2 8EA",
-        "polling_station_name": "Fulwood Methodist Church - Rear entrance, Sycamore Room",
-        "polling_station_ref": "SG3",
-        "uprn": "100012750483"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67802768599763, 53.7802821809369, -2.6780269673454, 53.7802828995891], \"geometry\": {\"coordinates\": [-2.67802732667151, 53.780282540263], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"polling_station_address\": \"Lucerne Road (entrance via Watling Street Road), Fulwood, Preston, PR2 8FA\", \"polling_station_name\": \"Clifton House\", \"polling_station_ref\": \"GA2\", \"uprn\": \"10013576584\"}, \"type\": \"Feature\"}",
-        "pk": 16,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355418.949267258, 431761.965437812, 355419.029267258, 431762.045437812], \"geometry\": {\"coordinates\": [355418.989267258, 431762.005437812], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"polling_station_address\": \"Lucerne Road (entrance via Watling Street Road), Fulwood, Preston, PR2 8FA\", \"polling_station_name\": \"Clifton House\", \"polling_station_ref\": \"GA2\", \"uprn\": \"10013576584\"}, \"type\": \"Feature\"}",
+        "pk": 14,
         "polling_station_address": "Lucerne Road (entrance via Watling Street Road), Fulwood, Preston, PR2 8FA",
         "polling_station_name": "Clifton House",
         "polling_station_ref": "GA2",
         "uprn": "10013576584"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.75012597731208, 53.7703280491843, -2.75012525865986, 53.7703287678365], \"geometry\": {\"coordinates\": [-2.75012561798597, 53.7703284085104], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"polling_station_address\": \"Aldwych Drive, Ashton Preston, PR2 1SL\", \"polling_station_name\": \"Ashton Community Science College\", \"polling_station_ref\": \"AS1\", \"uprn\": \"100012749015\"}, \"type\": \"Feature\"}",
-        "pk": 17,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [350656.357378979, 430702.290246341, 350656.437378979, 430702.370246341], \"geometry\": {\"coordinates\": [350656.397378979, 430702.330246341], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"polling_station_address\": \"Aldwych Drive, Ashton Preston, PR2 1SL\", \"polling_station_name\": \"Ashton Community Science College\", \"polling_station_ref\": \"AS1\", \"uprn\": \"100012749015\"}, \"type\": \"Feature\"}",
+        "pk": 15,
         "polling_station_address": "Aldwych Drive, Ashton Preston, PR2 1SL",
         "polling_station_name": "Ashton Community Science College",
         "polling_station_ref": "AS1",
         "uprn": "100012749015"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71112315670956, 53.7522899643025, -2.71112243805733, 53.7522906829548], \"geometry\": {\"coordinates\": [-2.71112279738344, 53.7522903236286], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"polling_station_address\": \"South Meadow Lane, Preston, PR1 8JN\", \"polling_station_name\": \"The Community Room, St Stephens CE Primary School\", \"polling_station_ref\": \"CC3\", \"uprn\": \"10007611760\"}, \"type\": \"Feature\"}",
-        "pk": 18,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353206.949332477, 428668.965461537, 353207.029332477, 428669.045461537], \"geometry\": {\"coordinates\": [353206.989332477, 428669.005461537], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"polling_station_address\": \"South Meadow Lane, Preston, PR1 8JN\", \"polling_station_name\": \"The Community Room, St Stephens CE Primary School\", \"polling_station_ref\": \"CC3\", \"uprn\": \"10007611760\"}, \"type\": \"Feature\"}",
+        "pk": 16,
         "polling_station_address": "South Meadow Lane, Preston, PR1 8JN",
         "polling_station_name": "The Community Room, St Stephens CE Primary School",
         "polling_station_ref": "CC3",
         "uprn": "10007611760"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67562025729301, 53.7673978000695, -2.67561953864078, 53.7673985187217], \"geometry\": {\"coordinates\": [-2.67561989796689, 53.7673981593956], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"polling_station_address\": \"Acregate Lane, Preston, PR1 5QQ\", \"polling_station_name\": \"St Matthews Mission\", \"polling_station_ref\": \"SM2\", \"uprn\": \"10002220575\"}, \"type\": \"Feature\"}",
-        "pk": 19,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355563.949274253, 430326.965457486, 355564.029274253, 430327.045457486], \"geometry\": {\"coordinates\": [355563.989274253, 430327.005457486], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"polling_station_address\": \"Acregate Lane, Preston, PR1 5QQ\", \"polling_station_name\": \"St Matthews Mission\", \"polling_station_ref\": \"SM2\", \"uprn\": \"10002220575\"}, \"type\": \"Feature\"}",
+        "pk": 17,
         "polling_station_address": "Acregate Lane, Preston, PR1 5QQ",
         "polling_station_name": "St Matthews Mission",
         "polling_station_ref": "SM2",
         "uprn": "10002220575"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.68938508294585, 53.7537922100086, -2.68938436429362, 53.7537929286608], \"geometry\": {\"coordinates\": [-2.68938472361974, 53.7537925693347], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"polling_station_address\": \"Frenchwood Knoll, Preston, PR1 4LE\", \"polling_station_name\": \"Nursery Unit, Frenchwood CP School\", \"polling_station_ref\": \"FF4\", \"uprn\": \"100012746767\"}, \"type\": \"Feature\"}",
-        "pk": 20,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354641.949302951, 428821.965470134, 354642.029302951, 428822.045470134], \"geometry\": {\"coordinates\": [354641.989302951, 428822.005470134], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"polling_station_address\": \"Frenchwood Knoll, Preston, PR1 4LE\", \"polling_station_name\": \"Nursery Unit, Frenchwood CP School\", \"polling_station_ref\": \"FF4\", \"uprn\": \"100012746767\"}, \"type\": \"Feature\"}",
+        "pk": 18,
         "polling_station_address": "Frenchwood Knoll, Preston, PR1 4LE",
         "polling_station_name": "Nursery Unit, Frenchwood CP School",
         "polling_station_ref": "FF4",
         "uprn": "100012746767"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.68839135029817, 53.7514520096099, -2.68839063164594, 53.7514527282621], \"geometry\": {\"coordinates\": [-2.68839099097205, 53.751452368936], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"polling_station_address\": \"Lawrence Avenue, Preston, PR1 4LX\", \"polling_station_name\": \"Christ The King Catholic High School\", \"polling_station_ref\": \"FF3\", \"uprn\": \"100012746611\"}, \"type\": \"Feature\"}",
-        "pk": 21,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354704.949303498, 428560.965473967, 354705.029303498, 428561.045473967], \"geometry\": {\"coordinates\": [354704.989303498, 428561.005473967], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"polling_station_address\": \"Lawrence Avenue, Preston, PR1 4LX\", \"polling_station_name\": \"Christ The King Catholic High School\", \"polling_station_ref\": \"FF3\", \"uprn\": \"100012746611\"}, \"type\": \"Feature\"}",
+        "pk": 19,
         "polling_station_address": "Lawrence Avenue, Preston, PR1 4LX",
         "polling_station_name": "Christ The King Catholic High School",
         "polling_station_ref": "FF3",
         "uprn": "100012746611"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71226988586881, 53.7689742001025, -2.71226916721658, 53.7689749187547], \"geometry\": {\"coordinates\": [-2.7122695265427, 53.7689745594286], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"polling_station_address\": \"Brook Street, Preston, PR1 7NB\", \"polling_station_name\": \"Plungington Community Centre\", \"polling_station_ref\": \"PL4\", \"uprn\": \"100012747862\"}, \"type\": \"Feature\"}",
-        "pk": 22,
-        "polling_station_address": "Brook Street, Preston, PR1 7NB",
-        "polling_station_name": "Plungington Community Centre",
-        "polling_station_ref": "PL4",
-        "uprn": "100012747862"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71320499069966, 53.7918626928565, -2.71320427204744, 53.7918634115087], \"geometry\": {\"coordinates\": [-2.71320463137355, 53.7918630521826], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"polling_station_address\": \"294 Garstang Road, Fulwood, Preston, PR2 9RX\", \"polling_station_name\": \"Fulwood Library\", \"polling_station_ref\": \"SG5\", \"uprn\": \"100012750621\"}, \"type\": \"Feature\"}",
-        "pk": 23,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353113.889791056, 433073.103355771, 353113.969791056, 433073.183355771], \"geometry\": {\"coordinates\": [353113.929791056, 433073.143355771], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"polling_station_address\": \"294 Garstang Road, Fulwood, Preston, PR2 9RX\", \"polling_station_name\": \"Fulwood Library\", \"polling_station_ref\": \"SG5\", \"uprn\": \"100012750621\"}, \"type\": \"Feature\"}",
+        "pk": 20,
         "polling_station_address": "294 Garstang Road, Fulwood, Preston, PR2 9RX",
         "polling_station_name": "Fulwood Library",
         "polling_station_ref": "SG5",
         "uprn": "100012750621"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.66519907998428, 53.7831426327049, -2.66519836133205, 53.7831433513571], \"geometry\": {\"coordinates\": [-2.66519872065817, 53.783142992031], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"polling_station_address\": \"454 Watling Street Road, Ribbleton, Preston, PR2 6UA\", \"polling_station_name\": \"Ascension Church and Community Centre\", \"polling_station_ref\": \"BR1\", \"uprn\": \"200001037639\"}, \"type\": \"Feature\"}",
-        "pk": 24,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356267.26987728, 432072.214872942, 356267.34987728, 432072.294872942], \"geometry\": {\"coordinates\": [356267.30987728, 432072.254872942], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"polling_station_address\": \"454 Watling Street Road, Ribbleton, Preston, PR2 6UA\", \"polling_station_name\": \"Ascension Church and Community Centre\", \"polling_station_ref\": \"BR1\", \"uprn\": \"200001037639\"}, \"type\": \"Feature\"}",
+        "pk": 21,
         "polling_station_address": "454 Watling Street Road, Ribbleton, Preston, PR2 6UA",
         "polling_station_name": "Ascension Church and Community Centre",
         "polling_station_ref": "BR1",
         "uprn": "200001037639"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.66556909597674, 53.7764871258068, -2.66556837732451, 53.776487844459], \"geometry\": {\"coordinates\": [-2.66556873665063, 53.7764874851329], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"polling_station_address\": \"Dawnay Road, Preston, PR2 6BB\", \"polling_station_name\": \"Greenlands CP School\", \"polling_station_ref\": \"BR3\", \"uprn\": \"10007613063\"}, \"type\": \"Feature\"}",
-        "pk": 25,
-        "polling_station_address": "Dawnay Road, Preston, PR2 6BB",
-        "polling_station_name": "Greenlands CP School",
-        "polling_station_ref": "BR3",
-        "uprn": "10007613063"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.65838150632291, 53.7832362014235, -2.65838078767068, 53.7832369200758], \"geometry\": {\"coordinates\": [-2.6583811469968, 53.7832365607497], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"polling_station_address\": \"Gamull Lane, Ribbleton, Preston, PR2 6SJ\", \"polling_station_name\": \"St Maria Goretti Community Centre\", \"polling_station_ref\": \"BR2\", \"uprn\": \"10090425983\"}, \"type\": \"Feature\"}",
-        "pk": 26,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356716.57931995, 432078.436654962, 356716.65931995, 432078.516654962], \"geometry\": {\"coordinates\": [356716.61931995, 432078.476654962], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"polling_station_address\": \"Gamull Lane, Ribbleton, Preston, PR2 6SJ\", \"polling_station_name\": \"St Maria Goretti Community Centre\", \"polling_station_ref\": \"BR2\", \"uprn\": \"10090425983\"}, \"type\": \"Feature\"}",
+        "pk": 22,
         "polling_station_address": "Gamull Lane, Ribbleton, Preston, PR2 6SJ",
         "polling_station_name": "St Maria Goretti Community Centre",
         "polling_station_ref": "BR2",
         "uprn": "10090425983"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.7200766810209, 53.7809986431849, -2.72007596236867, 53.7809993618371], \"geometry\": {\"coordinates\": [-2.72007632169478, 53.780999002511], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"polling_station_address\": \"Cadley Causeway, Fulwood, Preston, PR2 3QT\", \"polling_station_name\": \"Fulwood And Cadley Primary School\", \"polling_station_ref\": \"GR3\", \"uprn\": \"10007601876\"}, \"type\": \"Feature\"}",
-        "pk": 27,
-        "polling_station_address": "Cadley Causeway, Fulwood, Preston, PR2 3QT",
-        "polling_station_name": "Fulwood And Cadley Primary School",
-        "polling_station_ref": "GR3",
-        "uprn": "10007601876"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70086756815537, 53.7886026531624, -2.70086684950314, 53.7886033718147], \"geometry\": {\"coordinates\": [-2.70086720882925, 53.7886030124885], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"polling_station_address\": \"169 Sharoe Green Lane, Fulwood, Preston, PR2 8HE\", \"polling_station_name\": \"Xavarian Mission Spirituality Centre (formerly Tabor Retreat)\", \"polling_station_ref\": \"SG4\", \"uprn\": \"10007611313\"}, \"type\": \"Feature\"}",
-        "pk": 28,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353923.056748252, 432702.301349492, 353923.136748252, 432702.381349492], \"geometry\": {\"coordinates\": [353923.096748252, 432702.341349492], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"polling_station_address\": \"169 Sharoe Green Lane, Fulwood, Preston, PR2 8HE\", \"polling_station_name\": \"Xavarian Mission Spirituality Centre (formerly Tabor Retreat)\", \"polling_station_ref\": \"SG4\", \"uprn\": \"10007611313\"}, \"type\": \"Feature\"}",
+        "pk": 23,
         "polling_station_address": "169 Sharoe Green Lane, Fulwood, Preston, PR2 8HE",
         "polling_station_name": "Xavarian Mission Spirituality Centre (formerly Tabor Retreat)",
         "polling_station_ref": "SG4",
         "uprn": "10007611313"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.69148217710352, 53.7811285774133, -2.69148145845129, 53.7811292960655], \"geometry\": {\"coordinates\": [-2.69148181777741, 53.7811289367394], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"polling_station_address\": \"Fulwood Hall Lane, Fulwood, Preston, PR2 8DA\", \"polling_station_name\": \"The Lonsdale Club\", \"polling_station_ref\": \"GA4\", \"uprn\": \"100012750180\"}, \"type\": \"Feature\"}",
-        "pk": 29,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354533.284961165, 431864.686571732, 354533.364961165, 431864.766571732], \"geometry\": {\"coordinates\": [354533.324961165, 431864.726571732], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"polling_station_address\": \"Fulwood Hall Lane, Fulwood, Preston, PR2 8DA\", \"polling_station_name\": \"The Lonsdale Club\", \"polling_station_ref\": \"GA4\", \"uprn\": \"100012750180\"}, \"type\": \"Feature\"}",
+        "pk": 24,
         "polling_station_address": "Fulwood Hall Lane, Fulwood, Preston, PR2 8DA",
         "polling_station_name": "The Lonsdale Club",
         "polling_station_ref": "GA4",
         "uprn": "100012750180"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.73197449061787, 53.7931953920609, -2.73197377196565, 53.7931961107131], \"geometry\": {\"coordinates\": [-2.73197413129176, 53.793195751387], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"polling_station_address\": \"Wychnor, Fulwood, Preston, PR2 7EE\", \"polling_station_name\": \"Harris Primary School\", \"polling_station_ref\": \"CA2\", \"uprn\": \"100010577713\"}, \"type\": \"Feature\"}",
-        "pk": 30,
-        "polling_station_address": "Wychnor, Fulwood, Preston, PR2 7EE",
-        "polling_station_name": "Harris Primary School",
-        "polling_station_ref": "CA2",
-        "uprn": "100010577713"
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [347690.464142556, 431054.928112185, 347690.544142556, 431055.008112185], \"geometry\": {\"coordinates\": [347690.504142556, 431054.968112185], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"polling_station_address\": \"Darkinson Lane, Lea Town, Preston, PR4 0RJ\", \"polling_station_name\": \"St Marys Church Annexe\", \"polling_station_ref\": \"IC4\", \"uprn\": \"10007602884\"}, \"type\": \"Feature\"}",
+        "pk": 25,
+        "polling_station_address": "Darkinson Lane, Lea Town, Preston, PR4 0RJ",
+        "polling_station_name": "St Marys Church Annexe",
+        "polling_station_ref": "IC4",
+        "uprn": "10007602884"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71678752795062, 53.7955029521684, -2.71678680929839, 53.7955036708206], \"geometry\": {\"coordinates\": [-2.71678716862451, 53.7955033114945], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"polling_station_address\": \"Marlborough Drive, Fulwood, Preston, PR2 9UE\", \"polling_station_name\": \"Our Lady And St Edwards Parish Centre\", \"polling_station_ref\": \"GR1\", \"uprn\": \"10090425985\"}, \"type\": \"Feature\"}",
-        "pk": 31,
-        "polling_station_address": "Marlborough Drive, Fulwood, Preston, PR2 9UE",
-        "polling_station_name": "Our Lady And St Edwards Parish Centre",
-        "polling_station_ref": "GR1",
-        "uprn": "10090425985"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.74445888589792, 53.7871870083214, -2.7444581672457, 53.7871877269736], \"geometry\": {\"coordinates\": [-2.74445852657181, 53.7871873676475], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"polling_station_address\": \"Kidsgrove, Ingol, Preston, PR2 7BX\", \"polling_station_name\": \"Tanterton Village Centre\", \"polling_station_ref\": \"IC1\", \"uprn\": \"10002220569\"}, \"type\": \"Feature\"}",
-        "pk": 32,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351049.539192648, 432574.041566925, 351049.619192647, 432574.121566925], \"geometry\": {\"coordinates\": [351049.579192647, 432574.081566925], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"polling_station_address\": \"Kidsgrove, Ingol, Preston, PR2 7BX\", \"polling_station_name\": \"Tanterton Village Centre\", \"polling_station_ref\": \"IC1\", \"uprn\": \"10002220569\"}, \"type\": \"Feature\"}",
+        "pk": 26,
         "polling_station_address": "Kidsgrove, Ingol, Preston, PR2 7BX",
         "polling_station_name": "Tanterton Village Centre",
         "polling_station_ref": "IC1",
         "uprn": "10002220569"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.74247292478992, 53.780864742579, -2.7424722061377, 53.7808654612312], \"geometry\": {\"coordinates\": [-2.74247256546381, 53.7808651019051], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"polling_station_address\": \"Tag Lane, Ingol, Preston, PR2 3ZU\", \"polling_station_name\": \"St Margarets Church Hall\", \"polling_station_ref\": \"IC2\", \"uprn\": \"10090425708\"}, \"type\": \"Feature\"}",
-        "pk": 33,
-        "polling_station_address": "Tag Lane, Ingol, Preston, PR2 3ZU",
-        "polling_station_name": "St Margarets Church Hall",
-        "polling_station_ref": "IC2",
-        "uprn": "10090425708"
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [349932.949382853, 430829.96540952, 349933.029382853, 430830.04540952], \"geometry\": {\"coordinates\": [349932.989382853, 430830.00540952], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"polling_station_address\": \"Ainsdale Drive, Preston, PR2 1TU\", \"polling_station_name\": \"St Peter And St Pauls Church\", \"polling_station_ref\": \"LL1, LL2\", \"uprn\": \"10007607186\"}, \"type\": \"Feature\"}",
+        "pk": 27,
+        "polling_station_address": "Ainsdale Drive, Preston, PR2 1TU",
+        "polling_station_name": "St Peter And St Pauls Church",
+        "polling_station_ref": "LL1, LL2",
+        "uprn": "10007607186"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.76143859528419, 53.7831099637267, -2.76143787663197, 53.7831106823789], \"geometry\": {\"coordinates\": [-2.76143823595808, 53.7831103230528], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"polling_station_address\": \"Haydocks Lane, Cottam, Preston, PR4 0NY\", \"polling_station_name\": \"Cottam Community Centre\", \"polling_station_ref\": \"IC3\", \"uprn\": \"10007606203\"}, \"type\": \"Feature\"}",
-        "pk": 34,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [349925.989330886, 432132.307822641, 349926.069330886, 432132.387822641], \"geometry\": {\"coordinates\": [349926.029330886, 432132.347822641], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"polling_station_address\": \"Haydocks Lane, Cottam, Preston, PR4 0NY\", \"polling_station_name\": \"Cottam Community Centre\", \"polling_station_ref\": \"IC3\", \"uprn\": \"10007606203\"}, \"type\": \"Feature\"}",
+        "pk": 28,
         "polling_station_address": "Haydocks Lane, Cottam, Preston, PR4 0NY",
         "polling_station_name": "Cottam Community Centre",
         "polling_station_ref": "IC3",
         "uprn": "10007606203"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.70918790778218, 53.7754668646354, -2.70918718912995, 53.7754675832876], \"geometry\": {\"coordinates\": [-2.70918754845606, 53.7754672239615], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"polling_station_address\": \"Symonds Road, Fulwood, Preston, PR2 3BL\", \"polling_station_name\": \"Fulwood United Reformed Church\", \"polling_station_ref\": \"PL1\", \"uprn\": \"10007612649\"}, \"type\": \"Feature\"}",
-        "pk": 35,
-        "polling_station_address": "Symonds Road, Fulwood, Preston, PR2 3BL",
-        "polling_station_name": "Fulwood United Reformed Church",
-        "polling_station_ref": "PL1",
-        "uprn": "10007612649"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.65337952562256, 53.7810752292496, -2.65337880697033, 53.7810759479019], \"geometry\": {\"coordinates\": [-2.65337916629645, 53.7810755885757], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"polling_station_address\": \"Grange Avenue, Ribbleton, Preston, PR2 6PS\", \"polling_station_name\": \"Grange County Primary School, The Meeting Room\", \"polling_station_ref\": \"RI2\", \"uprn\": \"100012750125\"}, \"type\": \"Feature\"}",
-        "pk": 36,
-        "polling_station_address": "Grange Avenue, Ribbleton, Preston, PR2 6PS",
-        "polling_station_name": "Grange County Primary School, The Meeting Room",
-        "polling_station_ref": "RI2",
-        "uprn": "100012750125"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.6509846037693, 53.7752864389699, -2.65098388511707, 53.7752871576221], \"geometry\": {\"coordinates\": [-2.65098424444319, 53.775286798296], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"polling_station_address\": \"Ribbleton Hall Drive, Preston, PR2 6EE\", \"polling_station_name\": \"Moor Nook Primary School\", \"polling_station_ref\": \"RI3\", \"uprn\": \"100012750131\"}, \"type\": \"Feature\"}",
-        "pk": 37,
-        "polling_station_address": "Ribbleton Hall Drive, Preston, PR2 6EE",
-        "polling_station_name": "Moor Nook Primary School",
-        "polling_station_ref": "RI3",
-        "uprn": "100012750131"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.74396250805447, 53.7594788527625, -2.74396178940224, 53.7594795714147], \"geometry\": {\"coordinates\": [-2.74396214872835, 53.7594792120886], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"polling_station_address\": \"Navigation Way, Ashton, Preston, PR2 2YP\", \"polling_station_name\": \"Riversway Control Centre (Adjacent to the Swing Bridge)\", \"polling_station_ref\": \"AS6\", \"uprn\": \"10007610784\"}, \"type\": \"Feature\"}",
-        "pk": 38,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351049.949369686, 429490.965435062, 351050.029369686, 429491.045435062], \"geometry\": {\"coordinates\": [351049.989369686, 429491.005435062], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"polling_station_address\": \"Navigation Way, Ashton, Preston, PR2 2YP\", \"polling_station_name\": \"Riversway Control Centre (Adjacent to the Swing Bridge)\", \"polling_station_ref\": \"AS6\", \"uprn\": \"10007610784\"}, \"type\": \"Feature\"}",
+        "pk": 29,
         "polling_station_address": "Navigation Way, Ashton, Preston, PR2 2YP",
         "polling_station_name": "Riversway Control Centre (Adjacent to the Swing Bridge)",
         "polling_station_ref": "AS6",
         "uprn": "10007610784"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71522158728554, 53.7525082492925, -2.71522086863331, 53.7525089679448], \"geometry\": {\"coordinates\": [-2.71522122795943, 53.7525086086187], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"polling_station_address\": \"Bird Street, Broadgate, Preston, PR1 8DY\", \"polling_station_name\": \"St Stephens Parish Centre\", \"polling_station_ref\": \"CC4\", \"uprn\": \"10013866450\"}, \"type\": \"Feature\"}",
-        "pk": 39,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352936.949337648, 428695.965459202, 352937.029337648, 428696.045459202], \"geometry\": {\"coordinates\": [352936.989337648, 428696.005459202], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"polling_station_address\": \"Bird Street, Broadgate, Preston, PR1 8DY\", \"polling_station_name\": \"St Stephens Parish Centre\", \"polling_station_ref\": \"CC4\", \"uprn\": \"10013866450\"}, \"type\": \"Feature\"}",
+        "pk": 30,
         "polling_station_address": "Bird Street, Broadgate, Preston, PR1 8DY",
         "polling_station_name": "St Stephens Parish Centre",
         "polling_station_ref": "CC4",
         "uprn": "10013866450"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.69165884928159, 53.7647986000259, -2.69165813062936, 53.7647993186781], \"geometry\": {\"coordinates\": [-2.69165848995548, 53.764798959352], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"polling_station_address\": \"Deepdale Enclosure, Deepdale Road, Preston, PR1 5AR\", \"polling_station_name\": \"Catherine Beckett Community Centre\", \"polling_station_ref\": \"SM4\", \"uprn\": \"100012746809\"}, \"type\": \"Feature\"}",
-        "pk": 40,
-        "polling_station_address": "Deepdale Enclosure, Deepdale Road, Preston, PR1 5AR",
-        "polling_station_name": "Catherine Beckett Community Centre",
-        "polling_station_ref": "SM4",
-        "uprn": "100012746809"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.69828312102048, 53.7591432293324, -2.69828240236825, 53.7591439479847], \"geometry\": {\"coordinates\": [-2.69828276169436, 53.7591435886586], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"polling_station_address\": \"Market Square, Preston, PR1 2PP\", \"polling_station_name\": \"Harris Library Museum and Art Gallery - Education Room\", \"polling_station_ref\": \"CC2\", \"uprn\": \"100010577675\"}, \"type\": \"Feature\"}",
-        "pk": 41,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354061.09815259, 429423.038310588, 354061.17815259, 429423.118310588], \"geometry\": {\"coordinates\": [354061.13815259, 429423.078310588], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"polling_station_address\": \"Market Square, Preston, PR1 2PP\", \"polling_station_name\": \"Harris Library Museum and Art Gallery - Education Room\", \"polling_station_ref\": \"CC2\", \"uprn\": \"100010577675\"}, \"type\": \"Feature\"}",
+        "pk": 31,
         "polling_station_address": "Market Square, Preston, PR1 2PP",
         "polling_station_name": "Harris Library Museum and Art Gallery - Education Room",
         "polling_station_ref": "CC2",
         "uprn": "100010577675"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.69420932522163, 53.7566017307211, -2.6942086065694, 53.7566024493733], \"geometry\": {\"coordinates\": [-2.69420896589551, 53.7566020900472], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"polling_station_address\": \"Knowsley Street, off Avenham Lane, Preston, PR1 3SA\", \"polling_station_name\": \"St James Church\", \"polling_station_ref\": \"FF5\", \"uprn\": \"10007611855\"}, \"type\": \"Feature\"}",
-        "pk": 42,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354326.911453006, 429137.644244795, 354326.991453006, 429137.724244795], \"geometry\": {\"coordinates\": [354326.951453006, 429137.684244795], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"polling_station_address\": \"Knowsley Street, off Avenham Lane, Preston, PR1 3SA\", \"polling_station_name\": \"St James Church\", \"polling_station_ref\": \"FF5\", \"uprn\": \"10007611855\"}, \"type\": \"Feature\"}",
+        "pk": 32,
         "polling_station_address": "Knowsley Street, off Avenham Lane, Preston, PR1 3SA",
         "polling_station_name": "St James Church",
         "polling_station_ref": "FF5",
         "uprn": "10007611855"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71874898177123, 53.7761260449297, -2.718748263119, 53.776126763582], \"geometry\": {\"coordinates\": [-2.71874862244511, 53.7761264042559], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"polling_station_address\": \"Lytham Road, Fulwood, Preston, PR2 3AR\", \"polling_station_name\": \"St Cuthberts Church\", \"polling_station_ref\": \"CA6\", \"uprn\": \"10007607892\"}, \"type\": \"Feature\"}",
-        "pk": 43,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352730.949323827, 431325.965423639, 352731.029323827, 431326.045423639], \"geometry\": {\"coordinates\": [352730.989323827, 431326.005423639], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"polling_station_address\": \"Lytham Road, Fulwood, Preston, PR2 3AR\", \"polling_station_name\": \"St Cuthberts Church\", \"polling_station_ref\": \"CA6\", \"uprn\": \"10007607892\"}, \"type\": \"Feature\"}",
+        "pk": 33,
         "polling_station_address": "Lytham Road, Fulwood, Preston, PR2 3AR",
         "polling_station_name": "St Cuthberts Church",
         "polling_station_ref": "CA6",
         "uprn": "10007607892"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71587476054948, 53.7632721938598, -2.71587404189726, 53.763272912512], \"geometry\": {\"coordinates\": [-2.71587440122337, 53.7632725531859], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"polling_station_address\": \"Weston Street, Preston, PR2 2QE\", \"polling_station_name\": \"St Walburges Parish Centre\", \"polling_station_ref\": \"CC1\", \"uprn\": \"10007614279\"}, \"type\": \"Feature\"}",
-        "pk": 44,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352905.94933009, 429893.965443487, 352906.02933009, 429894.045443487], \"geometry\": {\"coordinates\": [352905.98933009, 429894.005443487], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"polling_station_address\": \"Weston Street, Preston, PR2 2QE\", \"polling_station_name\": \"St Walburges Parish Centre\", \"polling_station_ref\": \"CC1\", \"uprn\": \"10007614279\"}, \"type\": \"Feature\"}",
+        "pk": 34,
         "polling_station_address": "Weston Street, Preston, PR2 2QE",
         "polling_station_name": "St Walburges Parish Centre",
         "polling_station_ref": "CC1",
         "uprn": "10007614279"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.73655903577966, 53.7689352243431, -2.73655831712743, 53.7689359429953], \"geometry\": {\"coordinates\": [-2.73655867645355, 53.7689355836692], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"polling_station_address\": \"Tulketh Road, Preston, PR2 1ER\", \"polling_station_name\": \"St Andrews Church Hall\", \"polling_station_ref\": \"AS2\", \"uprn\": \"10007613268\"}, \"type\": \"Feature\"}",
-        "pk": 45,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351548.949352692, 430537.965425166, 351549.029352692, 430538.045425166], \"geometry\": {\"coordinates\": [351548.989352692, 430538.005425166], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"polling_station_address\": \"Tulketh Road, Preston, PR2 1ER\", \"polling_station_name\": \"St Andrews Church Hall\", \"polling_station_ref\": \"AS2\", \"uprn\": \"10007613268\"}, \"type\": \"Feature\"}",
+        "pk": 35,
         "polling_station_address": "Tulketh Road, Preston, PR2 1ER",
         "polling_station_name": "St Andrews Church Hall",
         "polling_station_ref": "AS2",
         "uprn": "10007613268"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.7272817396125, 53.765872991274, -2.72728102096027, 53.7658737099262], \"geometry\": {\"coordinates\": [-2.72728138028639, 53.7658733506001], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"polling_station_address\": \"Wellington Road, Ashton, Preston, PR2 1BU\", \"polling_station_name\": \"Ashton Methodist Church\", \"polling_station_ref\": \"AS4\", \"uprn\": \"100012749009\"}, \"type\": \"Feature\"}",
-        "pk": 46,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352156.949342957, 430190.965434131, 352157.029342957, 430191.045434131], \"geometry\": {\"coordinates\": [352156.989342957, 430191.005434131], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"polling_station_address\": \"Wellington Road, Ashton, Preston, PR2 1BU\", \"polling_station_name\": \"Ashton Methodist Church\", \"polling_station_ref\": \"AS4, AS5\", \"uprn\": \"100012749009\"}, \"type\": \"Feature\"}",
+        "pk": 36,
         "polling_station_address": "Wellington Road, Ashton, Preston, PR2 1BU",
         "polling_station_name": "Ashton Methodist Church",
-        "polling_station_ref": "AS4",
+        "polling_station_ref": "AS4, AS5",
         "uprn": "100012749009"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.68476769845647, 53.7738802578704, -2.68476697980424, 53.7738809765226], \"geometry\": {\"coordinates\": [-2.68476733913035, 53.7738806171965], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"polling_station_address\": \"Blackpool Road, Preston, PR1 6HQ\", \"polling_station_name\": \"St Gregorys Catholic Primary School\", \"polling_station_ref\": \"DE1\", \"uprn\": \"10007601037\"}, \"type\": \"Feature\"}",
-        "pk": 47,
-        "polling_station_address": "Blackpool Road, Preston, PR1 6HQ",
-        "polling_station_name": "St Gregorys Catholic Primary School",
-        "polling_station_ref": "DE1",
-        "uprn": "10007601037"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.71106671965416, 53.7716600011585, -2.71106600100194, 53.7716607198107], \"geometry\": {\"coordinates\": [-2.71106636032805, 53.7716603604846], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"(Opposite Eldon Street Primary School), Preston, PR1 7XP\", \"polling_station_name\": \"46 Henderson Street (Eldon Street entrance)\", \"polling_station_ref\": \"PL2\", \"uprn\": \"200002854227\"}, \"type\": \"Feature\"}",
-        "pk": 48,
-        "polling_station_address": "(Opposite Eldon Street Primary School), Preston, PR1 7XP",
-        "polling_station_name": "46 Henderson Street (Eldon Street entrance)",
-        "polling_station_ref": "PL2",
-        "uprn": "200002854227"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67594709536513, 53.7635724321665, -2.6759463767129, 53.7635731508187], \"geometry\": {\"coordinates\": [-2.67594673603902, 53.7635727914926], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"76 Skeffington Road, Preston, PR1 5UQ\", \"polling_station_name\": \"St Josephs Church\", \"polling_station_ref\": \"SM3\", \"uprn\": \"10007609132\"}, \"type\": \"Feature\"}",
-        "pk": 49,
-        "polling_station_address": "76 Skeffington Road, Preston, PR1 5UQ",
-        "polling_station_name": "St Josephs Church",
-        "polling_station_ref": "SM3",
-        "uprn": "10007609132"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.72406950004532, 53.7794988867183, -2.72406878139309, 53.7794996053706], \"geometry\": {\"coordinates\": [-2.7240691407192, 53.7794992460445], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"polling_station_address\": \"Cadley Causeway, Fulwood, Preston, PR2 3RX\", \"polling_station_name\": \"The Padua Room, St Anthonys Church\", \"polling_station_ref\": \"CA5\", \"uprn\": \"10090425984\"}, \"type\": \"Feature\"}",
-        "pk": 50,
-        "polling_station_address": "Cadley Causeway, Fulwood, Preston, PR2 3RX",
-        "polling_station_name": "The Padua Room, St Anthonys Church",
-        "polling_station_ref": "CA5",
-        "uprn": "10090425984"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.72064189497243, 53.8105174332441, -2.7206411763202, 53.8105181518963], \"geometry\": {\"coordinates\": [-2.72064153564632, 53.8105177925702], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"polling_station_address\": \"Whittingham Lane, Broughton, Preston, PR2 5DA\", \"polling_station_name\": \"The Concert Hall, Broughton And District Club\", \"polling_station_ref\": \"RE7\", \"uprn\": \"100012752889\"}, \"type\": \"Feature\"}",
-        "pk": 51,
-        "polling_station_address": "Whittingham Lane, Broughton, Preston, PR2 5DA",
-        "polling_station_name": "The Concert Hall, Broughton And District Club",
-        "polling_station_ref": "RE7",
-        "uprn": "100012752889"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.62611644518416, 53.8043642273131, -2.62611572653193, 53.8043649459653], \"geometry\": {\"coordinates\": [-2.62611608585804, 53.8043645866392], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"polling_station_address\": \"Preston Road, Grimsargh, Preston, PR2 5SJ\", \"polling_station_name\": \"Grimsargh Village Hall\", \"polling_station_ref\": \"RE3\", \"uprn\": \"100012749807\"}, \"type\": \"Feature\"}",
-        "pk": 52,
-        "polling_station_address": "Preston Road, Grimsargh, Preston, PR2 5SJ",
-        "polling_station_name": "Grimsargh Village Hall",
-        "polling_station_ref": "RE3",
-        "uprn": "100012749807"
-    },
-    {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67185562623367, 53.7860855778091, -2.67185490758145, 53.7860862964613], \"geometry\": {\"coordinates\": [-2.67185526690756, 53.7860859371352], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"polling_station_address\": \"Neapsands Close, Fulwood, Preston, PR2 9AQ\", \"polling_station_name\": \"Millennium Hall\", \"polling_station_ref\": \"GA1\", \"uprn\": \"10007609023\"}, \"type\": \"Feature\"}",
-        "pk": 53,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355831.765284647, 432403.772195019, 355831.845284647, 432403.852195019], \"geometry\": {\"coordinates\": [355831.805284647, 432403.812195019], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"polling_station_address\": \"Neapsands Close, Fulwood, Preston, PR2 9AQ\", \"polling_station_name\": \"Millennium Hall\", \"polling_station_ref\": \"GA1\", \"uprn\": \"10007609023\"}, \"type\": \"Feature\"}",
+        "pk": 37,
         "polling_station_address": "Neapsands Close, Fulwood, Preston, PR2 9AQ",
         "polling_station_name": "Millennium Hall",
         "polling_station_ref": "GA1",
         "uprn": "10007609023"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.73852487582928, 53.8365253029263, -2.73852415717705, 53.8365260215786], \"geometry\": {\"coordinates\": [-2.73852451650316, 53.8365256622525], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"polling_station_address\": \"852 Garstang Road, Barton, Preston, PR3 5AA\", \"polling_station_name\": \"Barton Village Hall\", \"polling_station_ref\": \"RN3\", \"uprn\": \"10007604823\"}, \"type\": \"Feature\"}",
-        "pk": 54,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351497.604700494, 438059.238539796, 351497.684700494, 438059.318539796], \"geometry\": {\"coordinates\": [351497.644700494, 438059.278539796], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"polling_station_address\": \"852 Garstang Road, Barton, Preston, PR3 5AA\", \"polling_station_name\": \"Barton Village Hall\", \"polling_station_ref\": \"RN3\", \"uprn\": \"10007604823\"}, \"type\": \"Feature\"}",
+        "pk": 38,
         "polling_station_address": "852 Garstang Road, Barton, Preston, PR3 5AA",
         "polling_station_name": "Barton Village Hall",
         "polling_station_ref": "RN3",
         "uprn": "10007604823"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.67243954309623, 53.8250039132436, -2.672438824444, 53.8250046318958], \"geometry\": {\"coordinates\": [-2.67243918377011, 53.8250042725697], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"polling_station_address\": \"Church Lane, Goosnargh, Preston, PR3 2BD\", \"polling_station_name\": \"Goosnargh Village Hall\", \"polling_station_ref\": \"RE1\", \"uprn\": \"10007602270\"}, \"type\": \"Feature\"}",
-        "pk": 55,
-        "polling_station_address": "Church Lane, Goosnargh, Preston, PR3 2BD",
-        "polling_station_name": "Goosnargh Village Hall",
-        "polling_station_ref": "RE1",
-        "uprn": "10007602270"
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353366.114099656, 431532.892043327, 353366.194099656, 431532.972043327], \"geometry\": {\"coordinates\": [353366.154099656, 431532.932043327], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"polling_station_address\": \"Highgate Avenue, Fulwood, Preston, PR2 8EA\", \"polling_station_name\": \"Fulwood Methodist Church - Rear entrance, Sycamore Room\", \"polling_station_ref\": \"SG3\", \"uprn\": \"100012750483\"}, \"type\": \"Feature\"}",
+        "pk": 39,
+        "polling_station_address": "Highgate Avenue, Fulwood, Preston, PR2 8EA",
+        "polling_station_name": "Fulwood Methodist Church - Rear entrance, Sycamore Room",
+        "polling_station_ref": "SG3",
+        "uprn": "100012750483"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.65812372083944, 53.7632357134311, -2.65812300218721, 53.7632364320833], \"geometry\": {\"coordinates\": [-2.65812336151333, 53.7632360727572], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"polling_station_address\": \"adjacent to Fishwick Hall Golf Club, Glenlude Drive, Preston, PR1 5TD\", \"polling_station_name\": \"Temporary Polling Station\", \"polling_station_ref\": \"RI5\", \"uprn\": \"100012747048\"}, \"type\": \"Feature\"}",
-        "pk": 56,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356235.949253924, 431331.965449435, 356236.029253924, 431332.045449435], \"geometry\": {\"coordinates\": [356235.989253924, 431332.005449435], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"polling_station_address\": \"Dawnay Road, Preston, PR2 6BB\", \"polling_station_name\": \"Greenlands CP School\", \"polling_station_ref\": \"BR3, BR4\", \"uprn\": \"10007613063\"}, \"type\": \"Feature\"}",
+        "pk": 40,
+        "polling_station_address": "Dawnay Road, Preston, PR2 6BB",
+        "polling_station_name": "Greenlands CP School",
+        "polling_station_ref": "BR3, BR4",
+        "uprn": "10007613063"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [358863.265807892, 434409.870869692, 358863.345807892, 434409.950869692], \"geometry\": {\"coordinates\": [358863.305807892, 434409.910869692], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"polling_station_address\": \"Preston Road, Grimsargh, Preston, PR2 5SJ\", \"polling_station_name\": \"Grimsargh Village Hall\", \"polling_station_ref\": \"RE3, RE4, RE5\", \"uprn\": \"100012749807\"}, \"type\": \"Feature\"}",
+        "pk": 41,
+        "polling_station_address": "Preston Road, Grimsargh, Preston, PR2 5SJ",
+        "polling_station_name": "Grimsargh Village Hall",
+        "polling_station_ref": "RE3, RE4, RE5",
+        "uprn": "100012749807"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352645.040076661, 435153.540599619, 352645.120076661, 435153.620599619], \"geometry\": {\"coordinates\": [352645.080076661, 435153.580599619], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"polling_station_address\": \"Whittingham Lane, Broughton, Preston, PR2 5DA\", \"polling_station_name\": \"The Concert Hall, Broughton And District Club\", \"polling_station_ref\": \"RE6, RE7\", \"uprn\": \"100012752889\"}, \"type\": \"Feature\"}",
+        "pk": 42,
+        "polling_station_address": "Whittingham Lane, Broughton, Preston, PR2 5DA",
+        "polling_station_name": "The Concert Hall, Broughton And District Club",
+        "polling_station_ref": "RE6, RE7",
+        "uprn": "100012752889"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352881.973376212, 433480.488372661, 352882.053376212, 433480.568372661], \"geometry\": {\"coordinates\": [352882.013376212, 433480.528372661], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"polling_station_address\": \"Marlborough Drive, Fulwood, Preston, PR2 9UE\", \"polling_station_name\": \"Our Lady And St Edwards Parish Centre\", \"polling_station_ref\": \"GR1, GR2\", \"uprn\": \"10090425985\"}, \"type\": \"Feature\"}",
+        "pk": 43,
+        "polling_station_address": "Marlborough Drive, Fulwood, Preston, PR2 9UE",
+        "polling_station_name": "Our Lady And St Edwards Parish Centre",
+        "polling_station_ref": "GR1, GR2",
+        "uprn": "10090425985"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351878.949327898, 433233.965392556, 351879.029327897, 433234.045392556], \"geometry\": {\"coordinates\": [351878.989327897, 433234.005392556], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"polling_station_address\": \"Wychnor, Fulwood, Preston, PR2 7EE\", \"polling_station_name\": \"Harris Primary School\", \"polling_station_ref\": \"CA2, CA3\", \"uprn\": \"100010577713\"}, \"type\": \"Feature\"}",
+        "pk": 44,
+        "polling_station_address": "Wychnor, Fulwood, Preston, PR2 7EE",
+        "polling_station_name": "Harris Primary School",
+        "polling_station_ref": "CA2, CA3",
+        "uprn": "100010577713"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351173.027031708, 431869.271750857, 351173.107031708, 431869.351750857], \"geometry\": {\"coordinates\": [351173.067031708, 431869.311750857], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"polling_station_address\": \"Tag Lane, PR2 3ZU\", \"polling_station_name\": \"St Margaret's Church Hall\", \"polling_station_ref\": \"CA1, IC2\", \"uprn\": \"200001037634\"}, \"type\": \"Feature\"}",
+        "pk": 45,
+        "polling_station_address": "Tag Lane, PR2 3ZU",
+        "polling_station_name": "St Margaret's Church Hall",
+        "polling_station_ref": "CA1, IC2",
+        "uprn": "200001037634"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [357043.949234317, 431834.965448893, 357044.029234317, 431835.045448893], \"geometry\": {\"coordinates\": [357043.989234317, 431835.005448893], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"polling_station_address\": \"Grange Avenue, Ribbleton, Preston, PR2 6PS\", \"polling_station_name\": \"Grange County Primary School, The Meeting Room\", \"polling_station_ref\": \"RI1, RI2\", \"uprn\": \"100012750125\"}, \"type\": \"Feature\"}",
+        "pk": 46,
+        "polling_station_address": "Grange Avenue, Ribbleton, Preston, PR2 6PS",
+        "polling_station_name": "Grange County Primary School, The Meeting Room",
+        "polling_station_ref": "RI1, RI2",
+        "uprn": "100012750125"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [357195.855590312, 431189.466140539, 357195.935590312, 431189.546140538], \"geometry\": {\"coordinates\": [357195.895590312, 431189.506140538], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"polling_station_address\": \"Ribbleton Hall Drive, Preston, PR2 6EE\", \"polling_station_name\": \"Moor Nook Primary School\", \"polling_station_ref\": \"RI3, RI4\", \"uprn\": \"100012750131\"}, \"type\": \"Feature\"}",
+        "pk": 47,
+        "polling_station_address": "Ribbleton Hall Drive, Preston, PR2 6EE",
+        "polling_station_name": "Moor Nook Primary School",
+        "polling_station_ref": "RI3, RI4",
+        "uprn": "100012750131"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353359.754932729, 431250.335321684, 353359.834932729, 431250.415321684], \"geometry\": {\"coordinates\": [353359.794932729, 431250.375321684], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"Symonds Road, Fulwood, Preston, PR2 3BL\", \"polling_station_name\": \"Fulwood United Reformed Church\", \"polling_station_ref\": \"PL1\", \"uprn\": \"10007612649\"}, \"type\": \"Feature\"}",
+        "pk": 48,
+        "polling_station_address": "Symonds Road, Fulwood, Preston, PR2 3BL",
+        "polling_station_name": "Fulwood United Reformed Church",
+        "polling_station_ref": "PL1",
+        "uprn": "10007612649"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353149.949320931, 430525.965437098, 353150.029320931, 430526.045437098], \"geometry\": {\"coordinates\": [353149.989320931, 430526.005437098], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"Brook Street, Preston, PR1 7NB\", \"polling_station_name\": \"Plungington Community Centre\", \"polling_station_ref\": \"PL4\", \"uprn\": \"100012747862\"}, \"type\": \"Feature\"}",
+        "pk": 49,
+        "polling_station_address": "Brook Street, Preston, PR1 7NB",
+        "polling_station_name": "Plungington Community Centre",
+        "polling_station_ref": "PL4",
+        "uprn": "100012747862"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356712.944166467, 429853.067553832, 356713.024166467, 429853.147553832], \"geometry\": {\"coordinates\": [356712.984166467, 429853.107553832], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"polling_station_address\": \"adjacent to Fishwick Hall Golf Club, Glenlude Drive, Preston, PR1 5TD\", \"polling_station_name\": \"Temporary Polling Station\", \"polling_station_ref\": \"RI5\", \"uprn\": \"100012747048\"}, \"type\": \"Feature\"}",
+        "pk": 50,
         "polling_station_address": "adjacent to Fishwick Hall Golf Club, Glenlude Drive, Preston, PR1 5TD",
         "polling_station_name": "Temporary Polling Station",
         "polling_station_ref": "RI5",
         "uprn": "100012747048"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.79117228991179, 53.8116485483832, -2.79117157125956, 53.8116492670354], \"geometry\": {\"coordinates\": [-2.79117193058567, 53.8116489077093], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"polling_station_address\": \"Catforth Road, Catforth, Preston, PR4 0HH\", \"polling_station_name\": \"Catforth Village Hall\", \"polling_station_ref\": \"RN5\", \"uprn\": \"0\"}, \"type\": \"Feature\"}",
-        "pk": 57,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [348002.219891368, 435328.861475021, 348002.299891368, 435328.941475021], \"geometry\": {\"coordinates\": [348002.259891368, 435328.901475021], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"polling_station_address\": \"Catforth Road, Catforth, Preston, PR4 0HH\", \"polling_station_name\": \"Catforth Village Hall\", \"polling_station_ref\": \"RN5\", \"uprn\": \"0\"}, \"type\": \"Feature\"}",
+        "pk": 51,
         "polling_station_address": "Catforth Road, Catforth, Preston, PR4 0HH",
         "polling_station_name": "Catforth Village Hall",
         "polling_station_ref": "RN5",
         "uprn": "0"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.66930263547734, 53.8647723090201, -2.66930191682511, 53.8647730276723], \"geometry\": {\"coordinates\": [-2.66930227615123, 53.8647726683462], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"polling_station_address\": \"Church Lane, Whitechapel, Preston, PR3 2EP\", \"polling_station_name\": \"St James Church, The Beacon Room\", \"polling_station_ref\": \"RN1\", \"uprn\": \"0\"}, \"type\": \"Feature\"}",
-        "pk": 58,
-        "polling_station_address": "Church Lane, Whitechapel, Preston, PR3 2EP",
-        "polling_station_name": "St James Church, The Beacon Room",
-        "polling_station_ref": "RN1",
-        "uprn": "0"
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352648.949321773, 431868.965415984, 352649.029321773, 431869.045415984], \"geometry\": {\"coordinates\": [352648.989321773, 431869.005415984], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"polling_station_address\": \"Cadley Causeway, Fulwood, Preston, PR2 3QT\", \"polling_station_name\": \"Fulwood And Cadley Primary School\", \"polling_station_ref\": \"GR3\", \"uprn\": \"10007601876\"}, \"type\": \"Feature\"}",
+        "pk": 52,
+        "polling_station_address": "Cadley Causeway, Fulwood, Preston, PR2 3QT",
+        "polling_station_name": "Fulwood And Cadley Primary School",
+        "polling_station_ref": "GR3",
+        "uprn": "10007601876"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.65983958237609, 53.7762960229489, -2.65983886372387, 53.7762967416011], \"geometry\": {\"coordinates\": [-2.65983922304998, 53.776296382275], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"polling_station_address\": \"Farringdon Lane, Ribbleton, Preston, PR2 6LX\", \"polling_station_name\": \"St Mary Magdalene Church Hall\", \"polling_station_ref\": \"RI8\", \"uprn\": \"10007603896\"}, \"type\": \"Feature\"}",
-        "pk": 59,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [356613.331583465, 431307.178603645, 356613.411583465, 431307.258603645], \"geometry\": {\"coordinates\": [356613.371583465, 431307.218603645], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"polling_station_address\": \"Farringdon Lane, Ribbleton, Preston, PR2 6LX\", \"polling_station_name\": \"St Mary Magdalene Church Hall\", \"polling_station_ref\": \"RI7 RI8\", \"uprn\": \"10007603896\"}, \"type\": \"Feature\"}",
+        "pk": 53,
         "polling_station_address": "Farringdon Lane, Ribbleton, Preston, PR2 6LX",
         "polling_station_name": "St Mary Magdalene Church Hall",
-        "polling_station_ref": "RI8",
+        "polling_station_ref": "RI7 RI8",
         "uprn": "10007603896"
     },
     {
-        "council_id": "E07000123",
-        "geometry": "{\"bbox\": [-2.7218420557659, 53.7700245340927, -2.72184133711367, 53.770025252745], \"geometry\": {\"coordinates\": [-2.72184169643978, 53.7700248934189], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"polling_station_address\": \"Roebuck CP School, Preston, PR2 2AH\", \"polling_station_name\": \"Sports Hall - Parker Street\", \"polling_station_ref\": \"PL5\", \"uprn\": \"10090425939\"}, \"type\": \"Feature\"}",
-        "pk": 60,
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354503.949297266, 430047.965453269, 354504.029297266, 430048.045453269], \"geometry\": {\"coordinates\": [354503.989297266, 430048.005453269], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"polling_station_address\": \"Deepdale Enclosure, Deepdale Road, Preston, PR1 5AR\", \"polling_station_name\": \"Catherine Beckett Community Centre\", \"polling_station_ref\": \"SM4, SM5\", \"uprn\": \"100012746809\"}, \"type\": \"Feature\"}",
+        "pk": 54,
+        "polling_station_address": "Deepdale Enclosure, Deepdale Road, Preston, PR1 5AR",
+        "polling_station_name": "Catherine Beckett Community Centre",
+        "polling_station_ref": "SM4, SM5",
+        "uprn": "100012746809"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [354967.021838833, 431054.756372286, 354967.101838833, 431054.836372286], \"geometry\": {\"coordinates\": [354967.061838833, 431054.796372286], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"polling_station_address\": \"244 Blackpool Road, Preston, PR1 6HQ\", \"polling_station_name\": \"St Gregory's Social Club\", \"polling_station_ref\": \"DE1\", \"uprn\": \"10007601037\"}, \"type\": \"Feature\"}",
+        "pk": 55,
+        "polling_station_address": "244 Blackpool Road, Preston, PR1 6HQ",
+        "polling_station_name": "St Gregory's Social Club",
+        "polling_station_ref": "DE1",
+        "uprn": "10007601037"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355333.338086147, 430087.417148911, 355333.418086147, 430087.497148911], \"geometry\": {\"coordinates\": [355333.378086147, 430087.457148911], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"polling_station_address\": \"76 Skeffington Road, Preston, PR1 5UQ\", \"polling_station_name\": \"St Josephs Church\", \"polling_station_ref\": \"SM3\", \"uprn\": \"100010567670\"}, \"type\": \"Feature\"}",
+        "pk": 56,
+        "polling_station_address": "76 Skeffington Road, Preston, PR1 5UQ",
+        "polling_station_name": "St Josephs Church",
+        "polling_station_ref": "SM3",
+        "uprn": "100010567670"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353232.244616677, 430823.985791761, 353232.324616677, 430824.065791761], \"geometry\": {\"coordinates\": [353232.284616677, 430824.025791761], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"polling_station_address\": \"Eldon Street Entrance, Preston, PR1 7XP\", \"polling_station_name\": \"46 Henderson Street\", \"polling_station_ref\": \"PL2\", \"uprn\": \"200002854227\"}, \"type\": \"Feature\"}",
+        "pk": 57,
+        "polling_station_address": "Eldon Street Entrance, Preston, PR1 7XP",
+        "polling_station_name": "46 Henderson Street",
+        "polling_station_ref": "PL2",
+        "uprn": "200002854227"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352520.212440662, 430649.195463367, 352520.292440662, 430649.275463367], \"geometry\": {\"coordinates\": [352520.252440662, 430649.235463367], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"polling_station_address\": \"Roebuck CP School, Preston, PR2 2AH\", \"polling_station_name\": \"Sports Hall - Parker Street\", \"polling_station_ref\": \"AS3, PL5\", \"uprn\": \"10090425939\"}, \"type\": \"Feature\"}",
+        "pk": 58,
         "polling_station_address": "Roebuck CP School, Preston, PR2 2AH",
         "polling_station_name": "Sports Hall - Parker Street",
-        "polling_station_ref": "PL5",
+        "polling_station_ref": "AS3, PL5",
         "uprn": "10090425939"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353719.618043014, 430254.577398888, 353719.698043014, 430254.657398888], \"geometry\": {\"coordinates\": [353719.658043014, 430254.617398888], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"polling_station_address\": \"Lancaster Road North, Preston, PR1 2SQ\", \"polling_station_name\": \"City Church Preston\", \"polling_station_ref\": \"PL3\"}, \"type\": \"Feature\"}",
+        "pk": 59,
+        "polling_station_address": "Lancaster Road North, Preston, PR1 2SQ",
+        "polling_station_name": "City Church Preston",
+        "polling_station_ref": "PL3",
+        "uprn": null
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352426.352173554, 431730.604557009, 352426.432173554, 431730.684557009], \"geometry\": {\"coordinates\": [352426.392173554, 431730.644557009], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "pk": 60,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352419.873925664, 431725.421958697, 352419.953925664, 431725.501958697], \"geometry\": {\"coordinates\": [352419.913925664, 431725.461958697], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "pk": 61,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352430.239122288, 431726.717608275, 352430.319122288, 431726.797608275], \"geometry\": {\"coordinates\": [352430.279122288, 431726.757608275], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "pk": 62,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352427.647823132, 431725.421958697, 352427.727823132, 431725.501958697], \"geometry\": {\"coordinates\": [352427.687823132, 431725.461958697], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "pk": 63,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [352415.98697693, 431720.239360385, 352416.06697693, 431720.319360385], \"geometry\": {\"coordinates\": [352416.02697693, 431720.279360385], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "pk": 64,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355834.308646397, 436734.127634429, 355834.388646397, 436734.207634429], \"geometry\": {\"coordinates\": [355834.348646397, 436734.167634429], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"polling_station_address\": \"Church Lane, Goosnargh, Preston, PR3 2BD\", \"polling_station_name\": \"Goosnargh Village Hall\", \"polling_station_ref\": \"RE1, RE2, RN2\", \"uprn\": \"10007602270\"}, \"type\": \"Feature\"}",
+        "pk": 65,
+        "polling_station_address": "Church Lane, Goosnargh, Preston, PR3 2BD",
+        "polling_station_name": "Goosnargh Village Hall",
+        "polling_station_ref": "RE1, RE2, RN2",
+        "uprn": "10007602270"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351173.027031708, 431869.271750857, 351173.107031708, 431869.351750857], \"geometry\": {\"coordinates\": [351173.067031708, 431869.311750857], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"polling_station_address\": \"Tag Lane, PR2 3ZU\", \"polling_station_name\": \"St Margaret's Church Hall\", \"polling_station_ref\": \"CA1, IC2\", \"uprn\": \"200001037634\"}, \"type\": \"Feature\"}",
+        "pk": 66,
+        "polling_station_address": "Tag Lane, PR2 3ZU",
+        "polling_station_name": "St Margaret's Church Hall",
+        "polling_station_ref": "CA1, IC2",
+        "uprn": "200001037634"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351182.14861706, 431873.937811567, 351187.043640883, 431878.831072339], \"geometry\": {\"coordinates\": [[[351186.622506443, 431875.0079093], [351186.335066304, 431874.659001501], [351185.988408741, 431874.368851507], [351185.594338759, 431874.147340029], [351185.166275941, 431874.002010373], [351184.718797451, 431873.937811567], [351184.267141633, 431873.956929825], [351183.826689085, 431874.058714096], [351183.412438889, 431874.239698241], [351183.038497839, 431874.49371906], [351182.717600049, 431874.81212618], [351182.460673309, 431875.184076627], [351182.276466949, 431875.596904076], [351182.171253898, 431876.036550183], [351182.14861706, 431876.488043327], [351182.209327303, 431876.936008451], [351182.351317215, 431877.365190638], [351182.569751499, 431877.760974606], [351182.857191638, 431878.109882405], [351183.203849202, 431878.400032399], [351183.597919183, 431878.621543878], [351184.025982001, 431878.766873533], [351184.473460491, 431878.831072339], [351184.925116309, 431878.811954081], [351185.365568857, 431878.71016981], [351185.779819053, 431878.529185665], [351186.153760103, 431878.275164846], [351186.474657893, 431877.956757726], [351186.731584634, 431877.584807279], [351186.915790993, 431877.17197983], [351187.021004044, 431876.732333723], [351187.043640883, 431876.280840579], [351186.982930639, 431875.832875456], [351186.840940727, 431875.403693268], [351186.622506443, 431875.0079093]]], \"type\": \"Polygon\"}, \"id\": 67, \"properties\": {\"polling_station_address\": \"Tag Lane, PR2 3ZU\", \"polling_station_name\": \"St Margaret's Church Hall\", \"polling_station_ref\": \"CA1, IC2\", \"uprn\": \"200001037634\"}, \"type\": \"Feature\"}",
+        "pk": 67,
+        "polling_station_address": "Tag Lane, PR2 3ZU",
+        "polling_station_name": "St Margaret's Church Hall",
+        "polling_station_ref": "CA1, IC2",
+        "uprn": "200001037634"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [351171.422957025, 431869.627733824, 351171.502957025, 431869.707733824], \"geometry\": {\"coordinates\": [351171.462957025, 431869.667733824], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"polling_station_address\": \"Tag Lane, PR2 3ZU\", \"polling_station_name\": \"St Margaret's Church Hall\", \"polling_station_ref\": \"CA1, IC2\", \"uprn\": \"200001037634\"}, \"type\": \"Feature\"}",
+        "pk": 68,
+        "polling_station_address": "Tag Lane, PR2 3ZU",
+        "polling_station_name": "St Margaret's Church Hall",
+        "polling_station_ref": "CA1, IC2",
+        "uprn": "200001037634"
     }
 ]
