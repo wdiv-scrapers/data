@@ -15,7 +15,7 @@
                 "description": "Transparency",
                 "display_name": "Transparency",
                 "id": "7429ee4b-c1e8-4044-8aae-0b7e2c44473f",
-                "image_display_url": "https://ckan.york.production.datopian.com/uploads/group/20150306-120313.6689099.png",
+                "image_display_url": "https://data.yorkopendata.org/uploads/group/20150306-120313.6689099.png",
                 "name": "transparency",
                 "title": "Transparency"
             }
@@ -23,8 +23,8 @@
         "id": "cf8d4605-04f5-4685-b002-bb6a57173168",
         "isopen": true,
         "license_id": "uk-ogl",
-        "license_title": "Open Government Licence 2.0 (United Kingdom)",
-        "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+        "license_title": "UK Open Government Licence (OGL)",
+        "license_url": "http://reference.data.gov.uk/id/open-government-licence",
         "maintainer": "City of York Council - Business Intelligence Hub",
         "maintainer_email": "business.intelligence@york.gov.uk",
         "metadata_created": "2015-03-18T16:56:40.431336",
