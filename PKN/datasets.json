@@ -77,6 +77,33 @@
             "attributes": {
                 "errors": [],
                 "name": "Community Councils",
+                "url": "https://dservices.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/services/Community_Councils/WFSServer"
+            },
+            "id": "685a88c5035f44c99220e286c8cb82b2",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/685a88c5035f44c99220e286c8cb82b2?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=685a88c5035f44c99220e286c8cb82b2",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/685a88c5035f44c99220e286c8cb82b2",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/685a88c5035f44c99220e286c8cb82b2"
+            },
+            "meta": {
+                "highlights": {
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Community Councils",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0"
             },
             "id": "0d911f5dd4e14c03b0b434ed6076fe00_0",
