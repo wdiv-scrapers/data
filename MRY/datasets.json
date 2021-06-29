@@ -3,38 +3,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Places",
-                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
-            },
-            "id": "324869b9c90e4b7caf03cc8d29fa2137",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places"
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "tags",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling Places"
             },
             "id": "c01617ed122947a491960a672f7d9c90",
@@ -98,6 +66,38 @@
         {
             "attributes": {
                 "errors": [],
+                "name": "Polling Places",
+                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
+            },
+            "id": "324869b9c90e4b7caf03cc8d29fa2137",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places"
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
                 "name": "Polling Districts (Moray)",
                 "url": "https://mapping.moray.gov.uk/arcgis/rest/services/INSPIRE/INSPIRE/MapServer/1"
             },
@@ -120,43 +120,6 @@
                     ],
                     "searchDescription": [
                         "Moray Council <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> District Boundaries.  Polygon data showing the polling district boundaries for the Moray Council area used\u00a0for the purposes of designating an area of electors which attend a particular polling place."
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "fieldNames",
-                    "searchDescription"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Polling Places (Moray)",
-                "url": "https://mapping.moray.gov.uk/arcgis/rest/services/INSPIRE/INSPIRE/MapServer/0"
-            },
-            "id": "65e731a73f384fadad25bef39fdcc342_0",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/65e731a73f384fadad25bef39fdcc342?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=65e731a73f384fadad25bef39fdcc342",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/65e731a73f384fadad25bef39fdcc342_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/65e731a73f384fadad25bef39fdcc342_0"
-            },
-            "meta": {
-                "highlights": {
-                    "fieldNames": [
-                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> District Code",
-                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> District Name",
-                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> Place"
-                    ],
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places (Moray)"
-                    ],
-                    "searchDescription": [
-                        "Moray Council <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Places.  Point data showing the polling\u00a0places for the Moray Council area. A polling place is a the particular building where people go to cast their vote(s) during elections. A polling station is located within a polling place. There may be more than one polling station in a polling place."
                     ]
                 },
                 "matchedFields": [
@@ -197,6 +160,43 @@
                     "tags",
                     "stemmedTags",
                     "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling Places (Moray)",
+                "url": "https://mapping.moray.gov.uk/arcgis/rest/services/INSPIRE/INSPIRE/MapServer/0"
+            },
+            "id": "65e731a73f384fadad25bef39fdcc342_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/65e731a73f384fadad25bef39fdcc342?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=65e731a73f384fadad25bef39fdcc342",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/65e731a73f384fadad25bef39fdcc342_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/65e731a73f384fadad25bef39fdcc342_0"
+            },
+            "meta": {
+                "highlights": {
+                    "fieldNames": [
+                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> District Code",
+                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> District Name",
+                        "<mark class=\"hub-search-highlight fieldNames-highlight\">Polling</mark> Place"
+                    ],
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places (Moray)"
+                    ],
+                    "searchDescription": [
+                        "Moray Council <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Places.  Point data showing the polling\u00a0places for the Moray Council area. A polling place is a the particular building where people go to cast their vote(s) during elections. A polling station is located within a polling place. There may be more than one polling station in a polling place."
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "fieldNames",
+                    "searchDescription"
                 ]
             },
             "type": "dataset"
