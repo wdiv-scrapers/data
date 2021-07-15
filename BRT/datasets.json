@@ -81,45 +81,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Stations",
-                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3"
-            },
-            "id": "a3da8ff112a647fe857a45c9996488fd_3",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/a3da8ff112a647fe857a45c9996488fd?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a3da8ff112a647fe857a45c9996488fd_3",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/a3da8ff112a647fe857a45c9996488fd_3"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
-                    ],
-                    "searchDescription": [
-                        "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, to designate polling places for those polling districtsThis layer shows Broxtowe&#x27;s current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>",
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Stations",
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Places"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling Districts",
                 "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/1"
             },
@@ -161,23 +122,62 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "My Polling Station",
-                "url": "https://broxtowe.maps.arcgis.com/apps/webappviewer/index.html?id=b767b65ab0c4493e9bd05c0094c8e743"
+                "name": "Polling Stations",
+                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3"
             },
-            "id": "b767b65ab0c4493e9bd05c0094c8e743",
+            "id": "a3da8ff112a647fe857a45c9996488fd_3",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/b767b65ab0c4493e9bd05c0094c8e743?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=b767b65ab0c4493e9bd05c0094c8e743",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/b767b65ab0c4493e9bd05c0094c8e743",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/b767b65ab0c4493e9bd05c0094c8e743"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/a3da8ff112a647fe857a45c9996488fd?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a3da8ff112a647fe857a45c9996488fd_3",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/a3da8ff112a647fe857a45c9996488fd_3"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "My <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Station"
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
                     ],
                     "searchDescription": [
-                        "This application allows you to discover which is the designated <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> station for your address on election day.It is updated around the same time as poll cards are sent out for an election."
+                        "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, to designate polling places for those polling districtsThis layer shows Broxtowe&#x27;s current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place."
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>",
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Stations",
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Places"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "tags",
+                    "searchDescription",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Polling Stations",
+                "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/0"
+            },
+            "id": "823a1fbdb58f40fd9c9b34ad0337e60a_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/823a1fbdb58f40fd9c9b34ad0337e60a?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=823a1fbdb58f40fd9c9b34ad0337e60a",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
+                    ],
+                    "searchDescription": [
+                        "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
@@ -235,23 +235,23 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Stations",
-                "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/0"
+                "name": "My Polling Station",
+                "url": "https://broxtowe.maps.arcgis.com/apps/webappviewer/index.html?id=b767b65ab0c4493e9bd05c0094c8e743"
             },
-            "id": "823a1fbdb58f40fd9c9b34ad0337e60a_0",
+            "id": "b767b65ab0c4493e9bd05c0094c8e743",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/823a1fbdb58f40fd9c9b34ad0337e60a?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=823a1fbdb58f40fd9c9b34ad0337e60a",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/b767b65ab0c4493e9bd05c0094c8e743?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=b767b65ab0c4493e9bd05c0094c8e743",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/b767b65ab0c4493e9bd05c0094c8e743",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/b767b65ab0c4493e9bd05c0094c8e743"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
+                        "My <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Station"
                     ],
                     "searchDescription": [
-                        "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
+                        "This application allows you to discover which is the designated <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> station for your address on election day.It is updated around the same time as poll cards are sent out for an election."
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
