@@ -11,7 +11,6 @@
         "unit": "Assurance"
     },
     "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
-    "descriptionMarkdown": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
     "descriptionText": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
     "id": "2z3pv",
     "licence": {
@@ -29,7 +28,6 @@
             "format": "csv",
             "order": 0,
             "origin": {
-                "bucket": "datapress-files",
                 "key": "barnet/dataset/polling-stations-in-barnet/2019-10-03T15:34:35/LBBPollingStationList-2019.csv"
             },
             "qa": {
@@ -39,7 +37,6 @@
                 "size": 8507,
                 "timestamp": "2019-10-03T15:34:37Z"
             },
-            "tables": {},
             "timeFrame": {
                 "gte": "2019-09-30",
                 "lte": "2019-09-30"
