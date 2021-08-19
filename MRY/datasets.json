@@ -3,6 +3,38 @@
         {
             "attributes": {
                 "errors": [],
+                "name": "Polling Places",
+                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
+            },
+            "id": "324869b9c90e4b7caf03cc8d29fa2137",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places"
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
                 "name": "Polling Places"
             },
             "id": "c01617ed122947a491960a672f7d9c90",
@@ -48,38 +80,6 @@
                 "highlights": {
                     "name": [
                         "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "tags",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Polling Places",
-                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
-            },
-            "id": "324869b9c90e4b7caf03cc8d29fa2137",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places"
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
