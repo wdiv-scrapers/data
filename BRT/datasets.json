@@ -81,6 +81,45 @@
         {
             "attributes": {
                 "errors": [],
+                "name": "Polling Stations",
+                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3"
+            },
+            "id": "a3da8ff112a647fe857a45c9996488fd_3",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/a3da8ff112a647fe857a45c9996488fd?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a3da8ff112a647fe857a45c9996488fd_3",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/a3da8ff112a647fe857a45c9996488fd_3"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
+                    ],
+                    "searchDescription": [
+                        "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, to designate polling places for those polling districtsThis layer shows Broxtowe&#x27;s current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place."
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>",
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Stations",
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Places"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "tags",
+                    "searchDescription",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
                 "name": "Polling Districts",
                 "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/1"
             },
@@ -142,45 +181,6 @@
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Polling Stations",
-                "url": "https://maps.broxtowe.gov.uk/arcgis/rest/services/OpenData/OpenData/MapServer/3"
-            },
-            "id": "a3da8ff112a647fe857a45c9996488fd_3",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/a3da8ff112a647fe857a45c9996488fd?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=a3da8ff112a647fe857a45c9996488fd",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a3da8ff112a647fe857a45c9996488fd_3",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/a3da8ff112a647fe857a45c9996488fd_3"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
-                    ],
-                    "searchDescription": [
-                        "Under Section 18A of the Representation of the People Act 1983 (as amended) the Council is required to divide each parliamentary constituency in the area into <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, to designate polling places for those polling districtsThis layer shows Broxtowe&#x27;s current polling stations. It is worth noting that because multiple polling districts may vote at one place, this layer may include multiple points for the same place."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>",
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Stations",
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark> Places"
                     ]
                 },
                 "matchedFields": [
