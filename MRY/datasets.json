@@ -35,15 +35,14 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Places",
-                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
+                "name": "Polling Places"
             },
-            "id": "324869b9c90e4b7caf03cc8d29fa2137",
+            "id": "c01617ed122947a491960a672f7d9c90",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/c01617ed122947a491960a672f7d9c90?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=c01617ed122947a491960a672f7d9c90",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/c01617ed122947a491960a672f7d9c90",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/c01617ed122947a491960a672f7d9c90"
             },
             "meta": {
                 "highlights": {
@@ -67,14 +66,15 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Places"
+                "name": "Polling Places",
+                "url": "https://moray.maps.arcgis.com/apps/webappviewer/index.html?id=324869b9c90e4b7caf03cc8d29fa2137"
             },
-            "id": "c01617ed122947a491960a672f7d9c90",
+            "id": "324869b9c90e4b7caf03cc8d29fa2137",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/c01617ed122947a491960a672f7d9c90?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=c01617ed122947a491960a672f7d9c90",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/c01617ed122947a491960a672f7d9c90",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/c01617ed122947a491960a672f7d9c90"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/324869b9c90e4b7caf03cc8d29fa2137?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=324869b9c90e4b7caf03cc8d29fa2137",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/324869b9c90e4b7caf03cc8d29fa2137",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/324869b9c90e4b7caf03cc8d29fa2137"
             },
             "meta": {
                 "highlights": {
