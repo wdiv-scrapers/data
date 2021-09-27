@@ -130,37 +130,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Places (Moray)",
-                "url": "https://mapping.moray.gov.uk/arcgis/rest/services/INSPIRE/INSPIRE/MapServer/0"
-            },
-            "id": "65e731a73f384fadad25bef39fdcc342",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/65e731a73f384fadad25bef39fdcc342?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=65e731a73f384fadad25bef39fdcc342",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/65e731a73f384fadad25bef39fdcc342",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/65e731a73f384fadad25bef39fdcc342"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Places (Moray)"
-                    ],
-                    "searchDescription": [
-                        "Moray Council <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Places.  Point data showing the polling\u00a0places for the Moray Council area. A polling place is a the particular building where people go to cast their vote(s) during elections. A polling station is located within a polling place. There may be more than one polling station in a polling place."
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "searchDescription"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling Districts"
             },
             "id": "d874a0738da54cc09bde22056f740490",
