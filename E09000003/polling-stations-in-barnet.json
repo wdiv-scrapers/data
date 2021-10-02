@@ -61,9 +61,5 @@
     ],
     "updateFrequency": "Annually",
     "updatedAt": "2019-10-03T15:34:37Z",
-    "whitelist": {
-        "loggedIn": false,
-        "teams": [],
-        "users": []
-    }
+    "whitelist": []
 }
