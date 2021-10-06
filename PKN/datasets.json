@@ -40,80 +40,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling districts WFS",
-                "url": "https://dservices.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/services/Polling_districts_WFS/WFSServer"
-            },
-            "id": "c629659b498e44d1a418da0d65081e21",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/c629659b498e44d1a418da0d65081e21?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=c629659b498e44d1a418da0d65081e21",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/c629659b498e44d1a418da0d65081e21",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/c629659b498e44d1a418da0d65081e21"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> districts WFS"
-                    ],
-                    "searchDescription": [
-                        "Parliamentary <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2017 electoral ward boundaries."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Polling places WFS",
-                "url": "https://dservices.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/services/Polling_places_WFS/WFSServer"
-            },
-            "id": "0d1e76f3c6be4e04a40ffcb894072f4d",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/0d1e76f3c6be4e04a40ffcb894072f4d?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=0d1e76f3c6be4e04a40ffcb894072f4d",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/0d1e76f3c6be4e04a40ffcb894072f4d",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/0d1e76f3c6be4e04a40ffcb894072f4d"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> places WFS"
-                    ],
-                    "searchDescription": [
-                        "Location of <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> places to be used for elections in PKC.\u00a0A polling place is a building or area in which a polling station is located. There can be more than one polling station in a polling place. Polling Places can change over time due to the availability of the buildings."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling places",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0"
             },
@@ -143,33 +69,6 @@
                     "tags",
                     "searchDescription",
                     "stemmedTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Community Councils WFS",
-                "url": "https://dservices.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/services/Community_Councils/WFSServer"
-            },
-            "id": "685a88c5035f44c99220e286c8cb82b2",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/685a88c5035f44c99220e286c8cb82b2?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=685a88c5035f44c99220e286c8cb82b2",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/685a88c5035f44c99220e286c8cb82b2",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/685a88c5035f44c99220e286c8cb82b2"
-            },
-            "meta": {
-                "highlights": {
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "tags",
-                    "stemmedTags",
-                    "synonymTags"
                 ]
             },
             "type": "dataset"
