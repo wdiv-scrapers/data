@@ -135,6 +135,38 @@
         {
             "attributes": {
                 "errors": [],
+                "name": "Moray Polling Districts V2",
+                "url": "https://moray.maps.arcgis.com/apps/InformationLookup/index.html?appid=6f23ab6d3a5f432c9923fedae61651f1"
+            },
+            "id": "6f23ab6d3a5f432c9923fedae61651f1",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/6f23ab6d3a5f432c9923fedae61651f1?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=6f23ab6d3a5f432c9923fedae61651f1",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/6f23ab6d3a5f432c9923fedae61651f1",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/6f23ab6d3a5f432c9923fedae61651f1"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "Moray <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts V2"
+                    ],
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
                 "name": "Polling Places (Moray)",
                 "url": "https://mapping.moray.gov.uk/arcgis/rest/services/INSPIRE/INSPIRE/MapServer/0"
             },
@@ -165,38 +197,6 @@
                     "stemmedSearchDescription",
                     "fieldNames",
                     "searchDescription"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
-                "name": "Moray Polling Districts V2",
-                "url": "https://moray.maps.arcgis.com/apps/InformationLookup/index.html?appid=6f23ab6d3a5f432c9923fedae61651f1"
-            },
-            "id": "6f23ab6d3a5f432c9923fedae61651f1",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/6f23ab6d3a5f432c9923fedae61651f1?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=6f23ab6d3a5f432c9923fedae61651f1",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/6f23ab6d3a5f432c9923fedae61651f1",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/6f23ab6d3a5f432c9923fedae61651f1"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "Moray <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts V2"
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "tags",
-                    "stemmedTags",
-                    "synonymTags"
                 ]
             },
             "type": "dataset"
