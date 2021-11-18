@@ -37,11 +37,11 @@
     },
     {
         "OBJECTID_1": 9,
-        "POLLINGDIS": "FG",
+        "POLLINGDIS": "FE / FG",
         "POLLINGSTA": "St. Aelred's Community Centre, Fifth Avenue, York, YO31 0PN",
         "WARD": "Heworth",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.056408612001248, 53.959795721313476], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 9, \"POLLINGDIS\": \"FG\", \"POLLINGSTA\": \"St. Aelred's Community Centre, Fifth Avenue, York, YO31 0PN\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.056408612001248, 53.959795721313476], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 9, \"POLLINGDIS\": \"FE / FG\", \"POLLINGSTA\": \"St. Aelred's Community Centre, Fifth Avenue, York, YO31 0PN\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
         "pk": 9
     },
     {
@@ -90,15 +90,6 @@
         "pk": 15
     },
     {
-        "OBJECTID_1": 17,
-        "POLLINGDIS": "FD",
-        "POLLINGSTA": "Holy Trinity Church Hall, Melrosegate, Heworth, York, YO1 0RL",
-        "WARD": "Heworth",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.058807571016667, 53.965599794646785], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 17, \"POLLINGDIS\": \"FD\", \"POLLINGSTA\": \"Holy Trinity Church Hall, Melrosegate, Heworth, York, YO1 0RL\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
-        "pk": 17
-    },
-    {
         "OBJECTID_1": 18,
         "POLLINGDIS": "KF",
         "POLLINGSTA": "Foxwood Community Centre, Cranfield Place, York, YO24 3HY",
@@ -144,24 +135,6 @@
         "pk": 26
     },
     {
-        "OBJECTID_1": 27,
-        "POLLINGDIS": "YKC",
-        "POLLINGSTA": "Sea Scout Hall, 1st Clifton Sea Scout Group, Green Lane, York, YO30 5QX",
-        "WARD": "Skelton, Rawcliffe & Clifton Without",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.105317336261278, 53.979868890398095], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 27, \"POLLINGDIS\": \"YKC\", \"POLLINGSTA\": \"Sea Scout Hall, 1st Clifton Sea Scout Group, Green Lane, York, YO30 5QX\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
-        "pk": 27
-    },
-    {
-        "OBJECTID_1": 29,
-        "POLLINGDIS": "YLA",
-        "POLLINGSTA": "Stockton on the Forest Village Hall, Sandy Lane, Stockton on the Forest, York, YO32 9UR",
-        "WARD": "Strensall",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.995230124708281, 54.000076703645696], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 29, \"POLLINGDIS\": \"YLA\", \"POLLINGSTA\": \"Stockton on the Forest Village Hall, Sandy Lane, Stockton on the Forest, York, YO32 9UR\", \"WARD\": \"Strensall\"}, \"type\": \"Feature\"}",
-        "pk": 29
-    },
-    {
         "OBJECTID_1": 30,
         "POLLINGDIS": "JD",
         "POLLINGSTA": "Southlands Methodist Church Schoolroom, Southlands Road, York, YO23 1NX",
@@ -189,21 +162,12 @@
         "pk": 32
     },
     {
-        "OBJECTID_1": 33,
-        "POLLINGDIS": "YJC",
-        "POLLINGSTA": "Mobile Unit, The Red Lion Pubilc House, Knapton, YO26 6QG",
-        "WARD": "Rural West York",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.14625477036084, 53.96141796095075], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 33, \"POLLINGDIS\": \"YJC\", \"POLLINGSTA\": \"Mobile Unit, The Red Lion Pubilc House, Knapton, YO26 6QG\", \"WARD\": \"Rural West York\"}, \"type\": \"Feature\"}",
-        "pk": 33
-    },
-    {
         "OBJECTID_1": 35,
-        "POLLINGDIS": "YFA",
-        "POLLINGSTA": "Christ Church Centre, Stockton Lane, York, YO31 1JG",
+        "POLLINGDIS": "YFA /YFB",
+        "POLLINGSTA": "Heworth Christ Church, Stockton Lane, York, YO31 1JG",
         "WARD": "Heworth Without",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.047617158290469, 53.973170209206565], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 35, \"POLLINGDIS\": \"YFA\", \"POLLINGSTA\": \"Christ Church Centre, Stockton Lane, York, YO31 1JG\", \"WARD\": \"Heworth Without\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.047617158290469, 53.973170209206565], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 35, \"POLLINGDIS\": \"YFA /YFB\", \"POLLINGSTA\": \"Heworth Christ Church, Stockton Lane, York, YO31 1JG\", \"WARD\": \"Heworth Without\"}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -223,15 +187,6 @@
         "council_id": "YOR",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.047954419169477, 53.9645155226541], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 38, \"POLLINGDIS\": \"FF / YFC\", \"POLLINGSTA\": \"The Centre@Burholme, Mossdale Avenue, York, YO31 0HA\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
         "pk": 38
-    },
-    {
-        "OBJECTID_1": 40,
-        "POLLINGDIS": "BA",
-        "POLLINGSTA": "Burton Green Primary School, Burton Green, York, YO30 6JE",
-        "WARD": "Clifton",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.08571573653329, 53.97988431667137], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 40, \"POLLINGDIS\": \"BA\", \"POLLINGSTA\": \"Burton Green Primary School, Burton Green, York, YO30 6JE\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
-        "pk": 40
     },
     {
         "OBJECTID_1": 42,
@@ -261,21 +216,12 @@
         "pk": 44
     },
     {
-        "OBJECTID_1": 46,
-        "POLLINGDIS": "HE",
-        "POLLINGSTA": "Vanbrugh College, University of York, YO10 5DD",
-        "WARD": "Heslington",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.054144807907413, 53.94769869239098], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 46, \"POLLINGDIS\": \"HE\", \"POLLINGSTA\": \"Vanbrugh College, University of York, YO10 5DD\", \"WARD\": \"Heslington\"}, \"type\": \"Feature\"}",
-        "pk": 46
-    },
-    {
         "OBJECTID_1": 47,
         "POLLINGDIS": "YDC",
-        "POLLINGSTA": "2nd Haxby & Wigginton Scout HQ, 9 York Road, Haxby",
+        "POLLINGSTA": "Scout Hut, York Road, Haxby, York",
         "WARD": "Haxby & Wigginton",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.071773631368256, 54.0150745796279], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 47, \"POLLINGDIS\": \"YDC\", \"POLLINGSTA\": \"2nd Haxby & Wigginton Scout HQ, 9 York Road, Haxby \", \"WARD\": \"Haxby & Wigginton\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.071773631368256, 54.0150745796279], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 47, \"POLLINGDIS\": \"YDC\", \"POLLINGSTA\": \"Scout Hut, York Road, Haxby, York\", \"WARD\": \"Haxby & Wigginton\"}, \"type\": \"Feature\"}",
         "pk": 47
     },
     {
@@ -315,15 +261,6 @@
         "pk": 52
     },
     {
-        "OBJECTID_1": 53,
-        "POLLINGDIS": "YHC",
-        "POLLINGSTA": "Holtby Parish Room, Main Street, Holtby, York, YO19 5UD",
-        "WARD": "Osbaldwick & Derwent",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.972416080993396, 53.979297300627145], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 53, \"POLLINGDIS\": \"YHC\", \"POLLINGSTA\": \"Holtby Parish Room, Main Street, Holtby, York, YO19 5UD\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
-        "pk": 53
-    },
-    {
         "OBJECTID_1": 54,
         "POLLINGDIS": "YDB",
         "POLLINGSTA": "The Memorial Hall, The Village, Haxby, York, YO32 3HT",
@@ -334,11 +271,11 @@
     },
     {
         "OBJECTID_1": 55,
-        "POLLINGDIS": "BC",
+        "POLLINGDIS": "BA / BC",
         "POLLINGSTA": "St. Joseph Chruch Hall, Burdyke Avenue, York, YO30 6JX",
         "WARD": "Clifton",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.090569750215949, 53.97677235138465], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 55, \"POLLINGDIS\": \"BC\", \"POLLINGSTA\": \"St. Joseph Chruch Hall, Burdyke Avenue, York, YO30 6JX\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.090569750215949, 53.97677235138465], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 55, \"POLLINGDIS\": \"BA / BC\", \"POLLINGSTA\": \"St. Joseph Chruch Hall, Burdyke Avenue, York, YO30 6JX\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
         "pk": 55
     },
     {
@@ -351,21 +288,12 @@
         "pk": 58
     },
     {
-        "OBJECTID_1": 59,
-        "POLLINGDIS": "FE",
-        "POLLINGSTA": "Tang Hall Primary School, Sixth Avenue, York, YO31 0UT",
-        "WARD": "Heworth",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.062108779076595, 53.96321904506792], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 59, \"POLLINGDIS\": \"FE\", \"POLLINGSTA\": \"Tang Hall Primary School, Sixth Avenue, York, YO31 0UT\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
-        "pk": 59
-    },
-    {
         "OBJECTID_1": 60,
-        "POLLINGDIS": "YJF",
-        "POLLINGSTA": "All Saints Hall, The Green Upper Poppleton, York, YO26 6DF",
+        "POLLINGDIS": "YJC / YJF",
+        "POLLINGSTA": "All Saints Church Hall, The Green, Upper Poppleton, York, YO26 6DF",
         "WARD": "Rural West York",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.151877400016788, 53.97952674856448], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 60, \"POLLINGDIS\": \"YJF\", \"POLLINGSTA\": \"All Saints Hall, The Green Upper Poppleton, York, YO26 6DF\", \"WARD\": \"Rural West York\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.151877400016788, 53.97952674856448], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 60, \"POLLINGDIS\": \"YJC / YJF\", \"POLLINGSTA\": \"All Saints Church Hall, The Green, Upper Poppleton, York, YO26 6DF\", \"WARD\": \"Rural West York\"}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
@@ -376,15 +304,6 @@
         "council_id": "YOR",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.103026306285643, 53.96388116853461], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 61, \"POLLINGDIS\": \"GE\", \"POLLINGSTA\": \"St Barnabas Church, Jubilee Terrace, York, YO26 4YZ\", \"WARD\": \"Holgate\"}, \"type\": \"Feature\"}",
         "pk": 61
-    },
-    {
-        "OBJECTID_1": 62,
-        "POLLINGDIS": "JA",
-        "POLLINGSTA": "Priory Street Centre, 15/17 Priory Street, York, YO1 6ET",
-        "WARD": "Micklegate",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.088010720613679, 53.956091601726484], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 62, \"POLLINGDIS\": \"JA\", \"POLLINGSTA\": \"Priory Street Centre, 15/17 Priory Street, York, YO1 6ET\", \"WARD\": \"Micklegate\"}, \"type\": \"Feature\"}",
-        "pk": 62
     },
     {
         "OBJECTID_1": 63,
@@ -406,39 +325,21 @@
     },
     {
         "OBJECTID_1": 66,
-        "POLLINGDIS": "CC",
+        "POLLINGDIS": "CD",
         "POLLINGSTA": "Moor Lane Youth Centre, Wain's Road, York, YO24 2TX",
         "WARD": "Dringhouses & Woodthorpe",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.121663280487589, 53.938527953556274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 66, \"POLLINGDIS\": \"CC\", \"POLLINGSTA\": \"Moor Lane Youth Centre, Wain's Road, York, YO24 2TX\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.121663280487589, 53.938527953556274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 66, \"POLLINGDIS\": \"CD\", \"POLLINGSTA\": \"Moor Lane Youth Centre, Wain's Road, York, YO24 2TX\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
-        "OBJECTID_1": 67,
-        "POLLINGDIS": "CD",
-        "POLLINGSTA": "Woodthorpe Primary School, Summerfield Road, York, YO24 2RU",
-        "WARD": "Dringhouses & Woodthorpe",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.128391627943158, 53.9365636249248], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 67, \"POLLINGDIS\": \"CD\", \"POLLINGSTA\": \"Woodthorpe Primary School, Summerfield Road, York, YO24 2RU\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
-        "pk": 67
-    },
-    {
         "OBJECTID_1": 68,
-        "POLLINGDIS": "CB",
+        "POLLINGDIS": "CB / CC",
         "POLLINGSTA": "West Thorpe Methodist Church, West Thorpe, York, YO24 2PW",
         "WARD": "Dringhouses & Woodthorpe",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.117086955155671, 53.94099309512966], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 68, \"POLLINGDIS\": \"CB\", \"POLLINGSTA\": \"West Thorpe Methodist Church, West Thorpe, York, YO24 2PW\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.117086955155671, 53.94099309512966], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 68, \"POLLINGDIS\": \"CB / CC\", \"POLLINGSTA\": \"West Thorpe Methodist Church, West Thorpe, York, YO24 2PW\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
         "pk": 68
-    },
-    {
-        "OBJECTID_1": 70,
-        "POLLINGDIS": "KE",
-        "POLLINGSTA": "Hob Moor Community Primary School, Green Lane, Acomb, York, YO24 4PS",
-        "WARD": "Westfield",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.117695620895391, 53.94861015631157], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 70, \"POLLINGDIS\": \"KE\", \"POLLINGSTA\": \"Hob Moor Community Primary School, Green Lane, Acomb, York, YO24 4PS\", \"WARD\": \"Westfield\"}, \"type\": \"Feature\"}",
-        "pk": 70
     },
     {
         "OBJECTID_1": 71,
@@ -448,6 +349,15 @@
         "council_id": "YOR",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.093926565041048, 53.96720963234937], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 71, \"POLLINGDIS\": \"BE\", \"POLLINGSTA\": \"Clifton Methodist Church, Clifton, York, YO30 6AL\", \"WARD\": \"Clifton\"}, \"type\": \"Feature\"}",
         "pk": 71
+    },
+    {
+        "OBJECTID_1": 72,
+        "POLLINGDIS": "GC / GD",
+        "POLLINGSTA": "York Spiritualist Centre, 7-9 Wilton Rise, York, YO24 4EP",
+        "WARD": "Holgate",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.101180193738558, 53.95614505770927], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 72, \"POLLINGDIS\": \"GC / GD\", \"POLLINGSTA\": \"York Spiritualist Centre, 7-9 Wilton Rise, York, YO24 4EP\", \"WARD\": \"Holgate\"}, \"type\": \"Feature\"}",
+        "pk": 72
     },
     {
         "OBJECTID_1": 73,
@@ -460,11 +370,11 @@
     },
     {
         "OBJECTID_1": 74,
-        "POLLINGDIS": "YKD",
+        "POLLINGDIS": "YKC / YKD",
         "POLLINGSTA": "Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ",
         "WARD": "Skelton, Rawcliffe & Clifton Without",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.106621793501109, 53.97803637207886], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 74, \"POLLINGDIS\": \"YKD\", \"POLLINGSTA\": \"Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.106621793501109, 53.97803637207886], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 74, \"POLLINGDIS\": \"YKC / YKD\", \"POLLINGSTA\": \"Explore Clifton Library Learning Centre, Rawcliffe Lane, York, YO30 5SJ\", \"WARD\": \"Skelton, Rawcliffe & Clifton Without\"}, \"type\": \"Feature\"}",
         "pk": 74
     },
     {
@@ -542,10 +452,10 @@
     {
         "OBJECTID_1": 331,
         "POLLINGDIS": "AD",
-        "POLLINGSTA": "The Gateway Christian Centre, Front St, Acomb, York, YO24 3BN",
+        "POLLINGSTA": "The Gateway Centre, Front Street, York, YO24 3BZ",
         "WARD": "Acomb",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.124699805230046, 53.954937981242274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 331, \"POLLINGDIS\": \"AD\", \"POLLINGSTA\": \"The Gateway Christian Centre, Front St, Acomb, York, YO24 3BN\", \"WARD\": \"Acomb\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.124699805230046, 53.954937981242274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 331, \"POLLINGDIS\": \"AD\", \"POLLINGSTA\": \"The Gateway Centre, Front Street, York, YO24 3BZ\", \"WARD\": \"Acomb\"}, \"type\": \"Feature\"}",
         "pk": 331
     },
     {
@@ -576,21 +486,12 @@
         "pk": 335
     },
     {
-        "OBJECTID_1": 336,
-        "POLLINGDIS": "HF",
-        "POLLINGSTA": "Law And Management, Freboys Lane, Heslington, York, YO10 5GD",
-        "WARD": "Heslington",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.031673210092634, 53.94773050456], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 336, \"POLLINGDIS\": \"HF\", \"POLLINGSTA\": \"Law And Management, Freboys Lane, Heslington, York, YO10 5GD\", \"WARD\": \"Heslington\"}, \"type\": \"Feature\"}",
-        "pk": 336
-    },
-    {
         "OBJECTID_1": 653,
-        "POLLINGDIS": "YHA",
+        "POLLINGDIS": "HC / YHA",
         "POLLINGSTA": "Osbaldwick Sports Club, The Leyes, Osbaldwick, York, YO10 3PR",
         "WARD": "Osbaldwick & Derwent",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.037681275385479, 53.95762389289761], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 653, \"POLLINGDIS\": \"YHA\", \"POLLINGSTA\": \"Osbaldwick Sports Club, The Leyes, Osbaldwick, York, YO10 3PR\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.037681275385479, 53.95762389289761], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 653, \"POLLINGDIS\": \"HC / YHA\", \"POLLINGSTA\": \"Osbaldwick Sports Club, The Leyes, Osbaldwick, York, YO10 3PR\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
         "pk": 653
     },
     {
@@ -622,30 +523,12 @@
     },
     {
         "OBJECTID_1": 1698,
-        "POLLINGDIS": "HB",
+        "POLLINGDIS": "HB / HD",
         "POLLINGSTA": "St. George's Methodist Church Schoolroom, Millfield Lane, York. YO10 3AW",
         "WARD": "Hull Road",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.048373151740912, 53.95597729827223], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1698, \"POLLINGDIS\": \"HB\", \"POLLINGSTA\": \"St. George's Methodist Church Schoolroom, Millfield Lane, York. YO10 3AW \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.048373151740912, 53.95597729827223], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1698, \"POLLINGDIS\": \"HB / HD\", \"POLLINGSTA\": \"St. George's Methodist Church Schoolroom, Millfield Lane, York. YO10 3AW \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
         "pk": 1698
-    },
-    {
-        "OBJECTID_1": 1699,
-        "POLLINGDIS": "HC",
-        "POLLINGSTA": "Childrens Centre, Osbaldwick Primary School, Osbaldwick Lane, York. YO10 3AX",
-        "WARD": "Hull Road",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.042774798473088, 53.95684412117683], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1699, \"POLLINGDIS\": \"HC\", \"POLLINGSTA\": \"Childrens Centre, Osbaldwick Primary School, Osbaldwick Lane, York. YO10 3AX \", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 1699
-    },
-    {
-        "OBJECTID_1": 1700,
-        "POLLINGDIS": "HD",
-        "POLLINGSTA": "The Black Bull Hotel, Hull Road, York, YO10 3LF",
-        "WARD": "Hull Road",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.043220579412543, 53.95281958737696], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1700, \"POLLINGDIS\": \"HD\", \"POLLINGSTA\": \"The Black Bull Hotel, Hull Road, York, YO10 3LF\\r\\n\", \"WARD\": \"Hull Road\"}, \"type\": \"Feature\"}",
-        "pk": 1700
     },
     {
         "OBJECTID_1": 1701,
@@ -658,11 +541,11 @@
     },
     {
         "OBJECTID_1": 1702,
-        "POLLINGDIS": "YHB",
+        "POLLINGDIS": "YHB / YHC",
         "POLLINGSTA": "St James Church, Murton Way, Murton, YO19 5UJ",
         "WARD": "Osbaldwick & Derwent",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.012527188097166, 53.9654136937939], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1702, \"POLLINGDIS\": \"YHB\", \"POLLINGSTA\": \"St James Church, Murton Way, Murton, YO19 5UJ\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.012527188097166, 53.9654136937939], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 1702, \"POLLINGDIS\": \"YHB / YHC\", \"POLLINGSTA\": \"St James Church, Murton Way, Murton, YO19 5UJ\", \"WARD\": \"Osbaldwick & Derwent\"}, \"type\": \"Feature\"}",
         "pk": 1702
     },
     {
@@ -675,15 +558,6 @@
         "pk": 2101
     },
     {
-        "OBJECTID_1": 2102,
-        "POLLINGDIS": "CA",
-        "POLLINGSTA": "Stableside, Tadcaster Road, York YO24 1QG",
-        "WARD": "Dringhouses & Woodthorpe",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.105978661671321, 53.93810499804306], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2102, \"POLLINGDIS\": \"CA\", \"POLLINGSTA\": \"Stableside, Tadcaster Road, York YO24 1QG\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
-        "pk": 2102
-    },
-    {
         "OBJECTID_1": 2103,
         "POLLINGDIS": "DA",
         "POLLINGSTA": "St Lawrence Church Hall, Lawrence Street, York YO10 3WP",
@@ -693,21 +567,12 @@
         "pk": 2103
     },
     {
-        "OBJECTID_1": 2104,
-        "POLLINGDIS": "GC / GD",
-        "POLLINGSTA": "St Paul\u2019s Church, Holgate Road, York YO24 4BF",
-        "WARD": "Holgate",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.099847370943635, 53.953949896917386], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2104, \"POLLINGDIS\": \"GC / GD\", \"POLLINGSTA\": \"St Paul\\u2019s Church, Holgate Road, York YO24 4BF\", \"WARD\": \"Holgate\"}, \"type\": \"Feature\"}",
-        "pk": 2104
-    },
-    {
         "OBJECTID_1": 2106,
-        "POLLINGDIS": "HG / YCB",
+        "POLLINGDIS": "HE / HF / HG / YCB",
         "POLLINGSTA": "Heslington Church, Field Lane, Heslington, York, YO10 5JD",
         "WARD": "Fulford & Heslington",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.044589139889074, 53.94731687743833], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2106, \"POLLINGDIS\": \"HG / YCB\", \"POLLINGSTA\": \"Heslington Church, Field Lane, Heslington, York, YO10 5JD\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.044589139889074, 53.94731687743833], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2106, \"POLLINGDIS\": \"HE / HF / HG / YCB\", \"POLLINGSTA\": \"Heslington Church, Field Lane, Heslington, York, YO10 5JD\", \"WARD\": \"Fulford & Heslington\"}, \"type\": \"Feature\"}",
         "pk": 2106
     },
     {
@@ -756,15 +621,6 @@
         "pk": 2111
     },
     {
-        "OBJECTID_1": 2112,
-        "POLLINGDIS": "YMB",
-        "POLLINGSTA": "Deighton Lodge, Rush Farm, York Road, York, YO19 6H",
-        "WARD": "Wheldrake",
-        "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.043124197796171, 53.89853726217391], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2112, \"POLLINGDIS\": \"YMB\", \"POLLINGSTA\": \"Deighton Lodge, Rush Farm, York Road, York, YO19 6H\", \"WARD\": \"Wheldrake\"}, \"type\": \"Feature\"}",
-        "pk": 2112
-    },
-    {
         "OBJECTID_1": 2113,
         "POLLINGDIS": "YMC",
         "POLLINGSTA": "Wenlock Arms, 73 Main Street, Wheldrake, York, YO19 6AA",
@@ -774,12 +630,48 @@
         "pk": 2113
     },
     {
-        "OBJECTID_1": 2501,
-        "POLLINGDIS": "YFB",
-        "POLLINGSTA": "The Walnut Tree, Heworth, York, YO31 1AN",
+        "OBJECTID_1": 2901,
+        "POLLINGDIS": "YLA",
+        "POLLINGSTA": "Scout Hall, The Village, Stockton On The Forest, York, YO32 9UP",
+        "WARD": "Strensall",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.000561980594695, 53.996307883067196], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2901, \"POLLINGDIS\": \"YLA\", \"POLLINGSTA\": \"Scout Hall, The Village, Stockton On The Forest, York, YO32 9UP\", \"WARD\": \"Strensall\"}, \"type\": \"Feature\"}",
+        "pk": 2901
+    },
+    {
+        "OBJECTID_1": 2902,
+        "POLLINGDIS": "YMB",
+        "POLLINGSTA": "The White Swan,York Road,  Deighton, York, YO19 6HA",
+        "WARD": "Wheldrake",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.045626256734984, 53.889632942316716], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2902, \"POLLINGDIS\": \"YMB\", \"POLLINGSTA\": \"The White Swan,York Road,  Deighton, York, YO19 6HA\", \"WARD\": \"Wheldrake\"}, \"type\": \"Feature\"}",
+        "pk": 2902
+    },
+    {
+        "OBJECTID_1": 2903,
+        "POLLINGDIS": "JA",
+        "POLLINGSTA": "York Railway Institute, 22 Queen Street, York, YO24 1AD",
+        "WARD": "Micklegate",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.093075064776238, 53.95603139817525], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2903, \"POLLINGDIS\": \"JA\", \"POLLINGSTA\": \"York Railway Institute, 22 Queen Street, York, YO24 1AD\", \"WARD\": \"Micklegate\"}, \"type\": \"Feature\"}",
+        "pk": 2903
+    },
+    {
+        "OBJECTID_1": 2904,
+        "POLLINGDIS": "FD",
+        "POLLINGSTA": "S D A Church, 31A Heworth Hall Drive, York, YO31 1AG",
         "WARD": "Heworth",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.055418476280555, 53.96708488633663], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2501, \"POLLINGDIS\": \"YFB\", \"POLLINGSTA\": \"The Walnut Tree, Heworth, York, YO31 1AN\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
-        "pk": 2501
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.056119315782365, 53.96592354428831], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2904, \"POLLINGDIS\": \"FD\", \"POLLINGSTA\": \"S D A Church, 31A Heworth Hall Drive, York, YO31 1AG\", \"WARD\": \"Heworth\"}, \"type\": \"Feature\"}",
+        "pk": 2904
+    },
+    {
+        "OBJECTID_1": 2905,
+        "POLLINGDIS": "CA",
+        "POLLINGSTA": "Holiday Inn, Tadcaster Road, Dringhouses, York, YO24 1HF",
+        "WARD": "Dringhouses & Woodthorpe",
+        "council_id": "YOR",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.105943347859056, 53.93920126637386], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 2905, \"POLLINGDIS\": \"CA\", \"POLLINGSTA\": \"Holiday Inn, Tadcaster Road, Dringhouses, York, YO24 1HF\", \"WARD\": \"Dringhouses & Woodthorpe\"}, \"type\": \"Feature\"}",
+        "pk": 2905
     }
 ]
