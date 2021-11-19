@@ -163,11 +163,11 @@
     },
     {
         "OBJECTID_1": 35,
-        "POLLINGDIS": "YFA /YFB",
+        "POLLINGDIS": "YFA / YFB",
         "POLLINGSTA": "Heworth Christ Church, Stockton Lane, York, YO31 1JG",
         "WARD": "Heworth Without",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.047617158290469, 53.973170209206565], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 35, \"POLLINGDIS\": \"YFA /YFB\", \"POLLINGSTA\": \"Heworth Christ Church, Stockton Lane, York, YO31 1JG\", \"WARD\": \"Heworth Without\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.047617158290469, 53.973170209206565], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 35, \"POLLINGDIS\": \"YFA / YFB\", \"POLLINGSTA\": \"Heworth Christ Church, Stockton Lane, York, YO31 1JG\", \"WARD\": \"Heworth Without\"}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -451,11 +451,11 @@
     },
     {
         "OBJECTID_1": 331,
-        "POLLINGDIS": "AD",
+        "POLLINGDIS": "AD / KE",
         "POLLINGSTA": "The Gateway Centre, Front Street, York, YO24 3BZ",
         "WARD": "Acomb",
         "council_id": "YOR",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.124699805230046, 53.954937981242274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 331, \"POLLINGDIS\": \"AD\", \"POLLINGSTA\": \"The Gateway Centre, Front Street, York, YO24 3BZ\", \"WARD\": \"Acomb\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.124699805230046, 53.954937981242274], \"type\": \"Point\"}, \"properties\": {\"OBJECTID_1\": 331, \"POLLINGDIS\": \"AD / KE\", \"POLLINGSTA\": \"The Gateway Centre, Front Street, York, YO24 3BZ\", \"WARD\": \"Acomb\"}, \"type\": \"Feature\"}",
         "pk": 331
     },
     {
