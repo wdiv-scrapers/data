@@ -3,37 +3,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Districts",
-                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingDistricts/MapServer/0"
-            },
-            "id": "82d23d4644634038ba18a2121e0e3129_0",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/82d23d4644634038ba18a2121e0e3129?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=82d23d4644634038ba18a2121e0e3129",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/82d23d4644634038ba18a2121e0e3129_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/82d23d4644634038ba18a2121e0e3129_0"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
-                    ],
-                    "searchDescription": [
-                        "showing boundaries\n  of all <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts in borough"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "searchDescription"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling Stations",
                 "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingStations/MapServer/0"
             },
@@ -65,23 +34,23 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Lambeth Polling Districts From May 2022",
-                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingDistrictsFromMay2022/MapServer/0"
+                "name": "Polling Districts",
+                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingDistricts/MapServer/0"
             },
-            "id": "a87d520ef0114747848a45b2f3625764_0",
+            "id": "82d23d4644634038ba18a2121e0e3129_0",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/a87d520ef0114747848a45b2f3625764?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=a87d520ef0114747848a45b2f3625764",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a87d520ef0114747848a45b2f3625764_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/a87d520ef0114747848a45b2f3625764_0"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/82d23d4644634038ba18a2121e0e3129?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=82d23d4644634038ba18a2121e0e3129",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/82d23d4644634038ba18a2121e0e3129_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/82d23d4644634038ba18a2121e0e3129_0"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "Lambeth <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts From May 2022"
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts"
                     ],
                     "searchDescription": [
-                        "Shows the boundaries of <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Districts in Lambeth from May 2022"
+                        "showing boundaries\n  of all <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts in borough"
                     ]
                 },
                 "matchedFields": [
@@ -113,6 +82,37 @@
                     ],
                     "searchDescription": [
                         "Shows the location of <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Stations in Lambeth From May 2022"
+                    ]
+                },
+                "matchedFields": [
+                    "name",
+                    "stemmedName",
+                    "stemmedSearchDescription",
+                    "searchDescription"
+                ]
+            },
+            "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Lambeth Polling Districts From May 2022",
+                "url": "https://gis.lambeth.gov.uk/arcgis/rest/services/LambethPollingDistrictsFromMay2022/MapServer/0"
+            },
+            "id": "a87d520ef0114747848a45b2f3625764_0",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/a87d520ef0114747848a45b2f3625764?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=a87d520ef0114747848a45b2f3625764",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a87d520ef0114747848a45b2f3625764_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/a87d520ef0114747848a45b2f3625764_0"
+            },
+            "meta": {
+                "highlights": {
+                    "name": [
+                        "Lambeth <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Districts From May 2022"
+                    ],
+                    "searchDescription": [
+                        "Shows the boundaries of <mark class=\"hub-search-highlight searchDescription-highlight\">Polling</mark> Districts in Lambeth from May 2022"
                     ]
                 },
                 "matchedFields": [
