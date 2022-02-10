@@ -7,7 +7,7 @@
         "SETTLEMENT": "Braco",
         "UPRN": 124008189,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.88017079767241, 56.2659084085982], \"type\": \"Point\"}, \"properties\": {\"FID\": 1, \"POLL_PLACE\": \"Braco Village Hall\", \"PPD_CODES\": \"SLG, SLJ\", \"PPD_NAMES\": \"Braco, Greenlaoning\", \"SETTLEMENT\": \"Braco\", \"UPRN\": 124008189}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.88017079767241, 56.2659084077276], \"type\": \"Point\"}, \"properties\": {\"FID\": 1, \"POLL_PLACE\": \"Braco Village Hall\", \"PPD_CODES\": \"SLG, SLJ\", \"PPD_NAMES\": \"Braco, Greenlaoning\", \"SETTLEMENT\": \"Braco\", \"UPRN\": 124008189}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -18,7 +18,7 @@
         "SETTLEMENT": "Blackford",
         "UPRN": 124054482,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.78540471492947, 56.2590541436755], \"type\": \"Point\"}, \"properties\": {\"FID\": 2, \"POLL_PLACE\": \"Moray Institute\", \"PPD_CODES\": \"SLK\", \"PPD_NAMES\": \"Blackford\", \"SETTLEMENT\": \"Blackford\", \"UPRN\": 124054482}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.78540471492948, 56.2590541428047], \"type\": \"Point\"}, \"properties\": {\"FID\": 2, \"POLL_PLACE\": \"Moray Institute\", \"PPD_CODES\": \"SLK\", \"PPD_NAMES\": \"Blackford\", \"SETTLEMENT\": \"Blackford\", \"UPRN\": 124054482}, \"type\": \"Feature\"}",
         "pk": 2
     },
     {
@@ -29,7 +29,7 @@
         "SETTLEMENT": "Muthill",
         "UPRN": 124020253,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.83205969463602, 56.3305624244248], \"type\": \"Point\"}, \"properties\": {\"FID\": 3, \"POLL_PLACE\": \"Muthill Village Hall\", \"PPD_CODES\": \"SLH\", \"PPD_NAMES\": \"Muthill\", \"SETTLEMENT\": \"Muthill\", \"UPRN\": 124020253}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.83205969463602, 56.3305624235549], \"type\": \"Point\"}, \"properties\": {\"FID\": 3, \"POLL_PLACE\": \"Muthill Village Hall\", \"PPD_CODES\": \"SLH\", \"PPD_NAMES\": \"Muthill\", \"SETTLEMENT\": \"Muthill\", \"UPRN\": 124020253}, \"type\": \"Feature\"}",
         "pk": 3
     },
     {
@@ -40,7 +40,7 @@
         "SETTLEMENT": "Dunning",
         "UPRN": 124054491,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.5851535361649, 56.3137868443936], \"type\": \"Point\"}, \"properties\": {\"FID\": 4, \"POLL_PLACE\": \"Dunning Parish Church Hall\", \"PPD_CODES\": \"SLQ\", \"PPD_NAMES\": \"Dunning\", \"SETTLEMENT\": \"Dunning\", \"UPRN\": 124054491}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.5851535361649, 56.3137868435235], \"type\": \"Point\"}, \"properties\": {\"FID\": 4, \"POLL_PLACE\": \"Dunning Parish Church Hall\", \"PPD_CODES\": \"SLQ\", \"PPD_NAMES\": \"Dunning\", \"SETTLEMENT\": \"Dunning\", \"UPRN\": 124054491}, \"type\": \"Feature\"}",
         "pk": 4
     },
     {
@@ -51,7 +51,7 @@
         "SETTLEMENT": "Auchterarder",
         "UPRN": 124020257,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.70648761582097, 56.2966055970557], \"type\": \"Point\"}, \"properties\": {\"FID\": 5, \"POLL_PLACE\": \"Aytoun Town Hall\", \"PPD_CODES\": \"SLI, SLL, SLM, SLN\", \"PPD_NAMES\": \"Tullybardine, Glendevon, Auchterarder Landward, Auchterarder\", \"SETTLEMENT\": \"Auchterarder\", \"UPRN\": 124020257}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.70648761582097, 56.2966055961854], \"type\": \"Point\"}, \"properties\": {\"FID\": 5, \"POLL_PLACE\": \"Aytoun Town Hall\", \"PPD_CODES\": \"SLI, SLL, SLM, SLN\", \"PPD_NAMES\": \"Tullybardine, Glendevon, Auchterarder Landward, Auchterarder\", \"SETTLEMENT\": \"Auchterarder\", \"UPRN\": 124020257}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -62,7 +62,7 @@
         "SETTLEMENT": "Aberuthven",
         "UPRN": 124081166,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.65432732768087, 56.3191927366373], \"type\": \"Point\"}, \"properties\": {\"FID\": 6, \"POLL_PLACE\": \"Aberuthven Village Hall\", \"PPD_CODES\": \"SLP\", \"PPD_NAMES\": \"Aberuthven\", \"SETTLEMENT\": \"Aberuthven\", \"UPRN\": 124081166}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.65432732768087, 56.3191927357673], \"type\": \"Point\"}, \"properties\": {\"FID\": 6, \"POLL_PLACE\": \"Aberuthven Village Hall\", \"PPD_CODES\": \"SLP\", \"PPD_NAMES\": \"Aberuthven\", \"SETTLEMENT\": \"Aberuthven\", \"UPRN\": 124081166}, \"type\": \"Feature\"}",
         "pk": 6
     },
     {
@@ -73,7 +73,7 @@
         "SETTLEMENT": "Crieff",
         "UPRN": 124054503,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.83730491067263, 56.3754077632974], \"type\": \"Point\"}, \"properties\": {\"FID\": 7, \"POLL_PLACE\": \"St Andrew's Church Hall\", \"PPD_CODES\": \"SLD, SLF\", \"PPD_NAMES\": \"Crieff North, Monzie\", \"SETTLEMENT\": \"Crieff\", \"UPRN\": 124054503}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.83730491067263, 56.3754077624281], \"type\": \"Point\"}, \"properties\": {\"FID\": 7, \"POLL_PLACE\": \"St Andrew's Church Hall\", \"PPD_CODES\": \"SLD, SLF\", \"PPD_NAMES\": \"Crieff North, Monzie\", \"SETTLEMENT\": \"Crieff\", \"UPRN\": 124054503}, \"type\": \"Feature\"}",
         "pk": 7
     },
     {
@@ -84,7 +84,7 @@
         "SETTLEMENT": "Comrie",
         "UPRN": 124018185,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.98851066703379, 56.3738739788219], \"type\": \"Point\"}, \"properties\": {\"FID\": 8, \"POLL_PLACE\": \"Comrie Community Centre\", \"PPD_CODES\": \"SLB\", \"PPD_NAMES\": \"Comrie\", \"SETTLEMENT\": \"Comrie\", \"UPRN\": 124018185}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.98851066703379, 56.3738739779526], \"type\": \"Point\"}, \"properties\": {\"FID\": 8, \"POLL_PLACE\": \"Comrie Community Centre\", \"PPD_CODES\": \"SLB\", \"PPD_NAMES\": \"Comrie\", \"SETTLEMENT\": \"Comrie\", \"UPRN\": 124018185}, \"type\": \"Feature\"}",
         "pk": 8
     },
     {
@@ -95,7 +95,7 @@
         "SETTLEMENT": "Crieff",
         "UPRN": 124091325,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.83526992618418, 56.3660926228865], \"type\": \"Point\"}, \"properties\": {\"FID\": 9, \"POLL_PLACE\": \"Strathearn Community Campus\", \"PPD_CODES\": \"SLC, SLE\", \"PPD_NAMES\": \"Strowan, Crieff South\", \"SETTLEMENT\": \"Crieff\", \"UPRN\": 124091325}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.83526992618418, 56.3660926220171], \"type\": \"Point\"}, \"properties\": {\"FID\": 9, \"POLL_PLACE\": \"Strathearn Community Campus\", \"PPD_CODES\": \"SLC, SLE\", \"PPD_NAMES\": \"Strowan, Crieff South\", \"SETTLEMENT\": \"Crieff\", \"UPRN\": 124091325}, \"type\": \"Feature\"}",
         "pk": 9
     },
     {
@@ -106,7 +106,7 @@
         "SETTLEMENT": "St Fillans",
         "UPRN": 124073126,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.11858792474469, 56.3932587295055], \"type\": \"Point\"}, \"properties\": {\"FID\": 10, \"POLL_PLACE\": \"Sandison Hall\", \"PPD_CODES\": \"SLA\", \"PPD_NAMES\": \"St Fillans\", \"SETTLEMENT\": \"St Fillans\", \"UPRN\": 124073126}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.11858792474469, 56.3932587286364], \"type\": \"Point\"}, \"properties\": {\"FID\": 10, \"POLL_PLACE\": \"Sandison Hall\", \"PPD_CODES\": \"SLA\", \"PPD_NAMES\": \"St Fillans\", \"SETTLEMENT\": \"St Fillans\", \"UPRN\": 124073126}, \"type\": \"Feature\"}",
         "pk": 10
     },
     {
@@ -117,7 +117,7 @@
         "SETTLEMENT": "Bridge of Earn",
         "UPRN": 124060728,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.40969006815482, 56.3492106134036], \"type\": \"Point\"}, \"properties\": {\"FID\": 11, \"POLL_PLACE\": \"The Institute\", \"PPD_CODES\": \"SMG, SMJ\", \"PPD_NAMES\": \"Aberdalgie, Bridge of Earn\", \"SETTLEMENT\": \"Bridge of Earn\", \"UPRN\": 124060728}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.40969006815482, 56.349210612534], \"type\": \"Point\"}, \"properties\": {\"FID\": 11, \"POLL_PLACE\": \"The Institute\", \"PPD_CODES\": \"SMG, SMJ\", \"PPD_NAMES\": \"Aberdalgie, Bridge of Earn\", \"SETTLEMENT\": \"Bridge of Earn\", \"UPRN\": 124060728}, \"type\": \"Feature\"}",
         "pk": 11
     },
     {
@@ -128,7 +128,7 @@
         "SETTLEMENT": "Abernethy",
         "UPRN": 124081284,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.31073395746515, 56.3313111232017], \"type\": \"Point\"}, \"properties\": {\"FID\": 12, \"POLL_PLACE\": \"Williamson Hall\", \"PPD_CODES\": \"SMK\", \"PPD_NAMES\": \"Abernethy\", \"SETTLEMENT\": \"Abernethy\", \"UPRN\": 124081284}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.31073395746515, 56.3313111223318], \"type\": \"Point\"}, \"properties\": {\"FID\": 12, \"POLL_PLACE\": \"Williamson Hall\", \"PPD_CODES\": \"SMK\", \"PPD_NAMES\": \"Abernethy\", \"SETTLEMENT\": \"Abernethy\", \"UPRN\": 124081284}, \"type\": \"Feature\"}",
         "pk": 12
     },
     {
@@ -139,7 +139,7 @@
         "SETTLEMENT": "Methven",
         "UPRN": 124081010,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.57310071541964, 56.4167663823297], \"type\": \"Point\"}, \"properties\": {\"FID\": 13, \"POLL_PLACE\": \"Methven Bowling Club\", \"PPD_CODES\": \"SMB\", \"PPD_NAMES\": \"Methven\", \"SETTLEMENT\": \"Methven\", \"UPRN\": 124081010}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.57310071541964, 56.4167663814609], \"type\": \"Point\"}, \"properties\": {\"FID\": 13, \"POLL_PLACE\": \"Methven Bowling Club\", \"PPD_CODES\": \"SMB\", \"PPD_NAMES\": \"Methven\", \"SETTLEMENT\": \"Methven\", \"UPRN\": 124081010}, \"type\": \"Feature\"}",
         "pk": 13
     },
     {
@@ -150,7 +150,7 @@
         "SETTLEMENT": "Findo Gask",
         "UPRN": 124073716,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.61564708800953, 56.3638850177893], \"type\": \"Point\"}, \"properties\": {\"FID\": 14, \"POLL_PLACE\": \"Findo Gask Hall\", \"PPD_CODES\": \"SME\", \"PPD_NAMES\": \"Findo Gask\", \"SETTLEMENT\": \"Findo Gask\", \"UPRN\": 124073716}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.61564708800953, 56.3638850169199], \"type\": \"Point\"}, \"properties\": {\"FID\": 14, \"POLL_PLACE\": \"Findo Gask Hall\", \"PPD_CODES\": \"SME\", \"PPD_NAMES\": \"Findo Gask\", \"SETTLEMENT\": \"Findo Gask\", \"UPRN\": 124073716}, \"type\": \"Feature\"}",
         "pk": 14
     },
     {
@@ -161,7 +161,7 @@
         "SETTLEMENT": "Forgandenny",
         "UPRN": 124081159,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.48008537639683, 56.3458375584785], \"type\": \"Point\"}, \"properties\": {\"FID\": 15, \"POLL_PLACE\": \"Forgandenny Village Hall\", \"PPD_CODES\": \"SMH, SMI\", \"PPD_NAMES\": \"Forteviot, Forgandenny\", \"SETTLEMENT\": \"Forgandenny\", \"UPRN\": 124081159}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.48008537639683, 56.3458375576089], \"type\": \"Point\"}, \"properties\": {\"FID\": 15, \"POLL_PLACE\": \"Forgandenny Village Hall\", \"PPD_CODES\": \"SMH, SMI\", \"PPD_NAMES\": \"Forteviot, Forgandenny\", \"SETTLEMENT\": \"Forgandenny\", \"UPRN\": 124081159}, \"type\": \"Feature\"}",
         "pk": 15
     },
     {
@@ -172,7 +172,7 @@
         "SETTLEMENT": "Fowlis Wester",
         "UPRN": 124081313,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.73832263641027, 56.3972958966034], \"type\": \"Point\"}, \"properties\": {\"FID\": 16, \"POLL_PLACE\": \"Fowlis Wester Village Hall\", \"PPD_CODES\": \"SMC\", \"PPD_NAMES\": \"Fowlis Wester\", \"SETTLEMENT\": \"Fowlis Wester\", \"UPRN\": 124081313}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.73832263641027, 56.3972958957344], \"type\": \"Point\"}, \"properties\": {\"FID\": 16, \"POLL_PLACE\": \"Fowlis Wester Village Hall\", \"PPD_CODES\": \"SMC\", \"PPD_NAMES\": \"Fowlis Wester\", \"SETTLEMENT\": \"Fowlis Wester\", \"UPRN\": 124081313}, \"type\": \"Feature\"}",
         "pk": 16
     },
     {
@@ -183,7 +183,7 @@
         "SETTLEMENT": "Madderty",
         "UPRN": 124098126,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.70171283704947, 56.3611695498541], \"type\": \"Point\"}, \"properties\": {\"FID\": 17, \"POLL_PLACE\": \"Madderty Village Hall\", \"PPD_CODES\": \"SMD\", \"PPD_NAMES\": \"Madderty\", \"SETTLEMENT\": \"Madderty\", \"UPRN\": 124098126}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.70171283704947, 56.3611695489847], \"type\": \"Point\"}, \"properties\": {\"FID\": 17, \"POLL_PLACE\": \"Madderty Village Hall\", \"PPD_CODES\": \"SMD\", \"PPD_NAMES\": \"Madderty\", \"SETTLEMENT\": \"Madderty\", \"UPRN\": 124098126}, \"type\": \"Feature\"}",
         "pk": 17
     },
     {
@@ -194,7 +194,7 @@
         "SETTLEMENT": "Blairgowrie",
         "UPRN": 124101826,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.32627787846262, 56.5957361452158], \"type\": \"Point\"}, \"properties\": {\"FID\": 18, \"POLL_PLACE\": \"Community Connect @Rattray\", \"PPD_CODES\": \"PBV\", \"PPD_NAMES\": \"Rattray\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124101826}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.32627787846262, 56.5957361443494], \"type\": \"Point\"}, \"properties\": {\"FID\": 18, \"POLL_PLACE\": \"Community Connect @Rattray\", \"PPD_CODES\": \"PBV\", \"PPD_NAMES\": \"Rattray\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124101826}, \"type\": \"Feature\"}",
         "pk": 18
     },
     {
@@ -205,18 +205,18 @@
         "SETTLEMENT": "Blacklunans",
         "UPRN": 124063886,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.41114456864389, 56.6976886846784], \"type\": \"Point\"}, \"properties\": {\"FID\": 19, \"POLL_PLACE\": \"Blackwater Hall\", \"PPD_CODES\": \"PBZ\", \"PPD_NAMES\": \"Glenshee\", \"SETTLEMENT\": \"Blacklunans\", \"UPRN\": 124063886}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.41114456864389, 56.6976886838133], \"type\": \"Point\"}, \"properties\": {\"FID\": 19, \"POLL_PLACE\": \"Blackwater Hall\", \"PPD_CODES\": \"PBZ\", \"PPD_NAMES\": \"Glenshee\", \"SETTLEMENT\": \"Blacklunans\", \"UPRN\": 124063886}, \"type\": \"Feature\"}",
         "pk": 19
     },
     {
         "FID": 20,
-        "POLL_PLACE": "Blairgowrie Adult Resource Centre",
+        "POLL_PLACE": "Blairgowrie Town Hall",
         "PPD_CODES": "PBT",
         "PPD_NAMES": "Blairgowrie South",
         "SETTLEMENT": "Blairgowrie",
-        "UPRN": 124010802,
+        "UPRN": 124040088,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.34079227034179, 56.5884850553855], \"type\": \"Point\"}, \"properties\": {\"FID\": 20, \"POLL_PLACE\": \"Blairgowrie Adult Resource Centre\", \"PPD_CODES\": \"PBT\", \"PPD_NAMES\": \"Blairgowrie South\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124010802}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.3403077480188, 56.5923407473052], \"type\": \"Point\"}, \"properties\": {\"FID\": 20, \"POLL_PLACE\": \"Blairgowrie Town Hall\", \"PPD_CODES\": \"PBT\", \"PPD_NAMES\": \"Blairgowrie South\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124040088}, \"type\": \"Feature\"}",
         "pk": 20
     },
     {
@@ -227,7 +227,7 @@
         "SETTLEMENT": "Kirkmichael",
         "UPRN": 124073105,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.50579333322182, 56.7222080138783], \"type\": \"Point\"}, \"properties\": {\"FID\": 21, \"POLL_PLACE\": \"Kirkmichael Village Hall\", \"PPD_CODES\": \"PBY\", \"PPD_NAMES\": \"Kirkmichael\", \"SETTLEMENT\": \"Kirkmichael\", \"UPRN\": 124073105}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.50579333322182, 56.7222080130135], \"type\": \"Point\"}, \"properties\": {\"FID\": 21, \"POLL_PLACE\": \"Kirkmichael Village Hall\", \"PPD_CODES\": \"PBY\", \"PPD_NAMES\": \"Kirkmichael\", \"SETTLEMENT\": \"Kirkmichael\", \"UPRN\": 124073105}, \"type\": \"Feature\"}",
         "pk": 21
     },
     {
@@ -238,7 +238,7 @@
         "SETTLEMENT": "Blairgowrie",
         "UPRN": 124058307,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.34090223063337, 56.5929334621836], \"type\": \"Point\"}, \"properties\": {\"FID\": 22, \"POLL_PLACE\": \"St Catharine's Community Centre\", \"PPD_CODES\": \"PBU, PBX\", \"PPD_NAMES\": \"Blairgowrie West, Kinloch\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124058307}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.34090223063337, 56.5929334613172], \"type\": \"Point\"}, \"properties\": {\"FID\": 22, \"POLL_PLACE\": \"St Catharine's Community Centre\", \"PPD_CODES\": \"PBU, PBX\", \"PPD_NAMES\": \"Blairgowrie West, Kinloch\", \"SETTLEMENT\": \"Blairgowrie\", \"UPRN\": 124058307}, \"type\": \"Feature\"}",
         "pk": 22
     },
     {
@@ -249,7 +249,7 @@
         "SETTLEMENT": "Bridge of Cally",
         "UPRN": 124081180,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.40070549986506, 56.6488963432782], \"type\": \"Point\"}, \"properties\": {\"FID\": 23, \"POLL_PLACE\": \"Bridge of Cally Hall\", \"PPD_CODES\": \"PBW\", \"PPD_NAMES\": \"Bridge of Cally\", \"SETTLEMENT\": \"Bridge of Cally\", \"UPRN\": 124081180}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.40070549986506, 56.6488963424125], \"type\": \"Point\"}, \"properties\": {\"FID\": 23, \"POLL_PLACE\": \"Bridge of Cally Hall\", \"PPD_CODES\": \"PBW\", \"PPD_NAMES\": \"Bridge of Cally\", \"SETTLEMENT\": \"Bridge of Cally\", \"UPRN\": 124081180}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -260,7 +260,7 @@
         "SETTLEMENT": "Guildtown",
         "UPRN": 124054490,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.40753565253627, 56.4696257730949], \"type\": \"Point\"}, \"properties\": {\"FID\": 24, \"POLL_PLACE\": \"Guildtown Village Hall\", \"PPD_CODES\": \"PBR\", \"PPD_NAMES\": \"Guildtown\", \"SETTLEMENT\": \"Guildtown\", \"UPRN\": 124054490}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.40753565253627, 56.4696257722269], \"type\": \"Point\"}, \"properties\": {\"FID\": 24, \"POLL_PLACE\": \"Guildtown Village Hall\", \"PPD_CODES\": \"PBR\", \"PPD_NAMES\": \"Guildtown\", \"SETTLEMENT\": \"Guildtown\", \"UPRN\": 124054490}, \"type\": \"Feature\"}",
         "pk": 24
     },
     {
@@ -271,7 +271,7 @@
         "SETTLEMENT": "Balbeggie",
         "UPRN": 124054484,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.34819068860649, 56.4522518056557], \"type\": \"Point\"}, \"properties\": {\"FID\": 25, \"POLL_PLACE\": \"Balbeggie Village Hall\", \"PPD_CODES\": \"PBQ\", \"PPD_NAMES\": \"Balbeggie\", \"SETTLEMENT\": \"Balbeggie\", \"UPRN\": 124054484}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.34819068860649, 56.4522518047874], \"type\": \"Point\"}, \"properties\": {\"FID\": 25, \"POLL_PLACE\": \"Balbeggie Village Hall\", \"PPD_CODES\": \"PBQ\", \"PPD_NAMES\": \"Balbeggie\", \"SETTLEMENT\": \"Balbeggie\", \"UPRN\": 124054484}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
@@ -282,7 +282,7 @@
         "SETTLEMENT": "Meigle",
         "UPRN": 124010859,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.15840282990123, 56.5851361684854], \"type\": \"Point\"}, \"properties\": {\"FID\": 26, \"POLL_PLACE\": \"Kinloch Memorial Hall\", \"PPD_CODES\": \"PBK\", \"PPD_NAMES\": \"Meigle\", \"SETTLEMENT\": \"Meigle\", \"UPRN\": 124010859}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.15840282990123, 56.5851361676188], \"type\": \"Point\"}, \"properties\": {\"FID\": 26, \"POLL_PLACE\": \"Kinloch Memorial Hall\", \"PPD_CODES\": \"PBK\", \"PPD_NAMES\": \"Meigle\", \"SETTLEMENT\": \"Meigle\", \"UPRN\": 124010859}, \"type\": \"Feature\"}",
         "pk": 26
     },
     {
@@ -293,7 +293,7 @@
         "SETTLEMENT": "Coupar Angus",
         "UPRN": 124054592,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.26465593554131, 56.5481443981965], \"type\": \"Point\"}, \"properties\": {\"FID\": 27, \"POLL_PLACE\": \"St Anne's Church Hall\", \"PPD_CODES\": \"PBM\", \"PPD_NAMES\": \"Coupar Angus\", \"SETTLEMENT\": \"Coupar Angus\", \"UPRN\": 124054592}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.26465593554131, 56.5481443973295], \"type\": \"Point\"}, \"properties\": {\"FID\": 27, \"POLL_PLACE\": \"St Anne's Church Hall\", \"PPD_CODES\": \"PBM\", \"PPD_NAMES\": \"Coupar Angus\", \"SETTLEMENT\": \"Coupar Angus\", \"UPRN\": 124054592}, \"type\": \"Feature\"}",
         "pk": 27
     },
     {
@@ -304,7 +304,7 @@
         "SETTLEMENT": "Alyth",
         "UPRN": 124043513,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.23210529025408, 56.6215336507959], \"type\": \"Point\"}, \"properties\": {\"FID\": 28, \"POLL_PLACE\": \"Alyth Town Hall\", \"PPD_CODES\": \"PBI, PBJ\", \"PPD_NAMES\": \"Alyth Town, Alyth Landward\", \"SETTLEMENT\": \"Alyth\", \"UPRN\": 124043513}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.23210529025408, 56.6215336499298], \"type\": \"Point\"}, \"properties\": {\"FID\": 28, \"POLL_PLACE\": \"Alyth Town Hall\", \"PPD_CODES\": \"PBI, PBJ\", \"PPD_NAMES\": \"Alyth Town, Alyth Landward\", \"SETTLEMENT\": \"Alyth\", \"UPRN\": 124043513}, \"type\": \"Feature\"}",
         "pk": 28
     },
     {
@@ -315,7 +315,7 @@
         "SETTLEMENT": "Kinrossie",
         "UPRN": 124054506,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.31891504941171, 56.4759538923782], \"type\": \"Point\"}, \"properties\": {\"FID\": 29, \"POLL_PLACE\": \"Kinrossie Hall\", \"PPD_CODES\": \"PBP\", \"PPD_NAMES\": \"Kinrossie\", \"SETTLEMENT\": \"Kinrossie\", \"UPRN\": 124054506}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.31891504941171, 56.4759538915102], \"type\": \"Point\"}, \"properties\": {\"FID\": 29, \"POLL_PLACE\": \"Kinrossie Hall\", \"PPD_CODES\": \"PBP\", \"PPD_NAMES\": \"Kinrossie\", \"SETTLEMENT\": \"Kinrossie\", \"UPRN\": 124054506}, \"type\": \"Feature\"}",
         "pk": 29
     },
     {
@@ -326,7 +326,7 @@
         "SETTLEMENT": "Burrelton",
         "UPRN": 124059887,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.2986244524624, 56.5207142365405], \"type\": \"Point\"}, \"properties\": {\"FID\": 30, \"POLL_PLACE\": \"Burrelton Village Hall\", \"PPD_CODES\": \"PBN\", \"PPD_NAMES\": \"Burrelton\", \"SETTLEMENT\": \"Burrelton\", \"UPRN\": 124059887}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.2986244524624, 56.5207142356731], \"type\": \"Point\"}, \"properties\": {\"FID\": 30, \"POLL_PLACE\": \"Burrelton Village Hall\", \"PPD_CODES\": \"PBN\", \"PPD_NAMES\": \"Burrelton\", \"SETTLEMENT\": \"Burrelton\", \"UPRN\": 124059887}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -337,7 +337,7 @@
         "SETTLEMENT": "Scone",
         "UPRN": 124081682,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.40192089404403, 56.4207837329824], \"type\": \"Point\"}, \"properties\": {\"FID\": 31, \"POLL_PLACE\": \"Robert Douglas Memorial Institute\", \"PPD_CODES\": \"PBS\", \"PPD_NAMES\": \"Scone\", \"SETTLEMENT\": \"Scone\", \"UPRN\": 124081682}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.40192089404403, 56.4207837321136], \"type\": \"Point\"}, \"properties\": {\"FID\": 31, \"POLL_PLACE\": \"Robert Douglas Memorial Institute\", \"PPD_CODES\": \"PBS\", \"PPD_NAMES\": \"Scone\", \"SETTLEMENT\": \"Scone\", \"UPRN\": 124081682}, \"type\": \"Feature\"}",
         "pk": 31
     },
     {
@@ -348,7 +348,7 @@
         "SETTLEMENT": "Kettins",
         "UPRN": 124054477,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.24078412740344, 56.5368576483351], \"type\": \"Point\"}, \"properties\": {\"FID\": 32, \"POLL_PLACE\": \"Kettins Church Hall\", \"PPD_CODES\": \"PBC, PBL\", \"PPD_NAMES\": \"Tullybaccart, Kettins\", \"SETTLEMENT\": \"Kettins\", \"UPRN\": 124054477}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.24078412740344, 56.5368576474679], \"type\": \"Point\"}, \"properties\": {\"FID\": 32, \"POLL_PLACE\": \"Kettins Church Hall\", \"PPD_CODES\": \"PBC, PBL\", \"PPD_NAMES\": \"Tullybaccart, Kettins\", \"SETTLEMENT\": \"Kettins\", \"UPRN\": 124054477}, \"type\": \"Feature\"}",
         "pk": 32
     },
     {
@@ -359,7 +359,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124054507,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.44287803258998, 56.3892704815572], \"type\": \"Point\"}, \"properties\": {\"FID\": 33, \"POLL_PLACE\": \"Craigie Church Hall\", \"PPD_CODES\": \"PLC\", \"PPD_NAMES\": \"Craigie\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054507}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.44287803258998, 56.3892704806881], \"type\": \"Point\"}, \"properties\": {\"FID\": 33, \"POLL_PLACE\": \"Craigie Church Hall\", \"PPD_CODES\": \"PLC\", \"PPD_NAMES\": \"Craigie\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054507}, \"type\": \"Feature\"}",
         "pk": 33
     },
     {
@@ -370,7 +370,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124081362,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.47048052118041, 56.3938974191494], \"type\": \"Point\"}, \"properties\": {\"FID\": 34, \"POLL_PLACE\": \"Oakbank Community Centre\", \"PPD_CODES\": \"PLE\", \"PPD_NAMES\": \"Oakbank\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124081362}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.47048052118041, 56.3938974182804], \"type\": \"Point\"}, \"properties\": {\"FID\": 34, \"POLL_PLACE\": \"Oakbank Community Centre\", \"PPD_CODES\": \"PLE\", \"PPD_NAMES\": \"Oakbank\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124081362}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
@@ -381,7 +381,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124054585,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.43768997131014, 56.380130003111], \"type\": \"Point\"}, \"properties\": {\"FID\": 35, \"POLL_PLACE\": \"Moncreiffe Church Hall\", \"PPD_CODES\": \"PLB\", \"PPD_NAMES\": \"Moncrieff\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054585}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.43768997131014, 56.3801300022418], \"type\": \"Point\"}, \"properties\": {\"FID\": 35, \"POLL_PLACE\": \"Moncreiffe Church Hall\", \"PPD_CODES\": \"PLB\", \"PPD_NAMES\": \"Moncrieff\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054585}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -392,7 +392,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124082411,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.43663160499595, 56.3821279749524], \"type\": \"Point\"}, \"properties\": {\"FID\": 36, \"POLL_PLACE\": \"Moncreiffe Community Centre\", \"PPD_CODES\": \"PLA, PCZ, PDD\", \"PPD_NAMES\": \"Friarton, Harbour, Craigclowan\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082411}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.43663160499595, 56.3821279740832], \"type\": \"Point\"}, \"properties\": {\"FID\": 36, \"POLL_PLACE\": \"Moncreiffe Community Centre\", \"PPD_CODES\": \"PLA, PCZ, PDD\", \"PPD_NAMES\": \"Friarton, Harbour, Craigclowan\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082411}, \"type\": \"Feature\"}",
         "pk": 36
     },
     {
@@ -403,7 +403,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124082065,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.45727692246333, 56.39134858589], \"type\": \"Point\"}, \"properties\": {\"FID\": 37, \"POLL_PLACE\": \"Scout Hall, Perth Academy\", \"PPD_CODES\": \"PLD, PLN\", \"PPD_NAMES\": \"Viewlands, Cherrybank\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082065}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.45727692246333, 56.3913485850209], \"type\": \"Point\"}, \"properties\": {\"FID\": 37, \"POLL_PLACE\": \"Scout Hall, Perth Academy\", \"PPD_CODES\": \"PLD, PLN\", \"PPD_NAMES\": \"Viewlands, Cherrybank\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082065}, \"type\": \"Feature\"}",
         "pk": 37
     },
     {
@@ -414,7 +414,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124097652,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.48206125912312, 56.3970713159634], \"type\": \"Point\"}, \"properties\": {\"FID\": 38, \"POLL_PLACE\": \"Perth Baptist Church Hall\", \"PPD_CODES\": \"PLF, PLG\", \"PPD_NAMES\": \"Western Edge South, Western Edge North\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124097652}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.48206125912312, 56.3970713150944], \"type\": \"Point\"}, \"properties\": {\"FID\": 38, \"POLL_PLACE\": \"Perth Baptist Church Hall\", \"PPD_CODES\": \"PLF, PLG\", \"PPD_NAMES\": \"Western Edge South, Western Edge North\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124097652}, \"type\": \"Feature\"}",
         "pk": 38
     },
     {
@@ -425,7 +425,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124028251,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.43568377462142, 56.3935139540211], \"type\": \"Point\"}, \"properties\": {\"FID\": 39, \"POLL_PLACE\": \"Christian Fellowship Centre\", \"PPD_CODES\": \"PCY\", \"PPD_NAMES\": \"South Inch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124028251}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.43568377462142, 56.3935139531521], \"type\": \"Point\"}, \"properties\": {\"FID\": 39, \"POLL_PLACE\": \"Christian Fellowship Centre\", \"PPD_CODES\": \"PCY\", \"PPD_NAMES\": \"South Inch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124028251}, \"type\": \"Feature\"}",
         "pk": 39
     },
     {
@@ -436,18 +436,18 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124054440,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.44489346467882, 56.4133989985863], \"type\": \"Point\"}, \"properties\": {\"FID\": 40, \"POLL_PLACE\": \"Riverside Church\", \"PPD_CODES\": \"PCV\", \"PPD_NAMES\": \"North Muirton\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054440}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.44489346467882, 56.4133989977175], \"type\": \"Point\"}, \"properties\": {\"FID\": 40, \"POLL_PLACE\": \"Riverside Church\", \"PPD_CODES\": \"PCV\", \"PPD_NAMES\": \"North Muirton\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124054440}, \"type\": \"Feature\"}",
         "pk": 40
     },
     {
         "FID": 41,
         "POLL_PLACE": "Gannochy Community Centre",
-        "PPD_CODES": "PDB, PDC",
-        "PPD_NAMES": "Gannochy, Upper Springlands",
+        "PPD_CODES": "PDB",
+        "PPD_NAMES": "Gannochy",
         "SETTLEMENT": "Perth",
         "UPRN": 124082410,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.41862368845166, 56.4056694598393], \"type\": \"Point\"}, \"properties\": {\"FID\": 41, \"POLL_PLACE\": \"Gannochy Community Centre\", \"PPD_CODES\": \"PDB, PDC\", \"PPD_NAMES\": \"Gannochy, Upper Springlands\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082410}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.41862368845166, 56.4056694589703], \"type\": \"Point\"}, \"properties\": {\"FID\": 41, \"POLL_PLACE\": \"Gannochy Community Centre\", \"PPD_CODES\": \"PDB\", \"PPD_NAMES\": \"Gannochy\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124082410}, \"type\": \"Feature\"}",
         "pk": 41
     },
     {
@@ -458,7 +458,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124045911,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.42171718660845, 56.3943308554291], \"type\": \"Point\"}, \"properties\": {\"FID\": 42, \"POLL_PLACE\": \"Rodney Fitness Centre\", \"PPD_CODES\": \"PDA\", \"PPD_NAMES\": \"Kinnoull\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124045911}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.42171718660845, 56.39433085456], \"type\": \"Point\"}, \"properties\": {\"FID\": 42, \"POLL_PLACE\": \"Rodney Fitness Centre\", \"PPD_CODES\": \"PDA\", \"PPD_NAMES\": \"Kinnoull\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124045911}, \"type\": \"Feature\"}",
         "pk": 42
     },
     {
@@ -469,7 +469,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124079550,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.43786950563385, 56.4106039896536], \"type\": \"Point\"}, \"properties\": {\"FID\": 43, \"POLL_PLACE\": \"North Inch Community Campus Library\", \"PPD_CODES\": \"PCW\", \"PPD_NAMES\": \"Muirton\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124079550}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.43857759498844, 56.4099175935707], \"type\": \"Point\"}, \"properties\": {\"FID\": 43, \"POLL_PLACE\": \"North Inch Community Campus Library\", \"PPD_CODES\": \"PCW\", \"PPD_NAMES\": \"Muirton\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124079550}, \"type\": \"Feature\"}",
         "pk": 43
     },
     {
@@ -480,7 +480,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124097192,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.43307780471396, 56.3970212860666], \"type\": \"Point\"}, \"properties\": {\"FID\": 44, \"POLL_PLACE\": \"North Church Hall\", \"PPD_CODES\": \"PCX\", \"PPD_NAMES\": \"North Inch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124097192}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.43307780471396, 56.3970212851976], \"type\": \"Point\"}, \"properties\": {\"FID\": 44, \"POLL_PLACE\": \"North Church Hall\", \"PPD_CODES\": \"PCX\", \"PPD_NAMES\": \"North Inch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124097192}, \"type\": \"Feature\"}",
         "pk": 44
     },
     {
@@ -491,7 +491,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124004041,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.44598685348095, 56.4004977469706], \"type\": \"Point\"}, \"properties\": {\"FID\": 45, \"POLL_PLACE\": \"Railway Staff Club\", \"PPD_CODES\": \"PLI, PLJ\", \"PPD_NAMES\": \"Wellshill, Fairfield\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124004041}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.44598685348095, 56.4004977461017], \"type\": \"Point\"}, \"properties\": {\"FID\": 45, \"POLL_PLACE\": \"Railway Staff Club\", \"PPD_CODES\": \"PLI, PLJ\", \"PPD_NAMES\": \"Wellshill, Fairfield\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124004041}, \"type\": \"Feature\"}",
         "pk": 45
     },
     {
@@ -502,7 +502,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124046120,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46994493968739, 56.4081627049257], \"type\": \"Point\"}, \"properties\": {\"FID\": 46, \"POLL_PLACE\": \"Tulloch Community Centre\", \"PPD_CODES\": \"PLK\", \"PPD_NAMES\": \"Tulloch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124046120}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46994493968739, 56.4081627040569], \"type\": \"Point\"}, \"properties\": {\"FID\": 46, \"POLL_PLACE\": \"Tulloch Community Centre\", \"PPD_CODES\": \"PLK\", \"PPD_NAMES\": \"Tulloch\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124046120}, \"type\": \"Feature\"}",
         "pk": 46
     },
     {
@@ -513,7 +513,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124079633,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46803193549836, 56.4013781253805], \"type\": \"Point\"}, \"properties\": {\"FID\": 47, \"POLL_PLACE\": \"Letham St Marks Hall\", \"PPD_CODES\": \"PLH10, PLH11\", \"PPD_NAMES\": \"South Letham\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124079633}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46803193549836, 56.4013781245115], \"type\": \"Point\"}, \"properties\": {\"FID\": 47, \"POLL_PLACE\": \"Letham St Marks Hall\", \"PPD_CODES\": \"PLH10, PLH11\", \"PPD_NAMES\": \"South Letham\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124079633}, \"type\": \"Feature\"}",
         "pk": 47
     },
     {
@@ -524,7 +524,7 @@
         "SETTLEMENT": "Perth",
         "UPRN": 124083250,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.48087119153598, 56.4023993267024], \"type\": \"Point\"}, \"properties\": {\"FID\": 48, \"POLL_PLACE\": \"Perth Gospel Hall\", \"PPD_CODES\": \"PLL\", \"PPD_NAMES\": \"North Letham\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124083250}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.48087119153598, 56.4023993258335], \"type\": \"Point\"}, \"properties\": {\"FID\": 48, \"POLL_PLACE\": \"Perth Gospel Hall\", \"PPD_CODES\": \"PLL\", \"PPD_NAMES\": \"North Letham\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124083250}, \"type\": \"Feature\"}",
         "pk": 48
     },
     {
@@ -535,7 +535,7 @@
         "SETTLEMENT": "Milnathort",
         "UPRN": 124030736,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.41985601078943, 56.2270117435498], \"type\": \"Point\"}, \"properties\": {\"FID\": 49, \"POLL_PLACE\": \"Milnathort Town Hall\", \"PPD_CODES\": \"SLR\", \"PPD_NAMES\": \"Milnathort\", \"SETTLEMENT\": \"Milnathort\", \"UPRN\": 124030736}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.41985601078943, 56.2270117426786], \"type\": \"Point\"}, \"properties\": {\"FID\": 49, \"POLL_PLACE\": \"Milnathort Town Hall\", \"PPD_CODES\": \"SLR\", \"PPD_NAMES\": \"Milnathort\", \"SETTLEMENT\": \"Milnathort\", \"UPRN\": 124030736}, \"type\": \"Feature\"}",
         "pk": 49
     },
     {
@@ -546,7 +546,7 @@
         "SETTLEMENT": "Kinross",
         "UPRN": 124054505,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.42009015081136, 56.2024880433679], \"type\": \"Point\"}, \"properties\": {\"FID\": 50, \"POLL_PLACE\": \"Millbridge Hall\", \"PPD_CODES\": \"SLS\", \"PPD_NAMES\": \"Kinross\", \"SETTLEMENT\": \"Kinross\", \"UPRN\": 124054505}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.42009015081136, 56.2024880424964], \"type\": \"Point\"}, \"properties\": {\"FID\": 50, \"POLL_PLACE\": \"Millbridge Hall\", \"PPD_CODES\": \"SLS\", \"PPD_NAMES\": \"Kinross\", \"SETTLEMENT\": \"Kinross\", \"UPRN\": 124054505}, \"type\": \"Feature\"}",
         "pk": 50
     },
     {
@@ -557,7 +557,7 @@
         "SETTLEMENT": "Blairadam",
         "UPRN": 124073106,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.38668336889625, 56.1437708097764], \"type\": \"Point\"}, \"properties\": {\"FID\": 51, \"POLL_PLACE\": \"Tabernacle Hall\", \"PPD_CODES\": \"SLW\", \"PPD_NAMES\": \"Blairadam\", \"SETTLEMENT\": \"Blairadam\", \"UPRN\": 124073106}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.38668336889625, 56.1437708089042], \"type\": \"Point\"}, \"properties\": {\"FID\": 51, \"POLL_PLACE\": \"Tabernacle Hall\", \"PPD_CODES\": \"SLW\", \"PPD_NAMES\": \"Blairadam\", \"SETTLEMENT\": \"Blairadam\", \"UPRN\": 124073106}, \"type\": \"Feature\"}",
         "pk": 51
     },
     {
@@ -568,7 +568,7 @@
         "SETTLEMENT": "Cleish",
         "UPRN": 124073118,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46011157313869, 56.1667634014472], \"type\": \"Point\"}, \"properties\": {\"FID\": 52, \"POLL_PLACE\": \"Cleish Village Hall\", \"PPD_CODES\": \"SLV\", \"PPD_NAMES\": \"Cleish\", \"SETTLEMENT\": \"Cleish\", \"UPRN\": 124073118}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46011157313869, 56.1667634005753], \"type\": \"Point\"}, \"properties\": {\"FID\": 52, \"POLL_PLACE\": \"Cleish Village Hall\", \"PPD_CODES\": \"SLV\", \"PPD_NAMES\": \"Cleish\", \"SETTLEMENT\": \"Cleish\", \"UPRN\": 124073118}, \"type\": \"Feature\"}",
         "pk": 52
     },
     {
@@ -579,7 +579,7 @@
         "SETTLEMENT": "Powmill",
         "UPRN": 124073125,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.57994463424326, 56.1659362856442], \"type\": \"Point\"}, \"properties\": {\"FID\": 53, \"POLL_PLACE\": \"Moubray Hall\", \"PPD_CODES\": \"SLU\", \"PPD_NAMES\": \"Blairingone\", \"SETTLEMENT\": \"Powmill\", \"UPRN\": 124073125}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.57994463424326, 56.1659362847722], \"type\": \"Point\"}, \"properties\": {\"FID\": 53, \"POLL_PLACE\": \"Moubray Hall\", \"PPD_CODES\": \"SLU\", \"PPD_NAMES\": \"Blairingone\", \"SETTLEMENT\": \"Powmill\", \"UPRN\": 124073125}, \"type\": \"Feature\"}",
         "pk": 53
     },
     {
@@ -590,7 +590,7 @@
         "SETTLEMENT": "Scotlandwell",
         "UPRN": 124073102,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.320506080034, 56.203951156566], \"type\": \"Point\"}, \"properties\": {\"FID\": 54, \"POLL_PLACE\": \"Portmoak Village Hall\", \"PPD_CODES\": \"SLX\", \"PPD_NAMES\": \"Scotlandwell\", \"SETTLEMENT\": \"Scotlandwell\", \"UPRN\": 124073102}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.320506080034, 56.2039511556945], \"type\": \"Point\"}, \"properties\": {\"FID\": 54, \"POLL_PLACE\": \"Portmoak Village Hall\", \"PPD_CODES\": \"SLX\", \"PPD_NAMES\": \"Scotlandwell\", \"SETTLEMENT\": \"Scotlandwell\", \"UPRN\": 124073102}, \"type\": \"Feature\"}",
         "pk": 54
     },
     {
@@ -601,7 +601,7 @@
         "SETTLEMENT": "Glenfarg",
         "UPRN": 124054488,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.39942814596429, 56.2799879648897], \"type\": \"Point\"}, \"properties\": {\"FID\": 55, \"POLL_PLACE\": \"Glenfarg Village Hall\", \"PPD_CODES\": \"SLY\", \"PPD_NAMES\": \"Glenfarg\", \"SETTLEMENT\": \"Glenfarg\", \"UPRN\": 124054488}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.39942814596429, 56.2799879640192], \"type\": \"Point\"}, \"properties\": {\"FID\": 55, \"POLL_PLACE\": \"Glenfarg Village Hall\", \"PPD_CODES\": \"SLY\", \"PPD_NAMES\": \"Glenfarg\", \"SETTLEMENT\": \"Glenfarg\", \"UPRN\": 124054488}, \"type\": \"Feature\"}",
         "pk": 55
     },
     {
@@ -612,7 +612,7 @@
         "SETTLEMENT": "Crook of Devon",
         "UPRN": 124018020,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.5517414275544, 56.18458823703], \"type\": \"Point\"}, \"properties\": {\"FID\": 56, \"POLL_PLACE\": \"The Crook of Devon Institute\", \"PPD_CODES\": \"SLT\", \"PPD_NAMES\": \"Crook of Devon\", \"SETTLEMENT\": \"Crook of Devon\", \"UPRN\": 124018020}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.5517414275544, 56.1845882361583], \"type\": \"Point\"}, \"properties\": {\"FID\": 56, \"POLL_PLACE\": \"The Crook of Devon Institute\", \"PPD_CODES\": \"SLT\", \"PPD_NAMES\": \"Crook of Devon\", \"SETTLEMENT\": \"Crook of Devon\", \"UPRN\": 124018020}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
@@ -623,7 +623,7 @@
         "SETTLEMENT": "Logiealmond",
         "UPRN": 124071228,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.60698925914974, 56.4517462425341], \"type\": \"Point\"}, \"properties\": {\"FID\": 57, \"POLL_PLACE\": \"Chapelhill Hall\", \"PPD_CODES\": \"SBC\", \"PPD_NAMES\": \"Logiealmond\", \"SETTLEMENT\": \"Logiealmond\", \"UPRN\": 124071228}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.60698925914974, 56.4517462416658], \"type\": \"Point\"}, \"properties\": {\"FID\": 57, \"POLL_PLACE\": \"Chapelhill Hall\", \"PPD_CODES\": \"SBC\", \"PPD_NAMES\": \"Logiealmond\", \"SETTLEMENT\": \"Logiealmond\", \"UPRN\": 124071228}, \"type\": \"Feature\"}",
         "pk": 57
     },
     {
@@ -634,7 +634,7 @@
         "SETTLEMENT": "Murthly",
         "UPRN": 124081162,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46635328178972, 56.5295577938223], \"type\": \"Point\"}, \"properties\": {\"FID\": 58, \"POLL_PLACE\": \"Murthly Public Hall\", \"PPD_CODES\": \"PCS\", \"PPD_NAMES\": \"Murthly\", \"SETTLEMENT\": \"Murthly\", \"UPRN\": 124081162}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46635328178973, 56.529557792955], \"type\": \"Point\"}, \"properties\": {\"FID\": 58, \"POLL_PLACE\": \"Murthly Public Hall\", \"PPD_CODES\": \"PCS\", \"PPD_NAMES\": \"Murthly\", \"SETTLEMENT\": \"Murthly\", \"UPRN\": 124081162}, \"type\": \"Feature\"}",
         "pk": 58
     },
     {
@@ -645,7 +645,7 @@
         "SETTLEMENT": "Pitcairngreen",
         "UPRN": 124083192,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.51639504082882, 56.4259041825366], \"type\": \"Point\"}, \"properties\": {\"FID\": 59, \"POLL_PLACE\": \"Pitcairngreen Village Hall\", \"PPD_CODES\": \"SMA\", \"PPD_NAMES\": \"Almondbank\", \"SETTLEMENT\": \"Pitcairngreen\", \"UPRN\": 124083192}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.51639504082882, 56.425904181668], \"type\": \"Point\"}, \"properties\": {\"FID\": 59, \"POLL_PLACE\": \"Pitcairngreen Village Hall\", \"PPD_CODES\": \"SMA\", \"PPD_NAMES\": \"Almondbank\", \"SETTLEMENT\": \"Pitcairngreen\", \"UPRN\": 124083192}, \"type\": \"Feature\"}",
         "pk": 59
     },
     {
@@ -656,7 +656,7 @@
         "SETTLEMENT": "Bankfoot",
         "UPRN": 124079469,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.52471806331369, 56.4991414810261], \"type\": \"Point\"}, \"properties\": {\"FID\": 60, \"POLL_PLACE\": \"Bankfoot Church Centre\", \"PPD_CODES\": \"SBA\", \"PPD_NAMES\": \"Bankfoot\", \"SETTLEMENT\": \"Bankfoot\", \"UPRN\": 124079469}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.52471806331369, 56.4991414801584], \"type\": \"Point\"}, \"properties\": {\"FID\": 60, \"POLL_PLACE\": \"Bankfoot Church Centre\", \"PPD_CODES\": \"SBA\", \"PPD_NAMES\": \"Bankfoot\", \"SETTLEMENT\": \"Bankfoot\", \"UPRN\": 124079469}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
@@ -667,7 +667,7 @@
         "SETTLEMENT": "Ruthvenfield",
         "UPRN": 124066775,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.49451185403965, 56.4122450956763], \"type\": \"Point\"}, \"properties\": {\"FID\": 61, \"POLL_PLACE\": \"Ruthvenfield Primary School\", \"PPD_CODES\": \"SMF5, SMF9\", \"PPD_NAMES\": \"Tibbermore\", \"SETTLEMENT\": \"Ruthvenfield\", \"UPRN\": 124066775}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.49451185403965, 56.4122450948075], \"type\": \"Point\"}, \"properties\": {\"FID\": 61, \"POLL_PLACE\": \"Ruthvenfield Primary School\", \"PPD_CODES\": \"SMF5, SMF9\", \"PPD_NAMES\": \"Tibbermore\", \"SETTLEMENT\": \"Ruthvenfield\", \"UPRN\": 124066775}, \"type\": \"Feature\"}",
         "pk": 61
     },
     {
@@ -678,7 +678,7 @@
         "SETTLEMENT": "Birnam",
         "UPRN": 124024412,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.58354062823012, 56.5617868639852], \"type\": \"Point\"}, \"properties\": {\"FID\": 62, \"POLL_PLACE\": \"Royal School of Dunkeld\", \"PPD_CODES\": \"PCQ\", \"PPD_NAMES\": \"Dunkeld\", \"SETTLEMENT\": \"Birnam\", \"UPRN\": 124024412}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.58354062823012, 56.5617868631183], \"type\": \"Point\"}, \"properties\": {\"FID\": 62, \"POLL_PLACE\": \"Royal School of Dunkeld\", \"PPD_CODES\": \"PCQ\", \"PPD_NAMES\": \"Dunkeld\", \"SETTLEMENT\": \"Birnam\", \"UPRN\": 124024412}, \"type\": \"Feature\"}",
         "pk": 62
     },
     {
@@ -689,7 +689,7 @@
         "SETTLEMENT": "Luncarty",
         "UPRN": 124049647,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46838710833239, 56.4484887165173], \"type\": \"Point\"}, \"properties\": {\"FID\": 63, \"POLL_PLACE\": \"Luncarty Memorial Hall\", \"PPD_CODES\": \"SBB\", \"PPD_NAMES\": \"Luncarty\", \"SETTLEMENT\": \"Luncarty\", \"UPRN\": 124049647}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46838710833239, 56.4484887156489], \"type\": \"Point\"}, \"properties\": {\"FID\": 63, \"POLL_PLACE\": \"Luncarty Memorial Hall\", \"PPD_CODES\": \"SBB\", \"PPD_NAMES\": \"Luncarty\", \"SETTLEMENT\": \"Luncarty\", \"UPRN\": 124049647}, \"type\": \"Feature\"}",
         "pk": 63
     },
     {
@@ -700,7 +700,7 @@
         "SETTLEMENT": "Clunie",
         "UPRN": 124071292,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.46466433314282, 56.5813937166907], \"type\": \"Point\"}, \"properties\": {\"FID\": 64, \"POLL_PLACE\": \"Clunie Hall\", \"PPD_CODES\": \"PCN\", \"PPD_NAMES\": \"Clunie\", \"SETTLEMENT\": \"Clunie\", \"UPRN\": 124071292}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.46466433314282, 56.5813937158241], \"type\": \"Point\"}, \"properties\": {\"FID\": 64, \"POLL_PLACE\": \"Clunie Hall\", \"PPD_CODES\": \"PCN\", \"PPD_NAMES\": \"Clunie\", \"SETTLEMENT\": \"Clunie\", \"UPRN\": 124071292}, \"type\": \"Feature\"}",
         "pk": 64
     },
     {
@@ -711,7 +711,7 @@
         "SETTLEMENT": "Amulree",
         "UPRN": 124073110,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.79148490866215, 56.5058676281623], \"type\": \"Point\"}, \"properties\": {\"FID\": 65, \"POLL_PLACE\": \"Amulree Hall\", \"PPD_CODES\": \"PCT, PLM\", \"PPD_NAMES\": \"Amulree, Auchnafree Hill\", \"SETTLEMENT\": \"Amulree\", \"UPRN\": 124073110}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.79148490866214, 56.5058676272947], \"type\": \"Point\"}, \"properties\": {\"FID\": 65, \"POLL_PLACE\": \"Amulree Hall\", \"PPD_CODES\": \"PCT, PLM\", \"PPD_NAMES\": \"Amulree, Auchnafree Hill\", \"SETTLEMENT\": \"Amulree\", \"UPRN\": 124073110}, \"type\": \"Feature\"}",
         "pk": 65
     },
     {
@@ -722,7 +722,7 @@
         "SETTLEMENT": "Meikleour",
         "UPRN": 124073116,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.36996635433006, 56.5387892357073], \"type\": \"Point\"}, \"properties\": {\"FID\": 66, \"POLL_PLACE\": \"Meikleour Village Hall\", \"PPD_CODES\": \"PCM\", \"PPD_NAMES\": \"Meikleour\", \"SETTLEMENT\": \"Meikleour\", \"UPRN\": 124073116}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.36996635433006, 56.5387892348401], \"type\": \"Point\"}, \"properties\": {\"FID\": 66, \"POLL_PLACE\": \"Meikleour Village Hall\", \"PPD_CODES\": \"PCM\", \"PPD_NAMES\": \"Meikleour\", \"SETTLEMENT\": \"Meikleour\", \"UPRN\": 124073116}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
@@ -733,18 +733,18 @@
         "SETTLEMENT": "Stanley",
         "UPRN": 124077289,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.45154432453616, 56.4845641806541], \"type\": \"Point\"}, \"properties\": {\"FID\": 67, \"POLL_PLACE\": \"Stanley Village Hall\", \"PPD_CODES\": \"PCR\", \"PPD_NAMES\": \"Stanley\", \"SETTLEMENT\": \"Stanley\", \"UPRN\": 124077289}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.45154432453616, 56.4845641797862], \"type\": \"Point\"}, \"properties\": {\"FID\": 67, \"POLL_PLACE\": \"Stanley Village Hall\", \"PPD_CODES\": \"PCR\", \"PPD_NAMES\": \"Stanley\", \"SETTLEMENT\": \"Stanley\", \"UPRN\": 124077289}, \"type\": \"Feature\"}",
         "pk": 67
     },
     {
         "FID": 68,
-        "POLL_PLACE": "Caputh Church Session House",
+        "POLL_PLACE": "Caputh Village Hall",
         "PPD_CODES": "PCP",
         "PPD_NAMES": "Caputh",
         "SETTLEMENT": "Caputh",
-        "UPRN": 124080026,
+        "UPRN": 124081165,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.48445404183033, 56.543817661439], \"type\": \"Point\"}, \"properties\": {\"FID\": 68, \"POLL_PLACE\": \"Caputh Church Session House\", \"PPD_CODES\": \"PCP\", \"PPD_NAMES\": \"Caputh\", \"SETTLEMENT\": \"Caputh\", \"UPRN\": 124080026}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.48461126494302, 56.544096301514], \"type\": \"Point\"}, \"properties\": {\"FID\": 68, \"POLL_PLACE\": \"Caputh Village Hall\", \"PPD_CODES\": \"PCP\", \"PPD_NAMES\": \"Caputh\", \"SETTLEMENT\": \"Caputh\", \"UPRN\": 124081165}, \"type\": \"Feature\"}",
         "pk": 68
     },
     {
@@ -755,7 +755,7 @@
         "SETTLEMENT": "Aberfeldy",
         "UPRN": 124052461,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.86746190134773, 56.6183039759987], \"type\": \"Point\"}, \"properties\": {\"FID\": 69, \"POLL_PLACE\": \"Aberfeldy Town Hall\", \"PPD_CODES\": \"PCG\", \"PPD_NAMES\": \"Aberfeldy\", \"SETTLEMENT\": \"Aberfeldy\", \"UPRN\": 124052461}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.86746190134773, 56.6183039751325], \"type\": \"Point\"}, \"properties\": {\"FID\": 69, \"POLL_PLACE\": \"Aberfeldy Town Hall\", \"PPD_CODES\": \"PCG\", \"PPD_NAMES\": \"Aberfeldy\", \"SETTLEMENT\": \"Aberfeldy\", \"UPRN\": 124052461}, \"type\": \"Feature\"}",
         "pk": 69
     },
     {
@@ -766,7 +766,7 @@
         "SETTLEMENT": "Kenmore",
         "UPRN": 124049736,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.99861338022754, 56.5853678523773], \"type\": \"Point\"}, \"properties\": {\"FID\": 70, \"POLL_PLACE\": \"Breadalbane Library & Reading Room\", \"PPD_CODES\": \"PCH\", \"PPD_NAMES\": \"Kenmore\", \"SETTLEMENT\": \"Kenmore\", \"UPRN\": 124049736}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.99861338022754, 56.5853678515107], \"type\": \"Point\"}, \"properties\": {\"FID\": 70, \"POLL_PLACE\": \"Breadalbane Library & Reading Room\", \"PPD_CODES\": \"PCH\", \"PPD_NAMES\": \"Kenmore\", \"SETTLEMENT\": \"Kenmore\", \"UPRN\": 124049736}, \"type\": \"Feature\"}",
         "pk": 70
     },
     {
@@ -777,7 +777,7 @@
         "SETTLEMENT": "Blair Atholl",
         "UPRN": 124073107,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.84593746570907, 56.7659601980478], \"type\": \"Point\"}, \"properties\": {\"FID\": 71, \"POLL_PLACE\": \"Blair Atholl Church Hall\", \"PPD_CODES\": \"PCE\", \"PPD_NAMES\": \"Blair Atholl\", \"SETTLEMENT\": \"Blair Atholl\", \"UPRN\": 124073107}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.84593746570907, 56.7659601971835], \"type\": \"Point\"}, \"properties\": {\"FID\": 71, \"POLL_PLACE\": \"Blair Atholl Church Hall\", \"PPD_CODES\": \"PCE\", \"PPD_NAMES\": \"Blair Atholl\", \"SETTLEMENT\": \"Blair Atholl\", \"UPRN\": 124073107}, \"type\": \"Feature\"}",
         "pk": 71
     },
     {
@@ -788,7 +788,7 @@
         "SETTLEMENT": "Grandtully",
         "UPRN": 124073109,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.77381506326859, 56.6582717556144], \"type\": \"Point\"}, \"properties\": {\"FID\": 72, \"POLL_PLACE\": \"Grandtully Village Hall\", \"PPD_CODES\": \"PCC\", \"PPD_NAMES\": \"Grandtully\", \"SETTLEMENT\": \"Grandtully\", \"UPRN\": 124073109}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.77381506326859, 56.6582717547488], \"type\": \"Point\"}, \"properties\": {\"FID\": 72, \"POLL_PLACE\": \"Grandtully Village Hall\", \"PPD_CODES\": \"PCC\", \"PPD_NAMES\": \"Grandtully\", \"SETTLEMENT\": \"Grandtully\", \"UPRN\": 124073109}, \"type\": \"Feature\"}",
         "pk": 72
     },
     {
@@ -799,7 +799,7 @@
         "SETTLEMENT": "Kinloch Rannoch",
         "UPRN": 124073111,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.18555591184642, 56.7014327097128], \"type\": \"Point\"}, \"properties\": {\"FID\": 73, \"POLL_PLACE\": \"Kinloch Rannoch Village Hall\", \"PPD_CODES\": \"PCL\", \"PPD_NAMES\": \"Kinloch Rannoch\", \"SETTLEMENT\": \"Kinloch Rannoch\", \"UPRN\": 124073111}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.18555591184642, 56.7014327088477], \"type\": \"Point\"}, \"properties\": {\"FID\": 73, \"POLL_PLACE\": \"Kinloch Rannoch Village Hall\", \"PPD_CODES\": \"PCL\", \"PPD_NAMES\": \"Kinloch Rannoch\", \"SETTLEMENT\": \"Kinloch Rannoch\", \"UPRN\": 124073111}, \"type\": \"Feature\"}",
         "pk": 73
     },
     {
@@ -810,7 +810,7 @@
         "SETTLEMENT": "Killiecrankie",
         "UPRN": 124075169,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.77828314578876, 56.744763495777], \"type\": \"Point\"}, \"properties\": {\"FID\": 74, \"POLL_PLACE\": \"Killiecrankie Hall\", \"PPD_CODES\": \"PCD\", \"PPD_NAMES\": \"Killiecrankie\", \"SETTLEMENT\": \"Killiecrankie\", \"UPRN\": 124075169}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.77828314578876, 56.7447634949125], \"type\": \"Point\"}, \"properties\": {\"FID\": 74, \"POLL_PLACE\": \"Killiecrankie Hall\", \"PPD_CODES\": \"PCD\", \"PPD_NAMES\": \"Killiecrankie\", \"SETTLEMENT\": \"Killiecrankie\", \"UPRN\": 124075169}, \"type\": \"Feature\"}",
         "pk": 74
     },
     {
@@ -821,7 +821,7 @@
         "SETTLEMENT": "Tummel Bridge",
         "UPRN": 124078797,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.00750791758511, 56.7072430620351], \"type\": \"Point\"}, \"properties\": {\"FID\": 75, \"POLL_PLACE\": \"Kynachan Hall\", \"PPD_CODES\": \"PCF\", \"PPD_NAMES\": \"Tummel Bridge\", \"SETTLEMENT\": \"Tummel Bridge\", \"UPRN\": 124078797}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.00750791758511, 56.7072430611701], \"type\": \"Point\"}, \"properties\": {\"FID\": 75, \"POLL_PLACE\": \"Kynachan Hall\", \"PPD_CODES\": \"PCF\", \"PPD_NAMES\": \"Tummel Bridge\", \"SETTLEMENT\": \"Tummel Bridge\", \"UPRN\": 124078797}, \"type\": \"Feature\"}",
         "pk": 75
     },
     {
@@ -832,7 +832,7 @@
         "SETTLEMENT": "Camserney",
         "UPRN": 124075940,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.92424241250692, 56.6192763589384], \"type\": \"Point\"}, \"properties\": {\"FID\": 76, \"POLL_PLACE\": \"Camserney Hall\", \"PPD_CODES\": \"PCI\", \"PPD_NAMES\": \"Camserney\", \"SETTLEMENT\": \"Camserney\", \"UPRN\": 124075940}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.92424241250692, 56.6192763580723], \"type\": \"Point\"}, \"properties\": {\"FID\": 76, \"POLL_PLACE\": \"Camserney Hall\", \"PPD_CODES\": \"PCI\", \"PPD_NAMES\": \"Camserney\", \"SETTLEMENT\": \"Camserney\", \"UPRN\": 124075940}, \"type\": \"Feature\"}",
         "pk": 76
     },
     {
@@ -843,7 +843,7 @@
         "SETTLEMENT": "Fortingall",
         "UPRN": 124081182,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.05700809836967, 56.5982446993899], \"type\": \"Point\"}, \"properties\": {\"FID\": 77, \"POLL_PLACE\": \"Molteno Memorial Hall\", \"PPD_CODES\": \"PCJ\", \"PPD_NAMES\": \"Fortingall\", \"SETTLEMENT\": \"Fortingall\", \"UPRN\": 124081182}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.05700809836967, 56.5982446985234], \"type\": \"Point\"}, \"properties\": {\"FID\": 77, \"POLL_PLACE\": \"Molteno Memorial Hall\", \"PPD_CODES\": \"PCJ\", \"PPD_NAMES\": \"Fortingall\", \"SETTLEMENT\": \"Fortingall\", \"UPRN\": 124081182}, \"type\": \"Feature\"}",
         "pk": 77
     },
     {
@@ -854,7 +854,7 @@
         "SETTLEMENT": "Ballinluig",
         "UPRN": 124081187,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.66827119470192, 56.6522555183721], \"type\": \"Point\"}, \"properties\": {\"FID\": 78, \"POLL_PLACE\": \"Mid Atholl Hall\", \"PPD_CODES\": \"PCA\", \"PPD_NAMES\": \"Ballinluig\", \"SETTLEMENT\": \"Ballinluig\", \"UPRN\": 124081187}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.66827119470192, 56.6522555175064], \"type\": \"Point\"}, \"properties\": {\"FID\": 78, \"POLL_PLACE\": \"Mid Atholl Hall\", \"PPD_CODES\": \"PCA\", \"PPD_NAMES\": \"Ballinluig\", \"SETTLEMENT\": \"Ballinluig\", \"UPRN\": 124081187}, \"type\": \"Feature\"}",
         "pk": 78
     },
     {
@@ -865,7 +865,7 @@
         "SETTLEMENT": "Pitlochry",
         "UPRN": 124002031,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.73366178680473, 56.704734249188], \"type\": \"Point\"}, \"properties\": {\"FID\": 79, \"POLL_PLACE\": \"Pitlochry Town Hall\", \"PPD_CODES\": \"PCB\", \"PPD_NAMES\": \"Pitlochry\", \"SETTLEMENT\": \"Pitlochry\", \"UPRN\": 124002031}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.73366178680473, 56.704734248323], \"type\": \"Point\"}, \"properties\": {\"FID\": 79, \"POLL_PLACE\": \"Pitlochry Town Hall\", \"PPD_CODES\": \"PCB\", \"PPD_NAMES\": \"Pitlochry\", \"SETTLEMENT\": \"Pitlochry\", \"UPRN\": 124002031}, \"type\": \"Feature\"}",
         "pk": 79
     },
     {
@@ -876,7 +876,7 @@
         "SETTLEMENT": "Fearnan",
         "UPRN": 124073693,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.08227421388676, 56.5772370593537], \"type\": \"Point\"}, \"properties\": {\"FID\": 80, \"POLL_PLACE\": \"Fearnan Hall\", \"PPD_CODES\": \"PCK\", \"PPD_NAMES\": \"Fearnan\", \"SETTLEMENT\": \"Fearnan\", \"UPRN\": 124073693}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.08227421388676, 56.5772370584871], \"type\": \"Point\"}, \"properties\": {\"FID\": 80, \"POLL_PLACE\": \"Fearnan Hall\", \"PPD_CODES\": \"PCK\", \"PPD_NAMES\": \"Fearnan\", \"SETTLEMENT\": \"Fearnan\", \"UPRN\": 124073693}, \"type\": \"Feature\"}",
         "pk": 80
     },
     {
@@ -887,7 +887,7 @@
         "SETTLEMENT": "Rait",
         "UPRN": 124073115,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.25778519064841, 56.4271988393234], \"type\": \"Point\"}, \"properties\": {\"FID\": 81, \"POLL_PLACE\": \"Annat Hall\", \"PPD_CODES\": \"PBF\", \"PPD_NAMES\": \"Rait\", \"SETTLEMENT\": \"Rait\", \"UPRN\": 124073115}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.25778519064841, 56.4271988384548], \"type\": \"Point\"}, \"properties\": {\"FID\": 81, \"POLL_PLACE\": \"Annat Hall\", \"PPD_CODES\": \"PBF\", \"PPD_NAMES\": \"Rait\", \"SETTLEMENT\": \"Rait\", \"UPRN\": 124073115}, \"type\": \"Feature\"}",
         "pk": 81
     },
     {
@@ -898,7 +898,7 @@
         "SETTLEMENT": "St Madoes",
         "UPRN": 124077240,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.30250492549573, 56.3755662033182], \"type\": \"Point\"}, \"properties\": {\"FID\": 82, \"POLL_PLACE\": \"St Madoes Community Centre\", \"PPD_CODES\": \"PBH\", \"PPD_NAMES\": \"St Madoes\", \"SETTLEMENT\": \"St Madoes\", \"UPRN\": 124077240}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.30250492549573, 56.3755662024489], \"type\": \"Point\"}, \"properties\": {\"FID\": 82, \"POLL_PLACE\": \"St Madoes Community Centre\", \"PPD_CODES\": \"PBH\", \"PPD_NAMES\": \"St Madoes\", \"SETTLEMENT\": \"St Madoes\", \"UPRN\": 124077240}, \"type\": \"Feature\"}",
         "pk": 82
     },
     {
@@ -909,7 +909,7 @@
         "SETTLEMENT": "Longforgan",
         "UPRN": 124044589,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.12150260916317, 56.4573104598057], \"type\": \"Point\"}, \"properties\": {\"FID\": 83, \"POLL_PLACE\": \"Longforgan Church Hall\", \"PPD_CODES\": \"PBB\", \"PPD_NAMES\": \"Longforgan\", \"SETTLEMENT\": \"Longforgan\", \"UPRN\": 124044589}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.12150260916317, 56.4573104589374], \"type\": \"Point\"}, \"properties\": {\"FID\": 83, \"POLL_PLACE\": \"Longforgan Church Hall\", \"PPD_CODES\": \"PBB\", \"PPD_NAMES\": \"Longforgan\", \"SETTLEMENT\": \"Longforgan\", \"UPRN\": 124044589}, \"type\": \"Feature\"}",
         "pk": 83
     },
     {
@@ -920,7 +920,7 @@
         "SETTLEMENT": "Invergowrie",
         "UPRN": 124054478,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.06117576470583, 56.4609229543301], \"type\": \"Point\"}, \"properties\": {\"FID\": 84, \"POLL_PLACE\": \"Invergowrie Church Hall\", \"PPD_CODES\": \"PBA\", \"PPD_NAMES\": \"Invergowrie\", \"SETTLEMENT\": \"Invergowrie\", \"UPRN\": 124054478}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.06117576470583, 56.4609229534619], \"type\": \"Point\"}, \"properties\": {\"FID\": 84, \"POLL_PLACE\": \"Invergowrie Church Hall\", \"PPD_CODES\": \"PBA\", \"PPD_NAMES\": \"Invergowrie\", \"SETTLEMENT\": \"Invergowrie\", \"UPRN\": 124054478}, \"type\": \"Feature\"}",
         "pk": 84
     },
     {
@@ -931,7 +931,7 @@
         "SETTLEMENT": "Inchture",
         "UPRN": 124081158,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.1691279338023, 56.4456937530871], \"type\": \"Point\"}, \"properties\": {\"FID\": 85, \"POLL_PLACE\": \"Inchture Village Hall\", \"PPD_CODES\": \"PBD, PBE\", \"PPD_NAMES\": \"Abernyte, Inchture\", \"SETTLEMENT\": \"Inchture\", \"UPRN\": 124081158}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.1691279338023, 56.4456937522187], \"type\": \"Point\"}, \"properties\": {\"FID\": 85, \"POLL_PLACE\": \"Inchture Village Hall\", \"PPD_CODES\": \"PBD, PBE\", \"PPD_NAMES\": \"Abernyte, Inchture\", \"SETTLEMENT\": \"Inchture\", \"UPRN\": 124081158}, \"type\": \"Feature\"}",
         "pk": 85
     },
     {
@@ -942,7 +942,29 @@
         "SETTLEMENT": "Errol",
         "UPRN": 124079454,
         "council_id": "PKN",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.21145556212503, 56.3928346415974], \"type\": \"Point\"}, \"properties\": {\"FID\": 86, \"POLL_PLACE\": \"Errol Village Hall\", \"PPD_CODES\": \"PBG\", \"PPD_NAMES\": \"Errol\", \"SETTLEMENT\": \"Errol\", \"UPRN\": 124079454}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.21145556212503, 56.3928346407283], \"type\": \"Point\"}, \"properties\": {\"FID\": 86, \"POLL_PLACE\": \"Errol Village Hall\", \"PPD_CODES\": \"PBG\", \"PPD_NAMES\": \"Errol\", \"SETTLEMENT\": \"Errol\", \"UPRN\": 124079454}, \"type\": \"Feature\"}",
         "pk": 86
+    },
+    {
+        "FID": 87,
+        "POLL_PLACE": "Upper Springland",
+        "PPD_CODES": "PDC",
+        "PPD_NAMES": "Upper Springlands",
+        "SETTLEMENT": "Perth",
+        "UPRN": 124043082,
+        "council_id": "PKN",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.42941641843704, 56.4099931899527], \"type\": \"Point\"}, \"properties\": {\"FID\": 87, \"POLL_PLACE\": \"Upper Springland\", \"PPD_CODES\": \"PDC\", \"PPD_NAMES\": \"Upper Springlands\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124043082}, \"type\": \"Feature\"}",
+        "pk": 87
+    },
+    {
+        "FID": 88,
+        "POLL_PLACE": "Bertha Park High School Gym Hall",
+        "PPD_CODES": "SBD",
+        "PPD_NAMES": "Bertha Park",
+        "SETTLEMENT": "Perth",
+        "UPRN": 124109060,
+        "council_id": "PKN",
+        "geometry": "{\"geometry\": {\"coordinates\": [-3.48565659239588, 56.4223955561258], \"type\": \"Point\"}, \"properties\": {\"FID\": 88, \"POLL_PLACE\": \"Bertha Park High School Gym Hall\", \"PPD_CODES\": \"SBD\", \"PPD_NAMES\": \"Bertha Park\", \"SETTLEMENT\": \"Perth\", \"UPRN\": 124109060}, \"type\": \"Feature\"}",
+        "pk": 88
     }
 ]
