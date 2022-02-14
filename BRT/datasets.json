@@ -161,20 +161,20 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Information",
-                "url": "https://utility.arcgis.com/usrsvcs/servers/a881c66ff8cb42529f7d2ebb6ba36550/rest/services/Public/External_Layes/MapServer/21"
+                "name": "Polling Stations",
+                "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/0"
             },
-            "id": "a881c66ff8cb42529f7d2ebb6ba36550_21",
+            "id": "823a1fbdb58f40fd9c9b34ad0337e60a_0",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/a881c66ff8cb42529f7d2ebb6ba36550?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=a881c66ff8cb42529f7d2ebb6ba36550",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/823a1fbdb58f40fd9c9b34ad0337e60a?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=823a1fbdb58f40fd9c9b34ad0337e60a",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Information"
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
                     ],
                     "searchDescription": [
                         "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
@@ -198,20 +198,20 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Stations",
-                "url": "https://utility.arcgis.com/usrsvcs/servers/823a1fbdb58f40fd9c9b34ad0337e60a/rest/services/Public/PollingInformation/MapServer/0"
+                "name": "Polling Information",
+                "url": "https://utility.arcgis.com/usrsvcs/servers/a881c66ff8cb42529f7d2ebb6ba36550/rest/services/Public/External_Layes/MapServer/21"
             },
-            "id": "823a1fbdb58f40fd9c9b34ad0337e60a_0",
+            "id": "a881c66ff8cb42529f7d2ebb6ba36550_21",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/823a1fbdb58f40fd9c9b34ad0337e60a?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=823a1fbdb58f40fd9c9b34ad0337e60a",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/823a1fbdb58f40fd9c9b34ad0337e60a_0"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/a881c66ff8cb42529f7d2ebb6ba36550?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=a881c66ff8cb42529f7d2ebb6ba36550",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Stations"
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Information"
                     ],
                     "searchDescription": [
                         "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
