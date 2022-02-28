@@ -310,14 +310,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2566617639326092, 53.48619444906128], \"type\": \"Point\"}, \"id\": 952, \"properties\": {\"ADDRESS\": \"Community Centre, Harrogate Drive, DN124NA\", \"OBJECTID\": 952, \"POLLINGPLA\": \"Community Centre, Harrogate Drive, DN124NA\", \"POLLING_DI\": \"GH\", \"UPRN\": \"100051963369\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Community Centre, Reresby Walk DN12 4UQ",
+        "ADDRESS": "Tom Hill Youth Club\u00a0 Wadworth Street, Denaby Main, Doncaster DN12 4AQ",
         "OBJECTID": 953,
-        "POLLINGPLA": "Community Centre, Reresby Walk DN12 4UQ",
+        "POLLINGPLA": "Tom Hill Youth Club\u00a0 Wadworth Street, Denaby Main, Doncaster DN12 4AQ",
         "POLLING_DI": "GI",
-        "UPRN": "010006629438",
+        "UPRN": "100051963397",
         "WARD": "Conisbrough Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.251588305145631, 53.4906421040815], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Community Centre, Reresby Walk DN12 4UQ\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Community Centre, Reresby Walk DN12 4UQ\", \"POLLING_DI\": \"GI\", \"UPRN\": \"010006629438\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.245942339618184, 53.48919553499557], \"type\": \"Point\"}, \"id\": 953, \"properties\": {\"ADDRESS\": \"Tom Hill Youth Club\\u00a0 Wadworth Street, Denaby Main, Doncaster DN12 4AQ\", \"OBJECTID\": 953, \"POLLINGPLA\": \"Tom Hill Youth Club\\u00a0 Wadworth Street, Denaby Main, Doncaster DN12 4AQ\", \"POLLING_DI\": \"GI\", \"UPRN\": \"100051963397\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Sykehouse Village Hall, Broad Lane, DN149AS",
@@ -350,14 +350,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1042631281004283, 53.54014553565031], \"type\": \"Point\"}, \"id\": 956, \"properties\": {\"ADDRESS\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"OBJECTID\": 956, \"POLLINGPLA\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"POLLING_DI\": \"DG\", \"UPRN\": \"100050756669\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY",
+        "ADDRESS": "Copper Pipe Cafe, Barnby Dun Road,\u00a0Doncaster, DN2 4RG",
         "OBJECTID": 957,
-        "POLLINGPLA": "The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY",
+        "POLLINGPLA": "Copper Pipe Cafe, Barnby Dun Road,\u00a0Doncaster, DN2 4RG",
         "POLLING_DI": "DI",
-        "UPRN": "100050756669",
+        "UPRN": "010006580308",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1042591024294588, 53.540149596247225], \"type\": \"Point\"}, \"id\": 957, \"properties\": {\"ADDRESS\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"OBJECTID\": 957, \"POLLINGPLA\": \"The Hepworth Centre, Kingfisher Primary School, Norwich Road, DN2 4PY\", \"POLLING_DI\": \"DI\", \"UPRN\": \"100050756669\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.086770194698786, 53.55011702775869], \"type\": \"Point\"}, \"id\": 957, \"properties\": {\"ADDRESS\": \"Copper Pipe Cafe, Barnby Dun Road,\\u00a0Doncaster, DN2 4RG\", \"OBJECTID\": 957, \"POLLINGPLA\": \"Copper Pipe Cafe, Barnby Dun Road,\\u00a0Doncaster, DN2 4RG\", \"POLLING_DI\": \"DI\", \"UPRN\": \"010006580308\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Healthy Living Centre, Intake Primary School, Sandringham Road, DN2 5JA",
@@ -560,14 +560,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1554278779918976, 53.51572085877576], \"type\": \"Point\"}, \"id\": 977, \"properties\": {\"ADDRESS\": \"Travis Gardens Communal Hall, Travis Gardens, DN4 0DP\", \"OBJECTID\": 977, \"POLLINGPLA\": \"Travis Gardens Communal Hall, Travis Gardens, DN4 0DP\", \"POLLING_DI\": \"AC\", \"UPRN\": \"010006623332\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
+        "ADDRESS": "The Rose Learning Trust, Stevens Road, DN4 0LL",
         "OBJECTID": 978,
-        "POLLINGPLA": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
+        "POLLINGPLA": "The Rose Learning Trust, Stevens Road, DN4 0LL",
         "POLLING_DI": "AF",
         "UPRN": "010006581498",
         "WARD": "Hexthorpe and Balby North Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1486848981698, 53.51241946894138], \"type\": \"Point\"}, \"id\": 978, \"properties\": {\"ADDRESS\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"OBJECTID\": 978, \"POLLINGPLA\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"POLLING_DI\": \"AF\", \"UPRN\": \"010006581498\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1486848981698, 53.51241946894138], \"type\": \"Point\"}, \"id\": 978, \"properties\": {\"ADDRESS\": \"The Rose Learning Trust, Stevens Road, DN4 0LL\", \"OBJECTID\": 978, \"POLLINGPLA\": \"The Rose Learning Trust, Stevens Road, DN4 0LL\", \"POLLING_DI\": \"AF\", \"UPRN\": \"010006581498\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Balby Community Library, High Road, DN4 0PL",
@@ -620,14 +620,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.111256281961535, 53.513049029091604], \"type\": \"Point\"}, \"id\": 983, \"properties\": {\"ADDRESS\": \"Lakeside Primary School, Sandy Lane, DN4 5ES\", \"OBJECTID\": 983, \"POLLINGPLA\": \"Lakeside Primary School, Sandy Lane, DN4 5ES\", \"POLLING_DI\": \"CE\", \"UPRN\": \"100052207848\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Hallcross Academy Lower School, St Michaels Road, DN4 5LU",
+        "ADDRESS": "Lakeside Community Church, Booth Avenue, DN4 5JN",
         "OBJECTID": 984,
-        "POLLINGPLA": "Hallcross Academy Lower School, St Michaels Road, DN4 5LU",
+        "POLLINGPLA": "Lakeside Community Church, Booth Avenie, DN4 5JN",
         "POLLING_DI": "EA",
-        "UPRN": "100052207970",
+        "UPRN": "010006622362",
         "WARD": "Bessacarr Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0973335958454664, 53.51084256264346], \"type\": \"Point\"}, \"id\": 984, \"properties\": {\"ADDRESS\": \"Hallcross Academy Lower School, St Michaels Road, DN4 5LU\", \"OBJECTID\": 984, \"POLLINGPLA\": \"Hallcross Academy Lower School, St Michaels Road, DN4 5LU\", \"POLLING_DI\": \"EA\", \"UPRN\": \"100052207970\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.097932151809616, 53.51355302051942], \"type\": \"Point\"}, \"id\": 984, \"properties\": {\"ADDRESS\": \"Lakeside Community Church, Booth Avenue, DN4 5JN\", \"OBJECTID\": 984, \"POLLINGPLA\": \"Lakeside Community Church, Booth Avenie, DN4 5JN\", \"POLLING_DI\": \"EA\", \"UPRN\": \"010006622362\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "National College For Advanced Transport & Infrastructure, Carolina Way, DN4 5PN",
@@ -720,14 +720,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0877770013188255, 53.50034674718635], \"type\": \"Point\"}, \"id\": 993, \"properties\": {\"ADDRESS\": \"St Francis Of Assisi Church, Nostell Place, Bessacarr, Doncaster, DN4 7JA\", \"OBJECTID\": 993, \"POLLINGPLA\": \"St Francis Of Assisi Church, Nostell Place, Bessacarr, Doncaster, DN4 7JA\", \"POLLING_DI\": \"EF\", \"UPRN\": \"010006617551\", \"WARD\": \"Bessacarr Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
+        "ADDRESS": "Portable Unit, Junction of Carr Hill & St Catherine's Avenue",
         "OBJECTID": 994,
-        "POLLINGPLA": "Balby Central Outreach Centre, Stevens Road, DN4 0LT",
+        "POLLINGPLA": "Portable Unit, Junction of Carr Hill & St Catherine's Avenue",
         "POLLING_DI": "AD",
-        "UPRN": "010006581498",
+        "UPRN": "010006611259",
         "WARD": "Hexthorpe and Balby North Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.148684256822682, 53.51242001807822], \"type\": \"Point\"}, \"id\": 994, \"properties\": {\"ADDRESS\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"OBJECTID\": 994, \"POLLINGPLA\": \"Balby Central Outreach Centre, Stevens Road, DN4 0LT\", \"POLLING_DI\": \"AD\", \"UPRN\": \"010006581498\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1429640421690386, 53.50852902055699], \"type\": \"Point\"}, \"id\": 994, \"properties\": {\"ADDRESS\": \"Portable Unit, Junction of Carr Hill & St Catherine's Avenue\", \"OBJECTID\": 994, \"POLLINGPLA\": \"Portable Unit, Junction of Carr Hill & St Catherine's Avenue\", \"POLLING_DI\": \"AD\", \"UPRN\": \"010006611259\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA",
@@ -740,14 +740,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1484831075119866, 53.50114395135154], \"type\": \"Point\"}, \"id\": 995, \"properties\": {\"ADDRESS\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"OBJECTID\": 995, \"POLLINGPLA\": \"Nurture Unit, Woodfield Primary School, Gurney Road, DN4 8LA\", \"POLLING_DI\": \"BC\", \"UPRN\": \"010006572995\", \"WARD\": \"Balby South Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Woodfield Park Community Hall, Tickhill Rd., Balby, Doncaster DN4 8QN",
+        "ADDRESS": "Carr Lodge Academy, Grady Drive, DN4 8GA",
         "OBJECTID": 996,
-        "POLLINGPLA": "Woodfield Park Community Hall, Tickhill Rd., Balby, Doncaster DN4 8QN",
+        "POLLINGPLA": "Carr Lodge Academy, Grady Drive, DN4 8GA",
         "POLLING_DI": "IA",
-        "UPRN": "010006709691",
+        "UPRN": "010006709541",
         "WARD": "Tickhill and Wadworth Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1470261726019442, 53.49432945824566], \"type\": \"Point\"}, \"id\": 996, \"properties\": {\"ADDRESS\": \"Woodfield Park Community Hall, Tickhill Rd., Balby, Doncaster DN4 8QN\", \"OBJECTID\": 996, \"POLLINGPLA\": \"Woodfield Park Community Hall, Tickhill Rd., Balby, Doncaster DN4 8QN\", \"POLLING_DI\": \"IA\", \"UPRN\": \"010006709691\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1373046680023164, 53.493847476850256], \"type\": \"Point\"}, \"id\": 996, \"properties\": {\"ADDRESS\": \"Carr Lodge Academy, Grady Drive, DN4 8GA\", \"OBJECTID\": 996, \"POLLINGPLA\": \"Carr Lodge Academy, Grady Drive, DN4 8GA\", \"POLLING_DI\": \"IA\", \"UPRN\": \"010006709541\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Peters Church Hall, Warmsworth, Balby, Doncaster, DN4 0TW",
@@ -1010,34 +1010,34 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1762465237156312, 53.54105921475503], \"type\": \"Point\"}, \"id\": 1023, \"properties\": {\"ADDRESS\": \"Rosedale Primary School, Rosedale Road, DN5 8RL\", \"OBJECTID\": 1023, \"POLLINGPLA\": \"Rosedale Primary School, Rosedale Road, DN5 8RL\", \"POLLING_DI\": \"MB\", \"UPRN\": \"100051982475\", \"WARD\": \"Roman Ridge Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Scawthorpe Community Centre, Amersall Road,\u00a0 DN5 9PQ",
+        "ADDRESS": "Castle Hills Primary Academy, Jossey Lane, DN5 9ED",
         "OBJECTID": 1024,
-        "POLLINGPLA": "Scawthorpe Community Centre, Amersall Road,\u00a0 DN5 9PQ",
+        "POLLINGPLA": "Castle Hills Primary Academy, Jossey Lane, DN5 9ED",
         "POLLING_DI": "MA",
-        "UPRN": "100052206589",
+        "UPRN": "010006627104",
         "WARD": "Roman Ridge Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1650729293372821, 53.54348552710941], \"type\": \"Point\"}, \"id\": 1024, \"properties\": {\"ADDRESS\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"OBJECTID\": 1024, \"POLLINGPLA\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"POLLING_DI\": \"MA\", \"UPRN\": \"100052206589\", \"WARD\": \"Roman Ridge Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1629542820373315, 53.54833290708631], \"type\": \"Point\"}, \"id\": 1024, \"properties\": {\"ADDRESS\": \"Castle Hills Primary Academy, Jossey Lane, DN5 9ED\", \"OBJECTID\": 1024, \"POLLINGPLA\": \"Castle Hills Primary Academy, Jossey Lane, DN5 9ED\", \"POLLING_DI\": \"MA\", \"UPRN\": \"010006627104\", \"WARD\": \"Roman Ridge Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Scawthorpe Community Centre, Amersall Road,\u00a0 DN5 9PQ",
+        "ADDRESS": "Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW",
         "OBJECTID": 1025,
-        "POLLINGPLA": "Scawthorpe Library, Amersall Road,\u00a0 DN5 9PQ",
+        "POLLINGPLA": "Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW",
         "POLLING_DI": "NB",
-        "UPRN": "100052206589",
+        "UPRN": "010006572754",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.164931179955019, 53.54320401368691], \"type\": \"Point\"}, \"id\": 1025, \"properties\": {\"ADDRESS\": \"Scawthorpe Community Centre, Amersall Road,\\u00a0 DN5 9PQ\", \"OBJECTID\": 1025, \"POLLINGPLA\": \"Scawthorpe Library, Amersall Road,\\u00a0 DN5 9PQ\", \"POLLING_DI\": \"NB\", \"UPRN\": \"100052206589\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1644345458271923, 53.53958561404406], \"type\": \"Point\"}, \"id\": 1025, \"properties\": {\"ADDRESS\": \"Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW\", \"OBJECTID\": 1025, \"POLLINGPLA\": \"Sunnyfields Primary School, Community Room, Rose Crescent, DN5 9EW\", \"POLLING_DI\": \"NB\", \"UPRN\": \"010006572754\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
+        "ADDRESS": "Queens Drive Community Centre, Queens Drive, DN5 9QQ",
         "OBJECTID": 1026,
-        "POLLINGPLA": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
+        "POLLINGPLA": "Queens Drive Community Centre, Queens Drive, DN5 9QQ",
         "POLLING_DI": "NH",
-        "UPRN": "010006619221",
+        "UPRN": "100051982789",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.153247795064288, 53.53817030568061], \"type\": \"Point\"}, \"id\": 1026, \"properties\": {\"ADDRESS\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"OBJECTID\": 1026, \"POLLINGPLA\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"POLLING_DI\": \"NH\", \"UPRN\": \"010006619221\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1546547964476774, 53.537461497999104], \"type\": \"Point\"}, \"id\": 1026, \"properties\": {\"ADDRESS\": \"Queens Drive Community Centre, Queens Drive, DN5 9QQ\", \"OBJECTID\": 1026, \"POLLINGPLA\": \"Queens Drive Community Centre, Queens Drive, DN5 9QQ\", \"POLLING_DI\": \"NH\", \"UPRN\": \"100051982789\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Kirkstone Close Communal Hall, Kirkstone Close, DN5 9QZ",
@@ -1050,14 +1050,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1525738824957266, 53.54352977506627], \"type\": \"Point\"}, \"id\": 1027, \"properties\": {\"ADDRESS\": \"Kirkstone Close Communal Hall, Kirkstone Close, DN5 9QZ\", \"OBJECTID\": 1027, \"POLLINGPLA\": \"Kirkstone Close Communal Hall, Kirkstone Close, DN5 9QZ\", \"POLLING_DI\": \"NI\", \"UPRN\": \"100051982813\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
+        "ADDRESS": "Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF",
         "OBJECTID": 1028,
-        "POLLINGPLA": "Queens Drive Community Centre, Queens Drive, DN5 9QL",
+        "POLLINGPLA": "Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF",
         "POLLING_DI": "NA",
-        "UPRN": "010006619221",
+        "UPRN": "100051982853",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.153253490390434, 53.5381676997416], \"type\": \"Point\"}, \"id\": 1028, \"properties\": {\"ADDRESS\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"OBJECTID\": 1028, \"POLLINGPLA\": \"Queens Drive Community Centre, Queens Drive, DN5 9QL\", \"POLLING_DI\": \"NA\", \"UPRN\": \"010006619221\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1503385086152869, 53.53575821142758], \"type\": \"Point\"}, \"id\": 1028, \"properties\": {\"ADDRESS\": \"Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF\", \"OBJECTID\": 1028, \"POLLINGPLA\": \"Kirkby Avenue Primary School, School Hall, Kirkby Avenue, DN5 9TF\", \"POLLING_DI\": \"NA\", \"UPRN\": \"100051982853\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Askern Town Council Offices, Alexander House, High Street, DN6 0AB",
@@ -1240,14 +1240,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1709809215351203, 53.63178974417489], \"type\": \"Point\"}, \"id\": 1047, \"properties\": {\"ADDRESS\": \"Norton Community Hall, High Street, DN6 9HD\", \"OBJECTID\": 1047, \"POLLINGPLA\": \"Norton Community Hall, High Street, DN6 9HD\", \"POLLING_DI\": \"PE\", \"UPRN\": \"100051983892\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "All Saints Church, Stockbridge Lane, DN6 9JF",
+        "ADDRESS": "Owston Hall Hotel Owston Lane, Doncaster DN6 9JF",
         "OBJECTID": 1048,
-        "POLLINGPLA": "All Saints Church, Stockbridge Lane, DN6 9JF",
+        "POLLINGPLA": "Owston Hall Hotel Owston Lane, Doncaster DN6 9JF",
         "POLLING_DI": "PI",
-        "UPRN": "010006617579",
+        "UPRN": "010006588775",
         "WARD": "Norton and Askern Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1689180349887618, 53.5942172466809], \"type\": \"Point\"}, \"id\": 1048, \"properties\": {\"ADDRESS\": \"All Saints Church, Stockbridge Lane, DN6 9JF\", \"OBJECTID\": 1048, \"POLLINGPLA\": \"All Saints Church, Stockbridge Lane, DN6 9JF\", \"POLLING_DI\": \"PI\", \"UPRN\": \"010006617579\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1704257411998558, 53.59366485948723], \"type\": \"Point\"}, \"id\": 1048, \"properties\": {\"ADDRESS\": \"Owston Hall Hotel Owston Lane, Doncaster DN6 9JF\", \"OBJECTID\": 1048, \"POLLINGPLA\": \"Owston Hall Hotel Owston Lane, Doncaster DN6 9JF\", \"POLLING_DI\": \"PI\", \"UPRN\": \"010006588775\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT",
@@ -1300,14 +1300,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.024803434115168, 53.56350314585027], \"type\": \"Point\"}, \"id\": 1053, \"properties\": {\"ADDRESS\": \"Dunsville Community Centre, High Street, DN7 4DH\", \"OBJECTID\": 1053, \"POLLINGPLA\": \"Dunsville Community Centre, High Street, DN7 4DH\", \"POLLING_DI\": \"LA\", \"UPRN\": \"100051984172\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Dunsville Primary School, Broadway, DN7 4HX",
+        "ADDRESS": "Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL",
         "OBJECTID": 1055,
-        "POLLINGPLA": "Dunsville Primary School, Broadway, DN7 4HX",
+        "POLLINGPLA": "Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL",
         "POLLING_DI": "LB",
-        "UPRN": "010006576584",
+        "UPRN": "010006630971",
         "WARD": "Hatfield Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0184866297335295, 53.56701101538733], \"type\": \"Point\"}, \"id\": 1055, \"properties\": {\"ADDRESS\": \"Dunsville Primary School, Broadway, DN7 4HX\", \"OBJECTID\": 1055, \"POLLINGPLA\": \"Dunsville Primary School, Broadway, DN7 4HX\", \"POLLING_DI\": \"LB\", \"UPRN\": \"010006576584\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0155657048669815, 53.57466087645538], \"type\": \"Point\"}, \"id\": 1055, \"properties\": {\"ADDRESS\": \"Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL\", \"OBJECTID\": 1055, \"POLLINGPLA\": \"Kinsbourne Green Commnual Hall, Kinsbourne Green, DN7 4BL\", \"POLLING_DI\": \"LB\", \"UPRN\": \"010006630971\", \"WARD\": \"Hatfield Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Stainforth Youth Centre, Church Road, DN7 5AA",
