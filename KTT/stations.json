@@ -103,15 +103,6 @@
         "CODE": "KTA",
         "GoogleFriendlyAddress": null,
         "NAME": "United Reformed Church",
-        "OBJECTID": 2048,
-        "council_id": "KTT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.304800258952302, 51.40915126684861], \"type\": \"Point\"}, \"id\": 2048, \"properties\": {\"ADDRESS\": \"United Reformed Church, Eden Street Kingston upon Thames  KT1 1HZ\", \"CODE\": \"KTA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"United Reformed Church\", \"OBJECTID\": 2048}, \"type\": \"Feature\"}"
-    },
-    {
-        "ADDRESS": "United Reformed Church, Eden Street Kingston upon Thames  KT1 1HZ",
-        "CODE": "KTA",
-        "GoogleFriendlyAddress": null,
-        "NAME": "United Reformed Church",
         "OBJECTID": 2049,
         "council_id": "KTT",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.304800258952302, 51.40915126684861], \"type\": \"Point\"}, \"id\": 2049, \"properties\": {\"ADDRESS\": \"United Reformed Church, Eden Street Kingston upon Thames  KT1 1HZ\", \"CODE\": \"KTA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"United Reformed Church\", \"OBJECTID\": 2049}, \"type\": \"Feature\"}"
@@ -378,13 +369,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.3055910774698334, 51.42266229118814], \"type\": \"Point\"}, \"id\": 2078, \"properties\": {\"ADDRESS\": \"Leander Sea Scouts, Lower Ham Road KT2 5BB\", \"CODE\": \"CGA\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Leander Sea Scouts\", \"OBJECTID\": 2078}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St John The Evangelist, Grove Lane KT1 2SU",
+        "ADDRESS": "St John's Parish Hall, Grove Lane\r\nSt John's Parish Hall, Grove Lane\r\nSt John's Parish Hall, Grove Lane KT1 2SU",
         "CODE": "KTC",
         "GoogleFriendlyAddress": null,
         "NAME": "St John The Evangelist",
         "OBJECTID": 2079,
         "council_id": "KTT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.30069130989374526, 51.403056180055685], \"type\": \"Point\"}, \"id\": 2079, \"properties\": {\"ADDRESS\": \"St John The Evangelist, Grove Lane KT1 2SU\", \"CODE\": \"KTC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John The Evangelist\", \"OBJECTID\": 2079}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.30069130989374526, 51.403056180055685], \"type\": \"Point\"}, \"id\": 2079, \"properties\": {\"ADDRESS\": \"St John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane KT1 2SU\", \"CODE\": \"KTC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John The Evangelist\", \"OBJECTID\": 2079}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Malden Wanderers Cricket Club, Cambridge Avenue KT3 4LE",
@@ -486,13 +477,13 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.2665463983703059, 51.414694593434675], \"type\": \"Point\"}, \"id\": 2090, \"properties\": {\"ADDRESS\": \"Coombe Hill Junior School, Coombe Lane West KT2 7DD\", \"CODE\": \"CHC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Coombe Hill Junior School\", \"OBJECTID\": 2090}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Caravan at Wolverton Avenue, Wolverton Avenue KT2 7QE",
+        "ADDRESS": "Temporary Station, Norbiton Train Station, KT2 7QE",
         "CODE": "CHB",
         "GoogleFriendlyAddress": null,
         "NAME": "Caravan at Wolverton Avenue",
         "OBJECTID": 2091,
         "council_id": "KTT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.28385458327498564, 51.41296386565797], \"type\": \"Point\"}, \"id\": 2091, \"properties\": {\"ADDRESS\": \"Caravan at Wolverton Avenue, Wolverton Avenue KT2 7QE\", \"CODE\": \"CHB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Caravan at Wolverton Avenue\", \"OBJECTID\": 2091}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2840589568047893, 51.4124121159719], \"type\": \"Point\"}, \"id\": 2091, \"properties\": {\"ADDRESS\": \"Temporary Station, Norbiton Train Station, KT2 7QE\", \"CODE\": \"CHB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Caravan at Wolverton Avenue\", \"OBJECTID\": 2091}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Corpus Christi Primary School, Mount Road KT3 3JU",
