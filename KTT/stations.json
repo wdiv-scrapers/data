@@ -372,10 +372,10 @@
         "ADDRESS": "St John's Parish Hall, Grove Lane\r\nSt John's Parish Hall, Grove Lane\r\nSt John's Parish Hall, Grove Lane KT1 2SU",
         "CODE": "KTC",
         "GoogleFriendlyAddress": null,
-        "NAME": "St John The Evangelist",
+        "NAME": "St John's Parish Hall",
         "OBJECTID": 2079,
         "council_id": "KTT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.30069130989374526, 51.403056180055685], \"type\": \"Point\"}, \"id\": 2079, \"properties\": {\"ADDRESS\": \"St John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane KT1 2SU\", \"CODE\": \"KTC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John The Evangelist\", \"OBJECTID\": 2079}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.30069130989374526, 51.403056180055685], \"type\": \"Point\"}, \"id\": 2079, \"properties\": {\"ADDRESS\": \"St John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane\\r\\nSt John's Parish Hall, Grove Lane KT1 2SU\", \"CODE\": \"KTC\", \"GoogleFriendlyAddress\": null, \"NAME\": \"St John's Parish Hall\", \"OBJECTID\": 2079}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Malden Wanderers Cricket Club, Cambridge Avenue KT3 4LE",
@@ -480,10 +480,10 @@
         "ADDRESS": "Temporary Station, Norbiton Train Station, KT2 7QE",
         "CODE": "CHB",
         "GoogleFriendlyAddress": null,
-        "NAME": "Caravan at Wolverton Avenue",
+        "NAME": "Temporary Station, Norbiton Train Station",
         "OBJECTID": 2091,
         "council_id": "KTT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.2840589568047893, 51.4124121159719], \"type\": \"Point\"}, \"id\": 2091, \"properties\": {\"ADDRESS\": \"Temporary Station, Norbiton Train Station, KT2 7QE\", \"CODE\": \"CHB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Caravan at Wolverton Avenue\", \"OBJECTID\": 2091}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2840589568047893, 51.4124121159719], \"type\": \"Point\"}, \"id\": 2091, \"properties\": {\"ADDRESS\": \"Temporary Station, Norbiton Train Station, KT2 7QE\", \"CODE\": \"CHB\", \"GoogleFriendlyAddress\": null, \"NAME\": \"Temporary Station, Norbiton Train Station\", \"OBJECTID\": 2091}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Corpus Christi Primary School, Mount Road KT3 3JU",
