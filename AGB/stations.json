@@ -312,16 +312,16 @@
         "pk": 24
     },
     {
-        "ADDRESS": "Colgrain Primary School, Redguantlet Road, Colgrain G84 7TZ",
+        "ADDRESS": "Helensburgh Community Hub, 116 East Princes Street, Helensburgh G84 7DQ",
         "CODE": "AD20",
-        "NAME": "Colgrain Primary School",
+        "NAME": "Helensburgh Community Hub",
         "OBJECTID": 25,
-        "POINT_X": 231130.17304835,
-        "POINT_Y": 681999.8853039,
+        "POINT_X": 230213.00000313,
+        "POINT_Y": 682151.9999697,
         "TOWN": "Helensburgh",
-        "UPRN": "000125070021",
+        "UPRN": "000125011158",
         "council_id": "AGB",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.709574498202356, 56.0010967559119], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Colgrain Primary School, Redguantlet Road, Colgrain G84 7TZ\", \"CODE\": \"AD20\", \"NAME\": \"Colgrain Primary School\", \"OBJECTID\": 25, \"POINT_X\": 231130.17304835, \"POINT_Y\": 681999.8853039, \"TOWN\": \"Helensburgh\", \"UPRN\": \"000125070021\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.724365113887403, 56.00215585480776], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Helensburgh Community Hub, 116 East Princes Street, Helensburgh G84 7DQ\", \"CODE\": \"AD20\", \"NAME\": \"Helensburgh Community Hub\", \"OBJECTID\": 25, \"POINT_X\": 230213.00000313, \"POINT_Y\": 682151.9999697, \"TOWN\": \"Helensburgh\", \"UPRN\": \"000125011158\"}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
