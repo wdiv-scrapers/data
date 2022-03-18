@@ -1320,14 +1320,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.0321891447139655, 53.5968141396093], \"type\": \"Point\"}, \"id\": 1056, \"properties\": {\"ADDRESS\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"OBJECTID\": 1056, \"POLLINGPLA\": \"Stainforth Youth Centre, Church Road, DN7 5AA\", \"POLLING_DI\": \"RB\", \"UPRN\": \"010006577236\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Holy Family Junior & Infant School, Kirton Lane, DN7 5BL",
+        "ADDRESS": "Polton Close Communal Hall, Polton Close DN7 5HX",
         "OBJECTID": 1057,
-        "POLLINGPLA": "Holy Family Junior & Infant School, Kirton Lane, DN7 5BL",
+        "POLLINGPLA": "Polton Close Communal Hall, Polton Close DN7 5HX",
         "POLLING_DI": "RA",
-        "UPRN": "010006577227",
+        "UPRN": "100051984332",
         "WARD": "Stainforth and Barnby Dun Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.019334503068997, 53.60046205212009], \"type\": \"Point\"}, \"id\": 1057, \"properties\": {\"ADDRESS\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"OBJECTID\": 1057, \"POLLINGPLA\": \"Holy Family Junior & Infant School, Kirton Lane, DN7 5BL\", \"POLLING_DI\": \"RA\", \"UPRN\": \"010006577227\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0152778363666572, 53.60163636903233], \"type\": \"Point\"}, \"id\": 1057, \"properties\": {\"ADDRESS\": \"Polton Close Communal Hall, Polton Close DN7 5HX\", \"OBJECTID\": 1057, \"POLLINGPLA\": \"Polton Close Communal Hall, Polton Close DN7 5HX\", \"POLLING_DI\": \"RA\", \"UPRN\": \"100051984332\", \"WARD\": \"Stainforth and Barnby Dun Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Stanley Road Communal Hall, Stanley Road, DN7 5QQ",
@@ -1460,14 +1460,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9487767945149742, 53.607596174151915], \"type\": \"Point\"}, \"id\": 1072, \"properties\": {\"ADDRESS\": \"Thorne Brook Primary School, Wike Gate Road, DN8 5PQ\", \"OBJECTID\": 1072, \"POLLINGPLA\": \"Thorne Brook Primary School, Wike Gate Road, DN8 5PQ\", \"POLLING_DI\": \"QB\", \"UPRN\": \"010006577618\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Thorne Old People`s Welfare Centre, Church Street, DN8 5BE",
+        "ADDRESS": "Portable Unit, Hatfield Road Adjacent Swing Bridge, DN8 5QZ",
         "OBJECTID": 1073,
-        "POLLINGPLA": "Thorne Old People`s Welfare Centre, Church Street, DN8 5BE",
+        "POLLINGPLA": "Portable Unit, Hatfield Road Adjacent Swing Bridge, DN8 5QZ",
         "POLLING_DI": "QF",
-        "UPRN": "100051985718",
+        "UPRN": "010006612211",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9596581514114657, 53.611185362484115], \"type\": \"Point\"}, \"id\": 1073, \"properties\": {\"ADDRESS\": \"Thorne Old People`s Welfare Centre, Church Street, DN8 5BE\", \"OBJECTID\": 1073, \"POLLINGPLA\": \"Thorne Old People`s Welfare Centre, Church Street, DN8 5BE\", \"POLLING_DI\": \"QF\", \"UPRN\": \"100051985718\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9644621131517613, 53.60808243137976], \"type\": \"Point\"}, \"id\": 1073, \"properties\": {\"ADDRESS\": \"Portable Unit, Hatfield Road Adjacent Swing Bridge, DN8 5QZ\", \"OBJECTID\": 1073, \"POLLINGPLA\": \"Portable Unit, Hatfield Road Adjacent Swing Bridge, DN8 5QZ\", \"POLLING_DI\": \"QF\", \"UPRN\": \"010006612211\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Blaxton Village Hall, Back Lane, DN9 3AF",
