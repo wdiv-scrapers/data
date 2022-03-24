@@ -198,23 +198,23 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "My Polling Station",
-                "url": "https://broxtowe.maps.arcgis.com/apps/webappviewer/index.html?id=b767b65ab0c4493e9bd05c0094c8e743"
+                "name": "Polling Information",
+                "url": "https://utility.arcgis.com/usrsvcs/servers/a881c66ff8cb42529f7d2ebb6ba36550/rest/services/Public/External_Layes/MapServer/21"
             },
-            "id": "b767b65ab0c4493e9bd05c0094c8e743",
+            "id": "a881c66ff8cb42529f7d2ebb6ba36550_21",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/b767b65ab0c4493e9bd05c0094c8e743?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=b767b65ab0c4493e9bd05c0094c8e743",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/b767b65ab0c4493e9bd05c0094c8e743",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/b767b65ab0c4493e9bd05c0094c8e743"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/a881c66ff8cb42529f7d2ebb6ba36550?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=a881c66ff8cb42529f7d2ebb6ba36550",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "My <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Station"
+                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Information"
                     ],
                     "searchDescription": [
-                        "This application allows you to discover which is the designated <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> station for your address on election day.It is updated around the same time as poll cards are sent out for an election."
+                        "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
@@ -235,23 +235,23 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling Information",
-                "url": "https://utility.arcgis.com/usrsvcs/servers/a881c66ff8cb42529f7d2ebb6ba36550/rest/services/Public/External_Layes/MapServer/21"
+                "name": "My Polling Station",
+                "url": "https://broxtowe.maps.arcgis.com/apps/webappviewer/index.html?id=b767b65ab0c4493e9bd05c0094c8e743"
             },
-            "id": "a881c66ff8cb42529f7d2ebb6ba36550_21",
+            "id": "b767b65ab0c4493e9bd05c0094c8e743",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/a881c66ff8cb42529f7d2ebb6ba36550?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=a881c66ff8cb42529f7d2ebb6ba36550",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/a881c66ff8cb42529f7d2ebb6ba36550_21"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/b767b65ab0c4493e9bd05c0094c8e743?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=b767b65ab0c4493e9bd05c0094c8e743",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/b767b65ab0c4493e9bd05c0094c8e743",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/b767b65ab0c4493e9bd05c0094c8e743"
             },
             "meta": {
                 "highlights": {
                     "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> Information"
+                        "My <mark class=\"hub-search-highlight name-highlight\">Polling</mark> Station"
                     ],
                     "searchDescription": [
-                        "This layer combines information on <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> districts, used to allocate polling stations at election times, with the location of the right polling station, thereby allowing for a search to be made on the address of an elector to direct them to the right location to cast their vote on election day.It is updated around a month before an election at the same time as poll card information is produced"
+                        "This application allows you to discover which is the designated <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> station for your address on election day.It is updated around the same time as poll cards are sent out for an election."
                     ],
                     "tags": [
                         "<mark class=\"hub-search-highlight tags-highlight\">Polling</mark>"
