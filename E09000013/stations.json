@@ -56,7 +56,7 @@
         "POSTCODE": "SW6 7JT",
         "WARD": "MUNSTER",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.208037171334074, 51.47915001211221], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Peters Church\", \"OBJECTID\": 5, \"POLLING_DI\": \"MSC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Peters Church, St Peters Terrace\", \"POSTCODE\": \"SW6 7JT\", \"WARD\": \"MUNSTER\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.2084140861242, 51.47910937339725], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Peters Church\", \"OBJECTID\": 5, \"POLLING_DI\": \"MSC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Peters Church, St Peters Terrace\", \"POSTCODE\": \"SW6 7JT\", \"WARD\": \"MUNSTER\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -94,18 +94,6 @@
         "council_id": "E09000013",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.231551986581076, 51.49138682404533], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Macbeth Centre\", \"OBJECTID\": 8, \"POLLING_DI\": \"HAA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Macbeth Centre, Macbeth Street\", \"POSTCODE\": \"W6 9JJ\", \"WARD\": \"HAMMERSMITH BROADWAY\"}, \"type\": \"Feature\"}",
         "pk": 8
-    },
-    {
-        "LOCATION": "West London Free School",
-        "OBJECTID": 9,
-        "POLLING_DI": "HBB",
-        "POLLING_ST": "Polling Stations",
-        "POLLING__1": "West London Free School, Cambridge Grove",
-        "POSTCODE": "W6 0LB",
-        "WARD": "HAMMERSMITH BROADWAY",
-        "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.231093828294067, 51.49560653695493], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"West London Free School\", \"OBJECTID\": 9, \"POLLING_DI\": \"HBB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"West London Free School, Cambridge Grove\", \"POSTCODE\": \"W6 0LB\", \"WARD\": \"HAMMERSMITH BROADWAY\"}, \"type\": \"Feature\"}",
-        "pk": 9
     },
     {
         "LOCATION": "Springvale Tenants Hall",
@@ -166,18 +154,6 @@
         "council_id": "E09000013",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.190396150414385, 51.46889671937713], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Matthew's Church Hall\", \"OBJECTID\": 14, \"POLLING_DI\": \"SAC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Matthew's Church Hall, Wandsworth Bridge Road\", \"POSTCODE\": \"SW6 2TX\", \"WARD\": \"SANDS END\"}, \"type\": \"Feature\"}",
         "pk": 14
-    },
-    {
-        "LOCATION": "St Marys RC Primary School",
-        "OBJECTID": 15,
-        "POLLING_DI": "ADD",
-        "POLLING_ST": "Polling Stations",
-        "POLLING__1": "St Marys RC Primary School, Masbro Road",
-        "POSTCODE": "W14 0LY",
-        "WARD": "ADDISON",
-        "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.21637096374181, 51.49816276846205], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St Marys RC Primary School\", \"OBJECTID\": 15, \"POLLING_DI\": \"ADD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St Marys RC Primary School, Masbro Road\", \"POSTCODE\": \"W14 0LY\", \"WARD\": \"ADDISON\"}, \"type\": \"Feature\"}",
-        "pk": 15
     },
     {
         "LOCATION": "Fulham Broadway Methodist Church",
@@ -272,7 +248,7 @@
         "POSTCODE": "W6 7BL",
         "WARD": "BROOK GREEN",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.216816849452726, 51.49475054566245], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Holy Trinity Parish Centre\", \"OBJECTID\": 23, \"POLLING_DI\": \"BGC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Holy Trinity Parish Centre, Brook Green\", \"POSTCODE\": \"W6 7BL\", \"WARD\": \"BROOK GREEN\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.217070157940245, 51.49451075551814], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Holy Trinity Parish Centre\", \"OBJECTID\": 23, \"POLLING_DI\": \"BGC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Holy Trinity Parish Centre, Brook Green\", \"POSTCODE\": \"W6 7BL\", \"WARD\": \"BROOK GREEN\"}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -346,18 +322,6 @@
         "council_id": "E09000013",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.225290437459779, 51.5168716383472], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Brickfields Hall\", \"OBJECTID\": 29, \"POLLING_DI\": \"CLD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Brickfields Hall, Off Shinfield Street\", \"POSTCODE\": \"W12 0BZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
         "pk": 29
-    },
-    {
-        "LOCATION": "Brickfields Hall, Off Shinfield Street",
-        "OBJECTID": 30,
-        "POLLING_DI": "CPE",
-        "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Brickfields Hall, Off Shinfield Street",
-        "POSTCODE": "W12 0BZ",
-        "WARD": "COLLEGE PARK AND OLD OAK",
-        "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.225288806834758, 51.51686974209498], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Brickfields Hall, Off Shinfield Street\", \"OBJECTID\": 30, \"POLLING_DI\": \"CPE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Brickfields Hall, Off Shinfield Street\", \"POSTCODE\": \"W12 0BZ\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
-        "pk": 30
     },
     {
         "LOCATION": "Addison Primary School",
@@ -504,18 +468,6 @@
         "pk": 42
     },
     {
-        "LOCATION": "Avonmore Primary School",
-        "OBJECTID": 43,
-        "POLLING_DI": "ABD",
-        "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Avonmore Primary School, Avonmore Road",
-        "POSTCODE": "W14 8RJ",
-        "WARD": "AVONMORE AND BROOK GREEN",
-        "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.208240753419719, 51.494939307495684], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Avonmore Primary School\", \"OBJECTID\": 43, \"POLLING_DI\": \"ABD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Avonmore Primary School, Avonmore Road\", \"POSTCODE\": \"W14 8RJ\", \"WARD\": \"AVONMORE AND BROOK GREEN\"}, \"type\": \"Feature\"}",
-        "pk": 43
-    },
-    {
         "LOCATION": "Fulham Cross School",
         "OBJECTID": 44,
         "POLLING_DI": "MSA/MSAH",
@@ -538,18 +490,6 @@
         "council_id": "E09000013",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.215433866933814, 51.48683936785053], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Matthews Community Hall\", \"OBJECTID\": 45, \"POLLING_DI\": \"FRB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Matthews Community Hall, 12 Margravine Road\", \"POSTCODE\": \"W6 8HJ\", \"WARD\": \"FULHAM REACH\"}, \"type\": \"Feature\"}",
         "pk": 45
-    },
-    {
-        "LOCATION": "Bishop Creighton House",
-        "OBJECTID": 46,
-        "POLLING_DI": "FRC",
-        "POLLING_ST": "Polling Stations",
-        "POLLING__1": "Bishop Creighton House, 378 Lillie Road",
-        "POSTCODE": "SW6 7PH",
-        "WARD": "FULHAM REACH",
-        "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.217820601665856, 51.48356973827601], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Bishop Creighton House\", \"OBJECTID\": 46, \"POLLING_DI\": \"FRC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Bishop Creighton House, 378 Lillie Road\", \"POSTCODE\": \"SW6 7PH\", \"WARD\": \"FULHAM REACH\"}, \"type\": \"Feature\"}",
-        "pk": 46
     },
     {
         "LOCATION": "Melcombe Primary School",
@@ -602,13 +542,13 @@
     {
         "LOCATION": "All Saints Parish Hall",
         "OBJECTID": 52,
-        "POLLING_DI": "FTC/PRC",
+        "POLLING_DI": "FTC/PHB",
         "POLLING_ST": "Polling Stations",
         "POLLING__1": "All Saints Parish Hall, 70A Fulham High Street",
         "POSTCODE": "SW6 3LG",
         "WARD": "FULHAM TOWN/PALACE AND HURLINGHAM",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.211282683078665, 51.47017936490538], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"All Saints Parish Hall\", \"OBJECTID\": 52, \"POLLING_DI\": \"FTC/PRC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"All Saints Parish Hall, 70A Fulham High Street\", \"POSTCODE\": \"SW6 3LG\", \"WARD\": \"FULHAM TOWN/PALACE AND HURLINGHAM\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.211282683078665, 51.47017936490538], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"All Saints Parish Hall\", \"OBJECTID\": 52, \"POLLING_DI\": \"FTC/PHB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"All Saints Parish Hall, 70A Fulham High Street\", \"POSTCODE\": \"SW6 3LG\", \"WARD\": \"FULHAM TOWN/PALACE AND HURLINGHAM\"}, \"type\": \"Feature\"}",
         "pk": 52
     },
     {
@@ -632,7 +572,7 @@
         "POSTCODE": "SW6 5TB",
         "WARD": "WALHAM GREEN",
         "council_id": "E09000013",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.201513224637674, 51.4787146630881], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Lancaster Court Residents Hall\", \"OBJECTID\": 54, \"POLLING_DI\": \"WAB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Lancaster Court Residents Hall, Darlan Road\", \"POSTCODE\": \"SW6 5TB\", \"WARD\": \"WALHAM GREEN\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.201676536250282, 51.478747621743594], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Lancaster Court Residents Hall\", \"OBJECTID\": 54, \"POLLING_DI\": \"WAB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Lancaster Court Residents Hall, Darlan Road\", \"POSTCODE\": \"SW6 5TB\", \"WARD\": \"WALHAM GREEN\"}, \"type\": \"Feature\"}",
         "pk": 54
     },
     {
@@ -682,5 +622,125 @@
         "council_id": "E09000013",
         "geometry": "{\"geometry\": {\"coordinates\": [-0.242867510528364, 51.50212482984637], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Askew Road Church\", \"OBJECTID\": 61, \"POLLING_DI\": \"WDB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Askew Road Church, 1 Bassein Park Road\", \"POSTCODE\": \"W12 9RN\", \"WARD\": \"WENDELL PARK\"}, \"type\": \"Feature\"}",
         "pk": 61
+    },
+    {
+        "LOCATION": "Lytton Estate Community Hall",
+        "OBJECTID": 62,
+        "POLLING_DI": "AVB",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Lytton Estate Community Hall, North End Crescent",
+        "POSTCODE": "W14 8TE",
+        "WARD": "AVONMORE",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.207249648946049, 51.49331874875324], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Lytton Estate Community Hall\", \"OBJECTID\": 62, \"POLLING_DI\": \"AVB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Lytton Estate Community Hall, North End Crescent\", \"POSTCODE\": \"W14 8TE\", \"WARD\": \"AVONMORE\"}, \"type\": \"Feature\"}",
+        "pk": 62
+    },
+    {
+        "LOCATION": "Masbro Centre",
+        "OBJECTID": 63,
+        "POLLING_DI": "BGA",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Masbro Centre, 87 Masbro Road",
+        "POSTCODE": "W14 0LR",
+        "WARD": "BROOK GREEN",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.216070679064785, 51.500206724812365], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Masbro Centre\", \"OBJECTID\": 63, \"POLLING_DI\": \"BGA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Masbro Centre, 87 Masbro Road\", \"POSTCODE\": \"W14 0LR\", \"WARD\": \"BROOK GREEN\"}, \"type\": \"Feature\"}",
+        "pk": 63
+    },
+    {
+        "LOCATION": "St. Katherines Church",
+        "OBJECTID": 64,
+        "POLLING_DI": "CLE",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "St. Katherines Church, Westway",
+        "POSTCODE": "W12 0SD",
+        "WARD": "COLLEGE PARK AND OLD OAK",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.242921380011951, 51.51458644355671], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St. Katherines Church\", \"OBJECTID\": 64, \"POLLING_DI\": \"CLE\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St. Katherines Church, Westway\", \"POSTCODE\": \"W12 0SD\", \"WARD\": \"COLLEGE PARK AND OLD OAK\"}, \"type\": \"Feature\"}",
+        "pk": 64
+    },
+    {
+        "LOCATION": "Norah Phillips Community Hall",
+        "OBJECTID": 65,
+        "POLLING_DI": "FTB",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Norah Phillips Community Hall, Munster Road",
+        "POSTCODE": "SW6 4EX",
+        "WARD": "FULHAM TOWN",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.205885016315452, 51.47339717766917], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Norah Phillips Community Hall\", \"OBJECTID\": 65, \"POLLING_DI\": \"FTB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Norah Phillips Community Hall, Munster Road\", \"POSTCODE\": \"SW6 4EX\", \"WARD\": \"FULHAM TOWN\"}, \"type\": \"Feature\"}",
+        "pk": 65
+    },
+    {
+        "LOCATION": "Hammersmith Quaker Meeting House",
+        "OBJECTID": 66,
+        "POLLING_DI": "GRB",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Hammersmith Quaker Meeting House, 30-32 Bradmore Park Road",
+        "POSTCODE": "W6 0DT",
+        "WARD": "GROVE",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.231837904988727, 51.4956164060974], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Hammersmith Quaker Meeting House\", \"OBJECTID\": 66, \"POLLING_DI\": \"GRB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Hammersmith Quaker Meeting House, 30-32 Bradmore Park Road\", \"POSTCODE\": \"W6 0DT\", \"WARD\": \"GROVE\"}, \"type\": \"Feature\"}",
+        "pk": 66
+    },
+    {
+        "LOCATION": "St. Augustine's Church Hall",
+        "OBJECTID": 67,
+        "POLLING_DI": "HAC",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "St. Augustine's Church Hall, 55 Fulham Palace Road",
+        "POSTCODE": "W6 8AU",
+        "WARD": "HAMMERSMITH BROADWAY",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.222680985648408, 51.49065796975517], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"St. Augustine's Church Hall\", \"OBJECTID\": 67, \"POLLING_DI\": \"HAC\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"St. Augustine's Church Hall, 55 Fulham Palace Road\", \"POSTCODE\": \"W6 8AU\", \"WARD\": \"HAMMERSMITH BROADWAY\"}, \"type\": \"Feature\"}",
+        "pk": 67
+    },
+    {
+        "LOCATION": "Vignola Hall",
+        "OBJECTID": 68,
+        "POLLING_DI": "LEB",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Vignola Hall, Carmel Lodge, 51 Lillie Road",
+        "POSTCODE": "SW6 1UF",
+        "WARD": "LILLIE",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.199888117274369, 51.485643182241176], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Vignola Hall\", \"OBJECTID\": 68, \"POLLING_DI\": \"LEB\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Vignola Hall, Carmel Lodge, 51 Lillie Road\", \"POSTCODE\": \"SW6 1UF\", \"WARD\": \"LILLIE\"}, \"type\": \"Feature\"}",
+        "pk": 68
+    },
+    {
+        "LOCATION": "Sands End Arts & Community Centre",
+        "OBJECTID": 69,
+        "POLLING_DI": "PHD",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Sands End Arts & Community Centre, Peterborough Road",
+        "POSTCODE": "SW6 3EZ",
+        "WARD": "PALACE AND HURLINGHAM",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.196236979609467, 51.469751058324675], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Sands End Arts & Community Centre\", \"OBJECTID\": 69, \"POLLING_DI\": \"PHD\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Sands End Arts & Community Centre, Peterborough Road\", \"POSTCODE\": \"SW6 3EZ\", \"WARD\": \"PALACE AND HURLINGHAM\"}, \"type\": \"Feature\"}",
+        "pk": 69
+    },
+    {
+        "LOCATION": "65 Westcroft Square",
+        "OBJECTID": 70,
+        "POLLING_DI": "RAA",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "65 Westcroft Square",
+        "POSTCODE": "W6 0TA",
+        "WARD": "RAVENSCOURT PARK",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.243875755776388, 51.49389977470298], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"65 Westcroft Square\", \"OBJECTID\": 70, \"POLLING_DI\": \"RAA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"65 Westcroft Square\", \"POSTCODE\": \"W6 0TA\", \"WARD\": \"RAVENSCOURT PARK\"}, \"type\": \"Feature\"}",
+        "pk": 70
+    },
+    {
+        "LOCATION": "Cabin at Ark Conway Primary Academy",
+        "OBJECTID": 71,
+        "POLLING_DI": "WOA",
+        "POLLING_ST": "Polling Stations",
+        "POLLING__1": "Cabin outside Ark Conway Primary Academy, 60 Hemlock Road",
+        "POSTCODE": "W12 0QT",
+        "WARD": "WORMHOLT",
+        "council_id": "E09000013",
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.242533419190379, 51.51380727141241], \"type\": \"Point\"}, \"properties\": {\"LOCATION\": \"Cabin at Ark Conway Primary Academy\", \"OBJECTID\": 71, \"POLLING_DI\": \"WOA\", \"POLLING_ST\": \"Polling Stations\", \"POLLING__1\": \"Cabin outside Ark Conway Primary Academy, 60 Hemlock Road\", \"POSTCODE\": \"W12 0QT\", \"WARD\": \"WORMHOLT\"}, \"type\": \"Feature\"}",
+        "pk": 71
     }
 ]
