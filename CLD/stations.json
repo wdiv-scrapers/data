@@ -23,13 +23,13 @@
     },
     {
         "ADDRESS": "Crow Nest Golf Course Club House, Coach Road, Hove Edge, Brighouse, HD6 2LN",
-        "Eastings": "413268.9305",
-        "Northings": "424303.831",
+        "Eastings": "413678.5407",
+        "Northings": "424634.4655",
         "POLLING_DISTRICT_NAME": "Slead Syke",
         "POLLING_LETTERS": "AC",
         "WARD": "Brighouse",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.800428, 53.714985], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Crow Nest Golf Course Club House, Coach Road, Hove Edge, Brighouse, HD6 2LN\", \"Eastings\": \"413268.9305\", \"Northings\": \"424303.831\", \"POLLING_DISTRICT_NAME\": \"Slead Syke\", \"POLLING_LETTERS\": \"AC\", \"WARD\": \"Brighouse\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.794208, 53.717946], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Crow Nest Golf Course Club House, Coach Road, Hove Edge, Brighouse, HD6 2LN\", \"Eastings\": \"413678.5407\", \"Northings\": \"424634.4655\", \"POLLING_DISTRICT_NAME\": \"Slead Syke\", \"POLLING_LETTERS\": \"AC\", \"WARD\": \"Brighouse\"}, \"type\": \"Feature\"}",
         "pk": "AC"
     },
     {
@@ -77,14 +77,14 @@
         "pk": "BA"
     },
     {
-        "ADDRESS": "The Birchcliffe Centre, Chapel Avenue, Hebden Bridge, HX7 8AD",
+        "ADDRESS": "The Birchcliffe Centre, Chapel Avenue, Hebden Bridge, HX7 8DG",
         "Eastings": "399528.4393",
         "Northings": "427462.3567",
         "POLLING_DISTRICT_NAME": "Birchcliffe",
         "POLLING_LETTERS": "BB",
         "WARD": "Calder",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.008629, 53.743539], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Birchcliffe Centre, Chapel Avenue, Hebden Bridge, HX7 8AD\", \"Eastings\": \"399528.4393\", \"Northings\": \"427462.3567\", \"POLLING_DISTRICT_NAME\": \"Birchcliffe\", \"POLLING_LETTERS\": \"BB\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.008629, 53.743539], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The Birchcliffe Centre, Chapel Avenue, Hebden Bridge, HX7 8DG\", \"Eastings\": \"399528.4393\", \"Northings\": \"427462.3567\", \"POLLING_DISTRICT_NAME\": \"Birchcliffe\", \"POLLING_LETTERS\": \"BB\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
         "pk": "BB"
     },
     {
@@ -165,25 +165,25 @@
         "pk": "BJ"
     },
     {
-        "ADDRESS": "Heptonstall Social and Bowling Club Acre Lane, Heptonstall, Hebden Bridge, HX7 7LT",
+        "ADDRESS": "Heptonstall Social and Bowling Club, Acre Lane, Heptonstall, Hebden Bridge, HX7 7LT",
         "Eastings": "398753.7825",
         "Northings": "427689.3904",
         "POLLING_DISTRICT_NAME": "Heptonstall",
         "POLLING_LETTERS": "BK",
         "WARD": "Calder",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.020375, 53.745578], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Heptonstall Social and Bowling Club Acre Lane, Heptonstall, Hebden Bridge, HX7 7LT\", \"Eastings\": \"398753.7825\", \"Northings\": \"427689.3904\", \"POLLING_DISTRICT_NAME\": \"Heptonstall\", \"POLLING_LETTERS\": \"BK\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.020375, 53.745578], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Heptonstall Social and Bowling Club, Acre Lane, Heptonstall, Hebden Bridge, HX7 7LT\", \"Eastings\": \"398753.7825\", \"Northings\": \"427689.3904\", \"POLLING_DISTRICT_NAME\": \"Heptonstall\", \"POLLING_LETTERS\": \"BK\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
         "pk": "BK"
     },
     {
-        "ADDRESS": "Castle Hill Primary School, Halifax Road, Todmorden, OL14 5SQ",
-        "Eastings": "394871.3129",
-        "Northings": "424536.8142",
+        "ADDRESS": "Castle Hill Social Club, Coach House, 300 Halifax Road, Todmorden, OL14 5SR",
+        "Eastings": "395008.4817",
+        "Northings": "424534.9174",
         "POLLING_DISTRICT_NAME": "Stoodley",
         "POLLING_LETTERS": "BL",
         "WARD": "Calder",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.079191, 53.717218], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Castle Hill Primary School, Halifax Road, Todmorden, OL14 5SQ\", \"Eastings\": \"394871.3129\", \"Northings\": \"424536.8142\", \"POLLING_DISTRICT_NAME\": \"Stoodley\", \"POLLING_LETTERS\": \"BL\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.077113, 53.717203], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Castle Hill Social Club, Coach House, 300 Halifax Road, Todmorden, OL14 5SR\", \"Eastings\": \"395008.4817\", \"Northings\": \"424534.9174\", \"POLLING_DISTRICT_NAME\": \"Stoodley\", \"POLLING_LETTERS\": \"BL\", \"WARD\": \"Calder\"}, \"type\": \"Feature\"}",
         "pk": "BL"
     },
     {
@@ -198,14 +198,14 @@
         "pk": "BM"
     },
     {
-        "ADDRESS": "New Road Independent Family Church, 57 New Hey Road, Rastrick, Brighouse, HD6 3PY",
+        "ADDRESS": "Rastrick Fire Station, Clough Lane, Rastrick, HD6 3QH",
         "Eastings": "413414.9432",
         "Northings": "420615.237",
         "POLLING_DISTRICT_NAME": "Upper Edge",
         "POLLING_LETTERS": "CA",
         "WARD": "Elland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.798374, 53.681828], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"New Road Independent Family Church, 57 New Hey Road, Rastrick, Brighouse, HD6 3PY\", \"Eastings\": \"413414.9432\", \"Northings\": \"420615.237\", \"POLLING_DISTRICT_NAME\": \"Upper Edge\", \"POLLING_LETTERS\": \"CA\", \"WARD\": \"Elland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.798374, 53.681828], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Rastrick Fire Station, Clough Lane, Rastrick, HD6 3QH\", \"Eastings\": \"413414.9432\", \"Northings\": \"420615.237\", \"POLLING_DISTRICT_NAME\": \"Upper Edge\", \"POLLING_LETTERS\": \"CA\", \"WARD\": \"Elland\"}, \"type\": \"Feature\"}",
         "pk": "CA"
     },
     {
@@ -264,14 +264,14 @@
         "pk": "CF"
     },
     {
-        "ADDRESS": "The\ufffdBaines Hall Elland Cricket Club Hullen Edge Road, Elland HX5 0QY",
+        "ADDRESS": "The\u00a0Baines Hall Elland Cricket Club Hullen Edge Road, Elland, HX5 0QY",
         "Eastings": "409904.1076",
         "Northings": "420674.5319",
         "POLLING_DISTRICT_NAME": "Brooksbank",
         "POLLING_LETTERS": "CG",
         "WARD": "Elland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.851526, 53.682438], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The\\ufffdBaines Hall Elland Cricket Club Hullen Edge Road, Elland HX5 0QY\", \"Eastings\": \"409904.1076\", \"Northings\": \"420674.5319\", \"POLLING_DISTRICT_NAME\": \"Brooksbank\", \"POLLING_LETTERS\": \"CG\", \"WARD\": \"Elland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.851526, 53.682438], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"The\\u00a0Baines Hall Elland Cricket Club Hullen Edge Road, Elland, HX5 0QY\", \"Eastings\": \"409904.1076\", \"Northings\": \"420674.5319\", \"POLLING_DISTRICT_NAME\": \"Brooksbank\", \"POLLING_LETTERS\": \"CG\", \"WARD\": \"Elland\"}, \"type\": \"Feature\"}",
         "pk": "CG"
     },
     {
@@ -286,36 +286,36 @@
         "pk": "DA"
     },
     {
-        "ADDRESS": "West Vale J & I School, Stainland Road, West Vale, Halifax, HX4 8LS",
+        "ADDRESS": "West Vale Academy, Stainland Road, West Vale, Halifax, HX4 8LS",
         "Eastings": "409765.8495",
         "Northings": "421284.5315",
         "POLLING_DISTRICT_NAME": "West Vale",
         "POLLING_LETTERS": "DB",
         "WARD": "Greetland and Stainland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.853601, 53.687924], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"West Vale J & I School, Stainland Road, West Vale, Halifax, HX4 8LS\", \"Eastings\": \"409765.8495\", \"Northings\": \"421284.5315\", \"POLLING_DISTRICT_NAME\": \"West Vale\", \"POLLING_LETTERS\": \"DB\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.853601, 53.687924], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"West Vale Academy, Stainland Road, West Vale, Halifax, HX4 8LS\", \"Eastings\": \"409765.8495\", \"Northings\": \"421284.5315\", \"POLLING_DISTRICT_NAME\": \"West Vale\", \"POLLING_LETTERS\": \"DB\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
         "pk": "DB"
     },
     {
-        "ADDRESS": "Childrens Centre at Holywell Green J&I School, Bradley View, Holywell Green, Halifax, HX4 9AE",
-        "Eastings": "408617.3953",
-        "Northings": "419770.1121",
+        "ADDRESS": "Stainland & Holywell Green United Reformed Church, Stainland Road, Holywell Green, Halifax, HX4 9AJ",
+        "Eastings": "408851.3517",
+        "Northings": "419916.5642",
         "POLLING_DISTRICT_NAME": "Holywell Green",
         "POLLING_LETTERS": "DC",
         "WARD": "Greetland and Stainland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.871032, 53.674332], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Childrens Centre at Holywell Green J&I School, Bradley View, Holywell Green, Halifax, HX4 9AE\", \"Eastings\": \"408617.3953\", \"Northings\": \"419770.1121\", \"POLLING_DISTRICT_NAME\": \"Holywell Green\", \"POLLING_LETTERS\": \"DC\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.867487, 53.675644], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Stainland & Holywell Green United Reformed Church, Stainland Road, Holywell Green, Halifax, HX4 9AJ\", \"Eastings\": \"408851.3517\", \"Northings\": \"419916.5642\", \"POLLING_DISTRICT_NAME\": \"Holywell Green\", \"POLLING_LETTERS\": \"DC\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
         "pk": "DC"
     },
     {
-        "ADDRESS": "Bowling Green Primary School, Bowling Green Road, Stainland, Halifax, HX4 9HU",
-        "Eastings": "407668.3871",
-        "Northings": "419302.3222",
+        "ADDRESS": "1885 The Venue, The Recreation Ground, Stainland, HX4 9HF",
+        "Eastings": "407833.0411",
+        "Northings": "419544.8235",
         "POLLING_DISTRICT_NAME": "Stainland",
         "POLLING_LETTERS": "DD",
         "WARD": "Greetland and Stainland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.885409, 53.670142], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bowling Green Primary School, Bowling Green Road, Stainland, Halifax, HX4 9HU\", \"Eastings\": \"407668.3871\", \"Northings\": \"419302.3222\", \"POLLING_DISTRICT_NAME\": \"Stainland\", \"POLLING_LETTERS\": \"DD\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.882911, 53.672319], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"1885 The Venue, The Recreation Ground, Stainland, HX4 9HF\", \"Eastings\": \"407833.0411\", \"Northings\": \"419544.8235\", \"POLLING_DISTRICT_NAME\": \"Stainland\", \"POLLING_LETTERS\": \"DD\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
         "pk": "DD"
     },
     {
@@ -330,14 +330,14 @@
         "pk": "DE"
     },
     {
-        "ADDRESS": "St Luke's Church, Berry Moor Road, Sowerby Bridge, West Yorkshire HX6 3RN",
+        "ADDRESS": "St Luke's Church, Berry Moor Road, Norland, Sowerby Bridge, HX6 3RN",
         "Eastings": "406631.3657",
         "Northings": "422616.3304",
         "POLLING_DISTRICT_NAME": "Norland",
         "POLLING_LETTERS": "DF",
         "WARD": "Greetland and Stainland",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.901035, 53.699942], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Luke's Church, Berry Moor Road, Sowerby Bridge, West Yorkshire HX6 3RN\", \"Eastings\": \"406631.3657\", \"Northings\": \"422616.3304\", \"POLLING_DISTRICT_NAME\": \"Norland\", \"POLLING_LETTERS\": \"DF\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.901035, 53.699942], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Luke's Church, Berry Moor Road, Norland, Sowerby Bridge, HX6 3RN\", \"Eastings\": \"406631.3657\", \"Northings\": \"422616.3304\", \"POLLING_DISTRICT_NAME\": \"Norland\", \"POLLING_LETTERS\": \"DF\", \"WARD\": \"Greetland and Stainland\"}, \"type\": \"Feature\"}",
         "pk": "DF"
     },
     {
@@ -363,14 +363,14 @@
         "pk": "EA"
     },
     {
-        "ADDRESS": "Christ Church (Hipperholme Site), Brighouse Road, Hipperholme, Halifax, HX3 8EB",
+        "ADDRESS": "Christ Church (Hipperholme Site), Brighouse Road, Hipperholme, Halifax, HX3 8AA",
         "Eastings": "412486.1459",
         "Northings": "425444.0585",
         "POLLING_DISTRICT_NAME": "Hipperholme",
         "POLLING_LETTERS": "EB",
         "WARD": "Hipperholme and Lightcliffe",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.812244, 53.725252], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Christ Church (Hipperholme Site), Brighouse Road, Hipperholme, Halifax, HX3 8EB\", \"Eastings\": \"412486.1459\", \"Northings\": \"425444.0585\", \"POLLING_DISTRICT_NAME\": \"Hipperholme\", \"POLLING_LETTERS\": \"EB\", \"WARD\": \"Hipperholme and Lightcliffe\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.812244, 53.725252], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Christ Church (Hipperholme Site), Brighouse Road, Hipperholme, Halifax, HX3 8AA\", \"Eastings\": \"412486.1459\", \"Northings\": \"425444.0585\", \"POLLING_DISTRICT_NAME\": \"Hipperholme\", \"POLLING_LETTERS\": \"EB\", \"WARD\": \"Hipperholme and Lightcliffe\"}, \"type\": \"Feature\"}",
         "pk": "EB"
     },
     {
@@ -396,14 +396,14 @@
         "pk": "ED"
     },
     {
-        "ADDRESS": "St Chad's C.E. Primary School, Upper Green Lane, Brighouse, HD6 2PA",
+        "ADDRESS": "Crow Nest Golf Course Club House, Coach Road, Hove Edge, Brighouse, HD6 2LN",
         "Eastings": "413678.5137",
         "Northings": "424634.4905",
         "POLLING_DISTRICT_NAME": "St Chad's",
         "POLLING_LETTERS": "EE",
         "WARD": "Hipperholme and Lightcliffe",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.794208, 53.717946], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Chad's C.E. Primary School, Upper Green Lane, Brighouse, HD6 2PA\", \"Eastings\": \"413678.5137\", \"Northings\": \"424634.4905\", \"POLLING_DISTRICT_NAME\": \"St Chad's\", \"POLLING_LETTERS\": \"EE\", \"WARD\": \"Hipperholme and Lightcliffe\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.794208, 53.717946], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Crow Nest Golf Course Club House, Coach Road, Hove Edge, Brighouse, HD6 2LN\", \"Eastings\": \"413678.5137\", \"Northings\": \"424634.4905\", \"POLLING_DISTRICT_NAME\": \"St Chad's\", \"POLLING_LETTERS\": \"EE\", \"WARD\": \"Hipperholme and Lightcliffe\"}, \"type\": \"Feature\"}",
         "pk": "EE"
     },
     {
@@ -418,14 +418,14 @@
         "pk": "EF"
     },
     {
-        "ADDRESS": "Ash Green Primary School, Clough Lane, Mixenden, Halifax, HX2 8SN",
-        "Eastings": "406055.3663",
-        "Northings": "428634.0301",
+        "ADDRESS": "Mixenden Activity Centre, Mixenden Library, Clough Lane, Mixenden, HX2 8SH",
+        "Eastings": "406041.041",
+        "Northings": "428616.0824",
         "POLLING_DISTRICT_NAME": "Mixenden",
         "POLLING_LETTERS": "FA",
         "WARD": "Illingworth and Mixenden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.909644, 53.754037], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Ash Green Primary School, Clough Lane, Mixenden, Halifax, HX2 8SN\", \"Eastings\": \"406055.3663\", \"Northings\": \"428634.0301\", \"POLLING_DISTRICT_NAME\": \"Mixenden\", \"POLLING_LETTERS\": \"FA\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.909862, 53.753876], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Mixenden Activity Centre, Mixenden Library, Clough Lane, Mixenden, HX2 8SH\", \"Eastings\": \"406041.041\", \"Northings\": \"428616.0824\", \"POLLING_DISTRICT_NAME\": \"Mixenden\", \"POLLING_LETTERS\": \"FA\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
         "pk": "FA"
     },
     {
@@ -440,25 +440,14 @@
         "pk": "FB"
     },
     {
-        "ADDRESS": "St Johns Parish Centre, Pavement Lane, Bradshaw, Halifax, HX2 9JJ",
-        "Eastings": "407605.0767",
-        "Northings": "429813.5519",
-        "POLLING_DISTRICT_NAME": "Bradshaw",
-        "POLLING_LETTERS": "FC",
-        "WARD": "Illingworth and Mixenden",
-        "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.886113, 53.764618], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Johns Parish Centre, Pavement Lane, Bradshaw, Halifax, HX2 9JJ\", \"Eastings\": \"407605.0767\", \"Northings\": \"429813.5519\", \"POLLING_DISTRICT_NAME\": \"Bradshaw\", \"POLLING_LETTERS\": \"FC\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
-        "pk": "FC"
-    },
-    {
-        "ADDRESS": "Illingworth St Marys Cricket Club, The Ainleys, Alloe Field View, Halifax, HX2 9ER",
+        "ADDRESS": "Illingworth St Marys Cricket Club, The Ainleys, Alloe Field View, Halifax, HX2 9EP",
         "Eastings": "407452.6044",
         "Northings": "428747.1111",
         "POLLING_DISTRICT_NAME": "Whitehill",
         "POLLING_LETTERS": "FD",
         "WARD": "Illingworth and Mixenden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.888451, 53.755035], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Illingworth St Marys Cricket Club, The Ainleys, Alloe Field View, Halifax, HX2 9ER\", \"Eastings\": \"407452.6044\", \"Northings\": \"428747.1111\", \"POLLING_DISTRICT_NAME\": \"Whitehill\", \"POLLING_LETTERS\": \"FD\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.888451, 53.755035], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Illingworth St Marys Cricket Club, The Ainleys, Alloe Field View, Halifax, HX2 9EP\", \"Eastings\": \"407452.6044\", \"Northings\": \"428747.1111\", \"POLLING_DISTRICT_NAME\": \"Whitehill\", \"POLLING_LETTERS\": \"FD\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
         "pk": "FD"
     },
     {
@@ -473,14 +462,14 @@
         "pk": "FE"
     },
     {
-        "ADDRESS": "Illingworth Sports Club, Keighley Road, Illingworth, Halifax, HX2 8HA",
-        "Eastings": "407604.4466",
-        "Northings": "428015.9265",
+        "ADDRESS": "Beechwood Library, Beechwood Road, Holmfield, Halifax, HX2 9BU",
+        "Eastings": "407666.6273",
+        "Northings": "427836.291",
         "POLLING_DISTRICT_NAME": "Holmfield",
         "POLLING_LETTERS": "FF",
         "WARD": "Illingworth and Mixenden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.886166, 53.748461], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Illingworth Sports Club, Keighley Road, Illingworth, Halifax, HX2 8HA\", \"Eastings\": \"407604.4466\", \"Northings\": \"428015.9265\", \"POLLING_DISTRICT_NAME\": \"Holmfield\", \"POLLING_LETTERS\": \"FF\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.885227, 53.746846], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Beechwood Library, Beechwood Road, Holmfield, Halifax, HX2 9BU\", \"Eastings\": \"407666.6273\", \"Northings\": \"427836.291\", \"POLLING_DISTRICT_NAME\": \"Holmfield\", \"POLLING_LETTERS\": \"FF\", \"WARD\": \"Illingworth and Mixenden\"}, \"type\": \"Feature\"}",
         "pk": "FF"
     },
     {
@@ -495,14 +484,14 @@
         "pk": "GA"
     },
     {
-        "ADDRESS": "St Marys Church, High Street, Luddenden, Halifax. HX2 6PX",
+        "ADDRESS": "St Marys Church, High Street, Luddenden, Halifax, HX2 6PX",
         "Eastings": "404137.364",
         "Northings": "426222.2508",
         "POLLING_DISTRICT_NAME": "Luddenden",
         "POLLING_LETTERS": "GB",
         "WARD": "Luddendenfoot",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.938764, 53.732378], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church, High Street, Luddenden, Halifax. HX2 6PX\", \"Eastings\": \"404137.364\", \"Northings\": \"426222.2508\", \"POLLING_DISTRICT_NAME\": \"Luddenden\", \"POLLING_LETTERS\": \"GB\", \"WARD\": \"Luddendenfoot\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.938764, 53.732378], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church, High Street, Luddenden, Halifax, HX2 6PX\", \"Eastings\": \"404137.364\", \"Northings\": \"426222.2508\", \"POLLING_DISTRICT_NAME\": \"Luddenden\", \"POLLING_LETTERS\": \"GB\", \"WARD\": \"Luddendenfoot\"}, \"type\": \"Feature\"}",
         "pk": "GB"
     },
     {
@@ -550,17 +539,6 @@
         "pk": "GF"
     },
     {
-        "ADDRESS": "St Michael's Parish Hall, Church Street , Mytholmroyd, Hebden Bridge, HX7 5DS",
-        "Eastings": "401340.9898",
-        "Northings": "425975.478",
-        "POLLING_DISTRICT_NAME": "Scout Road",
-        "POLLING_LETTERS": "GG",
-        "WARD": "Luddendenfoot",
-        "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.981153, 53.730174], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Michael's Parish Hall, Church Street , Mytholmroyd, Hebden Bridge, HX7 5DS\", \"Eastings\": \"401340.9898\", \"Northings\": \"425975.478\", \"POLLING_DISTRICT_NAME\": \"Scout Road\", \"POLLING_LETTERS\": \"GG\", \"WARD\": \"Luddendenfoot\"}, \"type\": \"Feature\"}",
-        "pk": "GG"
-    },
-    {
         "ADDRESS": "St John the Baptist in the Wilderness Church Room,Church Bank Lane,Cragg Vale,Hebden Bridge,HX7 5TA",
         "Eastings": "400046.4046",
         "Northings": "423209.2138",
@@ -584,13 +562,13 @@
     },
     {
         "ADDRESS": "St Michael's  Parish Hall, Church Street, Mytholmroyd, Hebden Bridge, HX7 5DS",
-        "Eastings": "401340.9898",
-        "Northings": "425975.478",
+        "Eastings": "401302.0533",
+        "Northings": "425977.1029",
         "POLLING_DISTRICT_NAME": "White Lee",
         "POLLING_LETTERS": "GK",
         "WARD": "Luddendenfoot",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.981153, 53.730174], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Michael's  Parish Hall, Church Street, Mytholmroyd, Hebden Bridge, HX7 5DS\", \"Eastings\": \"401340.9898\", \"Northings\": \"425975.478\", \"POLLING_DISTRICT_NAME\": \"White Lee\", \"POLLING_LETTERS\": \"GK\", \"WARD\": \"Luddendenfoot\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.981743, 53.730189], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Michael's  Parish Hall, Church Street, Mytholmroyd, Hebden Bridge, HX7 5DS\", \"Eastings\": \"401302.0533\", \"Northings\": \"425977.1029\", \"POLLING_DISTRICT_NAME\": \"White Lee\", \"POLLING_LETTERS\": \"GK\", \"WARD\": \"Luddendenfoot\"}, \"type\": \"Feature\"}",
         "pk": "GK"
     },
     {
@@ -649,14 +627,14 @@
         "pk": "HE"
     },
     {
-        "ADDRESS": "New Beginnings Christian Centre, Nursery Lane, Halifax, HX3 5SX",
+        "ADDRESS": "New Beginnings Christian Centre, Nursery Lane, Ovenden, Halifax, HX3 5SX",
         "Eastings": "407650.2753",
         "Northings": "427151.2532",
         "POLLING_DISTRICT_NAME": "Ovenden",
         "POLLING_LETTERS": "JA",
         "WARD": "Ovenden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.885492, 53.740689], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"New Beginnings Christian Centre, Nursery Lane, Halifax, HX3 5SX\", \"Eastings\": \"407650.2753\", \"Northings\": \"427151.2532\", \"POLLING_DISTRICT_NAME\": \"Ovenden\", \"POLLING_LETTERS\": \"JA\", \"WARD\": \"Ovenden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.885492, 53.740689], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"New Beginnings Christian Centre, Nursery Lane, Ovenden, Halifax, HX3 5SX\", \"Eastings\": \"407650.2753\", \"Northings\": \"427151.2532\", \"POLLING_DISTRICT_NAME\": \"Ovenden\", \"POLLING_LETTERS\": \"JA\", \"WARD\": \"Ovenden\"}, \"type\": \"Feature\"}",
         "pk": "JA"
     },
     {
@@ -693,25 +671,25 @@
         "pk": "JD"
     },
     {
-        "ADDRESS": "St George's Hall,\ufffdSt George's Road, Lee Mount, Halifax, HX3 5BU",
+        "ADDRESS": "St George's Hall,\u00a0St George's Road, Lee Mount, Halifax, HX3 5BU",
         "Eastings": "408444.3235",
         "Northings": "426203.3454",
         "POLLING_DISTRICT_NAME": "The Hebble",
         "POLLING_LETTERS": "JE",
         "WARD": "Ovenden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.873479, 53.732157], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St George's Hall,\\ufffdSt George's Road, Lee Mount, Halifax, HX3 5BU\", \"Eastings\": \"408444.3235\", \"Northings\": \"426203.3454\", \"POLLING_DISTRICT_NAME\": \"The Hebble\", \"POLLING_LETTERS\": \"JE\", \"WARD\": \"Ovenden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.873479, 53.732157], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St George's Hall,\\u00a0St George's Road, Lee Mount, Halifax, HX3 5BU\", \"Eastings\": \"408444.3235\", \"Northings\": \"426203.3454\", \"POLLING_DISTRICT_NAME\": \"The Hebble\", \"POLLING_LETTERS\": \"JE\", \"WARD\": \"Ovenden\"}, \"type\": \"Feature\"}",
         "pk": "JE"
     },
     {
-        "ADDRESS": "Parkinson Lane Community Primary School, Parkinson Lane, Halifax, HX1 3XL",
-        "Eastings": "408073.3563",
-        "Northings": "424587.6177",
+        "ADDRESS": "St Pauls Church Parish Room, Queens Road, Halifax, HX1 3NU",
+        "Eastings": "408015.7948",
+        "Northings": "424479.268",
         "POLLING_DISTRICT_NAME": "Parkinson Lane",
         "POLLING_LETTERS": "KA",
         "WARD": "Park",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.879144, 53.717641], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parkinson Lane Community Primary School, Parkinson Lane, Halifax, HX1 3XL\", \"Eastings\": \"408073.3563\", \"Northings\": \"424587.6177\", \"POLLING_DISTRICT_NAME\": \"Parkinson Lane\", \"POLLING_LETTERS\": \"KA\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.880019, 53.716668], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Pauls Church Parish Room, Queens Road, Halifax, HX1 3NU\", \"Eastings\": \"408015.7948\", \"Northings\": \"424479.268\", \"POLLING_DISTRICT_NAME\": \"Parkinson Lane\", \"POLLING_LETTERS\": \"KA\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": "KA"
     },
     {
@@ -726,25 +704,25 @@
         "pk": "KB"
     },
     {
-        "ADDRESS": "St Pauls Church Parish Room, Queens Road, Halifax, HX1 3NU",
-        "Eastings": "408015.8507",
-        "Northings": "424479.269",
+        "ADDRESS": "King Cross Library, 151 Haugh Shaw Road, KIng Cross, Halifax, HX1 3BG",
+        "Eastings": "407922.5668",
+        "Northings": "424240.3",
         "POLLING_DISTRICT_NAME": "King Cross",
         "POLLING_LETTERS": "KC",
         "WARD": "Park",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.880018, 53.716668], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Pauls Church Parish Room, Queens Road, Halifax, HX1 3NU\", \"Eastings\": \"408015.8507\", \"Northings\": \"424479.269\", \"POLLING_DISTRICT_NAME\": \"King Cross\", \"POLLING_LETTERS\": \"KC\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.881437, 53.714521], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"King Cross Library, 151 Haugh Shaw Road, KIng Cross, Halifax, HX1 3BG\", \"Eastings\": \"407922.5668\", \"Northings\": \"424240.3\", \"POLLING_DISTRICT_NAME\": \"King Cross\", \"POLLING_LETTERS\": \"KC\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": "KC"
     },
     {
-        "ADDRESS": "St Hildas Church, Gibraltar Road, Halifax. HX1 4HE",
+        "ADDRESS": "St Hildas Church, Gibraltar Road, Halifax, HX1 4HE",
         "Eastings": "407382.049",
         "Northings": "424912.3387",
         "POLLING_DISTRICT_NAME": "Warley Road",
         "POLLING_LETTERS": "KD",
         "WARD": "Park",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.889611, 53.720569], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Hildas Church, Gibraltar Road, Halifax. HX1 4HE\", \"Eastings\": \"407382.049\", \"Northings\": \"424912.3387\", \"POLLING_DISTRICT_NAME\": \"Warley Road\", \"POLLING_LETTERS\": \"KD\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.889611, 53.720569], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Hildas Church, Gibraltar Road, Halifax, HX1 4HE\", \"Eastings\": \"407382.049\", \"Northings\": \"424912.3387\", \"POLLING_DISTRICT_NAME\": \"Warley Road\", \"POLLING_LETTERS\": \"KD\", \"WARD\": \"Park\"}, \"type\": \"Feature\"}",
         "pk": "KD"
     },
     {
@@ -803,47 +781,47 @@
         "pk": "LB"
     },
     {
-        "ADDRESS": "St John's Church Hall, St John Street, Rastrick, HD6 1HT",
+        "ADDRESS": "St John's Church Hall, St John Street, Rastrick, HD6 1HN",
         "Eastings": "414502.7027",
         "Northings": "422439.2363",
         "POLLING_DISTRICT_NAME": "Rastrick",
         "POLLING_LETTERS": "LC",
         "WARD": "Rastrick",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.781821, 53.698193], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St John's Church Hall, St John Street, Rastrick, HD6 1HT\", \"Eastings\": \"414502.7027\", \"Northings\": \"422439.2363\", \"POLLING_DISTRICT_NAME\": \"Rastrick\", \"POLLING_LETTERS\": \"LC\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.781821, 53.698193], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St John's Church Hall, St John Street, Rastrick, HD6 1HN\", \"Eastings\": \"414502.7027\", \"Northings\": \"422439.2363\", \"POLLING_DISTRICT_NAME\": \"Rastrick\", \"POLLING_LETTERS\": \"LC\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
         "pk": "LC"
     },
     {
-        "ADDRESS": "Longroyde Primary School, Creative Arts Room, Longroyd Road, Rastrick, Brighouse, HD6 3AS",
-        "Eastings": "414011.2147",
-        "Northings": "422269.1095",
+        "ADDRESS": "St Matthews Parish Centre, Church Street, Rastrick, HD6 3NF",
+        "Eastings": "413853.4729",
+        "Northings": "421644.4206",
         "POLLING_DISTRICT_NAME": "Longroyde",
         "POLLING_LETTERS": "LD",
         "WARD": "Rastrick",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.789273, 53.696677], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Longroyde Primary School, Creative Arts Room, Longroyd Road, Rastrick, Brighouse, HD6 3AS\", \"Eastings\": \"414011.2147\", \"Northings\": \"422269.1095\", \"POLLING_DISTRICT_NAME\": \"Longroyde\", \"POLLING_LETTERS\": \"LD\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.79169, 53.691067], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Matthews Parish Centre, Church Street, Rastrick, HD6 3NF\", \"Eastings\": \"413853.4729\", \"Northings\": \"421644.4206\", \"POLLING_DISTRICT_NAME\": \"Longroyde\", \"POLLING_LETTERS\": \"LD\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
         "pk": "LD"
     },
     {
         "ADDRESS": "Arncliffe Community Centre, Arncliffe Crescent, Rastrick, Brighouse, HD6 3LQ",
-        "Eastings": "413235.7918",
-        "Northings": "421473.5833",
+        "Eastings": "413105.1838",
+        "Northings": "421606.1258",
         "POLLING_DISTRICT_NAME": "Field Lane",
         "POLLING_LETTERS": "LE",
         "WARD": "Rastrick",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.80105, 53.689547], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Arncliffe Community Centre, Arncliffe Crescent, Rastrick, Brighouse, HD6 3LQ\", \"Eastings\": \"413235.7918\", \"Northings\": \"421473.5833\", \"POLLING_DISTRICT_NAME\": \"Field Lane\", \"POLLING_LETTERS\": \"LE\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.803023, 53.690742], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Arncliffe Community Centre, Arncliffe Crescent, Rastrick, Brighouse, HD6 3LQ\", \"Eastings\": \"413105.1838\", \"Northings\": \"421606.1258\", \"POLLING_DISTRICT_NAME\": \"Field Lane\", \"POLLING_LETTERS\": \"LE\", \"WARD\": \"Rastrick\"}, \"type\": \"Feature\"}",
         "pk": "LE"
     },
     {
-        "ADDRESS": "Cottonstones Social Centre, St Mary\ufffds Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU",
+        "ADDRESS": "Cottonstones Social Centre, St Marys Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU",
         "Eastings": "402873.0026",
         "Northings": "421660.5357",
         "POLLING_DISTRICT_NAME": "Mill Bank",
         "POLLING_LETTERS": "MA",
         "WARD": "Ryburn",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.95797, 53.691385], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cottonstones Social Centre, St Mary\\ufffds Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU\", \"Eastings\": \"402873.0026\", \"Northings\": \"421660.5357\", \"POLLING_DISTRICT_NAME\": \"Mill Bank\", \"POLLING_LETTERS\": \"MA\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.95797, 53.691385], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cottonstones Social Centre, St Marys Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU\", \"Eastings\": \"402873.0026\", \"Northings\": \"421660.5357\", \"POLLING_DISTRICT_NAME\": \"Mill Bank\", \"POLLING_LETTERS\": \"MA\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
         "pk": "MA"
     },
     {
@@ -892,13 +870,13 @@
     },
     {
         "ADDRESS": "St Bartholomew's Church, Old Bank, Ripponden, HX6 4DG",
-        "Eastings": "404117.0985",
-        "Northings": "419780.6372",
+        "Eastings": "404117.0562",
+        "Northings": "419780.712",
         "POLLING_DISTRICT_NAME": "Ripponden",
         "POLLING_LETTERS": "MF",
         "WARD": "Ryburn",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.939154, 53.67448], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Bartholomew's Church, Old Bank, Ripponden, HX6 4DG\", \"Eastings\": \"404117.0985\", \"Northings\": \"419780.6372\", \"POLLING_DISTRICT_NAME\": \"Ripponden\", \"POLLING_LETTERS\": \"MF\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.939155, 53.674481], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Bartholomew's Church, Old Bank, Ripponden, HX6 4DG\", \"Eastings\": \"404117.0562\", \"Northings\": \"419780.712\", \"POLLING_DISTRICT_NAME\": \"Ripponden\", \"POLLING_LETTERS\": \"MF\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
         "pk": "MF"
     },
     {
@@ -924,25 +902,25 @@
         "pk": "MH"
     },
     {
-        "ADDRESS": "Ripponden Community Centre, Old Bank, Ripponden, Sowerby Bridge HX6 4DG",
-        "Eastings": "404136.5901",
-        "Northings": "419756.0679",
+        "ADDRESS": "St Bartholomew's Church , Old Bank , Ripponden, HX6 4DG",
+        "Eastings": "404117.0215",
+        "Northings": "419780.6992",
         "POLLING_DISTRICT_NAME": "Soyland",
         "POLLING_LETTERS": "MJ",
         "WARD": "Ryburn",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.938859, 53.674259], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Ripponden Community Centre, Old Bank, Ripponden, Sowerby Bridge HX6 4DG\", \"Eastings\": \"404136.5901\", \"Northings\": \"419756.0679\", \"POLLING_DISTRICT_NAME\": \"Soyland\", \"POLLING_LETTERS\": \"MJ\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.939155, 53.674481], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Bartholomew's Church , Old Bank , Ripponden, HX6 4DG\", \"Eastings\": \"404117.0215\", \"Northings\": \"419780.6992\", \"POLLING_DISTRICT_NAME\": \"Soyland\", \"POLLING_LETTERS\": \"MJ\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
         "pk": "MJ"
     },
     {
-        "ADDRESS": "Cottonstones Social Centre, St Mary\ufffds Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU",
+        "ADDRESS": "Cottonstones Social Centre, St Marys Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU",
         "Eastings": "403476.8454",
         "Northings": "421340.9355",
         "POLLING_DISTRICT_NAME": "Lighthazels",
         "POLLING_LETTERS": "MK",
         "WARD": "Ryburn",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.948829, 53.688509], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cottonstones Social Centre, St Mary\\ufffds Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU\", \"Eastings\": \"403476.8454\", \"Northings\": \"421340.9355\", \"POLLING_DISTRICT_NAME\": \"Lighthazels\", \"POLLING_LETTERS\": \"MK\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.948829, 53.688509], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Cottonstones Social Centre, St Marys Church, Deep Lane, Cotton Stones, Sowerby Bridge, HX6 3EU\", \"Eastings\": \"403476.8454\", \"Northings\": \"421340.9355\", \"POLLING_DISTRICT_NAME\": \"Lighthazels\", \"POLLING_LETTERS\": \"MK\", \"WARD\": \"Ryburn\"}, \"type\": \"Feature\"}",
         "pk": "MK"
     },
     {
@@ -1001,25 +979,25 @@
         "pk": "NE"
     },
     {
-        "ADDRESS": "St Judes Church Hall, Free School Lane. Halifax. HX1 2XE",
+        "ADDRESS": "St Judes Church Hall, Free School Lane. Halifax, HX1 2XE",
         "Eastings": "408711.3339",
         "Northings": "424074.6323",
         "POLLING_DISTRICT_NAME": "Savile Park",
         "POLLING_LETTERS": "NF",
         "WARD": "Skircoat",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.869491, 53.71302], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Judes Church Hall, Free School Lane. Halifax. HX1 2XE\", \"Eastings\": \"408711.3339\", \"Northings\": \"424074.6323\", \"POLLING_DISTRICT_NAME\": \"Savile Park\", \"POLLING_LETTERS\": \"NF\", \"WARD\": \"Skircoat\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.869491, 53.71302], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Judes Church Hall, Free School Lane. Halifax, HX1 2XE\", \"Eastings\": \"408711.3339\", \"Northings\": \"424074.6323\", \"POLLING_DISTRICT_NAME\": \"Savile Park\", \"POLLING_LETTERS\": \"NF\", \"WARD\": \"Skircoat\"}, \"type\": \"Feature\"}",
         "pk": "NF"
     },
     {
-        "ADDRESS": "Bairstow Mount Community Centre Bairstow Mount , Sowerby Bridge, HX6 2SX",
+        "ADDRESS": "Bairstow Mount Community Centre Bairstow Mount, Sowerby Bridge, HX6 2SX",
         "Eastings": "406537.9856",
         "Northings": "424369.642",
         "POLLING_DISTRICT_NAME": "Willowfield",
         "POLLING_LETTERS": "PA",
         "WARD": "Sowerby Bridge",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.902413, 53.715703], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bairstow Mount Community Centre Bairstow Mount , Sowerby Bridge, HX6 2SX\", \"Eastings\": \"406537.9856\", \"Northings\": \"424369.642\", \"POLLING_DISTRICT_NAME\": \"Willowfield\", \"POLLING_LETTERS\": \"PA\", \"WARD\": \"Sowerby Bridge\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.902413, 53.715703], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bairstow Mount Community Centre Bairstow Mount, Sowerby Bridge, HX6 2SX\", \"Eastings\": \"406537.9856\", \"Northings\": \"424369.642\", \"POLLING_DISTRICT_NAME\": \"Willowfield\", \"POLLING_LETTERS\": \"PA\", \"WARD\": \"Sowerby Bridge\"}, \"type\": \"Feature\"}",
         "pk": "PA"
     },
     {
@@ -1056,14 +1034,14 @@
         "pk": "PD"
     },
     {
-        "ADDRESS": "Sowerby Bridge Youth & Community Centre, Foundry Street, Sowerby Bridge, HX6 3AS",
-        "Eastings": "405744.0253",
-        "Northings": "423354.2565",
+        "ADDRESS": "Elim Church, Ryburn Street, Sowerby Bridge, HX6 3AZ",
+        "Eastings": "405634.2236",
+        "Northings": "423243.3641",
         "POLLING_DISTRICT_NAME": "Quarry Hill",
         "POLLING_LETTERS": "PE",
         "WARD": "Sowerby Bridge",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.914462, 53.706585], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Sowerby Bridge Youth & Community Centre, Foundry Street, Sowerby Bridge, HX6 3AS\", \"Eastings\": \"405744.0253\", \"Northings\": \"423354.2565\", \"POLLING_DISTRICT_NAME\": \"Quarry Hill\", \"POLLING_LETTERS\": \"PE\", \"WARD\": \"Sowerby Bridge\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.916127, 53.70559], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Elim Church, Ryburn Street, Sowerby Bridge, HX6 3AZ\", \"Eastings\": \"405634.2236\", \"Northings\": \"423243.3641\", \"POLLING_DISTRICT_NAME\": \"Quarry Hill\", \"POLLING_LETTERS\": \"PE\", \"WARD\": \"Sowerby Bridge\"}, \"type\": \"Feature\"}",
         "pk": "PE"
     },
     {
@@ -1089,14 +1067,14 @@
         "pk": "QA"
     },
     {
-        "ADDRESS": "St Joseph R C J &I School, Wellington Road, Todmorden, OL14 5HL",
-        "Eastings": "393660.3995",
-        "Northings": "424549.4811",
+        "ADDRESS": "Todmorden Learning Centre and Community Hub, Todmorden College, Burnley Road, Todmorden, OL14 7BX",
+        "Eastings": "393620.1307",
+        "Northings": "424391.2073",
         "POLLING_DISTRICT_NAME": "Todmorden Central No",
         "POLLING_LETTERS": "QB",
         "WARD": "Todmorden",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.09754, 53.717319], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Joseph R C J &I School, Wellington Road, Todmorden, OL14 5HL\", \"Eastings\": \"393660.3995\", \"Northings\": \"424549.4811\", \"POLLING_DISTRICT_NAME\": \"Todmorden Central No\", \"POLLING_LETTERS\": \"QB\", \"WARD\": \"Todmorden\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.098147, 53.715895], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Todmorden Learning Centre and Community Hub, Todmorden College, Burnley Road, Todmorden, OL14 7BX\", \"Eastings\": \"393620.1307\", \"Northings\": \"424391.2073\", \"POLLING_DISTRICT_NAME\": \"Todmorden Central No\", \"POLLING_LETTERS\": \"QB\", \"WARD\": \"Todmorden\"}, \"type\": \"Feature\"}",
         "pk": "QB"
     },
     {
@@ -1177,14 +1155,14 @@
         "pk": "QJ"
     },
     {
-        "ADDRESS": "St James Court Community Room, St James Court, Halifax, HX1 1YN",
-        "Eastings": "409097.363",
-        "Northings": "425415.8645",
+        "ADDRESS": "Albion Court Community Room, Albion Court, Halifax, HX1 1YN",
+        "Eastings": "409176.0143",
+        "Northings": "425422.2627",
         "POLLING_DISTRICT_NAME": "Town Northern",
         "POLLING_LETTERS": "RA",
         "WARD": "Town",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.863603, 53.725068], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St James Court Community Room, St James Court, Halifax, HX1 1YN\", \"Eastings\": \"409097.363\", \"Northings\": \"425415.8645\", \"POLLING_DISTRICT_NAME\": \"Town Northern\", \"POLLING_LETTERS\": \"RA\", \"WARD\": \"Town\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.862411, 53.725124], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Albion Court Community Room, Albion Court, Halifax, HX1 1YN\", \"Eastings\": \"409176.0143\", \"Northings\": \"425422.2627\", \"POLLING_DISTRICT_NAME\": \"Town Northern\", \"POLLING_LETTERS\": \"RA\", \"WARD\": \"Town\"}, \"type\": \"Feature\"}",
         "pk": "RA"
     },
     {
@@ -1243,14 +1221,14 @@
         "pk": "RF"
     },
     {
-        "ADDRESS": "Pellon Baptist Sunday School, Spring Hall Lane, Pellon, Halifax. HX1 4UA",
+        "ADDRESS": "Pellon Baptist Sunday School, Spring Hall Lane, Pellon, Halifax, HX1 4UA",
         "Eastings": "407503.3697",
         "Northings": "425785.7681",
         "POLLING_DISTRICT_NAME": "Clay Pits",
         "POLLING_LETTERS": "SA",
         "WARD": "Warley",
         "council_id": "CLD",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.887752, 53.728418], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pellon Baptist Sunday School, Spring Hall Lane, Pellon, Halifax. HX1 4UA\", \"Eastings\": \"407503.3697\", \"Northings\": \"425785.7681\", \"POLLING_DISTRICT_NAME\": \"Clay Pits\", \"POLLING_LETTERS\": \"SA\", \"WARD\": \"Warley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.887752, 53.728418], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Pellon Baptist Sunday School, Spring Hall Lane, Pellon, Halifax, HX1 4UA\", \"Eastings\": \"407503.3697\", \"Northings\": \"425785.7681\", \"POLLING_DISTRICT_NAME\": \"Clay Pits\", \"POLLING_LETTERS\": \"SA\", \"WARD\": \"Warley\"}, \"type\": \"Feature\"}",
         "pk": "SA"
     },
     {
