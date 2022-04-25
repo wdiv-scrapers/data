@@ -1613,26 +1613,13 @@
     },
     {
         "council_id": "SLF",
-        "easting": 380316,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.29809722, 53.48432902], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 124, \"properties\": {\"easting\": 380316, \"id\": 125, \"latitude_wgs_84\": 53.484311835604146, \"longitude_wgs_84\": -2.2980977955293307, \"northing\": 398663, \"polling_district\": \"WES2\", \"station_location\": \"Temporary Building, Kara Street, Salford, M6 5QD\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
-        "id": 125,
-        "latitude_wgs_84": 53.484311835604146,
-        "longitude_wgs_84": -2.2980977955293307,
-        "northing": 398663,
-        "pk": 124,
-        "polling_district": "WES2",
-        "station_location": "Temporary Building, Kara Street, Salford, M6 5QD",
-        "ward": "Weaste and Seedley"
-    },
-    {
-        "council_id": "SLF",
         "easting": 380599,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.29386203, 53.48863593], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 125, \"properties\": {\"easting\": 380599, \"id\": 126, \"latitude_wgs_84\": 53.48861881619707, \"longitude_wgs_84\": -2.293862887189346, \"northing\": 399141, \"polling_district\": \"WES3\", \"station_location\": \"Holy Family RC Primary School, 3 Lower Seedley Road, Salford, M6 5WX\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.29386203, 53.48863593], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 124, \"properties\": {\"easting\": 380599, \"id\": 126, \"latitude_wgs_84\": 53.48861881619707, \"longitude_wgs_84\": -2.293862887189346, \"northing\": 399141, \"polling_district\": \"WES3\", \"station_location\": \"Holy Family RC Primary School, 3 Lower Seedley Road, Salford, M6 5WX\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
         "id": 126,
         "latitude_wgs_84": 53.48861881619707,
         "longitude_wgs_84": -2.293862887189346,
         "northing": 399141,
-        "pk": 125,
+        "pk": 124,
         "polling_district": "WES3",
         "station_location": "Holy Family RC Primary School, 3 Lower Seedley Road, Salford, M6 5WX",
         "ward": "Weaste and Seedley"
@@ -1640,12 +1627,12 @@
     {
         "council_id": "SLF",
         "easting": 380181,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.3001813, 53.49137979], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 126, \"properties\": {\"easting\": 380181, \"id\": 127, \"latitude_wgs_84\": 53.491362555563455, \"longitude_wgs_84\": -2.300182013746975, \"northing\": 399448, \"polling_district\": \"WES4\", \"station_location\": \"Community Room, 15 Springbank, Brentwood, Salford, M6 8RH\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.3001813, 53.49137979], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 125, \"properties\": {\"easting\": 380181, \"id\": 127, \"latitude_wgs_84\": 53.491362555563455, \"longitude_wgs_84\": -2.300182013746975, \"northing\": 399448, \"polling_district\": \"WES4\", \"station_location\": \"Community Room, 15 Springbank, Brentwood, Salford, M6 8RH\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
         "id": 127,
         "latitude_wgs_84": 53.491362555563455,
         "longitude_wgs_84": -2.300182013746975,
         "northing": 399448,
-        "pk": 126,
+        "pk": 125,
         "polling_district": "WES4",
         "station_location": "Community Room, 15 Springbank, Brentwood, Salford, M6 8RH",
         "ward": "Weaste and Seedley"
@@ -1653,12 +1640,12 @@
     {
         "council_id": "SLF",
         "easting": 380081,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.30160522, 53.47960124], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 127, \"properties\": {\"easting\": 380081, \"id\": 128, \"latitude_wgs_84\": 53.47958408139568, \"longitude_wgs_84\": -2.301605593264751, \"northing\": 398138, \"polling_district\": \"WES5\", \"station_location\": \"Temporary Cabin, Cemetery Road, Salford, M5 5WG\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.30160522, 53.47960124], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 126, \"properties\": {\"easting\": 380081, \"id\": 128, \"latitude_wgs_84\": 53.47958408139568, \"longitude_wgs_84\": -2.301605593264751, \"northing\": 398138, \"polling_district\": \"WES5\", \"station_location\": \"Temporary Cabin, Cemetery Road, Salford, M5 5WG\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
         "id": 128,
         "latitude_wgs_84": 53.47958408139568,
         "longitude_wgs_84": -2.301605593264751,
         "northing": 398138,
-        "pk": 127,
+        "pk": 126,
         "polling_district": "WES5",
         "station_location": "Temporary Cabin, Cemetery Road, Salford, M5 5WG",
         "ward": "Weaste and Seedley"
@@ -1666,12 +1653,12 @@
     {
         "council_id": "SLF",
         "easting": 378638,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.32338302, 53.48423599], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 128, \"properties\": {\"easting\": 378638, \"id\": 129, \"latitude_wgs_84\": 53.484219073825436, \"longitude_wgs_84\": -2.323383911592564, \"northing\": 398660, \"polling_district\": \"WES6\", \"station_location\": \"The Canterbury Centre, Canterbury Gardens, 640 Eccles New Road, Salford, M5 5AG\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.32338302, 53.48423599], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 127, \"properties\": {\"easting\": 378638, \"id\": 129, \"latitude_wgs_84\": 53.484219073825436, \"longitude_wgs_84\": -2.323383911592564, \"northing\": 398660, \"polling_district\": \"WES6\", \"station_location\": \"The Canterbury Centre, Canterbury Gardens, 640 Eccles New Road, Salford, M5 5AG\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
         "id": 129,
         "latitude_wgs_84": 53.484219073825436,
         "longitude_wgs_84": -2.323383911592564,
         "northing": 398660,
-        "pk": 128,
+        "pk": 127,
         "polling_district": "WES6",
         "station_location": "The Canterbury Centre, Canterbury Gardens, 640 Eccles New Road, Salford, M5 5AG",
         "ward": "Weaste and Seedley"
@@ -1679,14 +1666,27 @@
     {
         "council_id": "SLF",
         "easting": 379629,
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.30846933, 53.48699918], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 129, \"properties\": {\"easting\": 379629, \"id\": 130, \"latitude_wgs_84\": 53.4869820330106, \"longitude_wgs_84\": -2.308470009703562, \"northing\": 398963, \"polling_district\": \"WES7\", \"station_location\": \"Weaste and Seedley Social Club, Weaste Lane, Salford, M5 5JL\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.30846933, 53.48699918], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 128, \"properties\": {\"easting\": 379629, \"id\": 130, \"latitude_wgs_84\": 53.4869820330106, \"longitude_wgs_84\": -2.308470009703562, \"northing\": 398963, \"polling_district\": \"WES7\", \"station_location\": \"Weaste and Seedley Social Club, Weaste Lane, Salford, M5 5JL\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
         "id": 130,
         "latitude_wgs_84": 53.4869820330106,
         "longitude_wgs_84": -2.308470009703562,
         "northing": 398963,
-        "pk": 129,
+        "pk": 128,
         "polling_district": "WES7",
         "station_location": "Weaste and Seedley Social Club, Weaste Lane, Salford, M5 5JL",
+        "ward": "Weaste and Seedley"
+    },
+    {
+        "council_id": "SLF",
+        "easting": 380295,
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.2984194, 53.48514617], \"type\": \"Point\"}, \"geometry_name\": \"geom\", \"id\": 129, \"properties\": {\"easting\": 380295, \"id\": 125, \"latitude_wgs_84\": 53.485128981092515, \"longitude_wgs_84\": -2.298419997267928, \"northing\": 398754, \"polling_district\": \"WES2\", \"station_location\": \"Temporary Building, Alexander Street, Salford, M6 5PY\", \"ward\": \"Weaste and Seedley\"}, \"type\": \"Feature\"}",
+        "id": 125,
+        "latitude_wgs_84": 53.485128981092515,
+        "longitude_wgs_84": -2.298419997267928,
+        "northing": 398754,
+        "pk": 129,
+        "polling_district": "WES2",
+        "station_location": "Temporary Building, Alexander Street, Salford, M6 5PY",
         "ward": "Weaste and Seedley"
     },
     {
