@@ -171,14 +171,14 @@
     {
         "Costituency": "Carmarthen West & South Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "DT0",
+        "DistricttRef": "DT0;DT1",
         "EnwGorsaf": "Eglwys Efengyl Emmanuel",
         "Inset": "N",
         "StationName": "Emmanuel Gospel Church",
         "StationNum": 21,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.79565934, 51.65578965], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.110\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DT0\", \"EnwGorsaf\": \"Eglwys Efengyl Emmanuel\", \"Inset\": \"N\", \"StationName\": \"Emmanuel Gospel Church\", \"StationNum\": 21, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.79565934, 51.65578965], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.110\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DT0;DT1\", \"EnwGorsaf\": \"Eglwys Efengyl Emmanuel\", \"Inset\": \"N\", \"StationName\": \"Emmanuel Gospel Church\", \"StationNum\": 21, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.110"
     },
     {
@@ -210,14 +210,14 @@
     {
         "Costituency": "Preseli Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "AO0;AO1",
+        "DistricttRef": "AO0;AO1;AR0",
         "EnwGorsaf": "Neuadd CFI Trefwrdan",
         "Inset": "N",
         "StationName": "The Gate Inn",
         "StationNum": 16,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.99410576, 51.96789126], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.127\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"AO0;AO1\", \"EnwGorsaf\": \"Neuadd CFI Trefwrdan\", \"Inset\": \"N\", \"StationName\": \"The Gate Inn\", \"StationNum\": 16, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.99410576, 51.96789126], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.127\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"AO0;AO1;AR0\", \"EnwGorsaf\": \"Neuadd CFI Trefwrdan\", \"Inset\": \"N\", \"StationName\": \"The Gate Inn\", \"StationNum\": 16, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.127"
     },
     {
@@ -780,6 +780,19 @@
         "pk": "tblPollingStation.168"
     },
     {
+        "Costituency": "Carmarthen West & South Pembrokeshire",
+        "County": "Pembrokeshire",
+        "DistricttRef": "DJ1",
+        "EnwGorsaf": "Neuadd Regency 2, Saundersfoot",
+        "Inset": "Y",
+        "StationName": "Regency Hall 2, Saundersfoot",
+        "StationNum": 10,
+        "UPRN": null,
+        "council_id": "PEM",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.70109256, 51.71045569], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.169\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DJ1\", \"EnwGorsaf\": \"Neuadd Regency 2, Saundersfoot\", \"Inset\": \"Y\", \"StationName\": \"Regency Hall 2, Saundersfoot\", \"StationNum\": 10, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.169"
+    },
+    {
         "Costituency": "Preseli Pembrokeshire",
         "County": "Pembrokeshire",
         "DistricttRef": "AU1",
@@ -899,14 +912,14 @@
     {
         "Costituency": "Preseli Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "BE1",
+        "DistricttRef": "BE0/BE1",
         "EnwGorsaf": "Festri Capel y Bedyddwyr Bethel, Mynachlog Ddu",
         "Inset": "N",
         "StationName": "Bethel Baptist Chapel Vestry, Mynachlog Ddu",
         "StationNum": 35,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.69975496, 51.94104914], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.25\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"BE1\", \"EnwGorsaf\": \"Festri Capel y Bedyddwyr Bethel, Mynachlog Ddu\", \"Inset\": \"N\", \"StationName\": \"Bethel Baptist Chapel Vestry, Mynachlog Ddu\", \"StationNum\": 35, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.69975496, 51.94104914], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.25\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"BE0/BE1\", \"EnwGorsaf\": \"Festri Capel y Bedyddwyr Bethel, Mynachlog Ddu\", \"Inset\": \"N\", \"StationName\": \"Bethel Baptist Chapel Vestry, Mynachlog Ddu\", \"StationNum\": 35, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.25"
     },
     {
@@ -1576,13 +1589,13 @@
         "Costituency": "Carmarthen West & South Pembrokeshire",
         "County": "Pembrokeshire",
         "DistricttRef": "DJ0",
-        "EnwGorsaf": "Neuadd Regency, Saundersfoot",
+        "EnwGorsaf": "Neuadd Regency 1, Saundersfoot",
         "Inset": "Y",
-        "StationName": "Regency Hall, Saundersfoot",
+        "StationName": "Regency Hall 1, Saundersfoot",
         "StationNum": 10,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.70109256, 51.71045569], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.72\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DJ0\", \"EnwGorsaf\": \"Neuadd Regency, Saundersfoot\", \"Inset\": \"Y\", \"StationName\": \"Regency Hall, Saundersfoot\", \"StationNum\": 10, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.70109256, 51.71045569], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.72\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DJ0\", \"EnwGorsaf\": \"Neuadd Regency 1, Saundersfoot\", \"Inset\": \"Y\", \"StationName\": \"Regency Hall 1, Saundersfoot\", \"StationNum\": 10, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.72"
     },
     {
@@ -1627,14 +1640,14 @@
     {
         "Costituency": "Carmarthen West & South Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "DN0",
+        "DistricttRef": "DN0/DN1",
         "EnwGorsaf": "Canolfan Gymunedol Cilgeti & Begeli",
         "Inset": "N",
         "StationName": "Kilgetty & Begelly Community Centre",
         "StationNum": 14,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.72037573, 51.73148551], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.76\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DN0\", \"EnwGorsaf\": \"Canolfan Gymunedol Cilgeti & Begeli\", \"Inset\": \"N\", \"StationName\": \"Kilgetty & Begelly Community Centre\", \"StationNum\": 14, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.72037573, 51.73148551], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.76\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DN0/DN1\", \"EnwGorsaf\": \"Canolfan Gymunedol Cilgeti & Begeli\", \"Inset\": \"N\", \"StationName\": \"Kilgetty & Begelly Community Centre\", \"StationNum\": 14, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.76"
     },
     {
@@ -1692,14 +1705,14 @@
     {
         "Costituency": "Carmarthen West & South Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "DR0",
+        "DistricttRef": "DR0/DR1",
         "EnwGorsaf": "Neuadd Gymunedol St Florence",
         "Inset": "N",
         "StationName": "St Florence Community Hall",
         "StationNum": 19,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.7732284, 51.67909795], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.80\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DR0\", \"EnwGorsaf\": \"Neuadd Gymunedol St Florence\", \"Inset\": \"N\", \"StationName\": \"St Florence Community Hall\", \"StationNum\": 19, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.7732284, 51.67909795], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.80\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DR0/DR1\", \"EnwGorsaf\": \"Neuadd Gymunedol St Florence\", \"Inset\": \"N\", \"StationName\": \"St Florence Community Hall\", \"StationNum\": 19, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.80"
     },
     {
@@ -1796,14 +1809,14 @@
     {
         "Costituency": "Carmarthen West & South Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "DX1",
+        "DistricttRef": "DX1/DX1A",
         "EnwGorsaf": "Neuadd y Dref Penfro",
         "Inset": "Y",
         "StationName": "Pembroke Town Hall, Pembroke",
         "StationNum": 30,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.91772727, 51.67582156], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.89\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DX1\", \"EnwGorsaf\": \"Neuadd y Dref Penfro\", \"Inset\": \"Y\", \"StationName\": \"Pembroke Town Hall, Pembroke\", \"StationNum\": 30, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.91772727, 51.67582156], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.89\", \"properties\": {\"Costituency\": \"Carmarthen West & South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"DX1/DX1A\", \"EnwGorsaf\": \"Neuadd y Dref Penfro\", \"Inset\": \"Y\", \"StationName\": \"Pembroke Town Hall, Pembroke\", \"StationNum\": 30, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.89"
     },
     {
