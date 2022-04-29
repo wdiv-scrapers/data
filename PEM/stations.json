@@ -41,14 +41,14 @@
     {
         "Costituency": "Preseli Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistricttRef": "CA0",
+        "DistricttRef": "CA0/CA0A",
         "EnwGorsaf": "Clwb Rygbi Aberdaugleddau",
         "Inset": "Y",
         "StationName": "Room at Milford Haven Rugby Club",
         "StationNum": 70,
         "UPRN": null,
         "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-5.05321753, 51.71208699], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.12\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"CA0\", \"EnwGorsaf\": \"Clwb Rygbi Aberdaugleddau\", \"Inset\": \"Y\", \"StationName\": \"Room at Milford Haven Rugby Club\", \"StationNum\": 70, \"UPRN\": null}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-5.05321753, 51.71208699], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.12\", \"properties\": {\"Costituency\": \"Preseli Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistricttRef\": \"CA0/CA0A\", \"EnwGorsaf\": \"Clwb Rygbi Aberdaugleddau\", \"Inset\": \"Y\", \"StationName\": \"Room at Milford Haven Rugby Club\", \"StationNum\": 70, \"UPRN\": null}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.12"
     },
     {
