@@ -9,7 +9,7 @@
         "UPRN": "009059020365",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98121684, 56.45635234], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"GmlID\": \"Polling_Stations.446\", \"OBJECTID\": 446, \"POLLINGDISTRICTREFERENCE\": \"WBE\", \"POLLINGSTATIONID\": \"WBE\", \"POLLINGSTATIONNAME\": \"Dundee West Church Hall\", \"PS_ADDRESS\": \"DUNDEE WEST CHURCH, 130-132 PERTH ROAD, DUNDEE, DD1 4JW\", \"UPRN\": \"009059020365\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339533.73, 729775.54], \"type\": \"Point\"}, \"id\": 0, \"properties\": {\"GmlID\": \"Polling_Stations.446\", \"OBJECTID\": 446, \"POLLINGDISTRICTREFERENCE\": \"WBE\", \"POLLINGSTATIONID\": \"WBE\", \"POLLINGSTATIONNAME\": \"Dundee West Church Hall\", \"PS_ADDRESS\": \"DUNDEE WEST CHURCH, 130-132 PERTH ROAD, DUNDEE, DD1 4JW\", \"UPRN\": \"009059020365\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 0
     },
     {
@@ -22,7 +22,7 @@
         "UPRN": "009059077546",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99536922, 56.45754479], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"GmlID\": \"Polling_Stations.447\", \"OBJECTID\": 447, \"POLLINGDISTRICTREFERENCE\": \"WBF\", \"POLLINGSTATIONID\": \"WBF\", \"POLLINGSTATIONNAME\": \"Logie and St. Johns (Cross) Parish Church Hall\", \"PS_ADDRESS\": \"LOGIE AND ST JOHN'S CHURCH, BLACKNESS AVENUE, DUNDEE, DD2 1HJ\", \"UPRN\": \"009059077546\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338663.563, 729920.786], \"type\": \"Point\"}, \"id\": 1, \"properties\": {\"GmlID\": \"Polling_Stations.447\", \"OBJECTID\": 447, \"POLLINGDISTRICTREFERENCE\": \"WBF\", \"POLLINGSTATIONID\": \"WBF\", \"POLLINGSTATIONNAME\": \"Logie and St. Johns (Cross) Parish Church Hall\", \"PS_ADDRESS\": \"LOGIE AND ST JOHN'S CHURCH, BLACKNESS AVENUE, DUNDEE, DD2 1HJ\", \"UPRN\": \"009059077546\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 1
     },
     {
@@ -35,7 +35,7 @@
         "UPRN": "009059071609",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99987557, 56.46286768], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"GmlID\": \"Polling_Stations.448\", \"OBJECTID\": 448, \"POLLINGDISTRICTREFERENCE\": \"WBG\", \"POLLINGSTATIONID\": \"WBG\", \"POLLINGSTATIONNAME\": \"Logie/Scott Street Sheltered Housing\", \"PS_ADDRESS\": \"33 LIME STREET, DUNDEE, DD2 2AQ\", \"UPRN\": \"009059071609\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338394.502, 730517.195], \"type\": \"Point\"}, \"id\": 2, \"properties\": {\"GmlID\": \"Polling_Stations.448\", \"OBJECTID\": 448, \"POLLINGDISTRICTREFERENCE\": \"WBG\", \"POLLINGSTATIONID\": \"WBG\", \"POLLINGSTATIONNAME\": \"Logie/Scott Street Sheltered Housing\", \"PS_ADDRESS\": \"33 LIME STREET, DUNDEE, DD2 2AQ\", \"UPRN\": \"009059071609\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 2
     },
     {
@@ -48,7 +48,7 @@
         "UPRN": "009059048862",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99529208, 56.46871349], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"GmlID\": \"Polling_Stations.449\", \"OBJECTID\": 449, \"POLLINGDISTRICTREFERENCE\": \"WBA\", \"POLLINGSTATIONID\": \"WBA\", \"POLLINGSTATIONNAME\": \"Law NS\", \"PS_ADDRESS\": \"LAW NURSERY SCHOOL, LAWSIDE ROAD, DUNDEE, DD3 6BJ\", \"UPRN\": \"009059048862\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338686.315, 731163.672], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"GmlID\": \"Polling_Stations.449\", \"OBJECTID\": 449, \"POLLINGDISTRICTREFERENCE\": \"WBA\", \"POLLINGSTATIONID\": \"WBA\", \"POLLINGSTATIONNAME\": \"Law NS\", \"PS_ADDRESS\": \"LAW NURSERY SCHOOL, LAWSIDE ROAD, DUNDEE, DD3 6BJ\", \"UPRN\": \"009059048862\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 3
     },
     {
@@ -61,7 +61,7 @@
         "UPRN": "009059016316",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.9804316, 56.4712547], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"GmlID\": \"Polling_Stations.450\", \"OBJECTID\": 450, \"POLLINGDISTRICTREFERENCE\": \"WBH\", \"POLLINGSTATIONID\": \"WBH\", \"POLLINGSTATIONNAME\": \"Hill Street Sheltered Housing\", \"PS_ADDRESS\": \"51 HILL STREET, DUNDEE, DD3 6QP\", \"UPRN\": \"009059016316\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339605.775, 731433.324], \"type\": \"Point\"}, \"id\": 4, \"properties\": {\"GmlID\": \"Polling_Stations.450\", \"OBJECTID\": 450, \"POLLINGDISTRICTREFERENCE\": \"WBH\", \"POLLINGSTATIONID\": \"WBH\", \"POLLINGSTATIONNAME\": \"Hill Street Sheltered Housing\", \"PS_ADDRESS\": \"51 HILL STREET, DUNDEE, DD3 6QP\", \"UPRN\": \"009059016316\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 4
     },
     {
@@ -74,7 +74,7 @@
         "UPRN": "009059048862",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99529208, 56.46871349], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"GmlID\": \"Polling_Stations.451\", \"OBJECTID\": 451, \"POLLINGDISTRICTREFERENCE\": \"WBI\", \"POLLINGSTATIONID\": \"WBI\", \"POLLINGSTATIONNAME\": \"Law NS\", \"PS_ADDRESS\": \"LAW NURSERY SCHOOL, LAWSIDE ROAD, DUNDEE, DD3 6BJ\", \"UPRN\": \"009059048862\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338686.315, 731163.672], \"type\": \"Point\"}, \"id\": 5, \"properties\": {\"GmlID\": \"Polling_Stations.451\", \"OBJECTID\": 451, \"POLLINGDISTRICTREFERENCE\": \"WBI\", \"POLLINGSTATIONID\": \"WBI\", \"POLLINGSTATIONNAME\": \"Law NS\", \"PS_ADDRESS\": \"LAW NURSERY SCHOOL, LAWSIDE ROAD, DUNDEE, DD3 6BJ\", \"UPRN\": \"009059048862\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 5
     },
     {
@@ -87,7 +87,7 @@
         "UPRN": "009059082457",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.93605006, 56.48135457], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"GmlID\": \"Polling_Stations.452\", \"OBJECTID\": 452, \"POLLINGDISTRICTREFERENCE\": \"EAJ\", \"POLLINGSTATIONID\": \"EAJ\", \"POLLINGSTATIONNAME\": \"Brooksbank Centre\", \"PS_ADDRESS\": \"BROOKSBANK CENTRE, 22-24 PITAIRLIE ROAD, DUNDEE, DD4 8DG\", \"UPRN\": \"009059082457\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342354.875, 732519.224], \"type\": \"Point\"}, \"id\": 6, \"properties\": {\"GmlID\": \"Polling_Stations.452\", \"OBJECTID\": 452, \"POLLINGDISTRICTREFERENCE\": \"EAJ\", \"POLLINGSTATIONID\": \"EAJ\", \"POLLINGSTATIONNAME\": \"Brooksbank Centre\", \"PS_ADDRESS\": \"BROOKSBANK CENTRE, 22-24 PITAIRLIE ROAD, DUNDEE, DD4 8DG\", \"UPRN\": \"009059082457\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 6
     },
     {
@@ -100,7 +100,7 @@
         "UPRN": "009059059106",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.91029482, 56.47752333], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"GmlID\": \"Polling_Stations.453\", \"OBJECTID\": 453, \"POLLINGDISTRICTREFERENCE\": \"EAL\", \"POLLINGSTATIONID\": \"EAL\", \"POLLINGSTATIONNAME\": \"St Pius PS\", \"PS_ADDRESS\": \"ST PIUS RC PRIMARY SCHOOL, BANCHORY ROAD, DUNDEE, DD4 7TQ\", \"UPRN\": \"009059059106\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [343935.269, 732071.536], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"GmlID\": \"Polling_Stations.453\", \"OBJECTID\": 453, \"POLLINGDISTRICTREFERENCE\": \"EAL\", \"POLLINGSTATIONID\": \"EAL\", \"POLLINGSTATIONNAME\": \"St Pius PS\", \"PS_ADDRESS\": \"ST PIUS RC PRIMARY SCHOOL, BANCHORY ROAD, DUNDEE, DD4 7TQ\", \"UPRN\": \"009059059106\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 7
     },
     {
@@ -113,7 +113,7 @@
         "UPRN": "009059045649",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.00425129, 56.47091698], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"GmlID\": \"Polling_Stations.454\", \"OBJECTID\": 454, \"POLLINGDISTRICTREFERENCE\": \"WAZ\", \"POLLINGSTATIONID\": \"WAZ\", \"POLLINGSTATIONNAME\": \"Burnside Court Sheltered Housing\", \"PS_ADDRESS\": \"BURNSIDE COURT, WHORTERBANK, DUNDEE, DD2 3AE\", \"UPRN\": \"009059045649\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338138.0, 731416.926], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"GmlID\": \"Polling_Stations.454\", \"OBJECTID\": 454, \"POLLINGDISTRICTREFERENCE\": \"WAZ\", \"POLLINGSTATIONID\": \"WAZ\", \"POLLINGSTATIONNAME\": \"Burnside Court Sheltered Housing\", \"PS_ADDRESS\": \"BURNSIDE COURT, WHORTERBANK, DUNDEE, DD2 3AE\", \"UPRN\": \"009059045649\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 8
     },
     {
@@ -126,7 +126,7 @@
         "UPRN": "009059040336",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95752563, 56.46949864], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"GmlID\": \"Polling_Stations.455\", \"OBJECTID\": 455, \"POLLINGDISTRICTREFERENCE\": \"EBF\", \"POLLINGSTATIONID\": \"EBF\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341014.0, 731218.0], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"GmlID\": \"Polling_Stations.455\", \"OBJECTID\": 455, \"POLLINGDISTRICTREFERENCE\": \"EBF\", \"POLLINGSTATIONID\": \"EBF\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 9
     },
     {
@@ -139,7 +139,7 @@
         "UPRN": "009059025562",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.94270027, 56.47707365], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"GmlID\": \"Polling_Stations.456\", \"OBJECTID\": 456, \"POLLINGDISTRICTREFERENCE\": \"EBG\", \"POLLINGSTATIONID\": \"EBG\", \"POLLINGSTATIONNAME\": \"7th Day Adventist Church\", \"PS_ADDRESS\": \"SEVENTH-DAY ADVENTIST CHURCH, RENNELL ROAD, DUNDEE, DD4 7DU\", \"UPRN\": \"009059025562\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341938.8113, 732048.3975], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"GmlID\": \"Polling_Stations.456\", \"OBJECTID\": 456, \"POLLINGDISTRICTREFERENCE\": \"EBG\", \"POLLINGSTATIONID\": \"EBG\", \"POLLINGSTATIONNAME\": \"7th Day Adventist Church\", \"PS_ADDRESS\": \"SEVENTH-DAY ADVENTIST CHURCH, RENNELL ROAD, DUNDEE, DD4 7DU\", \"UPRN\": \"009059025562\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 10
     },
     {
@@ -152,7 +152,7 @@
         "UPRN": "009059095131",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.89838509, 56.47679472], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"GmlID\": \"Polling_Stations.457\", \"OBJECTID\": 457, \"POLLINGDISTRICTREFERENCE\": \"EAM\", \"POLLINGSTATIONID\": \"EAM\", \"POLLINGSTATIONNAME\": \"Claypotts Castle PS\", \"PS_ADDRESS\": \"CLAYPOTTS CASTLE PRIMARY SCHOOL, 9 BALLOCH PLACE, DUNDEE, DD4 8TB\", \"UPRN\": \"009059095131\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [344667.701, 731980.7959], \"type\": \"Point\"}, \"id\": 11, \"properties\": {\"GmlID\": \"Polling_Stations.457\", \"OBJECTID\": 457, \"POLLINGDISTRICTREFERENCE\": \"EAM\", \"POLLINGSTATIONID\": \"EAM\", \"POLLINGSTATIONNAME\": \"Claypotts Castle PS\", \"PS_ADDRESS\": \"CLAYPOTTS CASTLE PRIMARY SCHOOL, 9 BALLOCH PLACE, DUNDEE, DD4 8TB\", \"UPRN\": \"009059095131\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 11
     },
     {
@@ -165,7 +165,7 @@
         "UPRN": "009059095127",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.0118937, 56.49564541], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"GmlID\": \"Polling_Stations.458\", \"OBJECTID\": 458, \"POLLINGDISTRICTREFERENCE\": \"WAN\", \"POLLINGSTATIONID\": \"WAN\", \"POLLINGSTATIONNAME\": \"Craigowl PS\", \"PS_ADDRESS\": \"CRAIGOWL PRIMARY SCHOOL, 112 LAIRD STREET, DUNDEE, DD3 9NY\", \"UPRN\": \"009059095127\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [337707.7713, 734175.8398], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"GmlID\": \"Polling_Stations.458\", \"OBJECTID\": 458, \"POLLINGDISTRICTREFERENCE\": \"WAN\", \"POLLINGSTATIONID\": \"WAN\", \"POLLINGSTATIONNAME\": \"Craigowl PS\", \"PS_ADDRESS\": \"CRAIGOWL PRIMARY SCHOOL, 112 LAIRD STREET, DUNDEE, DD3 9NY\", \"UPRN\": \"009059095127\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 12
     },
     {
@@ -178,7 +178,7 @@
         "UPRN": "009059036563",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96755643, 56.45986024], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"GmlID\": \"Polling_Stations.459\", \"OBJECTID\": 459, \"POLLINGDISTRICTREFERENCE\": \"WBC\", \"POLLINGSTATIONID\": \"WBC\", \"POLLINGSTATIONNAME\": \"Marryat Hall\", \"PS_ADDRESS\": \"Marryat Hall, City Square, DUNDEE, DD1 3BB \", \"UPRN\": \"009059036563\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340381.0, 730154.0], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"GmlID\": \"Polling_Stations.459\", \"OBJECTID\": 459, \"POLLINGDISTRICTREFERENCE\": \"WBC\", \"POLLINGSTATIONID\": \"WBC\", \"POLLINGSTATIONNAME\": \"Marryat Hall\", \"PS_ADDRESS\": \"Marryat Hall, City Square, DUNDEE, DD1 3BB \", \"UPRN\": \"009059036563\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 13
     },
     {
@@ -191,7 +191,7 @@
         "UPRN": "009059053832",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98949887, 56.45638972], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"GmlID\": \"Polling_Stations.460\", \"OBJECTID\": 460, \"POLLINGDISTRICTREFERENCE\": \"WBK\", \"POLLINGSTATIONID\": \"WBK\", \"POLLINGSTATIONNAME\": \"St. Peters Free Church Hall\", \"PS_ADDRESS\": \"ST PETER'S CHURCH, ST PETER STREET, DUNDEE, DD1 4JJ\", \"UPRN\": \"009059053832\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339023.44, 729787.016], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"GmlID\": \"Polling_Stations.460\", \"OBJECTID\": 460, \"POLLINGDISTRICTREFERENCE\": \"WBK\", \"POLLINGSTATIONID\": \"WBK\", \"POLLINGSTATIONNAME\": \"St. Peters Free Church Hall\", \"PS_ADDRESS\": \"ST PETER'S CHURCH, ST PETER STREET, DUNDEE, DD1 4JJ\", \"UPRN\": \"009059053832\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 14
     },
     {
@@ -204,7 +204,7 @@
         "UPRN": "009059104791",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92605155, 56.49002026], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"GmlID\": \"Polling_Stations.461\", \"OBJECTID\": 461, \"POLLINGDISTRICTREFERENCE\": \"EAA\", \"POLLINGSTATIONID\": \"EAA\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342983.5929, 733475.2894], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"GmlID\": \"Polling_Stations.461\", \"OBJECTID\": 461, \"POLLINGDISTRICTREFERENCE\": \"EAA\", \"POLLINGSTATIONID\": \"EAA\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 15
     },
     {
@@ -217,7 +217,7 @@
         "UPRN": "009059099378",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.97007206, 56.47004821], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"GmlID\": \"Polling_Stations.462\", \"OBJECTID\": 462, \"POLLINGDISTRICTREFERENCE\": \"EWB\", \"POLLINGSTATIONID\": \"EWB\", \"POLLINGSTATIONNAME\": \"Maxwelltown Information Centre\", \"PS_ADDRESS\": \"MAXWELLTOWN INFORMATION CENTRE (FORMERLY ST SALVADORS HALL), CARNEGIE STREET, DUNDEE, DD3 7SB\", \"UPRN\": \"009059099378\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340242.0, 731289.9999], \"type\": \"Point\"}, \"id\": 16, \"properties\": {\"GmlID\": \"Polling_Stations.462\", \"OBJECTID\": 462, \"POLLINGDISTRICTREFERENCE\": \"EWB\", \"POLLINGSTATIONID\": \"EWB\", \"POLLINGSTATIONNAME\": \"Maxwelltown Information Centre\", \"PS_ADDRESS\": \"MAXWELLTOWN INFORMATION CENTRE (FORMERLY ST SALVADORS HALL), CARNEGIE STREET, DUNDEE, DD3 7SB\", \"UPRN\": \"009059099378\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 16
     },
     {
@@ -230,7 +230,7 @@
         "UPRN": "009059068524",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.9775173, 56.47461225], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"GmlID\": \"Polling_Stations.463\", \"OBJECTID\": 463, \"POLLINGDISTRICTREFERENCE\": \"EWC\", \"POLLINGSTATIONID\": \"EWC\", \"POLLINGSTATIONNAME\": \"Moncur Crescent Sheltered Housing\", \"PS_ADDRESS\": \"MONCUR CRESCENT SHELTERED HOUSING, 12 HASTINGS PLACE, DUNDEE, DD3 7SB\", \"UPRN\": \"009059068524\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339790.6031, 731804.4281], \"type\": \"Point\"}, \"id\": 17, \"properties\": {\"GmlID\": \"Polling_Stations.463\", \"OBJECTID\": 463, \"POLLINGDISTRICTREFERENCE\": \"EWC\", \"POLLINGSTATIONID\": \"EWC\", \"POLLINGSTATIONNAME\": \"Moncur Crescent Sheltered Housing\", \"PS_ADDRESS\": \"MONCUR CRESCENT SHELTERED HOUSING, 12 HASTINGS PLACE, DUNDEE, DD3 7SB\", \"UPRN\": \"009059068524\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 17
     },
     {
@@ -243,7 +243,7 @@
         "UPRN": "009059068079",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96972555, 56.47657921], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"GmlID\": \"Polling_Stations.464\", \"OBJECTID\": 464, \"POLLINGDISTRICTREFERENCE\": \"EWE\", \"POLLINGSTATIONID\": \"EWE\", \"POLLINGSTATIONNAME\": \"Fleming Gardens Sheltered Housing\", \"PS_ADDRESS\": \"HINDMARSH PENSIONERS CLUB, HINDMARSH AVENUE, DUNDEE, DD3 7LX\", \"UPRN\": \"009059068079\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340273.601, 732016.5313], \"type\": \"Point\"}, \"id\": 18, \"properties\": {\"GmlID\": \"Polling_Stations.464\", \"OBJECTID\": 464, \"POLLINGDISTRICTREFERENCE\": \"EWE\", \"POLLINGSTATIONID\": \"EWE\", \"POLLINGSTATIONNAME\": \"Fleming Gardens Sheltered Housing\", \"PS_ADDRESS\": \"HINDMARSH PENSIONERS CLUB, HINDMARSH AVENUE, DUNDEE, DD3 7LX\", \"UPRN\": \"009059068079\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 18
     },
     {
@@ -256,7 +256,7 @@
         "UPRN": "009059046431",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95743734, 56.47641939], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"GmlID\": \"Polling_Stations.465\", \"OBJECTID\": 465, \"POLLINGDISTRICTREFERENCE\": \"EWF\", \"POLLINGSTATIONID\": \"EWF\", \"POLLINGSTATIONNAME\": \"DISC\", \"PS_ADDRESS\": \"DUNDEE INTERNATIONAL SPORTS CENTRE, MAINS LOAN, DUNDEE, DD4 7AA\", \"UPRN\": \"009059046431\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341030.1688, 731988.1333], \"type\": \"Point\"}, \"id\": 19, \"properties\": {\"GmlID\": \"Polling_Stations.465\", \"OBJECTID\": 465, \"POLLINGDISTRICTREFERENCE\": \"EWF\", \"POLLINGSTATIONID\": \"EWF\", \"POLLINGSTATIONNAME\": \"DISC\", \"PS_ADDRESS\": \"DUNDEE INTERNATIONAL SPORTS CENTRE, MAINS LOAN, DUNDEE, DD4 7AA\", \"UPRN\": \"009059046431\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 19
     },
     {
@@ -269,7 +269,7 @@
         "UPRN": "009059030595",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95767691, 56.47292634], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"GmlID\": \"Polling_Stations.466\", \"OBJECTID\": 466, \"POLLINGDISTRICTREFERENCE\": \"EWG\", \"POLLINGSTATIONID\": \"EWG\", \"POLLINGSTATIONNAME\": \"Clepington PS\", \"PS_ADDRESS\": \"CLEPINGTON PRIMARY SCHOOL, ELIZA STREET, DUNDEE, DD4 6TQ\", \"UPRN\": \"009059030595\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341009.997, 731599.597], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"GmlID\": \"Polling_Stations.466\", \"OBJECTID\": 466, \"POLLINGDISTRICTREFERENCE\": \"EWG\", \"POLLINGSTATIONID\": \"EWG\", \"POLLINGSTATIONNAME\": \"Clepington PS\", \"PS_ADDRESS\": \"CLEPINGTON PRIMARY SCHOOL, ELIZA STREET, DUNDEE, DD4 6TQ\", \"UPRN\": \"009059030595\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 20
     },
     {
@@ -282,7 +282,7 @@
         "UPRN": "009059040336",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95752563, 56.46949864], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"GmlID\": \"Polling_Stations.467\", \"OBJECTID\": 467, \"POLLINGDISTRICTREFERENCE\": \"EWH\", \"POLLINGSTATIONID\": \"EWH\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341014.0, 731218.0], \"type\": \"Point\"}, \"id\": 21, \"properties\": {\"GmlID\": \"Polling_Stations.467\", \"OBJECTID\": 467, \"POLLINGDISTRICTREFERENCE\": \"EWH\", \"POLLINGSTATIONID\": \"EWH\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 21
     },
     {
@@ -295,7 +295,7 @@
         "UPRN": "009059040336",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95752563, 56.46949864], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"GmlID\": \"Polling_Stations.468\", \"OBJECTID\": 468, \"POLLINGDISTRICTREFERENCE\": \"EWI\", \"POLLINGSTATIONID\": \"EWI\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341014.0, 731218.0], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"GmlID\": \"Polling_Stations.468\", \"OBJECTID\": 468, \"POLLINGDISTRICTREFERENCE\": \"EWI\", \"POLLINGSTATIONID\": \"EWI\", \"POLLINGSTATIONNAME\": \"Arthurstone Library\", \"PS_ADDRESS\": \"ARTHURSTONE COMMUNITY LIBRARY, 5 ARTHURSTONE TERRACE, DUNDEE, DD4 6RT\", \"UPRN\": \"009059040336\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 22
     },
     {
@@ -308,7 +308,7 @@
         "UPRN": "009059068079",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96972555, 56.47657921], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"GmlID\": \"Polling_Stations.469\", \"OBJECTID\": 469, \"POLLINGDISTRICTREFERENCE\": \"EWJ\", \"POLLINGSTATIONID\": \"EWJ\", \"POLLINGSTATIONNAME\": \"Fleming Gardens Sheltered Housing\", \"PS_ADDRESS\": \"HINDMARSH PENSIONERS CLUB, HINDMARSH AVENUE, DUNDEE, DD3 7LX\", \"UPRN\": \"009059068079\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340273.601, 732016.5313], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"GmlID\": \"Polling_Stations.469\", \"OBJECTID\": 469, \"POLLINGDISTRICTREFERENCE\": \"EWJ\", \"POLLINGSTATIONID\": \"EWJ\", \"POLLINGSTATIONNAME\": \"Fleming Gardens Sheltered Housing\", \"PS_ADDRESS\": \"HINDMARSH PENSIONERS CLUB, HINDMARSH AVENUE, DUNDEE, DD3 7LX\", \"UPRN\": \"009059068079\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 23
     },
     {
@@ -321,7 +321,7 @@
         "UPRN": "009059105067",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98918814, 56.49543756], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"GmlID\": \"Polling_Stations.470\", \"OBJECTID\": 470, \"POLLINGDISTRICTREFERENCE\": \"WEA\", \"POLLINGSTATIONID\": \"WEA\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339105.1387, 734132.3547], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"GmlID\": \"Polling_Stations.470\", \"OBJECTID\": 470, \"POLLINGDISTRICTREFERENCE\": \"WEA\", \"POLLINGSTATIONID\": \"WEA\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 24
     },
     {
@@ -334,7 +334,7 @@
         "UPRN": "009059040857",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95688331, 56.49321571], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"GmlID\": \"Polling_Stations.471\", \"OBJECTID\": 471, \"POLLINGDISTRICTREFERENCE\": \"WEB\", \"POLLINGSTATIONID\": \"WEB\", \"POLLINGSTATIONNAME\": \"Mill O Mains PS\", \"PS_ADDRESS\": \"MILL OF MAINS PRIMARY SCHOOL, BARNS OF CLAVERHOUSE ROAD, DUNDEE, DD4 9RD\", \"UPRN\": \"009059040857\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341090.3214, 733856.9208], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"GmlID\": \"Polling_Stations.471\", \"OBJECTID\": 471, \"POLLINGDISTRICTREFERENCE\": \"WEB\", \"POLLINGSTATIONID\": \"WEB\", \"POLLINGSTATIONNAME\": \"Mill O Mains PS\", \"PS_ADDRESS\": \"MILL OF MAINS PRIMARY SCHOOL, BARNS OF CLAVERHOUSE ROAD, DUNDEE, DD4 9RD\", \"UPRN\": \"009059040857\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 25
     },
     {
@@ -347,7 +347,7 @@
         "UPRN": "009059026487",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95099401, 56.48957141], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"GmlID\": \"Polling_Stations.472\", \"OBJECTID\": 472, \"POLLINGDISTRICTREFERENCE\": \"WEC\", \"POLLINGSTATIONID\": \"WEC\", \"POLLINGSTATIONNAME\": \"Foula Terrace Sheltered Housing\", \"PS_ADDRESS\": \"14 FOULA TERRACE, DUNDEE, DD4 9TB\", \"UPRN\": \"009059026487\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341447.2646, 733446.3122], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"GmlID\": \"Polling_Stations.472\", \"OBJECTID\": 472, \"POLLINGDISTRICTREFERENCE\": \"WEC\", \"POLLINGSTATIONID\": \"WEC\", \"POLLINGSTATIONNAME\": \"Foula Terrace Sheltered Housing\", \"PS_ADDRESS\": \"14 FOULA TERRACE, DUNDEE, DD4 9TB\", \"UPRN\": \"009059026487\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 26
     },
     {
@@ -360,7 +360,7 @@
         "UPRN": "009059036563",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96755643, 56.45986024], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"GmlID\": \"Polling_Stations.473\", \"OBJECTID\": 473, \"POLLINGDISTRICTREFERENCE\": \"WED\", \"POLLINGSTATIONID\": \"WED\", \"POLLINGSTATIONNAME\": \"Marryat Hall\", \"PS_ADDRESS\": \"Marryat Hall, City Square, DUNDEE, DD1 3BB \", \"UPRN\": \"009059036563\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340381.0, 730154.0], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"GmlID\": \"Polling_Stations.473\", \"OBJECTID\": 473, \"POLLINGDISTRICTREFERENCE\": \"WED\", \"POLLINGSTATIONID\": \"WED\", \"POLLINGSTATIONNAME\": \"Marryat Hall\", \"PS_ADDRESS\": \"Marryat Hall, City Square, DUNDEE, DD1 3BB \", \"UPRN\": \"009059036563\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 27
     },
     {
@@ -373,7 +373,7 @@
         "UPRN": "009059070246",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.97547195, 56.46420901], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"GmlID\": \"Polling_Stations.474\", \"OBJECTID\": 474, \"POLLINGDISTRICTREFERENCE\": \"WBL\", \"POLLINGSTATIONID\": \"WBL\", \"POLLINGSTATIONNAME\": \"St Mary Magdalene's Church\", \"PS_ADDRESS\": \"ST MARY MAGDALENE'S CHURCH, DUDHOPE CRESCENT ROAD, DUNDEE, DD1 5RR\", \"UPRN\": \"009059070246\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339900.1472, 730644.8655], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"GmlID\": \"Polling_Stations.474\", \"OBJECTID\": 474, \"POLLINGDISTRICTREFERENCE\": \"WBL\", \"POLLINGSTATIONID\": \"WBL\", \"POLLINGSTATIONNAME\": \"St Mary Magdalene's Church\", \"PS_ADDRESS\": \"ST MARY MAGDALENE'S CHURCH, DUDHOPE CRESCENT ROAD, DUNDEE, DD1 5RR\", \"UPRN\": \"009059070246\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 28
     },
     {
@@ -386,7 +386,7 @@
         "UPRN": "009059106320",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96981553, 56.46838686], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"GmlID\": \"Polling_Stations.475\", \"OBJECTID\": 475, \"POLLINGDISTRICTREFERENCE\": \"EWA\", \"POLLINGSTATIONID\": \"EWA\", \"POLLINGSTATIONNAME\": \"Coldside Campus\", \"PS_ADDRESS\": \"COLDSIDE CAMPUS, 15 ALEXANDER STREET, DUNDEE, DD3 7DL\", \"UPRN\": \"009059106320\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340255.1929, 731104.8857], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"GmlID\": \"Polling_Stations.475\", \"OBJECTID\": 475, \"POLLINGDISTRICTREFERENCE\": \"EWA\", \"POLLINGSTATIONID\": \"EWA\", \"POLLINGSTATIONNAME\": \"Coldside Campus\", \"PS_ADDRESS\": \"COLDSIDE CAMPUS, 15 ALEXANDER STREET, DUNDEE, DD3 7DL\", \"UPRN\": \"009059106320\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 29
     },
     {
@@ -399,7 +399,7 @@
         "UPRN": "009059078251",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.97668176, 56.47624652], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"GmlID\": \"Polling_Stations.476\", \"OBJECTID\": 476, \"POLLINGDISTRICTREFERENCE\": \"EWK\", \"POLLINGSTATIONID\": \"EWK\", \"POLLINGSTATIONNAME\": \"United Free Church\", \"PS_ADDRESS\": \"UNITED FREE CHURCH AND HALL, CAIRD AVENUE, DUNDEE, DD3 8AR\", \"UPRN\": \"009059078251\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339844.6507, 731985.5729], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"GmlID\": \"Polling_Stations.476\", \"OBJECTID\": 476, \"POLLINGDISTRICTREFERENCE\": \"EWK\", \"POLLINGSTATIONID\": \"EWK\", \"POLLINGSTATIONNAME\": \"United Free Church\", \"PS_ADDRESS\": \"UNITED FREE CHURCH AND HALL, CAIRD AVENUE, DUNDEE, DD3 8AR\", \"UPRN\": \"009059078251\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 30
     },
     {
@@ -412,7 +412,7 @@
         "UPRN": "009059102621",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99475398, 56.46129418], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"GmlID\": \"Polling_Stations.477\", \"OBJECTID\": 477, \"POLLINGDISTRICTREFERENCE\": \"WBO\", \"POLLINGSTATIONID\": \"WBO\", \"POLLINGSTATIONNAME\": \"Balgayhill NS\", \"PS_ADDRESS\": \"BALGAYHILL NURSERY SCHOOL, 1 GLENAGNES ROAD, DUNDEE, DD2 2AB\", \"UPRN\": \"009059102621\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338707.5122, 730337.5036], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"GmlID\": \"Polling_Stations.477\", \"OBJECTID\": 477, \"POLLINGDISTRICTREFERENCE\": \"WBO\", \"POLLINGSTATIONID\": \"WBO\", \"POLLINGSTATIONNAME\": \"Balgayhill NS\", \"PS_ADDRESS\": \"BALGAYHILL NURSERY SCHOOL, 1 GLENAGNES ROAD, DUNDEE, DD2 2AB\", \"UPRN\": \"009059102621\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 31
     },
     {
@@ -425,7 +425,7 @@
         "UPRN": "009059020350",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.97854654, 56.47923157], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"GmlID\": \"Polling_Stations.478\", \"OBJECTID\": 478, \"POLLINGDISTRICTREFERENCE\": \"EWD\", \"POLLINGSTATIONID\": \"EWD\", \"POLLINGSTATIONNAME\": \"North End Football Club\", \"PS_ADDRESS\": \"NORTH END FOOTBALL CLUB, FAIRMUIR STREET, DUNDEE, DD3 8HU\", \"UPRN\": \"009059020350\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339734.5307, 732319.4123], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"GmlID\": \"Polling_Stations.478\", \"OBJECTID\": 478, \"POLLINGDISTRICTREFERENCE\": \"EWD\", \"POLLINGSTATIONID\": \"EWD\", \"POLLINGSTATIONNAME\": \"North End Football Club\", \"PS_ADDRESS\": \"NORTH END FOOTBALL CLUB, FAIRMUIR STREET, DUNDEE, DD3 8HU\", \"UPRN\": \"009059020350\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 32
     },
     {
@@ -438,7 +438,7 @@
         "UPRN": "009059063994",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98070575, 56.45787801], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"GmlID\": \"Polling_Stations.479\", \"OBJECTID\": 479, \"POLLINGDISTRICTREFERENCE\": \"WBN\", \"POLLINGSTATIONID\": \"WBN\", \"POLLINGSTATIONNAME\": \"DUSA\", \"PS_ADDRESS\": \"DUNDEE UNIVERSITY STUDENT ASSOCIATION, AIRLIE PLACE, DUNDEE, DD1 4HP\", \"UPRN\": \"009059063994\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339567.6468, 729944.8822], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"GmlID\": \"Polling_Stations.479\", \"OBJECTID\": 479, \"POLLINGDISTRICTREFERENCE\": \"WBN\", \"POLLINGSTATIONID\": \"WBN\", \"POLLINGSTATIONNAME\": \"DUSA\", \"PS_ADDRESS\": \"DUNDEE UNIVERSITY STUDENT ASSOCIATION, AIRLIE PLACE, DUNDEE, DD1 4HP\", \"UPRN\": \"009059063994\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 33
     },
     {
@@ -451,7 +451,7 @@
         "UPRN": "009059106320",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96981553, 56.46838686], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"GmlID\": \"Polling_Stations.480\", \"OBJECTID\": 480, \"POLLINGDISTRICTREFERENCE\": \"WBM\", \"POLLINGSTATIONID\": \"WBM\", \"POLLINGSTATIONNAME\": \"Coldside Campus\", \"PS_ADDRESS\": \"COLDSIDE CAMPUS, 15 ALEXANDER STREET, DUNDEE, DD3 7DL\", \"UPRN\": \"009059106320\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340255.1929, 731104.8857], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"GmlID\": \"Polling_Stations.480\", \"OBJECTID\": 480, \"POLLINGDISTRICTREFERENCE\": \"WBM\", \"POLLINGSTATIONID\": \"WBM\", \"POLLINGSTATIONNAME\": \"Coldside Campus\", \"PS_ADDRESS\": \"COLDSIDE CAMPUS, 15 ALEXANDER STREET, DUNDEE, DD3 7DL\", \"UPRN\": \"009059106320\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
@@ -464,7 +464,7 @@
         "UPRN": "009059104791",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92605155, 56.49002026], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"GmlID\": \"Polling_Stations.481\", \"OBJECTID\": 481, \"POLLINGDISTRICTREFERENCE\": \"EAD\", \"POLLINGSTATIONID\": \"EAD\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342983.5929, 733475.2894], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"GmlID\": \"Polling_Stations.481\", \"OBJECTID\": 481, \"POLLINGDISTRICTREFERENCE\": \"EAD\", \"POLLINGSTATIONID\": \"EAD\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 35
     },
     {
@@ -477,7 +477,7 @@
         "UPRN": "009059078385",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.94434545, 56.4907555], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"GmlID\": \"Polling_Stations.482\", \"OBJECTID\": 482, \"POLLINGDISTRICTREFERENCE\": \"EAB\", \"POLLINGSTATIONID\": \"EAB\", \"POLLINGSTATIONNAME\": \"Finmill Centre\", \"PS_ADDRESS\": \"Finmill Centre, Findcastle Street, Dundee, DD4 9EW\", \"UPRN\": \"009059078385\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341858.4129, 733572.4441], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"GmlID\": \"Polling_Stations.482\", \"OBJECTID\": 482, \"POLLINGDISTRICTREFERENCE\": \"EAB\", \"POLLINGSTATIONID\": \"EAB\", \"POLLINGSTATIONNAME\": \"Finmill Centre\", \"PS_ADDRESS\": \"Finmill Centre, Findcastle Street, Dundee, DD4 9EW\", \"UPRN\": \"009059078385\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 36
     },
     {
@@ -490,7 +490,7 @@
         "UPRN": "009059064988",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99145982, 56.4639221], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"GmlID\": \"Polling_Stations.483\", \"OBJECTID\": 483, \"POLLINGDISTRICTREFERENCE\": \"WBJ\", \"POLLINGSTATIONID\": \"WBJ\", \"POLLINGSTATIONNAME\": \"Mitchell Street Centre\", \"PS_ADDRESS\": \"MITCHELL STREET COMMUNITY CENTRE, 5 MITCHELL STREET, DUNDEE, DD2 2LJ\", \"UPRN\": \"009059064988\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338914.6955, 730627.0303], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"GmlID\": \"Polling_Stations.483\", \"OBJECTID\": 483, \"POLLINGDISTRICTREFERENCE\": \"WBJ\", \"POLLINGSTATIONID\": \"WBJ\", \"POLLINGSTATIONNAME\": \"Mitchell Street Centre\", \"PS_ADDRESS\": \"MITCHELL STREET COMMUNITY CENTRE, 5 MITCHELL STREET, DUNDEE, DD2 2LJ\", \"UPRN\": \"009059064988\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 37
     },
     {
@@ -503,7 +503,7 @@
         "UPRN": "009059089021",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92835916, 56.49235548], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"GmlID\": \"Polling_Stations.484\", \"OBJECTID\": 484, \"POLLINGDISTRICTREFERENCE\": \"EAC\", \"POLLINGSTATIONID\": \"EAC\", \"POLLINGSTATIONNAME\": \"Angus Housing Association\", \"PS_ADDRESS\": \"ANGUS HOUSING ASSOCIATION LTD, THE SQUARE, ORMISTON CRESCENT, DUNDEE, DD4 0UD\", \"UPRN\": \"009059089021\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342845.031, 733737.095], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"GmlID\": \"Polling_Stations.484\", \"OBJECTID\": 484, \"POLLINGDISTRICTREFERENCE\": \"EAC\", \"POLLINGSTATIONID\": \"EAC\", \"POLLINGSTATIONNAME\": \"Angus Housing Association\", \"PS_ADDRESS\": \"ANGUS HOUSING ASSOCIATION LTD, THE SQUARE, ORMISTON CRESCENT, DUNDEE, DD4 0UD\", \"UPRN\": \"009059089021\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 38
     },
     {
@@ -516,7 +516,7 @@
         "UPRN": "009059102140",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.91557493, 56.4899763], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"GmlID\": \"Polling_Stations.485\", \"OBJECTID\": 485, \"POLLINGDISTRICTREFERENCE\": \"EAE\", \"POLLINGSTATIONID\": \"EAE\", \"POLLINGSTATIONNAME\": \"The Crescent\", \"PS_ADDRESS\": \"THE CRESCENT, 71 LOTHIAN CRESCENT, DUNDEE CITY, DD4 0HU\", \"UPRN\": \"009059102140\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [343628.5454, 733461.7533], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"GmlID\": \"Polling_Stations.485\", \"OBJECTID\": 485, \"POLLINGDISTRICTREFERENCE\": \"EAE\", \"POLLINGSTATIONID\": \"EAE\", \"POLLINGSTATIONNAME\": \"The Crescent\", \"PS_ADDRESS\": \"THE CRESCENT, 71 LOTHIAN CRESCENT, DUNDEE CITY, DD4 0HU\", \"UPRN\": \"009059102140\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 39
     },
     {
@@ -529,7 +529,7 @@
         "UPRN": "009059104791",
         "WARD": "North East",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92605155, 56.49002026], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"GmlID\": \"Polling_Stations.486\", \"OBJECTID\": 486, \"POLLINGDISTRICTREFERENCE\": \"EAF\", \"POLLINGSTATIONID\": \"EAF\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342983.5929, 733475.2894], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"GmlID\": \"Polling_Stations.486\", \"OBJECTID\": 486, \"POLLINGDISTRICTREFERENCE\": \"EAF\", \"POLLINGSTATIONID\": \"EAF\", \"POLLINGSTATIONNAME\": \"North East Campus\", \"PS_ADDRESS\": \"NORTH EAST CAMPUS, 9 LOTHIAN CRESCENT, DUNDEE, DD4 0SX\", \"UPRN\": \"009059104791\", \"WARD\": \"North East\"}, \"type\": \"Feature\"}",
         "pk": 40
     },
     {
@@ -542,7 +542,7 @@
         "UPRN": "009059031440",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.90371936, 56.47958202], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"GmlID\": \"Polling_Stations.487\", \"OBJECTID\": 487, \"POLLINGDISTRICTREFERENCE\": \"EAG\", \"POLLINGSTATIONID\": \"EAG\", \"POLLINGSTATIONNAME\": \"Douglas Community Centre\", \"PS_ADDRESS\": \"DOUGLAS COMMUNITY CENTRE, BALMORAL PLACE, DUNDEE, DD4 8SH\", \"UPRN\": \"009059031440\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [344343.249, 732295.303], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"GmlID\": \"Polling_Stations.487\", \"OBJECTID\": 487, \"POLLINGDISTRICTREFERENCE\": \"EAG\", \"POLLINGSTATIONID\": \"EAG\", \"POLLINGSTATIONNAME\": \"Douglas Community Centre\", \"PS_ADDRESS\": \"DOUGLAS COMMUNITY CENTRE, BALMORAL PLACE, DUNDEE, DD4 8SH\", \"UPRN\": \"009059031440\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 41
     },
     {
@@ -555,7 +555,7 @@
         "UPRN": "009059095132",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.9379885, 56.48259581], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"GmlID\": \"Polling_Stations.488\", \"OBJECTID\": 488, \"POLLINGDISTRICTREFERENCE\": \"EAI\", \"POLLINGSTATIONID\": \"EAI\", \"POLLINGSTATIONNAME\": \"Rowantree PS\", \"PS_ADDRESS\": \"ROWANTREE PRIMARY SCHOOL, 1 BIRKS TERRACE, DUNDEE, DD4 8EJ\", \"UPRN\": \"009059095132\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342237.389, 732658.989], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"GmlID\": \"Polling_Stations.488\", \"OBJECTID\": 488, \"POLLINGDISTRICTREFERENCE\": \"EAI\", \"POLLINGSTATIONID\": \"EAI\", \"POLLINGSTATIONNAME\": \"Rowantree PS\", \"PS_ADDRESS\": \"ROWANTREE PRIMARY SCHOOL, 1 BIRKS TERRACE, DUNDEE, DD4 8EJ\", \"UPRN\": \"009059095132\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 42
     },
     {
@@ -568,7 +568,7 @@
         "UPRN": "009059000546",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.87113428, 56.47465123], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"GmlID\": \"Polling_Stations.489\", \"OBJECTID\": 489, \"POLLINGDISTRICTREFERENCE\": \"EAS\", \"POLLINGSTATIONID\": \"EAS\", \"POLLINGSTATIONNAME\": \"Forthill PS\", \"PS_ADDRESS\": \"FORTHILL PRIMARY SCHOOL, FINTRY PLACE, BROUGHTY FERRY, DUNDEE, DD5 3BE\", \"UPRN\": \"009059000546\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [346343.0269, 731720.6366], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"GmlID\": \"Polling_Stations.489\", \"OBJECTID\": 489, \"POLLINGDISTRICTREFERENCE\": \"EAS\", \"POLLINGSTATIONID\": \"EAS\", \"POLLINGSTATIONNAME\": \"Forthill PS\", \"PS_ADDRESS\": \"FORTHILL PRIMARY SCHOOL, FINTRY PLACE, BROUGHTY FERRY, DUNDEE, DD5 3BE\", \"UPRN\": \"009059000546\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 43
     },
     {
@@ -581,7 +581,7 @@
         "UPRN": "009059064796",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.01321131, 56.48828133], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"GmlID\": \"Polling_Stations.490\", \"OBJECTID\": 490, \"POLLINGDISTRICTREFERENCE\": \"WAO\", \"POLLINGSTATIONID\": \"WAO\", \"POLLINGSTATIONNAME\": \"Ardler Complex\", \"PS_ADDRESS\": \"ARDLER COMPLEX, TURNBERRY AVENUE, DUNDEE, DD2 3TP\", \"UPRN\": \"009059064796\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [337614.577, 733357.491], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"GmlID\": \"Polling_Stations.490\", \"OBJECTID\": 490, \"POLLINGDISTRICTREFERENCE\": \"WAO\", \"POLLINGSTATIONID\": \"WAO\", \"POLLINGSTATIONNAME\": \"Ardler Complex\", \"PS_ADDRESS\": \"ARDLER COMPLEX, TURNBERRY AVENUE, DUNDEE, DD2 3TP\", \"UPRN\": \"009059064796\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 44
     },
     {
@@ -594,7 +594,7 @@
         "UPRN": "009059095129",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99098138, 56.48937582], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"GmlID\": \"Polling_Stations.491\", \"OBJECTID\": 491, \"POLLINGDISTRICTREFERENCE\": \"WAP\", \"POLLINGSTATIONID\": \"WAP\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338985.0204, 733459.3355], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"GmlID\": \"Polling_Stations.491\", \"OBJECTID\": 491, \"POLLINGDISTRICTREFERENCE\": \"WAP\", \"POLLINGSTATIONID\": \"WAP\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 45
     },
     {
@@ -607,7 +607,7 @@
         "UPRN": "009059054458",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99983856, 56.49660327], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"GmlID\": \"Polling_Stations.492\", \"OBJECTID\": 492, \"POLLINGDISTRICTREFERENCE\": \"WAQ\", \"POLLINGSTATIONID\": \"WAQ\", \"POLLINGSTATIONNAME\": \"Strathmartine Parish Church Hall \", \"PS_ADDRESS\": \"STRATHMARTINE PARISH CHURCH, STRATHMARTINE ROAD, DUNDEE, DD3 9QW\", \"UPRN\": \"009059054458\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338451.408, 734271.576], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"GmlID\": \"Polling_Stations.492\", \"OBJECTID\": 492, \"POLLINGDISTRICTREFERENCE\": \"WAQ\", \"POLLINGSTATIONID\": \"WAQ\", \"POLLINGSTATIONNAME\": \"Strathmartine Parish Church Hall \", \"PS_ADDRESS\": \"STRATHMARTINE PARISH CHURCH, STRATHMARTINE ROAD, DUNDEE, DD3 9QW\", \"UPRN\": \"009059054458\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 46
     },
     {
@@ -620,7 +620,7 @@
         "UPRN": "009059105067",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98918814, 56.49543756], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"GmlID\": \"Polling_Stations.493\", \"OBJECTID\": 493, \"POLLINGDISTRICTREFERENCE\": \"WAR\", \"POLLINGSTATIONID\": \"WAR\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339105.1387, 734132.3547], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"GmlID\": \"Polling_Stations.493\", \"OBJECTID\": 493, \"POLLINGDISTRICTREFERENCE\": \"WAR\", \"POLLINGSTATIONID\": \"WAR\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 47
     },
     {
@@ -633,7 +633,7 @@
         "UPRN": "009059105067",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98918814, 56.49543756], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"GmlID\": \"Polling_Stations.494\", \"OBJECTID\": 494, \"POLLINGDISTRICTREFERENCE\": \"WAS\", \"POLLINGSTATIONID\": \"WAS\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339105.1387, 734132.3547], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"GmlID\": \"Polling_Stations.494\", \"OBJECTID\": 494, \"POLLINGDISTRICTREFERENCE\": \"WAS\", \"POLLINGSTATIONID\": \"WAS\", \"POLLINGSTATIONNAME\": \"Sidlaw View PS\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, 67 HARESTANE ROAD, DUNDEE, DD3 0NE\", \"UPRN\": \"009059105067\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 48
     },
     {
@@ -646,7 +646,7 @@
         "UPRN": "009059052649",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98562416, 56.48837674], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"GmlID\": \"Polling_Stations.495\", \"OBJECTID\": 495, \"POLLINGDISTRICTREFERENCE\": \"WAT\", \"POLLINGSTATIONID\": \"WAT\", \"POLLINGSTATIONNAME\": \"Kirkton Community Centre and Library\", \"PS_ADDRESS\": \"KIRKTON COMMUNITY CENTRE AND LIBRARY, DERWENT AVENUE, DUNDEE, DD3 0AX\", \"UPRN\": \"009059052649\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339313.258, 733343.404], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"GmlID\": \"Polling_Stations.495\", \"OBJECTID\": 495, \"POLLINGDISTRICTREFERENCE\": \"WAT\", \"POLLINGSTATIONID\": \"WAT\", \"POLLINGSTATIONNAME\": \"Kirkton Community Centre and Library\", \"PS_ADDRESS\": \"KIRKTON COMMUNITY CENTRE AND LIBRARY, DERWENT AVENUE, DUNDEE, DD3 0AX\", \"UPRN\": \"009059052649\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 49
     },
     {
@@ -659,7 +659,7 @@
         "UPRN": "009059075352",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99145982, 56.4639221], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"GmlID\": \"Polling_Stations.496\", \"OBJECTID\": 496, \"POLLINGDISTRICTREFERENCE\": \"WAU\", \"POLLINGSTATIONID\": \"WAU\", \"POLLINGSTATIONNAME\": \"Mitchell Street Centre\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, HELMSDALE PLACE, DUNDEE, DD3 0NE\", \"UPRN\": \"009059075352\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338914.6955, 730627.0303], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"GmlID\": \"Polling_Stations.496\", \"OBJECTID\": 496, \"POLLINGDISTRICTREFERENCE\": \"WAU\", \"POLLINGSTATIONID\": \"WAU\", \"POLLINGSTATIONNAME\": \"Mitchell Street Centre\", \"PS_ADDRESS\": \"SIDLAW VIEW PRIMARY SCHOOL, HELMSDALE PLACE, DUNDEE, DD3 0NE\", \"UPRN\": \"009059075352\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 50
     },
     {
@@ -672,7 +672,7 @@
         "UPRN": "009059095129",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99098138, 56.48937582], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"GmlID\": \"Polling_Stations.497\", \"OBJECTID\": 497, \"POLLINGDISTRICTREFERENCE\": \"WAW\", \"POLLINGSTATIONID\": \"WAW\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338985.0204, 733459.3355], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"GmlID\": \"Polling_Stations.497\", \"OBJECTID\": 497, \"POLLINGDISTRICTREFERENCE\": \"WAW\", \"POLLINGSTATIONID\": \"WAW\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 51
     },
     {
@@ -685,7 +685,7 @@
         "UPRN": "009059084801",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.85325057, 56.48350217], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"GmlID\": \"Polling_Stations.498\", \"OBJECTID\": 498, \"POLLINGDISTRICTREFERENCE\": \"EAQ\", \"POLLINGSTATIONID\": \"EAQ\", \"POLLINGSTATIONNAME\": \"Panmurefield Village Church\", \"PS_ADDRESS\": \"PANMUREFIELD VILLAGE CHURCH, 154 LAWERS DRIVE, BROUGHTY FERRY, DD5 3TZ\", \"UPRN\": \"009059084801\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [347456.7607, 732691.8495], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"GmlID\": \"Polling_Stations.498\", \"OBJECTID\": 498, \"POLLINGDISTRICTREFERENCE\": \"EAQ\", \"POLLINGSTATIONID\": \"EAQ\", \"POLLINGSTATIONNAME\": \"Panmurefield Village Church\", \"PS_ADDRESS\": \"PANMUREFIELD VILLAGE CHURCH, 154 LAWERS DRIVE, BROUGHTY FERRY, DD5 3TZ\", \"UPRN\": \"009059084801\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 52
     },
     {
@@ -698,7 +698,7 @@
         "UPRN": "009059084311",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.85595389, 56.4822057], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"GmlID\": \"Polling_Stations.499\", \"OBJECTID\": 499, \"POLLINGDISTRICTREFERENCE\": \"EAR\", \"POLLINGSTATIONID\": \"EAR\", \"POLLINGSTATIONNAME\": \"Broughty Ferry Tennis Club\", \"PS_ADDRESS\": \"BROUGHTY FERRY TENNIS CLUB, ELCHO DRIVE, BROUGHTY FERRY, DUNDEE, DD5 3TB\", \"UPRN\": \"009059084311\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [347288.498, 732549.634], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"GmlID\": \"Polling_Stations.499\", \"OBJECTID\": 499, \"POLLINGDISTRICTREFERENCE\": \"EAR\", \"POLLINGSTATIONID\": \"EAR\", \"POLLINGSTATIONNAME\": \"Broughty Ferry Tennis Club\", \"PS_ADDRESS\": \"BROUGHTY FERRY TENNIS CLUB, ELCHO DRIVE, BROUGHTY FERRY, DUNDEE, DD5 3TB\", \"UPRN\": \"009059084311\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 53
     },
     {
@@ -711,7 +711,7 @@
         "UPRN": "009059047295",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.84665931, 56.47331212], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"GmlID\": \"Polling_Stations.500\", \"OBJECTID\": 500, \"POLLINGDISTRICTREFERENCE\": \"EAO\", \"POLLINGSTATIONID\": \"EAO\", \"POLLINGSTATIONNAME\": \"St Margarets Church\", \"PS_ADDRESS\": \"ST MARGARET'S PARISH CHURCH, INVERMARK TERRACE, BROUGHTY FERRY, DUNDEE, DD5 2QU\", \"UPRN\": \"009059047295\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [347848.668, 731552.7654], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"GmlID\": \"Polling_Stations.500\", \"OBJECTID\": 500, \"POLLINGDISTRICTREFERENCE\": \"EAO\", \"POLLINGSTATIONID\": \"EAO\", \"POLLINGSTATIONNAME\": \"St Margarets Church\", \"PS_ADDRESS\": \"ST MARGARET'S PARISH CHURCH, INVERMARK TERRACE, BROUGHTY FERRY, DUNDEE, DD5 2QU\", \"UPRN\": \"009059047295\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 54
     },
     {
@@ -724,7 +724,7 @@
         "UPRN": "009059051346",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95186611, 56.46442853], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"GmlID\": \"Polling_Stations.501\", \"OBJECTID\": 501, \"POLLINGDISTRICTREFERENCE\": \"EBC\", \"POLLINGSTATIONID\": \"EBC\", \"POLLINGSTATIONNAME\": \"Dundee Sea Cadets\", \"PS_ADDRESS\": \"DUNDEE SEA CADETS, EAST CAMPERDOWN STREET, DOCKS, DUNDEE, DD1 3LG\", \"UPRN\": \"009059051346\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341354.8137, 730648.9048], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"GmlID\": \"Polling_Stations.501\", \"OBJECTID\": 501, \"POLLINGDISTRICTREFERENCE\": \"EBC\", \"POLLINGSTATIONID\": \"EBC\", \"POLLINGSTATIONNAME\": \"Dundee Sea Cadets\", \"PS_ADDRESS\": \"DUNDEE SEA CADETS, EAST CAMPERDOWN STREET, DOCKS, DUNDEE, DD1 3LG\", \"UPRN\": \"009059051346\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 55
     },
     {
@@ -737,7 +737,7 @@
         "UPRN": "009059025237",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95176305, 56.4683298], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"GmlID\": \"Polling_Stations.502\", \"OBJECTID\": 502, \"POLLINGDISTRICTREFERENCE\": \"EBD\", \"POLLINGSTATIONID\": \"EBD\", \"POLLINGSTATIONNAME\": \"Glebelands PS\", \"PS_ADDRESS\": \"GLEBELANDS PRIMARY SCHOOL, BAFFIN STREET, DUNDEE, DD4 6EZ\", \"UPRN\": \"009059025237\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341367.1751, 731082.989], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"GmlID\": \"Polling_Stations.502\", \"OBJECTID\": 502, \"POLLINGDISTRICTREFERENCE\": \"EBD\", \"POLLINGSTATIONID\": \"EBD\", \"POLLINGSTATIONNAME\": \"Glebelands PS\", \"PS_ADDRESS\": \"GLEBELANDS PRIMARY SCHOOL, BAFFIN STREET, DUNDEE, DD4 6EZ\", \"UPRN\": \"009059025237\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 56
     },
     {
@@ -750,7 +750,7 @@
         "UPRN": "009059064489",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.96492839, 56.46523043], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"GmlID\": \"Polling_Stations.503\", \"OBJECTID\": 503, \"POLLINGDISTRICTREFERENCE\": \"EBE\", \"POLLINGSTATIONID\": \"EBE\", \"POLLINGSTATIONNAME\": \"Wellgate Sheltered Housing\", \"PS_ADDRESS\": \"THE WELLGATE DAY CENTRE, LADYWELL AVENUE, DUNDEE, DD1 2LB\", \"UPRN\": \"009059064489\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [340551.319, 730749.37], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"GmlID\": \"Polling_Stations.503\", \"OBJECTID\": 503, \"POLLINGDISTRICTREFERENCE\": \"EBE\", \"POLLINGSTATIONID\": \"EBE\", \"POLLINGSTATIONNAME\": \"Wellgate Sheltered Housing\", \"PS_ADDRESS\": \"THE WELLGATE DAY CENTRE, LADYWELL AVENUE, DUNDEE, DD1 2LB\", \"UPRN\": \"009059064489\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 57
     },
     {
@@ -763,7 +763,7 @@
         "UPRN": "009059014807",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98703817, 56.46006959], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"GmlID\": \"Polling_Stations.504\", \"OBJECTID\": 504, \"POLLINGDISTRICTREFERENCE\": \"WAJ\", \"POLLINGSTATIONID\": \"WAJ\", \"POLLINGSTATIONNAME\": \"Al-Maktoum Centre\", \"PS_ADDRESS\": \"AL-MAKTOUM CENTRE, 124 BLACKNESS ROAD, DUNDEE, DD1 5PE\", \"UPRN\": \"009059014807\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339180.952, 730194.366], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"GmlID\": \"Polling_Stations.504\", \"OBJECTID\": 504, \"POLLINGDISTRICTREFERENCE\": \"WAJ\", \"POLLINGSTATIONID\": \"WAJ\", \"POLLINGSTATIONNAME\": \"Al-Maktoum Centre\", \"PS_ADDRESS\": \"AL-MAKTOUM CENTRE, 124 BLACKNESS ROAD, DUNDEE, DD1 5PE\", \"UPRN\": \"009059014807\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 58
     },
     {
@@ -776,7 +776,7 @@
         "UPRN": "009059037463",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.0279381, 56.46463803], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"GmlID\": \"Polling_Stations.505\", \"OBJECTID\": 505, \"POLLINGDISTRICTREFERENCE\": \"WAB\", \"POLLINGSTATIONID\": \"WAB\", \"POLLINGSTATIONNAME\": \"Clyde Place Sheltered Housing\", \"PS_ADDRESS\": \"WARDENS COMPLEX, 52 TUMMEL PLACE, DUNDEE, DD2 4EP\", \"UPRN\": \"009059037463\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [336668.498, 730739.72], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"GmlID\": \"Polling_Stations.505\", \"OBJECTID\": 505, \"POLLINGDISTRICTREFERENCE\": \"WAB\", \"POLLINGSTATIONID\": \"WAB\", \"POLLINGSTATIONNAME\": \"Clyde Place Sheltered Housing\", \"PS_ADDRESS\": \"WARDENS COMPLEX, 52 TUMMEL PLACE, DUNDEE, DD2 4EP\", \"UPRN\": \"009059037463\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 59
     },
     {
@@ -789,7 +789,7 @@
         "UPRN": "009059047902",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.04652697, 56.47118255], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"GmlID\": \"Polling_Stations.506\", \"OBJECTID\": 506, \"POLLINGDISTRICTREFERENCE\": \"WAC\", \"POLLINGSTATIONID\": \"WAC\", \"POLLINGSTATIONNAME\": \"Lynch Sports Centre\", \"PS_ADDRESS\": \"LYNCH SPORTS CENTRE, SOUTH ROAD, DUNDEE, DD2 4SR\", \"UPRN\": \"009059047902\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [335534.3732, 731485.3338], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"GmlID\": \"Polling_Stations.506\", \"OBJECTID\": 506, \"POLLINGDISTRICTREFERENCE\": \"WAC\", \"POLLINGSTATIONID\": \"WAC\", \"POLLINGSTATIONNAME\": \"Lynch Sports Centre\", \"PS_ADDRESS\": \"LYNCH SPORTS CENTRE, SOUTH ROAD, DUNDEE, DD2 4SR\", \"UPRN\": \"009059047902\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
@@ -802,7 +802,7 @@
         "UPRN": "009059037096",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.03904783, 56.46747046], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"GmlID\": \"Polling_Stations.507\", \"OBJECTID\": 507, \"POLLINGDISTRICTREFERENCE\": \"WAG\", \"POLLINGSTATIONID\": \"WAG\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [335988.82, 731065.23], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"GmlID\": \"Polling_Stations.507\", \"OBJECTID\": 507, \"POLLINGDISTRICTREFERENCE\": \"WAG\", \"POLLINGSTATIONID\": \"WAG\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 61
     },
     {
@@ -815,7 +815,7 @@
         "UPRN": "009059037096",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.03904783, 56.46747046], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"GmlID\": \"Polling_Stations.508\", \"OBJECTID\": 508, \"POLLINGDISTRICTREFERENCE\": \"WAH\", \"POLLINGSTATIONID\": \"WAH\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [335988.82, 731065.23], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"GmlID\": \"Polling_Stations.508\", \"OBJECTID\": 508, \"POLLINGDISTRICTREFERENCE\": \"WAH\", \"POLLINGSTATIONID\": \"WAH\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 62
     },
     {
@@ -828,7 +828,7 @@
         "UPRN": "009059087857",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.0198053, 56.47671429], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"GmlID\": \"Polling_Stations.509\", \"OBJECTID\": 509, \"POLLINGDISTRICTREFERENCE\": \"WAI\", \"POLLINGSTATIONID\": \"WAI\", \"POLLINGSTATIONNAME\": \"Lochee United JFC\", \"PS_ADDRESS\": \"THOMSON PARK, NAPIER DRIVE, DUNDEE, DD2 2SJ\", \"UPRN\": \"009059087857\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [337189.484, 732076.2106], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"GmlID\": \"Polling_Stations.509\", \"OBJECTID\": 509, \"POLLINGDISTRICTREFERENCE\": \"WAI\", \"POLLINGSTATIONID\": \"WAI\", \"POLLINGSTATIONNAME\": \"Lochee United JFC\", \"PS_ADDRESS\": \"THOMSON PARK, NAPIER DRIVE, DUNDEE, DD2 2SJ\", \"UPRN\": \"009059087857\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 63
     },
     {
@@ -841,7 +841,7 @@
         "UPRN": "009059072626",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.01072818, 56.47146888], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"GmlID\": \"Polling_Stations.510\", \"OBJECTID\": 510, \"POLLINGDISTRICTREFERENCE\": \"WAK\", \"POLLINGSTATIONID\": \"WAK\", \"POLLINGSTATIONNAME\": \"Kirk Street Sheltered Housing\", \"PS_ADDRESS\": \"ADAMSON COURT, KIRK STREET, DUNDEE, DD2 3EE\", \"UPRN\": \"009059072626\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [337739.942, 731484.195], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"GmlID\": \"Polling_Stations.510\", \"OBJECTID\": 510, \"POLLINGDISTRICTREFERENCE\": \"WAK\", \"POLLINGSTATIONID\": \"WAK\", \"POLLINGSTATIONNAME\": \"Kirk Street Sheltered Housing\", \"PS_ADDRESS\": \"ADAMSON COURT, KIRK STREET, DUNDEE, DD2 3EE\", \"UPRN\": \"009059072626\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 64
     },
     {
@@ -854,7 +854,7 @@
         "UPRN": "009059095128",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.00274576, 56.49269399], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"GmlID\": \"Polling_Stations.511\", \"OBJECTID\": 511, \"POLLINGDISTRICTREFERENCE\": \"WAM\", \"POLLINGSTATIONID\": \"WAM\", \"POLLINGSTATIONNAME\": \"St Andrews PS\", \"PS_ADDRESS\": \"ST ANDREW'S PRIMARY SCHOOL, 45 ST LEONARD PLACE, DUNDEE, DD3 9HD\", \"UPRN\": \"009059095128\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338266.1024, 733839.1219], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"GmlID\": \"Polling_Stations.511\", \"OBJECTID\": 511, \"POLLINGDISTRICTREFERENCE\": \"WAM\", \"POLLINGSTATIONID\": \"WAM\", \"POLLINGSTATIONNAME\": \"St Andrews PS\", \"PS_ADDRESS\": \"ST ANDREW'S PRIMARY SCHOOL, 45 ST LEONARD PLACE, DUNDEE, DD3 9HD\", \"UPRN\": \"009059095128\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 65
     },
     {
@@ -867,7 +867,7 @@
         "UPRN": "009059087175",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98750859, 56.47441525], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"GmlID\": \"Polling_Stations.512\", \"OBJECTID\": 512, \"POLLINGDISTRICTREFERENCE\": \"WAX\", \"POLLINGSTATIONID\": \"WAX\", \"POLLINGSTATIONNAME\": \"Lawton Road Sheltered Housing\", \"PS_ADDRESS\": \"SHELTERED HOUSING COMMUNAL LOUNGE, 11 LAWTON ROAD, DUNDEE, DD3 6SZ\", \"UPRN\": \"009059087175\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339174.906, 731791.302], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"GmlID\": \"Polling_Stations.512\", \"OBJECTID\": 512, \"POLLINGDISTRICTREFERENCE\": \"WAX\", \"POLLINGSTATIONID\": \"WAX\", \"POLLINGSTATIONNAME\": \"Lawton Road Sheltered Housing\", \"PS_ADDRESS\": \"SHELTERED HOUSING COMMUNAL LOUNGE, 11 LAWTON ROAD, DUNDEE, DD3 6SZ\", \"UPRN\": \"009059087175\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 66
     },
     {
@@ -880,7 +880,7 @@
         "UPRN": "009059068894",
         "WARD": "Coldside",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.97497084, 56.46856615], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"GmlID\": \"Polling_Stations.513\", \"OBJECTID\": 513, \"POLLINGDISTRICTREFERENCE\": \"WBB\", \"POLLINGSTATIONID\": \"WBB\", \"POLLINGSTATIONNAME\": \"Alva Square Communal Lounge\", \"PS_ADDRESS\": \"COMMUNITY COMPLEX, 10 ALVA SQUARE, DUNDEE, DD3 6NR\", \"UPRN\": \"009059068894\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339937.899, 731129.332], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"GmlID\": \"Polling_Stations.513\", \"OBJECTID\": 513, \"POLLINGDISTRICTREFERENCE\": \"WBB\", \"POLLINGSTATIONID\": \"WBB\", \"POLLINGSTATIONNAME\": \"Alva Square Communal Lounge\", \"PS_ADDRESS\": \"COMMUNITY COMPLEX, 10 ALVA SQUARE, DUNDEE, DD3 6NR\", \"UPRN\": \"009059068894\", \"WARD\": \"Coldside\"}, \"type\": \"Feature\"}",
         "pk": 67
     },
     {
@@ -893,7 +893,7 @@
         "UPRN": "009059095129",
         "WARD": "Strathmartine",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99098138, 56.48937582], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"GmlID\": \"Polling_Stations.514\", \"OBJECTID\": 514, \"POLLINGDISTRICTREFERENCE\": \"WAV\", \"POLLINGSTATIONID\": \"WAV\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338985.0204, 733459.3355], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"GmlID\": \"Polling_Stations.514\", \"OBJECTID\": 514, \"POLLINGDISTRICTREFERENCE\": \"WAV\", \"POLLINGSTATIONID\": \"WAV\", \"POLLINGSTATIONNAME\": \"Downfield PS\", \"PS_ADDRESS\": \"DOWNFIELD PRIMARY SCHOOL, 20 HALDANE CRESCENT, DUNDEE, DD3 0JP\", \"UPRN\": \"009059095129\", \"WARD\": \"Strathmartine\"}, \"type\": \"Feature\"}",
         "pk": 68
     },
     {
@@ -906,7 +906,7 @@
         "UPRN": "009059037096",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.03904783, 56.46747046], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"GmlID\": \"Polling_Stations.515\", \"OBJECTID\": 515, \"POLLINGDISTRICTREFERENCE\": \"WAA\", \"POLLINGSTATIONID\": \"WAA\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [335988.82, 731065.23], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"GmlID\": \"Polling_Stations.515\", \"OBJECTID\": 515, \"POLLINGDISTRICTREFERENCE\": \"WAA\", \"POLLINGSTATIONID\": \"WAA\", \"POLLINGSTATIONNAME\": \"Menzieshill Community Centre\", \"PS_ADDRESS\": \"Menzieshill Community Centre, Orleans Place, Dundee, DD2 4BH\", \"UPRN\": \"009059037096\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 69
     },
     {
@@ -919,7 +919,7 @@
         "UPRN": "009059048608",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.03531598, 56.47354031], \"type\": \"Point\"}, \"id\": 70, \"properties\": {\"GmlID\": \"Polling_Stations.516\", \"OBJECTID\": 516, \"POLLINGDISTRICTREFERENCE\": \"WAD\", \"POLLINGSTATIONID\": \"WAD\", \"POLLINGSTATIONNAME\": \"Charleston Community Library\", \"PS_ADDRESS\": \"CHARLESTON COMMUNITY CENTRE AND LIBRARY, CRAIGOWAN ROAD, DUNDEE, DD2 4NL\", \"UPRN\": \"009059048608\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [336228.889, 731737.266], \"type\": \"Point\"}, \"id\": 70, \"properties\": {\"GmlID\": \"Polling_Stations.516\", \"OBJECTID\": 516, \"POLLINGDISTRICTREFERENCE\": \"WAD\", \"POLLINGSTATIONID\": \"WAD\", \"POLLINGSTATIONNAME\": \"Charleston Community Library\", \"PS_ADDRESS\": \"CHARLESTON COMMUNITY CENTRE AND LIBRARY, CRAIGOWAN ROAD, DUNDEE, DD2 4NL\", \"UPRN\": \"009059048608\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 70
     },
     {
@@ -932,7 +932,7 @@
         "UPRN": "009059015698",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.91593983, 56.47569294], \"type\": \"Point\"}, \"id\": 71, \"properties\": {\"GmlID\": \"Polling_Stations.517\", \"OBJECTID\": 517, \"POLLINGDISTRICTREFERENCE\": \"EAK\", \"POLLINGSTATIONID\": \"EAK\", \"POLLINGSTATIONNAME\": \"Cullen Place Sheltered Housing\", \"PS_ADDRESS\": \"DCC CANTEEN, 26-30 HUNTLY ROAD, DUNDEE, DD4 7SY\", \"UPRN\": \"009059015698\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [343584.891, 731872.45], \"type\": \"Point\"}, \"id\": 71, \"properties\": {\"GmlID\": \"Polling_Stations.517\", \"OBJECTID\": 517, \"POLLINGDISTRICTREFERENCE\": \"EAK\", \"POLLINGSTATIONID\": \"EAK\", \"POLLINGSTATIONNAME\": \"Cullen Place Sheltered Housing\", \"PS_ADDRESS\": \"DCC CANTEEN, 26-30 HUNTLY ROAD, DUNDEE, DD4 7SY\", \"UPRN\": \"009059015698\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 71
     },
     {
@@ -945,7 +945,7 @@
         "UPRN": "009059046862",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.92711347, 56.48255244], \"type\": \"Point\"}, \"id\": 72, \"properties\": {\"GmlID\": \"Polling_Stations.518\", \"OBJECTID\": 518, \"POLLINGDISTRICTREFERENCE\": \"EAH\", \"POLLINGSTATIONID\": \"EAH\", \"POLLINGSTATIONNAME\": \"Happyhillock Sheltered Housing\", \"PS_ADDRESS\": \"54A HAPPYHILLOCK ROAD, DUNDEE, DD4 8LU\", \"UPRN\": \"009059046862\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342907.0, 732645.074], \"type\": \"Point\"}, \"id\": 72, \"properties\": {\"GmlID\": \"Polling_Stations.518\", \"OBJECTID\": 518, \"POLLINGDISTRICTREFERENCE\": \"EAH\", \"POLLINGSTATIONID\": \"EAH\", \"POLLINGSTATIONNAME\": \"Happyhillock Sheltered Housing\", \"PS_ADDRESS\": \"54A HAPPYHILLOCK ROAD, DUNDEE, DD4 8LU\", \"UPRN\": \"009059046862\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 72
     },
     {
@@ -958,7 +958,7 @@
         "UPRN": "009059008465",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.8535669, 56.47874372], \"type\": \"Point\"}, \"id\": 73, \"properties\": {\"GmlID\": \"Polling_Stations.519\", \"OBJECTID\": 519, \"POLLINGDISTRICTREFERENCE\": \"EAP\", \"POLLINGSTATIONID\": \"EAP\", \"POLLINGSTATIONNAME\": \"Barnhill PS\", \"PS_ADDRESS\": \"BARNHILL PRIMARY SCHOOL, FALKLAND CRESCENT, BROUGHTY FERRY, DUNDEE, DD5 3SQ\", \"UPRN\": \"009059008465\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [347430.704, 732162.518], \"type\": \"Point\"}, \"id\": 73, \"properties\": {\"GmlID\": \"Polling_Stations.519\", \"OBJECTID\": 519, \"POLLINGDISTRICTREFERENCE\": \"EAP\", \"POLLINGSTATIONID\": \"EAP\", \"POLLINGSTATIONNAME\": \"Barnhill PS\", \"PS_ADDRESS\": \"BARNHILL PRIMARY SCHOOL, FALKLAND CRESCENT, BROUGHTY FERRY, DUNDEE, DD5 3SQ\", \"UPRN\": \"009059008465\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 73
     },
     {
@@ -971,7 +971,7 @@
         "UPRN": "009059054826",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.87880252, 56.47006098], \"type\": \"Point\"}, \"id\": 74, \"properties\": {\"GmlID\": \"Polling_Stations.520\", \"OBJECTID\": 520, \"POLLINGDISTRICTREFERENCE\": \"EAN\", \"POLLINGSTATIONID\": \"EAN\", \"POLLINGSTATIONNAME\": \"Eastern PS\", \"PS_ADDRESS\": \"EASTERN PRIMARY SCHOOL, 18 CAMPERDOWN STREET, BROUGHTY FERRY, DUNDEE, DD5 3AE\", \"UPRN\": \"009059054826\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [345864.188, 731215.798], \"type\": \"Point\"}, \"id\": 74, \"properties\": {\"GmlID\": \"Polling_Stations.520\", \"OBJECTID\": 520, \"POLLINGDISTRICTREFERENCE\": \"EAN\", \"POLLINGSTATIONID\": \"EAN\", \"POLLINGSTATIONNAME\": \"Eastern PS\", \"PS_ADDRESS\": \"EASTERN PRIMARY SCHOOL, 18 CAMPERDOWN STREET, BROUGHTY FERRY, DUNDEE, DD5 3AE\", \"UPRN\": \"009059054826\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 74
     },
     {
@@ -984,7 +984,7 @@
         "UPRN": "009059077387",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.8687022, 56.46744758], \"type\": \"Point\"}, \"id\": 75, \"properties\": {\"GmlID\": \"Polling_Stations.521\", \"OBJECTID\": 521, \"POLLINGDISTRICTREFERENCE\": \"EAT\", \"POLLINGSTATIONID\": \"EAT\", \"POLLINGSTATIONNAME\": \"Broughty Ferry New Kirk\", \"PS_ADDRESS\": \"BROUGHTY FERRY EAST CHURCH AND HALL, 370 QUEEN STREET, BROUGHTY FERRY, DUNDEE, DD5 2HQ\", \"UPRN\": \"009059077387\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [346482.6911, 730917.0401], \"type\": \"Point\"}, \"id\": 75, \"properties\": {\"GmlID\": \"Polling_Stations.521\", \"OBJECTID\": 521, \"POLLINGDISTRICTREFERENCE\": \"EAT\", \"POLLINGSTATIONID\": \"EAT\", \"POLLINGSTATIONNAME\": \"Broughty Ferry New Kirk\", \"PS_ADDRESS\": \"BROUGHTY FERRY EAST CHURCH AND HALL, 370 QUEEN STREET, BROUGHTY FERRY, DUNDEE, DD5 2HQ\", \"UPRN\": \"009059077387\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 75
     },
     {
@@ -997,7 +997,7 @@
         "UPRN": "009059101930",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.86868261, 56.46431144], \"type\": \"Point\"}, \"id\": 76, \"properties\": {\"GmlID\": \"Polling_Stations.522\", \"OBJECTID\": 522, \"POLLINGDISTRICTREFERENCE\": \"EAU\", \"POLLINGSTATIONID\": \"EAU\", \"POLLINGSTATIONNAME\": \"Castle Green Leisure Centre\", \"PS_ADDRESS\": \"CASTLE GREEN LEISURE CENTRE, THE ESPLANADE, BROUGHTY FERRY, DUNDEE, DD5 2HA\", \"UPRN\": \"009059101930\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [346479.4869, 730568.0016], \"type\": \"Point\"}, \"id\": 76, \"properties\": {\"GmlID\": \"Polling_Stations.522\", \"OBJECTID\": 522, \"POLLINGDISTRICTREFERENCE\": \"EAU\", \"POLLINGSTATIONID\": \"EAU\", \"POLLINGSTATIONNAME\": \"Castle Green Leisure Centre\", \"PS_ADDRESS\": \"CASTLE GREEN LEISURE CENTRE, THE ESPLANADE, BROUGHTY FERRY, DUNDEE, DD5 2HA\", \"UPRN\": \"009059101930\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 76
     },
     {
@@ -1010,7 +1010,7 @@
         "UPRN": "009059089403",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.85593226, 56.47451774], \"type\": \"Point\"}, \"id\": 77, \"properties\": {\"GmlID\": \"Polling_Stations.523\", \"OBJECTID\": 523, \"POLLINGDISTRICTREFERENCE\": \"EAV\", \"POLLINGSTATIONID\": \"EAV\", \"POLLINGSTATIONNAME\": \"Barnhill Community Centre\", \"PS_ADDRESS\": \"1 CAMPFIELD SQUARE, BROUGHTY FERRY, DUNDEE, DD5 2PU\", \"UPRN\": \"009059089403\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [347279.173, 731694.016], \"type\": \"Point\"}, \"id\": 77, \"properties\": {\"GmlID\": \"Polling_Stations.523\", \"OBJECTID\": 523, \"POLLINGDISTRICTREFERENCE\": \"EAV\", \"POLLINGSTATIONID\": \"EAV\", \"POLLINGSTATIONNAME\": \"Barnhill Community Centre\", \"PS_ADDRESS\": \"1 CAMPFIELD SQUARE, BROUGHTY FERRY, DUNDEE, DD5 2PU\", \"UPRN\": \"009059089403\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 77
     },
     {
@@ -1023,7 +1023,7 @@
         "UPRN": "009059047033",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.9149945, 56.47235655], \"type\": \"Point\"}, \"id\": 78, \"properties\": {\"GmlID\": \"Polling_Stations.524\", \"OBJECTID\": 524, \"POLLINGDISTRICTREFERENCE\": \"EAW\", \"POLLINGSTATIONID\": \"EAW\", \"POLLINGSTATIONNAME\": \"Craigiebarns PS\", \"PS_ADDRESS\": \"CRAIGIEBARNS PRIMARY SCHOOL, BRINGTON ROAD, DUNDEE, DD4 7UH\", \"UPRN\": \"009059047033\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [343638.171, 731500.366], \"type\": \"Point\"}, \"id\": 78, \"properties\": {\"GmlID\": \"Polling_Stations.524\", \"OBJECTID\": 524, \"POLLINGDISTRICTREFERENCE\": \"EAW\", \"POLLINGSTATIONID\": \"EAW\", \"POLLINGSTATIONNAME\": \"Craigiebarns PS\", \"PS_ADDRESS\": \"CRAIGIEBARNS PRIMARY SCHOOL, BRINGTON ROAD, DUNDEE, DD4 7UH\", \"UPRN\": \"009059047033\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 78
     },
     {
@@ -1036,7 +1036,7 @@
         "UPRN": "009059029265",
         "WARD": "The Ferry",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.8681773, 56.47305477], \"type\": \"Point\"}, \"id\": 79, \"properties\": {\"GmlID\": \"Polling_Stations.525\", \"OBJECTID\": 525, \"POLLINGDISTRICTREFERENCE\": \"EAX\", \"POLLINGSTATIONID\": \"EAX\", \"POLLINGSTATIONNAME\": \"Forthill Sheltered Housing\", \"PS_ADDRESS\": \"3A FORTHILL DRIVE, BROUGHTY FERRY, DUNDEE, DD5 3DY\", \"UPRN\": \"009059029265\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [346522.91, 731540.661], \"type\": \"Point\"}, \"id\": 79, \"properties\": {\"GmlID\": \"Polling_Stations.525\", \"OBJECTID\": 525, \"POLLINGDISTRICTREFERENCE\": \"EAX\", \"POLLINGSTATIONID\": \"EAX\", \"POLLINGSTATIONNAME\": \"Forthill Sheltered Housing\", \"PS_ADDRESS\": \"3A FORTHILL DRIVE, BROUGHTY FERRY, DUNDEE, DD5 3DY\", \"UPRN\": \"009059029265\", \"WARD\": \"The Ferry\"}, \"type\": \"Feature\"}",
         "pk": 79
     },
     {
@@ -1049,7 +1049,7 @@
         "UPRN": "009059046431",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95743734, 56.47641939], \"type\": \"Point\"}, \"id\": 80, \"properties\": {\"GmlID\": \"Polling_Stations.526\", \"OBJECTID\": 526, \"POLLINGDISTRICTREFERENCE\": \"EAY\", \"POLLINGSTATIONID\": \"EAY\", \"POLLINGSTATIONNAME\": \"DISC\", \"PS_ADDRESS\": \"DUNDEE INTERNATIONAL SPORTS CENTRE, MAINS LOAN, DUNDEE, DD4 7AA\", \"UPRN\": \"009059046431\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341030.1688, 731988.1333], \"type\": \"Point\"}, \"id\": 80, \"properties\": {\"GmlID\": \"Polling_Stations.526\", \"OBJECTID\": 526, \"POLLINGDISTRICTREFERENCE\": \"EAY\", \"POLLINGSTATIONID\": \"EAY\", \"POLLINGSTATIONNAME\": \"DISC\", \"PS_ADDRESS\": \"DUNDEE INTERNATIONAL SPORTS CENTRE, MAINS LOAN, DUNDEE, DD4 7AA\", \"UPRN\": \"009059046431\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 80
     },
     {
@@ -1062,7 +1062,7 @@
         "UPRN": "009059030595",
         "WARD": "Maryfield",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.95767691, 56.47292634], \"type\": \"Point\"}, \"id\": 81, \"properties\": {\"GmlID\": \"Polling_Stations.527\", \"OBJECTID\": 527, \"POLLINGDISTRICTREFERENCE\": \"EAZ\", \"POLLINGSTATIONID\": \"EAZ\", \"POLLINGSTATIONNAME\": \"Clepington PS\", \"PS_ADDRESS\": \"CLEPINGTON PRIMARY SCHOOL, ELIZA STREET, DUNDEE, DD4 6TQ\", \"UPRN\": \"009059030595\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [341009.997, 731599.597], \"type\": \"Point\"}, \"id\": 81, \"properties\": {\"GmlID\": \"Polling_Stations.527\", \"OBJECTID\": 527, \"POLLINGDISTRICTREFERENCE\": \"EAZ\", \"POLLINGSTATIONID\": \"EAZ\", \"POLLINGSTATIONNAME\": \"Clepington PS\", \"PS_ADDRESS\": \"CLEPINGTON PRIMARY SCHOOL, ELIZA STREET, DUNDEE, DD4 6TQ\", \"UPRN\": \"009059030595\", \"WARD\": \"Maryfield\"}, \"type\": \"Feature\"}",
         "pk": 81
     },
     {
@@ -1075,7 +1075,7 @@
         "UPRN": "009059047033",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.9149945, 56.47235655], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"GmlID\": \"Polling_Stations.528\", \"OBJECTID\": 528, \"POLLINGDISTRICTREFERENCE\": \"EBB\", \"POLLINGSTATIONID\": \"EBB\", \"POLLINGSTATIONNAME\": \"Craigiebarns PS\", \"PS_ADDRESS\": \"CRAIGIEBARNS PRIMARY SCHOOL, BRINGTON ROAD, DUNDEE, DD4 7UH\", \"UPRN\": \"009059047033\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [343638.171, 731500.366], \"type\": \"Point\"}, \"id\": 82, \"properties\": {\"GmlID\": \"Polling_Stations.528\", \"OBJECTID\": 528, \"POLLINGDISTRICTREFERENCE\": \"EBB\", \"POLLINGSTATIONID\": \"EBB\", \"POLLINGSTATIONNAME\": \"Craigiebarns PS\", \"PS_ADDRESS\": \"CRAIGIEBARNS PRIMARY SCHOOL, BRINGTON ROAD, DUNDEE, DD4 7UH\", \"UPRN\": \"009059047033\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 82
     },
     {
@@ -1088,7 +1088,7 @@
         "UPRN": "009059088922",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.99952735, 56.4677264], \"type\": \"Point\"}, \"id\": 83, \"properties\": {\"GmlID\": \"Polling_Stations.529\", \"OBJECTID\": 529, \"POLLINGDISTRICTREFERENCE\": \"WAE\", \"POLLINGSTATIONID\": \"WAE\", \"POLLINGSTATIONNAME\": \"Tullideph Sheltered Housing\", \"PS_ADDRESS\": \"COMMUNAL LOUNGE, 40 TULLIDEPH PLACE, DUNDEE, DD2 2PR\", \"UPRN\": \"009059088922\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338423.8196, 731057.6059], \"type\": \"Point\"}, \"id\": 83, \"properties\": {\"GmlID\": \"Polling_Stations.529\", \"OBJECTID\": 529, \"POLLINGDISTRICTREFERENCE\": \"WAE\", \"POLLINGSTATIONID\": \"WAE\", \"POLLINGSTATIONNAME\": \"Tullideph Sheltered Housing\", \"PS_ADDRESS\": \"COMMUNAL LOUNGE, 40 TULLIDEPH PLACE, DUNDEE, DD2 2PR\", \"UPRN\": \"009059088922\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 83
     },
     {
@@ -1101,7 +1101,7 @@
         "UPRN": "009059013861",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.00329003, 56.46761833], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"GmlID\": \"Polling_Stations.530\", \"OBJECTID\": 530, \"POLLINGDISTRICTREFERENCE\": \"WAF\", \"POLLINGSTATIONID\": \"WAF\", \"POLLINGSTATIONNAME\": \"Morven Terrace Sheltered Housing\", \"PS_ADDRESS\": \"MORVEN SHELTERED HOUSING, 1B MORVEN TERRACE, DUNDEE, DD2 2JU\", \"UPRN\": \"009059013861\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [338191.852, 731048.957], \"type\": \"Point\"}, \"id\": 84, \"properties\": {\"GmlID\": \"Polling_Stations.530\", \"OBJECTID\": 530, \"POLLINGDISTRICTREFERENCE\": \"WAF\", \"POLLINGSTATIONID\": \"WAF\", \"POLLINGSTATIONNAME\": \"Morven Terrace Sheltered Housing\", \"PS_ADDRESS\": \"MORVEN SHELTERED HOUSING, 1B MORVEN TERRACE, DUNDEE, DD2 2JU\", \"UPRN\": \"009059013861\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 84
     },
     {
@@ -1114,7 +1114,7 @@
         "UPRN": "009059052811",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.02310699, 56.45776111], \"type\": \"Point\"}, \"id\": 85, \"properties\": {\"GmlID\": \"Polling_Stations.531\", \"OBJECTID\": 531, \"POLLINGDISTRICTREFERENCE\": \"WAL\", \"POLLINGSTATIONID\": \"WAL\", \"POLLINGSTATIONNAME\": \"The Invercarse Hotel\", \"PS_ADDRESS\": \"The Invercarse Hotel, 371 Perth Road, Dundee, DD2 1PG\", \"UPRN\": \"009059052811\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [336954.7396, 729969.9555], \"type\": \"Point\"}, \"id\": 85, \"properties\": {\"GmlID\": \"Polling_Stations.531\", \"OBJECTID\": 531, \"POLLINGDISTRICTREFERENCE\": \"WAL\", \"POLLINGSTATIONID\": \"WAL\", \"POLLINGSTATIONNAME\": \"The Invercarse Hotel\", \"PS_ADDRESS\": \"The Invercarse Hotel, 371 Perth Road, Dundee, DD2 1PG\", \"UPRN\": \"009059052811\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 85
     },
     {
@@ -1127,7 +1127,7 @@
         "UPRN": "009059063994",
         "WARD": "West End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.98070575, 56.45787801], \"type\": \"Point\"}, \"id\": 86, \"properties\": {\"GmlID\": \"Polling_Stations.532\", \"OBJECTID\": 532, \"POLLINGDISTRICTREFERENCE\": \"WBD\", \"POLLINGSTATIONID\": \"WBD\", \"POLLINGSTATIONNAME\": \"DUSA\", \"PS_ADDRESS\": \"DUNDEE UNIVERSITY STUDENT ASSOCIATION, AIRLIE PLACE, DUNDEE, DD1 4HP\", \"UPRN\": \"009059063994\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [339567.6468, 729944.8822], \"type\": \"Point\"}, \"id\": 86, \"properties\": {\"GmlID\": \"Polling_Stations.532\", \"OBJECTID\": 532, \"POLLINGDISTRICTREFERENCE\": \"WBD\", \"POLLINGSTATIONID\": \"WBD\", \"POLLINGSTATIONNAME\": \"DUSA\", \"PS_ADDRESS\": \"DUNDEE UNIVERSITY STUDENT ASSOCIATION, AIRLIE PLACE, DUNDEE, DD1 4HP\", \"UPRN\": \"009059063994\", \"WARD\": \"West End\"}, \"type\": \"Feature\"}",
         "pk": 86
     },
     {
@@ -1140,7 +1140,7 @@
         "UPRN": "009059002815",
         "WARD": "Lochee",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-3.00731468, 56.47106337], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"GmlID\": \"Polling_Stations.533\", \"OBJECTID\": 533, \"POLLINGDISTRICTREFERENCE\": \"WAY\", \"POLLINGSTATIONID\": \"WAY\", \"POLLINGSTATIONNAME\": \"Lochee Library\", \"PS_ADDRESS\": \"Lochee Library, High Street, Lochee, Dundee, DD2 3AU\", \"UPRN\": \"009059002815\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [337949.5408, 731435.9783], \"type\": \"Point\"}, \"id\": 87, \"properties\": {\"GmlID\": \"Polling_Stations.533\", \"OBJECTID\": 533, \"POLLINGDISTRICTREFERENCE\": \"WAY\", \"POLLINGSTATIONID\": \"WAY\", \"POLLINGSTATIONNAME\": \"Lochee Library\", \"PS_ADDRESS\": \"Lochee Library, High Street, Lochee, Dundee, DD2 3AU\", \"UPRN\": \"009059002815\", \"WARD\": \"Lochee\"}, \"type\": \"Feature\"}",
         "pk": 87
     },
     {
@@ -1153,7 +1153,7 @@
         "UPRN": "009059111557",
         "WARD": "East End",
         "council_id": "DND",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.93799209, 56.4709254], \"type\": \"Point\"}, \"id\": 88, \"properties\": {\"GmlID\": \"Polling_Stations.534\", \"OBJECTID\": 534, \"POLLINGDISTRICTREFERENCE\": \"EBA\", \"POLLINGSTATIONID\": \"EBA\", \"POLLINGSTATIONNAME\": \"Mayfield Sports Centre\", \"PS_ADDRESS\": \"Mayfield Sports Centre, 193 Arbroath Road, DUNDEE, DD4 7HS\", \"UPRN\": \"009059111557\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [342219.44, 731360.19], \"type\": \"Point\"}, \"id\": 88, \"properties\": {\"GmlID\": \"Polling_Stations.534\", \"OBJECTID\": 534, \"POLLINGDISTRICTREFERENCE\": \"EBA\", \"POLLINGSTATIONID\": \"EBA\", \"POLLINGSTATIONNAME\": \"Mayfield Sports Centre\", \"PS_ADDRESS\": \"Mayfield Sports Centre, 193 Arbroath Road, DUNDEE, DD4 7HS\", \"UPRN\": \"009059111557\", \"WARD\": \"East End\"}, \"type\": \"Feature\"}",
         "pk": 88
     }
 ]
