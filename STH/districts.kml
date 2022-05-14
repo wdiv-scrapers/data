@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ServiceExceptionReport SYSTEM "https://www.southampton.gov.uk/geoserver/schemas/wms/1.1.1/WMS_exception_1_1_1.dtd"> <ServiceExceptionReport version="1.1.1" >   <ServiceException>
-      java.lang.RuntimeException: Error getting FeatureType, this should never happen!
-Error getting FeatureType, this should never happen!
-null
-Unable to obtain connection: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)
-Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)
-IO Error: The Network Adapter could not establish the connection
-The Network Adapter could not establish the connection
-Connection timed out: connect
+      Internal error
+featureType: SCC:POLLING_DISTRICTS does not have a properly configured datastore
 </ServiceException></ServiceExceptionReport>
