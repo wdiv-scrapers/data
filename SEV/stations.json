@@ -561,20 +561,20 @@
         "pk": 33
     },
     {
-        "Address": "Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY",
+        "Address": "Fordcombe Village Hall, The Green, Fordcombe, Kent",
         "AreaCode": "BL",
         "CustodianCode": 2245,
-        "Easting": 552619.4686,
+        "Easting": 552679.0,
         "ElectoralDivision": "Sevenoaks Rural South",
-        "Northing": 140268.6793,
+        "Northing": 140211.0,
         "OBJECTID": 34,
         "ParliamentaryConstituency": "Tonbridge and Malling Parliamentary Constituency",
         "PollingDistrict": "Fordcombe",
-        "Postcode": "TN3 0RY",
-        "UPRN": "010035185120",
+        "Postcode": "TN3 0RT",
+        "UPRN": "050002017553",
         "Ward": "Penshurst, Fordcombe & Chiddingstone",
         "council_id": "SEV",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.180338548705448, 51.1413452032741], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe C Of E Primary School, The Green, Fordcombe, Kent, TN3 0RY\", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552619.4686, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 140268.6793, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RY\", \"UPRN\": \"010035185120\", \"Ward\": \"Penshurst, Fordcombe & Chiddingstone\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.181164473891045, 51.140811069025716], \"type\": \"Point\"}, \"properties\": {\"Address\": \"Fordcombe Village Hall, The Green, Fordcombe, Kent \", \"AreaCode\": \"BL\", \"CustodianCode\": 2245, \"Easting\": 552679.0, \"ElectoralDivision\": \"Sevenoaks Rural South\", \"Northing\": 140211.0, \"OBJECTID\": 34, \"ParliamentaryConstituency\": \"Tonbridge and Malling Parliamentary Constituency\", \"PollingDistrict\": \"Fordcombe\", \"Postcode\": \"TN3 0RT\", \"UPRN\": \"050002017553\", \"Ward\": \"Penshurst, Fordcombe & Chiddingstone\"}, \"type\": \"Feature\"}",
         "pk": 34
     },
     {
