@@ -99,6 +99,32 @@
                 ]
             },
             "type": "dataset"
+        },
+        {
+            "attributes": {
+                "errors": [],
+                "name": "Community Councils"
+            },
+            "id": "e768480d7aef433992a521421e6ca15b",
+            "links": {
+                "esriRest": "https://www.arcgis.com/sharing/content/items/e768480d7aef433992a521421e6ca15b?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=e768480d7aef433992a521421e6ca15b",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/e768480d7aef433992a521421e6ca15b",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/e768480d7aef433992a521421e6ca15b"
+            },
+            "meta": {
+                "highlights": {
+                    "tags": [
+                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
+                    ]
+                },
+                "matchedFields": [
+                    "tags",
+                    "stemmedTags",
+                    "synonymTags"
+                ]
+            },
+            "type": "dataset"
         }
     ],
     "links": {
