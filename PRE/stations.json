@@ -424,17 +424,8 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [353359.754932729, 431250.335321684, 353359.834932729, 431250.415321684], \"geometry\": {\"coordinates\": [353359.794932729, 431250.375321684], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"polling_station_address\": \"Symonds Road, Fulwood, Preston, PR2 3BL\", \"polling_station_name\": \"Fulwood United Reformed Church\", \"polling_station_ref\": \"PL1\", \"uprn\": \"10007612649\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [353149.949320931, 430525.965437098, 353150.029320931, 430526.045437098], \"geometry\": {\"coordinates\": [353149.989320931, 430526.005437098], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"polling_station_address\": \"Brook Street, Preston, PR1 7NB\", \"polling_station_name\": \"Plungington Community Centre\", \"polling_station_ref\": \"PL4\", \"uprn\": \"100012747862\"}, \"type\": \"Feature\"}",
         "pk": 47,
-        "polling_station_address": "Symonds Road, Fulwood, Preston, PR2 3BL",
-        "polling_station_name": "Fulwood United Reformed Church",
-        "polling_station_ref": "PL1",
-        "uprn": "10007612649"
-    },
-    {
-        "council_id": "PRE",
-        "geometry": "{\"bbox\": [353149.949320931, 430525.965437098, 353150.029320931, 430526.045437098], \"geometry\": {\"coordinates\": [353149.989320931, 430526.005437098], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"Brook Street, Preston, PR1 7NB\", \"polling_station_name\": \"Plungington Community Centre\", \"polling_station_ref\": \"PL4\", \"uprn\": \"100012747862\"}, \"type\": \"Feature\"}",
-        "pk": 48,
         "polling_station_address": "Brook Street, Preston, PR1 7NB",
         "polling_station_name": "Plungington Community Centre",
         "polling_station_ref": "PL4",
@@ -442,12 +433,21 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [350326.208911457, 430136.288462387, 350326.288911456, 430136.368462387], \"geometry\": {\"coordinates\": [350326.248911457, 430136.328462387], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"Preesall Road, Ashton, Preston, PR2 1PQ\", \"polling_station_name\": \"Oaktree Court\", \"polling_station_ref\": \"LL3\", \"uprn\": \"10093760700\"}, \"type\": \"Feature\"}",
-        "pk": 49,
+        "geometry": "{\"bbox\": [350253.306715412, 430197.534791204, 350253.386715412, 430197.614791204], \"geometry\": {\"coordinates\": [350253.346715412, 430197.574791204], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"polling_station_address\": \"Preesall Road, Ashton, Preston, PR2 1PQ\", \"polling_station_name\": \"Oaktree Court\", \"polling_station_ref\": \"LL3\", \"uprn\": \"10093760700\"}, \"type\": \"Feature\"}",
+        "pk": 48,
         "polling_station_address": "Preesall Road, Ashton, Preston, PR2 1PQ",
         "polling_station_name": "Oaktree Court",
         "polling_station_ref": "LL3",
         "uprn": "10093760700"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353200.482398443, 431402.856012414, 353200.562398443, 431402.936012414], \"geometry\": {\"coordinates\": [353200.522398443, 431402.896012414], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"polling_station_address\": \"131 Brackenbury  Road, Fulwood, Preston, PR2 3BS\", \"polling_station_name\": \"Galloway Hall\", \"polling_station_ref\": \"PL1\", \"uprn\": \"100012749444\"}, \"type\": \"Feature\"}",
+        "pk": 49,
+        "polling_station_address": "131 Brackenbury  Road, Fulwood, Preston, PR2 3BS",
+        "polling_station_name": "Galloway Hall",
+        "polling_station_ref": "PL1",
+        "uprn": "100012749444"
     },
     {
         "council_id": "PRE",
