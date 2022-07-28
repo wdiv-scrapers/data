@@ -19,7 +19,7 @@
     {
         "ADDRESS": "Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ",
         "CURR": "Y",
-        "LABEL": "Brinsley Parish Hall",
+        "LABEL": "Brinsley Parish Hall or Pavilion",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 485,
@@ -30,7 +30,7 @@
         "X": 446390.695,
         "Y": 349466.925,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.309557101844452, 53.04048927121972], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ\", \"CURR\": \"Y\", \"LABEL\": \"Brinsley Parish Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 485, \"Origin\": \"BBC\", \"POLL_DIST\": \"BRY1\", \"POSTCODE\": \"NG16 5BZ\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446390.695, \"Y\": 349466.925}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.309035417830027, 53.04053856455123], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Parish Hall Cordy Lane Brinsley Nottinghamshire NG16 5BZ\", \"CURR\": \"Y\", \"LABEL\": \"Brinsley Parish Hall or Pavilion\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 485, \"Origin\": \"BBC\", \"POLL_DIST\": \"BRY1\", \"POSTCODE\": \"NG16 5BZ\", \"UPDATED\": \"2015-01-12T00:00:00Z\", \"X\": 446390.695, \"Y\": 349466.925}, \"type\": \"Feature\"}",
         "pk": 485
     },
     {
@@ -748,9 +748,9 @@
         "pk": 527
     },
     {
-        "ADDRESS": "Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX",
+        "ADDRESS": "Kettlebrook Lodge Eastwood Road Kimberley Nottinghamshire NG16 2HX",
         "CURR": "Y",
-        "LABEL": "Holy Trinity Church Hall",
+        "LABEL": "Kettlebrook Lodge",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 528,
@@ -758,10 +758,10 @@
         "POLL_DIST": "KIM6",
         "POSTCODE": "NG16 2HX",
         "UPDATED": "2020-02-21T00:00:00Z",
-        "X": 449685.365,
-        "Y": 344836.056,
+        "X": 449555.176,
+        "Y": 344797.727,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.261134983998164, 52.99856972227249], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Church Hall Eastwood Road Kimberley Nottinghamshire NG16 2HX\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 528, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM6\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 449685.365, \"Y\": 344836.056}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.263080430084066, 52.998237246385884], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Kettlebrook Lodge Eastwood Road Kimberley Nottinghamshire NG16 2HX\", \"CURR\": \"Y\", \"LABEL\": \"Kettlebrook Lodge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 528, \"Origin\": \"BBC\", \"POLL_DIST\": \"KIM6\", \"POSTCODE\": \"NG16 2HX\", \"UPDATED\": \"2020-02-21T00:00:00Z\", \"X\": 449555.176, \"Y\": 344797.727}, \"type\": \"Feature\"}",
         "pk": 528
     },
     {
@@ -1022,7 +1022,7 @@
     {
         "ADDRESS": "Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE",
         "CURR": "Y",
-        "LABEL": "Units 1 and 2 Oldmoor Lodge Car Park",
+        "LABEL": "Hickory's Smoke House",
         "Licence": "OGL",
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 544,
@@ -1033,7 +1033,7 @@
         "X": 451769.315,
         "Y": 343489.225,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.229836203864136, 52.986675225927726], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE\", \"CURR\": \"Y\", \"LABEL\": \"Units 1 and 2 Oldmoor Lodge Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 544, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1QE\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 451769.315, \"Y\": 343489.225}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.230312063133088, 52.98629062590933], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Old Moor Lodge Mornington Crescent Nuthall Nottinghamshire NG16 1QE\", \"CURR\": \"Y\", \"LABEL\": \"Hickory's Smoke House\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 544, \"Origin\": \"BBC\", \"POLL_DIST\": \"NES2\", \"POSTCODE\": \"NG16 1QE\", \"UPDATED\": \"2018-08-29T00:00:00Z\", \"X\": 451769.315, \"Y\": 343489.225}, \"type\": \"Feature\"}",
         "pk": 544
     },
     {
