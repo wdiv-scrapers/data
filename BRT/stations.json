@@ -262,13 +262,13 @@
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 499,
         "Origin": "BBC",
-        "POLL_DIST": "ACT5 (West)",
+        "POLL_DIST": "ACT5",
         "POSTCODE": "NG9 3RN",
         "UPDATED": "2016-03-07T00:00:00Z",
         "X": 448803.4244,
         "Y": 338791.1041,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.275181925475796, 52.94431621585265], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salcey Drive Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Park Temporary Station Salcey Drive\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 499, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5 (West)\", \"POSTCODE\": \"NG9 3RN\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 448803.4244, \"Y\": 338791.1041}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.275181925475796, 52.94431621585265], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Salcey Drive Trowell Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"Trowell Park Temporary Station Salcey Drive\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 499, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5\", \"POSTCODE\": \"NG9 3RN\", \"UPDATED\": \"2016-03-07T00:00:00Z\", \"X\": 448803.4244, \"Y\": 338791.1041}, \"type\": \"Feature\"}",
         "pk": 499
     },
     {
@@ -304,23 +304,6 @@
         "council_id": "BRT",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.246903268730068, 52.91952066456869], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Former School Bungalow Eskdale Junior School Eskdale Drive Chilwell Nottinghamshire NG9 5FN\", \"CURR\": \"Y\", \"LABEL\": \"School Bungalow, Eskdale Primary School\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 501, \"Origin\": \"BBC\", \"POLL_DIST\": \"CHW2 (West)\", \"POSTCODE\": \"NG9 5FN\", \"UPDATED\": \"2019-03-08T00:00:00Z\", \"X\": 450732.541, \"Y\": 336052.359}, \"type\": \"Feature\"}",
         "pk": 501
-    },
-    {
-        "ADDRESS": "Bramcote Hills Sport & Community College Moor Lane Bramcote Nottinghamshire NG9 3GA",
-        "CURR": "Y",
-        "LABEL": "Bramcote Hills College Car Park",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 502,
-        "Origin": "BBC",
-        "POLL_DIST": "BCT2 (West)",
-        "POSTCODE": "NG9 3GA",
-        "UPDATED": "2016-04-28T00:00:00Z",
-        "X": 450742.7393,
-        "Y": 338512.4922,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.246368414977208, 52.941632751522185], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Bramcote Hills Sport & Community College Moor Lane Bramcote Nottinghamshire NG9 3GA\", \"CURR\": \"Y\", \"LABEL\": \"Bramcote Hills College Car Park\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 502, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2 (West)\", \"POSTCODE\": \"NG9 3GA\", \"UPDATED\": \"2016-04-28T00:00:00Z\", \"X\": 450742.7393, \"Y\": 338512.4922}, \"type\": \"Feature\"}",
-        "pk": 502
     },
     {
         "ADDRESS": "Smithurst Road Giltbrook Nottinghamshire",
@@ -1137,23 +1120,6 @@
         "council_id": "BRT",
         "geometry": "{\"geometry\": {\"coordinates\": [-1.254124710196618, 52.90520863243786], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Coronation Hall Portland Road Toton Nottinghamshire NG9 6EW \", \"CURR\": \"Y\", \"LABEL\": \"Coronation Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 550, \"Origin\": \"BBC\", \"POLL_DIST\": \"TCM1\", \"POSTCODE\": \"NG9 6EW\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 450263.516, \"Y\": 334455.214}, \"type\": \"Feature\"}",
         "pk": 550
-    },
-    {
-        "ADDRESS": "Car Park Pit Lane Trowell Nottinghamshire",
-        "CURR": "Y",
-        "LABEL": "Pit Lane Car Park Temporary Station",
-        "Licence": "OGL",
-        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "OBJECTID": 551,
-        "Origin": "BBC",
-        "POLL_DIST": "ACT5 (East)",
-        "POSTCODE": "NG9 3QF",
-        "UPDATED": "2021-02-19T00:00:00Z",
-        "X": 449180.0358,
-        "Y": 339106.943,
-        "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.269530335545911, 52.947120890134435], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Car Park Pit Lane Trowell Nottinghamshire  \", \"CURR\": \"Y\", \"LABEL\": \"Pit Lane Car Park Temporary Station\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 551, \"Origin\": \"BBC\", \"POLL_DIST\": \"ACT5 (East)\", \"POSTCODE\": \"NG9 3QF\", \"UPDATED\": \"2021-02-19T00:00:00Z\", \"X\": 449180.0358, \"Y\": 339106.943}, \"type\": \"Feature\"}",
-        "pk": 551
     },
     {
         "ADDRESS": "Beeston Methodist Church Chilwell Road Beeston Nottinghamshire NG9 1EH",
