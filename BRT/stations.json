@@ -993,13 +993,13 @@
         "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 543,
         "Origin": "BBC",
-        "POLL_DIST": "BCT2 (East)",
+        "POLL_DIST": "BCT2",
         "POSTCODE": "NG9 3FW",
         "UPDATED": "2019-02-25T00:00:00Z",
         "X": 451049.454,
         "Y": 338448.665,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.241814770171907, 52.94103011080159], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW\", \"CURR\": \"Y\", \"LABEL\": \"Creo\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 543, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2 (East)\", \"POSTCODE\": \"NG9 3FW\", \"UPDATED\": \"2019-02-25T00:00:00Z\", \"X\": 451049.454, \"Y\": 338448.665}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.241814770171907, 52.94103011080159], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Creo Fitness Gym 40B Seven Oaks Crescent Bramcote Nottinghamshire NG9 3FW\", \"CURR\": \"Y\", \"LABEL\": \"Creo\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 543, \"Origin\": \"BBC\", \"POLL_DIST\": \"BCT2\", \"POSTCODE\": \"NG9 3FW\", \"UPDATED\": \"2019-02-25T00:00:00Z\", \"X\": 451049.454, \"Y\": 338448.665}, \"type\": \"Feature\"}",
         "pk": 543
     },
     {
