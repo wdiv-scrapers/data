@@ -76,14 +76,15 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Community Councils"
+                "name": "Community Councils",
+                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0"
             },
-            "id": "e768480d7aef433992a521421e6ca15b",
+            "id": "0d911f5dd4e14c03b0b434ed6076fe00_0",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/e768480d7aef433992a521421e6ca15b?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=e768480d7aef433992a521421e6ca15b",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/e768480d7aef433992a521421e6ca15b",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/e768480d7aef433992a521421e6ca15b"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/0d911f5dd4e14c03b0b434ed6076fe00?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=0d911f5dd4e14c03b0b434ed6076fe00",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0"
             },
             "meta": {
                 "highlights": {
@@ -102,15 +103,14 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Community Councils",
-                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer/0"
+                "name": "Community Councils"
             },
-            "id": "0d911f5dd4e14c03b0b434ed6076fe00_0",
+            "id": "e768480d7aef433992a521421e6ca15b",
             "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/0d911f5dd4e14c03b0b434ed6076fe00?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=0d911f5dd4e14c03b0b434ed6076fe00",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/0d911f5dd4e14c03b0b434ed6076fe00_0"
+                "esriRest": "https://www.arcgis.com/sharing/content/items/e768480d7aef433992a521421e6ca15b?f=json",
+                "itemPage": "https://www.arcgis.com/home/item.html?id=e768480d7aef433992a521421e6ca15b",
+                "rawEs": "https://opendata.arcgis.com/api/es/datasets/e768480d7aef433992a521421e6ca15b",
+                "self": "https://opendata.arcgis.com/api/v3/datasets/e768480d7aef433992a521421e6ca15b"
             },
             "meta": {
                 "highlights": {
