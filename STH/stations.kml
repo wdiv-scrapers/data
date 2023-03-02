@@ -96,13 +96,13 @@
             <Placemark id="POLLING_STATIONS.8">
                 <name>GC</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Banister Primary School, Archers Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Freemantle Community Centre, Randolph Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: GC&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Freemantle&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4091655316475311</longitude>
-                    <latitude>50.91684474752691</latitude>
+                    <longitude>-1.4295306229168574</longitude>
+                    <latitude>50.917409705321724</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -126,7 +126,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4091655316475302,50.91684474752691</coordinates>
+                    <coordinates>-1.4295306229168494,50.91740970532173</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.9">
@@ -278,7 +278,7 @@
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Itchen South Scout Group HQ (Main Hall), Stanford Court, Sullivan Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DE&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bitterne&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
                     <longitude>-1.3380026928336548</longitude>
@@ -602,7 +602,7 @@
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;The Royal British Legion Club, Windover Close, SO19 5JS&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DA&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bitterne&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
                     <longitude>-1.3418858766195143</longitude>
@@ -638,7 +638,7 @@
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;St. Christophers Church Hall, Pepys Avenue&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DB&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bitterne&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
                     <longitude>-1.335819894471527</longitude>
@@ -674,7 +674,7 @@
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;The Centre, Tunstall Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DD&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bitterne&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
                     <longitude>-1.32859881979563</longitude>
@@ -710,7 +710,7 @@
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Kanes Hill Primary School, Hinkler Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DC&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bitterne&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
                     <longitude>-1.3280607605631616</longitude>
@@ -1032,13 +1032,13 @@
             <Placemark id="POLLING_STATIONS.34">
                 <name>EB</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Bitterne Park School Sports Hall, Dimond Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Portacabin, Riverside Car Park No.2, Woodmill Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: EB&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bitterne Park&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.3704988204603126</longitude>
-                    <latitude>50.929816836347555</latitude>
+                    <longitude>-1.3744780375946561</longitude>
+                    <latitude>50.93424002220623</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -1062,7 +1062,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.3704988204603064,50.92981683634755</coordinates>
+                    <coordinates>-1.37447803759466,50.93424002220623</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.35">
@@ -1104,13 +1104,13 @@
             <Placemark id="POLLING_STATIONS.36">
                 <name>AE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;St Joseph's Church Hall, Bugle Street&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Lighthouse Christian Centre (Main Hall), St Marys Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AE&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4055941189765804</longitude>
-                    <latitude>50.89901325310641</latitude>
+                    <longitude>-1.3978654501600971</longitude>
+                    <latitude>50.90887411833562</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -1134,7 +1134,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4055941189766012,50.89901325310641</coordinates>
+                    <coordinates>-1.3978654501600936,50.90887411833562</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.37">
@@ -1209,42 +1209,6 @@
                     <coordinates>-1.3959194631261687,50.90502509723718</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="POLLING_STATIONS.39">
-                <name>CF</name>
-                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Northam Community Centre, Kent Street&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Polling District: CF&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bevois&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;/table&gt;</description>
-                <LookAt>
-                    <longitude>-1.3880421693366287</longitude>
-                    <latitude>50.90957278707405</latitude>
-                    <altitude>0.0</altitude>
-                    <heading>0.0</heading>
-                    <tilt>0.0</tilt>
-                    <range>0.0</range>
-                    <altitudeMode>clampToGround</altitudeMode>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <scale>2.0</scale>
-                        <heading>0.0</heading>
-                        <Icon>
-                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
-                            <refreshInterval>0.0</refreshInterval>
-                            <viewRefreshTime>0.0</viewRefreshTime>
-                            <viewBoundScale>0.0</viewBoundScale>
-                        </Icon>
-                    </IconStyle>
-                    <LabelStyle>
-                        <color>00ffffff</color>
-                        <scale>0.0</scale>
-                    </LabelStyle>
-                </Style>
-                <Point>
-                    <coordinates>-1.3880421693366254,50.90957278707405</coordinates>
-                </Point>
-            </Placemark>
             <Placemark id="POLLING_STATIONS.40">
                 <name>CE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
@@ -1284,13 +1248,13 @@
             <Placemark id="POLLING_STATIONS.41">
                 <name>AB</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Central Baptist Church Hall, Devonshire Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;St Josephs Catholic Church Hall (Main Hall), 48 Bugle Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AB&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4092936232608508</longitude>
-                    <latitude>50.91199513649235</latitude>
+                    <longitude>-1.4055941189765804</longitude>
+                    <latitude>50.89901325310641</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -1314,43 +1278,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4092936232608482,50.911995136492344</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="POLLING_STATIONS.42">
-                <name>AF</name>
-                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Central Hall (Main Hall) St Marys Street&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Polling District: AF&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;/table&gt;</description>
-                <LookAt>
-                    <longitude>-1.3973725787269586</longitude>
-                    <latitude>50.901675624024904</latitude>
-                    <altitude>0.0</altitude>
-                    <heading>0.0</heading>
-                    <tilt>0.0</tilt>
-                    <range>0.0</range>
-                    <altitudeMode>clampToGround</altitudeMode>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <scale>2.0</scale>
-                        <heading>0.0</heading>
-                        <Icon>
-                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
-                            <refreshInterval>0.0</refreshInterval>
-                            <viewRefreshTime>0.0</viewRefreshTime>
-                            <viewBoundScale>0.0</viewBoundScale>
-                        </Icon>
-                    </IconStyle>
-                    <LabelStyle>
-                        <color>00ffffff</color>
-                        <scale>0.0</scale>
-                    </LabelStyle>
-                </Style>
-                <Point>
-                    <coordinates>-1.3973725787269522,50.901675624024904</coordinates>
+                    <coordinates>-1.4055941189766012,50.89901325310641</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.43">
@@ -2040,7 +1968,7 @@
             <Placemark id="POLLING_STATIONS.62">
                 <name>BD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Hollybrook Meeting Room, Seagarth Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Surestart Bassett/Lordswood (Meeting Room), Hollybrook Junior School, &lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: BD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bassett&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
@@ -2148,13 +2076,13 @@
             <Placemark id="POLLING_STATIONS.65">
                 <name>IE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Freemantle Community Centre, Randolph St&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Mansel Park Pavilion (Community Hall), Evenlode Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: IE&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Millbrook&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.429613753320865</longitude>
-                    <latitude>50.91736505533275</latitude>
+                    <longitude>-1.4597218246601642</longitude>
+                    <latitude>50.92836232751173</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2178,43 +2106,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4296137533208637,50.917365055332745</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="POLLING_STATIONS.66">
-                <name>IF</name>
-                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Millbrook Baptist Church Hall, Testwood Road&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Polling District: IF&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Millbrook&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;/table&gt;</description>
-                <LookAt>
-                    <longitude>-1.4354858989788823</longitude>
-                    <latitude>50.91364385081556</latitude>
-                    <altitude>0.0</altitude>
-                    <heading>0.0</heading>
-                    <tilt>0.0</tilt>
-                    <range>0.0</range>
-                    <altitudeMode>clampToGround</altitudeMode>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <scale>2.0</scale>
-                        <heading>0.0</heading>
-                        <Icon>
-                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
-                            <refreshInterval>0.0</refreshInterval>
-                            <viewRefreshTime>0.0</viewRefreshTime>
-                            <viewBoundScale>0.0</viewBoundScale>
-                        </Icon>
-                    </IconStyle>
-                    <LabelStyle>
-                        <color>00ffffff</color>
-                        <scale>0.0</scale>
-                    </LabelStyle>
-                </Style>
-                <Point>
-                    <coordinates>-1.4354858989788852,50.91364385081555</coordinates>
+                    <coordinates>-1.4597218246601664,50.92836232751174</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.67">
@@ -2325,42 +2217,6 @@
                     <coordinates>-1.4632270344896967,50.92695898618036</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="POLLING_STATIONS.70">
-                <name>LG</name>
-                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;The Ship Inn (Function Room), 41 Old Redbridge Road&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Polling District: LG&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Ward: Redbridge&lt;/td&gt;&lt;/tr&gt;&#xD;
-&lt;/table&gt;</description>
-                <LookAt>
-                    <longitude>-1.4725889474963765</longitude>
-                    <latitude>50.92101850000989</latitude>
-                    <altitude>0.0</altitude>
-                    <heading>0.0</heading>
-                    <tilt>0.0</tilt>
-                    <range>0.0</range>
-                    <altitudeMode>clampToGround</altitudeMode>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <scale>2.0</scale>
-                        <heading>0.0</heading>
-                        <Icon>
-                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
-                            <refreshInterval>0.0</refreshInterval>
-                            <viewRefreshTime>0.0</viewRefreshTime>
-                            <viewBoundScale>0.0</viewBoundScale>
-                        </Icon>
-                    </IconStyle>
-                    <LabelStyle>
-                        <color>00ffffff</color>
-                        <scale>0.0</scale>
-                    </LabelStyle>
-                </Style>
-                <Point>
-                    <coordinates>-1.47258894749639,50.921018500009886</coordinates>
-                </Point>
-            </Placemark>
             <Placemark id="POLLING_STATIONS.71">
                 <name>FG</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
@@ -2400,13 +2256,13 @@
             <Placemark id="POLLING_STATIONS.72">
                 <name>AA</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Central Baptist Church Hall, Devonshire Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Central Hall (Main Hall), St Mary Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AA&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4093654427979772</longitude>
-                    <latitude>50.91199750337325</latitude>
+                    <longitude>-1.397387049509618</longitude>
+                    <latitude>50.90168406992066</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2430,7 +2286,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4093654427979856,50.91199750337325</coordinates>
+                    <coordinates>-1.397387049509616,50.90168406992066</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.73">
@@ -2472,13 +2328,13 @@
             <Placemark id="POLLING_STATIONS.74">
                 <name>CC</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Edmund Kell Unitarian Church Hall, Bellevue Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Northam Community Centre (Hall), Kent Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: CC&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bevois&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4028653780741251</longitude>
-                    <latitude>50.91233454454939</latitude>
+                    <longitude>-1.3880421693366287</longitude>
+                    <latitude>50.90957278707405</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2502,19 +2358,19 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4028653780741296,50.912334544549395</coordinates>
+                    <coordinates>-1.3880421693366254,50.90957278707405</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.75">
                 <name>GE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Seventh Day Adventist Church Hall, Shirley Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Freemantle/Millbrook Baptist Church Hall (Main Hall), Testwood Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: GE&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Freemantle&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4217648227814834</longitude>
-                    <latitude>50.91365423052713</latitude>
+                    <longitude>-1.4354858989788823</longitude>
+                    <latitude>50.91364385081556</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2538,7 +2394,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4217648227814779,50.913654230527136</coordinates>
+                    <coordinates>-1.4354858989788852,50.91364385081555</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.76">
@@ -2832,13 +2688,13 @@
             <Placemark id="POLLING_STATIONS.84">
                 <name>LF</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Millbrook Christian Centre, Wimpson Lane/ Kendal Avenue&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;The Ship Inn (Function Room), 41 Old Redbridge Road &lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: LF&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Redbridge&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.457616412780581</longitude>
-                    <latitude>50.921428118329445</latitude>
+                    <longitude>-1.4725889474963765</longitude>
+                    <latitude>50.92101850000989</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2862,7 +2718,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4576164127805815,50.921428118329445</coordinates>
+                    <coordinates>-1.47258894749639,50.921018500009886</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.85">
@@ -3300,13 +3156,13 @@
             <Placemark id="POLLING_STATIONS.97">
                 <name>PA</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;St Patricks Church Hall, Jn of Manor Road South/Portsmouth Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;TBC (Bowling Club, Temple Road)&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: PA&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Woolston&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.3743253130023874</longitude>
-                    <latitude>50.89817444250743</latitude>
+                    <longitude>-1.367006223312515</longitude>
+                    <latitude>50.89475415804391</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -3330,7 +3186,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.374325313002367,50.898174442507425</coordinates>
+                    <coordinates>-1.3670062233125115,50.8947541580439</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.98">
@@ -3449,6 +3305,366 @@
 &lt;tr&gt;&lt;td&gt;Ward: &lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <Style/>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.158">
+                <name>BG</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Highfield Church Centre (Lounge), Highfield Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: BG&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Bassett&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.3955270491140652</longitude>
+                    <latitude>50.930009936531995</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.3955270491140639,50.930009936531995</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.159">
+                <name>EH</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Mansbridge Primary School (Community Room), Octavia Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: EH&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Bitterne Park&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.3695962827191295</longitude>
+                    <latitude>50.93962086421994</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.369596282719131,50.93962086421995</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.160">
+                <name>KF</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Highfield Church Centre (Lounge), Highfield Lane&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: KF&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Portswood&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.3955270491140652</longitude>
+                    <latitude>50.930009936531995</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.3955270491140639,50.930009936531995</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.161">
+                <name>OG</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Scout HQ (Main Hall), Brickfield Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: OG&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Swaythling&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.386831670780623</longitude>
+                    <latitude>50.93198833287133</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.386831670780624,50.93198833287133</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.162">
+                <name>PF</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Woolston Community Centre (David Tyrie Hall), Church Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: PF&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Woolston&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.3781234645904021</longitude>
+                    <latitude>50.89352332574157</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.378123464590407,50.89352332574157</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.163">
+                <name>QA</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Banister Primary School (Old Nursery Building), Archers Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: QA&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Banister &amp; Polygon&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.4091655316475311</longitude>
+                    <latitude>50.91684474752691</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.4091655316475302,50.91684474752691</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.164">
+                <name>QB</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Seventh Day Adventist Church Hall (Hall at Rear), Shirley Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: QB&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Banister &amp; Polygon&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.4217648227814834</longitude>
+                    <latitude>50.91365423052713</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.4217648227814779,50.913654230527136</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.165">
+                <name>QC</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Edmund Kell Unitarian Church Hall (Main Hall), Bellevue Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: QC&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Banister &amp; Polygon&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.4028653780741251</longitude>
+                    <latitude>50.91233454454939</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.4028653780741296,50.912334544549395</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.166">
+                <name>QD</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Central Baptist Church Hall (Main Hall), Devonshire Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: QD&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Banister &amp; Polygon&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.4093654427979772</longitude>
+                    <latitude>50.91199750337325</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.4093654427979856,50.91199750337325</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="POLLING_STATIONS.167">
+                <name>QE</name>
+                <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Central Baptist Church Hall (The Lounge), Devonshire Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Polling District: QE&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Ward: Banister &amp; Polygon&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;/table&gt;</description>
+                <LookAt>
+                    <longitude>-1.4092936232608508</longitude>
+                    <latitude>50.91199513649235</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>2.0</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://www.southampton.gov.uk/geoserver/kml/icon/Polling_Stations_Labelled?0.0.0=&amp;0.1.0=&amp;0.2.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-1.4092936232608482,50.911995136492344</coordinates>
+                </Point>
             </Placemark>
         </Folder>
     </Document>
