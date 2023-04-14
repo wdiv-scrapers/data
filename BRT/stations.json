@@ -723,8 +723,8 @@
         "ADDRESS": "St Marys Church Lounge Church Street Eastwood Nottinghamshire",
         "CURR": "Y",
         "LABEL": "St Marys Church Lounge",
-        "Licence": "PSMA",
-        "LicenceURL": null,
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 41,
         "Origin": "BBC",
         "PD": "ESM2",
@@ -734,7 +734,7 @@
         "X": 446533.0,
         "Y": 346817.0,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Lounge Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Marys Church Lounge\", \"Licence\": \"PSMA\", \"LicenceURL\": null, \"OBJECTID\": 41, \"Origin\": \"BBC\", \"PD\": \"ESM2\", \"POSTCODE\": \"NG16 3BQ\", \"Sub_PD\": \"ESM2\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 446533.0, \"Y\": 346817.0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Lounge Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Marys Church Lounge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 41, \"Origin\": \"BBC\", \"PD\": \"ESM2\", \"POSTCODE\": \"NG16 3BQ\", \"Sub_PD\": \"ESM2\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 446533.0, \"Y\": 346817.0}, \"type\": \"Feature\"}",
         "pk": 41
     },
     {
@@ -759,8 +759,8 @@
         "ADDRESS": "St Marys Church Lounge Church Street Eastwood Nottinghamshire",
         "CURR": "Y",
         "LABEL": "St Marys Church Lounge",
-        "Licence": "PSMA",
-        "LicenceURL": null,
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 43,
         "Origin": "BBC",
         "PD": "ESM3",
@@ -770,7 +770,7 @@
         "X": 446533.0,
         "Y": 346817.0,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Lounge Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Marys Church Lounge\", \"Licence\": \"PSMA\", \"LicenceURL\": null, \"OBJECTID\": 43, \"Origin\": \"BBC\", \"PD\": \"ESM3\", \"POSTCODE\": \"NG16 3BQ\", \"Sub_PD\": \"ESM3\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 446533.0, \"Y\": 346817.0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.307815254953223, 53.0166594353657], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"St Marys Church Lounge Church Street Eastwood Nottinghamshire\", \"CURR\": \"Y\", \"LABEL\": \"St Marys Church Lounge\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 43, \"Origin\": \"BBC\", \"PD\": \"ESM3\", \"POSTCODE\": \"NG16 3BQ\", \"Sub_PD\": \"ESM3\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 446533.0, \"Y\": 346817.0}, \"type\": \"Feature\"}",
         "pk": 43
     },
     {
@@ -1065,8 +1065,8 @@
         "ADDRESS": "Holy Trinity Church Hall Church Hill Kimberley Nottinghamshire NG16 2HY",
         "CURR": "Y",
         "LABEL": "Holy Trinity Church Hall",
-        "Licence": "PSMA",
-        "LicenceURL": null,
+        "Licence": "OGL",
+        "LicenceURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "OBJECTID": 60,
         "Origin": "BBC",
         "PD": "KIM6",
@@ -1076,7 +1076,7 @@
         "X": 449682.0,
         "Y": 344835.0,
         "council_id": "BRT",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.261184744611988, 52.9985621388789], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall Church Hill Kimberley Nottinghamshire NG16 2HY\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"PSMA\", \"LicenceURL\": null, \"OBJECTID\": 60, \"Origin\": \"BBC\", \"PD\": \"KIM6\", \"POSTCODE\": \"NG16 2HY\", \"Sub_PD\": \"KIM6\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 449682.0, \"Y\": 344835.0}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.261184744611988, 52.9985621388789], \"type\": \"Point\"}, \"properties\": {\"ADDRESS\": \"Holy Trinity Church Hall Church Hill Kimberley Nottinghamshire NG16 2HY\", \"CURR\": \"Y\", \"LABEL\": \"Holy Trinity Church Hall\", \"Licence\": \"OGL\", \"LicenceURL\": \"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\", \"OBJECTID\": 60, \"Origin\": \"BBC\", \"PD\": \"KIM6\", \"POSTCODE\": \"NG16 2HY\", \"Sub_PD\": \"KIM6\", \"Updated\": \"2023-03-02T00:00:00Z\", \"X\": 449682.0, \"Y\": 344835.0}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
