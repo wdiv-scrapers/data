@@ -28,7 +28,7 @@
         "maintainer": "City of York Council - Business Intelligence Hub",
         "maintainer_email": "business.intelligence@york.gov.uk",
         "metadata_created": "2015-03-18T16:56:40.431336",
-        "metadata_modified": "2020-02-13T13:59:57.765395",
+        "metadata_modified": "2023-04-17T09:57:59.453937",
         "name": "polling-stations",
         "notes": "Polling Stations in York.\r\n\r\n*Please note that the data published within this dataset is a live API link to CYC's GIS server. Any changes made to the master copy of the data will be immediately reflected in the resources of this dataset.The date shown in the \"Last Updated\" field of each GIS resource reflects when the data was first published.",
         "num_resources": 3,
@@ -67,10 +67,10 @@
                 "package_id": "cf8d4605-04f5-4685-b002-bb6a57173168",
                 "position": 0,
                 "resource_type": null,
-                "revision_id": "fe8a1485-6e06-4801-970a-1884937f787a",
+                "revision_id": "0b8eebac-f3e3-439b-979c-1e8e762b9f7e",
                 "size": null,
                 "state": "active",
-                "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.csv",
+                "url": "https://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.csv",
                 "url_type": ""
             },
             {
@@ -89,11 +89,11 @@
                 "package_id": "cf8d4605-04f5-4685-b002-bb6a57173168",
                 "position": 1,
                 "resource_type": null,
-                "revision_id": "624074e4-c667-4526-bcb6-12f1e8e04399",
+                "revision_id": "022bc8b0-ac58-459c-b886-e9bf2e249ca6",
                 "size": null,
                 "state": "active",
-                "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.kml",
-                "url_type": null
+                "url": "https://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.kml",
+                "url_type": ""
             },
             {
                 "cache_last_updated": null,
@@ -111,10 +111,10 @@
                 "package_id": "cf8d4605-04f5-4685-b002-bb6a57173168",
                 "position": 2,
                 "resource_type": null,
-                "revision_id": "624074e4-c667-4526-bcb6-12f1e8e04399",
+                "revision_id": "f6bad02f-1af8-49c3-a614-5ef8ba21a186",
                 "size": null,
                 "state": "active",
-                "url": "http://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.geojson",
+                "url": "https://data.cyc.opendata.arcgis.com/datasets/d0174d41daad4386a3727a9b1e573ace_2.geojson",
                 "url_type": null
             }
         ],
