@@ -3,43 +3,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling districts",
-                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0"
-            },
-            "id": "6dac129ea3cb492b961186e316e09690_0",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/6dac129ea3cb492b961186e316e09690?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=6dac129ea3cb492b961186e316e09690",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/6dac129ea3cb492b961186e316e09690_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/6dac129ea3cb492b961186e316e09690_0"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> districts"
-                    ],
-                    "searchDescription": [
-                        "Parliamentary <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> district boundaries are used\u00a0to manage elections. They are sub-divisions of the 2017 electoral ward boundaries."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags",
-                    "synonymTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Polling places",
                 "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0"
             },
