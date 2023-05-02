@@ -3,42 +3,6 @@
         {
             "attributes": {
                 "errors": [],
-                "name": "Polling places",
-                "url": "https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0"
-            },
-            "id": "909e45688aa646199cad8e8616ddef7a_0",
-            "links": {
-                "esriRest": "https://www.arcgis.com/sharing/content/items/909e45688aa646199cad8e8616ddef7a?f=json",
-                "itemPage": "https://www.arcgis.com/home/item.html?id=909e45688aa646199cad8e8616ddef7a",
-                "rawEs": "https://opendata.arcgis.com/api/es/datasets/909e45688aa646199cad8e8616ddef7a_0",
-                "self": "https://opendata.arcgis.com/api/v3/datasets/909e45688aa646199cad8e8616ddef7a_0"
-            },
-            "meta": {
-                "highlights": {
-                    "name": [
-                        "<mark class=\"hub-search-highlight name-highlight\">Polling</mark> places"
-                    ],
-                    "searchDescription": [
-                        "Location of <mark class=\"hub-search-highlight searchDescription-highlight\">polling</mark> places to be used for elections in PKC.\u00a0A polling place is a building or area in which a polling station is located. There can be more than one polling station in a polling place. Polling Places can change over time due to the availability of the buildings."
-                    ],
-                    "tags": [
-                        "<mark class=\"hub-search-highlight tags-highlight\">polling</mark>"
-                    ]
-                },
-                "matchedFields": [
-                    "name",
-                    "stemmedName",
-                    "stemmedSearchDescription",
-                    "tags",
-                    "searchDescription",
-                    "stemmedTags"
-                ]
-            },
-            "type": "dataset"
-        },
-        {
-            "attributes": {
-                "errors": [],
                 "name": "Community Councils"
             },
             "id": "e768480d7aef433992a521421e6ca15b",
