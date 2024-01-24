@@ -559,8 +559,17 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [353719.618043014, 430254.577398888, 353719.698043014, 430254.657398888], \"geometry\": {\"coordinates\": [353719.658043014, 430254.617398888], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"polling_station_address\": \"Lancaster Road North, Preston, PR1 2SQ\", \"polling_station_name\": \"City Church Preston\", \"polling_station_ref\": \"PL3\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352893.176920597, 432963.74500359, 352975.030893345, 433045.73717209], \"geometry\": {\"coordinates\": [[[352897.916749124, 433024.040905359], [352894.986572091, 433017.062916484], [352893.388488981, 433009.665322514], [352893.176920597, 433002.100039637], [352894.359071648, 432994.62469449], [352896.894685398, 432987.493850985], [352900.69741456, 432980.950341445], [352905.637761755, 432975.21699724], [352911.547489384, 432970.48906053], [352918.22534876, 432966.927535529], [352925.443933392, 432964.6537057], [352932.957423038, 432963.74500359], [352940.509954819, 432964.23237396], [352947.844336324, 432966.099219996], [352954.710803986, 432969.281968496], [352960.875528487, 432973.672234777], [352966.128577526, 432979.120513586], [352970.291064818, 432985.441270322], [352973.221241851, 432992.419259197], [352974.819324962, 432999.816853167], [352975.030893345, 433007.382136044], [352973.848742294, 433014.857481191], [352971.313128545, 433021.988324696], [352967.510399382, 433028.531834236], [352962.570052187, 433034.265178441], [352956.660324558, 433038.993115151], [352949.982465182, 433042.554640152], [352942.76388055, 433044.828469981], [352935.250390905, 433045.73717209], [352927.697859124, 433045.249801721], [352920.363477619, 433043.382955684], [352913.497009956, 433040.200207184], [352907.332285455, 433035.809940904], [352902.079236417, 433030.361662095], [352897.916749124, 433024.040905359]]], \"type\": \"Polygon\"}, \"id\": 62, \"properties\": {\"polling_station_ref\": \"GR2\"}, \"type\": \"Feature\"}",
         "pk": 62,
+        "polling_station_address": null,
+        "polling_station_name": null,
+        "polling_station_ref": "GR2",
+        "uprn": null
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [353719.618043014, 430254.577398888, 353719.698043014, 430254.657398888], \"geometry\": {\"coordinates\": [353719.658043014, 430254.617398888], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"polling_station_address\": \"Lancaster Road North, Preston, PR1 2SQ\", \"polling_station_name\": \"City Church Preston\", \"polling_station_ref\": \"PL3\"}, \"type\": \"Feature\"}",
+        "pk": 63,
         "polling_station_address": "Lancaster Road North, Preston, PR1 2SQ",
         "polling_station_name": "City Church Preston",
         "polling_station_ref": "PL3",
@@ -568,16 +577,7 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [352426.352173554, 431730.604557009, 352426.432173554, 431730.684557009], \"geometry\": {\"coordinates\": [352426.392173554, 431730.644557009], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
-        "pk": 63,
-        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
-        "polling_station_name": "The Padua Room",
-        "polling_station_ref": "CA4, CA5",
-        "uprn": "100012401494"
-    },
-    {
-        "council_id": "PRE",
-        "geometry": "{\"bbox\": [352419.873925664, 431725.421958697, 352419.953925664, 431725.501958697], \"geometry\": {\"coordinates\": [352419.913925664, 431725.461958697], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352426.352173554, 431730.604557009, 352426.432173554, 431730.684557009], \"geometry\": {\"coordinates\": [352426.392173554, 431730.644557009], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
         "pk": 64,
         "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
         "polling_station_name": "The Padua Room",
@@ -586,7 +586,7 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [352430.239122288, 431726.717608275, 352430.319122288, 431726.797608275], \"geometry\": {\"coordinates\": [352430.279122288, 431726.757608275], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352419.873925664, 431725.421958697, 352419.953925664, 431725.501958697], \"geometry\": {\"coordinates\": [352419.913925664, 431725.461958697], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
         "pk": 65,
         "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
         "polling_station_name": "The Padua Room",
@@ -595,7 +595,7 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [352427.647823132, 431725.421958697, 352427.727823132, 431725.501958697], \"geometry\": {\"coordinates\": [352427.687823132, 431725.461958697], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352430.239122288, 431726.717608275, 352430.319122288, 431726.797608275], \"geometry\": {\"coordinates\": [352430.279122288, 431726.757608275], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
         "pk": 66,
         "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
         "polling_station_name": "The Padua Room",
@@ -604,7 +604,7 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [352415.98697693, 431720.239360385, 352416.06697693, 431720.319360385], \"geometry\": {\"coordinates\": [352416.02697693, 431720.279360385], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352427.647823132, 431725.421958697, 352427.727823132, 431725.501958697], \"geometry\": {\"coordinates\": [352427.687823132, 431725.461958697], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
         "pk": 67,
         "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
         "polling_station_name": "The Padua Room",
@@ -613,8 +613,17 @@
     },
     {
         "council_id": "PRE",
-        "geometry": "{\"bbox\": [355834.308646397, 436734.127634429, 355834.388646397, 436734.207634429], \"geometry\": {\"coordinates\": [355834.348646397, 436734.167634429], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"polling_station_address\": \"Church Lane, Goosnargh, Preston, PR3 2BD\", \"polling_station_name\": \"Goosnargh Village Hall\", \"polling_station_ref\": \"RE1, RE2, RN2\", \"uprn\": \"10007602270\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"bbox\": [352415.98697693, 431720.239360385, 352416.06697693, 431720.319360385], \"geometry\": {\"coordinates\": [352416.02697693, 431720.279360385], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"polling_station_address\": \"St Anthony's Church, Cadley Causeway, Fulwood, PR RX\", \"polling_station_name\": \"The Padua Room\", \"polling_station_ref\": \"CA4, CA5\", \"uprn\": \"100012401494\"}, \"type\": \"Feature\"}",
         "pk": 68,
+        "polling_station_address": "St Anthony's Church, Cadley Causeway, Fulwood, PR RX",
+        "polling_station_name": "The Padua Room",
+        "polling_station_ref": "CA4, CA5",
+        "uprn": "100012401494"
+    },
+    {
+        "council_id": "PRE",
+        "geometry": "{\"bbox\": [355834.308646397, 436734.127634429, 355834.388646397, 436734.207634429], \"geometry\": {\"coordinates\": [355834.348646397, 436734.167634429], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"polling_station_address\": \"Church Lane, Goosnargh, Preston, PR3 2BD\", \"polling_station_name\": \"Goosnargh Village Hall\", \"polling_station_ref\": \"RE1, RE2, RN2\", \"uprn\": \"10007602270\"}, \"type\": \"Feature\"}",
+        "pk": 69,
         "polling_station_address": "Church Lane, Goosnargh, Preston, PR3 2BD",
         "polling_station_name": "Goosnargh Village Hall",
         "polling_station_ref": "RE1, RE2, RN2",
