@@ -672,13 +672,13 @@
             <Placemark id="POLLING_STATIONS.24">
                 <name>DD</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;The Centre, Tunstall Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;The Phoenix Bar and Cafe Lounge, Bursledon Road, Highpoint Venue&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: DD&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Thornhill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.32859881979563</longitude>
-                    <latitude>50.9040204070873</latitude>
+                    <longitude>-1.3307331189999587</longitude>
+                    <latitude>50.90173660307648</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -702,7 +702,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.328598819795627,50.90402040708731</coordinates>
+                    <coordinates>-1.3307331189999598,50.90173660307648</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.25">
@@ -1248,13 +1248,13 @@
             <Placemark id="POLLING_STATIONS.41">
                 <name>AB</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;St Josephs Catholic Church Hall (Main Hall), 48 Bugle Street&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Stella Maris House, 48A Bugle Street&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: AB&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Bargate&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4055941189765804</longitude>
-                    <latitude>50.89901325310641</latitude>
+                    <longitude>-1.405758206863581</longitude>
+                    <latitude>50.89945315572797</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -1278,7 +1278,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4055941189766012,50.89901325310641</coordinates>
+                    <coordinates>-1.4057582068635892,50.89945315572797</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.43">
@@ -2076,13 +2076,13 @@
             <Placemark id="POLLING_STATIONS.65">
                 <name>IE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Mansel Park Pavilion (Community Hall), Evenlode Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Holy Family Church, Redbridge Hill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: IE&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Millbrook&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4597218246601642</longitude>
-                    <latitude>50.92836232751173</latitude>
+                    <longitude>-1.4508230740189134</longitude>
+                    <latitude>50.92709672137398</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2106,19 +2106,19 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4597218246601664,50.92836232751174</coordinates>
+                    <coordinates>-1.450823074018907,50.92709672137398</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.67">
                 <name>LE</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Mansel Park Pavilion, Evenlode Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;Holy Family Church, Redbridge Hill&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: LE&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Redbridge&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.4597572498054063</longitude>
-                    <latitude>50.928244114784654</latitude>
+                    <longitude>-1.4510951773839196</longitude>
+                    <latitude>50.9271061493088</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -2142,7 +2142,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.4597572498054074,50.92824411478466</coordinates>
+                    <coordinates>-1.4510951773839182,50.9271061493088</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.68">
@@ -3156,13 +3156,13 @@
             <Placemark id="POLLING_STATIONS.97">
                 <name>PA</name>
                 <description>&lt;table style=&quot;border-collapse:collapse; border:none; padding: 0.25 0.5em;&quot; class=&quot;featureInfo&quot;&gt;&#xD;
-&lt;tr&gt;&lt;td&gt;Woolston and District Bowling Club, Temple Road&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;St Patricks Church, 45 Portsmouth Road&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Polling District: PA&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;tr&gt;&lt;td&gt;Ward: Woolston&lt;/td&gt;&lt;/tr&gt;&#xD;
 &lt;/table&gt;</description>
                 <LookAt>
-                    <longitude>-1.367006223312515</longitude>
-                    <latitude>50.89475415804391</latitude>
+                    <longitude>-1.374103083492443</longitude>
+                    <latitude>50.8984834150306</latitude>
                     <altitude>0.0</altitude>
                     <heading>0.0</heading>
                     <tilt>0.0</tilt>
@@ -3186,7 +3186,7 @@
                     </LabelStyle>
                 </Style>
                 <Point>
-                    <coordinates>-1.3670062233125115,50.8947541580439</coordinates>
+                    <coordinates>-1.3741030834924437,50.898483415030604</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="POLLING_STATIONS.98">
