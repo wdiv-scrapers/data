@@ -1,51 +1,44 @@
 {
-    "createdAt": "2014-08-12T08:45:39Z",
+    "contact": {
+        "email": "open.data@barnet.gov.uk",
+        "title": "Barnet Open Data Team"
+    },
+    "createdAt": "2014-08-12T08:45:39.000Z",
     "custom": {
-        "contact": {
-            "email": "open.data@barnet.gov.uk",
-            "title": "Barnet Open Data Team"
-        },
-        "nextReviewDate": "2020-09-30",
         "retention": "4 years",
         "service": "Elections Team",
         "unit": "Assurance"
     },
     "description": "<p>A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.</p>",
+    "descriptionIframe": "",
     "descriptionText": "A list of polling stations in the London Borough of Barnet. Includes Polling District, Ward and address details.",
     "id": "2z3pv",
     "licence": {
         "title": "UK Open Government Licence (OGL v3)",
         "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
     },
+    "links": {},
     "masthead": "london-borough-of-barnet",
-    "nextUpdateDue": "2020-09-30",
-    "notifications": [],
+    "nextReviewDate": "2020-09-30",
+    "nextReviewDateIncrement": 12,
     "resources": {
         "w9n": {
             "description": "",
-            "descriptionMarkdown": "",
-            "descriptionText": "",
             "format": "csv",
+            "hash": "3c1da01ec8628567b6e2787576f99eaa",
             "order": 0,
-            "origin": {
-                "key": "barnet/dataset/polling-stations-in-barnet/2019-10-03T15:34:35/LBBPollingStationList-2019.csv"
-            },
-            "qa": {
-                "hash": "3c1da01ec8628567b6e2787576f99eaa",
-                "httpStatus": 200,
-                "mimetype": "text/csv",
-                "size": 8507,
-                "timestamp": "2019-10-03T15:34:37Z"
-            },
+            "origin": "barnet/dataset/2z3pv/2019-10-03T15:34:35/LBBPollingStationList-2019.csv",
+            "size": 8507,
             "timeFrame": {
-                "gte": "2019-09-30",
-                "lte": "2019-09-30"
+                "gte": "2019-09",
+                "lte": "2019-09"
             },
             "title": "Polling Stations",
             "url": "https://open.barnet.gov.uk/download/2z3pv/w9n/LBBPollingStationList-2019.csv"
         }
     },
     "sharing": "public",
+    "site": "barnet",
     "tags": [
         "Wards",
         "Elections",
@@ -59,7 +52,6 @@
     "topics": [
         "council-and-democracy"
     ],
-    "updateFrequency": "Annually",
-    "updatedAt": "2019-10-03T15:34:37Z",
+    "updatedAt": "2019-10-03T15:34:37.000Z",
     "whitelist": []
 }
