@@ -29,7 +29,7 @@
         "Polling_di": "RN5",
         "Ward": "Nailbourne",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.2008499774510397, 51.19841864754272]], \"type\": \"MultiPoint\"}, \"id\": 3, \"properties\": {\"GlobalID\": \"{D9A59B2A-A9B0-4BEA-ACDC-18C05F888ECD}\", \"OBJECTID\": 3, \"Polling_di\": \"RN5\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[11.36450000008566, 0.9999999998063255]], \"type\": \"MultiPoint\"}, \"id\": 3, \"properties\": {\"GlobalID\": \"{D9A59B2A-A9B0-4BEA-ACDC-18C05F888ECD}\", \"OBJECTID\": 3, \"Polling_di\": \"RN5\", \"Ward\": \"Nailbourne\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{DBAFE6E7-9DB6-4FC8-8901-EA7FC854492C}",
@@ -277,7 +277,7 @@
         "Polling_di": "CB2",
         "Ward": "Barton",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0953152488761784, 51.27812331839345]], \"type\": \"MultiPoint\"}, \"id\": 34, \"properties\": {\"GlobalID\": \"{823BEDF8-3F41-4E9D-9708-C97FAB2BAD78}\", \"OBJECTID\": 34, \"Polling_di\": \"CB2\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.101767604588737, 51.27512810749815]], \"type\": \"MultiPoint\"}, \"id\": 34, \"properties\": {\"GlobalID\": \"{823BEDF8-3F41-4E9D-9708-C97FAB2BAD78}\", \"OBJECTID\": 34, \"Polling_di\": \"CB2\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{D7F248A7-B0D0-498F-91EE-848E1D5B6CB0}",
@@ -749,7 +749,7 @@
         "Polling_di": "CB8",
         "Ward": "Barton",
         "council_id": "CAT",
-        "geometry": "{\"geometry\": {\"coordinates\": [[1.0953152488761784, 51.27812331839345]], \"type\": \"MultiPoint\"}, \"id\": 93, \"properties\": {\"GlobalID\": \"{5357427A-D561-42DF-A15B-FE7E0EE029CB}\", \"OBJECTID\": 93, \"Polling_di\": \"CB8\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [[1.101767604588737, 51.27512810749815]], \"type\": \"MultiPoint\"}, \"id\": 93, \"properties\": {\"GlobalID\": \"{5357427A-D561-42DF-A15B-FE7E0EE029CB}\", \"OBJECTID\": 93, \"Polling_di\": \"CB8\", \"Ward\": \"Barton\"}, \"type\": \"Feature\"}"
     },
     {
         "GlobalID": "{F0643EC2-81EA-4C4E-9A19-1BD8533FCCA4}",
