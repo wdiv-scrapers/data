@@ -276,9 +276,9 @@
         "DUAL": "Yes",
         "DUAL_STN": "Used by ASHA and ASHC",
         "LOCALITY": "Montpelier",
-        "LOCATION_NAME": "B & A St Andrews Park Hall",
+        "LOCATION_NAME": "B&A St Bartholomew's Parish Hall",
         "OBJECTID": 190,
-        "PAO": "B & A St Andrews Park Hall",
+        "PAO": "B&A St Bartholomew's Parish Hall",
         "POLLING_DISTRICT": "ASHA",
         "POSTCODE": "BS6 5BX",
         "SAON": "",
@@ -286,7 +286,7 @@
         "UPRN": 338210,
         "UPRN_2": "000000338210",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.584280577043362, 51.47275060630173], \"type\": \"Point\"}, \"id\": 190, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ASHA and ASHC\", \"LOCALITY\": \"Montpelier\", \"LOCATION_NAME\": \"B & A St Andrews Park Hall\", \"OBJECTID\": 190, \"PAO\": \"B & A St Andrews Park Hall\", \"POLLING_DISTRICT\": \"ASHA\", \"POSTCODE\": \"BS6 5BX\", \"SAON\": \" \", \"STREET\": \"Sommerville Road\", \"UPRN\": 338210, \"UPRN_2\": \"000000338210\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.584280577043362, 51.47275060630173], \"type\": \"Point\"}, \"id\": 190, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by ASHA and ASHC\", \"LOCALITY\": \"Montpelier\", \"LOCATION_NAME\": \"B&A St Bartholomew's Parish Hall\", \"OBJECTID\": 190, \"PAO\": \"B&A St Bartholomew's Parish Hall\", \"POLLING_DISTRICT\": \"ASHA\", \"POSTCODE\": \"BS6 5BX\", \"SAON\": \" \", \"STREET\": \"Sommerville Road\", \"UPRN\": 338210, \"UPRN_2\": \"000000338210\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -922,17 +922,17 @@
         "DUAL": "No",
         "DUAL_STN": null,
         "LOCALITY": "St George",
-        "LOCATION_NAME": "Speedwell Methodist Church",
+        "LOCATION_NAME": "The Haven at Speedwell",
         "OBJECTID": 228,
-        "PAO": "Speedwell Methodist Church",
+        "PAO": "378",
         "POLLING_DISTRICT": "SGCB",
-        "POSTCODE": "BS15 1ES",
+        "POSTCODE": "BS15 9JN",
         "SAON": "",
         "STREET": "Speedwell Road",
         "UPRN": 280154,
         "UPRN_2": "000000280154",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5239901754515834, 51.466551541314324], \"type\": \"Point\"}, \"id\": 228, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"Speedwell Methodist Church\", \"OBJECTID\": 228, \"PAO\": \"Speedwell Methodist Church\", \"POLLING_DISTRICT\": \"SGCB\", \"POSTCODE\": \"BS15 1ES\", \"SAON\": \" \", \"STREET\": \"Speedwell Road\", \"UPRN\": 280154, \"UPRN_2\": \"000000280154\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5239901754515834, 51.466551541314324], \"type\": \"Point\"}, \"id\": 228, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"St George\", \"LOCATION_NAME\": \"The Haven at Speedwell\", \"OBJECTID\": 228, \"PAO\": \"378\", \"POLLING_DISTRICT\": \"SGCB\", \"POSTCODE\": \"BS15 9JN\", \"SAON\": \" \", \"STREET\": \"Speedwell Road\", \"UPRN\": 280154, \"UPRN_2\": \"000000280154\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -952,21 +952,21 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.538897615127812, 51.478826929380794], \"type\": \"Point\"}, \"id\": 229, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used for ESVE and ESVD\", \"LOCALITY\": \"Fishponds\", \"LOCATION_NAME\": \"All Saints Church\", \"OBJECTID\": 229, \"PAO\": null, \"POLLING_DISTRICT\": \"ESVE\", \"POSTCODE\": \"BS16 2BW\", \"SAON\": \" \", \"STREET\": \"Grove Road\", \"UPRN\": 302580, \"UPRN_2\": \"000000302580\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "British Road Entrance",
+        "ACCESS_DESRIPTION": null,
         "DUAL": "Yes",
         "DUAL_STN": "Used by BEDD and BEDF",
         "LOCALITY": "Bedminster",
-        "LOCATION_NAME": "Compass Point South Street Primary School",
+        "LOCATION_NAME": "Bedminster Children's Centre",
         "OBJECTID": 230,
-        "PAO": "British Road Entrance",
+        "PAO": "Bedminster Children's Centre",
         "POLLING_DISTRICT": "BEDD",
-        "POSTCODE": "BS3 3AU",
+        "POSTCODE": "BS3 3BY",
         "SAON": "",
-        "STREET": "South Street",
-        "UPRN": 126428,
-        "UPRN_2": "000000126428",
+        "STREET": "British Road",
+        "UPRN": 278140,
+        "UPRN_2": "000000278140",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6055737081012467, 51.437586538067066], \"type\": \"Point\"}, \"id\": 230, \"properties\": {\"ACCESS_DESRIPTION\": \"British Road Entrance\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDD and BEDF\", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Compass Point South Street Primary School\", \"OBJECTID\": 230, \"PAO\": \"British Road Entrance\", \"POLLING_DISTRICT\": \"BEDD\", \"POSTCODE\": \"BS3 3AU\", \"SAON\": \" \", \"STREET\": \"South Street\", \"UPRN\": 126428, \"UPRN_2\": \"000000126428\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6055737081012467, 51.437586538067066], \"type\": \"Point\"}, \"id\": 230, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDD and BEDF\", \"LOCALITY\": \"Bedminster\", \"LOCATION_NAME\": \"Bedminster Children's Centre\", \"OBJECTID\": 230, \"PAO\": \"Bedminster Children's Centre\", \"POLLING_DISTRICT\": \"BEDD\", \"POSTCODE\": \"BS3 3BY\", \"SAON\": \" \", \"STREET\": \"British Road\", \"UPRN\": 278140, \"UPRN_2\": \"000000278140\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1615,21 +1615,21 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-2.619451992910173, 51.50972880218299], \"type\": \"Point\"}, \"id\": 268, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HEBC and HEBD\", \"LOCALITY\": \"Henbury\", \"LOCATION_NAME\": \"Henbury Library\", \"OBJECTID\": 268, \"PAO\": \"Henbury Library\", \"POLLING_DISTRICT\": \"HEBC\", \"POSTCODE\": \"BS10 7DR\", \"SAON\": \" \", \"STREET\": \"Crow Lane\", \"UPRN\": 3424, \"UPRN_2\": \"000000003424\"}, \"type\": \"Feature\"}"
     },
     {
-        "ACCESS_DESRIPTION": "Queen Ann Road access",
+        "ACCESS_DESRIPTION": null,
         "DUAL": "Yes",
         "DUAL_STN": "Used by LAWH and LAWF",
-        "LOCALITY": "Redfield",
-        "LOCATION_NAME": "Stanley Room, St. Luke's Church",
+        "LOCALITY": "Barton Hill",
+        "LOCATION_NAME": "Barton Hill Academy",
         "OBJECTID": 269,
-        "PAO": "Queen Ann Road access",
+        "PAO": "Barton Hill Academy",
         "POLLING_DISTRICT": "LAWH",
-        "POSTCODE": "BS5 9FB",
+        "POSTCODE": "BS5 9TX",
         "SAON": "",
-        "STREET": "Church Street",
-        "UPRN": 237055,
-        "UPRN_2": "000000237055",
+        "STREET": "Queen Ann Road",
+        "UPRN": 274316,
+        "UPRN_2": "000000274316",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5639263436268602, 51.45444989729934], \"type\": \"Point\"}, \"id\": 269, \"properties\": {\"ACCESS_DESRIPTION\": \"Queen Ann Road access\", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by LAWH and LAWF\", \"LOCALITY\": \"Redfield\", \"LOCATION_NAME\": \"Stanley Room, St. Luke's Church\", \"OBJECTID\": 269, \"PAO\": \"Queen Ann Road access\", \"POLLING_DISTRICT\": \"LAWH\", \"POSTCODE\": \"BS5 9FB\", \"SAON\": \" \", \"STREET\": \"Church Street\", \"UPRN\": 237055, \"UPRN_2\": \"000000237055\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.564665348204618, 51.45412520489615], \"type\": \"Point\"}, \"id\": 269, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by LAWH and LAWF\", \"LOCALITY\": \"Barton Hill\", \"LOCATION_NAME\": \"Barton Hill Academy\", \"OBJECTID\": 269, \"PAO\": \"Barton Hill Academy\", \"POLLING_DISTRICT\": \"LAWH\", \"POSTCODE\": \"BS5 9TX\", \"SAON\": \" \", \"STREET\": \"Queen Ann Road\", \"UPRN\": 274316, \"UPRN_2\": \"000000274316\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": "",
@@ -1857,17 +1857,17 @@
         "DUAL": "Trip",
         "DUAL_STN": "Used by BIAD, BIAF  and BIAC",
         "LOCALITY": "Horfield",
-        "LOCATION_NAME": "Brynland Hall",
+        "LOCATION_NAME": "B&A The Brynland Hall",
         "OBJECTID": 283,
-        "PAO": "B And A 279 Gloucester Road Bishopston Bristol BS7 8NY",
+        "PAO": "B&A The Brynland Hall",
         "POLLING_DISTRICT": "BIAC",
-        "POSTCODE": "BS7 8NY",
+        "POSTCODE": "BS7 9DU",
         "SAON": "",
-        "STREET": "Gloucester Road",
+        "STREET": "Brynland Avenue",
         "UPRN": 47990,
         "UPRN_2": "000000047990",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5889925027578062, 51.47942922404272], \"type\": \"Point\"}, \"id\": 283, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Trip\", \"DUAL_STN\": \"Used by BIAD, BIAF  and BIAC\", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Brynland Hall\", \"OBJECTID\": 283, \"PAO\": \"B And A 279 Gloucester Road Bishopston Bristol BS7 8NY\", \"POLLING_DISTRICT\": \"BIAC\", \"POSTCODE\": \"BS7 8NY\", \"SAON\": \" \", \"STREET\": \"Gloucester Road\", \"UPRN\": 47990, \"UPRN_2\": \"000000047990\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5889925027578062, 51.47942922404272], \"type\": \"Point\"}, \"id\": 283, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Trip\", \"DUAL_STN\": \"Used by BIAD, BIAF  and BIAC\", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"B&A The Brynland Hall\", \"OBJECTID\": 283, \"PAO\": \"B&A The Brynland Hall\", \"POLLING_DISTRICT\": \"BIAC\", \"POSTCODE\": \"BS7 9DU\", \"SAON\": \" \", \"STREET\": \"Brynland Avenue\", \"UPRN\": 47990, \"UPRN_2\": \"000000047990\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
