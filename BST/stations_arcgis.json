@@ -2727,14 +2727,14 @@
         "LOCATION_NAME": "The Hub, Fedden Buildings",
         "OBJECTID": 334,
         "PAO": "The Hub, Fedden Buildings",
-        "POLLING_DISTRICT": "LOCB",
+        "POLLING_DISTRICT": "LOCD",
         "POSTCODE": "BS7 9FB",
         "SAON": null,
         "STREET": "Gainsborough Square",
         "UPRN": 356762,
         "UPRN_2": "000000356762",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.562487897196038, 51.49016370680852], \"type\": \"Point\"}, \"id\": 334, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by LOCD and LOCE\", \"LOCALITY\": \"Lockleaze\", \"LOCATION_NAME\": \"The Hub, Fedden Buildings\", \"OBJECTID\": 334, \"PAO\": \"The Hub, Fedden Buildings\", \"POLLING_DISTRICT\": \"LOCB\", \"POSTCODE\": \"BS7 9FB\", \"SAON\": null, \"STREET\": \"Gainsborough Square\", \"UPRN\": 356762, \"UPRN_2\": \"000000356762\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.562487897196038, 51.49016370680852], \"type\": \"Point\"}, \"id\": 334, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by LOCD and LOCE\", \"LOCALITY\": \"Lockleaze\", \"LOCATION_NAME\": \"The Hub, Fedden Buildings\", \"OBJECTID\": 334, \"PAO\": \"The Hub, Fedden Buildings\", \"POLLING_DISTRICT\": \"LOCD\", \"POSTCODE\": \"BS7 9FB\", \"SAON\": null, \"STREET\": \"Gainsborough Square\", \"UPRN\": 356762, \"UPRN_2\": \"000000356762\"}, \"type\": \"Feature\"}"
     },
     {
         "ACCESS_DESRIPTION": null,
