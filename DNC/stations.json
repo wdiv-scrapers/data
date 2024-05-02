@@ -507,7 +507,7 @@
         "UPRN": "100051973234",
         "WARD": "Edenthorpe and Kirk Sandall Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.071383486262602, 53.55630264501867], \"type\": \"Point\"}, \"id\": 972, \"properties\": {\"ADDRESS\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"OBJECTID\": 972, \"POLLINGPLA\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"POLLING_DI\": \"UB\", \"UPRN\": \"100051973234\", \"WARD\": \"Edenthorpe and Kirk Sandall Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.074765200568689, 53.55580971053111], \"type\": \"Point\"}, \"id\": 972, \"properties\": {\"ADDRESS\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"OBJECTID\": 972, \"POLLINGPLA\": \"Church Balk Centre, Off Marian Road, Edenthorpe, DN3 2PT\", \"POLLING_DI\": \"UB\", \"UPRN\": \"100051973234\", \"WARD\": \"Edenthorpe and Kirk Sandall Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Armthorpe Community Centre, Welfare Park, Church Street, DN3 3AG",
@@ -1110,14 +1110,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.163011269263007, 53.610993633003545], \"type\": \"Point\"}, \"id\": 1033, \"properties\": {\"ADDRESS\": \"Littlemoor Childrens Centre & School, Alfred Road, DN6 0PZ\", \"OBJECTID\": 1033, \"POLLINGPLA\": \"Littlemoor Childrens Centre & School, Alfred Road, DN6 0PZ\", \"POLLING_DI\": \"PC\", \"UPRN\": \"100052206583\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "5th Woodlands Scout Hall, Windmill Balk Lane, DN6 7AN",
+        "ADDRESS": "Scout Hall, Windmill Balk Lane, Woodlands, Doncaster, DN6 7AN",
         "OBJECTID": 1034,
         "POLLINGPLA": "5th Woodlands Scout Hall, Windmill Balk Lane, DN6 7AN",
         "POLLING_DI": "OC",
         "UPRN": "010006614232",
         "WARD": "Adwick le Street and Carcroft Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1855998464958775, 53.56944103874592], \"type\": \"Point\"}, \"id\": 1034, \"properties\": {\"ADDRESS\": \"5th Woodlands Scout Hall, Windmill Balk Lane, DN6 7AN\", \"OBJECTID\": 1034, \"POLLINGPLA\": \"5th Woodlands Scout Hall, Windmill Balk Lane, DN6 7AN\", \"POLLING_DI\": \"OC\", \"UPRN\": \"010006614232\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1876718607382848, 53.56836261612355], \"type\": \"Point\"}, \"id\": 1034, \"properties\": {\"ADDRESS\": \"Scout Hall, Windmill Balk Lane, Woodlands, Doncaster, DN6 7AN\", \"OBJECTID\": 1034, \"POLLINGPLA\": \"5th Woodlands Scout Hall, Windmill Balk Lane, DN6 7AN\", \"POLLING_DI\": \"OC\", \"UPRN\": \"010006614232\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Whinfell Close Communal Hall, Yealand Close, DN6 7DY",
@@ -1240,14 +1240,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1709809215351203, 53.63178974417489], \"type\": \"Point\"}, \"id\": 1047, \"properties\": {\"ADDRESS\": \"Norton Community Hall, High Street, DN6 9HD\", \"OBJECTID\": 1047, \"POLLINGPLA\": \"Norton Community Hall, High Street, DN6 9HD\", \"POLLING_DI\": \"PE\", \"UPRN\": \"100051983892\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Owston Hall Hotel Owston Lane, Doncaster DN6 9JF",
+        "ADDRESS": "Owston Hall Hotel All Saints Church, Stockbridge Lane, Owston, Doncaster, DN6 9JFOwston Lane, Doncaster DN6 9JF",
         "OBJECTID": 1048,
-        "POLLINGPLA": "Owston Hall Hotel Owston Lane, Doncaster DN6 9JF",
+        "POLLINGPLA": "All Saints Church, Stockbridge Lane, Owston, Doncaster, DN6 9JF",
         "POLLING_DI": "PI",
-        "UPRN": "010006588775",
+        "UPRN": "010006617579",
         "WARD": "Norton and Askern Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1704257411998558, 53.59366485948723], \"type\": \"Point\"}, \"id\": 1048, \"properties\": {\"ADDRESS\": \"Owston Hall Hotel Owston Lane, Doncaster DN6 9JF\", \"OBJECTID\": 1048, \"POLLINGPLA\": \"Owston Hall Hotel Owston Lane, Doncaster DN6 9JF\", \"POLLING_DI\": \"PI\", \"UPRN\": \"010006588775\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.168934256177914, 53.594225099342154], \"type\": \"Point\"}, \"id\": 1048, \"properties\": {\"ADDRESS\": \"Owston Hall Hotel All Saints Church, Stockbridge Lane, Owston, Doncaster, DN6 9JFOwston Lane, Doncaster DN6 9JF\", \"OBJECTID\": 1048, \"POLLINGPLA\": \"All Saints Church, Stockbridge Lane, Owston, Doncaster, DN6 9JF\", \"POLLING_DI\": \"PI\", \"UPRN\": \"010006617579\", \"WARD\": \"Norton and Askern Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "The Burghwallis Public House, Scorcher Hills Lane, DN6 9JT",
@@ -1430,14 +1430,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9657221716744994, 53.61306508493179], \"type\": \"Point\"}, \"id\": 1069, \"properties\": {\"ADDRESS\": \"Thorne & Moorends Town Council Offices, Band Room, Browns Lane, DN8 5AF\", \"OBJECTID\": 1069, \"POLLINGPLA\": \"Thorne & Moorends Town Council Offices, Band Room, Browns Lane, DN8 5AF\", \"POLLING_DI\": \"QE\", \"UPRN\": \"100051985221\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "St Nicholas Church Hall, Stonegate, DN8 5NP",
+        "ADDRESS": "Green Top Primary School, Southfield Road, Thorne, Doncaster, DN8 5NS",
         "OBJECTID": 1070,
-        "POLLINGPLA": "St Nicholas Church Hall, Stonegate, DN8 5NP",
+        "POLLINGPLA": "Green Top Primary School, Southfield Road, Thorne, Doncaster, DN8 5NS",
         "POLLING_DI": "QA",
-        "UPRN": "010006621738",
+        "UPRN": "010006577617",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9593856999379052, 53.61097054159565], \"type\": \"Point\"}, \"id\": 1070, \"properties\": {\"ADDRESS\": \"St Nicholas Church Hall, Stonegate, DN8 5NP\", \"OBJECTID\": 1070, \"POLLINGPLA\": \"St Nicholas Church Hall, Stonegate, DN8 5NP\", \"POLLING_DI\": \"QA\", \"UPRN\": \"010006621738\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9586944451970332, 53.60820269806221], \"type\": \"Point\"}, \"id\": 1070, \"properties\": {\"ADDRESS\": \"Green Top Primary School, Southfield Road, Thorne, Doncaster, DN8 5NS\", \"OBJECTID\": 1070, \"POLLINGPLA\": \"Green Top Primary School, Southfield Road, Thorne, Doncaster, DN8 5NS\", \"POLLING_DI\": \"QA\", \"UPRN\": \"010006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "St Nicholas Church Hall, Stonegate, DN8 5NP",
@@ -1550,14 +1550,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2776833660930442, 53.500514923192], \"type\": \"Point\"}, \"id\": 1081, \"properties\": {\"ADDRESS\": \"Derwent Road Communal Hall, Derwent Rd, Mexborough S64 0QF\", \"OBJECTID\": 1081, \"POLLINGPLA\": \"Derwent Road Communal Hall, Derwent Rd, Mexborough S64 0QF\", \"POLLING_DI\": \"SA\", \"UPRN\": \"010006630975\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Pitt Street Infant School, Pitt Street, S64 0LT",
+        "ADDRESS": "New Pastures Primary School Lower Site, Pitt Street, Mexborough, S64 0LT",
         "OBJECTID": 1082,
-        "POLLINGPLA": "Pitt Street Infant School, Pitt Street, S64 0LT",
+        "POLLINGPLA": "New Pastures Primary School Lower Site, Pitt Street, Mexborough, S64 0LT",
         "POLLING_DI": "SC",
-        "UPRN": "100050802743",
+        "UPRN": "010006577987",
         "WARD": "Mexborough Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.273224596372197, 53.49411639404472], \"type\": \"Point\"}, \"id\": 1082, \"properties\": {\"ADDRESS\": \"Pitt Street Infant School, Pitt Street, S64 0LT\", \"OBJECTID\": 1082, \"POLLINGPLA\": \"Pitt Street Infant School, Pitt Street, S64 0LT\", \"POLLING_DI\": \"SC\", \"UPRN\": \"100050802743\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.273220600698101, 53.49435016028839], \"type\": \"Point\"}, \"id\": 1082, \"properties\": {\"ADDRESS\": \"New Pastures Primary School Lower Site, Pitt Street, Mexborough, S64 0LT\", \"OBJECTID\": 1082, \"POLLINGPLA\": \"New Pastures Primary School Lower Site, Pitt Street, Mexborough, S64 0LT\", \"POLLING_DI\": \"SC\", \"UPRN\": \"010006577987\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Adwick upon Dearne Village Hall, Harlington Road, S64 0NL",
@@ -1630,14 +1630,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2016722499605674, 53.44506713002203], \"type\": \"Point\"}, \"id\": 1089, \"properties\": {\"ADDRESS\": \"The Masters House, High Street, S66 7AW\", \"OBJECTID\": 1089, \"POLLINGPLA\": \"The Masters House, High Street, S66 7AW\", \"POLLING_DI\": \"IB\", \"UPRN\": \"200002742819\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "Stainton Village Hall, School Lane, S66 7QX",
+        "ADDRESS": "Village Hall, School Lane, Stainton, Rotherham, S66 7QX",
         "OBJECTID": 1091,
         "POLLINGPLA": "Stainton Village Hall, School Lane, S66 7QX",
         "POLLING_DI": "IG",
         "UPRN": "010006579644",
         "WARD": "Tickhill and Wadworth Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.166369086992529, 53.436430563756176], \"type\": \"Point\"}, \"id\": 1091, \"properties\": {\"ADDRESS\": \"Stainton Village Hall, School Lane, S66 7QX\", \"OBJECTID\": 1091, \"POLLINGPLA\": \"Stainton Village Hall, School Lane, S66 7QX\", \"POLLING_DI\": \"IG\", \"UPRN\": \"010006579644\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1664483281660172, 53.4368044204448], \"type\": \"Point\"}, \"id\": 1091, \"properties\": {\"ADDRESS\": \"Village Hall, School Lane, Stainton, Rotherham, S66 7QX\", \"OBJECTID\": 1091, \"POLLINGPLA\": \"Stainton Village Hall, School Lane, S66 7QX\", \"POLLING_DI\": \"IG\", \"UPRN\": \"010006579644\", \"WARD\": \"Tickhill and Wadworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "Clifton Church and Community Centre, Church Lane, S66 7RA",
