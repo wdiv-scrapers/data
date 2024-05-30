@@ -415,8 +415,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": null,
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by HILC and HILA",
         "LOCALITY": "Speedwell",
         "LOCATION_NAME": "Hillfields Library",
         "OBJECTID": 197,
@@ -428,7 +428,7 @@
         "UPRN": 55729,
         "UPRN_2": "000000055729",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5164873812093935, 51.47460274983438], \"type\": \"Point\"}, \"id\": 197, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Speedwell\", \"LOCATION_NAME\": \"Hillfields Library\", \"OBJECTID\": 197, \"PAO\": \"Hillfields Library\", \"POLLING_DISTRICT\": \"HILC\", \"POSTCODE\": \"BS16 4HL\", \"SAON\": \" \", \"STREET\": \"Summerleaze\", \"UPRN\": 55729, \"UPRN_2\": \"000000055729\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5164873812093935, 51.47460274983438], \"type\": \"Point\"}, \"id\": 197, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HILC and HILA\", \"LOCALITY\": \"Speedwell\", \"LOCATION_NAME\": \"Hillfields Library\", \"OBJECTID\": 197, \"PAO\": \"Hillfields Library\", \"POLLING_DISTRICT\": \"HILC\", \"POSTCODE\": \"BS16 4HL\", \"SAON\": \" \", \"STREET\": \"Summerleaze\", \"UPRN\": 55729, \"UPRN_2\": \"000000055729\"}, \"type\": \"Feature\"}",
         "pk": 197
     },
     {
@@ -1926,24 +1926,6 @@
         "pk": 280
     },
     {
-        "ACCESS_DESRIPTION": null,
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "Fishponds",
-        "LOCATION_NAME": "Ledbury Road Flats Community Room",
-        "OBJECTID": 281,
-        "PAO": "Ledbury Road",
-        "POLLING_DISTRICT": "HILA",
-        "POSTCODE": "BS16 4AH",
-        "SAON": "",
-        "STREET": "Ledbury Road",
-        "UPRN": 328071,
-        "UPRN_2": "000000328071",
-        "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.517800686467643, 51.47956844866736], \"type\": \"Point\"}, \"id\": 281, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Fishponds\", \"LOCATION_NAME\": \"Ledbury Road Flats Community Room\", \"OBJECTID\": 281, \"PAO\": \"Ledbury Road\", \"POLLING_DISTRICT\": \"HILA\", \"POSTCODE\": \"BS16 4AH\", \"SAON\": \" \", \"STREET\": \"Ledbury Road\", \"UPRN\": 328071, \"UPRN_2\": \"000000328071\"}, \"type\": \"Feature\"}",
-        "pk": 281
-    },
-    {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": null,
@@ -2611,8 +2593,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "Used by HORF and HORG",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by HORF and HORD",
         "LOCALITY": "Horfield",
         "LOCATION_NAME": "Horfield Methodist Church Hall",
         "OBJECTID": 319,
@@ -2624,7 +2606,7 @@
         "UPRN": 184119,
         "UPRN_2": "000000184119",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5859148589323926, 51.486540051929296], \"type\": \"Point\"}, \"id\": 319, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \"Used by HORF and HORG\", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Methodist Church Hall\", \"OBJECTID\": 319, \"PAO\": \"Horfield Methodist Church Hall\", \"POLLING_DISTRICT\": \"HORF\", \"POSTCODE\": \"BS7 8SN\", \"SAON\": \" \", \"STREET\": \"Churchways Avenue\", \"UPRN\": 184119, \"UPRN_2\": \"000000184119\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5859148589323926, 51.486540051929296], \"type\": \"Point\"}, \"id\": 319, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by HORF and HORD\", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Methodist Church Hall\", \"OBJECTID\": 319, \"PAO\": \"Horfield Methodist Church Hall\", \"POLLING_DISTRICT\": \"HORF\", \"POSTCODE\": \"BS7 8SN\", \"SAON\": \" \", \"STREET\": \"Churchways Avenue\", \"UPRN\": 184119, \"UPRN_2\": \"000000184119\"}, \"type\": \"Feature\"}",
         "pk": 319
     },
     {
@@ -2752,24 +2734,6 @@
         "council_id": "BST",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.618833530237174, 51.438423620393834], \"type\": \"Point\"}, \"id\": 326, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by BEDA and BEDC\", \"LOCALITY\": \"Ashton\", \"LOCATION_NAME\": \"Bristol St Aldhelms Scout Hut\", \"OBJECTID\": 326, \"PAO\": \"229      Bristol St Aldhelms Scout Hut\", \"POLLING_DISTRICT\": \"BEDA\", \"POSTCODE\": \"BS3 2DL\", \"SAON\": \" \", \"STREET\": \"Raynes Road\", \"UPRN\": 278840, \"UPRN_2\": \"000000278840\"}, \"type\": \"Feature\"}",
         "pk": 326
-    },
-    {
-        "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "Horfield",
-        "LOCATION_NAME": "Horfield Leisure Centre",
-        "OBJECTID": 327,
-        "PAO": "Horfield Leisure Centre",
-        "POLLING_DISTRICT": "HORD",
-        "POSTCODE": "BS7 0XW",
-        "SAON": "",
-        "STREET": "Dorian Road",
-        "UPRN": 20940,
-        "UPRN_2": "000000020940",
-        "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5832419462705833, 51.49348166885394], \"type\": \"Point\"}, \"id\": 327, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Horfield\", \"LOCATION_NAME\": \"Horfield Leisure Centre\", \"OBJECTID\": 327, \"PAO\": \"Horfield Leisure Centre\", \"POLLING_DISTRICT\": \"HORD\", \"POSTCODE\": \"BS7 0XW\", \"SAON\": \" \", \"STREET\": \"Dorian Road\", \"UPRN\": 20940, \"UPRN_2\": \"000000020940\"}, \"type\": \"Feature\"}",
-        "pk": 327
     },
     {
         "ACCESS_DESRIPTION": "",
