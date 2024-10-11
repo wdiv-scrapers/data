@@ -1062,21 +1062,21 @@
         "pk": 59
     },
     {
-        "Address": "Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN",
+        "Address": "ACF Centre Swanley Lane Swanley Kent BR8 7JQ",
         "AddressHeldByElections": "Christ Church Centre, Kingswood Avenue, Swanley, BR8 8AN",
         "AreaCode": "CN",
         "CustodianCode": 2245,
-        "Easting": 551844.471,
+        "Easting": 551586.0868,
         "ElectoralDivision": "Swanley",
-        "Northing": 168411.934,
+        "Northing": 168591.16,
         "OBJECTID": 60,
         "ParliamentaryConstituency": "Sevenoaks Parliamentary Constituency",
         "PollingDistrict": "Swanley Lane",
         "Postcode": "BR8 8AN",
-        "UPRN": "010013772935",
+        "UPRN": "100062622159",
         "Ward": "Swanley White Oak",
         "council_id": "SEV",
-        "geometry": "{\"geometry\": {\"coordinates\": [0.1812104605405495, 51.39443018116301], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"Address\": \"Christ Church Centre, Kingswood Avenue, Swanley, Kent, BR8 8AN\", \"AddressHeldByElections\": \"Christ Church Centre, Kingswood Avenue, Swanley, BR8 8AN\", \"AreaCode\": \"CN\", \"CustodianCode\": 2245, \"Easting\": 551844.471, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168411.934, \"OBJECTID\": 60, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Lane\", \"Postcode\": \"BR8 8AN\", \"UPRN\": \"010013772935\", \"Ward\": \"Swanley White Oak\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [0.1775758202225237, 51.39610956689291], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"Address\": \"ACF Centre Swanley Lane Swanley Kent BR8 7JQ\", \"AddressHeldByElections\": \"Christ Church Centre, Kingswood Avenue, Swanley, BR8 8AN\", \"AreaCode\": \"CN\", \"CustodianCode\": 2245, \"Easting\": 551586.0868, \"ElectoralDivision\": \"Swanley\", \"Northing\": 168591.16, \"OBJECTID\": 60, \"ParliamentaryConstituency\": \"Sevenoaks Parliamentary Constituency\", \"PollingDistrict\": \"Swanley Lane\", \"Postcode\": \"BR8 8AN\", \"UPRN\": \"100062622159\", \"Ward\": \"Swanley White Oak\"}, \"type\": \"Feature\"}",
         "pk": 60
     },
     {
