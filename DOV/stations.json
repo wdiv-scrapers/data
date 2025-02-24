@@ -888,7 +888,7 @@
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://goo.gl/maps/UUA64PsZvTuhqN98A\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 61,
+        "OBJECTID": 60,
         "Parish": "Sandwich",
         "Parish_Ward": "Sandwich (Sandwich South Ward)",
         "Parliament": "South Thanet",
@@ -897,13 +897,13 @@
         "Station_Address": "Jubilee Road, Sandwich, CT13 0QP",
         "UPRN": 100062284542,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.27304832679775], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 61, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.27304832679775], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 60, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 62,
+        "OBJECTID": 61,
         "Parish": "Staple",
         "Parish_Ward": null,
         "Parliament": "South Thanet",
@@ -912,13 +912,13 @@
         "Station_Address": "Mill Road, Staple, CT3 1LB",
         "UPRN": 100062298105,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2589448987144973, 51.261852144067326], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 62, \"Parish\": \"Staple\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XSP\", \"Polling_Station\": \"Staple Village Hall\", \"Station_Address\": \"Mill Road, Staple, CT3 1LB\", \"UPRN\": 100062298105}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2589448987144973, 51.261852144067326], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 61, \"Parish\": \"Staple\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XSP\", \"Polling_Station\": \"Staple Village Hall\", \"Station_Address\": \"Mill Road, Staple, CT3 1LB\", \"UPRN\": 100062298105}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 63,
+        "OBJECTID": 62,
         "Parish": "Stourmouth",
         "Parish_Ward": null,
         "Parliament": "South Thanet",
@@ -927,13 +927,13 @@
         "Station_Address": "The Street, Stourmouth, CT3 1HY",
         "UPRN": 100060886285,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.248432246613722, 51.31603326952386], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 63, \"Parish\": \"Stourmouth\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XST\", \"Polling_Station\": \"The Rising Sun Inn\", \"Station_Address\": \"The Street, Stourmouth, CT3 1HY\", \"UPRN\": 100060886285}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.248432246613722, 51.31603326952386], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 62, \"Parish\": \"Stourmouth\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XST\", \"Polling_Station\": \"The Rising Sun Inn\", \"Station_Address\": \"The Street, Stourmouth, CT3 1HY\", \"UPRN\": 100060886285}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 64,
+        "OBJECTID": 63,
         "Parish": "Wingham",
         "Parish_Ward": null,
         "Parliament": "South Thanet",
@@ -942,13 +942,13 @@
         "Station_Address": "School Lane, Wingham, CT3 1BD",
         "UPRN": 100062620816,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2132047248520668, 51.270177844054174], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 64, \"Parish\": \"Wingham\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWG\", \"Polling_Station\": \"Wingham Village Hall\", \"Station_Address\": \"School Lane, Wingham, CT3 1BD\", \"UPRN\": 100062620816}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2132047248520668, 51.270177844054174], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 63, \"Parish\": \"Wingham\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWG\", \"Polling_Station\": \"Wingham Village Hall\", \"Station_Address\": \"School Lane, Wingham, CT3 1BD\", \"UPRN\": 100062620816}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 65,
+        "OBJECTID": 64,
         "Parish": "Woodnesborough",
         "Parish_Ward": null,
         "Parliament": "South Thanet",
@@ -957,13 +957,13 @@
         "Station_Address": "Elmwood Park, Woodnesborough, CT13 0FB",
         "UPRN": 10034888695,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3104139331534432, 51.264637393487526], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 65, \"Parish\": \"Woodnesborough\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWN\", \"Polling_Station\": \"Woodnesborough Village Hall\", \"Station_Address\": \"Elmwood Park, Woodnesborough, CT13 0FB\", \"UPRN\": 10034888695}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3104139331534432, 51.264637393487526], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 64, \"Parish\": \"Woodnesborough\", \"Parish_Ward\": null, \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWN\", \"Polling_Station\": \"Woodnesborough Village Hall\", \"Station_Address\": \"Elmwood Park, Woodnesborough, CT13 0FB\", \"UPRN\": 10034888695}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/gbyJf5v26hNZehmz5\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 66,
+        "OBJECTID": 65,
         "Parish": "Worth",
         "Parish_Ward": "Worth (Worth Village Ward)",
         "Parliament": "South Thanet",
@@ -972,13 +972,28 @@
         "Station_Address": "The Street, Worth, CT14 0DE",
         "UPRN": 10034877758,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.346074417550468, 51.255980621326614], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/gbyJf5v26hNZehmz5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Worth Village Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"PWR\", \"Polling_Station\": \"Worth Parish Hall\", \"Station_Address\": \"The Street, Worth, CT14 0DE\", \"UPRN\": 10034877758}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.346074417550468, 51.255980621326614], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/gbyJf5v26hNZehmz5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 65, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Worth Village Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"PWR\", \"Polling_Station\": \"Worth Parish Hall\", \"Station_Address\": \"The Street, Worth, CT14 0DE\", \"UPRN\": 10034877758}, \"type\": \"Feature\"}"
+    },
+    {
+        "County_Division": "Sandwich",
+        "District_Ward": "Sandwich",
+        "Link": "<u><a href=\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\" target=\"_blank\">Directions to your polling station</a></u>",
+        "OBJECTID": 66,
+        "Parish": "Worth",
+        "Parish_Ward": "Worth (Sandwich Bay Ward)",
+        "Parliament": "South Thanet",
+        "Polling_District": "XWR",
+        "Polling_Station": "The Hub",
+        "Station_Address": "Guildhall, Cattle Market, Sandwich, CT13 9AH",
+        "UPRN": 100062284704,
+        "council_id": "DOV",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.274808140951905], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 68,
+        "OBJECTID": 67,
         "Parish": "Eythorne",
         "Parish_Ward": "Eythorne (Eythorne Ward)",
         "Parliament": "Dover",
@@ -987,13 +1002,13 @@
         "Station_Address": "Chapel Hill, Eythorne, CT15 4AY",
         "UPRN": 10034875300,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2660056131946158, 51.19864535514289], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 68, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover\", \"Polling_District\": \"PEX1\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2660056131946158, 51.19864535514289], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 67, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover\", \"Polling_District\": \"PEX1\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 69,
+        "OBJECTID": 68,
         "Parish": "Eythorne",
         "Parish_Ward": "Eythorne (Barfrestone Ward)",
         "Parliament": "Dover",
@@ -1002,36 +1017,6 @@
         "Station_Address": "Chapel Hill, Eythorne, CT15 4AY",
         "UPRN": 10034875300,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2660056131946158, 51.19864535514289], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Barfrestone Ward)\", \"Parliament\": \"Dover\", \"Polling_District\": \"PEX2\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
-    },
-    {
-        "County_Division": "Sandwich",
-        "District_Ward": "Sandwich",
-        "Link": "<u><a href=\"https://goo.gl/maps/dqxwGBXMttkXDeR98\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 70,
-        "Parish": "Sandwich",
-        "Parish_Ward": "Sandwich (Sandwich North Ward)",
-        "Parliament": "South Thanet",
-        "Polling_District": "XSA",
-        "Polling_Station": "Sandwich United Reformed Church",
-        "Station_Address": "Cattle Market, Sandwich, CT13 9AF",
-        "UPRN": 100062284671,
-        "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3381907524882197, 51.27492525678451], \"type\": \"Point\"}, \"id\": 70, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/dqxwGBXMttkXDeR98\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 70, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"Sandwich United Reformed Church\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AF\", \"UPRN\": 100062284671}, \"type\": \"Feature\"}"
-    },
-    {
-        "County_Division": "Sandwich",
-        "District_Ward": "Sandwich",
-        "Link": "<u><a href=\"https://goo.gl/maps/dqxwGBXMttkXDeR98\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 71,
-        "Parish": "Worth",
-        "Parish_Ward": "Worth (Sandwich Bay Ward)",
-        "Parliament": "South Thanet",
-        "Polling_District": "XWR",
-        "Polling_Station": "Sandwich United Reformed Church",
-        "Station_Address": "Cattle Market, Sandwich, CT13 9AF",
-        "UPRN": 100062284671,
-        "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3381907524882197, 51.27492525678451], \"type\": \"Point\"}, \"id\": 71, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/dqxwGBXMttkXDeR98\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 71, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"South Thanet\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"Sandwich United Reformed Church\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AF\", \"UPRN\": 100062284671}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2660056131946158, 51.19864535514289], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 68, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Barfrestone Ward)\", \"Parliament\": \"Dover\", \"Polling_District\": \"PEX2\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
     }
 ]
