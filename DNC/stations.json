@@ -1623,11 +1623,11 @@
         "ADDRESS": "M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL",
         "OBJECTID": 2477,
         "POLLINGPLA": "Coronation Hall, High Street, DN9 1RE",
-        "POLLING_DI": "AXS3",
+        "POLLING_DI": null,
         "UPRN": "10002631414",
         "WARD": "Axholme South Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.7790244455280648, 53.49183419128704], \"type\": \"Point\"}, \"id\": 2477, \"properties\": {\"ADDRESS\": \"M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL\", \"OBJECTID\": 2477, \"POLLINGPLA\": \"Coronation Hall, High Street, DN9 1RE\", \"POLLING_DI\": \"AXS3\", \"UPRN\": \"10002631414\", \"WARD\": \"Axholme South Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.7790244455280648, 53.49183419128704], \"type\": \"Point\"}, \"id\": 2477, \"properties\": {\"ADDRESS\": \"M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL\", \"OBJECTID\": 2477, \"POLLINGPLA\": \"Coronation Hall, High Street, DN9 1RE\", \"POLLING_DI\": null, \"UPRN\": \"10002631414\", \"WARD\": \"Axholme South Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "ST ANDREWS METHODIST CHURCH, BECKETT ROAD, WHEATLEY, DONCASTER, DN2 4TS",
