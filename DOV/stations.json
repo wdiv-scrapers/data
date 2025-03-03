@@ -42,7 +42,7 @@
         "Station_Address": "Church Road, Dover, CT17 9LW",
         "UPRN": 200002882690,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2900943524875044, 51.122986830739904], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Maxton and Elms Vale\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/bVvbXWY2pkaY416cA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 3, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Maxton and Elms Vale Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BME\", \"Polling_Station\": \"St Martin's Church Hall\", \"Station_Address\": \"Church Road, Dover, CT17 9LW\", \"UPRN\": 200002882690}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2900943524875044, 51.12298683166143], \"type\": \"Point\"}, \"id\": 3, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Maxton and Elms Vale\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/bVvbXWY2pkaY416cA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 3, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Maxton and Elms Vale Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BME\", \"Polling_Station\": \"St Martin's Church Hall\", \"Station_Address\": \"Church Road, Dover, CT17 9LW\", \"UPRN\": 200002882690}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
@@ -102,7 +102,7 @@
         "Station_Address": "Sutherland Road, Deal, CT14 9TQ",
         "UPRN": 100062287065,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3937617583072368, 51.2232445581327], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BKcQWm6CNdZCjLqh8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 7, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD1\", \"Polling_Station\": \"Deal Christian Fellowship Hall\", \"Station_Address\": \"Sutherland Road, Deal, CT14 9TQ\", \"UPRN\": 100062287065}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3937617583072366, 51.22324455905353], \"type\": \"Point\"}, \"id\": 7, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BKcQWm6CNdZCjLqh8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 7, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD1\", \"Polling_Station\": \"Deal Christian Fellowship Hall\", \"Station_Address\": \"Sutherland Road, Deal, CT14 9TQ\", \"UPRN\": 100062287065}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -113,11 +113,11 @@
         "Parish_Ward": "Deal (Middle Deal Ward)",
         "Parliament": "Dover and Deal",
         "Polling_District": "AMD2",
-        "Polling_Station": "Dover Youth Hub",
+        "Polling_Station": "Deal Family Hub",
         "Station_Address": "Linwood Youth Centre, Park Avenue, Deal, CT14 9AL",
         "UPRN": 10034889753,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3976280398619954, 51.21816699262854], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/uP9M4DnFbtvY3hrM6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 8, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD2\", \"Polling_Station\": \"Dover Youth Hub\", \"Station_Address\": \"Linwood Youth Centre, Park Avenue, Deal, CT14 9AL\", \"UPRN\": 10034889753}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3976280398619954, 51.21816699354941], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/uP9M4DnFbtvY3hrM6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 8, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD2\", \"Polling_Station\": \"Deal Family Hub\", \"Station_Address\": \"Linwood Youth Centre, Park Avenue, Deal, CT14 9AL\", \"UPRN\": 10034889753}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -132,7 +132,7 @@
         "Station_Address": "Birdwood Avenue, Deal, CT14 9SF",
         "UPRN": 100062287038,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.381486088327791, 51.21934533975483], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/CiiGvni5ta8WPpQA6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 9, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD3\", \"Polling_Station\": \"Warden House School\", \"Station_Address\": \"Birdwood Avenue, Deal, CT14 9SF\", \"UPRN\": 100062287038}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.381486088327791, 51.21934534067571], \"type\": \"Point\"}, \"id\": 9, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/CiiGvni5ta8WPpQA6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 9, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD3\", \"Polling_Station\": \"Warden House School\", \"Station_Address\": \"Birdwood Avenue, Deal, CT14 9SF\", \"UPRN\": 100062287038}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -147,7 +147,7 @@
         "Station_Address": "69 Mill Hill, Deal, Kent, CT14 9EW",
         "UPRN": 100062287127,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3863991118162426, 51.2127087442178], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Mill Hill\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/3kMUK2JRBK7dFaKw5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 10, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Mill Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMH1\", \"Polling_Station\": \"Deal Pentecostal Church\", \"Station_Address\": \"69 Mill Hill, Deal, Kent, CT14 9EW\", \"UPRN\": 100062287127}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3863991118162426, 51.21270874513872], \"type\": \"Point\"}, \"id\": 10, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Mill Hill\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/3kMUK2JRBK7dFaKw5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 10, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Mill Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMH1\", \"Polling_Station\": \"Deal Pentecostal Church\", \"Station_Address\": \"69 Mill Hill, Deal, Kent, CT14 9EW\", \"UPRN\": 100062287127}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -177,7 +177,7 @@
         "Station_Address": "Off Cavell Square, Deal, CT14 9HN",
         "UPRN": 10034885801,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3774359671353198, 51.213129783646885], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Mill Hill\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UPrewWNwpNWpQXe6A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 12, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Mill Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMH3\", \"Polling_Station\": \"The Sports Centre\", \"Station_Address\": \"Off Cavell Square, Deal, CT14 9HN\", \"UPRN\": 10034885801}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3774359671353198, 51.21312978456777], \"type\": \"Point\"}, \"id\": 12, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Mill Hill\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UPrewWNwpNWpQXe6A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 12, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Mill Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMH3\", \"Polling_Station\": \"The Sports Centre\", \"Station_Address\": \"Off Cavell Square, Deal, CT14 9HN\", \"UPRN\": 10034885801}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -192,7 +192,7 @@
         "Station_Address": "28 Golf Road, Deal, Kent, CT14 6PY",
         "UPRN": 10034885484,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.23008655305989], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/cpWp3neG16dpc9J78\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 13, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN1\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"28 Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.230086553980655], \"type\": \"Point\"}, \"id\": 13, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/cpWp3neG16dpc9J78\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 13, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN1\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"28 Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -207,7 +207,7 @@
         "Station_Address": "Landmark Centre, 129 High Street, Deal, CT14 6BB",
         "UPRN": 10034888792,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.4020057565006196, 51.22645020030516], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/PwVUhfN1rJFVAGZy9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 14, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN2\", \"Polling_Station\": \"Cleary Hall\", \"Station_Address\": \"Landmark Centre, 129 High Street, Deal, CT14 6BB\", \"UPRN\": 10034888792}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.4020057565006196, 51.22645020122596], \"type\": \"Point\"}, \"id\": 14, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/PwVUhfN1rJFVAGZy9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 14, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN2\", \"Polling_Station\": \"Cleary Hall\", \"Station_Address\": \"Landmark Centre, 129 High Street, Deal, CT14 6BB\", \"UPRN\": 10034888792}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -222,7 +222,7 @@
         "Station_Address": "West Street, Deal, CT14 6AZ",
         "UPRN": 100062285233,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.400110900447069, 51.22445440656764], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SSvDkHVaG7HYyqze7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 15, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN3\", \"Polling_Station\": \"Salvation Army Hall\", \"Station_Address\": \"West Street, Deal, CT14 6AZ\", \"UPRN\": 100062285233}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.400110900447069, 51.22445440748844], \"type\": \"Point\"}, \"id\": 15, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SSvDkHVaG7HYyqze7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 15, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (North Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AN3\", \"Polling_Station\": \"Salvation Army Hall\", \"Station_Address\": \"West Street, Deal, CT14 6AZ\", \"UPRN\": 100062285233}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -297,7 +297,7 @@
         "Station_Address": "Roosevelt Road, Dover, CT16 2RA",
         "UPRN": 100062620364,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2980094950746839, 51.1431920598787], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Buckland\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BtgCWMG9NtMuov8L8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 20, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Buckland Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BC1\", \"Polling_Station\": \"Buckland Community Centre\", \"Station_Address\": \"Roosevelt Road, Dover, CT16 2RA\", \"UPRN\": 100062620364}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2980094950746839, 51.1431920608001], \"type\": \"Point\"}, \"id\": 20, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Buckland\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BtgCWMG9NtMuov8L8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 20, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Buckland Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BC1\", \"Polling_Station\": \"Buckland Community Centre\", \"Station_Address\": \"Roosevelt Road, Dover, CT16 2RA\", \"UPRN\": 100062620364}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -327,7 +327,7 @@
         "Station_Address": "Melbourne Avenue, Dover, CT16 2EG",
         "UPRN": 100062289416,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963907124], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 22, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Rokesley Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BCW1\", \"Polling_Station\": \"Dover Christ Church Academt\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963999258], \"type\": \"Point\"}, \"id\": 22, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 22, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Rokesley Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BCW1\", \"Polling_Station\": \"Dover Christ Church Academt\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -342,7 +342,7 @@
         "Station_Address": "Poulton Close, Dover, Kent, CT17 0HR",
         "UPRN": 10034883681,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2848628939865079, 51.130636108078455], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"St Radigund's\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/uozGQqSSZ4taf13F8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 23, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (St Radigund's Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BR1\", \"Polling_Station\": \"St Radigund's Community Centre\", \"Station_Address\": \"Poulton Close, Dover, Kent, CT17 0HR\", \"UPRN\": 10034883681}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.284862893986508, 51.13063610899992], \"type\": \"Point\"}, \"id\": 23, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"St Radigund's\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/uozGQqSSZ4taf13F8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 23, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (St Radigund's Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BR1\", \"Polling_Station\": \"St Radigund's Community Centre\", \"Station_Address\": \"Poulton Close, Dover, Kent, CT17 0HR\", \"UPRN\": 10034883681}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -357,7 +357,7 @@
         "Station_Address": "Maison Dieu Road, Dover, CT16 1RF",
         "UPRN": 100062289167,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3096738799845284, 51.1298029978115], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"St Radigund's\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/HnxqDv2j935buuQP8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 24, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (St Radigund's Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BR3\", \"Polling_Station\": \"Dover Baptist Church Hall\", \"Station_Address\": \"Maison Dieu Road, Dover, CT16 1RF\", \"UPRN\": 100062289167}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3096738799845282, 51.12980299873299], \"type\": \"Point\"}, \"id\": 24, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"St Radigund's\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/HnxqDv2j935buuQP8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 24, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (St Radigund's Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BR3\", \"Polling_Station\": \"Dover Baptist Church Hall\", \"Station_Address\": \"Maison Dieu Road, Dover, CT16 1RF\", \"UPRN\": 100062289167}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -372,7 +372,7 @@
         "Station_Address": "Belgrave Road, Dover, CT17 9QY",
         "UPRN": 10034874163,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2985901080203266, 51.122261612383156], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/5zAhn6M3PryoRZpm7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 25, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT1\", \"Polling_Station\": \"Clarendon and Westbury Community Centre\", \"Station_Address\": \"Belgrave Road, Dover, CT17 9QY\", \"UPRN\": 10034874163}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2985901080203264, 51.12226161330471], \"type\": \"Point\"}, \"id\": 25, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/5zAhn6M3PryoRZpm7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 25, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT1\", \"Polling_Station\": \"Clarendon and Westbury Community Centre\", \"Station_Address\": \"Belgrave Road, Dover, CT17 9QY\", \"UPRN\": 10034874163}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -387,7 +387,7 @@
         "Station_Address": "Dieu Stone Lane, Dover, CT16 1BY",
         "UPRN": 10034874309,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3129236463574323, 51.126218925132655], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hzvWC9PY3aCMbdCWA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 26, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT2\", \"Polling_Station\": \"St Mary`s Parish Centre\", \"Station_Address\": \"Dieu Stone Lane, Dover, CT16 1BY\", \"UPRN\": 10034874309}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3129236463574327, 51.12621892605417], \"type\": \"Point\"}, \"id\": 26, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hzvWC9PY3aCMbdCWA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 26, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT2\", \"Polling_Station\": \"St Mary`s Parish Centre\", \"Station_Address\": \"Dieu Stone Lane, Dover, CT16 1BY\", \"UPRN\": 10034874309}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -402,7 +402,7 @@
         "Station_Address": "St David's Avenue, Dover, CT17 9HJ",
         "UPRN": 200001851339,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2866104459585839, 51.11217337909442], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/ux3WkLBzS9MxLL2g6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 27, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT3\", \"Polling_Station\": \"Aycliffe Community Primary School\", \"Station_Address\": \"St David's Avenue, Dover, CT17 9HJ\", \"UPRN\": 200001851339}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2866104459585836, 51.11217338001602], \"type\": \"Point\"}, \"id\": 27, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/ux3WkLBzS9MxLL2g6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 27, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT3\", \"Polling_Station\": \"Aycliffe Community Primary School\", \"Station_Address\": \"St David's Avenue, Dover, CT17 9HJ\", \"UPRN\": 200001851339}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -417,7 +417,7 @@
         "Station_Address": "Adrian Street, Dover, CT17 9AT",
         "UPRN": 100062290537,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3125114421699327, 51.1238558237745], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/pb2UUZn1Zeyqtz8A8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 28, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT4\", \"Polling_Station\": \"Dover Unitarian Church Hall\", \"Station_Address\": \"Adrian Street, Dover, CT17 9AT\", \"UPRN\": 100062290537}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3125114421699327, 51.12385582469603], \"type\": \"Point\"}, \"id\": 28, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Town and Castle\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/pb2UUZn1Zeyqtz8A8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 28, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Town and Castle Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BT4\", \"Polling_Station\": \"Dover Unitarian Church Hall\", \"Station_Address\": \"Adrian Street, Dover, CT17 9AT\", \"UPRN\": 100062290537}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -432,7 +432,7 @@
         "Station_Address": "Noah's Ark Road, Dover, CT17 0DD",
         "UPRN": 10034883680,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2954455259784088, 51.1300863660156], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Tower Hamlets\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/wdHNUBErF6efVG569\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 29, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Tower Hamlets Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BTH1\", \"Polling_Station\": \"One Church \", \"Station_Address\": \"Noah's Ark Road, Dover, CT17 0DD\", \"UPRN\": 10034883680}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2954455259784086, 51.13008636693708], \"type\": \"Point\"}, \"id\": 29, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Tower Hamlets\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/wdHNUBErF6efVG569\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 29, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Tower Hamlets Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BTH1\", \"Polling_Station\": \"One Church \", \"Station_Address\": \"Noah's Ark Road, Dover, CT17 0DD\", \"UPRN\": 10034883680}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
@@ -447,7 +447,7 @@
         "Station_Address": "Curzon Road, Dover, CT17 0AP",
         "UPRN": 100062620192,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.299588196605142, 51.128440269270946], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Tower Hamlets\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/guaB5fwmPVQnGNqM7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 30, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Tower Hamlets Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BTH2\", \"Polling_Station\": \"Curzon Hall\", \"Station_Address\": \"Curzon Road, Dover, CT17 0AP\", \"UPRN\": 100062620192}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.299588196605142, 51.12844027019245], \"type\": \"Point\"}, \"id\": 30, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Tower Hamlets\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/guaB5fwmPVQnGNqM7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 30, \"Parish\": \"Dover\", \"Parish_Ward\": \"Dover (Tower Hamlets Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"BTH2\", \"Polling_Station\": \"Curzon Hall\", \"Station_Address\": \"Curzon Road, Dover, CT17 0AP\", \"UPRN\": 100062620192}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
@@ -732,7 +732,7 @@
         "Station_Address": "Golf Road, Deal, Kent, CT14 6PY",
         "UPRN": 10034885484,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.23008655305989], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/vbymtCRTqT2fmTNV6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 49, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Tenants Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHN\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.230086553980655], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/vbymtCRTqT2fmTNV6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 49, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Tenants Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHN\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
@@ -837,7 +837,7 @@
         "Station_Address": "Melbourne Avenue, Dover, CT16 2EG",
         "UPRN": 100062289416,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963907124], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 56, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH2\", \"Polling_Station\": \"Dover Christ Church Academy\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963999258], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 56, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH2\", \"Polling_Station\": \"Dover Christ Church Academy\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
@@ -897,7 +897,7 @@
         "Station_Address": "Jubilee Road, Sandwich, CT13 0QP",
         "UPRN": 100062284542,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.27304832679775], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 60, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.273048327718215], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 60, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
@@ -987,7 +987,7 @@
         "Station_Address": "Guildhall, Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.274808140951905], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
@@ -1032,6 +1032,6 @@
         "Station_Address": "Guildhall, Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.274808140951905], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     }
 ]
