@@ -2107,8 +2107,8 @@
     },
     {
         "ACCESS_DESRIPTION": null,
-        "DUAL": "Yes",
-        "DUAL_STN": "Used by STWA and STWC",
+        "DUAL": "No",
+        "DUAL_STN": "",
         "LOCALITY": "Hengrove",
         "LOCATION_NAME": "Imperial Sports Centre",
         "OBJECTID": 293,
@@ -2120,7 +2120,7 @@
         "UPRN": 303531,
         "UPRN_2": "000000303531",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.5593749124709984, 51.42625292332659], \"type\": \"Point\"}, \"id\": 293, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by STWA and STWC\", \"LOCALITY\": \"Hengrove\", \"LOCATION_NAME\": \"Imperial Sports Centre\", \"OBJECTID\": 293, \"PAO\": \"Imperial Sports Centre\", \"POLLING_DISTRICT\": \"STWA\", \"POSTCODE\": \"BS14 9EA\", \"SAON\": null, \"STREET\": \"West Town Lane\", \"UPRN\": 303531, \"UPRN_2\": \"000000303531\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5593749124709984, 51.42625292332659], \"type\": \"Point\"}, \"id\": 293, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": \"\", \"LOCALITY\": \"Hengrove\", \"LOCATION_NAME\": \"Imperial Sports Centre\", \"OBJECTID\": 293, \"PAO\": \"Imperial Sports Centre\", \"POLLING_DISTRICT\": \"STWA\", \"POSTCODE\": \"BS14 9EA\", \"SAON\": null, \"STREET\": \"West Town Lane\", \"UPRN\": 303531, \"UPRN_2\": \"000000303531\"}, \"type\": \"Feature\"}",
         "pk": 293
     },
     {
@@ -3022,5 +3022,23 @@
         "council_id": "BST",
         "geometry": "{\"geometry\": {\"coordinates\": [-2.6042607262539317, 51.50357056484411], \"type\": \"Point\"}, \"id\": 345, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Southmead\", \"LOCATION_NAME\": \"St Stephens Church\", \"OBJECTID\": 345, \"PAO\": \"St Stephens Church\", \"POLLING_DISTRICT\": \"SMDC\", \"POSTCODE\": \"BS10 6DP\", \"SAON\": \" \", \"STREET\": \"Ullswater Road\", \"UPRN\": 298630, \"UPRN_2\": \"000000298630\"}, \"type\": \"Feature\"}",
         "pk": 345
+    },
+    {
+        "ACCESS_DESRIPTION": null,
+        "DUAL": "No",
+        "DUAL_STN": null,
+        "LOCALITY": "Knowle",
+        "LOCATION_NAME": "Counterslip Baptist Church Hall",
+        "OBJECTID": 346,
+        "PAO": "648",
+        "POLLING_DISTRICT": "STWC",
+        "POSTCODE": "BS14 9HT",
+        "SAON": "",
+        "STREET": "Wells Road",
+        "UPRN": 154968,
+        "UPRN_2": "000000154968",
+        "council_id": "BST",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.559941773461936, 51.41705424025074], \"type\": \"Point\"}, \"id\": 346, \"properties\": {\"ACCESS_DESRIPTION\": null, \"DUAL\": \"No\", \"DUAL_STN\": null, \"LOCALITY\": \"Knowle\", \"LOCATION_NAME\": \"Counterslip Baptist Church Hall\", \"OBJECTID\": 346, \"PAO\": \"648\", \"POLLING_DISTRICT\": \"STWC\", \"POSTCODE\": \"BS14 9HT\", \"SAON\": \"          \", \"STREET\": \"Wells Road\", \"UPRN\": 154968, \"UPRN_2\": \"000000154968\"}, \"type\": \"Feature\"}",
+        "pk": 346
     }
 ]
