@@ -983,11 +983,11 @@
         "Parish_Ward": "Worth (Sandwich Bay Ward)",
         "Parliament": "Herne Bay and Sandwich",
         "Polling_District": "XWR",
-        "Polling_Station": "The Hub",
-        "Station_Address": "Guildhall, Cattle Market, Sandwich, CT13 9AH",
+        "Polling_Station": "The Hub at the Guildhall",
+        "Station_Address": "Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
@@ -1028,10 +1028,10 @@
         "Parish_Ward": "Sandwich (Sandwich North Ward)",
         "Parliament": "Herne Bay and Sandwich",
         "Polling_District": "XSA",
-        "Polling_Station": "The Hub",
-        "Station_Address": "Guildhall, Cattle Market, Sandwich, CT13 9AH",
+        "Polling_Station": "The Hub at the Guildhall",
+        "Station_Address": "Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub\", \"Station_Address\": \"Guildhall, Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     }
 ]
