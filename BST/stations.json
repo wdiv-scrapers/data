@@ -530,13 +530,13 @@
         "OBJECTID": 203,
         "PAO": "The Harbour Totterdown",
         "POLLING_DISTRICT": "WNHB",
-        "POSTCODE": "BS4 2EG",
+        "POSTCODE": "BS4 2AB",
         "SAON": "",
-        "STREET": "Bushy Park",
+        "STREET": "Winton Lane (off Winton Street)",
         "UPRN": 122004,
-        "UPRN_2": "000000122004",
+        "UPRN_2": null,
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.578235640549944, 51.44101835647591], \"type\": \"Point\"}, \"id\": 203, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WNHB and WNHA\", \"LOCALITY\": \"Totterdown\", \"LOCATION_NAME\": \"The Harbour Totterdown\", \"OBJECTID\": 203, \"PAO\": \"The Harbour Totterdown\", \"POLLING_DISTRICT\": \"WNHB\", \"POSTCODE\": \"BS4 2EG\", \"SAON\": \" \", \"STREET\": \"Bushy Park\", \"UPRN\": 122004, \"UPRN_2\": \"000000122004\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.5781427468040956, 51.44089748697974], \"type\": \"Point\"}, \"id\": 203, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by WNHB and WNHA\", \"LOCALITY\": \"Totterdown\", \"LOCATION_NAME\": \"The Harbour Totterdown\", \"OBJECTID\": 203, \"PAO\": \"The Harbour Totterdown\", \"POLLING_DISTRICT\": \"WNHB\", \"POSTCODE\": \"BS4 2AB\", \"SAON\": \" \", \"STREET\": \"Winton Lane (off Winton Street)\", \"UPRN\": 122004, \"UPRN_2\": null}, \"type\": \"Feature\"}",
         "pk": 203
     },
     {
