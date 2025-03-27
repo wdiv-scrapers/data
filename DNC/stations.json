@@ -1050,14 +1050,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9924911997441301, 53.48473644002761], \"type\": \"Point\"}, \"id\": 2419, \"properties\": {\"ADDRESS\": \"HOLY TRINITY AND ST OSWALD'S CHURCH, RECTORY LANE, FINNINGLEY, DONCASTER, DN9 3DA\", \"OBJECTID\": 2419, \"POLLINGPLA\": \"Holy Trinity & St Oswald\\u2019s Church, Rectory Lane, DN9 3DA\", \"POLLING_DI\": \"KE\", \"UPRN\": \"10006617565\", \"WARD\": \"Finningley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "MANOR FARM PUBLIC HOUSE, DENABY LANE, OLD DENABY, DONCASTER, DN12 4LD",
+        "ADDRESS": "Mexborough Church Hall, Church Street, S64 0ER",
         "OBJECTID": 2420,
-        "POLLINGPLA": "The Manor at Old Denaby, Denaby Lane, Old Denaby, DN12 4LD",
+        "POLLINGPLA": "Mexborough Church Hall, Church Street, S64 0ER",
         "POLLING_DI": "GJ",
         "UPRN": "100050717135",
         "WARD": "Conisbrough Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2812449256294807, 53.485122314989574], \"type\": \"Point\"}, \"id\": 2420, \"properties\": {\"ADDRESS\": \"MANOR FARM PUBLIC HOUSE, DENABY LANE, OLD DENABY, DONCASTER, DN12 4LD\", \"OBJECTID\": 2420, \"POLLINGPLA\": \"The Manor at Old Denaby, Denaby Lane, Old Denaby, DN12 4LD\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"100050717135\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2782159923702174, 53.49255890207974], \"type\": \"Point\"}, \"id\": 2420, \"properties\": {\"ADDRESS\": \"Mexborough Church Hall, Church Street, S64 0ER\", \"OBJECTID\": 2420, \"POLLINGPLA\": \"Mexborough Church Hall, Church Street, S64 0ER\", \"POLLING_DI\": \"GJ\", \"UPRN\": \"100050717135\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": null,
@@ -1170,14 +1170,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1890648524445915, 53.58283213335383], \"type\": \"Point\"}, \"id\": 2431, \"properties\": {\"ADDRESS\": \"DRAYTON WALK COMMUNAL HALL, 87, REPTON ROAD, SKELLOW, DONCASTER, DN6 8JG\", \"OBJECTID\": 2431, \"POLLINGPLA\": \"Draycott Walk Communal Hall, Repton Road, DN6 8JG\", \"POLLING_DI\": \"OF\", \"UPRN\": \"10006629480\", \"WARD\": \"Adwick le Street and Carcroft Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "ST ALBANS ROMAN CATHOLIC CHURCH, WADWORTH STREET, DENABY MAIN, DONCASTER, DN12 4AQ",
+        "ADDRESS": "St Albans Catholic Church, Wadworth Street, DN12 4AQ",
         "OBJECTID": 2432,
-        "POLLINGPLA": "Sister De Sales Parish Centre, St Albans Catholic Church, Wadworth Street, DN12 4AQ",
+        "POLLINGPLA": "St Albans Catholic Church, Wadworth Street, DN12 4AQ",
         "POLLING_DI": "GD",
         "UPRN": "10006617601",
         "WARD": "Conisbrough Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.2446671630289177, 53.489499015469846], \"type\": \"Point\"}, \"id\": 2432, \"properties\": {\"ADDRESS\": \"ST ALBANS ROMAN CATHOLIC CHURCH, WADWORTH STREET, DENABY MAIN, DONCASTER, DN12 4AQ\", \"OBJECTID\": 2432, \"POLLINGPLA\": \"Sister De Sales Parish Centre, St Albans Catholic Church, Wadworth Street, DN12 4AQ\", \"POLLING_DI\": \"GD\", \"UPRN\": \"10006617601\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.2446671630289177, 53.489499015469846], \"type\": \"Point\"}, \"id\": 2432, \"properties\": {\"ADDRESS\": \"St Albans Catholic Church, Wadworth Street, DN12 4AQ\", \"OBJECTID\": 2432, \"POLLINGPLA\": \"St Albans Catholic Church, Wadworth Street, DN12 4AQ\", \"POLLING_DI\": \"GD\", \"UPRN\": \"10006617601\", \"WARD\": \"Conisbrough Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "FIRST FLOOR, HICKLETON VILLAGE SOCIAL CLUB, CASTLE HILL LANE, HICKLETON, DONCASTER, DN5 7BG",
@@ -1623,11 +1623,11 @@
         "ADDRESS": "M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL",
         "OBJECTID": 2477,
         "POLLINGPLA": "Coronation Hall, High Street, DN9 1RE",
-        "POLLING_DI": null,
+        "POLLING_DI": "AXS3",
         "UPRN": "10002631414",
         "WARD": "Axholme South Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.7790244455280648, 53.49183419128704], \"type\": \"Point\"}, \"id\": 2477, \"properties\": {\"ADDRESS\": \"M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL\", \"OBJECTID\": 2477, \"POLLINGPLA\": \"Coronation Hall, High Street, DN9 1RE\", \"POLLING_DI\": null, \"UPRN\": \"10002631414\", \"WARD\": \"Axholme South Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.7790244455280648, 53.49183419128704], \"type\": \"Point\"}, \"id\": 2477, \"properties\": {\"ADDRESS\": \"M C W BOOTHMAN TREASURER CORONATION HALL, CORONATION HALL, HIGH STREET, OWSTON FERRY, NORTH LINCOLNSHIRE, DN9 1RL\", \"OBJECTID\": 2477, \"POLLINGPLA\": \"Coronation Hall, High Street, DN9 1RE\", \"POLLING_DI\": \"AXS3\", \"UPRN\": \"10002631414\", \"WARD\": \"Axholme South Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "ST ANDREWS METHODIST CHURCH, BECKETT ROAD, WHEATLEY, DONCASTER, DN2 4TS",
