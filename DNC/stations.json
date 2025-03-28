@@ -510,14 +510,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.2871728480125586, 53.494694733306446], \"type\": \"Point\"}, \"id\": 2365, \"properties\": {\"ADDRESS\": \"DOLCLIFFE HALL, WEST VIEW ROAD, MEXBOROUGH, DONCASTER, S64 9BE\", \"OBJECTID\": 2365, \"POLLINGPLA\": \"Dolcliffe Hall, West View Road, S64 9BE\", \"POLLING_DI\": \"SB\", \"UPRN\": \"100052208392\", \"WARD\": \"Mexborough Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "AUCKLEY JUNIOR AND INFANT SCHOOL, SCHOOL LANE, AUCKLEY, DONCASTER, DN9 3JN",
+        "ADDRESS": "Auckley Parish Centre, St Saviours Church, Main Street, DN9 3HH",
         "OBJECTID": 2366,
-        "POLLINGPLA": "Auckley Junior & Infant School, School Lane, DN9 3JN",
+        "POLLINGPLA": "Auckley Parish Centre, St Saviours Church, Main Street, DN9 3HH",
         "POLLING_DI": "KA",
         "UPRN": "10006576581",
         "WARD": "Finningley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.0157854883430897, 53.50120921534627], \"type\": \"Point\"}, \"id\": 2366, \"properties\": {\"ADDRESS\": \"AUCKLEY JUNIOR AND INFANT SCHOOL, SCHOOL LANE, AUCKLEY, DONCASTER, DN9 3JN\", \"OBJECTID\": 2366, \"POLLINGPLA\": \"Auckley Junior & Infant School, School Lane, DN9 3JN\", \"POLLING_DI\": \"KA\", \"UPRN\": \"10006576581\", \"WARD\": \"Finningley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.0186080844944305, 53.49921245593191], \"type\": \"Point\"}, \"id\": 2366, \"properties\": {\"ADDRESS\": \"Auckley Parish Centre, St Saviours Church, Main Street, DN9 3HH\", \"OBJECTID\": 2366, \"POLLINGPLA\": \"Auckley Parish Centre, St Saviours Church, Main Street, DN9 3HH\", \"POLLING_DI\": \"KA\", \"UPRN\": \"10006576581\", \"WARD\": \"Finningley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "CHURCH HALL, WELFARE ROAD, WOODLANDS, DONCASTER, DN6 7QG",
@@ -1490,14 +1490,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1512051025714118, 53.50770334681156], \"type\": \"Point\"}, \"id\": 2463, \"properties\": {\"ADDRESS\": \"CHURCH HALL, GREENFIELD LANE, BALBY, DONCASTER, DN4 0PT\", \"OBJECTID\": 2463, \"POLLINGPLA\": \"St Johns Scout Headquarters, Greenfield Lane, DN4 0PT\", \"POLLING_DI\": \"AE\", \"UPRN\": \"10006617544\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "GREEN TOP PRIMARY SCHOOL, SOUTHFIELD ROAD, THORNE, DONCASTER, DN8 5LB",
+        "ADDRESS": "Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE",
         "OBJECTID": 2464,
-        "POLLINGPLA": "Green Top Primary School, Middlebrook Lane, DN8 5LB",
+        "POLLINGPLA": "Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE",
         "POLLING_DI": "QA",
         "UPRN": "10006577617",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9586918377254295, 53.608204182780646], \"type\": \"Point\"}, \"id\": 2464, \"properties\": {\"ADDRESS\": \"GREEN TOP PRIMARY SCHOOL, SOUTHFIELD ROAD, THORNE, DONCASTER, DN8 5LB\", \"OBJECTID\": 2464, \"POLLINGPLA\": \"Green Top Primary School, Middlebrook Lane, DN8 5LB\", \"POLLING_DI\": \"QA\", \"UPRN\": \"10006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9591602921968834, 53.60781195968924], \"type\": \"Point\"}, \"id\": 2464, \"properties\": {\"ADDRESS\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE\", \"OBJECTID\": 2464, \"POLLINGPLA\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE\", \"POLLING_DI\": \"QA\", \"UPRN\": \"10006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "YOUTH CLUB, MARIAN ROAD, EDENTHORPE, DONCASTER, DN3 2PT",
