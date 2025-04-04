@@ -720,24 +720,6 @@
         "pk": 213
     },
     {
-        "ACCESS_DESRIPTION": "Lawrence Weston Road",
-        "DUAL": "No",
-        "DUAL_STN": "",
-        "LOCALITY": "Lawrence Weston",
-        "LOCATION_NAME": "Lawrence Weston Youth Centre",
-        "OBJECTID": 214,
-        "PAO": "Lawrence Weston Road entrance",
-        "POLLING_DISTRICT": "AVLE",
-        "POSTCODE": "BS11 0RX",
-        "SAON": "",
-        "STREET": "Long Cross",
-        "UPRN": 6458,
-        "UPRN_2": "000000006458",
-        "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6537222334985615, 51.504947961346026], \"type\": \"Point\"}, \"id\": 214, \"properties\": {\"ACCESS_DESRIPTION\": \"Lawrence Weston Road\", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Lawrence Weston\", \"LOCATION_NAME\": \"Lawrence Weston Youth Centre\", \"OBJECTID\": 214, \"PAO\": \"Lawrence Weston Road entrance\", \"POLLING_DISTRICT\": \"AVLE\", \"POSTCODE\": \"BS11 0RX\", \"SAON\": \" \", \"STREET\": \"Long Cross\", \"UPRN\": 6458, \"UPRN_2\": \"000000006458\"}, \"type\": \"Feature\"}",
-        "pk": 214
-    },
-    {
         "ACCESS_DESRIPTION": "",
         "DUAL": "No",
         "DUAL_STN": null,
@@ -865,8 +847,8 @@
     },
     {
         "ACCESS_DESRIPTION": "",
-        "DUAL": "No",
-        "DUAL_STN": "",
+        "DUAL": "Yes",
+        "DUAL_STN": "Used by AVLD and AVLE",
         "LOCALITY": "Lawrence Weston",
         "LOCATION_NAME": "The Rock Community Centre",
         "OBJECTID": 222,
@@ -878,7 +860,7 @@
         "UPRN": 369576,
         "UPRN_2": "000000369576",
         "council_id": "BST",
-        "geometry": "{\"geometry\": {\"coordinates\": [-2.6576596610323415, 51.50275752819857], \"type\": \"Point\"}, \"id\": 222, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"No\", \"DUAL_STN\": \" \", \"LOCALITY\": \"Lawrence Weston\", \"LOCATION_NAME\": \"The Rock Community Centre\", \"OBJECTID\": 222, \"PAO\": \"St Peters Hall\", \"POLLING_DISTRICT\": \"AVLD\", \"POSTCODE\": \"BS11 0QE\", \"SAON\": \" \", \"STREET\": \"Ridingleaze\", \"UPRN\": 369576, \"UPRN_2\": \"000000369576\"}, \"type\": \"Feature\"}",
+        "geometry": "{\"geometry\": {\"coordinates\": [-2.6576596610323415, 51.50275752819857], \"type\": \"Point\"}, \"id\": 222, \"properties\": {\"ACCESS_DESRIPTION\": \" \", \"DUAL\": \"Yes\", \"DUAL_STN\": \"Used by AVLD and AVLE\", \"LOCALITY\": \"Lawrence Weston\", \"LOCATION_NAME\": \"The Rock Community Centre\", \"OBJECTID\": 222, \"PAO\": \"St Peters Hall\", \"POLLING_DISTRICT\": \"AVLD\", \"POSTCODE\": \"BS11 0QE\", \"SAON\": \" \", \"STREET\": \"Ridingleaze\", \"UPRN\": 369576, \"UPRN_2\": \"000000369576\"}, \"type\": \"Feature\"}",
         "pk": 222
     },
     {
