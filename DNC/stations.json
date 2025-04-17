@@ -12,12 +12,12 @@
     {
         "ADDRESS": "VILLA GARDENS COMMUNAL HALL, HALL VILLA LANE, TOLL BAR, DONCASTER, DN5 0LQ",
         "OBJECTID": 2316,
-        "POLLINGPLA": "Villa Gardens Community Centre, Villa Gardens, DN5 0LG",
+        "POLLINGPLA": "Villa Gardens Community Centre, Villa Gardens, DN5 0LQ",
         "POLLING_DI": "NG",
         "UPRN": "100051981884",
         "WARD": "Bentley Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1552215401889634, 53.56656240419464], \"type\": \"Point\"}, \"id\": 2316, \"properties\": {\"ADDRESS\": \"VILLA GARDENS COMMUNAL HALL, HALL VILLA LANE, TOLL BAR, DONCASTER, DN5 0LQ\", \"OBJECTID\": 2316, \"POLLINGPLA\": \"Villa Gardens Community Centre, Villa Gardens, DN5 0LG\", \"POLLING_DI\": \"NG\", \"UPRN\": \"100051981884\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1552215401889634, 53.56656240419464], \"type\": \"Point\"}, \"id\": 2316, \"properties\": {\"ADDRESS\": \"VILLA GARDENS COMMUNAL HALL, HALL VILLA LANE, TOLL BAR, DONCASTER, DN5 0LQ\", \"OBJECTID\": 2316, \"POLLINGPLA\": \"Villa Gardens Community Centre, Villa Gardens, DN5 0LQ\", \"POLLING_DI\": \"NG\", \"UPRN\": \"100051981884\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "ALL SAINTS CHURCH, EVELYN AVENUE, INTAKE, DONCASTER, DN2 6LW",
@@ -970,14 +970,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-1.1468344091579363, 53.54664705350497], \"type\": \"Point\"}, \"id\": 2411, \"properties\": {\"ADDRESS\": \"BENTLEY METHODIST CHURCH HALL, CHAPEL STREET, BENTLEY, DONCASTER, DN5 0DE\", \"OBJECTID\": 2411, \"POLLINGPLA\": \"Bentley Methodist Church Hall, Chapel Street, DN5 0DE\", \"POLLING_DI\": \"NF\", \"UPRN\": \"10006629490\", \"WARD\": \"Bentley Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "PAVILION, TOWN FIELD, THORNE ROAD, DONCASTER, DN1 2JR",
+        "ADDRESS": "St Mary`s Church, St Mary`s Road, DN1 2NR",
         "OBJECTID": 2412,
-        "POLLINGPLA": "Town Field Pavilion, Thorne Road, DN1 2JR",
+        "POLLINGPLA": "St Mary`s Church, St Mary`s Road, DN1 2NR",
         "POLLING_DI": "CH",
         "UPRN": "10006621982",
         "WARD": "Town Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1208539326167621, 53.526576032605085], \"type\": \"Point\"}, \"id\": 2412, \"properties\": {\"ADDRESS\": \"PAVILION, TOWN FIELD, THORNE ROAD, DONCASTER, DN1 2JR\", \"OBJECTID\": 2412, \"POLLINGPLA\": \"Town Field Pavilion, Thorne Road, DN1 2JR\", \"POLLING_DI\": \"CH\", \"UPRN\": \"10006621982\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1242014281256798, 53.52940693513552], \"type\": \"Point\"}, \"id\": 2412, \"properties\": {\"ADDRESS\": \"St Mary`s Church, St Mary`s Road, DN1 2NR\", \"OBJECTID\": 2412, \"POLLINGPLA\": \"St Mary`s Church, St Mary`s Road, DN1 2NR\", \"POLLING_DI\": \"CH\", \"UPRN\": \"10006621982\", \"WARD\": \"Town Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "ROWENA NURSERY AND INFANT SCHOOL, GARDENS LANE, CONISBROUGH, DONCASTER, DN12 3JY",
@@ -1102,12 +1102,12 @@
     {
         "ADDRESS": "DAY CARE AND RESOURCE CENTRE, 84, TRAVIS GARDENS, HEXTHORPE, DONCASTER, DN4 0DP",
         "OBJECTID": 2425,
-        "POLLINGPLA": "Travis Gardens Communal Hall, Travis Gardens, DN4 0DR",
+        "POLLINGPLA": "Travis Gardens Communal Hall, Travis Gardens, DN4 0DP",
         "POLLING_DI": "AC",
         "UPRN": "100051979796",
         "WARD": "Hexthorpe and Balby North Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1550008368580649, 53.51548745366914], \"type\": \"Point\"}, \"id\": 2425, \"properties\": {\"ADDRESS\": \"DAY CARE AND RESOURCE CENTRE, 84, TRAVIS GARDENS, HEXTHORPE, DONCASTER, DN4 0DP\", \"OBJECTID\": 2425, \"POLLINGPLA\": \"Travis Gardens Communal Hall, Travis Gardens, DN4 0DR\", \"POLLING_DI\": \"AC\", \"UPRN\": \"100051979796\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1550008368580649, 53.51548745366914], \"type\": \"Point\"}, \"id\": 2425, \"properties\": {\"ADDRESS\": \"DAY CARE AND RESOURCE CENTRE, 84, TRAVIS GARDENS, HEXTHORPE, DONCASTER, DN4 0DP\", \"OBJECTID\": 2425, \"POLLINGPLA\": \"Travis Gardens Communal Hall, Travis Gardens, DN4 0DP\", \"POLLING_DI\": \"AC\", \"UPRN\": \"100051979796\", \"WARD\": \"Hexthorpe and Balby North Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "THE BURGHWALLIS, SCORCHER HILLS LANE, BURGHWALLIS, DONCASTER, DN6 9JT",
@@ -1492,12 +1492,12 @@
     {
         "ADDRESS": "Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE",
         "OBJECTID": 2464,
-        "POLLINGPLA": "Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE",
+        "POLLINGPLA": "Green Top Primary School Nursery Building, Ash Tree Road, DN8 5LL",
         "POLLING_DI": "QA",
         "UPRN": "10006577617",
         "WARD": "Thorne and Moorends Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-0.9591602921968834, 53.60781195968924], \"type\": \"Point\"}, \"id\": 2464, \"properties\": {\"ADDRESS\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE\", \"OBJECTID\": 2464, \"POLLINGPLA\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE\", \"POLLING_DI\": \"QA\", \"UPRN\": \"10006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-0.9591602921968834, 53.60781195968924], \"type\": \"Point\"}, \"id\": 2464, \"properties\": {\"ADDRESS\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5AE\", \"OBJECTID\": 2464, \"POLLINGPLA\": \"Green Top Primary School Nursery Building, Ash Tree Road, DN8 5LL\", \"POLLING_DI\": \"QA\", \"UPRN\": \"10006577617\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "YOUTH CLUB, MARIAN ROAD, EDENTHORPE, DONCASTER, DN3 2PT",
@@ -1590,14 +1590,14 @@
         "geometry": "{\"geometry\": {\"coordinates\": [-0.9567793111961611, 53.61773350190951], \"type\": \"Point\"}, \"id\": 2473, \"properties\": {\"ADDRESS\": \"THORNE KING EDWARD ROAD PRIMARY SCHOOL, KING EDWARD ROAD, THORNE, DONCASTER, DN8 4BY\", \"OBJECTID\": 2473, \"POLLINGPLA\": \"King Edward Primary School, King Edward Road, DN8 4BY\", \"POLLING_DI\": \"QD\", \"UPRN\": \"100052182627\", \"WARD\": \"Thorne and Moorends Ward\"}, \"type\": \"Feature\"}"
     },
     {
-        "ADDRESS": "ST PAUL'S CHURCH, DURHAM ROAD, WHEATLEY, DONCASTER, DN2 4HN",
+        "ADDRESS": "St Paul`s Church Hall, Durham Road, Wheatley, DN2 4HN",
         "OBJECTID": 2474,
-        "POLLINGPLA": "St Paul`s Church Hall, Parkway North, DN2 4HW",
+        "POLLINGPLA": "St Paul`s Church Hall, Durham Road, Wheatley, DN2 4HN",
         "POLLING_DI": "DJ",
         "UPRN": "10006617593",
         "WARD": "Wheatley Hills and Intake Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1107651247960517, 53.53795301866561], \"type\": \"Point\"}, \"id\": 2474, \"properties\": {\"ADDRESS\": \"ST PAUL'S CHURCH, DURHAM ROAD, WHEATLEY, DONCASTER, DN2 4HN\", \"OBJECTID\": 2474, \"POLLINGPLA\": \"St Paul`s Church Hall, Parkway North, DN2 4HW\", \"POLLING_DI\": \"DJ\", \"UPRN\": \"10006617593\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1107651247960517, 53.53795301866561], \"type\": \"Point\"}, \"id\": 2474, \"properties\": {\"ADDRESS\": \"St Paul`s Church Hall, Durham Road, Wheatley, DN2 4HN\", \"OBJECTID\": 2474, \"POLLINGPLA\": \"St Paul`s Church Hall, Durham Road, Wheatley, DN2 4HN\", \"POLLING_DI\": \"DJ\", \"UPRN\": \"10006617593\", \"WARD\": \"Wheatley Hills and Intake Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "COMMUNITY CENTRE, 92, ELM GREEN LANE, CONISBROUGH, DONCASTER, DN12 3HS",
@@ -1662,12 +1662,12 @@
     {
         "ADDRESS": "WOMENS INSTITUTE, HUT YARD, LOVERSALL, DONCASTER, DN11 9DE",
         "OBJECTID": 2481,
-        "POLLINGPLA": "Womens Institute Hut, Main Street, DN11 9EE",
+        "POLLINGPLA": "Womens Institute Hut, Hut Yard, DN11 9DE",
         "POLLING_DI": "IC",
         "UPRN": "100051962801",
         "WARD": "Tickhill and Wadsworth Ward",
         "council_id": "DNC",
-        "geometry": "{\"geometry\": {\"coordinates\": [-1.1368528904070445, 53.48234233713777], \"type\": \"Point\"}, \"id\": 2481, \"properties\": {\"ADDRESS\": \"WOMENS INSTITUTE, HUT YARD, LOVERSALL, DONCASTER, DN11 9DE\", \"OBJECTID\": 2481, \"POLLINGPLA\": \"Womens Institute Hut, Main Street, DN11 9EE\", \"POLLING_DI\": \"IC\", \"UPRN\": \"100051962801\", \"WARD\": \"Tickhill and Wadsworth Ward\"}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [-1.1368528904070445, 53.48234233713777], \"type\": \"Point\"}, \"id\": 2481, \"properties\": {\"ADDRESS\": \"WOMENS INSTITUTE, HUT YARD, LOVERSALL, DONCASTER, DN11 9DE\", \"OBJECTID\": 2481, \"POLLINGPLA\": \"Womens Institute Hut, Hut Yard, DN11 9DE\", \"POLLING_DI\": \"IC\", \"UPRN\": \"100051962801\", \"WARD\": \"Tickhill and Wadsworth Ward\"}, \"type\": \"Feature\"}"
     },
     {
         "ADDRESS": "HIGHWOODS COMMUNITY CENTRE, HIGHWOODS ROAD, MEXBOROUGH, DONCASTER, S64 9ES",
