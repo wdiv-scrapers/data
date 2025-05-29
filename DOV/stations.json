@@ -117,7 +117,7 @@
         "Station_Address": "Park Avenue, Deal, CT14 9UU",
         "UPRN": 10034889753,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3976280398619954, 51.21816699354941], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/uP9M4DnFbtvY3hrM6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 8, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD2\", \"Polling_Station\": \"Deal Family Hub\", \"Station_Address\": \"Park Avenue, Deal, CT14 9UU\", \"UPRN\": 10034889753}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.397694736679071, 51.21815639366443], \"type\": \"Point\"}, \"id\": 8, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/uP9M4DnFbtvY3hrM6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 8, \"Parish\": \"Deal\", \"Parish_Ward\": \"Deal (Middle Deal Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"AMD2\", \"Polling_Station\": \"Deal Family Hub\", \"Station_Address\": \"Park Avenue, Deal, CT14 9UU\", \"UPRN\": 10034889753}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
@@ -627,7 +627,7 @@
         "Station_Address": "The Drove, Northbourne, CT14 0LW",
         "UPRN": 10034875650,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3414185600139794, 51.22264642863752], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hxNH6gDSB5W9CMPQ8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 42, \"Parish\": \"Northbourne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNR\", \"Polling_Station\": \"Northbourne Parish Hall\", \"Station_Address\": \"The Drove, Northbourne, CT14 0LW\", \"UPRN\": 10034875650}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3414185600139794, 51.222646429558345], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hxNH6gDSB5W9CMPQ8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 42, \"Parish\": \"Northbourne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNR\", \"Polling_Station\": \"Northbourne Parish Hall\", \"Station_Address\": \"The Drove, Northbourne, CT14 0LW\", \"UPRN\": 10034875650}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
