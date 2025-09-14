@@ -32,9 +32,9 @@
             "order": 0,
             "origin": "barnet/dataset/2z3pv/2019-10-03T15:34:35/LBBPollingStationList-2019.csv",
             "size": 8507,
-            "timeFrame": {
-                "gte": "2019-09",
-                "lte": "2019-09"
+            "timeframe": {
+                "from": "2019-09",
+                "to": "2019-09"
             },
             "title": "Polling Stations",
             "url": "https://open.barnet.gov.uk/download/2z3pv/w9n/LBBPollingStationList-2019.csv"
