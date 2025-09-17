@@ -465,10 +465,25 @@
         "geometry": "{\"geometry\": {\"coordinates\": [1.2019184393784312, 51.224370314994324], \"type\": \"Point\"}, \"id\": 31, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/wbGu3J2q3ovvHTM37\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 31, \"Parish\": \"Aylesham\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PAY1\", \"Polling_Station\": \"Aylesham Baptist Free Church\", \"Station_Address\": \"Dorman Avenue South, Aylesham, CT3 3AA\", \"UPRN\": 10034879411}, \"type\": \"Feature\"}"
     },
     {
+        "County_Division": "Dover North",
+        "District_Ward": "Aylesham, Eythorne and Shepherdswell",
+        "Link": "<u><a href=\"https://goo.gl/maps/HWJYym9kjcMAzAhj6\" target=\"_blank\">Directions to your polling station</a></u>",
+        "OBJECTID": 32,
+        "Parish": "Aylesham",
+        "Parish_Ward": null,
+        "Parliament": "Dover and Deal",
+        "Polling_District": "PAY2",
+        "Polling_Station": "St Finbarr's Church",
+        "Station_Address": "Market Place, Aylesham, CT3 3EZ",
+        "UPRN": 100062298508,
+        "council_id": "DOV",
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2028431750773056, 51.22613498890277], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/HWJYym9kjcMAzAhj6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 32, \"Parish\": \"Aylesham\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PAY2\", \"Polling_Station\": \"St Finbarr's Church\", \"Station_Address\": \"Market Place, Aylesham, CT3 3EZ\", \"UPRN\": 100062298508}, \"type\": \"Feature\"}"
+    },
+    {
         "County_Division": "Dover West",
         "District_Ward": "Alkham and Capel-le-Ferne",
         "Link": "<u><a href=\"https://goo.gl/maps/LnJT4JMoPnjmTute9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 32,
+        "OBJECTID": 33,
         "Parish": "Capel-le-Ferne",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -477,13 +492,13 @@
         "Station_Address": "Lancaster Avenue, Capel Le Ferne, CT18 7LX",
         "UPRN": 10094395171,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2129142948574476, 51.10491262208785], \"type\": \"Point\"}, \"id\": 32, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Alkham and Capel-le-Ferne\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/LnJT4JMoPnjmTute9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 32, \"Parish\": \"Capel-le-Ferne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PCF\", \"Polling_Station\": \"Capel-le-Ferne Village Hall (Small Hall)\", \"Station_Address\": \"Lancaster Avenue, Capel Le Ferne, CT18 7LX\", \"UPRN\": 10094395171}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2129142948574476, 51.10491262208785], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Alkham and Capel-le-Ferne\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/LnJT4JMoPnjmTute9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 33, \"Parish\": \"Capel-le-Ferne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PCF\", \"Polling_Station\": \"Capel-le-Ferne Village Hall (Small Hall)\", \"Station_Address\": \"Lancaster Avenue, Capel Le Ferne, CT18 7LX\", \"UPRN\": 10094395171}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Dover Downs and River",
         "Link": "<u><a href=\"https://goo.gl/maps/Zz6mifmCGRsJoQh97\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 33,
+        "OBJECTID": 34,
         "Parish": "Denton with Wootton",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -492,13 +507,13 @@
         "Station_Address": "The Street, Denton, CT4 6QZ",
         "UPRN": 10034874104,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.1677508537868129, 51.18073075504659], \"type\": \"Point\"}, \"id\": 33, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/Zz6mifmCGRsJoQh97\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 33, \"Parish\": \"Denton with Wootton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PDD\", \"Polling_Station\": \"Denton Village Hall\", \"Station_Address\": \"The Street, Denton, CT4 6QZ\", \"UPRN\": 10034874104}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.1677508537868129, 51.18073075504659], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/Zz6mifmCGRsJoQh97\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 34, \"Parish\": \"Denton with Wootton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PDD\", \"Polling_Station\": \"Denton Village Hall\", \"Station_Address\": \"The Street, Denton, CT4 6QZ\", \"UPRN\": 10034874104}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Dover Downs and River",
         "Link": "<u><a href=\"https://goo.gl/maps/jYUTXSqrbjW5nRyf7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 34,
+        "OBJECTID": 35,
         "Parish": "Denton with Wootton",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -507,13 +522,13 @@
         "Station_Address": "Wootton Lane, Wootton, CT4 6RP",
         "UPRN": 100062299413,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.1783465277462897, 51.17306264020879], \"type\": \"Point\"}, \"id\": 34, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/jYUTXSqrbjW5nRyf7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 34, \"Parish\": \"Denton with Wootton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PDW\", \"Polling_Station\": \"Wootton Village Hall\", \"Station_Address\": \"Wootton Lane, Wootton, CT4 6RP\", \"UPRN\": 100062299413}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.1783465277462897, 51.17306264020879], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/jYUTXSqrbjW5nRyf7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 35, \"Parish\": \"Denton with Wootton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PDW\", \"Polling_Station\": \"Wootton Village Hall\", \"Station_Address\": \"Wootton Lane, Wootton, CT4 6RP\", \"UPRN\": 100062299413}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/BHFv4CV3T5D5sxfu5\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 35,
+        "OBJECTID": 36,
         "Parish": "Eastry",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -522,13 +537,13 @@
         "Station_Address": "High Street, Eastry, CT13 0HD",
         "UPRN": 10094395177,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3074682787391465, 51.24699821802291], \"type\": \"Point\"}, \"id\": 35, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BHFv4CV3T5D5sxfu5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 35, \"Parish\": \"Eastry\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEA\", \"Polling_Station\": \"Eastry Village Hall\", \"Station_Address\": \"High Street, Eastry, CT13 0HD\", \"UPRN\": 10094395177}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3074682787391465, 51.24699821802291], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BHFv4CV3T5D5sxfu5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 36, \"Parish\": \"Eastry\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEA\", \"Polling_Station\": \"Eastry Village Hall\", \"Station_Address\": \"High Street, Eastry, CT13 0HD\", \"UPRN\": 10094395177}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/W67PRrLaeKZTUxHL7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 36,
+        "OBJECTID": 37,
         "Parish": "Eythorne",
         "Parish_Ward": "Eythorne (Eythorne Ward)",
         "Parliament": "Dover and Deal",
@@ -537,13 +552,13 @@
         "Station_Address": "St John's Road, Elvington, CT15 4DZ",
         "UPRN": 100062287322,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.259347018591532, 51.208968437720216], \"type\": \"Point\"}, \"id\": 36, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/W67PRrLaeKZTUxHL7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 36, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX3\", \"Polling_Station\": \"Elvington Community Centre\", \"Station_Address\": \"St John's Road, Elvington, CT15 4DZ\", \"UPRN\": 100062287322}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.259347018591532, 51.208968437720216], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/W67PRrLaeKZTUxHL7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 37, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX3\", \"Polling_Station\": \"Elvington Community Centre\", \"Station_Address\": \"St John's Road, Elvington, CT15 4DZ\", \"UPRN\": 100062287322}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/zMGLEUyZTHw4KdBN7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 37,
+        "OBJECTID": 38,
         "Parish": "Great Mongeham",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -552,13 +567,13 @@
         "Station_Address": "170 Mongeham Road, Great Mongeham, CT14 9LL",
         "UPRN": 100062286719,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.36553929284282, 51.215550523053466], \"type\": \"Point\"}, \"id\": 37, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/zMGLEUyZTHw4KdBN7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 37, \"Parish\": \"Great Mongeham\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PGM\", \"Polling_Station\": \"Great Mongeham Parish Hall\", \"Station_Address\": \"170 Mongeham Road, Great Mongeham, CT14 9LL\", \"UPRN\": 100062286719}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.36553929284282, 51.215550523053466], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/zMGLEUyZTHw4KdBN7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 38, \"Parish\": \"Great Mongeham\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PGM\", \"Polling_Station\": \"Great Mongeham Parish Hall\", \"Station_Address\": \"170 Mongeham Road, Great Mongeham, CT14 9LL\", \"UPRN\": 100062286719}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Alkham and Capel-le-Ferne",
         "Link": "<u><a href=\"https://goo.gl/maps/1EfZX4btFuhWUQmE6\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 38,
+        "OBJECTID": 39,
         "Parish": "Hougham Without",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -567,13 +582,13 @@
         "Station_Address": "The Street, West Hougham, CT15 7BG",
         "UPRN": 10034877140,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2350944718691244, 51.11564373903647], \"type\": \"Point\"}, \"id\": 38, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Alkham and Capel-le-Ferne\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/1EfZX4btFuhWUQmE6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 38, \"Parish\": \"Hougham Without\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PHM\", \"Polling_Station\": \"Hougham Village Hall\", \"Station_Address\": \"The Street, West Hougham, CT15 7BG\", \"UPRN\": 10034877140}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2350944718691244, 51.11564373903647], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Alkham and Capel-le-Ferne\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/1EfZX4btFuhWUQmE6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 39, \"Parish\": \"Hougham Without\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PHM\", \"Polling_Station\": \"Hougham Village Hall\", \"Station_Address\": \"The Street, West Hougham, CT15 7BG\", \"UPRN\": 10034877140}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/ShUiBgvfDzTUZTaq8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 39,
+        "OBJECTID": 40,
         "Parish": "Langdon",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -582,13 +597,13 @@
         "Station_Address": "The Street, East Langdon, CT15 5JH",
         "UPRN": 100062287557,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3397601447048386, 51.16830372591072], \"type\": \"Point\"}, \"id\": 39, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/ShUiBgvfDzTUZTaq8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 39, \"Parish\": \"Langdon\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PLG\", \"Polling_Station\": \"East Langdon Parish Hall\", \"Station_Address\": \"The Street, East Langdon, CT15 5JH\", \"UPRN\": 100062287557}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3397601447048386, 51.16830372591072], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/ShUiBgvfDzTUZTaq8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 40, \"Parish\": \"Langdon\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PLG\", \"Polling_Station\": \"East Langdon Parish Hall\", \"Station_Address\": \"The Street, East Langdon, CT15 5JH\", \"UPRN\": 100062287557}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/Lcw7CKhQFhQ82Ww7A\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 40,
+        "OBJECTID": 41,
         "Parish": "Nonington",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -597,13 +612,13 @@
         "Station_Address": "Easole Street, Nonington, CT15 4HA",
         "UPRN": 100062620457,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2357025402037023, 51.223234106247375], \"type\": \"Point\"}, \"id\": 40, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/Lcw7CKhQFhQ82Ww7A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 40, \"Parish\": \"Nonington\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNN\", \"Polling_Station\": \"Nonington Village Hall\", \"Station_Address\": \"Easole Street, Nonington, CT15 4HA\", \"UPRN\": 100062620457}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2357025402037023, 51.223234106247375], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/Lcw7CKhQFhQ82Ww7A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 41, \"Parish\": \"Nonington\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNN\", \"Polling_Station\": \"Nonington Village Hall\", \"Station_Address\": \"Easole Street, Nonington, CT15 4HA\", \"UPRN\": 100062620457}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/hxNH6gDSB5W9CMPQ8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 41,
+        "OBJECTID": 42,
         "Parish": "Northbourne",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -612,13 +627,13 @@
         "Station_Address": "The Drove, Northbourne, CT14 0LW",
         "UPRN": 10034875650,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3414185600139794, 51.222646429558345], \"type\": \"Point\"}, \"id\": 41, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hxNH6gDSB5W9CMPQ8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 41, \"Parish\": \"Northbourne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNR\", \"Polling_Station\": \"Northbourne Parish Hall\", \"Station_Address\": \"The Drove, Northbourne, CT14 0LW\", \"UPRN\": 10034875650}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3414185600139794, 51.222646429558345], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/hxNH6gDSB5W9CMPQ8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 42, \"Parish\": \"Northbourne\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PNR\", \"Polling_Station\": \"Northbourne Parish Hall\", \"Station_Address\": \"The Drove, Northbourne, CT14 0LW\", \"UPRN\": 10034875650}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/qYddvehcHHYzUf9J6\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 42,
+        "OBJECTID": 43,
         "Parish": "Ringwould with Kingsdown",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -627,13 +642,13 @@
         "Station_Address": "Dover Road, Ringwould, Deal, Kent, CT14 8HE",
         "UPRN": 10034875711,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3779842822003134, 51.18501279657454], \"type\": \"Point\"}, \"id\": 42, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/qYddvehcHHYzUf9J6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 42, \"Parish\": \"Ringwould with Kingsdown\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRG\", \"Polling_Station\": \"Ringwould Village Hall\", \"Station_Address\": \"Dover Road, Ringwould, Deal, Kent, CT14 8HE\", \"UPRN\": 10034875711}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3779842822003134, 51.18501279657454], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/qYddvehcHHYzUf9J6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 43, \"Parish\": \"Ringwould with Kingsdown\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRG\", \"Polling_Station\": \"Ringwould Village Hall\", \"Station_Address\": \"Dover Road, Ringwould, Deal, Kent, CT14 8HE\", \"UPRN\": 10034875711}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/SwHKunvda2mkKhVKA\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 43,
+        "OBJECTID": 44,
         "Parish": "Ringwould with Kingsdown",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -642,13 +657,13 @@
         "Station_Address": "Glen Road, Kingsdown, Deal, Kent, CT14 8DD",
         "UPRN": 100062286573,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3959998428549374, 51.185732232789555], \"type\": \"Point\"}, \"id\": 43, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SwHKunvda2mkKhVKA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 43, \"Parish\": \"Ringwould with Kingsdown\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRK\", \"Polling_Station\": \"Kingsdown & Ringwould CE School\", \"Station_Address\": \"Glen Road, Kingsdown, Deal, Kent, CT14 8DD\", \"UPRN\": 100062286573}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3959998428549374, 51.185732232789555], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SwHKunvda2mkKhVKA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 44, \"Parish\": \"Ringwould with Kingsdown\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRK\", \"Polling_Station\": \"Kingsdown & Ringwould CE School\", \"Station_Address\": \"Glen Road, Kingsdown, Deal, Kent, CT14 8DD\", \"UPRN\": 100062286573}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/KmcFsC7wUSSypTPKA\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 44,
+        "OBJECTID": 45,
         "Parish": "Ripple",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -657,13 +672,13 @@
         "Station_Address": "Sutton Road, Ripple, Deal, Kent, CT14 8JA",
         "UPRN": 10034883847,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.356716307029615, 51.20018842492953], \"type\": \"Point\"}, \"id\": 44, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KmcFsC7wUSSypTPKA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 44, \"Parish\": \"Ripple\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRP\", \"Polling_Station\": \"Ripple Village Hall\", \"Station_Address\": \"Sutton Road, Ripple, Deal, Kent, CT14 8JA\", \"UPRN\": 10034883847}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.356716307029615, 51.20018842492953], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KmcFsC7wUSSypTPKA\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 45, \"Parish\": \"Ripple\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRP\", \"Polling_Station\": \"Ripple Village Hall\", \"Station_Address\": \"Sutton Road, Ripple, Deal, Kent, CT14 8JA\", \"UPRN\": 10034883847}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover Town",
         "District_Ward": "Dover Downs and River",
         "Link": "<u><a href=\"https://goo.gl/maps/wA76rNmurvtQ4H1d7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 45,
+        "OBJECTID": 46,
         "Parish": "River",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -672,13 +687,13 @@
         "Station_Address": "Common Lane, River, Kent, CT17 0RA",
         "UPRN": 100062620487,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2767532008888127, 51.14450925089368], \"type\": \"Point\"}, \"id\": 45, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/wA76rNmurvtQ4H1d7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 45, \"Parish\": \"River\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRV\", \"Polling_Station\": \"River Village Hall\", \"Station_Address\": \"Common Lane, River, Kent, CT17 0RA\", \"UPRN\": 100062620487}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2767532008888127, 51.14450925089368], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"County_Division\": \"Dover Town\", \"District_Ward\": \"Dover Downs and River\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/wA76rNmurvtQ4H1d7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 46, \"Parish\": \"River\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PRV\", \"Polling_Station\": \"River Village Hall\", \"Station_Address\": \"Common Lane, River, Kent, CT17 0RA\", \"UPRN\": 100062620487}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/m5rgHVqUzpti91bz7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 46,
+        "OBJECTID": 47,
         "Parish": "Sholden",
         "Parish_Ward": "Sholden (Sholden Ward)",
         "Parliament": "Dover and Deal",
@@ -687,13 +702,13 @@
         "Station_Address": "The Street, Sholden, Deal, Kent, CT14 0AL",
         "UPRN": 100062285029,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3749248528841589, 51.222269319968724], \"type\": \"Point\"}, \"id\": 46, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/m5rgHVqUzpti91bz7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 46, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Sholden Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHE\", \"Polling_Station\": \"Scout H.Q\", \"Station_Address\": \"The Street, Sholden, Deal, Kent, CT14 0AL\", \"UPRN\": 100062285029}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3749248528841589, 51.222269319968724], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/m5rgHVqUzpti91bz7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 47, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Sholden Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHE\", \"Polling_Station\": \"Scout H.Q\", \"Station_Address\": \"The Street, Sholden, Deal, Kent, CT14 0AL\", \"UPRN\": 100062285029}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
         "District_Ward": "Middle Deal",
         "Link": "<u><a href=\"https://goo.gl/maps/9oJBZaokXw4MZ4qB9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 47,
+        "OBJECTID": 48,
         "Parish": "Sholden",
         "Parish_Ward": "Sholden (Hyton Ward)",
         "Parliament": "Dover and Deal",
@@ -702,13 +717,13 @@
         "Station_Address": "Birdwood Avenue, Deal, Kent, CT14 9SF",
         "UPRN": 100062619921,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.381486088327791, 51.21934534067571], \"type\": \"Point\"}, \"id\": 47, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/9oJBZaokXw4MZ4qB9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 47, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Hyton Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHM\", \"Polling_Station\": \"Warden House School\", \"Station_Address\": \"Birdwood Avenue, Deal, Kent, CT14 9SF\", \"UPRN\": 100062619921}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.381486088327791, 51.21934534067571], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"Middle Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/9oJBZaokXw4MZ4qB9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 48, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Hyton Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHM\", \"Polling_Station\": \"Warden House School\", \"Station_Address\": \"Birdwood Avenue, Deal, Kent, CT14 9SF\", \"UPRN\": 100062619921}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Deal & Walmer",
         "District_Ward": "North Deal",
         "Link": "<u><a href=\"https://goo.gl/maps/vbymtCRTqT2fmTNV6\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 48,
+        "OBJECTID": 49,
         "Parish": "Sholden",
         "Parish_Ward": "Sholden (Tenants Hill Ward)",
         "Parliament": "Dover and Deal",
@@ -717,13 +732,13 @@
         "Station_Address": "Golf Road, Deal, Kent, CT14 6PY",
         "UPRN": 10034885484,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.230086553980655], \"type\": \"Point\"}, \"id\": 48, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/vbymtCRTqT2fmTNV6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 48, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Tenants Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHN\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3994515481059229, 51.230086553980655], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"County_Division\": \"Deal & Walmer\", \"District_Ward\": \"North Deal\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/vbymtCRTqT2fmTNV6\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 49, \"Parish\": \"Sholden\", \"Parish_Ward\": \"Sholden (Tenants Hill Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSHN\", \"Polling_Station\": \"The Golf Road Centre\", \"Station_Address\": \"Golf Road, Deal, Kent, CT14 6PY\", \"UPRN\": 10034885484}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 49,
+        "OBJECTID": 50,
         "Parish": "Shepherdswell with Coldred",
         "Parish_Ward": "Shepherdswell with Coldred (Shepherdswell Ward)",
         "Parliament": "Dover and Deal",
@@ -732,13 +747,13 @@
         "Station_Address": "Coxhill, Shepherdswell, Kent, CT15 7NN",
         "UPRN": 100062620660,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2293354669208283, 51.18568515953915], \"type\": \"Point\"}, \"id\": 49, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 49, \"Parish\": \"Shepherdswell with Coldred\", \"Parish_Ward\": \"Shepherdswell with Coldred (Shepherdswell Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSL1\", \"Polling_Station\": \"Shepherdswell Village Hall\", \"Station_Address\": \"Coxhill, Shepherdswell, Kent, CT15 7NN\", \"UPRN\": 100062620660}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2293354669208283, 51.18568515953915], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 50, \"Parish\": \"Shepherdswell with Coldred\", \"Parish_Ward\": \"Shepherdswell with Coldred (Shepherdswell Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSL1\", \"Polling_Station\": \"Shepherdswell Village Hall\", \"Station_Address\": \"Coxhill, Shepherdswell, Kent, CT15 7NN\", \"UPRN\": 100062620660}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 50,
+        "OBJECTID": 51,
         "Parish": "Shepherdswell with Coldred",
         "Parish_Ward": "Shepherdswell with Coldred (Coldred Ward)",
         "Parliament": "Dover and Deal",
@@ -747,13 +762,13 @@
         "Station_Address": "Coxhill, Shepherdswell, Kent, CT15 7NN",
         "UPRN": 100062620660,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2293354669208283, 51.18568515953915], \"type\": \"Point\"}, \"id\": 50, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 50, \"Parish\": \"Shepherdswell with Coldred\", \"Parish_Ward\": \"Shepherdswell with Coldred (Coldred Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSL2\", \"Polling_Station\": \"Shepherdswell Village Hall\", \"Station_Address\": \"Coxhill, Shepherdswell, Kent, CT15 7NN\", \"UPRN\": 100062620660}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2293354669208283, 51.18568515953915], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RfKXBAUeKxUkUZiP9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 51, \"Parish\": \"Shepherdswell with Coldred\", \"Parish_Ward\": \"Shepherdswell with Coldred (Coldred Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSL2\", \"Polling_Station\": \"Shepherdswell Village Hall\", \"Station_Address\": \"Coxhill, Shepherdswell, Kent, CT15 7NN\", \"UPRN\": 100062620660}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Guston, Kingsdown and St Margaret's at Cliffe",
         "Link": "<u><a href=\"https://goo.gl/maps/BPXJF25biu1tieqK9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 51,
+        "OBJECTID": 52,
         "Parish": "St Margaret's at Cliffe",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -762,13 +777,13 @@
         "Station_Address": "Reach Road, St Margarets At Cliffe, Kent, CT15 6AE",
         "UPRN": 10034876481,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3711526894191537, 51.15201677458923], \"type\": \"Point\"}, \"id\": 51, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BPXJF25biu1tieqK9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 51, \"Parish\": \"St Margaret's at Cliffe\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSM\", \"Polling_Station\": \"St Margaret's-at-Cliffe Village Hall\", \"Station_Address\": \"Reach Road, St Margarets At Cliffe, Kent, CT15 6AE\", \"UPRN\": 10034876481}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3711526894191537, 51.15201677458923], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Guston, Kingsdown and St Margaret's at Cliffe\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BPXJF25biu1tieqK9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 52, \"Parish\": \"St Margaret's at Cliffe\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSM\", \"Polling_Station\": \"St Margaret's-at-Cliffe Village Hall\", \"Station_Address\": \"Reach Road, St Margarets At Cliffe, Kent, CT15 6AE\", \"UPRN\": 10034876481}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/k4ztQpPsZqw4w9Y59\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 52,
+        "OBJECTID": 53,
         "Parish": "Sutton",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -777,13 +792,13 @@
         "Station_Address": "Downs Road, East Studdal, Kent, CT15 5BX",
         "UPRN": 10034888848,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3160733291080637, 51.19826226529129], \"type\": \"Point\"}, \"id\": 52, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/k4ztQpPsZqw4w9Y59\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 52, \"Parish\": \"Sutton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSU\", \"Polling_Station\": \"Sutton Parish Community Centre\", \"Station_Address\": \"Downs Road, East Studdal, Kent, CT15 5BX\", \"UPRN\": 10034888848}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3160733291080637, 51.19826226529129], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/k4ztQpPsZqw4w9Y59\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 53, \"Parish\": \"Sutton\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PSU\", \"Polling_Station\": \"Sutton Parish Community Centre\", \"Station_Address\": \"Downs Road, East Studdal, Kent, CT15 5BX\", \"UPRN\": 10034888848}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover North",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/HeuwZ6GLoQ7aHpAJ7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 53,
+        "OBJECTID": 54,
         "Parish": "Tilmanstone",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -792,13 +807,13 @@
         "Station_Address": "Chapel Road, Tilmanstone, Kent, CT14 0JF",
         "UPRN": 100062620723,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.298265333357533, 51.212519199357146], \"type\": \"Point\"}, \"id\": 53, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/HeuwZ6GLoQ7aHpAJ7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 53, \"Parish\": \"Tilmanstone\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PTI\", \"Polling_Station\": \"Tilmanstone Village Hall\", \"Station_Address\": \"Chapel Road, Tilmanstone, Kent, CT14 0JF\", \"UPRN\": 100062620723}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.298265333357533, 51.212519199357146], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"County_Division\": \"Dover North\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/HeuwZ6GLoQ7aHpAJ7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 54, \"Parish\": \"Tilmanstone\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PTI\", \"Polling_Station\": \"Tilmanstone Village Hall\", \"Station_Address\": \"Chapel Road, Tilmanstone, Kent, CT14 0JF\", \"UPRN\": 100062620723}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Whitfield",
         "Link": "<u><a href=\"https://goo.gl/maps/SyRbTkpLUZqCirpj8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 54,
+        "OBJECTID": 55,
         "Parish": "Whitfield",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -807,13 +822,13 @@
         "Station_Address": "Sandwich Road, Whitfield, Kent, CT16 3LY",
         "UPRN": 10094395170,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.290369406747888, 51.15841117071071], \"type\": \"Point\"}, \"id\": 54, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SyRbTkpLUZqCirpj8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 54, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH1\", \"Polling_Station\": \"Whitfield Village Hall\", \"Station_Address\": \"Sandwich Road, Whitfield, Kent, CT16 3LY\", \"UPRN\": 10094395170}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.290369406747888, 51.15841117071071], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SyRbTkpLUZqCirpj8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 55, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH1\", \"Polling_Station\": \"Whitfield Village Hall\", \"Station_Address\": \"Sandwich Road, Whitfield, Kent, CT16 3LY\", \"UPRN\": 10094395170}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Whitfield",
         "Link": "<u><a href=\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 55,
+        "OBJECTID": 56,
         "Parish": "Whitfield",
         "Parish_Ward": null,
         "Parliament": "Dover and Deal",
@@ -822,13 +837,13 @@
         "Station_Address": "Melbourne Avenue, Dover, CT16 2EG",
         "UPRN": 100062289416,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963999258], \"type\": \"Point\"}, \"id\": 55, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 55, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH2\", \"Polling_Station\": \"Dover Christ Church Academy\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.300153968797793, 51.15039963999258], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Whitfield\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/KvCfPhSsW9C2SNgp9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 56, \"Parish\": \"Whitfield\", \"Parish_Ward\": null, \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWH2\", \"Polling_Station\": \"Dover Christ Church Academy\", \"Station_Address\": \"Melbourne Avenue, Dover, CT16 2EG\", \"UPRN\": 100062289416}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/SkEUUmGR52Kbtc1u8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 56,
+        "OBJECTID": 57,
         "Parish": "Ash",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -837,13 +852,13 @@
         "Station_Address": "Queens Road, Ash, CT3 2BG",
         "UPRN": 100062298491,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2799969264911757, 51.279443087848826], \"type\": \"Point\"}, \"id\": 56, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SkEUUmGR52Kbtc1u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 56, \"Parish\": \"Ash\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XAS\", \"Polling_Station\": \"Ash Village Hall (Main Hall)\", \"Station_Address\": \"Queens Road, Ash, CT3 2BG\", \"UPRN\": 100062298491}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2799969264911757, 51.279443087848826], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/SkEUUmGR52Kbtc1u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 57, \"Parish\": \"Ash\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XAS\", \"Polling_Station\": \"Ash Village Hall (Main Hall)\", \"Station_Address\": \"Queens Road, Ash, CT3 2BG\", \"UPRN\": 100062298491}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/AHT8kERUbFHBbEt18\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 57,
+        "OBJECTID": 58,
         "Parish": "Goodnestone",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -852,13 +867,13 @@
         "Station_Address": "The Street, Goodnestone, CT3 1PQ",
         "UPRN": 10034883684,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.230677246260247, 51.246786691973945], \"type\": \"Point\"}, \"id\": 57, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/AHT8kERUbFHBbEt18\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 57, \"Parish\": \"Goodnestone\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XGD\", \"Polling_Station\": \"Goodnestone Village Hall\", \"Station_Address\": \"The Street, Goodnestone, CT3 1PQ\", \"UPRN\": 10034883684}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.230677246260247, 51.246786691973945], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/AHT8kERUbFHBbEt18\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 58, \"Parish\": \"Goodnestone\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XGD\", \"Polling_Station\": \"Goodnestone Village Hall\", \"Station_Address\": \"The Street, Goodnestone, CT3 1PQ\", \"UPRN\": 10034883684}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/RLykzYKiHZ5aeZEv8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "Parish": "Preston",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -867,13 +882,13 @@
         "Station_Address": "Mill Lane, Preston, CT3 1HB",
         "UPRN": 100062298104,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2284908734981388, 51.30268766282103], \"type\": \"Point\"}, \"id\": 58, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RLykzYKiHZ5aeZEv8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 58, \"Parish\": \"Preston\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XPR\", \"Polling_Station\": \"Preston Village Hall\", \"Station_Address\": \"Mill Lane, Preston, CT3 1HB\", \"UPRN\": 100062298104}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2284908734981388, 51.30268766282103], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/RLykzYKiHZ5aeZEv8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 59, \"Parish\": \"Preston\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XPR\", \"Polling_Station\": \"Preston Village Hall\", \"Station_Address\": \"Mill Lane, Preston, CT3 1HB\", \"UPRN\": 100062298104}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://goo.gl/maps/UUA64PsZvTuhqN98A\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 59,
+        "OBJECTID": 60,
         "Parish": "Sandwich",
         "Parish_Ward": "Sandwich (Sandwich South Ward)",
         "Parliament": "Herne Bay and Sandwich",
@@ -882,13 +897,13 @@
         "Station_Address": "Jubilee Road, Sandwich, CT13 0QP",
         "UPRN": 100062284542,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.273048327718215], \"type\": \"Point\"}, \"id\": 59, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 59, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3353532939361816, 51.273048327718215], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UUA64PsZvTuhqN98A\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 60, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich South Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSB\", \"Polling_Station\": \"The Jubilee Centre (formally known as The Phoenix Centre)\", \"Station_Address\": \"Jubilee Road, Sandwich, CT13 0QP\", \"UPRN\": 100062284542}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 60,
+        "OBJECTID": 61,
         "Parish": "Staple",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -897,13 +912,13 @@
         "Station_Address": "Mill Road, Staple, CT3 1LB",
         "UPRN": 100062298105,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2589448987144973, 51.261852144987884], \"type\": \"Point\"}, \"id\": 60, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 60, \"Parish\": \"Staple\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSP\", \"Polling_Station\": \"Staple Village Hall\", \"Station_Address\": \"Mill Road, Staple, CT3 1LB\", \"UPRN\": 100062298105}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2589448987144973, 51.261852144987884], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WC3C9bQB9Sxqwu4u8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 61, \"Parish\": \"Staple\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSP\", \"Polling_Station\": \"Staple Village Hall\", \"Station_Address\": \"Mill Road, Staple, CT3 1LB\", \"UPRN\": 100062298105}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 61,
+        "OBJECTID": 62,
         "Parish": "Stourmouth",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -912,13 +927,13 @@
         "Station_Address": "The Street, Stourmouth, CT3 1HY",
         "UPRN": 100060886285,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.248432246613722, 51.31603327044401], \"type\": \"Point\"}, \"id\": 61, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 61, \"Parish\": \"Stourmouth\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XST\", \"Polling_Station\": \"The Rising Sun Inn\", \"Station_Address\": \"The Street, Stourmouth, CT3 1HY\", \"UPRN\": 100060886285}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.248432246613722, 51.31603327044401], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/oTKKhsG9qo2brbTM8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 62, \"Parish\": \"Stourmouth\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XST\", \"Polling_Station\": \"The Rising Sun Inn\", \"Station_Address\": \"The Street, Stourmouth, CT3 1HY\", \"UPRN\": 100060886285}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Little Stour and Ashstone",
         "Link": "<u><a href=\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 62,
+        "OBJECTID": 63,
         "Parish": "Wingham",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -927,13 +942,13 @@
         "Station_Address": "School Lane, Wingham, CT3 1BD",
         "UPRN": 100062620816,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.2132047248520668, 51.27017784497466], \"type\": \"Point\"}, \"id\": 62, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 62, \"Parish\": \"Wingham\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWG\", \"Polling_Station\": \"Wingham Village Hall\", \"Station_Address\": \"School Lane, Wingham, CT3 1BD\", \"UPRN\": 100062620816}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.2132047248520668, 51.27017784497466], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Little Stour and Ashstone\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/GCSGzgDyvf1TPXza8\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 63, \"Parish\": \"Wingham\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWG\", \"Polling_Station\": \"Wingham Village Hall\", \"Station_Address\": \"School Lane, Wingham, CT3 1BD\", \"UPRN\": 100062620816}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 63,
+        "OBJECTID": 64,
         "Parish": "Woodnesborough",
         "Parish_Ward": null,
         "Parliament": "Herne Bay and Sandwich",
@@ -942,13 +957,13 @@
         "Station_Address": "Elmwood Park, Woodnesborough, CT13 0FB",
         "UPRN": 10034888695,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3104139331534432, 51.26463739440807], \"type\": \"Point\"}, \"id\": 63, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 63, \"Parish\": \"Woodnesborough\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWN\", \"Polling_Station\": \"Woodnesborough Village Hall\", \"Station_Address\": \"Elmwood Park, Woodnesborough, CT13 0FB\", \"UPRN\": 10034888695}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3104139331534432, 51.26463739440807], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/BnBfDhsW1ZC6wJSo7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 64, \"Parish\": \"Woodnesborough\", \"Parish_Ward\": null, \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWN\", \"Polling_Station\": \"Woodnesborough Village Hall\", \"Station_Address\": \"Elmwood Park, Woodnesborough, CT13 0FB\", \"UPRN\": 10034888695}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Eastry Rural",
         "Link": "<u><a href=\"https://goo.gl/maps/gbyJf5v26hNZehmz5\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 64,
+        "OBJECTID": 65,
         "Parish": "Worth",
         "Parish_Ward": "Worth (Worth Village Ward)",
         "Parliament": "Dover and Deal",
@@ -957,13 +972,13 @@
         "Station_Address": "The Street, Worth, CT14 0DE",
         "UPRN": 10034877758,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3460744175504682, 51.25598062224719], \"type\": \"Point\"}, \"id\": 64, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/gbyJf5v26hNZehmz5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 64, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Worth Village Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWR\", \"Polling_Station\": \"Worth Parish Hall\", \"Station_Address\": \"The Street, Worth, CT14 0DE\", \"UPRN\": 10034877758}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3460744175504682, 51.25598062224719], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Eastry Rural\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/gbyJf5v26hNZehmz5\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 65, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Worth Village Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PWR\", \"Polling_Station\": \"Worth Parish Hall\", \"Station_Address\": \"The Street, Worth, CT14 0DE\", \"UPRN\": 10034877758}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 65,
+        "OBJECTID": 66,
         "Parish": "Worth",
         "Parish_Ward": "Worth (Sandwich Bay Ward)",
         "Parliament": "Herne Bay and Sandwich",
@@ -972,13 +987,13 @@
         "Station_Address": "Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 65, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 65, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/UMDpbmAb4PxS5nHB7\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Worth\", \"Parish_Ward\": \"Worth (Sandwich Bay Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XWR\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 66,
+        "OBJECTID": 67,
         "Parish": "Eythorne",
         "Parish_Ward": "Eythorne (Eythorne Ward)",
         "Parliament": "Dover and Deal",
@@ -987,13 +1002,13 @@
         "Station_Address": "Chapel Hill, Eythorne, CT15 4AY",
         "UPRN": 10034875300,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.266005613194616, 51.198645356063885], \"type\": \"Point\"}, \"id\": 66, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 66, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX1\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.266005613194616, 51.198645356063885], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 67, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Eythorne Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX1\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Dover West",
         "District_Ward": "Aylesham, Eythorne and Shepherdswell",
         "Link": "<u><a href=\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 67,
+        "OBJECTID": 68,
         "Parish": "Eythorne",
         "Parish_Ward": "Eythorne (Barfrestone Ward)",
         "Parliament": "Dover and Deal",
@@ -1002,13 +1017,13 @@
         "Station_Address": "Chapel Hill, Eythorne, CT15 4AY",
         "UPRN": 10034875300,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.266005613194616, 51.198645356063885], \"type\": \"Point\"}, \"id\": 67, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 67, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Barfrestone Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX2\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.266005613194616, 51.198645356063885], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"County_Division\": \"Dover West\", \"District_Ward\": \"Aylesham, Eythorne and Shepherdswell\", \"Link\": \"<u><a href=\\\"https://goo.gl/maps/WXpcY5E2cp3JfPsu9\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 68, \"Parish\": \"Eythorne\", \"Parish_Ward\": \"Eythorne (Barfrestone Ward)\", \"Parliament\": \"Dover and Deal\", \"Polling_District\": \"PEX2\", \"Polling_Station\": \"Eythorne Baptist Church Hall\", \"Station_Address\": \"Chapel Hill, Eythorne, CT15 4AY\", \"UPRN\": 10034875300}, \"type\": \"Feature\"}"
     },
     {
         "County_Division": "Sandwich",
         "District_Ward": "Sandwich",
         "Link": "<u><a href=\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\" target=\"_blank\">Directions to your polling station</a></u>",
-        "OBJECTID": 68,
+        "OBJECTID": 69,
         "Parish": "Sandwich",
         "Parish_Ward": "Sandwich (Sandwich North Ward)",
         "Parliament": "Herne Bay and Sandwich",
@@ -1017,6 +1032,6 @@
         "Station_Address": "Cattle Market, Sandwich, CT13 9AH",
         "UPRN": 100062284704,
         "council_id": "DOV",
-        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 68, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 68, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
+        "geometry": "{\"geometry\": {\"coordinates\": [1.3386215016246144, 51.27480814187237], \"type\": \"Point\"}, \"id\": 69, \"properties\": {\"County_Division\": \"Sandwich\", \"District_Ward\": \"Sandwich\", \"Link\": \"<u><a href=\\\"https://maps.app.goo.gl/xHatyN4WQckqtSZ19\\\" target=\\\"_blank\\\">Directions to your polling station</a></u>\", \"OBJECTID\": 69, \"Parish\": \"Sandwich\", \"Parish_Ward\": \"Sandwich (Sandwich North Ward)\", \"Parliament\": \"Herne Bay and Sandwich\", \"Polling_District\": \"XSA\", \"Polling_Station\": \"The Hub at the Guildhall\", \"Station_Address\": \"Cattle Market, Sandwich, CT13 9AH\", \"UPRN\": 100062284704}, \"type\": \"Feature\"}"
     }
 ]
