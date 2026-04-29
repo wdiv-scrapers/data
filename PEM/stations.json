@@ -665,32 +665,6 @@
     {
         "Constituency": "Mid and South Pembrokeshire",
         "County": "Pembrokeshire",
-        "DistrictRef": "DC0",
-        "EnwGorsaf": "Queens Hall Narberth Station 1",
-        "Inset": "",
-        "StationName": "Queens Hall Narberth Station 1",
-        "StationNum": 76,
-        "UPRN": 100101019426,
-        "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.74427813, 51.79939141], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.151\", \"properties\": {\"Constituency\": \"Mid and South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistrictRef\": \"DC0\", \"EnwGorsaf\": \"Queens Hall Narberth Station 1\", \"Inset\": \"\", \"StationName\": \"Queens Hall Narberth Station 1\", \"StationNum\": 76, \"UPRN\": 100101019426}, \"type\": \"Feature\"}",
-        "pk": "tblPollingStation.151"
-    },
-    {
-        "Constituency": "Mid and South Pembrokeshire",
-        "County": "Pembrokeshire",
-        "DistrictRef": "DC1, DC2",
-        "EnwGorsaf": "Queens Hall Narberth Station 2",
-        "Inset": "",
-        "StationName": "Queens Hall Narberth Station 2",
-        "StationNum": 77,
-        "UPRN": 100101019426,
-        "council_id": "PEM",
-        "geometry": "{\"geometry\": {\"coordinates\": [-4.74427813, 51.79939141], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.152\", \"properties\": {\"Constituency\": \"Mid and South Pembrokeshire\", \"County\": \"Pembrokeshire\", \"DistrictRef\": \"DC1, DC2\", \"EnwGorsaf\": \"Queens Hall Narberth Station 2\", \"Inset\": \"\", \"StationName\": \"Queens Hall Narberth Station 2\", \"StationNum\": 77, \"UPRN\": 100101019426}, \"type\": \"Feature\"}",
-        "pk": "tblPollingStation.152"
-    },
-    {
-        "Constituency": "Mid and South Pembrokeshire",
-        "County": "Pembrokeshire",
         "DistrictRef": "DD0",
         "EnwGorsaf": "Llawhaden Y.F.C. Hall",
         "Inset": "",
@@ -1103,6 +1077,32 @@
         "council_id": "PEM",
         "geometry": "{\"geometry\": {\"coordinates\": [-4.87124803, 51.96967916], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.185\", \"properties\": {\"Constituency\": \"Ceredigion Preseli\", \"County\": \"Pembrokeshire\", \"DistrictRef\": \"AP1\", \"EnwGorsaf\": \"Jabes Chapel Vestry\", \"Inset\": \"\", \"StationName\": \"Jabes Chapel Vestry\", \"StationNum\": 18, \"UPRN\": 10023953803}, \"type\": \"Feature\"}",
         "pk": "tblPollingStation.185"
+    },
+    {
+        "Constituency": "Ceredigion Penfro",
+        "County": "Pembrokeshire",
+        "DistrictRef": "DC1, DC2",
+        "EnwGorsaf": "Llyfrgell Gymunedol Arberth Gorsaf 2",
+        "Inset": "",
+        "StationName": "Narberth Community Library Station 2",
+        "StationNum": 153,
+        "UPRN": 10096056165,
+        "council_id": "PEM",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.74511373, 51.7996084], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.186\", \"properties\": {\"Constituency\": \"Ceredigion Penfro\", \"County\": \"Pembrokeshire\", \"DistrictRef\": \"DC1, DC2\", \"EnwGorsaf\": \"Llyfrgell Gymunedol Arberth Gorsaf 2\", \"Inset\": \"\", \"StationName\": \"Narberth Community Library Station 2\", \"StationNum\": 153, \"UPRN\": 10096056165}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.186"
+    },
+    {
+        "Constituency": "Ceredigion Penfro",
+        "County": "Pembrokeshire",
+        "DistrictRef": "DC0",
+        "EnwGorsaf": "Llyfrgell Gymunedol Arberth Gorsaf 1",
+        "Inset": "",
+        "StationName": "Narberth Community Library Station 1",
+        "StationNum": 152,
+        "UPRN": 10096056165,
+        "council_id": "PEM",
+        "geometry": "{\"geometry\": {\"coordinates\": [-4.74511373, 51.7996084], \"type\": \"Point\"}, \"geometry_name\": \"Geometry\", \"id\": \"tblPollingStation.187\", \"properties\": {\"Constituency\": \"Ceredigion Penfro\", \"County\": \"Pembrokeshire\", \"DistrictRef\": \"DC0\", \"EnwGorsaf\": \"Llyfrgell Gymunedol Arberth Gorsaf 1\", \"Inset\": \"\", \"StationName\": \"Narberth Community Library Station 1\", \"StationNum\": 152, \"UPRN\": 10096056165}, \"type\": \"Feature\"}",
+        "pk": "tblPollingStation.187"
     },
     {
         "Constituency": "Ceredigion Preseli",
